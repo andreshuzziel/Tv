@@ -40366,6 +40366,45 @@ window.CHANNELS = [
  "note": "Solo web: CNN en Español en vivo por su sitio/app oficial (señal 24h requiere operador; clips gratis en cnn.com/espanol)",
  "cc": "us",
  "chno": 1608
+},
+ {
+ "id": "quilicura-tv",
+ "name": "Quilicura TV (canal comunitario 42.1)",
+ "group": "Comunitarios",
+ "region": "Nacional",
+ "color": "#0d9488",
+ "abbr": "QUIL",
+ "url": "",
+ "web": "https://www.youtube.com/channel/UCv8Rol2gjlxlbZRDUjrnI1Q",
+ "note": "TV comunitaria de población Parinacota, Quilicura · emite 24h por YouTube (TVD 42.1/42.2) · verificado 01-nov-2026",
+ "cc": "cl",
+ "chno": 1503
+},
+ {
+ "id": "senal3-la-victoria",
+ "name": "Señal 3 La Victoria (canal 47.1)",
+ "group": "Comunitarios",
+ "region": "Nacional",
+ "color": "#0d9488",
+ "abbr": "S3LV",
+ "url": "",
+ "web": "https://canal3lavictoria.cl/senal-en-vivo-senal-3-la-victoria-12/",
+ "note": "Primer canal comunitario de Chile (1997) · señal en vivo en canal3lavictoria.cl y YouTube UCvrQj9UUs3fQ94xU7ceu7Dg",
+ "cc": "cl",
+ "chno": 1504
+},
+ {
+ "id": "cntv-infantil-comunitarios",
+ "name": "CNTV Infantil — Canales comunitarios",
+ "group": "Comunitarios",
+ "region": "Nacional",
+ "color": "#0d9488",
+ "abbr": "CNTV",
+ "url": "",
+ "web": "https://cntvinfantil.cl/canales-comunitarios/",
+ "note": "Directorio oficial CNTV de canales comunitarios de Chile (frecuencias y cobertura)",
+ "cc": "cl",
+ "chno": 1505
 }
 ];
 window.SPORTS = [

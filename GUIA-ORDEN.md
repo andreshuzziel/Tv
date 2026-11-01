@@ -1,6 +1,6 @@
 # 📖 GUIA-ORDEN — Guía de canales con números (LCN / tvg-chno)
 
-Generada: 01-nov-2026 · **3105 canales numerados** (de 3105 en el catálogo; 243 sin stream van solo a sitio oficial).
+Generada: 01-nov-2026 · **3108 canales numerados** (de 3108 en el catálogo; 246 sin stream van solo a sitio oficial).
 Cada canal lleva su número en `tvg-chno` dentro de `playlists/tv-chile-todo.m3u` → la app IPTV los ordena con esos números.
 **Orden de esta lista: por temática (igual que en la app) y, dentro de cada tema, números cronológicos ascendentes.**
 
@@ -1220,12 +1220,15 @@ Cada bloque arranca en el número indicado y dentro de él los canales van en **
 | 1499 | 🇵🇷 | WELU 8.1 | Religioso | Español (Latam/ES) |
 | 1500 | 🇪🇸 | Zoe Visión [No 24/7](Puerto Rico) | Religioso | Español (Latam/ES) |
 
-### 🤝 Comunitarios — 2 canales
+### 🤝 Comunitarios — 5 canales
 
 | # | Bandera | Canal | Grupo | Región/País |
 |---:|---|---|---|---|
 | 1501 | 🇨🇱 | ClickRadio.cl | Comunitarios | Nacional |
 | 1502 | 🇨🇱 | Pudahuel TV | Comunitarios | Nacional |
+| 1503 | 🇨🇱 | Quilicura TV (canal comunitario 42.1) — *(solo web: https://www.youtube.com/channel/UCv8Rol2gjlxlbZRDUjrnI1Q)* | Comunitarios | Nacional |
+| 1504 | 🇨🇱 | Señal 3 La Victoria (canal 47.1) — *(solo web: https://canal3lavictoria.cl/senal-en-vivo-senal-3-la-victoria-12/)* | Comunitarios | Nacional |
+| 1505 | 🇨🇱 | CNTV Infantil — Canales comunitarios — *(solo web: https://cntvinfantil.cl/canales-comunitarios/)* | Comunitarios | Nacional |
 
 ### 🌐 Internacionales — 8 canales
 
