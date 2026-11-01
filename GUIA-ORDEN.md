@@ -3139,5 +3139,8 @@ No son canales con stream: al abrirlos vas al sitio oficial (gratis con anuncios
 | 3114 | 🇨🇱 | Servicio Electoral de Chile (Servel) | Legislativo | Nacional |  *(solo web: YouTube oficial)*
 | 3115 | 🇨🇱 | Tribunal Constitucional de Chile | Legislativo | Nacional |  *(solo web: YouTube oficial)*
 
-> 🏛️ gob solo Chile: TV Senado #51 ahora con **señal oficial senado.cl** (`janus-tv-ply.senado.cl`, verificada 200 OK); + Poder Judicial, Servel y Tribunal Constitucional como enlaces web oficiales (YouTube), sin stream abierto verificado.
+> 🏛️ gob solo Chile (8): TV Senado #51 (stream oficial senado.cl + tv.senado.cl + @TVSENADOCHILE), TV Cámara #438 (CDTV: cdtv.cl + YouTube UCYd5k2TyOyOmUJNx0SH17KA), Gobierno #555, + web oficiales Poder Judicial #3113, Servel #3114, TC #3115, **BCN #3116 @CongresoChile**.
+
+> Anterior: TV Senado #51 ahora con **señal oficial senado.cl** (`janus-tv-ply.senado.cl`, verificada 200 OK); + Poder Judicial, Servel y Tribunal Constitucional como enlaces web oficiales (YouTube), sin stream abierto verificado.
+| 3116 | 🇨🇱 | Biblioteca del Congreso Nacional (BCN) | Legislativo | Nacional |  *(solo web: YouTube @CongresoChile · bcn.cl)*
 

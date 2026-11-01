@@ -205,8 +205,8 @@ window.CHANNELS = [
   "color": "#374151",
   "abbr": "TS",
   "url": "https://janus-tv-ply.senado.cl/playlist/playlist.m3u8",
-  "web": "https://tv.senado.cl/",
-  "note": "Canal oficial del Senado · 360p",
+  "web": "https://tv.senado.cl",
+  "note": "Canal oficial del Senado · 360p · web tv.senado.cl · YouTube @TVSENADOCHILE",
   "cc": "cl",
   "chno": 51
  },
@@ -4324,8 +4324,8 @@ window.CHANNELS = [
   "color": "hsl(17,58%,42%)",
   "abbr": "CDD",
   "url": "https://tls-cl.cdnz.cl/streamdiptudadosa/live/playlist.m3u8?PlaylistM3UCL",
-  "web": "https://www.camara.cl/",
-  "note": "vía m3u.cl (lista sanitizada)",
+  "web": "https://www.youtube.com/channel/UCYd5k2TyOyOmUJNx0SH17KA",
+  "note": "vía m3u.cl (lista sanitizada) · CDTV: cdtv.cl · YouTube Cámara de Diputados Televisión Chile",
   "cc": "cl",
   "chno": 438
  },
@@ -4337,7 +4337,7 @@ window.CHANNELS = [
   "color": "hsl(54,58%,42%)",
   "abbr": "TS",
   "url": "",
-  "web": "",
+  "web": "https://www.youtube.com/@TVSENADOCHILE",
   "note": "vía m3u.cl (lista sanitizada) · ⚠️ duplicado desactivado (mejor señal: #51)",
   "cc": "cl",
   "chno": 440
@@ -40136,7 +40136,8 @@ window.CHANNELS = [
  {"id": "la2-rtve", "name": "La 2 de TVE", "group": "Cultura", "region": "Nacional", "color": "#0891b2", "abbr": "LA2", "url": "https://rtvelivestream.rtve.es/rtvesec/la2/la2_main.m3u8", "web": "https://www.rtve.es/play/videos/la-2/", "note": "GRATIS oficial RTVE · cultura/documentales (verificado 200 OK 01-nov-2026)", "cc": "es", "chno": 3112},
  {"id": "poder-judicial-cl", "name": "Poder Judicial de Chile", "group": "Legislativo", "region": "Nacional", "color": "#475569", "abbr": "PJ", "url": "", "web": "https://www.youtube.com/@pjudicialchile", "note": "Solo web/YouTube oficial (sin stream abierto verificado) · abre el canal oficial", "cc": "cl", "chno": 3113},
  {"id": "servel-cl", "name": "Servicio Electoral de Chile (Servel)", "group": "Legislativo", "region": "Nacional", "color": "#475569", "abbr": "SERV", "url": "", "web": "https://www.youtube.com/channel/UCB8s6rETjmWgXrp_BxyXqdg", "note": "Solo web/YouTube oficial · elecciones en vivo", "cc": "cl", "chno": 3114},
- {"id": "tribunal-constitucional-cl", "name": "Tribunal Constitucional de Chile", "group": "Legislativo", "region": "Nacional", "color": "#475569", "abbr": "TC", "url": "", "web": "https://www.youtube.com/channel/UCZaI-1N1oaGb-U8K2VNztjg", "note": "Solo web/YouTube oficial · sesiones y fallos", "cc": "cl", "chno": 3115}
+ {"id": "tribunal-constitucional-cl", "name": "Tribunal Constitucional de Chile", "group": "Legislativo", "region": "Nacional", "color": "#475569", "abbr": "TC", "url": "", "web": "https://www.youtube.com/channel/UCZaI-1N1oaGb-U8K2VNztjg", "note": "Solo web/YouTube oficial · sesiones y fallos", "cc": "cl", "chno": 3115} ,
+ {"id": "bcn-congreso-cl", "name": "Biblioteca del Congreso Nacional (BCN)", "group": "Legislativo", "region": "Nacional", "color": "#475569", "abbr": "BCN", "url": "", "web": "https://www.youtube.com/@CongresoChile", "note": "Servicio común del Senado y la Cámara · YouTube @CongresoChile · bcn.cl (LeyChile, acervo legislativo)", "cc": "cl", "chno": 3116}
 ];
 window.SPORTS = [
  {
