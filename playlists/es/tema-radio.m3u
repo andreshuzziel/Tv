@@ -45,13 +45,11 @@ https://mdstrm.com/live-stream-playlist/63a0674c1137d408b45d4821.m3u8?PlaylistM3
 https://scl.edge.grupoz.cl/uniaccastream/live/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="1669-radio-zona" tvg-name="Radio Zona" tvg-chno="1026" tvg-country="CL" group-title="Radio",Radio Zona
 https://tv.telselec.cl:3780/live/jesuslive.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="1301-radioactiva-tv" tvg-name="Radioactiva TV" tvg-chno="1027" tvg-country="CL" group-title="Radio",Radioactiva TV
-https://redirector.rudo.video/hls-video/339f69c6122f6d8f4574732c235f09b7683e31a5/radioactivatv/radioactivatv.smil/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="1716-ruidos-fm" tvg-name="Ruidos FM" tvg-chno="1028" tvg-country="CL" group-title="Radio",Ruidos FM
+#EXTINF:-1 tvg-id="1716-ruidos-fm" tvg-name="Ruidos FM" tvg-chno="1027" tvg-country="CL" group-title="Radio",Ruidos FM
 https://tv1.ruidosfm.cl/ruidosfm/stream.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="1541-sabrosona-tv" tvg-name="Sabrosona TV" tvg-chno="1029" tvg-country="CL" group-title="Radio",Sabrosona TV
+#EXTINF:-1 tvg-id="1541-sabrosona-tv" tvg-name="Sabrosona TV" tvg-chno="1028" tvg-country="CL" group-title="Radio",Sabrosona TV
 https://samson.streamerr.co:8081/sabrosonavideo/index.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="1611-suyai-radio" tvg-name="Suyai Radio" tvg-chno="1030" tvg-country="CL" group-title="Radio",Suyai Radio
+#EXTINF:-1 tvg-id="1611-suyai-radio" tvg-name="Suyai Radio" tvg-chno="1029" tvg-country="CL" group-title="Radio",Suyai Radio
 https://trun.suyaitv.cl/memfs/d0835165-7fb4-4982-8336-84a7f4522908.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="1198-t13-radio" tvg-name="T13 Radio" tvg-chno="1031" tvg-country="CL" group-title="Radio",T13 Radio
+#EXTINF:-1 tvg-id="1198-t13-radio" tvg-name="T13 Radio" tvg-chno="1030" tvg-country="CL" group-title="Radio",T13 Radio
 https://unlimited1-cl-isp.dps.live/t13radio/t13radio.smil/playlist.m3u8?PlaylistM3UCL

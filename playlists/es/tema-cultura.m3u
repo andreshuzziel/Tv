@@ -3,69 +3,57 @@
 https://verso.coopcom.cl/live/SHf6GLCpn4hDSpWdzaDzgX0ciU82/index.m3u8
 #EXTINF:-1 tvg-id="amp2-us-sd" tvg-name="AMP 2" tvg-chno="610" tvg-country="US" group-title="Cultura",AMP 2
 https://dlttx48mxf9m3.cloudfront.net/vod_clients/amp/live/ch2/video.m3u8
-#EXTINF:-1 tvg-id="asiritv-pe-sd" tvg-name="AsiriTV" tvg-chno="611" tvg-country="PE" group-title="Cultura",AsiriTV
-https://video2.lhdserver.es/asiritv/live.m3u8
-#EXTINF:-1 tvg-id="canal17rtvd-do-hd" tvg-name="Canal 17 RTVD" tvg-chno="612" tvg-country="DO" group-title="Cultura",Canal 17 RTVD
+#EXTINF:-1 tvg-id="canal17rtvd-do-hd" tvg-name="Canal 17 RTVD" tvg-chno="611" tvg-country="DO" group-title="Cultura",Canal 17 RTVD
 https://cdn.protvradiostream.com/rtvd17/ngrp:rtvd17_all/playlist.m3u8
-#EXTINF:-1 tvg-id="canaldiplomatico-ve-sd" tvg-name="Canal Diplomatico" tvg-chno="613" tvg-country="VE" group-title="Cultura",Canal Diplomatico
+#EXTINF:-1 tvg-id="canaldiplomatico-ve-sd" tvg-name="Canal Diplomatico" tvg-chno="612" tvg-country="VE" group-title="Cultura",Canal Diplomatico
 https://master.myplaytv.com:2020/hls/canaldiplomatico/canaldiplomatico.m3u8
-#EXTINF:-1 tvg-id="capital21-mx-sd" tvg-name="Capital 21" tvg-chno="614" tvg-country="MX" group-title="Cultura",Capital 21
+#EXTINF:-1 tvg-id="capital21-mx-sd" tvg-name="Capital 21" tvg-chno="613" tvg-country="MX" group-title="Cultura",Capital 21
 https://video.cdmx.gob.mx/redes/stream.m3u8
-#EXTINF:-1 tvg-id="catamarcatv-ar-sd" tvg-name="Catamarca TV" tvg-chno="615" tvg-country="AR" group-title="Cultura",Catamarca TV
+#EXTINF:-1 tvg-id="catamarcatv-ar-sd" tvg-name="Catamarca TV" tvg-chno="614" tvg-country="AR" group-title="Cultura",Catamarca TV
 https://stream.arcast.com.ar/canal7catamarca/ngrp:canal7catamarca_all/playlist.m3u8?DVR=
-#EXTINF:-1 tvg-id="chinatravel-cn-sd" tvg-name="China Travel" tvg-chno="616" tvg-country="CN" group-title="Cultura",China Travel
+#EXTINF:-1 tvg-id="chinatravel-cn-sd" tvg-name="China Travel" tvg-chno="615" tvg-country="CN" group-title="Cultura",China Travel
 https://fastlive.cctvplus.com/out/v1/ca6f9297b7314a63959435028af287fc/index.m3u8
-#EXTINF:-1 tvg-id="ciracutv-ec-sd" tvg-name="Ciracu TV" tvg-chno="617" tvg-country="EC" group-title="Cultura",Ciracu TV
+#EXTINF:-1 tvg-id="ciracutv-ec-sd" tvg-name="Ciracu TV" tvg-chno="616" tvg-country="EC" group-title="Cultura",Ciracu TV
 https://cloud37.ecuatel.com/ciracutv/live/manifest.m3u8
-#EXTINF:-1 tvg-id="classicartsshowcase-us-sd" tvg-name="Classic Arts Showcase" tvg-chno="618" tvg-country="US" group-title="Cultura",Classic Arts Showcase
+#EXTINF:-1 tvg-id="classicartsshowcase-us-sd" tvg-name="Classic Arts Showcase" tvg-chno="617" tvg-country="US" group-title="Cultura",Classic Arts Showcase
 https://classicarts.akamaized.net/hls/live/1024257/CAS/master.m3u8
-#EXTINF:-1 tvg-id="condavision-es-sd" tvg-name="Condavision" tvg-chno="619" tvg-country="ES" group-title="Cultura",Condavision
-https://5d8d85cf2c308.streamlock.net:1936/Condavision/endirecto/playlist.m3u8
-#EXTINF:-1 tvg-id="costaricachannel-cr-sd" tvg-name="Costa Rica Channel" tvg-chno="620" tvg-country="CR" group-title="Cultura",Costa Rica Channel
+#EXTINF:-1 tvg-id="costaricachannel-cr-sd" tvg-name="Costa Rica Channel" tvg-chno="618" tvg-country="CR" group-title="Cultura",Costa Rica Channel
 https://video0.rogohosting.com:19360/8006/8006.m3u8
-#EXTINF:-1 tvg-id="cultura24-pe-sd" tvg-name="Cultura 24" tvg-chno="621" tvg-country="PE" group-title="Cultura",Cultura 24
+#EXTINF:-1 tvg-id="cultura24-pe-sd" tvg-name="Cultura 24" tvg-chno="619" tvg-country="PE" group-title="Cultura",Cultura 24
 https://www.opencaster.com/resources/hls_stream/cultura24.m3u8
-#EXTINF:-1 tvg-id="diasporatv-pe-sd" tvg-name="Diaspora TV" tvg-chno="622" tvg-country="PE" group-title="Cultura",Diaspora TV
-https://s1.tvdatta.com:3978/live/diasporatvlive.m3u8
-#EXTINF:-1 tvg-id="discoveringchina-cn-sd" tvg-name="Discovering China" tvg-chno="623" tvg-country="CN" group-title="Cultura",Discovering China
+#EXTINF:-1 tvg-id="discoveringchina-cn-sd" tvg-name="Discovering China" tvg-chno="620" tvg-country="CN" group-title="Cultura",Discovering China
 https://fastlive.cctvplus.com/out/v1/8442c3bfd4c64a3984389328f6087879/index.m3u8
-#EXTINF:-1 tvg-id="elsonorense-mx-sd" tvg-name="El Sonorense" tvg-chno="624" tvg-country="MX" group-title="Cultura",El Sonorense
-https://s5.mexside.net:1936/elsonorense/elsonorense/playlist.m3u8
-#EXTINF:-1 tvg-id="guaymatetv-do-sd" tvg-name="Guaymate TV" tvg-chno="625" tvg-country="DO" group-title="Cultura",Guaymate TV
+#EXTINF:-1 tvg-id="guaymatetv-do-sd" tvg-name="Guaymate TV" tvg-chno="621" tvg-country="DO" group-title="Cultura",Guaymate TV
 https://live20.bozztv.com/akamaissh101/ssh101/guaymatetv/playlist.m3u8
-#EXTINF:-1 tvg-id="hamaikatelebista-es-sd" tvg-name="Hamaika Telebista" tvg-chno="626" tvg-country="ES" group-title="Cultura",Hamaika Telebista
+#EXTINF:-1 tvg-id="hamaikatelebista-es-sd" tvg-name="Hamaika Telebista" tvg-chno="622" tvg-country="ES" group-title="Cultura",Hamaika Telebista
 https://cdn3.wowza.com/1/RERMR282dnU5eE5Z/OHY0dVFs/hls/live/playlist.m3u8
-#EXTINF:-1 tvg-id="jaliscotv-mx-sd" tvg-name="Jalisco TV" tvg-chno="627" tvg-country="MX" group-title="Cultura",Jalisco TV
+#EXTINF:-1 tvg-id="jaliscotv-mx-sd" tvg-name="Jalisco TV" tvg-chno="623" tvg-country="MX" group-title="Cultura",Jalisco TV
 https://video0.rogohosting.com:19360/sisjalisciense/sisjalisciense.m3u8
-#EXTINF:-1 tvg-id="manavision-ec-sd" tvg-name="Manavision" tvg-chno="628" tvg-country="EC" group-title="Cultura",Manavision
+#EXTINF:-1 tvg-id="manavision-ec-sd" tvg-name="Manavision" tvg-chno="624" tvg-country="EC" group-title="Cultura",Manavision
 https://play.once.net.ec/play/Ily2oYdd3E1fi9wK2zORoRovFU9P5xM0g3CNVK2MT0M/.m3u8
-#EXTINF:-1 tvg-id="nhkworldjapan-jp-sd" tvg-name="NHK World-Japan" tvg-chno="629" tvg-country="JP" group-title="Cultura",NHK World-Japan
+#EXTINF:-1 tvg-id="nhkworldjapan-jp-sd" tvg-name="NHK World-Japan" tvg-chno="625" tvg-country="JP" group-title="Cultura",NHK World-Japan
 https://masterpl.hls.nhkworld.jp/hls/w/live/smarttv.m3u8
-#EXTINF:-1 tvg-id="nhkworldjapan-jp-hd" tvg-name="NHK World-Japan HD" tvg-chno="630" tvg-country="JP" group-title="Cultura",NHK World-Japan HD
+#EXTINF:-1 tvg-id="nhkworldjapan-jp-hd" tvg-name="NHK World-Japan HD" tvg-chno="626" tvg-country="JP" group-title="Cultura",NHK World-Japan HD
 https://freem3u.xyz/api/live/play.m3u8?vid=106
-#EXTINF:-1 tvg-id="ondambientaltv-co-sd" tvg-name="Ondambiental TV" tvg-chno="631" tvg-country="CO" group-title="Cultura",Ondambiental TV
+#EXTINF:-1 tvg-id="ondambientaltv-co-sd" tvg-name="Ondambiental TV" tvg-chno="627" tvg-country="CO" group-title="Cultura",Ondambiental TV
 https://stmv4.voxtvhd.com.br/ondastereo/ondastereo/playlist.m3u8
-#EXTINF:-1 tvg-id="presumiendomexico-mx-sd" tvg-name="Presumiendo Mexico" tvg-chno="632" tvg-country="MX" group-title="Cultura",Presumiendo Mexico
+#EXTINF:-1 tvg-id="presumiendomexico-mx-sd" tvg-name="Presumiendo Mexico" tvg-chno="628" tvg-country="MX" group-title="Cultura",Presumiendo Mexico
 https://60417ddeaf0d9.streamlock.net/telemetrika/smil:telemetrika.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="radio3-es-sd" tvg-name="Radio 3" tvg-chno="633" tvg-country="ES" group-title="Cultura",Radio 3
+#EXTINF:-1 tvg-id="radio3-es-sd" tvg-name="Radio 3" tvg-chno="629" tvg-country="ES" group-title="Cultura",Radio 3
 https://rtvelivestream.rtve.es/rtvesec/rne/rne3_main.m3u8
-#EXTINF:-1 tvg-id="radiosuyaitv-cl-hd" tvg-name="Radio Suyai TV" tvg-chno="634" tvg-country="CL" group-title="Cultura",Radio Suyai TV
+#EXTINF:-1 tvg-id="radiosuyaitv-cl-hd" tvg-name="Radio Suyai TV" tvg-chno="630" tvg-country="CL" group-title="Cultura",Radio Suyai TV
 https://cl-2.backend.energeek.cl/RadioSuyai-Neo/index.m3u8
-#EXTINF:-1 tvg-id="radiouniversitariasanandres-bo-sd" tvg-name="Radio Universitaria San Andres" tvg-chno="635" tvg-country="BO" group-title="Cultura",Radio Universitaria San Andres
+#EXTINF:-1 tvg-id="radiouniversitariasanandres-bo-sd" tvg-name="Radio Universitaria San Andres" tvg-chno="631" tvg-country="BO" group-title="Cultura",Radio Universitaria San Andres
 https://edge.enhdtv.com/8054/index.m3u8
-#EXTINF:-1 tvg-id="senalu-ar-sd" tvg-name="Senal U" tvg-chno="636" tvg-country="AR" group-title="Cultura",Senal U
+#EXTINF:-1 tvg-id="senalu-ar-sd" tvg-name="Senal U" tvg-chno="632" tvg-country="AR" group-title="Cultura",Senal U
 https://live20.bozztv.com/giatv/giatv-canal30tda/canal30tda/chunks.m3u8
-#EXTINF:-1 tvg-id="showventv-ve-sd" tvg-name="ShowVen TV" tvg-chno="637" tvg-country="VE" group-title="Cultura",ShowVen TV
+#EXTINF:-1 tvg-id="showventv-ve-sd" tvg-name="ShowVen TV" tvg-chno="633" tvg-country="VE" group-title="Cultura",ShowVen TV
 https://cdnbarinas.tvzamora.com/showven/index.m3u8
-#EXTINF:-1 tvg-id="somosentrerios-ar-sd" tvg-name="Somos Entre Rios" tvg-chno="638" tvg-country="AR" group-title="Cultura",Somos Entre Rios
-https://live20.bozztv.com/akamaissh101/ssh101/somosentrerios/playlist.m3u8
-#EXTINF:-1 tvg-id="tvcuatro42-mx-sd" tvg-name="TV Cuatro 4.2" tvg-chno="640" tvg-country="MX" group-title="Cultura",TV Cuatro 4.2
+#EXTINF:-1 tvg-id="tvcuatro42-mx-sd" tvg-name="TV Cuatro 4.2" tvg-chno="635" tvg-country="MX" group-title="Cultura",TV Cuatro 4.2
 https://5f2c1b0d880e5.streamlock.net/tv42/tv42.smil/.m3u8
-#EXTINF:-1 tvg-id="uaatv-mx-sd" tvg-name="UAA TV" tvg-chno="641" tvg-country="MX" group-title="Cultura",UAA TV
+#EXTINF:-1 tvg-id="uaatv-mx-sd" tvg-name="UAA TV" tvg-chno="636" tvg-country="MX" group-title="Cultura",UAA TV
 https://5fe2654d6127d.streamlock.net:443/uaa2/videouaa2/playlist.m3u8
-#EXTINF:-1 tvg-id="ucl-uy-sd" tvg-name="UCL" tvg-chno="642" tvg-country="UY" group-title="Cultura",UCL
-https://livedelta.cdn.antel.net.uy/out/u/url_canalu_2.m3u8?m=1670250741
-#EXTINF:-1 tvg-id="umsatvulp-bo-sd" tvg-name="UMSA TVU LP" tvg-chno="643" tvg-country="BO" group-title="Cultura",UMSA TVU LP
+#EXTINF:-1 tvg-id="umsatvulp-bo-sd" tvg-name="UMSA TVU LP" tvg-chno="637" tvg-country="BO" group-title="Cultura",UMSA TVU LP
 https://edge.enhdtv.com/8190/index.m3u8
-#EXTINF:-1 tvg-id="la2-rtve" tvg-name="La 2 de TVE" tvg-chno="692" tvg-country="ES" group-title="Cultura",La 2 de TVE
+#EXTINF:-1 tvg-id="la2-rtve" tvg-name="La 2 de TVE" tvg-chno="679" tvg-country="ES" group-title="Cultura",La 2 de TVE
 https://rtvelivestream.rtve.es/rtvesec/la2/la2_main.m3u8

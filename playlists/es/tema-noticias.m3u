@@ -17,271 +17,253 @@ https://redirector.dps.live/hls/pinguinotv/playlist.m3u8
 https://mdstrm.com/live-stream-playlist/561430ae330428c223687e1e.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="megano" tvg-name="Meganoticias Ahora" tvg-chno="109" tvg-country="CL" group-title="Noticias",Meganoticias Ahora
 https://mdstrm.com/live-stream-playlist/561430ae330428c223687e1e.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="opinionsur-cl-sd" tvg-name="Opinionsur" tvg-chno="110" tvg-country="CL" group-title="Noticias",Opinionsur
-https://183.bozztv.com/giatv/giatv-opinionsurc/opinionsurc/playlist.m3u8
-#EXTINF:-1 tvg-id="415-puranoticia" tvg-name="Puranoticia" tvg-chno="111" tvg-country="CL" group-title="Noticias",Puranoticia
+#EXTINF:-1 tvg-id="415-puranoticia" tvg-name="Puranoticia" tvg-chno="110" tvg-country="CL" group-title="Noticias",Puranoticia
 https://pnt.janusmedia.tv/hls/pnt.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="puranoticiatv-cl-sd" tvg-name="Puranoticia TV" tvg-chno="112" tvg-country="CL" group-title="Noticias",Puranoticia TV
+#EXTINF:-1 tvg-id="puranoticiatv-cl-sd" tvg-name="Puranoticia TV" tvg-chno="111" tvg-country="CL" group-title="Noticias",Puranoticia TV
 https://pnt.janusmedia.tv/hls/pnt.m3u8
-#EXTINF:-1 tvg-id="1054-t13" tvg-name="T13" tvg-chno="113" tvg-country="CL" group-title="Noticias",T13
+#EXTINF:-1 tvg-id="1054-t13" tvg-name="T13" tvg-chno="112" tvg-country="CL" group-title="Noticias",T13
 https://redirector.rudo.video/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/t13/t13.smil/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="t13" tvg-name="T13 En Vivo" tvg-chno="114" tvg-country="CL" group-title="Noticias",T13 En Vivo
+#EXTINF:-1 tvg-id="t13" tvg-name="T13 En Vivo" tvg-chno="113" tvg-country="CL" group-title="Noticias",T13 En Vivo
 https://redirector.dps.live/hls/t13/playlist.m3u8
-#EXTINF:-1 tvg-id="telecauquenes-cl-sd" tvg-name="TeleCauquenes" tvg-chno="115" tvg-country="CL" group-title="Noticias",TeleCauquenes
+#EXTINF:-1 tvg-id="telecauquenes-cl-sd" tvg-name="TeleCauquenes" tvg-chno="114" tvg-country="CL" group-title="Noticias",TeleCauquenes
 https://lbgo.bozztv.com/ssh101/ssh101/telecauquenestv/playlist.m3u8
-#EXTINF:-1 tvg-id="turno-cl-sd" tvg-name="Turno" tvg-chno="116" tvg-country="CL" group-title="Noticias",Turno
+#EXTINF:-1 tvg-id="turno-cl-sd" tvg-name="Turno" tvg-chno="115" tvg-country="CL" group-title="Noticias",Turno
 https://redirector.dps.live/hls/turno/playlist.m3u8
-#EXTINF:-1 tvg-id="448-tvn-24-horas" tvg-name="TVN 24 Horas" tvg-chno="117" tvg-country="CL" group-title="Noticias",TVN 24 Horas
+#EXTINF:-1 tvg-id="448-tvn-24-horas" tvg-name="TVN 24 Horas" tvg-chno="116" tvg-country="CL" group-title="Noticias",TVN 24 Horas
 https://mdstrm.com/live-stream-playlist/689ba606ecfe7915e1f8f741.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="101tvmalaga-es-sd" tvg-name="101tv Malaga" tvg-chno="118" tvg-country="ES" group-title="Noticias",101tv Malaga
+#EXTINF:-1 tvg-id="101tvmalaga-es-sd" tvg-name="101tv Malaga" tvg-chno="117" tvg-country="ES" group-title="Noticias",101tv Malaga
 https://liveingesta318.cdnmedia.tv/101weblive/smil:malaga.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="24horascatalunya-es-sd" tvg-name="24 Horas Catalunya" tvg-chno="120" tvg-country="ES" group-title="Noticias",24 Horas Catalunya
+#EXTINF:-1 tvg-id="24horascatalunya-es-sd" tvg-name="24 Horas Catalunya" tvg-chno="119" tvg-country="ES" group-title="Noticias",24 Horas Catalunya
 https://ztnr.rtve.es/ztnr/4952053.m3u8
-#EXTINF:-1 tvg-id="247canaldenoticias-ar-sd" tvg-name="24/7 Canal de Noticias" tvg-chno="121" tvg-country="AR" group-title="Noticias",24/7 Canal de Noticias
+#EXTINF:-1 tvg-id="247canaldenoticias-ar-sd" tvg-name="24/7 Canal de Noticias" tvg-chno="120" tvg-country="AR" group-title="Noticias",24/7 Canal de Noticias
 https://panel.host-live.com:19360/cn247tv/cn247tv.m3u8
-#EXTINF:-1 tvg-id="4dmasnoticiastv-py-sd" tvg-name="4Dmas Noticias TV" tvg-chno="122" tvg-country="PY" group-title="Noticias",4Dmas Noticias TV
-https://rds3.desdeparaguay.net/4dmasnoticiastv/4dmasnoticiastv/playlist.m3u8
-#EXTINF:-1 tvg-id="abcnewslive-us-sd" tvg-name="ABC News Live" tvg-chno="123" tvg-country="US" group-title="Noticias",ABC News Live
+#EXTINF:-1 tvg-id="abcnewslive-us-sd" tvg-name="ABC News Live" tvg-chno="121" tvg-country="US" group-title="Noticias",ABC News Live
 https://jmp2.uk/plu-6508be683a0d700008c534e4.m3u8
-#EXTINF:-1 tvg-id="acentotv-do-sd" tvg-name="Acento TV" tvg-chno="124" tvg-country="DO" group-title="Noticias",Acento TV
+#EXTINF:-1 tvg-id="acentotv-do-sd" tvg-name="Acento TV" tvg-chno="122" tvg-country="DO" group-title="Noticias",Acento TV
 https://acentotv01.streamprolive.com/hls/live.m3u8
-#EXTINF:-1 tvg-id="actualidad360-es-sd" tvg-name="Actualidad 360" tvg-chno="125" tvg-country="ES" group-title="Noticias",Actualidad 360
+#EXTINF:-1 tvg-id="actualidad360-es-sd" tvg-name="Actualidad 360" tvg-chno="123" tvg-country="ES" group-title="Noticias",Actualidad 360
 https://jmp2.uk/plu-67517fae5534bb0008187997.m3u8
-#EXTINF:-1 tvg-id="acustiktv-mx-sd" tvg-name="Acustik TV" tvg-chno="126" tvg-country="MX" group-title="Noticias",Acustik TV
+#EXTINF:-1 tvg-id="acustiktv-mx-sd" tvg-name="Acustik TV" tvg-chno="124" tvg-country="MX" group-title="Noticias",Acustik TV
 https://s5.mexside.net:1936/clientetv/clientetv/playlist.m3u8
-#EXTINF:-1 tvg-id="adn40-mx-sd" tvg-name="ADN 40" tvg-chno="127" tvg-country="MX" group-title="Noticias",ADN 40
+#EXTINF:-1 tvg-id="adn40-mx-sd" tvg-name="ADN 40" tvg-chno="125" tvg-country="MX" group-title="Noticias",ADN 40
 https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
-#EXTINF:-1 tvg-id="aire-de-santa-fe-santa-fe" tvg-name="Aire de Santa Fe (Santa Fe)" tvg-chno="128" tvg-country="ES" group-title="Noticias",Aire de Santa Fe (Santa Fe)
+#EXTINF:-1 tvg-id="aire-de-santa-fe-santa-fe" tvg-name="Aire de Santa Fe (Santa Fe)" tvg-chno="126" tvg-country="ES" group-title="Noticias",Aire de Santa Fe (Santa Fe)
 https://mdstrm.com/live-stream-playlist/6931a0eb06778645348008e0.m3u8
-#EXTINF:-1 tvg-id="aljazeera-qa-english" tvg-name="Al Jazeera English" tvg-chno="129" tvg-country="QA" group-title="Noticias",Al Jazeera English
+#EXTINF:-1 tvg-id="aljazeera-qa-english" tvg-name="Al Jazeera English" tvg-chno="127" tvg-country="QA" group-title="Noticias",Al Jazeera English
 https://live-hls-apps-aje-fa.getaj.net/AJE/index.m3u8
-#EXTINF:-1 tvg-id="amxnoticias-mx-sd" tvg-name="AMX Noticias" tvg-chno="130" tvg-country="MX" group-title="Noticias",AMX Noticias
+#EXTINF:-1 tvg-id="amxnoticias-mx-sd" tvg-name="AMX Noticias" tvg-chno="128" tvg-country="MX" group-title="Noticias",AMX Noticias
 https://5e50264bd6766.streamlock.net/mexiquense2/videomexiquense2/playlist.m3u8
-#EXTINF:-1 tvg-id="arirangun-kr-sd" tvg-name="Arirang UN" tvg-chno="131" tvg-country="KR" group-title="Noticias",Arirang UN
+#EXTINF:-1 tvg-id="arirangun-kr-sd" tvg-name="Arirang UN" tvg-chno="129" tvg-country="KR" group-title="Noticias",Arirang UN
 https://amdlive-ch02-ctnd-com.akamaized.net/arirang_2ch/smil:arirang_2ch.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="aznewstv-se-sd" tvg-name="Aznews TV" tvg-chno="132" tvg-country="SE" group-title="Noticias",Aznews TV
+#EXTINF:-1 tvg-id="aznewstv-se-sd" tvg-name="Aznews TV" tvg-chno="130" tvg-country="SE" group-title="Noticias",Aznews TV
 https://edge1.socialsmart.tv/aznews/smil/playlist.m3u8
-#EXTINF:-1 tvg-id="buendiatv-hn-sd" tvg-name="Buendia TV" tvg-chno="133" tvg-country="HN" group-title="Noticias",Buendia TV
+#EXTINF:-1 tvg-id="buendiatv-hn-sd" tvg-name="Buendia TV" tvg-chno="131" tvg-country="HN" group-title="Noticias",Buendia TV
 https://servilive.com:3508/stream/play.m3u8
-#EXTINF:-1 tvg-id="c9n-py-sd" tvg-name="C9N" tvg-chno="134" tvg-country="PY" group-title="Noticias",C9N
+#EXTINF:-1 tvg-id="c9n-py-sd" tvg-name="C9N" tvg-chno="132" tvg-country="PY" group-title="Noticias",C9N
 https://d2b5h5wyivfnfl.cloudfront.net/live/48f53430-9014-4459-a048-6169dac14140/ts:abr.m3u8
-#EXTINF:-1 tvg-id="canal-2000-la-solana-hd-ciudad-real-castilla" tvg-name="Canal 2000 La Solana HD (Ciudad Real - Castilla-La Mancha)" tvg-chno="135" tvg-country="ES" group-title="Noticias",Canal 2000 La Solana HD (Ciudad Real - Castilla-La Mancha)
+#EXTINF:-1 tvg-id="canal-2000-la-solana-hd-ciudad-real-castilla" tvg-name="Canal 2000 La Solana HD (Ciudad Real - Castilla-La Mancha)" tvg-chno="133" tvg-country="ES" group-title="Noticias",Canal 2000 La Solana HD (Ciudad Real - Castilla-La Mancha)
 https://signal.teleon.live/play/8GxSpgH4ZmGhHm5KtRaCT5xGUuc3leeyAAQN2LY945nSSRSGbXfHrxylkbU97jCTUHhtQTPevPXvM-xREasgYRvuBPHRhCvIyYlHb1Ykk0z3-K1oXlir4mE97qcweVEAHg.m3u8?token=test
-#EXTINF:-1 tvg-id="canal-22-argentina-nacional" tvg-name="Canal 22 (Argentina - Nacional)" tvg-chno="136" tvg-country="ES" group-title="Noticias",Canal 22 (Argentina - Nacional)
+#EXTINF:-1 tvg-id="canal-22-argentina-nacional" tvg-name="Canal 22 (Argentina - Nacional)" tvg-chno="134" tvg-country="ES" group-title="Noticias",Canal 22 (Argentina - Nacional)
 https://media.cdnvid.com/public/7c3g8h159tip.m3u8
-#EXTINF:-1 tvg-id="canal26-ar-sd" tvg-name="Canal 26 (Argentina)" tvg-chno="137" tvg-country="AR" group-title="Noticias",Canal 26 (Argentina)
+#EXTINF:-1 tvg-id="canal26-ar-sd" tvg-name="Canal 26 (Argentina)" tvg-chno="135" tvg-country="AR" group-title="Noticias",Canal 26 (Argentina)
 https://stream-gtlc.telecentro.net.ar/hls/canal26hls/main.m3u8
-#EXTINF:-1 tvg-id="canal-28-nuevo-leon-no-24-7-monterrey" tvg-name="Canal 28 Nuevo León [No 24/7] (Monterrey)" tvg-chno="138" tvg-country="ES" group-title="Noticias",Canal 28 Nuevo León [No 24/7] (Monterrey)
+#EXTINF:-1 tvg-id="canal-28-nuevo-leon-no-24-7-monterrey" tvg-name="Canal 28 Nuevo León [No 24/7] (Monterrey)" tvg-chno="136" tvg-country="ES" group-title="Noticias",Canal 28 Nuevo León [No 24/7] (Monterrey)
 https://s5.mexside.net:1936/canal28/canal28/playlist.m3u8
-#EXTINF:-1 tvg-id="canalcaribe-cu-sd" tvg-name="Canal Caribe" tvg-chno="139" tvg-country="CU" group-title="Noticias",Canal Caribe
+#EXTINF:-1 tvg-id="canalcaribe-cu-sd" tvg-name="Canal Caribe" tvg-chno="137" tvg-country="CU" group-title="Noticias",Canal Caribe
 https://cdn.teveo.cu/live/video/A36pWmuWvZBQskuZ/ngrp:CKZ3s6Wuv4gDjndG.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="canal-catorce-spr-nacional" tvg-name="Canal Catorce SPR (Nacional)" tvg-chno="140" tvg-country="ES" group-title="Noticias",Canal Catorce SPR (Nacional)
+#EXTINF:-1 tvg-id="canal-catorce-spr-nacional" tvg-name="Canal Catorce SPR (Nacional)" tvg-chno="138" tvg-country="ES" group-title="Noticias",Canal Catorce SPR (Nacional)
 https://s5.mexside.net:1936/canal14/canal14/playlist.m3u8
-#EXTINF:-1 tvg-id="canali-ve-sd" tvg-name="Canal I" tvg-chno="141" tvg-country="VE" group-title="Noticias",Canal I
+#EXTINF:-1 tvg-id="canali-ve-sd" tvg-name="Canal I" tvg-chno="139" tvg-country="VE" group-title="Noticias",Canal I
 https://streaming.canal-i.com/canal-i/live/master.m3u8
-#EXTINF:-1 tvg-id="canalpyc-co-sd" tvg-name="Canal PyC" tvg-chno="142" tvg-country="CO" group-title="Noticias",Canal PyC
+#EXTINF:-1 tvg-id="canalpyc-co-sd" tvg-name="Canal PyC" tvg-chno="140" tvg-country="CO" group-title="Noticias",Canal PyC
 https://live20.bozztv.com/akamaissh101/ssh101/pyctelevision/playlist.m3u8
-#EXTINF:-1 tvg-id="canalsurnoticias-es-sd" tvg-name="Canal Sur Noticias" tvg-chno="143" tvg-country="ES" group-title="Noticias",Canal Sur Noticias
+#EXTINF:-1 tvg-id="canalsurnoticias-es-sd" tvg-name="Canal Sur Noticias" tvg-chno="141" tvg-country="ES" group-title="Noticias",Canal Sur Noticias
 https://cdnlive.codev8.net/rtvalive/smil:channel42.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="canaltdc-ar-sd" tvg-name="Canal TDC" tvg-chno="144" tvg-country="AR" group-title="Noticias",Canal TDC
+#EXTINF:-1 tvg-id="canaltdc-ar-sd" tvg-name="Canal TDC" tvg-chno="142" tvg-country="AR" group-title="Noticias",Canal TDC
 https://tdcserver.com:19360/tdconlione-2/tdconlione-2.m3u8
-#EXTINF:-1 tvg-id="carivision-do-sd" tvg-name="Carivision" tvg-chno="145" tvg-country="DO" group-title="Noticias",Carivision
+#EXTINF:-1 tvg-id="carivision-do-sd" tvg-name="Carivision" tvg-chno="143" tvg-country="DO" group-title="Noticias",Carivision
 https://ss2.tvrdomi.com:1936/carivision/carivision/playlist.m3u8
-#EXTINF:-1 tvg-id="cdnn23-ni-sd" tvg-name="CDNN 23" tvg-chno="146" tvg-country="NI" group-title="Noticias",CDNN 23
-https://cootv.cootel.com.ni:8095/Canal23_CooTel/playlist.m3u8
-#EXTINF:-1 tvg-id="cgtn-cn-sd" tvg-name="CGTN" tvg-chno="147" tvg-country="CN" group-title="Noticias",CGTN
+#EXTINF:-1 tvg-id="cgtn-cn-sd" tvg-name="CGTN" tvg-chno="144" tvg-country="CN" group-title="Noticias",CGTN
 https://amg00405-rakutentv-cgtn-rakuten-i9tar.amagi.tv/master.m3u8
-#EXTINF:-1 tvg-id="cgtnfrench-cn-sd" tvg-name="CGTN French" tvg-chno="148" tvg-country="CN" group-title="Noticias",CGTN French
+#EXTINF:-1 tvg-id="cgtnfrench-cn-sd" tvg-name="CGTN French" tvg-chno="145" tvg-country="CN" group-title="Noticias",CGTN French
 https://amg01314-cgtn-amg01314c2-rakuten-us-1319.playouts.now.amagi.tv/cgtn-fr-rakuten/playlist.m3u8
-#EXTINF:-1 tvg-id="cgtnspanish-cn-sd" tvg-name="CGTN Spanish" tvg-chno="149" tvg-country="CN" group-title="Noticias",CGTN Spanish
-https://espanol-livews.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8VZNBLE1ZNEa220802cd/playlist.m3u8
-#EXTINF:-1 tvg-id="citricotv-do-sd" tvg-name="Citrico TV" tvg-chno="150" tvg-country="DO" group-title="Noticias",Citrico TV
+#EXTINF:-1 tvg-id="citricotv-do-sd" tvg-name="Citrico TV" tvg-chno="146" tvg-country="DO" group-title="Noticias",Citrico TV
 https://edge.essastream.com/citricotv/playlist.m3u8
-#EXTINF:-1 tvg-id="conecta2tv-pe-sd" tvg-name="Conecta2TV" tvg-chno="151" tvg-country="PE" group-title="Noticias",Conecta2TV
+#EXTINF:-1 tvg-id="conecta2tv-pe-sd" tvg-name="Conecta2TV" tvg-chno="147" tvg-country="PE" group-title="Noticias",Conecta2TV
 https://live.obslivestream.com/conecta2/index.m3u8
-#EXTINF:-1 tvg-id="deultimominutotv-do-sd" tvg-name="De Ultimo Minuto TV" tvg-chno="152" tvg-country="DO" group-title="Noticias",De Ultimo Minuto TV
+#EXTINF:-1 tvg-id="deultimominutotv-do-sd" tvg-name="De Ultimo Minuto TV" tvg-chno="148" tvg-country="DO" group-title="Noticias",De Ultimo Minuto TV
 https://soportedvb.click:3620/live/deultimominutomedialive.m3u8
-#EXTINF:-1 tvg-id="dw-de-espanol" tvg-name="DW Espanol" tvg-chno="153" tvg-country="DE" group-title="Noticias",DW Espanol
+#EXTINF:-1 tvg-id="dw-de-espanol" tvg-name="DW Espanol" tvg-chno="149" tvg-country="DE" group-title="Noticias",DW Espanol
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/master.m3u8
-#EXTINF:-1 tvg-id="dw-espanol-alemania-internacional" tvg-name="DW Español (Alemania / Internacional)" tvg-chno="154" tvg-country="ES" group-title="Noticias",DW Español (Alemania / Internacional)
+#EXTINF:-1 tvg-id="dw-espanol-alemania-internacional" tvg-name="DW Español (Alemania / Internacional)" tvg-chno="150" tvg-country="ES" group-title="Noticias",DW Español (Alemania / Internacional)
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
-#EXTINF:-1 tvg-id="ecoteltv-ec-sd" tvg-name="Ecotel TV" tvg-chno="155" tvg-country="EC" group-title="Noticias",Ecotel TV
+#EXTINF:-1 tvg-id="ecoteltv-ec-sd" tvg-name="Ecotel TV" tvg-chno="151" tvg-country="EC" group-title="Noticias",Ecotel TV
 https://ecoteltv.streamseguro.com:5443/LiveApp/streams/streaming.m3u8
-#EXTINF:-1 tvg-id="ecuavisa" tvg-name="Ecuavisa" tvg-chno="156" tvg-country="EC" group-title="Noticias",Ecuavisa
+#EXTINF:-1 tvg-id="ecuavisa" tvg-name="Ecuavisa" tvg-chno="152" tvg-country="EC" group-title="Noticias",Ecuavisa
 https://redirector.rudo.video/hls-video/c54ac2799874375c81c1672abb700870537c5223/ecuavisaqo/ecuavisaqo/.m3u8
-#EXTINF:-1 tvg-id="elnuevodiariotv-do-sd" tvg-name="El Nuevo Diario TV" tvg-chno="158" tvg-country="DO" group-title="Noticias",El Nuevo Diario TV
+#EXTINF:-1 tvg-id="elnuevodiariotv-do-sd" tvg-name="El Nuevo Diario TV" tvg-chno="154" tvg-country="DO" group-title="Noticias",El Nuevo Diario TV
 https://nuevodiario01.streamprolive.com/hls/live.m3u8
-#EXTINF:-1 tvg-id="elyssatv-tn-hd" tvg-name="Elyssa TV" tvg-chno="159" tvg-country="TN" group-title="Noticias",Elyssa TV
+#EXTINF:-1 tvg-id="elyssatv-tn-hd" tvg-name="Elyssa TV" tvg-chno="155" tvg-country="TN" group-title="Noticias",Elyssa TV
 https://tv.elyssatv.com/live/master.m3u8
-#EXTINF:-1 tvg-id="english-tv-usa-internacional" tvg-name="English TV (USA / Internacional)" tvg-chno="160" tvg-country="ES" group-title="Noticias",English TV (USA / Internacional)
+#EXTINF:-1 tvg-id="english-tv-usa-internacional" tvg-name="English TV (USA / Internacional)" tvg-chno="156" tvg-country="ES" group-title="Noticias",English TV (USA / Internacional)
 https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/a5e9aebd-1df4-4e56-be4f-33a891756f9b/manifest.m3u8
-#EXTINF:-1 tvg-id="estrellanews-us-sd" tvg-name="Estrella News" tvg-chno="161" tvg-country="US" group-title="Noticias",Estrella News
+#EXTINF:-1 tvg-id="estrellanews-us-sd" tvg-name="Estrella News" tvg-chno="157" tvg-country="US" group-title="Noticias",Estrella News
 https://estrella-news-oando.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="euronewsenglish-fr-sd" tvg-name="Euronews English" tvg-chno="162" tvg-country="FR" group-title="Noticias",Euronews English
+#EXTINF:-1 tvg-id="euronewsenglish-fr-sd" tvg-name="Euronews English" tvg-chno="158" tvg-country="FR" group-title="Noticias",Euronews English
 https://jmp2.uk/plu-61de96114757070008d33cae.m3u8
-#EXTINF:-1 tvg-id="euronewsenglish-fr-hd" tvg-name="Euronews English HD" tvg-chno="163" tvg-country="FR" group-title="Noticias",Euronews English HD
+#EXTINF:-1 tvg-id="euronewsenglish-fr-hd" tvg-name="Euronews English HD" tvg-chno="159" tvg-country="FR" group-title="Noticias",Euronews English HD
 https://dash4.antik.sk/live/test_euronews/playlist.m3u8
-#EXTINF:-1 tvg-id="euronewsspanish-fr-sd" tvg-name="Euronews Spanish" tvg-chno="164" tvg-country="FR" group-title="Noticias",Euronews Spanish
+#EXTINF:-1 tvg-id="euronewsspanish-fr-sd" tvg-name="Euronews Spanish" tvg-chno="160" tvg-country="FR" group-title="Noticias",Euronews Spanish
 https://iptv.bitred.cl/euronews/index.m3u8
-#EXTINF:-1 tvg-id="exitosa-tv-peru-nacional" tvg-name="Exitosa TV (Perú - Nacional)" tvg-chno="165" tvg-country="ES" group-title="Noticias",Exitosa TV (Perú - Nacional)
+#EXTINF:-1 tvg-id="exitosa-tv-peru-nacional" tvg-name="Exitosa TV (Perú - Nacional)" tvg-chno="161" tvg-country="ES" group-title="Noticias",Exitosa TV (Perú - Nacional)
 https://live-evg5.tv360.bitel.com.pe/bitel/exitosa_abr/playlist.m3u8
-#EXTINF:-1 tvg-id="france24-fr-french" tvg-name="France 24" tvg-chno="166" tvg-country="FR" group-title="Noticias",France 24
+#EXTINF:-1 tvg-id="france24-fr-french" tvg-name="France 24" tvg-chno="162" tvg-country="FR" group-title="Noticias",France 24
 https://live.france24.com/hls/live/2037179-b/F24_FR_HI_HLS/master_5000.m3u8
-#EXTINF:-1 tvg-id="france24-fr-english" tvg-name="France 24 English" tvg-chno="167" tvg-country="FR" group-title="Noticias",France 24 English
+#EXTINF:-1 tvg-id="france24-fr-english" tvg-name="France 24 English" tvg-chno="163" tvg-country="FR" group-title="Noticias",France 24 English
 https://live.france24.com/hls/live/2037218-b/F24_EN_HI_HLS/master_5000.m3u8
-#EXTINF:-1 tvg-id="france24-fr-spanish" tvg-name="France 24 Spanish" tvg-chno="168" tvg-country="FR" group-title="Noticias",France 24 Spanish
+#EXTINF:-1 tvg-id="france24-fr-spanish" tvg-name="France 24 Spanish" tvg-chno="164" tvg-country="FR" group-title="Noticias",France 24 Spanish
 https://live.france24.com/hls/live/2037220-b/F24_ES_HI_HLS/master_5000.m3u8
-#EXTINF:-1 tvg-id="ftv-fuengirola-malaga-andalucia" tvg-name="FTV Fuengirola (Málaga - Andalucía)" tvg-chno="169" tvg-country="ES" group-title="Noticias",FTV Fuengirola (Málaga - Andalucía)
+#EXTINF:-1 tvg-id="ftv-fuengirola-malaga-andalucia" tvg-name="FTV Fuengirola (Málaga - Andalucía)" tvg-chno="165" tvg-country="ES" group-title="Noticias",FTV Fuengirola (Málaga - Andalucía)
 https://streaming004.gestec-video.com/hls/FTV.m3u8
-#EXTINF:-1 tvg-id="hch-hn-sd" tvg-name="HCH" tvg-chno="170" tvg-country="HN" group-title="Noticias",HCH
+#EXTINF:-1 tvg-id="hch-hn-sd" tvg-name="HCH" tvg-chno="166" tvg-country="HN" group-title="Noticias",HCH
 https://live.streamhch.com/live/streams/hch1.m3u8
-#EXTINF:-1 tvg-id="hermanasmirabaltv-do-sd" tvg-name="Hermanas Mirabal TV" tvg-chno="171" tvg-country="DO" group-title="Noticias",Hermanas Mirabal TV
+#EXTINF:-1 tvg-id="hermanasmirabaltv-do-sd" tvg-name="Hermanas Mirabal TV" tvg-chno="167" tvg-country="DO" group-title="Noticias",Hermanas Mirabal TV
 https://fox.hostlagarto.com:8081/hmtv/index.m3u8
-#EXTINF:-1 tvg-id="hispantv-ir-sd" tvg-name="Hispan TV" tvg-chno="172" tvg-country="IR" group-title="Noticias",Hispan TV
+#EXTINF:-1 tvg-id="hispantv-ir-sd" tvg-name="Hispan TV" tvg-chno="168" tvg-country="IR" group-title="Noticias",Hispan TV
 https://cdnlive.presstv.ir/live/smil:live.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="i24newsenglishworld-il-sd" tvg-name="i24NEWS English World" tvg-chno="173" tvg-country="IL" group-title="Noticias",i24NEWS English World
+#EXTINF:-1 tvg-id="i24newsenglishworld-il-sd" tvg-name="i24NEWS English World" tvg-chno="169" tvg-country="IL" group-title="Noticias",i24NEWS English World
 https://i24newsenglish-cdn.encoders.immergo.tv/master.m3u8
-#EXTINF:-1 tvg-id="icndigital-hn-sd" tvg-name="ICN Digital" tvg-chno="174" tvg-country="HN" group-title="Noticias",ICN Digital
+#EXTINF:-1 tvg-id="icndigital-hn-sd" tvg-name="ICN Digital" tvg-chno="170" tvg-country="HN" group-title="Noticias",ICN Digital
 https://streaming.icndigital.com/live_output/icn_live_stream_1.m3u8
-#EXTINF:-1 tvg-id="latinanoticias247-pe-sd" tvg-name="Latina Noticias 24/7" tvg-chno="175" tvg-country="PE" group-title="Noticias",Latina Noticias 24/7
+#EXTINF:-1 tvg-id="latinanoticias247-pe-sd" tvg-name="Latina Noticias 24/7" tvg-chno="171" tvg-country="PE" group-title="Noticias",Latina Noticias 24/7
 https://dai.google.com/linear/hls/event/oYQGDqEGTmGdHE_fz9oLlg/master.m3u8
-#EXTINF:-1 tvg-id="lemondeen24h-cd-sd" tvg-name="Le Monde en 24h" tvg-chno="176" tvg-country="CD" group-title="Noticias",Le Monde en 24h
+#EXTINF:-1 tvg-id="lemondeen24h-cd-sd" tvg-name="Le Monde en 24h" tvg-chno="172" tvg-country="CD" group-title="Noticias",Le Monde en 24h
 https://stream.berosat.live/hls/monde24h-tv-index/monde24h-tv-index.m3u8
-#EXTINF:-1 tvg-id="lencatv-hn-sd" tvg-name="Lenca TV" tvg-chno="177" tvg-country="HN" group-title="Noticias",Lenca TV
+#EXTINF:-1 tvg-id="lencatv-hn-sd" tvg-name="Lenca TV" tvg-chno="173" tvg-country="HN" group-title="Noticias",Lenca TV
 https://lencatelevision.com/hls/stream.m3u8
-#EXTINF:-1 tvg-id="linierostv-do-sd" tvg-name="Linieros TV" tvg-chno="178" tvg-country="DO" group-title="Noticias",Linieros TV
+#EXTINF:-1 tvg-id="linierostv-do-sd" tvg-name="Linieros TV" tvg-chno="174" tvg-country="DO" group-title="Noticias",Linieros TV
 https://soportedvb.click:3017/live/linierostvlive.m3u8
-#EXTINF:-1 tvg-id="m95televisionmarbella-es-sd" tvg-name="M95 Television Marbella" tvg-chno="179" tvg-country="ES" group-title="Noticias",M95 Television Marbella
+#EXTINF:-1 tvg-id="m95televisionmarbella-es-sd" tvg-name="M95 Television Marbella" tvg-chno="175" tvg-country="ES" group-title="Noticias",M95 Television Marbella
 https://limited2.todostreaming.es/live/m95-livestream.m3u8
-#EXTINF:-1 tvg-id="mariopintotv-ec-sd" tvg-name="Mario Pinto TV" tvg-chno="180" tvg-country="EC" group-title="Noticias",Mario Pinto TV
-https://eu1.servers10.com:8081/8028/index.m3u8
-#EXTINF:-1 tvg-id="masnoticiastelevision-hn-sd" tvg-name="Mas Noticias Television" tvg-chno="181" tvg-country="HN" group-title="Noticias",Mas Noticias Television
+#EXTINF:-1 tvg-id="masnoticiastelevision-hn-sd" tvg-name="Mas Noticias Television" tvg-chno="176" tvg-country="HN" group-title="Noticias",Mas Noticias Television
 https://www.amixtv.com:8081/mntvh/index.m3u8
-#EXTINF:-1 tvg-id="mayatv-hn-sd" tvg-name="Maya TV" tvg-chno="182" tvg-country="HN" group-title="Noticias",Maya TV
-https://media.streambrothers.com:19360/8036/8036.m3u8
-#EXTINF:-1 tvg-id="megatv-py-sd" tvg-name="Mega TV (Paraguay)" tvg-chno="183" tvg-country="PY" group-title="Noticias",Mega TV (Paraguay)
+#EXTINF:-1 tvg-id="megatv-py-sd" tvg-name="Mega TV (Paraguay)" tvg-chno="177" tvg-country="PY" group-title="Noticias",Mega TV (Paraguay)
 https://www.desde-paraguay.com/mega.m3u8
-#EXTINF:-1 tvg-id="mercurionoticias-ar-sd" tvg-name="Mercurio Noticias" tvg-chno="184" tvg-country="AR" group-title="Noticias",Mercurio Noticias
+#EXTINF:-1 tvg-id="mercurionoticias-ar-sd" tvg-name="Mercurio Noticias" tvg-chno="178" tvg-country="AR" group-title="Noticias",Mercurio Noticias
 https://videostream.shockmedia.com.ar/hls/mercuriotv/mercuriotv.m3u8
-#EXTINF:-1 tvg-id="mileniotelevision-mx-sd" tvg-name="Milenio Television" tvg-chno="185" tvg-country="MX" group-title="Noticias",Milenio Television
+#EXTINF:-1 tvg-id="mileniotelevision-mx-sd" tvg-name="Milenio Television" tvg-chno="179" tvg-country="MX" group-title="Noticias",Milenio Television
 https://jmp2.uk/plu-652e922db4b047000825f975.m3u8
-#EXTINF:-1 tvg-id="mirametv-es-sd" tvg-name="Mirame TV" tvg-chno="186" tvg-country="ES" group-title="Noticias",Mirame TV
-https://bit.controlstreams.com:5443/LiveApp/streams/mirametv.m3u8
-#EXTINF:-1 tvg-id="momento24-co-sd" tvg-name="Momento24" tvg-chno="187" tvg-country="CO" group-title="Noticias",Momento24
+#EXTINF:-1 tvg-id="momento24-co-sd" tvg-name="Momento24" tvg-chno="180" tvg-country="CO" group-title="Noticias",Momento24
 https://backupmaxmedia.hvmultiplay.com/hls/stream2/momento24.m3u8
-#EXTINF:-1 tvg-id="multivisionfederal-ar-sd" tvg-name="Multivision Federal" tvg-chno="188" tvg-country="AR" group-title="Noticias",Multivision Federal
+#EXTINF:-1 tvg-id="multivisionfederal-ar-sd" tvg-name="Multivision Federal" tvg-chno="181" tvg-country="AR" group-title="Noticias",Multivision Federal
 https://videostream.shockmedia.com.ar/hls/multivisionfederal/multivisionfederal.m3u8
-#EXTINF:-1 tvg-id="n-nacional" tvg-name="N+ (Nacional)" tvg-chno="189" tvg-country="ES" group-title="Noticias",N+ (Nacional)
+#EXTINF:-1 tvg-id="n-nacional" tvg-name="N+ (Nacional)" tvg-chno="182" tvg-country="ES" group-title="Noticias",N+ (Nacional)
 https://nomvauth.univision.com/api/v3/akamai-auth/token-auth?url=https://channel07secure.akamaized.net/hls/live/2036971-b/event01/index.m3u8&redirect=true
-#EXTINF:-1 tvg-id="n-foro-televisa-nacional" tvg-name="N+ Foro (Televisa) (Nacional)" tvg-chno="190" tvg-country="ES" group-title="Noticias",N+ Foro (Televisa) (Nacional)
+#EXTINF:-1 tvg-id="n-foro-televisa-nacional" tvg-name="N+ Foro (Televisa) (Nacional)" tvg-chno="183" tvg-country="ES" group-title="Noticias",N+ Foro (Televisa) (Nacional)
 https://notusaauth.univision.com/api/v3/akamai-auth/token-auth?url=https://channel02secure-notusa.akamaized.net/hls/live/2023914-b/event01/index.m3u8&redirect=true
-#EXTINF:-1 tvg-id="n-guadalajara-jalisco" tvg-name="N+ Guadalajara (Jalisco)" tvg-chno="191" tvg-country="ES" group-title="Noticias",N+ Guadalajara (Jalisco)
+#EXTINF:-1 tvg-id="n-guadalajara-jalisco" tvg-name="N+ Guadalajara (Jalisco)" tvg-chno="184" tvg-country="ES" group-title="Noticias",N+ Guadalajara (Jalisco)
 https://notusaauth.univision.com/api/v3/akamai-auth/token-auth?url=https://channel08secure-notusa.akamaized.net/hls/live/2037034-b/event01/index.m3u8&redirect=true
-#EXTINF:-1 tvg-id="n-monterrey-nuevo-leon" tvg-name="N+ Monterrey (Nuevo León)" tvg-chno="192" tvg-country="ES" group-title="Noticias",N+ Monterrey (Nuevo León)
+#EXTINF:-1 tvg-id="n-monterrey-nuevo-leon" tvg-name="N+ Monterrey (Nuevo León)" tvg-chno="185" tvg-country="ES" group-title="Noticias",N+ Monterrey (Nuevo León)
 https://notusaauth.univision.com/api/v3/akamai-auth/token-auth?url=https://channel09secure-notusa.akamaized.net/hls/live/2094418-b/event01/index.m3u8&redirect=true
-#EXTINF:-1 tvg-id="nanduti-py-sd" tvg-name="Nanduti" tvg-chno="193" tvg-country="PY" group-title="Noticias",Nanduti
+#EXTINF:-1 tvg-id="nanduti-py-sd" tvg-name="Nanduti" tvg-chno="186" tvg-country="PY" group-title="Noticias",Nanduti
 https://nanduti.b-cdn.net/Source.m3u8
-#EXTINF:-1 tvg-id="net-tv" tvg-name="Net TV" tvg-chno="194" tvg-country="AR" group-title="Noticias",Net TV
+#EXTINF:-1 tvg-id="net-tv" tvg-name="Net TV" tvg-chno="187" tvg-country="AR" group-title="Noticias",Net TV
 https://unlimited1-us.dps.live/nettv/nettv.smil/nettv/livestream1/chunks.m3u8
-#EXTINF:-1 tvg-id="newsoftheworld-us-global" tvg-name="News of the World" tvg-chno="198" tvg-country="US" group-title="Noticias",News of the World
-https://nowhls.wns.live/hls/stream.m3u8
-#EXTINF:-1 tvg-id="newsoftheworld-us-spanish" tvg-name="News of the World Spanish" tvg-chno="199" tvg-country="US" group-title="Noticias",News of the World Spanish
+#EXTINF:-1 tvg-id="newsoftheworld-us-spanish" tvg-name="News of the World Spanish" tvg-chno="191" tvg-country="US" group-title="Noticias",News of the World Spanish
 https://live.nowtelly.com/now_spanish/live/playlist.m3u8
-#EXTINF:-1 tvg-id="newsmaxspanish-us-sd" tvg-name="Newsmax Spanish" tvg-chno="200" tvg-country="US" group-title="Noticias",Newsmax Spanish
+#EXTINF:-1 tvg-id="newsmaxspanish-us-sd" tvg-name="Newsmax Spanish" tvg-chno="192" tvg-country="US" group-title="Noticias",Newsmax Spanish
 https://n1ottesorkatv.akamaized.net/hls/live/2113795/Live_1/index.m3u8
-#EXTINF:-1 tvg-id="ng-federal-tv-resistencia-chaco" tvg-name="NG Federal TV (Resistencia - Chaco)" tvg-chno="201" tvg-country="ES" group-title="Noticias",NG Federal TV (Resistencia - Chaco)
+#EXTINF:-1 tvg-id="ng-federal-tv-resistencia-chaco" tvg-name="NG Federal TV (Resistencia - Chaco)" tvg-chno="193" tvg-country="ES" group-title="Noticias",NG Federal TV (Resistencia - Chaco)
 https://617c5175c970b.streamlock.net:4444/tvlink/live/playlist.m3u8
-#EXTINF:-1 tvg-id="norteinformativotv-cr-sd" tvg-name="Norte Informativo TV" tvg-chno="202" tvg-country="CR" group-title="Noticias",Norte Informativo TV
+#EXTINF:-1 tvg-id="norteinformativotv-cr-sd" tvg-name="Norte Informativo TV" tvg-chno="194" tvg-country="CR" group-title="Noticias",Norte Informativo TV
 https://videohd.live:19360/8076/8076.m3u8
-#EXTINF:-1 tvg-id="noticias16-do-sd" tvg-name="Noticias 16" tvg-chno="203" tvg-country="DO" group-title="Noticias",Noticias 16
+#EXTINF:-1 tvg-id="noticias16-do-sd" tvg-name="Noticias 16" tvg-chno="195" tvg-country="DO" group-title="Noticias",Noticias 16
 https://edge.essastream.com/noticias16/playlist.m3u8
-#EXTINF:-1 tvg-id="noticiasrcn-co-sd" tvg-name="Noticias RCN" tvg-chno="204" tvg-country="CO" group-title="Noticias",Noticias RCN
+#EXTINF:-1 tvg-id="noticiasrcn-co-sd" tvg-name="Noticias RCN" tvg-chno="196" tvg-country="CO" group-title="Noticias",Noticias RCN
 https://jmp2.uk/plu-67d9b0ebc290c9499046e88f.m3u8
-#EXTINF:-1 tvg-id="noticiero90minutos-co-sd" tvg-name="Noticiero 90 Minutos" tvg-chno="205" tvg-country="CO" group-title="Noticias",Noticiero 90 Minutos
+#EXTINF:-1 tvg-id="noticiero90minutos-co-sd" tvg-name="Noticiero 90 Minutos" tvg-chno="197" tvg-country="CO" group-title="Noticias",Noticiero 90 Minutos
 https://play.cdn.enetres.net/621B146D29C541AFB1507809F038F471021/021/playlist.m3u8
-#EXTINF:-1 tvg-id="npy-py-sd" tvg-name="NPY" tvg-chno="206" tvg-country="PY" group-title="Noticias",NPY
+#EXTINF:-1 tvg-id="npy-py-sd" tvg-name="NPY" tvg-chno="198" tvg-country="PY" group-title="Noticias",NPY
 https://copacogen.desdeparaguay.net/npy/npy_py_alta/playlist.m3u8?admin=tvaccion
-#EXTINF:-1 tvg-id="ntn24-co-sd" tvg-name="NTN24" tvg-chno="207" tvg-country="CO" group-title="Noticias",NTN24
+#EXTINF:-1 tvg-id="ntn24-co-sd" tvg-name="NTN24" tvg-chno="199" tvg-country="CO" group-title="Noticias",NTN24
 https://stream1.bitred.cl/ntn24/index.m3u8
-#EXTINF:-1 tvg-id="plustv-pa-sd" tvg-name="Plus TV (Panama)" tvg-chno="208" tvg-country="PA" group-title="Noticias",Plus TV (Panama)
+#EXTINF:-1 tvg-id="plustv-pa-sd" tvg-name="Plus TV (Panama)" tvg-chno="200" tvg-country="PA" group-title="Noticias",Plus TV (Panama)
 https://vcp4.myplaytv.com:1936/plustv/plustv/playlist.m3u8
-#EXTINF:-1 tvg-id="prensalatinatv-cu-sd" tvg-name="Prensa Latina TV" tvg-chno="209" tvg-country="CU" group-title="Noticias",Prensa Latina TV
+#EXTINF:-1 tvg-id="prensalatinatv-cu-sd" tvg-name="Prensa Latina TV" tvg-chno="201" tvg-country="CU" group-title="Noticias",Prensa Latina TV
 https://eu1.servers10.com:8081/8192/index.m3u8
-#EXTINF:-1 tvg-id="psncanal452-mx-sd" tvg-name="PSN Canal 45.2" tvg-chno="210" tvg-country="MX" group-title="Noticias",PSN Canal 45.2
+#EXTINF:-1 tvg-id="psncanal452-mx-sd" tvg-name="PSN Canal 45.2" tvg-chno="202" tvg-country="MX" group-title="Noticias",PSN Canal 45.2
 https://srspsn2.live/live/livestream.m3u8
-#EXTINF:-1 tvg-id="qosqotimes-pe-sd" tvg-name="Qosqo Times" tvg-chno="211" tvg-country="PE" group-title="Noticias",Qosqo Times
+#EXTINF:-1 tvg-id="qosqotimes-pe-sd" tvg-name="Qosqo Times" tvg-chno="203" tvg-country="PE" group-title="Noticias",Qosqo Times
 https://live-evg5.tv360.bitel.com.pe/bitel/qosqo/playlist.m3u8
-#EXTINF:-1 tvg-id="quanticatv-ar-sd" tvg-name="Quantica TV" tvg-chno="212" tvg-country="AR" group-title="Noticias",Quantica TV
+#EXTINF:-1 tvg-id="quanticatv-ar-sd" tvg-name="Quantica TV" tvg-chno="204" tvg-country="AR" group-title="Noticias",Quantica TV
 https://videostream.shockmedia.com.ar:19360/quanticatv/quanticatv.m3u8
-#EXTINF:-1 tvg-id="radioancon-pa-sd" tvg-name="Radio Ancon" tvg-chno="213" tvg-country="PA" group-title="Noticias",Radio Ancon
+#EXTINF:-1 tvg-id="radioancon-pa-sd" tvg-name="Radio Ancon" tvg-chno="205" tvg-country="PA" group-title="Noticias",Radio Ancon
 https://www.streaming507.net:19360/anconvideo/anconvideo.m3u8
-#EXTINF:-1 tvg-id="radioislatv-pr-sd" tvg-name="Radio Isla TV" tvg-chno="214" tvg-country="PR" group-title="Noticias",Radio Isla TV
+#EXTINF:-1 tvg-id="radioislatv-pr-sd" tvg-name="Radio Isla TV" tvg-chno="206" tvg-country="PR" group-title="Noticias",Radio Isla TV
 https://59a564764e2b6.streamlock.net/palestra/palestra/playlist.m3u8
-#EXTINF:-1 tvg-id="radiounotacna-pe-sd" tvg-name="Radio Uno Tacna" tvg-chno="215" tvg-country="PE" group-title="Noticias",Radio Uno Tacna
-https://live-evg7.tv360.bitel.com.pe/bitel/radiounotv/playlist.m3u8
-#EXTINF:-1 tvg-id="rcvtv-hn-sd" tvg-name="RCV TV" tvg-chno="216" tvg-country="HN" group-title="Noticias",RCV TV
+#EXTINF:-1 tvg-id="rcvtv-hn-sd" tvg-name="RCV TV" tvg-chno="207" tvg-country="HN" group-title="Noticias",RCV TV
 https://59d39900ebfb8.streamlock.net/rcv/rcv/playlist.m3u8
-#EXTINF:-1 tvg-id="rdn-do-sd" tvg-name="RDN" tvg-chno="217" tvg-country="DO" group-title="Noticias",RDN
+#EXTINF:-1 tvg-id="rdn-do-sd" tvg-name="RDN" tvg-chno="208" tvg-country="DO" group-title="Noticias",RDN
 https://edge.essastream.com/rdntv/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="rnn-do-sd" tvg-name="RNN" tvg-chno="218" tvg-country="DO" group-title="Noticias",RNN
+#EXTINF:-1 tvg-id="rnn-do-sd" tvg-name="RNN" tvg-chno="209" tvg-country="DO" group-title="Noticias",RNN
 https://2-fss-2.streamhoster.com/pl_138/206532-6829902-1/playlist.m3u8
-#EXTINF:-1 tvg-id="rnn-do-dos" tvg-name="RNN DOS" tvg-chno="219" tvg-country="DO" group-title="Noticias",RNN DOS
+#EXTINF:-1 tvg-id="rnn-do-dos" tvg-name="RNN DOS" tvg-chno="210" tvg-country="DO" group-title="Noticias",RNN DOS
 https://2-fss-2.streamhoster.com/pl_138/206532-6829912-1/playlist.m3u8
-#EXTINF:-1 tvg-id="rpp-tv-peru-nacional" tvg-name="RPP TV (Perú - Nacional)" tvg-chno="220" tvg-country="ES" group-title="Noticias",RPP TV (Perú - Nacional)
+#EXTINF:-1 tvg-id="rpp-tv-peru-nacional" tvg-name="RPP TV (Perú - Nacional)" tvg-chno="211" tvg-country="ES" group-title="Noticias",RPP TV (Perú - Nacional)
 https://cdn-ssai.smartbit.co/rpp/index.m3u8
-#EXTINF:-1 tvg-id="rselvatv-pe-sd" tvg-name="RSelvaTV" tvg-chno="221" tvg-country="PE" group-title="Noticias",RSelvaTV
+#EXTINF:-1 tvg-id="rselvatv-pe-sd" tvg-name="RSelvaTV" tvg-chno="212" tvg-country="PE" group-title="Noticias",RSelvaTV
 https://live-evg11.tv360.bitel.com.pe/bitel/selvaticaSRT/playlist.m3u8
-#EXTINF:-1 tvg-id="rt-noticias" tvg-name="RT Noticias" tvg-chno="222" tvg-country="ES" group-title="Noticias",RT Noticias
+#EXTINF:-1 tvg-id="rt-noticias" tvg-name="RT Noticias" tvg-chno="213" tvg-country="ES" group-title="Noticias",RT Noticias
 https://rt-esp.rttv.com/dvr/rtesp/playlist_4500Kb.m3u8
-#EXTINF:-1 tvg-id="san-luis-san-luis" tvg-name="San Luis + (San Luis)" tvg-chno="224" tvg-country="ES" group-title="Noticias",San Luis + (San Luis)
+#EXTINF:-1 tvg-id="san-luis-san-luis" tvg-name="San Luis + (San Luis)" tvg-chno="215" tvg-country="ES" group-title="Noticias",San Luis + (San Luis)
 https://stream.condoristream.com/live/gFNNZzfsW2e8VsnfRnqP2oHtOMK9V8GO/index.m3u8
-#EXTINF:-1 tvg-id="sccurrents-us-sd" tvg-name="SC Currents" tvg-chno="225" tvg-country="US" group-title="Noticias",SC Currents
+#EXTINF:-1 tvg-id="sccurrents-us-sd" tvg-name="SC Currents" tvg-chno="216" tvg-country="US" group-title="Noticias",SC Currents
 https://reflect-communitytv.cablecast.tv/live-5/live/stream-3/live.m3u8
-#EXTINF:-1 tvg-id="sucesotv-py-sd" tvg-name="Suceso TV" tvg-chno="226" tvg-country="PY" group-title="Noticias",Suceso TV
+#EXTINF:-1 tvg-id="sucesotv-py-sd" tvg-name="Suceso TV" tvg-chno="217" tvg-country="PY" group-title="Noticias",Suceso TV
 https://live.enhdtv.com:8081/8060/index.m3u8
-#EXTINF:-1 tvg-id="telenewstv-do-sd" tvg-name="Telenews TV" tvg-chno="227" tvg-country="DO" group-title="Noticias",Telenews TV
+#EXTINF:-1 tvg-id="telenewstv-do-sd" tvg-name="Telenews TV" tvg-chno="218" tvg-country="DO" group-title="Noticias",Telenews TV
 https://hilandofinotv.essastream.com:3480/live/telenewscanallive.m3u8
-#EXTINF:-1 tvg-id="telesur-latinoamerica" tvg-name="Telesur (Latinoamérica)" tvg-chno="228" tvg-country="ES" group-title="Noticias",Telesur (Latinoamérica)
+#EXTINF:-1 tvg-id="telesur-latinoamerica" tvg-name="Telesur (Latinoamérica)" tvg-chno="219" tvg-country="ES" group-title="Noticias",Telesur (Latinoamérica)
 https://mblesmain01.telesur.ultrabase.net/mbliveMain/480p/playlist.m3u8
-#EXTINF:-1 tvg-id="telesur-ve-english" tvg-name="Telesur English" tvg-chno="229" tvg-country="VE" group-title="Noticias",Telesur English
+#EXTINF:-1 tvg-id="telesur-ve-english" tvg-name="Telesur English" tvg-chno="220" tvg-country="VE" group-title="Noticias",Telesur English
 https://mblenmain01.telesur.ultrabase.net/mblivev3/480p/playlist.m3u8
-#EXTINF:-1 tvg-id="telesur-ve-englishhd" tvg-name="Telesur English HD" tvg-chno="230" tvg-country="VE" group-title="Noticias",Telesur English HD
+#EXTINF:-1 tvg-id="telesur-ve-englishhd" tvg-name="Telesur English HD" tvg-chno="221" tvg-country="VE" group-title="Noticias",Telesur English HD
 https://mblenmain01.telesur.ultrabase.net/mblivev3/hd/playlist.m3u8
-#EXTINF:-1 tvg-id="telesur-ve-hd" tvg-name="Telesur HD" tvg-chno="231" tvg-country="VE" group-title="Noticias",Telesur HD
+#EXTINF:-1 tvg-id="telesur-ve-hd" tvg-name="Telesur HD" tvg-chno="222" tvg-country="VE" group-title="Noticias",Telesur HD
 https://mblesmain01.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8
-#EXTINF:-1 tvg-id="televisiondeleste-do-sd" tvg-name="Television del Este" tvg-chno="232" tvg-country="DO" group-title="Noticias",Television del Este
+#EXTINF:-1 tvg-id="televisiondeleste-do-sd" tvg-name="Television del Este" tvg-chno="223" tvg-country="DO" group-title="Noticias",Television del Este
 https://edge.essastream.com/televisiondeleste/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="tn23-gt-sd" tvg-name="TN23" tvg-chno="233" tvg-country="GT" group-title="Noticias",TN23
+#EXTINF:-1 tvg-id="tn23-gt-sd" tvg-name="TN23" tvg-chno="224" tvg-country="GT" group-title="Noticias",TN23
 https://d3qt8k30mpy8xx.cloudfront.net/ts:abr.m3u8
-#EXTINF:-1 tvg-id="toiglobal-in-sd" tvg-name="TOI Global" tvg-chno="234" tvg-country="IN" group-title="Noticias",TOI Global
+#EXTINF:-1 tvg-id="toiglobal-in-sd" tvg-name="TOI Global" tvg-chno="225" tvg-country="IN" group-title="Noticias",TOI Global
 https://live.sli.ke/live/npnhm84gz9/master.m3u8
-#EXTINF:-1 tvg-id="tribunatv-sv-sd" tvg-name="Tribuna TV" tvg-chno="235" tvg-country="SV" group-title="Noticias",Tribuna TV
+#EXTINF:-1 tvg-id="tribunatv-sv-sd" tvg-name="Tribuna TV" tvg-chno="226" tvg-country="SV" group-title="Noticias",Tribuna TV
 https://cloudflare.streamgato.us:3300/live/tribunatvlive.m3u8
-#EXTINF:-1 tvg-id="trtworld-tr-sd" tvg-name="TRT World" tvg-chno="236" tvg-country="TR" group-title="Noticias",TRT World
+#EXTINF:-1 tvg-id="trtworld-tr-sd" tvg-name="TRT World" tvg-chno="227" tvg-country="TR" group-title="Noticias",TRT World
 https://mumbai-edge.smartplaytv.in/TRTWorld/index.m3u8
-#EXTINF:-1 tvg-id="trtworld-tr-hd" tvg-name="TRT World HD" tvg-chno="237" tvg-country="TR" group-title="Noticias",TRT World HD
+#EXTINF:-1 tvg-id="trtworld-tr-hd" tvg-name="TRT World HD" tvg-chno="228" tvg-country="TR" group-title="Noticias",TRT World HD
 https://dash2.antik.sk/live/test_trt_world_atktv/playlist.m3u8
-#EXTINF:-1 tvg-id="tvn24-do-sd" tvg-name="TVN24" tvg-chno="238" tvg-country="DO" group-title="Noticias",TVN24
+#EXTINF:-1 tvg-id="tvn24-do-sd" tvg-name="TVN24" tvg-chno="229" tvg-country="DO" group-title="Noticias",TVN24
 https://edge.essastream.com/vozzmedia/index.m3u8
-#EXTINF:-1 tvg-id="tvp-ciudad-obregon-sonora" tvg-name="TVP Ciudad Obregón (Sonora)" tvg-chno="239" tvg-country="ES" group-title="Noticias",TVP Ciudad Obregón (Sonora)
+#EXTINF:-1 tvg-id="tvp-ciudad-obregon-sonora" tvg-name="TVP Ciudad Obregón (Sonora)" tvg-chno="230" tvg-country="ES" group-title="Noticias",TVP Ciudad Obregón (Sonora)
 https://5ca3e84a76d30.streamlock.net/gpacifico3/obregon.smil/.m3u8
-#EXTINF:-1 tvg-id="tvp-culiacan-sinaloa" tvg-name="TVP Culiacán (Sinaloa)" tvg-chno="240" tvg-country="ES" group-title="Noticias",TVP Culiacán (Sinaloa)
+#EXTINF:-1 tvg-id="tvp-culiacan-sinaloa" tvg-name="TVP Culiacán (Sinaloa)" tvg-chno="231" tvg-country="ES" group-title="Noticias",TVP Culiacán (Sinaloa)
 https://5ca3e84a76d30.streamlock.net/gpacifico1/gpculiacan.smil/.m3u8
-#EXTINF:-1 tvg-id="tvp-los-mochis-sinaloa" tvg-name="TVP Los Mochis (Sinaloa)" tvg-chno="241" tvg-country="ES" group-title="Noticias",TVP Los Mochis (Sinaloa)
+#EXTINF:-1 tvg-id="tvp-los-mochis-sinaloa" tvg-name="TVP Los Mochis (Sinaloa)" tvg-chno="232" tvg-country="ES" group-title="Noticias",TVP Los Mochis (Sinaloa)
 https://5ca3e84a76d30.streamlock.net/gpacifico2/mochis.smil/.m3u8
-#EXTINF:-1 tvg-id="tvp-mazatlan-sinaloa" tvg-name="TVP Mazatlán (Sinaloa)" tvg-chno="242" tvg-country="ES" group-title="Noticias",TVP Mazatlán (Sinaloa)
+#EXTINF:-1 tvg-id="tvp-mazatlan-sinaloa" tvg-name="TVP Mazatlán (Sinaloa)" tvg-chno="233" tvg-country="ES" group-title="Noticias",TVP Mazatlán (Sinaloa)
 https://5ca3e84a76d30.streamlock.net/gpacifico4/mazatlan.smil/.m3u8
-#EXTINF:-1 tvg-id="tvpe-noticias-peru" tvg-name="TVPE Noticias (Perú)" tvg-chno="243" tvg-country="ES" group-title="Noticias",TVPE Noticias (Perú)
+#EXTINF:-1 tvg-id="tvpe-noticias-peru" tvg-name="TVPE Noticias (Perú)" tvg-chno="234" tvg-country="ES" group-title="Noticias",TVPE Noticias (Perú)
 https://cdnhd.iblups.com/hls/902c1a0395264f269f1160efa00660e47.m3u8
-#EXTINF:-1 tvg-id="umsa-tvu-lp-la-paz" tvg-name="UMSA TVU LP (La Paz)" tvg-chno="244" tvg-country="ES" group-title="Noticias",UMSA TVU LP (La Paz)
+#EXTINF:-1 tvg-id="umsa-tvu-lp-la-paz" tvg-name="UMSA TVU LP (La Paz)" tvg-chno="235" tvg-country="ES" group-title="Noticias",UMSA TVU LP (La Paz)
 https://live.enhdtv.com:8081/8190/playlist.m3u8
-#EXTINF:-1 tvg-id="unwebtv-us-sd" tvg-name="UN Web TV" tvg-chno="245" tvg-country="US" group-title="Noticias",UN Web TV
+#EXTINF:-1 tvg-id="unwebtv-us-sd" tvg-name="UN Web TV" tvg-chno="236" tvg-country="US" group-title="Noticias",UN Web TV
 https://cdnapi.kaltura.com/p/2503451/sp/250345100/playManifest/entryId/1_gb6tjmle/protocol/https/format/applehttp/a.m3u8
-#EXTINF:-1 tvg-id="unetv-hn-sd" tvg-name="UNE TV" tvg-chno="246" tvg-country="HN" group-title="Noticias",UNE TV
+#EXTINF:-1 tvg-id="unetv-hn-sd" tvg-name="UNE TV" tvg-chno="237" tvg-country="HN" group-title="Noticias",UNE TV
 https://amixtv.com:8081/unetvhn/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="venevision-noticias-venezuela" tvg-name="Venevision Noticias (Venezuela)" tvg-chno="247" tvg-country="ES" group-title="Noticias",Venevision Noticias (Venezuela)
+#EXTINF:-1 tvg-id="venevision-noticias-venezuela" tvg-name="Venevision Noticias (Venezuela)" tvg-chno="238" tvg-country="ES" group-title="Noticias",Venevision Noticias (Venezuela)
 https://dai.google.com/linear/hls/pa/event/q2LqrJ2ZRP6UuyzA6X0VsA/stream/ed51ab5e-9432-4fb3-92d5-6603d4671e51:CHS/master.m3u8
-#EXTINF:-1 tvg-id="vivetv-ar-hd" tvg-name="VIVE TV" tvg-chno="248" tvg-country="AR" group-title="Noticias",VIVE TV
+#EXTINF:-1 tvg-id="vivetv-ar-hd" tvg-name="VIVE TV" tvg-chno="239" tvg-country="AR" group-title="Noticias",VIVE TV
 https://vivo.solumedia.com:19360/vivetv/vivetv.m3u8
-#EXTINF:-1 tvg-id="vnp-pe-sd" tvg-name="VNP" tvg-chno="249" tvg-country="PE" group-title="Noticias",VNP
+#EXTINF:-1 tvg-id="vnp-pe-sd" tvg-name="VNP" tvg-chno="240" tvg-country="PE" group-title="Noticias",VNP
 https://videoserver.tmcreativos.com:19360/visionnoticias/visionnoticias.m3u8

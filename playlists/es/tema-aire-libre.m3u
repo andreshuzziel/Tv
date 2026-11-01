@@ -1,19 +1,15 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="agrotv-pe-sd" tvg-name="Agro TV (Peru)" tvg-chno="1136" tvg-country="PE" group-title="Aire libre",Agro TV (Peru)
+#EXTINF:-1 tvg-id="agrotv-pe-sd" tvg-name="Agro TV (Peru)" tvg-chno="1135" tvg-country="PE" group-title="Aire libre",Agro TV (Peru)
 https://live-evg8.tv360.bitel.com.pe/bitel/agroSRT/playlist.m3u8
-#EXTINF:-1 tvg-id="agrotendenciatv-cr-sd" tvg-name="Agrotendencia TV" tvg-chno="1137" tvg-country="CR" group-title="Aire libre",Agrotendencia TV
+#EXTINF:-1 tvg-id="agrotendenciatv-cr-sd" tvg-name="Agrotendencia TV" tvg-chno="1136" tvg-country="CR" group-title="Aire libre",Agrotendencia TV
 https://5fc584f3f19c9.streamlock.net/agrotendencia/videoagrotendencia_hls1/playlist.m3u8
-#EXTINF:-1 tvg-id="chacratv-ar-sd" tvg-name="Chacra TV" tvg-chno="1138" tvg-country="AR" group-title="Aire libre",Chacra TV
-https://5f700d5b2c46f.streamlock.net/chacratv/chacratv/playlist.m3u8
-#EXTINF:-1 tvg-id="ciudadmagica-ar-sd" tvg-name="Ciudad Magica" tvg-chno="1139" tvg-country="AR" group-title="Aire libre",Ciudad Magica
+#EXTINF:-1 tvg-id="ciudadmagica-ar-sd" tvg-name="Ciudad Magica" tvg-chno="1137" tvg-country="AR" group-title="Aire libre",Ciudad Magica
 https://lbgo.bozztv.com/ssh101/ssh101/verycoolfgr/playlist.m3u8
-#EXTINF:-1 tvg-id="elmundodelcampo-co-sd" tvg-name="El Mundo del Campo" tvg-chno="1140" tvg-country="CO" group-title="Aire libre",El Mundo del Campo
+#EXTINF:-1 tvg-id="elmundodelcampo-co-sd" tvg-name="El Mundo del Campo" tvg-chno="1138" tvg-country="CO" group-title="Aire libre",El Mundo del Campo
 https://movil.ejeserver.com/live/elmundodelcampo.m3u8
-#EXTINF:-1 tvg-id="lovenature-ca-sd" tvg-name="Love Nature" tvg-chno="1141" tvg-country="CA" group-title="Aire libre",Love Nature
+#EXTINF:-1 tvg-id="lovenature-ca-sd" tvg-name="Love Nature" tvg-chno="1139" tvg-country="CA" group-title="Aire libre",Love Nature
 https://aegis-cloudfront-1.tubi.video/6d6d0f24-8445-4b4c-bdf6-44f9e38beaa4/playlist.m3u8
-#EXTINF:-1 tvg-id="lovenature-ca-hd" tvg-name="Love Nature HD" tvg-chno="1142" tvg-country="CA" group-title="Aire libre",Love Nature HD
+#EXTINF:-1 tvg-id="lovenature-ca-hd" tvg-name="Love Nature HD" tvg-chno="1140" tvg-country="CA" group-title="Aire libre",Love Nature HD
 https://mumbai-edge.smartplaytv.in/LoveNature/index.m3u8
-#EXTINF:-1 tvg-id="redbulltv-at-es" tvg-name="Red Bull TV ES" tvg-chno="1143" tvg-country="AT" group-title="Aire libre",Red Bull TV ES
+#EXTINF:-1 tvg-id="redbulltv-at-es" tvg-name="Red Bull TV ES" tvg-chno="1141" tvg-country="AT" group-title="Aire libre",Red Bull TV ES
 https://886bd3fbc782459f8de7555d32d7e9ce.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-957-WORBLATAMESFAST-WHALETVPLUS/957/whaletvplus/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-id="umctv-co-sd" tvg-name="UMC TV" tvg-chno="1144" tvg-country="CO" group-title="Aire libre",UMC TV
-https://streaming5.globalhostla.com/rtplive/unamirad/playlist.m3u8
