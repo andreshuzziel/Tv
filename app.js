@@ -13,6 +13,10 @@
     get: (k, d) => { try { return JSON.parse(localStorage.getItem(k)) ?? d; } catch { return d; } },
     set: (k, v) => { try { localStorage.setItem(k, JSON.stringify(v)); } catch {} }
   };
+  // ✏️ Renombres personalizados: base en data/renames.js (persistente en el repo) + localStorage
+  const renames = Object.assign({}, window.RENAMES || {}, store.get('tvcl_renames', {}));
+  const saveRenames = () => store.set('tvcl_renames', renames);
+  const dispName = c => renames[c.id] || c.name;
   const toast = msg => {
     const t = $('#toast'); t.textContent = msg; t.classList.add('show');
     clearTimeout(t._t); t._t = setTimeout(() => t.classList.remove('show'), 2200);
@@ -83,7 +87,7 @@
     c._origin = originOf(c);
     c._kind = KIND(c.group);
     c._flag = flagOf(c.cc) || (c._origin === 'es' ? '\u{1F30E}' : '\u{1F1E8}\u{1F1F1}');
-    c._q = norm([c.name, c.region, c.group, c._reg || '', c.cc || '', c.note].join(' '));
+    c._q = norm([c.name, dispName(c), c.region, c.group, c._reg || '', c.cc || '', c.note].join(' '));
   });
   const byId = new Map(chans.map(c => [c.id, c]));
   const regChans = chans.filter(c => c._reg);
@@ -172,9 +176,9 @@
     const sub = sec === 'reg'
       ? (c.note || '').split('·')[0].trim() || c.group
       : c._reg ? `${c._reg} · ${c.group}` : `${c._origin === 'es' ? '🌎' : '🇨🇱'} ${c.group}${c.note ? ' · ' + c.note.split('·')[0].trim() : ''}`;
-    return `<button class="ch ${current && current.id === c.id ? 'on' : ''} ${c.url ? '' : 'dis'}" data-id="${esc(c.id)}" title="${esc(c.name)} (${esc(c.cc || '?').toUpperCase()})">
+    return `<button class="ch ${current && current.id === c.id ? 'on' : ''} ${c.url ? '' : 'dis'}" data-id="${esc(c.id)}" title="${esc(dispName(c))} (${esc(c.cc || '?').toUpperCase()})${renames[c.id] ? ' · original: ' + esc(c.name) : ''}">
       <span class="cflag">${c._flag}</span><span class="logo" style="background:${esc(c.color || '#334155')}">${esc((c.abbr || c.name || '?').slice(0, 4))}</span>
-      <span class="meta"><span class="nm">${esc(c.name)}</span><span class="sb">${esc(sub)}</span></span>
+      <span class="meta"><span class="nm">${esc(dispName(c))}${renames[c.id] ? ' <span style="opacity:.55;font-size:11px">(renombrado)</span>' : ''}</span><span class="sb">${esc(sub)}</span></span>
       <span class="eq"><i></i><i></i><i></i></span>
       ${favs.has(c.id) ? '<span class="star">★</span>' : ''}
     </button>`;
@@ -432,7 +436,7 @@
     reveal(ch); render();
     requestAnimationFrame(() => document.querySelector(`.ch[data-id="${CSS.escape(ch.id)}"]`)?.scrollIntoView({ block: 'nearest' }));
 
-    $('#nowName').textContent = ch.name;
+    $('#nowName').textContent = dispName(ch);
     const nf = $('#nowFlag'); if (nf) nf.textContent = ch._flag || '';
     $('#nowGroup').textContent = [ch._reg ? `Región de ${ch._reg}` : (THEMES.find(t => t.k === ch._theme) || {}).name, ch.note].filter(Boolean).join(' · ');
     $('#ovLogo').textContent = (ch.abbr || ch.name).slice(0, 4);
@@ -512,6 +516,21 @@
     favs.has(current.id) ? favs.delete(current.id) : favs.add(current.id);
     saveFavs();
     $('#favBtn').textContent = favs.has(current.id) ? '★ Favorito' : '☆ Favorito';
+    render();
+  });
+
+  // ✏️ Renombrar canal (vacío = vuelve al nombre original)
+  $('#renBtn').addEventListener('click', () => {
+    if (!current) return toast('Elige un canal primero');
+    const nn = prompt('Nuevo nombre para "' + dispName(current) + '"\n(deja vacío para volver al original: "' + current.name + '")', renames[current.id] || '');
+    if (nn === null) return;
+    const v = nn.trim();
+    if (v && v !== current.name) { renames[current.id] = v; toast('✏️ Renombrado: ' + v); }
+    else { delete renames[current.id]; toast('Nombre restaurado al original'); }
+    saveRenames();
+    current._q = norm([current.name, dispName(current), current.region, current.group, current._reg || '', current.cc || '', current.note].join(' '));
+    $('#nowName').textContent = dispName(current);
+    $('#ovName').textContent = dispName(current);
     render();
   });
 
