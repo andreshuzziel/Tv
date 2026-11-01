@@ -4,3 +4,7 @@ upstream/audit/findings.csv
 upstream/audit/fuentes-extras-findings.csv
 upstream/audit/m3u-cl-findings.csv
 upstream/m3u-cl/CL-raw.m3u
+
+# artefactos generados (afiche.py los regenera):
+afiches/*.png
+uploads/
