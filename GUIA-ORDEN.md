@@ -3139,3 +3139,24 @@ Cada canal lleva su número en `tvg-chno` dentro de `playlists/tv-chile-todo.m3u
 | 3111 | 🇪🇸 | Clan RTVE | Infantil | Nacional |  *(gratis, stream oficial verificado)*
 | 3112 | 🇪🇸 | La 2 de TVE | Cultura | Nacional |  *(gratis, stream oficial verificado)*
 
+
+
+---
+
+## 🌐 Temática OTT — servicios de streaming GRATIS (enlaces oficiales, sin cable)
+No son canales con stream: al abrirlos vas al sitio oficial (gratis con anuncios o registro).
+
+| # | Servicio | País | Web |
+|---|---|---|---|
+| ott | Pluto TV | 🇺🇸 | pluto.tv |
+| ott | Vix (tier gratis) | 🇺🇸 | vix.com |
+| ott | Tubi | 🇺🇸 | tubi.tv |
+| ott | Samsung TV Plus | 🇰🇷 | samsungtvplus.com |
+| ott | LG Channels | 🇰🇷 | lgchannels.com |
+| ott | Plex (TV gratis) | 🇺🇸 | plex.tv |
+| ott | YouTube — en vivo | 🇺🇸 | youtube.com/live |
+| ott | RTVE Play | 🇪🇸 | rtve.es/play |
+| ott | Twitch | 🇺🇸 | twitch.tv |
+| ott | Dailymotion | 🇫🇷 | dailymotion.com |
+
+*Los OTT de pago (Max/HBO, TNT Sports, Disney+, Prime, Paramount+) NO están implementados como canales; van por suscripción oficial (ver sección ✔ legales para deportes).*

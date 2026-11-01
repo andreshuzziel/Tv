@@ -22,11 +22,13 @@ SECTIONS = [
     (309, 317, '⚽ Deportes (legales) — sección ampliada', '#16a34a'), (318, 322, '🧸 Infantil · animación · anime', '#f59e0b'),
     (323, 415, '🎵 Música y radios', '#9333ea'), (416, 433, '⛪ Religiosos', '#a16207'),
     (434, 446, '🎓 Cultura · educación · documentales', '#0891b2'), (447, 683, '📡 Resto de Chile', '#64748b'),
-    (684, 3110, '🌎 Español — otros países', '#4f46e5'), (None, None, '🌐 Solo sitio web (sin stream)', '#334155'),
+    (684, 3110, '🌎 Español — otros países', '#4f46e5'), (3111, 99999, '✨ Nuevos FAST gratis (nov-2026)', '#a16207'),
+    (None, None, '🌐 Servicios OTT gratis (enlaces, sin stream)', '#4f46e5'), (None, None, '🌐 Solo sitio web (sin stream)', '#334155'),
 ]
 DEPORTES = SECTIONS[4]
 def seccion(r):
     if r.get('alt'): return DEPORTES
+    if r.get('group') == 'OTT': return SECTIONS[-2]
     if not r['url'] or not r['chno']: return SECTIONS[-1]
     for s in SECTIONS[:-1]:
         if s[0] <= r['chno'] <= s[1]: return s
@@ -94,7 +96,7 @@ def svg_doc(title, subtitle, items, fname):
          f'<text x="{M}" y="46" font-size="34" font-weight="700" fill="#f8fafc">{esc(title)}</text>',
          f'<text x="{M}" y="76" font-size="15" fill="#94a3b8">{esc(subtitle)}</text>',
          f'<text x="{M}" y="102" font-size="13" fill="#64748b">Cada celda:  #número  🚩 bandera real + emote 🏳️ del país de origen (flagcdn, ISO 3166-1)  Nombre   ·   tooltip: país + temática</text>',
-         f'<text x="{M}" y="126" font-size="13" fill="#64748b">Rangos: 1–32 señal abierta CL · 33–52 noticias · 53–85 Biobío · 86–308 regiones · 309–317 deportes (+ alternativas legales ✔) · 318–322 infantil/anime · 323–415 música · 416–433 religiosos · 434–446 cultura · 447–683 resto CL · 684–3110 español otros países</text>',
+         f'<text x="{M}" y="126" font-size="13" fill="#64748b">Rangos: 1–32 señal abierta CL · 33–52 noticias · 53–85 Biobío · 86–308 regiones · 309–317 deportes (+ alternativas legales ✔) · 318–322 infantil/anime · 323–415 música · 416–433 religiosos · 434–446 cultura · 447–683 resto CL · 684–3110 español otros países · 3111+ nuevos FAST · 🌐 OTT gratis al final</text>',
          f'<text x="{M}" y="148" font-size="13" fill="#64748b">Generado 01-nov-2026 · v3.112 · sanitizado (https, sin TV de pago/piratería)</text>']
     y = head_h
     for s, grp in blocks:
