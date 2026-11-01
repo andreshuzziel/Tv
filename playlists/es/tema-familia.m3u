@@ -1,15 +1,15 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="6wisetv-us-sd" tvg-name="6 Wise Tv" tvg-chno="451" tvg-country="US" group-title="Familia",6 Wise Tv
+#EXTINF:-1 tvg-id="6wisetv-us-sd" tvg-name="6 Wise Tv" tvg-chno="478" tvg-country="US" group-title="Familia",6 Wise Tv
 https://live.enhdtv.com:8081/8150/index.m3u8
-#EXTINF:-1 tvg-id="hopechannelproyectoja-cr-sd" tvg-name="Hope Channel PROYECTO JA" tvg-chno="452" tvg-country="CR" group-title="Familia",Hope Channel PROYECTO JA
+#EXTINF:-1 tvg-id="hopechannelproyectoja-cr-sd" tvg-name="Hope Channel PROYECTO JA" tvg-chno="479" tvg-country="CR" group-title="Familia",Hope Channel PROYECTO JA
 https://edge1-us-miami.picarto.tv/stream/hls/golive%2bXSTUDIOCODE/0_1/index.m3u8
-#EXTINF:-1 tvg-id="talangatvcanal39-hn-sd" tvg-name="Talanga TV Canal 39" tvg-chno="453" tvg-country="HN" group-title="Familia",Talanga TV Canal 39
+#EXTINF:-1 tvg-id="talangatvcanal39-hn-sd" tvg-name="Talanga TV Canal 39" tvg-chno="480" tvg-country="HN" group-title="Familia",Talanga TV Canal 39
 https://stream.oursnetworktv.com/latin/Tv39Talanga/playlist.m3u8
-#EXTINF:-1 tvg-id="telenovisa43-do-sd" tvg-name="Telenovisa43" tvg-chno="454" tvg-country="DO" group-title="Familia",Telenovisa43
+#EXTINF:-1 tvg-id="telenovisa43-do-sd" tvg-name="Telenovisa43" tvg-chno="481" tvg-country="DO" group-title="Familia",Telenovisa43
 https://fox.hostlagarto.com:8081/telenonisa43/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="thepetcollective-us-mexico" tvg-name="The Pet Collective Mexico" tvg-chno="455" tvg-country="US" group-title="Familia",The Pet Collective Mexico
+#EXTINF:-1 tvg-id="thepetcollective-us-mexico" tvg-name="The Pet Collective Mexico" tvg-chno="482" tvg-country="US" group-title="Familia",The Pet Collective Mexico
 https://the-pet-collective-international-mx.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="thepetcollective-us-spain" tvg-name="The Pet Collective Spain" tvg-chno="456" tvg-country="US" group-title="Familia",The Pet Collective Spain
+#EXTINF:-1 tvg-id="thepetcollective-us-spain" tvg-name="The Pet Collective Spain" tvg-chno="483" tvg-country="US" group-title="Familia",The Pet Collective Spain
 https://the-pet-collective-international-es.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="tvfamilia-ve-sd" tvg-name="TV Familia" tvg-chno="457" tvg-country="VE" group-title="Familia",TV Familia
+#EXTINF:-1 tvg-id="tvfamilia-ve-sd" tvg-name="TV Familia" tvg-chno="484" tvg-country="VE" group-title="Familia",TV Familia
 https://cloudusa.streamingconnect.com/tvfamiliatvbox/tvfamiliaweb.m3u8

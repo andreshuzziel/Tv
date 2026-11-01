@@ -76,25 +76,25 @@ Cada canal lleva su número en \`tvg-chno\` dentro de \`playlists/tv-chile-todo.
 
 ## 🗂️ Esquema de numeración (rangos por bloque temático)
 
-- **#1–#23** · 📺 Señal abierta nacional de Chile
-- **#100+** · 📰 Noticias
-- **#201+** · ⚽ Deportes (legales/FAST)
-- **#301+** · 🎬 Entretenimiento y series
-- **#401+** · 🧸 Infantil y animación
-- **#501+** · ⛩️ Anime y doramas
-- **#601+** · 🎓 Cultura, educación y documentales
-- **#701+** · 🎵 Música y radios
-- **#1001+** · 📻 Radios en video
-- **#1101+** · 🌿 Estilo de vida y viajes
-- **#1201+** · 🏛️ Gobierno y Congreso de Chile (solo 🇨🇱)
-- **#1301+** · ⛪ Religiosos
-- **#1501+** · 🤝 Comunitarios
-- **#1601+** · 🌐 Internacionales
-- **#1701+** · 🌐 Servicios OTT gratis (enlaces)
-- **#1801+** · 📡 Generalistas (resto)
-- **#3501+** · 📍 Regiones de Chile (norte→sur)
+- **#1–#100** · 📺 Señal abierta nacional de Chile
+- **#101–#200** · 📰 Noticias
+- **#201–#300** · ⚽ Deportes (legales/FAST)
+- **#301–#400** · 🎬 Entretenimiento y series
+- **#401–#500** · 🧸 Infantil y animación
+- **#501–#600** · ⛩️ Anime y doramas
+- **#601–#700** · 🎓 Cultura, educación y documentales
+- **#701–#1000** · 🎵 Música y radios
+- **#1001–#1100** · 📻 Radios en video
+- **#1101–#1200** · 🌿 Estilo de vida y viajes
+- **#1201–#1300** · 🏛️ Gobierno y Congreso de Chile (solo 🇨🇱)
+- **#1301–#1500** · ⛪ Religiosos
+- **#1501–#1600** · 🤝 Comunitarios
+- **#1601–#1700** · 🌐 Internacionales
+- **#1701–#1800** · 🌐 Servicios OTT gratis (enlaces)
+- **#1801–#3500** · 📡 Generalistas (resto)
+- **#3501–#3800** · 📍 Regiones de Chile (norte→sur)
 
-Cada bloque arranca en el número indicado y dentro de él los canales van en **# ascendente** (orden cronológico).
+Cada bloque arranca en el número indicado y dentro de él los canales van en **# ascendente**; si un bloque tiene más canales que el ancho declarado, el siguiente arranca después del último usado (sin repetir números).
 
 ## 🔢 Lista completa ordenada por temática (dentro de cada tema: # ascendente)
 `;

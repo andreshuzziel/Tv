@@ -1,9 +1,9 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="macgyver-us-latam" tvg-name="MacGyver (United States) LatAm" tvg-chno="458" tvg-country="US" group-title="Clásicos",MacGyver (United States) LatAm
+#EXTINF:-1 tvg-id="macgyver-us-latam" tvg-name="MacGyver (United States) LatAm" tvg-chno="485" tvg-country="US" group-title="Clásicos",MacGyver (United States) LatAm
 https://jmp2.uk/plu-63eb95baa99571000898a078.m3u8
-#EXTINF:-1 tvg-id="plutotvseriesretro-us-latam" tvg-name="Pluto TV Series Retro" tvg-chno="459" tvg-country="US" group-title="Clásicos",Pluto TV Series Retro
+#EXTINF:-1 tvg-id="plutotvseriesretro-us-latam" tvg-name="Pluto TV Series Retro" tvg-chno="486" tvg-country="US" group-title="Clásicos",Pluto TV Series Retro
 https://jmp2.uk/plu-5de802659167b10009e7deba.m3u8
-#EXTINF:-1 tvg-id="retroxtv-cr-sd" tvg-name="Retrox TV" tvg-chno="460" tvg-country="CR" group-title="Clásicos",Retrox TV
+#EXTINF:-1 tvg-id="retroxtv-cr-sd" tvg-name="Retrox TV" tvg-chno="487" tvg-country="CR" group-title="Clásicos",Retrox TV
 https://lbgo.bozztv.com/ssh101/ssh101/retyroxtv/playlist.m3u8
-#EXTINF:-1 tvg-id="tvsretro-gt-sd" tvg-name="TVS Retro" tvg-chno="461" tvg-country="GT" group-title="Clásicos",TVS Retro
+#EXTINF:-1 tvg-id="tvsretro-gt-sd" tvg-name="TVS Retro" tvg-chno="488" tvg-country="GT" group-title="Clásicos",TVS Retro
 https://cdn.streamhispanatv.net:3531/live/tvsretrogtlive.m3u8

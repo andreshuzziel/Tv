@@ -37,959 +37,959 @@ https://iptv2.intersurtv.cl/TVN/index.m3u8?PlaylistM3UCL
 https://mdstrm.com/live-stream-playlist/5653641561b4eba30a7e4929.m3u8
 #EXTINF:-1 tvg-id="1437-tvn3" tvg-name="TVN3" tvg-chno="23" tvg-country="CL" group-title="Nacional",TVN3
 https://mdstrm.com/live-stream-playlist/5653641561b4eba30a7e4929.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="adn" tvg-name="ADN TV" tvg-chno="100" tvg-country="CL" group-title="Noticias",ADN TV
+#EXTINF:-1 tvg-id="adn" tvg-name="ADN TV" tvg-chno="101" tvg-country="CL" group-title="Noticias",ADN TV
 https://redirector.rudo.video/hls-video/931b584451fa6dd1313ee66efbfd5802e3f3bcea/adntv/adntv.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="agri" tvg-name="Agricultura TV" tvg-chno="101" tvg-country="CL" group-title="Noticias",Agricultura TV
+#EXTINF:-1 tvg-id="agri" tvg-name="Agricultura TV" tvg-chno="102" tvg-country="CL" group-title="Noticias",Agricultura TV
 https://redirector.rudo.video/hls-video/ey6283je82983je9823je8jowowiekldk9838274/921tv/921tv.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="atacamanoticias-cl-sd" tvg-name="Atacama Noticias" tvg-chno="102" tvg-country="CL" group-title="Noticias",Atacama Noticias
+#EXTINF:-1 tvg-id="atacamanoticias-cl-sd" tvg-name="Atacama Noticias" tvg-chno="103" tvg-country="CL" group-title="Noticias",Atacama Noticias
 https://v2.tustreaming.cl/atacamanoticias/index.m3u8
-#EXTINF:-1 tvg-id="1153-chv-noticias" tvg-name="CHV Noticias" tvg-chno="103" tvg-country="CL" group-title="Noticias",CHV Noticias
+#EXTINF:-1 tvg-id="1153-chv-noticias" tvg-name="CHV Noticias" tvg-chno="104" tvg-country="CL" group-title="Noticias",CHV Noticias
 https://redirector.rudo.video/hls-video/339f69c6122f6d8f4574732c235f09b7683e31a5/chvn/chvn.smil/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="coop" tvg-name="Cooperativa TV" tvg-chno="104" tvg-country="CL" group-title="Noticias",Cooperativa TV
+#EXTINF:-1 tvg-id="coop" tvg-name="Cooperativa TV" tvg-chno="105" tvg-country="CL" group-title="Noticias",Cooperativa TV
 https://unlimited1-cl-isp.dps.live/coopetv/coopetv.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="elcentrotv-cl-sd" tvg-name="El Centro TV" tvg-chno="105" tvg-country="CL" group-title="Noticias",El Centro TV
+#EXTINF:-1 tvg-id="elcentrotv-cl-sd" tvg-name="El Centro TV" tvg-chno="106" tvg-country="CL" group-title="Noticias",El Centro TV
 https://v1.tustreaming.cl/diarioelcentrotv/index.m3u8
-#EXTINF:-1 tvg-id="elpinguinotv-cl-sd" tvg-name="El Pinguino TV" tvg-chno="106" tvg-country="CL" group-title="Noticias",El Pinguino TV
+#EXTINF:-1 tvg-id="elpinguinotv-cl-sd" tvg-name="El Pinguino TV" tvg-chno="107" tvg-country="CL" group-title="Noticias",El Pinguino TV
 https://redirector.dps.live/hls/pinguinotv/playlist.m3u8
-#EXTINF:-1 tvg-id="449-meganoticias" tvg-name="Meganoticias" tvg-chno="107" tvg-country="CL" group-title="Noticias",Meganoticias
+#EXTINF:-1 tvg-id="449-meganoticias" tvg-name="Meganoticias" tvg-chno="108" tvg-country="CL" group-title="Noticias",Meganoticias
 https://mdstrm.com/live-stream-playlist/561430ae330428c223687e1e.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="megano" tvg-name="Meganoticias Ahora" tvg-chno="108" tvg-country="CL" group-title="Noticias",Meganoticias Ahora
+#EXTINF:-1 tvg-id="megano" tvg-name="Meganoticias Ahora" tvg-chno="109" tvg-country="CL" group-title="Noticias",Meganoticias Ahora
 https://mdstrm.com/live-stream-playlist/561430ae330428c223687e1e.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="opinionsur-cl-sd" tvg-name="Opinionsur" tvg-chno="109" tvg-country="CL" group-title="Noticias",Opinionsur
+#EXTINF:-1 tvg-id="opinionsur-cl-sd" tvg-name="Opinionsur" tvg-chno="110" tvg-country="CL" group-title="Noticias",Opinionsur
 https://183.bozztv.com/giatv/giatv-opinionsurc/opinionsurc/playlist.m3u8
-#EXTINF:-1 tvg-id="415-puranoticia" tvg-name="Puranoticia" tvg-chno="110" tvg-country="CL" group-title="Noticias",Puranoticia
+#EXTINF:-1 tvg-id="415-puranoticia" tvg-name="Puranoticia" tvg-chno="111" tvg-country="CL" group-title="Noticias",Puranoticia
 https://pnt.janusmedia.tv/hls/pnt.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="puranoticiatv-cl-sd" tvg-name="Puranoticia TV" tvg-chno="111" tvg-country="CL" group-title="Noticias",Puranoticia TV
+#EXTINF:-1 tvg-id="puranoticiatv-cl-sd" tvg-name="Puranoticia TV" tvg-chno="112" tvg-country="CL" group-title="Noticias",Puranoticia TV
 https://pnt.janusmedia.tv/hls/pnt.m3u8
-#EXTINF:-1 tvg-id="1054-t13" tvg-name="T13" tvg-chno="112" tvg-country="CL" group-title="Noticias",T13
+#EXTINF:-1 tvg-id="1054-t13" tvg-name="T13" tvg-chno="113" tvg-country="CL" group-title="Noticias",T13
 https://redirector.rudo.video/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/t13/t13.smil/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="t13" tvg-name="T13 En Vivo" tvg-chno="113" tvg-country="CL" group-title="Noticias",T13 En Vivo
+#EXTINF:-1 tvg-id="t13" tvg-name="T13 En Vivo" tvg-chno="114" tvg-country="CL" group-title="Noticias",T13 En Vivo
 https://redirector.dps.live/hls/t13/playlist.m3u8
-#EXTINF:-1 tvg-id="telecauquenes-cl-sd" tvg-name="TeleCauquenes" tvg-chno="114" tvg-country="CL" group-title="Noticias",TeleCauquenes
+#EXTINF:-1 tvg-id="telecauquenes-cl-sd" tvg-name="TeleCauquenes" tvg-chno="115" tvg-country="CL" group-title="Noticias",TeleCauquenes
 https://lbgo.bozztv.com/ssh101/ssh101/telecauquenestv/playlist.m3u8
-#EXTINF:-1 tvg-id="turno-cl-sd" tvg-name="Turno" tvg-chno="115" tvg-country="CL" group-title="Noticias",Turno
+#EXTINF:-1 tvg-id="turno-cl-sd" tvg-name="Turno" tvg-chno="116" tvg-country="CL" group-title="Noticias",Turno
 https://redirector.dps.live/hls/turno/playlist.m3u8
-#EXTINF:-1 tvg-id="448-tvn-24-horas" tvg-name="TVN 24 Horas" tvg-chno="116" tvg-country="CL" group-title="Noticias",TVN 24 Horas
+#EXTINF:-1 tvg-id="448-tvn-24-horas" tvg-name="TVN 24 Horas" tvg-chno="117" tvg-country="CL" group-title="Noticias",TVN 24 Horas
 https://mdstrm.com/live-stream-playlist/689ba606ecfe7915e1f8f741.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="101tvmalaga-es-sd" tvg-name="101tv Malaga" tvg-chno="117" tvg-country="ES" group-title="Noticias",101tv Malaga
+#EXTINF:-1 tvg-id="101tvmalaga-es-sd" tvg-name="101tv Malaga" tvg-chno="118" tvg-country="ES" group-title="Noticias",101tv Malaga
 https://liveingesta318.cdnmedia.tv/101weblive/smil:malaga.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="24horascatalunya-es-sd" tvg-name="24 Horas Catalunya" tvg-chno="119" tvg-country="ES" group-title="Noticias",24 Horas Catalunya
+#EXTINF:-1 tvg-id="24horascatalunya-es-sd" tvg-name="24 Horas Catalunya" tvg-chno="120" tvg-country="ES" group-title="Noticias",24 Horas Catalunya
 https://ztnr.rtve.es/ztnr/4952053.m3u8
-#EXTINF:-1 tvg-id="247canaldenoticias-ar-sd" tvg-name="24/7 Canal de Noticias" tvg-chno="120" tvg-country="AR" group-title="Noticias",24/7 Canal de Noticias
+#EXTINF:-1 tvg-id="247canaldenoticias-ar-sd" tvg-name="24/7 Canal de Noticias" tvg-chno="121" tvg-country="AR" group-title="Noticias",24/7 Canal de Noticias
 https://panel.host-live.com:19360/cn247tv/cn247tv.m3u8
-#EXTINF:-1 tvg-id="4dmasnoticiastv-py-sd" tvg-name="4Dmas Noticias TV" tvg-chno="121" tvg-country="PY" group-title="Noticias",4Dmas Noticias TV
+#EXTINF:-1 tvg-id="4dmasnoticiastv-py-sd" tvg-name="4Dmas Noticias TV" tvg-chno="122" tvg-country="PY" group-title="Noticias",4Dmas Noticias TV
 https://rds3.desdeparaguay.net/4dmasnoticiastv/4dmasnoticiastv/playlist.m3u8
-#EXTINF:-1 tvg-id="abcnewslive-us-sd" tvg-name="ABC News Live" tvg-chno="122" tvg-country="US" group-title="Noticias",ABC News Live
+#EXTINF:-1 tvg-id="abcnewslive-us-sd" tvg-name="ABC News Live" tvg-chno="123" tvg-country="US" group-title="Noticias",ABC News Live
 https://jmp2.uk/plu-6508be683a0d700008c534e4.m3u8
-#EXTINF:-1 tvg-id="acentotv-do-sd" tvg-name="Acento TV" tvg-chno="123" tvg-country="DO" group-title="Noticias",Acento TV
+#EXTINF:-1 tvg-id="acentotv-do-sd" tvg-name="Acento TV" tvg-chno="124" tvg-country="DO" group-title="Noticias",Acento TV
 https://acentotv01.streamprolive.com/hls/live.m3u8
-#EXTINF:-1 tvg-id="actualidad360-es-sd" tvg-name="Actualidad 360" tvg-chno="124" tvg-country="ES" group-title="Noticias",Actualidad 360
+#EXTINF:-1 tvg-id="actualidad360-es-sd" tvg-name="Actualidad 360" tvg-chno="125" tvg-country="ES" group-title="Noticias",Actualidad 360
 https://jmp2.uk/plu-67517fae5534bb0008187997.m3u8
-#EXTINF:-1 tvg-id="acustiktv-mx-sd" tvg-name="Acustik TV" tvg-chno="125" tvg-country="MX" group-title="Noticias",Acustik TV
+#EXTINF:-1 tvg-id="acustiktv-mx-sd" tvg-name="Acustik TV" tvg-chno="126" tvg-country="MX" group-title="Noticias",Acustik TV
 https://s5.mexside.net:1936/clientetv/clientetv/playlist.m3u8
-#EXTINF:-1 tvg-id="adn40-mx-sd" tvg-name="ADN 40" tvg-chno="126" tvg-country="MX" group-title="Noticias",ADN 40
+#EXTINF:-1 tvg-id="adn40-mx-sd" tvg-name="ADN 40" tvg-chno="127" tvg-country="MX" group-title="Noticias",ADN 40
 https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
-#EXTINF:-1 tvg-id="aire-de-santa-fe-santa-fe" tvg-name="Aire de Santa Fe (Santa Fe)" tvg-chno="127" tvg-country="ES" group-title="Noticias",Aire de Santa Fe (Santa Fe)
+#EXTINF:-1 tvg-id="aire-de-santa-fe-santa-fe" tvg-name="Aire de Santa Fe (Santa Fe)" tvg-chno="128" tvg-country="ES" group-title="Noticias",Aire de Santa Fe (Santa Fe)
 https://mdstrm.com/live-stream-playlist/6931a0eb06778645348008e0.m3u8
-#EXTINF:-1 tvg-id="aljazeera-qa-english" tvg-name="Al Jazeera English" tvg-chno="128" tvg-country="QA" group-title="Noticias",Al Jazeera English
+#EXTINF:-1 tvg-id="aljazeera-qa-english" tvg-name="Al Jazeera English" tvg-chno="129" tvg-country="QA" group-title="Noticias",Al Jazeera English
 https://live-hls-apps-aje-fa.getaj.net/AJE/index.m3u8
-#EXTINF:-1 tvg-id="amxnoticias-mx-sd" tvg-name="AMX Noticias" tvg-chno="129" tvg-country="MX" group-title="Noticias",AMX Noticias
+#EXTINF:-1 tvg-id="amxnoticias-mx-sd" tvg-name="AMX Noticias" tvg-chno="130" tvg-country="MX" group-title="Noticias",AMX Noticias
 https://5e50264bd6766.streamlock.net/mexiquense2/videomexiquense2/playlist.m3u8
-#EXTINF:-1 tvg-id="arirangun-kr-sd" tvg-name="Arirang UN" tvg-chno="130" tvg-country="KR" group-title="Noticias",Arirang UN
+#EXTINF:-1 tvg-id="arirangun-kr-sd" tvg-name="Arirang UN" tvg-chno="131" tvg-country="KR" group-title="Noticias",Arirang UN
 https://amdlive-ch02-ctnd-com.akamaized.net/arirang_2ch/smil:arirang_2ch.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="aznewstv-se-sd" tvg-name="Aznews TV" tvg-chno="131" tvg-country="SE" group-title="Noticias",Aznews TV
+#EXTINF:-1 tvg-id="aznewstv-se-sd" tvg-name="Aznews TV" tvg-chno="132" tvg-country="SE" group-title="Noticias",Aznews TV
 https://edge1.socialsmart.tv/aznews/smil/playlist.m3u8
-#EXTINF:-1 tvg-id="buendiatv-hn-sd" tvg-name="Buendia TV" tvg-chno="132" tvg-country="HN" group-title="Noticias",Buendia TV
+#EXTINF:-1 tvg-id="buendiatv-hn-sd" tvg-name="Buendia TV" tvg-chno="133" tvg-country="HN" group-title="Noticias",Buendia TV
 https://servilive.com:3508/stream/play.m3u8
-#EXTINF:-1 tvg-id="c9n-py-sd" tvg-name="C9N" tvg-chno="133" tvg-country="PY" group-title="Noticias",C9N
+#EXTINF:-1 tvg-id="c9n-py-sd" tvg-name="C9N" tvg-chno="134" tvg-country="PY" group-title="Noticias",C9N
 https://d2b5h5wyivfnfl.cloudfront.net/live/48f53430-9014-4459-a048-6169dac14140/ts:abr.m3u8
-#EXTINF:-1 tvg-id="canal-2000-la-solana-hd-ciudad-real-castilla" tvg-name="Canal 2000 La Solana HD (Ciudad Real - Castilla-La Mancha)" tvg-chno="134" tvg-country="ES" group-title="Noticias",Canal 2000 La Solana HD (Ciudad Real - Castilla-La Mancha)
+#EXTINF:-1 tvg-id="canal-2000-la-solana-hd-ciudad-real-castilla" tvg-name="Canal 2000 La Solana HD (Ciudad Real - Castilla-La Mancha)" tvg-chno="135" tvg-country="ES" group-title="Noticias",Canal 2000 La Solana HD (Ciudad Real - Castilla-La Mancha)
 https://signal.teleon.live/play/8GxSpgH4ZmGhHm5KtRaCT5xGUuc3leeyAAQN2LY945nSSRSGbXfHrxylkbU97jCTUHhtQTPevPXvM-xREasgYRvuBPHRhCvIyYlHb1Ykk0z3-K1oXlir4mE97qcweVEAHg.m3u8?token=test
-#EXTINF:-1 tvg-id="canal-22-argentina-nacional" tvg-name="Canal 22 (Argentina - Nacional)" tvg-chno="135" tvg-country="ES" group-title="Noticias",Canal 22 (Argentina - Nacional)
+#EXTINF:-1 tvg-id="canal-22-argentina-nacional" tvg-name="Canal 22 (Argentina - Nacional)" tvg-chno="136" tvg-country="ES" group-title="Noticias",Canal 22 (Argentina - Nacional)
 https://media.cdnvid.com/public/7c3g8h159tip.m3u8
-#EXTINF:-1 tvg-id="canal26-ar-sd" tvg-name="Canal 26 (Argentina)" tvg-chno="136" tvg-country="AR" group-title="Noticias",Canal 26 (Argentina)
+#EXTINF:-1 tvg-id="canal26-ar-sd" tvg-name="Canal 26 (Argentina)" tvg-chno="137" tvg-country="AR" group-title="Noticias",Canal 26 (Argentina)
 https://stream-gtlc.telecentro.net.ar/hls/canal26hls/main.m3u8
-#EXTINF:-1 tvg-id="canal-28-nuevo-leon-no-24-7-monterrey" tvg-name="Canal 28 Nuevo León [No 24/7] (Monterrey)" tvg-chno="137" tvg-country="ES" group-title="Noticias",Canal 28 Nuevo León [No 24/7] (Monterrey)
+#EXTINF:-1 tvg-id="canal-28-nuevo-leon-no-24-7-monterrey" tvg-name="Canal 28 Nuevo León [No 24/7] (Monterrey)" tvg-chno="138" tvg-country="ES" group-title="Noticias",Canal 28 Nuevo León [No 24/7] (Monterrey)
 https://s5.mexside.net:1936/canal28/canal28/playlist.m3u8
-#EXTINF:-1 tvg-id="canalcaribe-cu-sd" tvg-name="Canal Caribe" tvg-chno="138" tvg-country="CU" group-title="Noticias",Canal Caribe
+#EXTINF:-1 tvg-id="canalcaribe-cu-sd" tvg-name="Canal Caribe" tvg-chno="139" tvg-country="CU" group-title="Noticias",Canal Caribe
 https://cdn.teveo.cu/live/video/A36pWmuWvZBQskuZ/ngrp:CKZ3s6Wuv4gDjndG.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="canal-catorce-spr-nacional" tvg-name="Canal Catorce SPR (Nacional)" tvg-chno="139" tvg-country="ES" group-title="Noticias",Canal Catorce SPR (Nacional)
+#EXTINF:-1 tvg-id="canal-catorce-spr-nacional" tvg-name="Canal Catorce SPR (Nacional)" tvg-chno="140" tvg-country="ES" group-title="Noticias",Canal Catorce SPR (Nacional)
 https://s5.mexside.net:1936/canal14/canal14/playlist.m3u8
-#EXTINF:-1 tvg-id="canali-ve-sd" tvg-name="Canal I" tvg-chno="140" tvg-country="VE" group-title="Noticias",Canal I
+#EXTINF:-1 tvg-id="canali-ve-sd" tvg-name="Canal I" tvg-chno="141" tvg-country="VE" group-title="Noticias",Canal I
 https://streaming.canal-i.com/canal-i/live/master.m3u8
-#EXTINF:-1 tvg-id="canalpyc-co-sd" tvg-name="Canal PyC" tvg-chno="141" tvg-country="CO" group-title="Noticias",Canal PyC
+#EXTINF:-1 tvg-id="canalpyc-co-sd" tvg-name="Canal PyC" tvg-chno="142" tvg-country="CO" group-title="Noticias",Canal PyC
 https://live20.bozztv.com/akamaissh101/ssh101/pyctelevision/playlist.m3u8
-#EXTINF:-1 tvg-id="canalsurnoticias-es-sd" tvg-name="Canal Sur Noticias" tvg-chno="142" tvg-country="ES" group-title="Noticias",Canal Sur Noticias
+#EXTINF:-1 tvg-id="canalsurnoticias-es-sd" tvg-name="Canal Sur Noticias" tvg-chno="143" tvg-country="ES" group-title="Noticias",Canal Sur Noticias
 https://cdnlive.codev8.net/rtvalive/smil:channel42.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="canaltdc-ar-sd" tvg-name="Canal TDC" tvg-chno="143" tvg-country="AR" group-title="Noticias",Canal TDC
+#EXTINF:-1 tvg-id="canaltdc-ar-sd" tvg-name="Canal TDC" tvg-chno="144" tvg-country="AR" group-title="Noticias",Canal TDC
 https://tdcserver.com:19360/tdconlione-2/tdconlione-2.m3u8
-#EXTINF:-1 tvg-id="carivision-do-sd" tvg-name="Carivision" tvg-chno="144" tvg-country="DO" group-title="Noticias",Carivision
+#EXTINF:-1 tvg-id="carivision-do-sd" tvg-name="Carivision" tvg-chno="145" tvg-country="DO" group-title="Noticias",Carivision
 https://ss2.tvrdomi.com:1936/carivision/carivision/playlist.m3u8
-#EXTINF:-1 tvg-id="cdnn23-ni-sd" tvg-name="CDNN 23" tvg-chno="145" tvg-country="NI" group-title="Noticias",CDNN 23
+#EXTINF:-1 tvg-id="cdnn23-ni-sd" tvg-name="CDNN 23" tvg-chno="146" tvg-country="NI" group-title="Noticias",CDNN 23
 https://cootv.cootel.com.ni:8095/Canal23_CooTel/playlist.m3u8
-#EXTINF:-1 tvg-id="cgtn-cn-sd" tvg-name="CGTN" tvg-chno="146" tvg-country="CN" group-title="Noticias",CGTN
+#EXTINF:-1 tvg-id="cgtn-cn-sd" tvg-name="CGTN" tvg-chno="147" tvg-country="CN" group-title="Noticias",CGTN
 https://amg00405-rakutentv-cgtn-rakuten-i9tar.amagi.tv/master.m3u8
-#EXTINF:-1 tvg-id="cgtnfrench-cn-sd" tvg-name="CGTN French" tvg-chno="147" tvg-country="CN" group-title="Noticias",CGTN French
+#EXTINF:-1 tvg-id="cgtnfrench-cn-sd" tvg-name="CGTN French" tvg-chno="148" tvg-country="CN" group-title="Noticias",CGTN French
 https://amg01314-cgtn-amg01314c2-rakuten-us-1319.playouts.now.amagi.tv/cgtn-fr-rakuten/playlist.m3u8
-#EXTINF:-1 tvg-id="cgtnspanish-cn-sd" tvg-name="CGTN Spanish" tvg-chno="148" tvg-country="CN" group-title="Noticias",CGTN Spanish
+#EXTINF:-1 tvg-id="cgtnspanish-cn-sd" tvg-name="CGTN Spanish" tvg-chno="149" tvg-country="CN" group-title="Noticias",CGTN Spanish
 https://espanol-livews.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8VZNBLE1ZNEa220802cd/playlist.m3u8
-#EXTINF:-1 tvg-id="citricotv-do-sd" tvg-name="Citrico TV" tvg-chno="149" tvg-country="DO" group-title="Noticias",Citrico TV
+#EXTINF:-1 tvg-id="citricotv-do-sd" tvg-name="Citrico TV" tvg-chno="150" tvg-country="DO" group-title="Noticias",Citrico TV
 https://edge.essastream.com/citricotv/playlist.m3u8
-#EXTINF:-1 tvg-id="conecta2tv-pe-sd" tvg-name="Conecta2TV" tvg-chno="150" tvg-country="PE" group-title="Noticias",Conecta2TV
+#EXTINF:-1 tvg-id="conecta2tv-pe-sd" tvg-name="Conecta2TV" tvg-chno="151" tvg-country="PE" group-title="Noticias",Conecta2TV
 https://live.obslivestream.com/conecta2/index.m3u8
-#EXTINF:-1 tvg-id="deultimominutotv-do-sd" tvg-name="De Ultimo Minuto TV" tvg-chno="151" tvg-country="DO" group-title="Noticias",De Ultimo Minuto TV
+#EXTINF:-1 tvg-id="deultimominutotv-do-sd" tvg-name="De Ultimo Minuto TV" tvg-chno="152" tvg-country="DO" group-title="Noticias",De Ultimo Minuto TV
 https://soportedvb.click:3620/live/deultimominutomedialive.m3u8
-#EXTINF:-1 tvg-id="dw-de-espanol" tvg-name="DW Espanol" tvg-chno="152" tvg-country="DE" group-title="Noticias",DW Espanol
+#EXTINF:-1 tvg-id="dw-de-espanol" tvg-name="DW Espanol" tvg-chno="153" tvg-country="DE" group-title="Noticias",DW Espanol
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/master.m3u8
-#EXTINF:-1 tvg-id="dw-espanol-alemania-internacional" tvg-name="DW Español (Alemania / Internacional)" tvg-chno="153" tvg-country="ES" group-title="Noticias",DW Español (Alemania / Internacional)
+#EXTINF:-1 tvg-id="dw-espanol-alemania-internacional" tvg-name="DW Español (Alemania / Internacional)" tvg-chno="154" tvg-country="ES" group-title="Noticias",DW Español (Alemania / Internacional)
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
-#EXTINF:-1 tvg-id="ecoteltv-ec-sd" tvg-name="Ecotel TV" tvg-chno="154" tvg-country="EC" group-title="Noticias",Ecotel TV
+#EXTINF:-1 tvg-id="ecoteltv-ec-sd" tvg-name="Ecotel TV" tvg-chno="155" tvg-country="EC" group-title="Noticias",Ecotel TV
 https://ecoteltv.streamseguro.com:5443/LiveApp/streams/streaming.m3u8
-#EXTINF:-1 tvg-id="ecuavisa" tvg-name="Ecuavisa" tvg-chno="155" tvg-country="EC" group-title="Noticias",Ecuavisa
+#EXTINF:-1 tvg-id="ecuavisa" tvg-name="Ecuavisa" tvg-chno="156" tvg-country="EC" group-title="Noticias",Ecuavisa
 https://redirector.rudo.video/hls-video/c54ac2799874375c81c1672abb700870537c5223/ecuavisaqo/ecuavisaqo/.m3u8
-#EXTINF:-1 tvg-id="elnuevodiariotv-do-sd" tvg-name="El Nuevo Diario TV" tvg-chno="157" tvg-country="DO" group-title="Noticias",El Nuevo Diario TV
+#EXTINF:-1 tvg-id="elnuevodiariotv-do-sd" tvg-name="El Nuevo Diario TV" tvg-chno="158" tvg-country="DO" group-title="Noticias",El Nuevo Diario TV
 https://nuevodiario01.streamprolive.com/hls/live.m3u8
-#EXTINF:-1 tvg-id="elyssatv-tn-hd" tvg-name="Elyssa TV" tvg-chno="158" tvg-country="TN" group-title="Noticias",Elyssa TV
+#EXTINF:-1 tvg-id="elyssatv-tn-hd" tvg-name="Elyssa TV" tvg-chno="159" tvg-country="TN" group-title="Noticias",Elyssa TV
 https://tv.elyssatv.com/live/master.m3u8
-#EXTINF:-1 tvg-id="english-tv-usa-internacional" tvg-name="English TV (USA / Internacional)" tvg-chno="159" tvg-country="ES" group-title="Noticias",English TV (USA / Internacional)
+#EXTINF:-1 tvg-id="english-tv-usa-internacional" tvg-name="English TV (USA / Internacional)" tvg-chno="160" tvg-country="ES" group-title="Noticias",English TV (USA / Internacional)
 https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/a5e9aebd-1df4-4e56-be4f-33a891756f9b/manifest.m3u8
-#EXTINF:-1 tvg-id="estrellanews-us-sd" tvg-name="Estrella News" tvg-chno="160" tvg-country="US" group-title="Noticias",Estrella News
+#EXTINF:-1 tvg-id="estrellanews-us-sd" tvg-name="Estrella News" tvg-chno="161" tvg-country="US" group-title="Noticias",Estrella News
 https://estrella-news-oando.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="euronewsenglish-fr-sd" tvg-name="Euronews English" tvg-chno="161" tvg-country="FR" group-title="Noticias",Euronews English
+#EXTINF:-1 tvg-id="euronewsenglish-fr-sd" tvg-name="Euronews English" tvg-chno="162" tvg-country="FR" group-title="Noticias",Euronews English
 https://jmp2.uk/plu-61de96114757070008d33cae.m3u8
-#EXTINF:-1 tvg-id="euronewsenglish-fr-hd" tvg-name="Euronews English HD" tvg-chno="162" tvg-country="FR" group-title="Noticias",Euronews English HD
+#EXTINF:-1 tvg-id="euronewsenglish-fr-hd" tvg-name="Euronews English HD" tvg-chno="163" tvg-country="FR" group-title="Noticias",Euronews English HD
 https://dash4.antik.sk/live/test_euronews/playlist.m3u8
-#EXTINF:-1 tvg-id="euronewsspanish-fr-sd" tvg-name="Euronews Spanish" tvg-chno="163" tvg-country="FR" group-title="Noticias",Euronews Spanish
+#EXTINF:-1 tvg-id="euronewsspanish-fr-sd" tvg-name="Euronews Spanish" tvg-chno="164" tvg-country="FR" group-title="Noticias",Euronews Spanish
 https://iptv.bitred.cl/euronews/index.m3u8
-#EXTINF:-1 tvg-id="exitosa-tv-peru-nacional" tvg-name="Exitosa TV (Perú - Nacional)" tvg-chno="164" tvg-country="ES" group-title="Noticias",Exitosa TV (Perú - Nacional)
+#EXTINF:-1 tvg-id="exitosa-tv-peru-nacional" tvg-name="Exitosa TV (Perú - Nacional)" tvg-chno="165" tvg-country="ES" group-title="Noticias",Exitosa TV (Perú - Nacional)
 https://live-evg5.tv360.bitel.com.pe/bitel/exitosa_abr/playlist.m3u8
-#EXTINF:-1 tvg-id="france24-fr-french" tvg-name="France 24" tvg-chno="165" tvg-country="FR" group-title="Noticias",France 24
+#EXTINF:-1 tvg-id="france24-fr-french" tvg-name="France 24" tvg-chno="166" tvg-country="FR" group-title="Noticias",France 24
 https://live.france24.com/hls/live/2037179-b/F24_FR_HI_HLS/master_5000.m3u8
-#EXTINF:-1 tvg-id="france24-fr-english" tvg-name="France 24 English" tvg-chno="166" tvg-country="FR" group-title="Noticias",France 24 English
+#EXTINF:-1 tvg-id="france24-fr-english" tvg-name="France 24 English" tvg-chno="167" tvg-country="FR" group-title="Noticias",France 24 English
 https://live.france24.com/hls/live/2037218-b/F24_EN_HI_HLS/master_5000.m3u8
-#EXTINF:-1 tvg-id="france24-fr-spanish" tvg-name="France 24 Spanish" tvg-chno="167" tvg-country="FR" group-title="Noticias",France 24 Spanish
+#EXTINF:-1 tvg-id="france24-fr-spanish" tvg-name="France 24 Spanish" tvg-chno="168" tvg-country="FR" group-title="Noticias",France 24 Spanish
 https://live.france24.com/hls/live/2037220-b/F24_ES_HI_HLS/master_5000.m3u8
-#EXTINF:-1 tvg-id="ftv-fuengirola-malaga-andalucia" tvg-name="FTV Fuengirola (Málaga - Andalucía)" tvg-chno="168" tvg-country="ES" group-title="Noticias",FTV Fuengirola (Málaga - Andalucía)
+#EXTINF:-1 tvg-id="ftv-fuengirola-malaga-andalucia" tvg-name="FTV Fuengirola (Málaga - Andalucía)" tvg-chno="169" tvg-country="ES" group-title="Noticias",FTV Fuengirola (Málaga - Andalucía)
 https://streaming004.gestec-video.com/hls/FTV.m3u8
-#EXTINF:-1 tvg-id="hch-hn-sd" tvg-name="HCH" tvg-chno="169" tvg-country="HN" group-title="Noticias",HCH
+#EXTINF:-1 tvg-id="hch-hn-sd" tvg-name="HCH" tvg-chno="170" tvg-country="HN" group-title="Noticias",HCH
 https://live.streamhch.com/live/streams/hch1.m3u8
-#EXTINF:-1 tvg-id="hermanasmirabaltv-do-sd" tvg-name="Hermanas Mirabal TV" tvg-chno="170" tvg-country="DO" group-title="Noticias",Hermanas Mirabal TV
+#EXTINF:-1 tvg-id="hermanasmirabaltv-do-sd" tvg-name="Hermanas Mirabal TV" tvg-chno="171" tvg-country="DO" group-title="Noticias",Hermanas Mirabal TV
 https://fox.hostlagarto.com:8081/hmtv/index.m3u8
-#EXTINF:-1 tvg-id="hispantv-ir-sd" tvg-name="Hispan TV" tvg-chno="171" tvg-country="IR" group-title="Noticias",Hispan TV
+#EXTINF:-1 tvg-id="hispantv-ir-sd" tvg-name="Hispan TV" tvg-chno="172" tvg-country="IR" group-title="Noticias",Hispan TV
 https://cdnlive.presstv.ir/live/smil:live.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="i24newsenglishworld-il-sd" tvg-name="i24NEWS English World" tvg-chno="172" tvg-country="IL" group-title="Noticias",i24NEWS English World
+#EXTINF:-1 tvg-id="i24newsenglishworld-il-sd" tvg-name="i24NEWS English World" tvg-chno="173" tvg-country="IL" group-title="Noticias",i24NEWS English World
 https://i24newsenglish-cdn.encoders.immergo.tv/master.m3u8
-#EXTINF:-1 tvg-id="icndigital-hn-sd" tvg-name="ICN Digital" tvg-chno="173" tvg-country="HN" group-title="Noticias",ICN Digital
+#EXTINF:-1 tvg-id="icndigital-hn-sd" tvg-name="ICN Digital" tvg-chno="174" tvg-country="HN" group-title="Noticias",ICN Digital
 https://streaming.icndigital.com/live_output/icn_live_stream_1.m3u8
-#EXTINF:-1 tvg-id="latinanoticias247-pe-sd" tvg-name="Latina Noticias 24/7" tvg-chno="174" tvg-country="PE" group-title="Noticias",Latina Noticias 24/7
+#EXTINF:-1 tvg-id="latinanoticias247-pe-sd" tvg-name="Latina Noticias 24/7" tvg-chno="175" tvg-country="PE" group-title="Noticias",Latina Noticias 24/7
 https://dai.google.com/linear/hls/event/oYQGDqEGTmGdHE_fz9oLlg/master.m3u8
-#EXTINF:-1 tvg-id="lemondeen24h-cd-sd" tvg-name="Le Monde en 24h" tvg-chno="175" tvg-country="CD" group-title="Noticias",Le Monde en 24h
+#EXTINF:-1 tvg-id="lemondeen24h-cd-sd" tvg-name="Le Monde en 24h" tvg-chno="176" tvg-country="CD" group-title="Noticias",Le Monde en 24h
 https://stream.berosat.live/hls/monde24h-tv-index/monde24h-tv-index.m3u8
-#EXTINF:-1 tvg-id="lencatv-hn-sd" tvg-name="Lenca TV" tvg-chno="176" tvg-country="HN" group-title="Noticias",Lenca TV
+#EXTINF:-1 tvg-id="lencatv-hn-sd" tvg-name="Lenca TV" tvg-chno="177" tvg-country="HN" group-title="Noticias",Lenca TV
 https://lencatelevision.com/hls/stream.m3u8
-#EXTINF:-1 tvg-id="linierostv-do-sd" tvg-name="Linieros TV" tvg-chno="177" tvg-country="DO" group-title="Noticias",Linieros TV
+#EXTINF:-1 tvg-id="linierostv-do-sd" tvg-name="Linieros TV" tvg-chno="178" tvg-country="DO" group-title="Noticias",Linieros TV
 https://soportedvb.click:3017/live/linierostvlive.m3u8
-#EXTINF:-1 tvg-id="m95televisionmarbella-es-sd" tvg-name="M95 Television Marbella" tvg-chno="178" tvg-country="ES" group-title="Noticias",M95 Television Marbella
+#EXTINF:-1 tvg-id="m95televisionmarbella-es-sd" tvg-name="M95 Television Marbella" tvg-chno="179" tvg-country="ES" group-title="Noticias",M95 Television Marbella
 https://limited2.todostreaming.es/live/m95-livestream.m3u8
-#EXTINF:-1 tvg-id="mariopintotv-ec-sd" tvg-name="Mario Pinto TV" tvg-chno="179" tvg-country="EC" group-title="Noticias",Mario Pinto TV
+#EXTINF:-1 tvg-id="mariopintotv-ec-sd" tvg-name="Mario Pinto TV" tvg-chno="180" tvg-country="EC" group-title="Noticias",Mario Pinto TV
 https://eu1.servers10.com:8081/8028/index.m3u8
-#EXTINF:-1 tvg-id="masnoticiastelevision-hn-sd" tvg-name="Mas Noticias Television" tvg-chno="180" tvg-country="HN" group-title="Noticias",Mas Noticias Television
+#EXTINF:-1 tvg-id="masnoticiastelevision-hn-sd" tvg-name="Mas Noticias Television" tvg-chno="181" tvg-country="HN" group-title="Noticias",Mas Noticias Television
 https://www.amixtv.com:8081/mntvh/index.m3u8
-#EXTINF:-1 tvg-id="mayatv-hn-sd" tvg-name="Maya TV" tvg-chno="181" tvg-country="HN" group-title="Noticias",Maya TV
+#EXTINF:-1 tvg-id="mayatv-hn-sd" tvg-name="Maya TV" tvg-chno="182" tvg-country="HN" group-title="Noticias",Maya TV
 https://media.streambrothers.com:19360/8036/8036.m3u8
-#EXTINF:-1 tvg-id="megatv-py-sd" tvg-name="Mega TV (Paraguay)" tvg-chno="182" tvg-country="PY" group-title="Noticias",Mega TV (Paraguay)
+#EXTINF:-1 tvg-id="megatv-py-sd" tvg-name="Mega TV (Paraguay)" tvg-chno="183" tvg-country="PY" group-title="Noticias",Mega TV (Paraguay)
 https://www.desde-paraguay.com/mega.m3u8
-#EXTINF:-1 tvg-id="mercurionoticias-ar-sd" tvg-name="Mercurio Noticias" tvg-chno="183" tvg-country="AR" group-title="Noticias",Mercurio Noticias
+#EXTINF:-1 tvg-id="mercurionoticias-ar-sd" tvg-name="Mercurio Noticias" tvg-chno="184" tvg-country="AR" group-title="Noticias",Mercurio Noticias
 https://videostream.shockmedia.com.ar/hls/mercuriotv/mercuriotv.m3u8
-#EXTINF:-1 tvg-id="mileniotelevision-mx-sd" tvg-name="Milenio Television" tvg-chno="184" tvg-country="MX" group-title="Noticias",Milenio Television
+#EXTINF:-1 tvg-id="mileniotelevision-mx-sd" tvg-name="Milenio Television" tvg-chno="185" tvg-country="MX" group-title="Noticias",Milenio Television
 https://jmp2.uk/plu-652e922db4b047000825f975.m3u8
-#EXTINF:-1 tvg-id="mirametv-es-sd" tvg-name="Mirame TV" tvg-chno="185" tvg-country="ES" group-title="Noticias",Mirame TV
+#EXTINF:-1 tvg-id="mirametv-es-sd" tvg-name="Mirame TV" tvg-chno="186" tvg-country="ES" group-title="Noticias",Mirame TV
 https://bit.controlstreams.com:5443/LiveApp/streams/mirametv.m3u8
-#EXTINF:-1 tvg-id="momento24-co-sd" tvg-name="Momento24" tvg-chno="186" tvg-country="CO" group-title="Noticias",Momento24
+#EXTINF:-1 tvg-id="momento24-co-sd" tvg-name="Momento24" tvg-chno="187" tvg-country="CO" group-title="Noticias",Momento24
 https://backupmaxmedia.hvmultiplay.com/hls/stream2/momento24.m3u8
-#EXTINF:-1 tvg-id="multivisionfederal-ar-sd" tvg-name="Multivision Federal" tvg-chno="187" tvg-country="AR" group-title="Noticias",Multivision Federal
+#EXTINF:-1 tvg-id="multivisionfederal-ar-sd" tvg-name="Multivision Federal" tvg-chno="188" tvg-country="AR" group-title="Noticias",Multivision Federal
 https://videostream.shockmedia.com.ar/hls/multivisionfederal/multivisionfederal.m3u8
-#EXTINF:-1 tvg-id="n-nacional" tvg-name="N+ (Nacional)" tvg-chno="188" tvg-country="ES" group-title="Noticias",N+ (Nacional)
+#EXTINF:-1 tvg-id="n-nacional" tvg-name="N+ (Nacional)" tvg-chno="189" tvg-country="ES" group-title="Noticias",N+ (Nacional)
 https://nomvauth.univision.com/api/v3/akamai-auth/token-auth?url=https://channel07secure.akamaized.net/hls/live/2036971-b/event01/index.m3u8&redirect=true
-#EXTINF:-1 tvg-id="n-foro-televisa-nacional" tvg-name="N+ Foro (Televisa) (Nacional)" tvg-chno="189" tvg-country="ES" group-title="Noticias",N+ Foro (Televisa) (Nacional)
+#EXTINF:-1 tvg-id="n-foro-televisa-nacional" tvg-name="N+ Foro (Televisa) (Nacional)" tvg-chno="190" tvg-country="ES" group-title="Noticias",N+ Foro (Televisa) (Nacional)
 https://notusaauth.univision.com/api/v3/akamai-auth/token-auth?url=https://channel02secure-notusa.akamaized.net/hls/live/2023914-b/event01/index.m3u8&redirect=true
-#EXTINF:-1 tvg-id="n-guadalajara-jalisco" tvg-name="N+ Guadalajara (Jalisco)" tvg-chno="190" tvg-country="ES" group-title="Noticias",N+ Guadalajara (Jalisco)
+#EXTINF:-1 tvg-id="n-guadalajara-jalisco" tvg-name="N+ Guadalajara (Jalisco)" tvg-chno="191" tvg-country="ES" group-title="Noticias",N+ Guadalajara (Jalisco)
 https://notusaauth.univision.com/api/v3/akamai-auth/token-auth?url=https://channel08secure-notusa.akamaized.net/hls/live/2037034-b/event01/index.m3u8&redirect=true
-#EXTINF:-1 tvg-id="n-monterrey-nuevo-leon" tvg-name="N+ Monterrey (Nuevo León)" tvg-chno="191" tvg-country="ES" group-title="Noticias",N+ Monterrey (Nuevo León)
+#EXTINF:-1 tvg-id="n-monterrey-nuevo-leon" tvg-name="N+ Monterrey (Nuevo León)" tvg-chno="192" tvg-country="ES" group-title="Noticias",N+ Monterrey (Nuevo León)
 https://notusaauth.univision.com/api/v3/akamai-auth/token-auth?url=https://channel09secure-notusa.akamaized.net/hls/live/2094418-b/event01/index.m3u8&redirect=true
-#EXTINF:-1 tvg-id="nanduti-py-sd" tvg-name="Nanduti" tvg-chno="192" tvg-country="PY" group-title="Noticias",Nanduti
+#EXTINF:-1 tvg-id="nanduti-py-sd" tvg-name="Nanduti" tvg-chno="193" tvg-country="PY" group-title="Noticias",Nanduti
 https://nanduti.b-cdn.net/Source.m3u8
-#EXTINF:-1 tvg-id="net-tv" tvg-name="Net TV" tvg-chno="193" tvg-country="AR" group-title="Noticias",Net TV
+#EXTINF:-1 tvg-id="net-tv" tvg-name="Net TV" tvg-chno="194" tvg-country="AR" group-title="Noticias",Net TV
 https://unlimited1-us.dps.live/nettv/nettv.smil/nettv/livestream1/chunks.m3u8
-#EXTINF:-1 tvg-id="newsoftheworld-us-global" tvg-name="News of the World" tvg-chno="197" tvg-country="US" group-title="Noticias",News of the World
+#EXTINF:-1 tvg-id="newsoftheworld-us-global" tvg-name="News of the World" tvg-chno="198" tvg-country="US" group-title="Noticias",News of the World
 https://nowhls.wns.live/hls/stream.m3u8
-#EXTINF:-1 tvg-id="newsoftheworld-us-spanish" tvg-name="News of the World Spanish" tvg-chno="198" tvg-country="US" group-title="Noticias",News of the World Spanish
+#EXTINF:-1 tvg-id="newsoftheworld-us-spanish" tvg-name="News of the World Spanish" tvg-chno="199" tvg-country="US" group-title="Noticias",News of the World Spanish
 https://live.nowtelly.com/now_spanish/live/playlist.m3u8
-#EXTINF:-1 tvg-id="newsmaxspanish-us-sd" tvg-name="Newsmax Spanish" tvg-chno="199" tvg-country="US" group-title="Noticias",Newsmax Spanish
+#EXTINF:-1 tvg-id="newsmaxspanish-us-sd" tvg-name="Newsmax Spanish" tvg-chno="200" tvg-country="US" group-title="Noticias",Newsmax Spanish
 https://n1ottesorkatv.akamaized.net/hls/live/2113795/Live_1/index.m3u8
-#EXTINF:-1 tvg-id="ng-federal-tv-resistencia-chaco" tvg-name="NG Federal TV (Resistencia - Chaco)" tvg-chno="200" tvg-country="ES" group-title="Noticias",NG Federal TV (Resistencia - Chaco)
+#EXTINF:-1 tvg-id="ng-federal-tv-resistencia-chaco" tvg-name="NG Federal TV (Resistencia - Chaco)" tvg-chno="201" tvg-country="ES" group-title="Noticias",NG Federal TV (Resistencia - Chaco)
 https://617c5175c970b.streamlock.net:4444/tvlink/live/playlist.m3u8
-#EXTINF:-1 tvg-id="1530-13-go" tvg-name="13 go" tvg-chno="201" tvg-country="CL" group-title="Deportes",13 go
-https://origin.dpsgo.com/ssai/event/LhHrVtyeQkKZ-Ye_xEU75g/master.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="norteinformativotv-cr-sd" tvg-name="Norte Informativo TV" tvg-chno="201" tvg-country="CR" group-title="Noticias",Norte Informativo TV
+#EXTINF:-1 tvg-id="norteinformativotv-cr-sd" tvg-name="Norte Informativo TV" tvg-chno="202" tvg-country="CR" group-title="Noticias",Norte Informativo TV
 https://videohd.live:19360/8076/8076.m3u8
-#EXTINF:-1 tvg-id="1763-chv-deportes" tvg-name="CHV Deportes" tvg-chno="202" tvg-country="CL" group-title="Deportes",CHV Deportes
-https://redirector.rudo.video/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/chvdeportes/chvdeportes.smil/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="noticias16-do-sd" tvg-name="Noticias 16" tvg-chno="202" tvg-country="DO" group-title="Noticias",Noticias 16
+#EXTINF:-1 tvg-id="noticias16-do-sd" tvg-name="Noticias 16" tvg-chno="203" tvg-country="DO" group-title="Noticias",Noticias 16
 https://edge.essastream.com/noticias16/playlist.m3u8
-#EXTINF:-1 tvg-id="1098-crtv" tvg-name="CRTV" tvg-chno="203" tvg-country="CL" group-title="Deportes",CRTV
-https://stmv2.voxtvhd.com.br/crtvchile/crtvchile/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="noticiasrcn-co-sd" tvg-name="Noticias RCN" tvg-chno="203" tvg-country="CO" group-title="Noticias",Noticias RCN
+#EXTINF:-1 tvg-id="noticiasrcn-co-sd" tvg-name="Noticias RCN" tvg-chno="204" tvg-country="CO" group-title="Noticias",Noticias RCN
 https://jmp2.uk/plu-67d9b0ebc290c9499046e88f.m3u8
-#EXTINF:-1 tvg-id="crtv-cl-sd" tvg-name="CRTV (Chile)" tvg-chno="204" tvg-country="CL" group-title="Deportes",CRTV (Chile)
-https://stmv2.voxtvhd.com.br/crtvchile/crtvchile/playlist.m3u8
-#EXTINF:-1 tvg-id="noticiero90minutos-co-sd" tvg-name="Noticiero 90 Minutos" tvg-chno="204" tvg-country="CO" group-title="Noticias",Noticiero 90 Minutos
+#EXTINF:-1 tvg-id="noticiero90minutos-co-sd" tvg-name="Noticiero 90 Minutos" tvg-chno="205" tvg-country="CO" group-title="Noticias",Noticiero 90 Minutos
 https://play.cdn.enetres.net/621B146D29C541AFB1507809F038F471021/021/playlist.m3u8
-#EXTINF:-1 tvg-id="1199-d13" tvg-name="D13" tvg-chno="205" tvg-country="CL" group-title="Deportes",D13
-https://origin.dpsgo.com/ssai/event/uFiYkh4CQPCPgbs7WPKhXw/master.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="npy-py-sd" tvg-name="NPY" tvg-chno="205" tvg-country="PY" group-title="Noticias",NPY
+#EXTINF:-1 tvg-id="npy-py-sd" tvg-name="NPY" tvg-chno="206" tvg-country="PY" group-title="Noticias",NPY
 https://copacogen.desdeparaguay.net/npy/npy_py_alta/playlist.m3u8?admin=tvaccion
-#EXTINF:-1 tvg-id="1598-futgo" tvg-name="FutGO" tvg-chno="206" tvg-country="CL" group-title="Deportes",FutGO
-https://origin.dpsgo.com/ssai/event/Jxo4ZkwHQr-9XqguRcdsSg/master.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="ntn24-co-sd" tvg-name="NTN24" tvg-chno="206" tvg-country="CO" group-title="Noticias",NTN24
+#EXTINF:-1 tvg-id="ntn24-co-sd" tvg-name="NTN24" tvg-chno="207" tvg-country="CO" group-title="Noticias",NTN24
 https://stream1.bitred.cl/ntn24/index.m3u8
-#EXTINF:-1 tvg-id="376-teletrak" tvg-name="Teletrak" tvg-chno="207" tvg-country="CL" group-title="Deportes",Teletrak
-https://teletraktv.janus.cl/playlist/stream.m3u8?t=0&s=&p=&id=lufuufsd&d=w&PlaylistM3UCL
-#EXTINF:-1 tvg-id="plustv-pa-sd" tvg-name="Plus TV (Panama)" tvg-chno="207" tvg-country="PA" group-title="Noticias",Plus TV (Panama)
+#EXTINF:-1 tvg-id="plustv-pa-sd" tvg-name="Plus TV (Panama)" tvg-chno="208" tvg-country="PA" group-title="Noticias",Plus TV (Panama)
 https://vcp4.myplaytv.com:1936/plustv/plustv/playlist.m3u8
-#EXTINF:-1 tvg-id="turfmovil-cl-sd" tvg-name="Turf Movil" tvg-chno="208" tvg-country="CL" group-title="Deportes",Turf Movil
-https://tvturf4.janus.cl/playlist/stream.m3u8?d=w&id=
-#EXTINF:-1 tvg-id="prensalatinatv-cu-sd" tvg-name="Prensa Latina TV" tvg-chno="208" tvg-country="CU" group-title="Noticias",Prensa Latina TV
+#EXTINF:-1 tvg-id="prensalatinatv-cu-sd" tvg-name="Prensa Latina TV" tvg-chno="209" tvg-country="CU" group-title="Noticias",Prensa Latina TV
 https://eu1.servers10.com:8081/8192/index.m3u8
-#EXTINF:-1 tvg-id="374-tv-turf" tvg-name="TV Turf" tvg-chno="209" tvg-country="CL" group-title="Deportes",TV Turf
-https://tvturf4.janus.cl/playlist/stream.m3u8?d=w&id=lufv0n9d&t=1711909093&q=2&s=sd&PlaylistM3UCL
-#EXTINF:-1 tvg-id="psncanal452-mx-sd" tvg-name="PSN Canal 45.2" tvg-chno="209" tvg-country="MX" group-title="Noticias",PSN Canal 45.2
+#EXTINF:-1 tvg-id="psncanal452-mx-sd" tvg-name="PSN Canal 45.2" tvg-chno="210" tvg-country="MX" group-title="Noticias",PSN Canal 45.2
 https://srspsn2.live/live/livestream.m3u8
-#EXTINF:-1 tvg-id="as3sporttv-ve-sd" tvg-name="AS3 Sport TV" tvg-chno="210" tvg-country="VE" group-title="Deportes",AS3 Sport TV
-https://streamtv.as3sport.online:3394/hybrid/play.m3u8
-#EXTINF:-1 tvg-id="qosqotimes-pe-sd" tvg-name="Qosqo Times" tvg-chno="210" tvg-country="PE" group-title="Noticias",Qosqo Times
+#EXTINF:-1 tvg-id="qosqotimes-pe-sd" tvg-name="Qosqo Times" tvg-chno="211" tvg-country="PE" group-title="Noticias",Qosqo Times
 https://live-evg5.tv360.bitel.com.pe/bitel/qosqo/playlist.m3u8
-#EXTINF:-1 tvg-id="awapasportstv-sv-sd" tvg-name="Awapa Sports TV" tvg-chno="211" tvg-country="SV" group-title="Deportes",Awapa Sports TV
-https://mgv-awapa.akamaized.net/hls/live/2104282/MGV_CHANNEL15/master.m3u8
-#EXTINF:-1 tvg-id="quanticatv-ar-sd" tvg-name="Quantica TV" tvg-chno="211" tvg-country="AR" group-title="Noticias",Quantica TV
+#EXTINF:-1 tvg-id="quanticatv-ar-sd" tvg-name="Quantica TV" tvg-chno="212" tvg-country="AR" group-title="Noticias",Quantica TV
 https://videostream.shockmedia.com.ar:19360/quanticatv/quanticatv.m3u8
-#EXTINF:-1 tvg-id="radioancon-pa-sd" tvg-name="Radio Ancon" tvg-chno="212" tvg-country="PA" group-title="Noticias",Radio Ancon
+#EXTINF:-1 tvg-id="radioancon-pa-sd" tvg-name="Radio Ancon" tvg-chno="213" tvg-country="PA" group-title="Noticias",Radio Ancon
 https://www.streaming507.net:19360/anconvideo/anconvideo.m3u8
-#EXTINF:-1 tvg-id="azteca-deportes-network-3-hd" tvg-name="Azteca Deportes Network 3 HD" tvg-chno="212" tvg-country="ES" group-title="Deportes",Azteca Deportes Network 3 HD
-https://live-manifest.production-public.tubi.io/live/6bf131c3-d664-424c-93c9-49188a788980/playlist.m3u8
-#EXTINF:-1 tvg-id="barcatv-es-sd" tvg-name="Barca TV" tvg-chno="213" tvg-country="ES" group-title="Deportes",Barca TV
-https://live20.bozztv.com/dvrfl06/astv/astv-barca/index.m3u8
-#EXTINF:-1 tvg-id="radioislatv-pr-sd" tvg-name="Radio Isla TV" tvg-chno="213" tvg-country="PR" group-title="Noticias",Radio Isla TV
+#EXTINF:-1 tvg-id="radioislatv-pr-sd" tvg-name="Radio Isla TV" tvg-chno="214" tvg-country="PR" group-title="Noticias",Radio Isla TV
 https://59a564764e2b6.streamlock.net/palestra/palestra/playlist.m3u8
-#EXTINF:-1 tvg-id="radiounotacna-pe-sd" tvg-name="Radio Uno Tacna" tvg-chno="214" tvg-country="PE" group-title="Noticias",Radio Uno Tacna
+#EXTINF:-1 tvg-id="radiounotacna-pe-sd" tvg-name="Radio Uno Tacna" tvg-chno="215" tvg-country="PE" group-title="Noticias",Radio Uno Tacna
 https://live-evg7.tv360.bitel.com.pe/bitel/radiounotv/playlist.m3u8
-#EXTINF:-1 tvg-id="box-gamers-espana" tvg-name="Box Gamers (España)" tvg-chno="214" tvg-country="ES" group-title="Deportes",Box Gamers (España)
-https://e46fa4a445464f8a9150fa7d510eb85c.mediatailor.us-west-2.amazonaws.com/v1/master/2d2d0d97b0e548f025b2598a69b55bf30337aa0e/npp/JMKV30GS3UVOVY5SEZIG/hls3/now,-1m/playlist.m3u8
-#EXTINF:-1 tvg-id="canalshowsport-ar-sd" tvg-name="Canal Showsport" tvg-chno="215" tvg-country="AR" group-title="Deportes",Canal Showsport
-https://livestream.lumpentv.com.ar/hls/lumpen.m3u8
-#EXTINF:-1 tvg-id="rcvtv-hn-sd" tvg-name="RCV TV" tvg-chno="215" tvg-country="HN" group-title="Noticias",RCV TV
+#EXTINF:-1 tvg-id="rcvtv-hn-sd" tvg-name="RCV TV" tvg-chno="216" tvg-country="HN" group-title="Noticias",RCV TV
 https://59d39900ebfb8.streamlock.net/rcv/rcv/playlist.m3u8
-#EXTINF:-1 tvg-id="rdn-do-sd" tvg-name="RDN" tvg-chno="216" tvg-country="DO" group-title="Noticias",RDN
+#EXTINF:-1 tvg-id="rdn-do-sd" tvg-name="RDN" tvg-chno="217" tvg-country="DO" group-title="Noticias",RDN
 https://edge.essastream.com/rdntv/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="cazetv-br" tvg-name="CazéTV (BR)" tvg-chno="216" tvg-country="ES" group-title="Deportes",CazéTV (BR)
-https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/Caze_TV.m3u8
-#EXTINF:-1 tvg-id="cdndeportes-do-sd" tvg-name="CDN Deportes" tvg-chno="217" tvg-country="DO" group-title="Deportes",CDN Deportes
-https://hls.tvabierta.net/hls/036.m3u8
-#EXTINF:-1 tvg-id="rnn-do-sd" tvg-name="RNN" tvg-chno="217" tvg-country="DO" group-title="Noticias",RNN
+#EXTINF:-1 tvg-id="rnn-do-sd" tvg-name="RNN" tvg-chno="218" tvg-country="DO" group-title="Noticias",RNN
 https://2-fss-2.streamhoster.com/pl_138/206532-6829902-1/playlist.m3u8
-#EXTINF:-1 tvg-id="colimdotv-do-sd" tvg-name="Colimdo TV" tvg-chno="218" tvg-country="DO" group-title="Deportes",Colimdo TV
-https://cnn.livestreaminggroup.info:3132/live/colimdotvlive.m3u8
-#EXTINF:-1 tvg-id="rnn-do-dos" tvg-name="RNN DOS" tvg-chno="218" tvg-country="DO" group-title="Noticias",RNN DOS
+#EXTINF:-1 tvg-id="rnn-do-dos" tvg-name="RNN DOS" tvg-chno="219" tvg-country="DO" group-title="Noticias",RNN DOS
 https://2-fss-2.streamhoster.com/pl_138/206532-6829912-1/playlist.m3u8
-#EXTINF:-1 tvg-id="rpp-tv-peru-nacional" tvg-name="RPP TV (Perú - Nacional)" tvg-chno="219" tvg-country="ES" group-title="Noticias",RPP TV (Perú - Nacional)
+#EXTINF:-1 tvg-id="rpp-tv-peru-nacional" tvg-name="RPP TV (Perú - Nacional)" tvg-chno="220" tvg-country="ES" group-title="Noticias",RPP TV (Perú - Nacional)
 https://cdn-ssai.smartbit.co/rpp/index.m3u8
-#EXTINF:-1 tvg-id="combatv-internacional" tvg-name="CombaTV (Internacional)" tvg-chno="219" tvg-country="ES" group-title="Deportes",CombaTV (Internacional)
-https://aym-cbtv.otteravision.com/aym/cbtv/cbtv.m3u8
-#EXTINF:-1 tvg-id="rselvatv-pe-sd" tvg-name="RSelvaTV" tvg-chno="220" tvg-country="PE" group-title="Noticias",RSelvaTV
+#EXTINF:-1 tvg-id="rselvatv-pe-sd" tvg-name="RSelvaTV" tvg-chno="221" tvg-country="PE" group-title="Noticias",RSelvaTV
 https://live-evg11.tv360.bitel.com.pe/bitel/selvaticaSRT/playlist.m3u8
-#EXTINF:-1 tvg-id="deportes13-chile" tvg-name="Deportes13 (Chile)" tvg-chno="220" tvg-country="ES" group-title="Deportes",Deportes13 (Chile)
-https://origin.dpsgo.com/ssai/event/uFiYkh4CQPCPgbs7WPKhXw/master.m3u8
-#EXTINF:-1 tvg-id="fifaplus-uk-hispanicamerica" tvg-name="FIFA+ Hispanic America" tvg-chno="221" tvg-country="UK" group-title="Deportes",FIFA+ Hispanic America
-https://6c849fb3.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctbXhfRklGQVBsdXNTcGFuaXNoLTFfSExT/playlist.m3u8
-#EXTINF:-1 tvg-id="rt-noticias" tvg-name="RT Noticias" tvg-chno="221" tvg-country="ES" group-title="Noticias",RT Noticias
+#EXTINF:-1 tvg-id="rt-noticias" tvg-name="RT Noticias" tvg-chno="222" tvg-country="ES" group-title="Noticias",RT Noticias
 https://rt-esp.rttv.com/dvr/rtesp/playlist_4500Kb.m3u8
-#EXTINF:-1 tvg-id="fifaplus-uk-spain" tvg-name="FIFA+ Spain" tvg-chno="222" tvg-country="UK" group-title="Deportes",FIFA+ Spain
-https://d63fabad.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWVzX0ZJRkFQbHVzU3BhbmlzaF9ITFM/playlist.m3u8
-#EXTINF:-1 tvg-id="fifaplus-uk-unitedstates" tvg-name="FIFA+ United States" tvg-chno="223" tvg-country="UK" group-title="Deportes",FIFA+ United States
-https://d2w9q46ikgrcwx.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-of5cbk3sav3w5/v1/sysdata_s_p_a_fifa_7/samsungheadend_us/latest/main/hls/playlist.m3u8
-#EXTINF:-1 tvg-id="san-luis-san-luis" tvg-name="San Luis + (San Luis)" tvg-chno="223" tvg-country="ES" group-title="Noticias",San Luis + (San Luis)
+#EXTINF:-1 tvg-id="san-luis-san-luis" tvg-name="San Luis + (San Luis)" tvg-chno="224" tvg-country="ES" group-title="Noticias",San Luis + (San Luis)
 https://stream.condoristream.com/live/gFNNZzfsW2e8VsnfRnqP2oHtOMK9V8GO/index.m3u8
-#EXTINF:-1 tvg-id="sccurrents-us-sd" tvg-name="SC Currents" tvg-chno="224" tvg-country="US" group-title="Noticias",SC Currents
+#EXTINF:-1 tvg-id="sccurrents-us-sd" tvg-name="SC Currents" tvg-chno="225" tvg-country="US" group-title="Noticias",SC Currents
 https://reflect-communitytv.cablecast.tv/live-5/live/stream-3/live.m3u8
-#EXTINF:-1 tvg-id="fite247-us" tvg-name="FITE 24/7" tvg-chno="224" tvg-country="MX" group-title="Deportes",FITE 24/7
-https://d3d85c7qkywguj.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/FiteTV-Nuestra/263.m3u8
-#EXTINF:-1 tvg-id="sucesotv-py-sd" tvg-name="Suceso TV" tvg-chno="225" tvg-country="PY" group-title="Noticias",Suceso TV
+#EXTINF:-1 tvg-id="sucesotv-py-sd" tvg-name="Suceso TV" tvg-chno="226" tvg-country="PY" group-title="Noticias",Suceso TV
 https://live.enhdtv.com:8081/8060/index.m3u8
-#EXTINF:-1 tvg-id="flohockey-us-hd" tvg-name="FloHockey" tvg-chno="225" tvg-country="US" group-title="Deportes",FloHockey
-https://amg02278-amg02278c2-flosports-worldwide-9916.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="telenewstv-do-sd" tvg-name="Telenews TV" tvg-chno="226" tvg-country="DO" group-title="Noticias",Telenews TV
+#EXTINF:-1 tvg-id="telenewstv-do-sd" tvg-name="Telenews TV" tvg-chno="227" tvg-country="DO" group-title="Noticias",Telenews TV
 https://hilandofinotv.essastream.com:3480/live/telenewscanallive.m3u8
-#EXTINF:-1 tvg-id="floracing-us-hd" tvg-name="FloRacing" tvg-chno="226" tvg-country="US" group-title="Deportes",FloRacing
-https://amg02278-amg02278c1-flosports-worldwide-7592.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="ftv-bo-sd" tvg-name="FTV (Bolivia)" tvg-chno="227" tvg-country="BO" group-title="Deportes",FTV (Bolivia)
-https://master.tucableip.com/ftvhd/index.m3u8
-#EXTINF:-1 tvg-id="telesur-latinoamerica" tvg-name="Telesur (Latinoamérica)" tvg-chno="227" tvg-country="ES" group-title="Noticias",Telesur (Latinoamérica)
+#EXTINF:-1 tvg-id="telesur-latinoamerica" tvg-name="Telesur (Latinoamérica)" tvg-chno="228" tvg-country="ES" group-title="Noticias",Telesur (Latinoamérica)
 https://mblesmain01.telesur.ultrabase.net/mbliveMain/480p/playlist.m3u8
-#EXTINF:-1 tvg-id="fuel-tv-internacional-sub" tvg-name="FUEL TV (Internacional) [SUB]" tvg-chno="228" tvg-country="ES" group-title="Deportes",FUEL TV (Internacional) [SUB]
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01074-fueltv-fueltvuses-lgmx/playlist.m3u8
-#EXTINF:-1 tvg-id="telesur-ve-english" tvg-name="Telesur English" tvg-chno="228" tvg-country="VE" group-title="Noticias",Telesur English
+#EXTINF:-1 tvg-id="telesur-ve-english" tvg-name="Telesur English" tvg-chno="229" tvg-country="VE" group-title="Noticias",Telesur English
 https://mblenmain01.telesur.ultrabase.net/mblivev3/480p/playlist.m3u8
-#EXTINF:-1 tvg-id="fueltv-pt-us" tvg-name="FUEL TV US" tvg-chno="229" tvg-country="PT" group-title="Deportes",FUEL TV US
-https://amg01074-fueltv-amg01074c1-firetv-us-3150.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="telesur-ve-englishhd" tvg-name="Telesur English HD" tvg-chno="229" tvg-country="VE" group-title="Noticias",Telesur English HD
+#EXTINF:-1 tvg-id="telesur-ve-englishhd" tvg-name="Telesur English HD" tvg-chno="230" tvg-country="VE" group-title="Noticias",Telesur English HD
 https://mblenmain01.telesur.ultrabase.net/mblivev3/hd/playlist.m3u8
-#EXTINF:-1 tvg-id="telesur-ve-hd" tvg-name="Telesur HD" tvg-chno="230" tvg-country="VE" group-title="Noticias",Telesur HD
+#EXTINF:-1 tvg-id="telesur-ve-hd" tvg-name="Telesur HD" tvg-chno="231" tvg-country="VE" group-title="Noticias",Telesur HD
 https://mblesmain01.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8
-#EXTINF:-1 tvg-id="glory-kickboxing-ee-uu-en" tvg-name="Glory Kickboxing (EE.UU.) [EN]" tvg-chno="230" tvg-country="ES" group-title="Deportes",Glory Kickboxing (EE.UU.) [EN]
-https://9baf5bf3.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctZXNfR2xvcnlLaWNrYm94aW5nX0hMUw/playlist.m3u8
-#EXTINF:-1 tvg-id="televisiondeleste-do-sd" tvg-name="Television del Este" tvg-chno="231" tvg-country="DO" group-title="Noticias",Television del Este
+#EXTINF:-1 tvg-id="televisiondeleste-do-sd" tvg-name="Television del Este" tvg-chno="232" tvg-country="DO" group-title="Noticias",Television del Este
 https://edge.essastream.com/televisiondeleste/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="hard-knocks-mma-ee-uu-en" tvg-name="Hard Knocks MMA (EE.UU.) [EN]" tvg-chno="231" tvg-country="ES" group-title="Deportes",Hard Knocks MMA (EE.UU.) [EN]
-https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883037
-#EXTINF:-1 tvg-id="tn23-gt-sd" tvg-name="TN23" tvg-chno="232" tvg-country="GT" group-title="Noticias",TN23
+#EXTINF:-1 tvg-id="tn23-gt-sd" tvg-name="TN23" tvg-chno="233" tvg-country="GT" group-title="Noticias",TN23
 https://d3qt8k30mpy8xx.cloudfront.net/ts:abr.m3u8
-#EXTINF:-1 tvg-id="itv-deportes-internacional" tvg-name="ITV Deportes (Internacional)" tvg-chno="232" tvg-country="ES" group-title="Deportes",ITV Deportes (Internacional)
-https://amg01602-amg01602c3-canelatv-international-8324.playouts.now.amagi.tv/playlist/amg01602-themahqfrancefast-itvdeportes-canelatvinternational/playlist.m3u8
-#EXTINF:-1 tvg-id="lucha-plus-internacional" tvg-name="Lucha Plus (Internacional)" tvg-chno="233" tvg-country="ES" group-title="Deportes",Lucha Plus (Internacional)
-https://amg17334-amg17334c1-plex-us-6729.playouts.now.amagi.tv/playlist/amg17334-luchalibrefast-luchalibre-plexus/playlist.m3u8
-#EXTINF:-1 tvg-id="toiglobal-in-sd" tvg-name="TOI Global" tvg-chno="233" tvg-country="IN" group-title="Noticias",TOI Global
+#EXTINF:-1 tvg-id="toiglobal-in-sd" tvg-name="TOI Global" tvg-chno="234" tvg-country="IN" group-title="Noticias",TOI Global
 https://live.sli.ke/live/npnhm84gz9/master.m3u8
-#EXTINF:-1 tvg-id="tribunatv-sv-sd" tvg-name="Tribuna TV" tvg-chno="234" tvg-country="SV" group-title="Noticias",Tribuna TV
+#EXTINF:-1 tvg-id="tribunatv-sv-sd" tvg-name="Tribuna TV" tvg-chno="235" tvg-country="SV" group-title="Noticias",Tribuna TV
 https://cloudflare.streamgato.us:3300/live/tribunatvlive.m3u8
-#EXTINF:-1 tvg-id="mlb-us-sd" tvg-name="MLB" tvg-chno="234" tvg-country="US" group-title="Deportes",MLB
-https://aegis-cloudfront-1.tubi.video/36ef2f9d-7100-4c4d-b41a-dbf41ab7e461/playlist.m3u8
-#EXTINF:-1 tvg-id="monterricotv-pe-sd" tvg-name="Monterrico TV" tvg-chno="235" tvg-country="PE" group-title="Deportes",Monterrico TV
-https://h.jcp.live.opencaster.com/play_src/index.m3u8
-#EXTINF:-1 tvg-id="trtworld-tr-sd" tvg-name="TRT World" tvg-chno="235" tvg-country="TR" group-title="Noticias",TRT World
+#EXTINF:-1 tvg-id="trtworld-tr-sd" tvg-name="TRT World" tvg-chno="236" tvg-country="TR" group-title="Noticias",TRT World
 https://mumbai-edge.smartplaytv.in/TRTWorld/index.m3u8
-#EXTINF:-1 tvg-id="monterrico-tv-peru" tvg-name="Monterrico TV (Perú)" tvg-chno="236" tvg-country="ES" group-title="Deportes",Monterrico TV (Perú)
-https://www.opencaster.com/resources/hls_stream/hipodromojcp2.m3u8
-#EXTINF:-1 tvg-id="trtworld-tr-hd" tvg-name="TRT World HD" tvg-chno="236" tvg-country="TR" group-title="Noticias",TRT World HD
+#EXTINF:-1 tvg-id="trtworld-tr-hd" tvg-name="TRT World HD" tvg-chno="237" tvg-country="TR" group-title="Noticias",TRT World HD
 https://dash2.antik.sk/live/test_trt_world_atktv/playlist.m3u8
-#EXTINF:-1 tvg-id="tvn24-do-sd" tvg-name="TVN24" tvg-chno="237" tvg-country="DO" group-title="Noticias",TVN24
+#EXTINF:-1 tvg-id="tvn24-do-sd" tvg-name="TVN24" tvg-chno="238" tvg-country="DO" group-title="Noticias",TVN24
 https://edge.essastream.com/vozzmedia/index.m3u8
-#EXTINF:-1 tvg-id="motorvision-tv-internacional" tvg-name="Motorvision TV (Internacional)" tvg-chno="237" tvg-country="ES" group-title="Deportes",Motorvision TV (Internacional)
-https://d23obwy8cjdxix.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-w27b5ewgr6d28/mv_es.m3u8
-#EXTINF:-1 tvg-id="tvp-ciudad-obregon-sonora" tvg-name="TVP Ciudad Obregón (Sonora)" tvg-chno="238" tvg-country="ES" group-title="Noticias",TVP Ciudad Obregón (Sonora)
+#EXTINF:-1 tvg-id="tvp-ciudad-obregon-sonora" tvg-name="TVP Ciudad Obregón (Sonora)" tvg-chno="239" tvg-country="ES" group-title="Noticias",TVP Ciudad Obregón (Sonora)
 https://5ca3e84a76d30.streamlock.net/gpacifico3/obregon.smil/.m3u8
-#EXTINF:-1 tvg-id="mtrspt1-ee-uu-en" tvg-name="MTRSPT1 (EE.UU.) [EN]" tvg-chno="238" tvg-country="ES" group-title="Deportes",MTRSPT1 (EE.UU.) [EN]
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg02873-kravemedia-mtrspt1-lges/playlist.m3u8
-#EXTINF:-1 tvg-id="multivisionsports-gt-sd" tvg-name="Multivision Sports" tvg-chno="239" tvg-country="GT" group-title="Deportes",Multivision Sports
-https://stream.digitalgt.com:3605/live/multivisionsportslive.m3u8
-#EXTINF:-1 tvg-id="tvp-culiacan-sinaloa" tvg-name="TVP Culiacán (Sinaloa)" tvg-chno="239" tvg-country="ES" group-title="Noticias",TVP Culiacán (Sinaloa)
+#EXTINF:-1 tvg-id="tvp-culiacan-sinaloa" tvg-name="TVP Culiacán (Sinaloa)" tvg-chno="240" tvg-country="ES" group-title="Noticias",TVP Culiacán (Sinaloa)
 https://5ca3e84a76d30.streamlock.net/gpacifico1/gpculiacan.smil/.m3u8
-#EXTINF:-1 tvg-id="nhlnetwork-us-sd" tvg-name="NHL Network SD" tvg-chno="240" tvg-country="US" group-title="Deportes",NHL Network SD
-https://nhl-firetv.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="tvp-los-mochis-sinaloa" tvg-name="TVP Los Mochis (Sinaloa)" tvg-chno="240" tvg-country="ES" group-title="Noticias",TVP Los Mochis (Sinaloa)
+#EXTINF:-1 tvg-id="tvp-los-mochis-sinaloa" tvg-name="TVP Los Mochis (Sinaloa)" tvg-chno="241" tvg-country="ES" group-title="Noticias",TVP Los Mochis (Sinaloa)
 https://5ca3e84a76d30.streamlock.net/gpacifico2/mochis.smil/.m3u8
-#EXTINF:-1 tvg-id="olympicchannel-es-sd" tvg-name="Olympic Channel" tvg-chno="241" tvg-country="ES" group-title="Deportes",Olympic Channel
-https://ocshls-2-olympicchannel.akamaized.net/ocshls/OCTV_1.m3u8
-#EXTINF:-1 tvg-id="tvp-mazatlan-sinaloa" tvg-name="TVP Mazatlán (Sinaloa)" tvg-chno="241" tvg-country="ES" group-title="Noticias",TVP Mazatlán (Sinaloa)
+#EXTINF:-1 tvg-id="tvp-mazatlan-sinaloa" tvg-name="TVP Mazatlán (Sinaloa)" tvg-chno="242" tvg-country="ES" group-title="Noticias",TVP Mazatlán (Sinaloa)
 https://5ca3e84a76d30.streamlock.net/gpacifico4/mazatlan.smil/.m3u8
-#EXTINF:-1 tvg-id="tvpe-noticias-peru" tvg-name="TVPE Noticias (Perú)" tvg-chno="242" tvg-country="ES" group-title="Noticias",TVPE Noticias (Perú)
+#EXTINF:-1 tvg-id="tvpe-noticias-peru" tvg-name="TVPE Noticias (Perú)" tvg-chno="243" tvg-country="ES" group-title="Noticias",TVPE Noticias (Perú)
 https://cdnhd.iblups.com/hls/902c1a0395264f269f1160efa00660e47.m3u8
-#EXTINF:-1 tvg-id="pfl-mma-ee-uu-en" tvg-name="PFL MMA (EE.UU.) [EN]" tvg-chno="242" tvg-country="ES" group-title="Deportes",PFL MMA (EE.UU.) [EN]
-https://32528224.wurl.com/TEctZXNfUEZMTU1BX0hMUw/playlist.m3u8
-#EXTINF:-1 tvg-id="plutotvdeportes-us-latam" tvg-name="Pluto TV Deportes" tvg-chno="243" tvg-country="US" group-title="Deportes",Pluto TV Deportes
-https://jmp2.uk/plu-5dcde07af1c85b0009b18651.m3u8
-#EXTINF:-1 tvg-id="umsa-tvu-lp-la-paz" tvg-name="UMSA TVU LP (La Paz)" tvg-chno="243" tvg-country="ES" group-title="Noticias",UMSA TVU LP (La Paz)
+#EXTINF:-1 tvg-id="umsa-tvu-lp-la-paz" tvg-name="UMSA TVU LP (La Paz)" tvg-chno="244" tvg-country="ES" group-title="Noticias",UMSA TVU LP (La Paz)
 https://live.enhdtv.com:8081/8190/playlist.m3u8
-#EXTINF:-1 tvg-id="plutotvesports-us-latam" tvg-name="Pluto TV E-Sports" tvg-chno="244" tvg-country="US" group-title="Deportes",Pluto TV E-Sports
-https://jmp2.uk/plu-5ff3934600d4c7000733ff49.m3u8
-#EXTINF:-1 tvg-id="unwebtv-us-sd" tvg-name="UN Web TV" tvg-chno="244" tvg-country="US" group-title="Noticias",UN Web TV
+#EXTINF:-1 tvg-id="unwebtv-us-sd" tvg-name="UN Web TV" tvg-chno="245" tvg-country="US" group-title="Noticias",UN Web TV
 https://cdnapi.kaltura.com/p/2503451/sp/250345100/playManifest/entryId/1_gb6tjmle/protocol/https/format/applehttp/a.m3u8
-#EXTINF:-1 tvg-id="unetv-hn-sd" tvg-name="UNE TV" tvg-chno="245" tvg-country="HN" group-title="Noticias",UNE TV
+#EXTINF:-1 tvg-id="unetv-hn-sd" tvg-name="UNE TV" tvg-chno="246" tvg-country="HN" group-title="Noticias",UNE TV
 https://amixtv.com:8081/unetvhn/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="powernation-internacional" tvg-name="PowerNation (Internacional)" tvg-chno="245" tvg-country="ES" group-title="Deportes",PowerNation (Internacional)
-https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c3b76-69814bbff871095eafc65925.m3u8?x-plex-token=aodMBFfiWQ9a_wrQtBsJ
-#EXTINF:-1 tvg-id="venevision-noticias-venezuela" tvg-name="Venevision Noticias (Venezuela)" tvg-chno="246" tvg-country="ES" group-title="Noticias",Venevision Noticias (Venezuela)
+#EXTINF:-1 tvg-id="venevision-noticias-venezuela" tvg-name="Venevision Noticias (Venezuela)" tvg-chno="247" tvg-country="ES" group-title="Noticias",Venevision Noticias (Venezuela)
 https://dai.google.com/linear/hls/pa/event/q2LqrJ2ZRP6UuyzA6X0VsA/stream/ed51ab5e-9432-4fb3-92d5-6603d4671e51:CHS/master.m3u8
-#EXTINF:-1 tvg-id="racer-international-ee-uu-en" tvg-name="Racer International (EE.UU.) [EN]" tvg-chno="246" tvg-country="ES" group-title="Deportes",Racer International (EE.UU.) [EN]
-https://amg00378-mavtv-amg00378c2-rakuten-us-1048.playouts.now.amagi.tv/playlist/amg00378-mavtvfast-motorsportsnetwork-rakutenus/playlist.m3u8
-#EXTINF:-1 tvg-id="vivetv-ar-hd" tvg-name="VIVE TV" tvg-chno="247" tvg-country="AR" group-title="Noticias",VIVE TV
+#EXTINF:-1 tvg-id="vivetv-ar-hd" tvg-name="VIVE TV" tvg-chno="248" tvg-country="AR" group-title="Noticias",VIVE TV
 https://vivo.solumedia.com:19360/vivetv/vivetv.m3u8
-#EXTINF:-1 tvg-id="racernetwork-us-sd" tvg-name="Racer Network" tvg-chno="247" tvg-country="US" group-title="Deportes",Racer Network
-https://amg00378-mavtv-amg00378c2-samsung-au-1790.playouts.now.amagi.tv/playlist/amg00378-mavtvfast-motorsportsnetwork-samsungau/playlist.m3u8
-#EXTINF:-1 tvg-id="vnp-pe-sd" tvg-name="VNP" tvg-chno="248" tvg-country="PE" group-title="Noticias",VNP
+#EXTINF:-1 tvg-id="vnp-pe-sd" tvg-name="VNP" tvg-chno="249" tvg-country="PE" group-title="Noticias",VNP
 https://videoserver.tmcreativos.com:19360/visionnoticias/visionnoticias.m3u8
-#EXTINF:-1 tvg-id="racerselect-us-sd" tvg-name="Racer Select" tvg-chno="248" tvg-country="US" group-title="Deportes",Racer Select
+#EXTINF:-1 tvg-id="1530-13-go" tvg-name="13 go" tvg-chno="250" tvg-country="CL" group-title="Deportes",13 go
+https://origin.dpsgo.com/ssai/event/LhHrVtyeQkKZ-Ye_xEU75g/master.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="1763-chv-deportes" tvg-name="CHV Deportes" tvg-chno="251" tvg-country="CL" group-title="Deportes",CHV Deportes
+https://redirector.rudo.video/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/chvdeportes/chvdeportes.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="1098-crtv" tvg-name="CRTV" tvg-chno="252" tvg-country="CL" group-title="Deportes",CRTV
+https://stmv2.voxtvhd.com.br/crtvchile/crtvchile/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="crtv-cl-sd" tvg-name="CRTV (Chile)" tvg-chno="253" tvg-country="CL" group-title="Deportes",CRTV (Chile)
+https://stmv2.voxtvhd.com.br/crtvchile/crtvchile/playlist.m3u8
+#EXTINF:-1 tvg-id="1199-d13" tvg-name="D13" tvg-chno="254" tvg-country="CL" group-title="Deportes",D13
+https://origin.dpsgo.com/ssai/event/uFiYkh4CQPCPgbs7WPKhXw/master.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="1598-futgo" tvg-name="FutGO" tvg-chno="255" tvg-country="CL" group-title="Deportes",FutGO
+https://origin.dpsgo.com/ssai/event/Jxo4ZkwHQr-9XqguRcdsSg/master.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="376-teletrak" tvg-name="Teletrak" tvg-chno="256" tvg-country="CL" group-title="Deportes",Teletrak
+https://teletraktv.janus.cl/playlist/stream.m3u8?t=0&s=&p=&id=lufuufsd&d=w&PlaylistM3UCL
+#EXTINF:-1 tvg-id="turfmovil-cl-sd" tvg-name="Turf Movil" tvg-chno="257" tvg-country="CL" group-title="Deportes",Turf Movil
+https://tvturf4.janus.cl/playlist/stream.m3u8?d=w&id=
+#EXTINF:-1 tvg-id="374-tv-turf" tvg-name="TV Turf" tvg-chno="258" tvg-country="CL" group-title="Deportes",TV Turf
+https://tvturf4.janus.cl/playlist/stream.m3u8?d=w&id=lufv0n9d&t=1711909093&q=2&s=sd&PlaylistM3UCL
+#EXTINF:-1 tvg-id="as3sporttv-ve-sd" tvg-name="AS3 Sport TV" tvg-chno="259" tvg-country="VE" group-title="Deportes",AS3 Sport TV
+https://streamtv.as3sport.online:3394/hybrid/play.m3u8
+#EXTINF:-1 tvg-id="awapasportstv-sv-sd" tvg-name="Awapa Sports TV" tvg-chno="260" tvg-country="SV" group-title="Deportes",Awapa Sports TV
+https://mgv-awapa.akamaized.net/hls/live/2104282/MGV_CHANNEL15/master.m3u8
+#EXTINF:-1 tvg-id="azteca-deportes-network-3-hd" tvg-name="Azteca Deportes Network 3 HD" tvg-chno="261" tvg-country="ES" group-title="Deportes",Azteca Deportes Network 3 HD
+https://live-manifest.production-public.tubi.io/live/6bf131c3-d664-424c-93c9-49188a788980/playlist.m3u8
+#EXTINF:-1 tvg-id="barcatv-es-sd" tvg-name="Barca TV" tvg-chno="262" tvg-country="ES" group-title="Deportes",Barca TV
+https://live20.bozztv.com/dvrfl06/astv/astv-barca/index.m3u8
+#EXTINF:-1 tvg-id="box-gamers-espana" tvg-name="Box Gamers (España)" tvg-chno="263" tvg-country="ES" group-title="Deportes",Box Gamers (España)
+https://e46fa4a445464f8a9150fa7d510eb85c.mediatailor.us-west-2.amazonaws.com/v1/master/2d2d0d97b0e548f025b2598a69b55bf30337aa0e/npp/JMKV30GS3UVOVY5SEZIG/hls3/now,-1m/playlist.m3u8
+#EXTINF:-1 tvg-id="canalshowsport-ar-sd" tvg-name="Canal Showsport" tvg-chno="264" tvg-country="AR" group-title="Deportes",Canal Showsport
+https://livestream.lumpentv.com.ar/hls/lumpen.m3u8
+#EXTINF:-1 tvg-id="cazetv-br" tvg-name="CazéTV (BR)" tvg-chno="265" tvg-country="ES" group-title="Deportes",CazéTV (BR)
+https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/Caze_TV.m3u8
+#EXTINF:-1 tvg-id="cdndeportes-do-sd" tvg-name="CDN Deportes" tvg-chno="266" tvg-country="DO" group-title="Deportes",CDN Deportes
+https://hls.tvabierta.net/hls/036.m3u8
+#EXTINF:-1 tvg-id="colimdotv-do-sd" tvg-name="Colimdo TV" tvg-chno="267" tvg-country="DO" group-title="Deportes",Colimdo TV
+https://cnn.livestreaminggroup.info:3132/live/colimdotvlive.m3u8
+#EXTINF:-1 tvg-id="combatv-internacional" tvg-name="CombaTV (Internacional)" tvg-chno="268" tvg-country="ES" group-title="Deportes",CombaTV (Internacional)
+https://aym-cbtv.otteravision.com/aym/cbtv/cbtv.m3u8
+#EXTINF:-1 tvg-id="deportes13-chile" tvg-name="Deportes13 (Chile)" tvg-chno="269" tvg-country="ES" group-title="Deportes",Deportes13 (Chile)
+https://origin.dpsgo.com/ssai/event/uFiYkh4CQPCPgbs7WPKhXw/master.m3u8
+#EXTINF:-1 tvg-id="fifaplus-uk-hispanicamerica" tvg-name="FIFA+ Hispanic America" tvg-chno="270" tvg-country="UK" group-title="Deportes",FIFA+ Hispanic America
+https://6c849fb3.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctbXhfRklGQVBsdXNTcGFuaXNoLTFfSExT/playlist.m3u8
+#EXTINF:-1 tvg-id="fifaplus-uk-spain" tvg-name="FIFA+ Spain" tvg-chno="271" tvg-country="UK" group-title="Deportes",FIFA+ Spain
+https://d63fabad.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWVzX0ZJRkFQbHVzU3BhbmlzaF9ITFM/playlist.m3u8
+#EXTINF:-1 tvg-id="fifaplus-uk-unitedstates" tvg-name="FIFA+ United States" tvg-chno="272" tvg-country="UK" group-title="Deportes",FIFA+ United States
+https://d2w9q46ikgrcwx.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-of5cbk3sav3w5/v1/sysdata_s_p_a_fifa_7/samsungheadend_us/latest/main/hls/playlist.m3u8
+#EXTINF:-1 tvg-id="fite247-us" tvg-name="FITE 24/7" tvg-chno="273" tvg-country="MX" group-title="Deportes",FITE 24/7
+https://d3d85c7qkywguj.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/FiteTV-Nuestra/263.m3u8
+#EXTINF:-1 tvg-id="flohockey-us-hd" tvg-name="FloHockey" tvg-chno="274" tvg-country="US" group-title="Deportes",FloHockey
+https://amg02278-amg02278c2-flosports-worldwide-9916.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="floracing-us-hd" tvg-name="FloRacing" tvg-chno="275" tvg-country="US" group-title="Deportes",FloRacing
+https://amg02278-amg02278c1-flosports-worldwide-7592.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="ftv-bo-sd" tvg-name="FTV (Bolivia)" tvg-chno="276" tvg-country="BO" group-title="Deportes",FTV (Bolivia)
+https://master.tucableip.com/ftvhd/index.m3u8
+#EXTINF:-1 tvg-id="fuel-tv-internacional-sub" tvg-name="FUEL TV (Internacional) [SUB]" tvg-chno="277" tvg-country="ES" group-title="Deportes",FUEL TV (Internacional) [SUB]
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01074-fueltv-fueltvuses-lgmx/playlist.m3u8
+#EXTINF:-1 tvg-id="fueltv-pt-us" tvg-name="FUEL TV US" tvg-chno="278" tvg-country="PT" group-title="Deportes",FUEL TV US
+https://amg01074-fueltv-amg01074c1-firetv-us-3150.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="glory-kickboxing-ee-uu-en" tvg-name="Glory Kickboxing (EE.UU.) [EN]" tvg-chno="279" tvg-country="ES" group-title="Deportes",Glory Kickboxing (EE.UU.) [EN]
+https://9baf5bf3.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctZXNfR2xvcnlLaWNrYm94aW5nX0hMUw/playlist.m3u8
+#EXTINF:-1 tvg-id="hard-knocks-mma-ee-uu-en" tvg-name="Hard Knocks MMA (EE.UU.) [EN]" tvg-chno="280" tvg-country="ES" group-title="Deportes",Hard Knocks MMA (EE.UU.) [EN]
+https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883037
+#EXTINF:-1 tvg-id="itv-deportes-internacional" tvg-name="ITV Deportes (Internacional)" tvg-chno="281" tvg-country="ES" group-title="Deportes",ITV Deportes (Internacional)
+https://amg01602-amg01602c3-canelatv-international-8324.playouts.now.amagi.tv/playlist/amg01602-themahqfrancefast-itvdeportes-canelatvinternational/playlist.m3u8
+#EXTINF:-1 tvg-id="lucha-plus-internacional" tvg-name="Lucha Plus (Internacional)" tvg-chno="282" tvg-country="ES" group-title="Deportes",Lucha Plus (Internacional)
+https://amg17334-amg17334c1-plex-us-6729.playouts.now.amagi.tv/playlist/amg17334-luchalibrefast-luchalibre-plexus/playlist.m3u8
+#EXTINF:-1 tvg-id="mlb-us-sd" tvg-name="MLB" tvg-chno="283" tvg-country="US" group-title="Deportes",MLB
+https://aegis-cloudfront-1.tubi.video/36ef2f9d-7100-4c4d-b41a-dbf41ab7e461/playlist.m3u8
+#EXTINF:-1 tvg-id="monterricotv-pe-sd" tvg-name="Monterrico TV" tvg-chno="284" tvg-country="PE" group-title="Deportes",Monterrico TV
+https://h.jcp.live.opencaster.com/play_src/index.m3u8
+#EXTINF:-1 tvg-id="monterrico-tv-peru" tvg-name="Monterrico TV (Perú)" tvg-chno="285" tvg-country="ES" group-title="Deportes",Monterrico TV (Perú)
+https://www.opencaster.com/resources/hls_stream/hipodromojcp2.m3u8
+#EXTINF:-1 tvg-id="motorvision-tv-internacional" tvg-name="Motorvision TV (Internacional)" tvg-chno="286" tvg-country="ES" group-title="Deportes",Motorvision TV (Internacional)
+https://d23obwy8cjdxix.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-w27b5ewgr6d28/mv_es.m3u8
+#EXTINF:-1 tvg-id="mtrspt1-ee-uu-en" tvg-name="MTRSPT1 (EE.UU.) [EN]" tvg-chno="287" tvg-country="ES" group-title="Deportes",MTRSPT1 (EE.UU.) [EN]
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg02873-kravemedia-mtrspt1-lges/playlist.m3u8
+#EXTINF:-1 tvg-id="multivisionsports-gt-sd" tvg-name="Multivision Sports" tvg-chno="288" tvg-country="GT" group-title="Deportes",Multivision Sports
+https://stream.digitalgt.com:3605/live/multivisionsportslive.m3u8
+#EXTINF:-1 tvg-id="nhlnetwork-us-sd" tvg-name="NHL Network SD" tvg-chno="289" tvg-country="US" group-title="Deportes",NHL Network SD
+https://nhl-firetv.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="olympicchannel-es-sd" tvg-name="Olympic Channel" tvg-chno="290" tvg-country="ES" group-title="Deportes",Olympic Channel
+https://ocshls-2-olympicchannel.akamaized.net/ocshls/OCTV_1.m3u8
+#EXTINF:-1 tvg-id="pfl-mma-ee-uu-en" tvg-name="PFL MMA (EE.UU.) [EN]" tvg-chno="291" tvg-country="ES" group-title="Deportes",PFL MMA (EE.UU.) [EN]
+https://32528224.wurl.com/TEctZXNfUEZMTU1BX0hMUw/playlist.m3u8
+#EXTINF:-1 tvg-id="plutotvdeportes-us-latam" tvg-name="Pluto TV Deportes" tvg-chno="292" tvg-country="US" group-title="Deportes",Pluto TV Deportes
+https://jmp2.uk/plu-5dcde07af1c85b0009b18651.m3u8
+#EXTINF:-1 tvg-id="plutotvesports-us-latam" tvg-name="Pluto TV E-Sports" tvg-chno="293" tvg-country="US" group-title="Deportes",Pluto TV E-Sports
+https://jmp2.uk/plu-5ff3934600d4c7000733ff49.m3u8
+#EXTINF:-1 tvg-id="powernation-internacional" tvg-name="PowerNation (Internacional)" tvg-chno="294" tvg-country="ES" group-title="Deportes",PowerNation (Internacional)
+https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c3b76-69814bbff871095eafc65925.m3u8?x-plex-token=aodMBFfiWQ9a_wrQtBsJ
+#EXTINF:-1 tvg-id="racer-international-ee-uu-en" tvg-name="Racer International (EE.UU.) [EN]" tvg-chno="295" tvg-country="ES" group-title="Deportes",Racer International (EE.UU.) [EN]
+https://amg00378-mavtv-amg00378c2-rakuten-us-1048.playouts.now.amagi.tv/playlist/amg00378-mavtvfast-motorsportsnetwork-rakutenus/playlist.m3u8
+#EXTINF:-1 tvg-id="racernetwork-us-sd" tvg-name="Racer Network" tvg-chno="296" tvg-country="US" group-title="Deportes",Racer Network
+https://amg00378-mavtv-amg00378c2-samsung-au-1790.playouts.now.amagi.tv/playlist/amg00378-mavtvfast-motorsportsnetwork-samsungau/playlist.m3u8
+#EXTINF:-1 tvg-id="racerselect-us-sd" tvg-name="Racer Select" tvg-chno="297" tvg-country="US" group-title="Deportes",Racer Select
 https://amg00378-amg00378c4-freelivesports-emea-5637.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="radioturrialbatvsports-cr-sd" tvg-name="Radio Turrialba TV Sports" tvg-chno="249" tvg-country="CR" group-title="Deportes",Radio Turrialba TV Sports
+#EXTINF:-1 tvg-id="radioturrialbatvsports-cr-sd" tvg-name="Radio Turrialba TV Sports" tvg-chno="298" tvg-country="CR" group-title="Deportes",Radio Turrialba TV Sports
 https://live-stream.iblups.com/live/a5ae024a1bbc4a05a68debbc9d379db6bb6a6da3.m3u8
-#EXTINF:-1 tvg-id="rally-tv-fast-ee-uu-en" tvg-name="Rally TV FAST (EE.UU.) [EN]" tvg-chno="250" tvg-country="ES" group-title="Deportes",Rally TV FAST (EE.UU.) [EN]
+#EXTINF:-1 tvg-id="rally-tv-fast-ee-uu-en" tvg-name="Rally TV FAST (EE.UU.) [EN]" tvg-chno="299" tvg-country="ES" group-title="Deportes",Rally TV FAST (EE.UU.) [EN]
 https://d6a3f626.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X1JhbGx5VFZGQVNUUGx1c19ITFM/playlist.m3u8
-#EXTINF:-1 tvg-id="realmadridtv-es-sd" tvg-name="Real Madrid TV" tvg-chno="251" tvg-country="ES" group-title="Deportes",Real Madrid TV
+#EXTINF:-1 tvg-id="realmadridtv-es-sd" tvg-name="Real Madrid TV" tvg-chno="300" tvg-country="ES" group-title="Deportes",Real Madrid TV
 https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8
-#EXTINF:-1 tvg-id="red-bull-tv-es-internacional" tvg-name="Red Bull TV (ES) (Internacional)" tvg-chno="252" tvg-country="ES" group-title="Deportes",Red Bull TV (ES) (Internacional)
+#EXTINF:-1 tvg-id="red-bull-tv-es-internacional" tvg-name="Red Bull TV (ES) (Internacional)" tvg-chno="301" tvg-country="ES" group-title="Deportes",Red Bull TV (ES) (Internacional)
 https://73554b8d.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWVzX1JlZEJ1bGxUVl9ITFM/playlist.m3u8
-#EXTINF:-1 tvg-id="redbull-tv-ee-uu-en" tvg-name="RedBull TV (EE.UU.) [EN]" tvg-chno="253" tvg-country="ES" group-title="Deportes",RedBull TV (EE.UU.) [EN]
+#EXTINF:-1 tvg-id="redbull-tv-ee-uu-en" tvg-name="RedBull TV (EE.UU.) [EN]" tvg-chno="302" tvg-country="ES" group-title="Deportes",RedBull TV (EE.UU.) [EN]
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
-#EXTINF:-1 tvg-id="sbt-br" tvg-name="SBT (BR)" tvg-chno="254" tvg-country="ES" group-title="Deportes",SBT (BR)
+#EXTINF:-1 tvg-id="sbt-br" tvg-name="SBT (BR)" tvg-chno="303" tvg-country="ES" group-title="Deportes",SBT (BR)
 https://sbt.cdnsimba.com.br/bpk-tv/SBTrj/default/index.m3u8
-#EXTINF:-1 tvg-id="sft-combat-br" tvg-name="SFT Combat (BR)" tvg-chno="255" tvg-country="ES" group-title="Deportes",SFT Combat (BR)
+#EXTINF:-1 tvg-id="sft-combat-br" tvg-name="SFT Combat (BR)" tvg-chno="304" tvg-country="ES" group-title="Deportes",SFT Combat (BR)
 https://hrm-sftc.otteravision.com/hrm/sftc/sftc.m3u8
-#EXTINF:-1 tvg-id="skitv-ch-sd" tvg-name="SKI TV" tvg-chno="256" tvg-country="CH" group-title="Deportes",SKI TV
+#EXTINF:-1 tvg-id="skitv-ch-sd" tvg-name="SKI TV" tvg-chno="305" tvg-country="CH" group-title="Deportes",SKI TV
 https://d2xeo83q8fcni6.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/SkiTV-SportsTribal/193.m3u8
-#EXTINF:-1 tvg-id="sportmax-2" tvg-name="SportMax 2" tvg-chno="257" tvg-country="ES" group-title="Deportes",SportMax 2
+#EXTINF:-1 tvg-id="sportmax-2" tvg-name="SportMax 2" tvg-chno="306" tvg-country="ES" group-title="Deportes",SportMax 2
 https://cdnlive.klicgo.net/hrmax/live/playlist_dvr.m3u8
-#EXTINF:-1 tvg-id="sportmax-news" tvg-name="SportMax News" tvg-chno="258" tvg-country="ES" group-title="Deportes",SportMax News
+#EXTINF:-1 tvg-id="sportmax-news" tvg-name="SportMax News" tvg-chno="307" tvg-country="ES" group-title="Deportes",SportMax News
 https://cdnlive.klicgo.net/sportsmaxnews/live/playlist_dvr.m3u8
-#EXTINF:-1 tvg-id="sqalatv-pe-sd" tvg-name="Sqala TV" tvg-chno="259" tvg-country="PE" group-title="Deportes",Sqala TV
+#EXTINF:-1 tvg-id="sqalatv-pe-sd" tvg-name="Sqala TV" tvg-chno="308" tvg-country="PE" group-title="Deportes",Sqala TV
 https://live-evg8.tv360.bitel.com.pe/bitel/studiotvhuanta/playlist.m3u8
-#EXTINF:-1 tvg-id="teledeporte-es-sd" tvg-name="Teledeporte" tvg-chno="260" tvg-country="ES" group-title="Deportes",Teledeporte
+#EXTINF:-1 tvg-id="teledeporte-es-sd" tvg-name="Teledeporte" tvg-chno="309" tvg-country="ES" group-title="Deportes",Teledeporte
 https://rtve01p.origin.c21livecloud.com/live-origin/tdp-hls/bitrate_1.m3u8
-#EXTINF:-1 tvg-id="telemundo-deportes-ahora-internacional" tvg-name="Telemundo Deportes Ahora (Internacional)" tvg-chno="261" tvg-country="ES" group-title="Deportes",Telemundo Deportes Ahora (Internacional)
+#EXTINF:-1 tvg-id="telemundo-deportes-ahora-internacional" tvg-name="Telemundo Deportes Ahora (Internacional)" tvg-chno="310" tvg-country="ES" group-title="Deportes",Telemundo Deportes Ahora (Internacional)
 https://d1rqgw5gocwo9i.cloudfront.net/10009/99951459/hls/master.m3u8?ads.xumo_channelId=99951459
-#EXTINF:-1 tvg-id="telemundo-deportes-ahora-internacional-1080p" tvg-name="Telemundo Deportes Ahora (Internacional)[1080p]" tvg-chno="262" tvg-country="ES" group-title="Deportes",Telemundo Deportes Ahora (Internacional)[1080p]
+#EXTINF:-1 tvg-id="telemundo-deportes-ahora-internacional-1080p" tvg-name="Telemundo Deportes Ahora (Internacional)[1080p]" tvg-chno="311" tvg-country="ES" group-title="Deportes",Telemundo Deportes Ahora (Internacional)[1080p]
 https://d1rqgw5gocwo9i.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-nbcu-stitched/6a4c908e-7980-4fcb-93e3-584472a5f9a3/4.m3u8
-#EXTINF:-1 tvg-id="telemundo-deportes-ahora-internacional-720p" tvg-name="Telemundo Deportes Ahora (Internacional)[720p]" tvg-chno="263" tvg-country="ES" group-title="Deportes",Telemundo Deportes Ahora (Internacional)[720p]
+#EXTINF:-1 tvg-id="telemundo-deportes-ahora-internacional-720p" tvg-name="Telemundo Deportes Ahora (Internacional)[720p]" tvg-chno="312" tvg-country="ES" group-title="Deportes",Telemundo Deportes Ahora (Internacional)[720p]
 https://d1rqgw5gocwo9i.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-nbcu-stitched/6a4c908e-7980-4fcb-93e3-584472a5f9a3/3.m3u8
-#EXTINF:-1 tvg-id="teletrak-tv-chile" tvg-name="Teletrak TV (Chile)" tvg-chno="264" tvg-country="ES" group-title="Deportes",Teletrak TV (Chile)
+#EXTINF:-1 tvg-id="teletrak-tv-chile" tvg-name="Teletrak TV (Chile)" tvg-chno="313" tvg-country="ES" group-title="Deportes",Teletrak TV (Chile)
 https://unlimited6-cl.dps.live/sportinghd/sportinghd.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="tennis-ee-uu-en" tvg-name="Tennis + (EE.UU.) [EN]" tvg-chno="265" tvg-country="ES" group-title="Deportes",Tennis + (EE.UU.) [EN]
+#EXTINF:-1 tvg-id="tennis-ee-uu-en" tvg-name="Tennis + (EE.UU.) [EN]" tvg-chno="314" tvg-country="ES" group-title="Deportes",Tennis + (EE.UU.) [EN]
 https://amg01935-amg01935c1-amgplt0165.playout.now3.amagi.tv/playlist/amg01935-amg01935c1-amgplt0165/playlist.m3u8
-#EXTINF:-1 tvg-id="tigosports-bo-sd" tvg-name="Tigo Sports (Bolivia)" tvg-chno="266" tvg-country="BO" group-title="Deportes",Tigo Sports (Bolivia)
+#EXTINF:-1 tvg-id="tigosports-bo-sd" tvg-name="Tigo Sports (Bolivia)" tvg-chno="315" tvg-country="BO" group-title="Deportes",Tigo Sports (Bolivia)
 https://dipdxjic51jcl.cloudfront.net/out/v1/81f769d780694be488d85811331c8a4f/index.m3u8
-#EXTINF:-1 tvg-id="tigosports-cr-sd" tvg-name="Tigo Sports (Costa Rica)" tvg-chno="267" tvg-country="CR" group-title="Deportes",Tigo Sports (Costa Rica)
+#EXTINF:-1 tvg-id="tigosports-cr-sd" tvg-name="Tigo Sports (Costa Rica)" tvg-chno="316" tvg-country="CR" group-title="Deportes",Tigo Sports (Costa Rica)
 https://live20.bozztv.com/akamaissh101/ssh101/livetigocr/playlist.m3u8
-#EXTINF:-1 tvg-id="tigosportsplus-py-sd" tvg-name="Tigo Sports+" tvg-chno="268" tvg-country="PY" group-title="Deportes",Tigo Sports+
+#EXTINF:-1 tvg-id="tigosportsplus-py-sd" tvg-name="Tigo Sports+" tvg-chno="317" tvg-country="PY" group-title="Deportes",Tigo Sports+
 https://stmv7.voxtvhd.com.br/xxvideo/xxvideo/playlist.m3u8
-#EXTINF:-1 tvg-id="top-barca-en" tvg-name="TOP Barça [EN]" tvg-chno="269" tvg-country="ES" group-title="Deportes",TOP Barça [EN]
+#EXTINF:-1 tvg-id="top-barca-en" tvg-name="TOP Barça [EN]" tvg-chno="318" tvg-country="ES" group-title="Deportes",TOP Barça [EN]
 https://amg17560-fcb-amg17560c1-rakuten-uk-4891.playouts.now.amagi.tv/playlist/amg17560-fcbarcelona-topbarcaenglish-rakutenuk/playlist.m3u8
-#EXTINF:-1 tvg-id="top-barca-es" tvg-name="TOP Barça [ES]" tvg-chno="270" tvg-country="ES" group-title="Deportes",TOP Barça [ES]
+#EXTINF:-1 tvg-id="top-barca-es" tvg-name="TOP Barça [ES]" tvg-chno="319" tvg-country="ES" group-title="Deportes",TOP Barça [ES]
 https://amg17560-fcb-amg17560c2-rakuten-es-4889.playouts.now.amagi.tv/playlist/amg17560-fcbarcelona-topbarcaspanish-rakutenes/playlist.m3u8
-#EXTINF:-1 tvg-id="tourspottv-do-hd" tvg-name="Tour Spot TV" tvg-chno="271" tvg-country="DO" group-title="Deportes",Tour Spot TV
+#EXTINF:-1 tvg-id="tourspottv-do-hd" tvg-name="Tour Spot TV" tvg-chno="320" tvg-country="DO" group-title="Deportes",Tour Spot TV
 https://fox.hostlagarto.com:8081/toursporttv/playlist.m3u8
-#EXTINF:-1 tvg-id="turf-movil-chile" tvg-name="Turf Móvil (Chile)" tvg-chno="272" tvg-country="ES" group-title="Deportes",Turf Móvil (Chile)
+#EXTINF:-1 tvg-id="turf-movil-chile" tvg-name="Turf Móvil (Chile)" tvg-chno="321" tvg-country="ES" group-title="Deportes",Turf Móvil (Chile)
 https://tvturf4.janus.cl/playlist/stream.m3u8
-#EXTINF:-1 tvg-id="tvcuatro43-mx-sd" tvg-name="TV Cuatro 4.3" tvg-chno="273" tvg-country="MX" group-title="Deportes",TV Cuatro 4.3
+#EXTINF:-1 tvg-id="tvcuatro43-mx-sd" tvg-name="TV Cuatro 4.3" tvg-chno="322" tvg-country="MX" group-title="Deportes",TV Cuatro 4.3
 https://5ca3e84a76d30.streamlock.net/tv43gto/tv43gto.smil/.m3u8
-#EXTINF:-1 tvg-id="tvq-sports-no-24-7-guatemala" tvg-name="TVQ Sports [No 24/7 ] (Guatemala)" tvg-chno="274" tvg-country="ES" group-title="Deportes",TVQ Sports [No 24/7 ] (Guatemala)
+#EXTINF:-1 tvg-id="tvq-sports-no-24-7-guatemala" tvg-name="TVQ Sports [No 24/7 ] (Guatemala)" tvg-chno="323" tvg-country="ES" group-title="Deportes",TVQ Sports [No 24/7 ] (Guatemala)
 https://cdn-us-east-prod-ingest-infra-dacast-com.akamaized.net/b08022c8-994e-468a-9d55-6e8450b4f397/index.m3u8
-#EXTINF:-1 tvg-id="ufc-ee-uu-en" tvg-name="UFC (EE.UU.) [EN]" tvg-chno="275" tvg-country="ES" group-title="Deportes",UFC (EE.UU.) [EN]
+#EXTINF:-1 tvg-id="ufc-ee-uu-en" tvg-name="UFC (EE.UU.) [EN]" tvg-chno="324" tvg-country="ES" group-title="Deportes",UFC (EE.UU.) [EN]
 https://linear-893.frequency.stream/dist/xumo/893/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-id="women-s-sports-network-ee-uu-en" tvg-name="Women's Sports Network (EE.UU.) [EN]" tvg-chno="276" tvg-country="ES" group-title="Deportes",Women's Sports Network (EE.UU.) [EN]
+#EXTINF:-1 tvg-id="women-s-sports-network-ee-uu-en" tvg-name="Women's Sports Network (EE.UU.) [EN]" tvg-chno="325" tvg-country="ES" group-title="Deportes",Women's Sports Network (EE.UU.) [EN]
 https://aegis-cloudfront-1.tubi.video/e974981b-bbcd-42a3-a6c1-6c25e14f10bd/playlist.m3u8
-#EXTINF:-1 tvg-id="world-billiards-tv-ee-uu-en" tvg-name="World Billiards TV (EE.UU.) [EN]" tvg-chno="277" tvg-country="ES" group-title="Deportes",World Billiards TV (EE.UU.) [EN]
+#EXTINF:-1 tvg-id="world-billiards-tv-ee-uu-en" tvg-name="World Billiards TV (EE.UU.) [EN]" tvg-chno="326" tvg-country="ES" group-title="Deportes",World Billiards TV (EE.UU.) [EN]
 https://ads.its-newid.net/api/manifest.m3u8?tp=lg_channels&channel_name=worldbilliardstv&channel_id=newid_003&mpf=57b62c7c-39af1962-091438e3&apikey=48230e6b-1cea0097-15975f93-39af1962&auth=db7212dd-0d889b7d-fbfb03c7-7af801d1
-#EXTINF:-1 tvg-id="world-poker-tour-internacional" tvg-name="World Poker Tour (Internacional)" tvg-chno="278" tvg-country="ES" group-title="Deportes",World Poker Tour (Internacional)
+#EXTINF:-1 tvg-id="world-poker-tour-internacional" tvg-name="World Poker Tour (Internacional)" tvg-chno="327" tvg-country="ES" group-title="Deportes",World Poker Tour (Internacional)
 https://amg00218-wptenterprisesi-wptespanol-samsungspain-9s2tf.amagi.tv/ts-eu-w1-n2/playlist/amg00218-wptenterprisesi-wptespanol-samsungspain/playlist.m3u8
-#EXTINF:-1 tvg-id="13h" tvg-name="13 Humor" tvg-chno="302" tvg-country="CL" group-title="13 FAST",13 Humor
+#EXTINF:-1 tvg-id="13h" tvg-name="13 Humor" tvg-chno="329" tvg-country="CL" group-title="13 FAST",13 Humor
 https://origin.dpsgo.com/ssai/event/cKWySXKgSK-SzlJmESkOWw/master.m3u8
-#EXTINF:-1 tvg-id="13k" tvg-name="13 Kids" tvg-chno="303" tvg-country="CL" group-title="13 FAST",13 Kids
+#EXTINF:-1 tvg-id="13k" tvg-name="13 Kids" tvg-chno="330" tvg-country="CL" group-title="13 FAST",13 Kids
 https://origin.dpsgo.com/ssai/event/LhHrVtyeQkKZ-Ye_xEU75g/master.m3u8
-#EXTINF:-1 tvg-id="13c" tvg-name="13C" tvg-chno="305" tvg-country="CL" group-title="13 FAST",13C
+#EXTINF:-1 tvg-id="13c" tvg-name="13C" tvg-chno="332" tvg-country="CL" group-title="13 FAST",13C
 https://origin.dpsgo.com/ssai/event/GI-9cp_bT8KcerLpZwkuhw/master.m3u8
-#EXTINF:-1 tvg-id="13e" tvg-name="13E" tvg-chno="306" tvg-country="CL" group-title="13 FAST",13E
+#EXTINF:-1 tvg-id="13e" tvg-name="13E" tvg-chno="333" tvg-country="CL" group-title="13 FAST",13E
 https://origin.dpsgo.com/ssai/event/BBp0VeP6QtOOlH8nu3bWTg/master.m3u8
-#EXTINF:-1 tvg-id="13p" tvg-name="13P" tvg-chno="307" tvg-country="CL" group-title="13 FAST",13P
+#EXTINF:-1 tvg-id="13p" tvg-name="13P" tvg-chno="334" tvg-country="CL" group-title="13 FAST",13P
 https://origin.dpsgo.com/ssai/event/p4mmBxEzSmKAxY1GusOHrw/master.m3u8
-#EXTINF:-1 tvg-id="13t" tvg-name="13T" tvg-chno="308" tvg-country="CL" group-title="13 FAST",13T
+#EXTINF:-1 tvg-id="13t" tvg-name="13T" tvg-chno="335" tvg-country="CL" group-title="13 FAST",13T
 https://origin.dpsgo.com/ssai/event/f4TrySe8SoiGF8Lu3EIq1g/master.m3u8
-#EXTINF:-1 tvg-id="chilechannel-cl-sd" tvg-name="Chile Channel" tvg-chno="310" tvg-country="CL" group-title="Entretenimiento",Chile Channel
+#EXTINF:-1 tvg-id="chilechannel-cl-sd" tvg-name="Chile Channel" tvg-chno="337" tvg-country="CL" group-title="Entretenimiento",Chile Channel
 https://v2.tustreaming.cl/chilechannel/index.m3u8
-#EXTINF:-1 tvg-id="nadaesimposibletv-cl-sd" tvg-name="Nada Es Imposible TV" tvg-chno="315" tvg-country="CL" group-title="Entretenimiento",Nada Es Imposible TV
+#EXTINF:-1 tvg-id="nadaesimposibletv-cl-sd" tvg-name="Nada Es Imposible TV" tvg-chno="342" tvg-country="CL" group-title="Entretenimiento",Nada Es Imposible TV
 https://vdochile.com:3194/live/mvqutymylive.m3u8
-#EXTINF:-1 tvg-id="zonaplaytv-cl-sd" tvg-name="Zona Play TV" tvg-chno="316" tvg-country="CL" group-title="Entretenimiento",Zona Play TV
+#EXTINF:-1 tvg-id="zonaplaytv-cl-sd" tvg-name="Zona Play TV" tvg-chno="343" tvg-country="CL" group-title="Entretenimiento",Zona Play TV
 https://tv1.mediacp.eu:3131/live/dilxbgxylive.m3u8
-#EXTINF:-1 tvg-id="comedycentrallatinamerica-us-panregional" tvg-name="Comedy Central Latin America" tvg-chno="317" tvg-country="US" group-title="Comedia",Comedy Central Latin America
+#EXTINF:-1 tvg-id="comedycentrallatinamerica-us-panregional" tvg-name="Comedy Central Latin America" tvg-chno="344" tvg-country="US" group-title="Comedia",Comedy Central Latin America
 https://barinaslive1.boldmss.com/COMEDY/COMEDY.isml/COMEDY.m3u8
-#EXTINF:-1 tvg-id="opa-cr-sd" tvg-name="¡OPA!" tvg-chno="318" tvg-country="CR" group-title="Entretenimiento",¡OPA!
+#EXTINF:-1 tvg-id="opa-cr-sd" tvg-name="¡OPA!" tvg-chno="345" tvg-country="CR" group-title="Entretenimiento",¡OPA!
 https://5f1af61612fb5.streamlock.net/genteopa/videogenteopa_720p/playlist.m3u8
-#EXTINF:-1 tvg-id="abejalestv-ve-hd" tvg-name="AbejalesTV" tvg-chno="319" tvg-country="VE" group-title="Entretenimiento",AbejalesTV
+#EXTINF:-1 tvg-id="abejalestv-ve-hd" tvg-name="AbejalesTV" tvg-chno="346" tvg-country="VE" group-title="Entretenimiento",AbejalesTV
 https://183.bozztv.com/giatv/giatv-AbejalesTV/AbejalesTV/playlist.m3u8
-#EXTINF:-1 tvg-id="aguacatetv-ve-sd" tvg-name="Aguacate TV" tvg-chno="320" tvg-country="VE" group-title="Entretenimiento",Aguacate TV
+#EXTINF:-1 tvg-id="aguacatetv-ve-sd" tvg-name="Aguacate TV" tvg-chno="347" tvg-country="VE" group-title="Entretenimiento",Aguacate TV
 https://stream.aguacatetv.com:3949/hybrid/play.m3u8
-#EXTINF:-1 tvg-id="alegretvrd-do-sd" tvg-name="Alegre TV RD" tvg-chno="321" tvg-country="DO" group-title="Entretenimiento",Alegre TV RD
+#EXTINF:-1 tvg-id="alegretvrd-do-sd" tvg-name="Alegre TV RD" tvg-chno="348" tvg-country="DO" group-title="Entretenimiento",Alegre TV RD
 https://streamunoapp.com:3149/live/alegretvlive.m3u8
-#EXTINF:-1 tvg-id="altmediatv-py-sd" tvg-name="Alt Media TV" tvg-chno="322" tvg-country="PY" group-title="Entretenimiento",Alt Media TV
+#EXTINF:-1 tvg-id="altmediatv-py-sd" tvg-name="Alt Media TV" tvg-chno="349" tvg-country="PY" group-title="Entretenimiento",Alt Media TV
 https://video.hostingcaaguazu.com:19360/altmedia/altmedia.m3u8
-#EXTINF:-1 tvg-id="americateve-pr-sd" tvg-name="America TeVe" tvg-chno="323" tvg-country="PR" group-title="Entretenimiento",America TeVe
+#EXTINF:-1 tvg-id="americateve-pr-sd" tvg-name="America TeVe" tvg-chno="350" tvg-country="PR" group-title="Entretenimiento",America TeVe
 https://live.gideo.video/americateve2/master.m3u8
-#EXTINF:-1 tvg-id="anctelevision-co-sd" tvg-name="ANC Television" tvg-chno="324" tvg-country="CO" group-title="Entretenimiento",ANC Television
+#EXTINF:-1 tvg-id="anctelevision-co-sd" tvg-name="ANC Television" tvg-chno="351" tvg-country="CO" group-title="Entretenimiento",ANC Television
 https://live.amelbatv.co:81/anctvlive/index.m3u8
-#EXTINF:-1 tvg-id="antarestelevision-pe-sd" tvg-name="Antares Television" tvg-chno="325" tvg-country="PE" group-title="Entretenimiento",Antares Television
+#EXTINF:-1 tvg-id="antarestelevision-pe-sd" tvg-name="Antares Television" tvg-chno="352" tvg-country="PE" group-title="Entretenimiento",Antares Television
 https://5949aa132c8fb.streamlock.net:1963/iptvantares/liveantarestv/playlist.m3u8
-#EXTINF:-1 tvg-id="antena21-do-sd" tvg-name="Antena 21" tvg-chno="326" tvg-country="DO" group-title="Entretenimiento",Antena 21
+#EXTINF:-1 tvg-id="antena21-do-sd" tvg-name="Antena 21" tvg-chno="353" tvg-country="DO" group-title="Entretenimiento",Antena 21
 https://alba-do-antena7-c21.stream.mediatiquestream.com/index.m3u8
-#EXTINF:-1 tvg-id="antena21-do-hd" tvg-name="Antena 21 HD" tvg-chno="327" tvg-country="DO" group-title="Entretenimiento",Antena 21 HD
+#EXTINF:-1 tvg-id="antena21-do-hd" tvg-name="Antena 21 HD" tvg-chno="354" tvg-country="DO" group-title="Entretenimiento",Antena 21 HD
 https://hls.tvabierta.net/hls/021.m3u8
-#EXTINF:-1 tvg-id="aztecainternacional-mx-sd" tvg-name="Azteca Internacional" tvg-chno="328" tvg-country="MX" group-title="Entretenimiento",Azteca Internacional
+#EXTINF:-1 tvg-id="aztecainternacional-mx-sd" tvg-name="Azteca Internacional" tvg-chno="355" tvg-country="MX" group-title="Entretenimiento",Azteca Internacional
 https://azt-mun.otteravision.com/azt/mun/mun.m3u8
-#EXTINF:-1 tvg-id="bacanteveo-ec-sd" tvg-name="Bacan Te Veo" tvg-chno="329" tvg-country="EC" group-title="Entretenimiento",Bacan Te Veo
+#EXTINF:-1 tvg-id="bacanteveo-ec-sd" tvg-name="Bacan Te Veo" tvg-chno="356" tvg-country="EC" group-title="Entretenimiento",Bacan Te Veo
 https://stmv6.voxtvhd.com.br/vacantveo2/vacantveo2/playlist.m3u8
-#EXTINF:-1 tvg-id="bellavision-do-sd" tvg-name="Bellavision" tvg-chno="330" tvg-country="DO" group-title="Entretenimiento",Bellavision
+#EXTINF:-1 tvg-id="bellavision-do-sd" tvg-name="Bellavision" tvg-chno="357" tvg-country="DO" group-title="Entretenimiento",Bellavision
 https://fox.hostlagarto.com:8081/bellavision8hd/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="bitme-mx-sd" tvg-name="bitMe" tvg-chno="331" tvg-country="MX" group-title="Entretenimiento",bitMe
+#EXTINF:-1 tvg-id="bitme-mx-sd" tvg-name="bitMe" tvg-chno="358" tvg-country="MX" group-title="Entretenimiento",bitMe
 https://cablered.iptvperu.tv:1936/cablered/bitme-srt_new/playlist.m3u8
-#EXTINF:-1 tvg-id="bitmelatinamerica-mx-sd" tvg-name="bitMe Latin America" tvg-chno="332" tvg-country="MX" group-title="Entretenimiento",bitMe Latin America
+#EXTINF:-1 tvg-id="bitmelatinamerica-mx-sd" tvg-name="bitMe Latin America" tvg-chno="359" tvg-country="MX" group-title="Entretenimiento",bitMe Latin America
 https://cablered.iptvperu.tv:1936/cablered/bitme_new/playlist.m3u8
-#EXTINF:-1 tvg-id="boncheslatinostv-do-sd" tvg-name="Bonches Latinos TV" tvg-chno="333" tvg-country="DO" group-title="Entretenimiento",Bonches Latinos TV
+#EXTINF:-1 tvg-id="boncheslatinostv-do-sd" tvg-name="Bonches Latinos TV" tvg-chno="360" tvg-country="DO" group-title="Entretenimiento",Bonches Latinos TV
 https://5790d294af2dc.streamlock.net/latinostv/latinostv/playlist.m3u8
-#EXTINF:-1 tvg-id="buenatv-pr-sd" tvg-name="Buena TV" tvg-chno="334" tvg-country="PR" group-title="Entretenimiento",Buena TV
+#EXTINF:-1 tvg-id="buenatv-pr-sd" tvg-name="Buena TV" tvg-chno="361" tvg-country="PR" group-title="Entretenimiento",Buena TV
 https://59825a54e4454.streamlock.net:8443/papo351/papo351/playlist.m3u8
-#EXTINF:-1 tvg-id="canal10mardelplata-ar-sd" tvg-name="Canal 10 Mar del Plata" tvg-chno="335" tvg-country="AR" group-title="Entretenimiento",Canal 10 Mar del Plata
+#EXTINF:-1 tvg-id="canal10mardelplata-ar-sd" tvg-name="Canal 10 Mar del Plata" tvg-chno="362" tvg-country="AR" group-title="Entretenimiento",Canal 10 Mar del Plata
 https://g1.mc-hor.transport.edge-access.net/a12/ngrp:canal10mdq-100044_all/Playlist.m3u8?sense=true
-#EXTINF:-1 tvg-id="canal14codazzi-co-sd" tvg-name="Canal 14 Codazzi" tvg-chno="336" tvg-country="CO" group-title="Entretenimiento",Canal 14 Codazzi
+#EXTINF:-1 tvg-id="canal14codazzi-co-sd" tvg-name="Canal 14 Codazzi" tvg-chno="363" tvg-country="CO" group-title="Entretenimiento",Canal 14 Codazzi
 https://eu1.servers10.com:8081/8056/index.m3u8
-#EXTINF:-1 tvg-id="canal9link-ar-sd" tvg-name="Canal 9 Link" tvg-chno="337" tvg-country="AR" group-title="Entretenimiento",Canal 9 Link
+#EXTINF:-1 tvg-id="canal9link-ar-sd" tvg-name="Canal 9 Link" tvg-chno="364" tvg-country="AR" group-title="Entretenimiento",Canal 9 Link
 https://617c5175c970b.streamlock.net:4444/9linklivert/smil:9linkmultibr.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="canalnets-co-sd" tvg-name="Canal Nets" tvg-chno="338" tvg-country="CO" group-title="Entretenimiento",Canal Nets
+#EXTINF:-1 tvg-id="canalnets-co-sd" tvg-name="Canal Nets" tvg-chno="365" tvg-country="CO" group-title="Entretenimiento",Canal Nets
 https://movil.ejeserver.com/live/nets.m3u8
-#EXTINF:-1 tvg-id="canalpulpotv-ar-sd" tvg-name="Canal Pulpo TV" tvg-chno="339" tvg-country="AR" group-title="Entretenimiento",Canal Pulpo TV
+#EXTINF:-1 tvg-id="canalpulpotv-ar-sd" tvg-name="Canal Pulpo TV" tvg-chno="366" tvg-country="AR" group-title="Entretenimiento",Canal Pulpo TV
 https://vs20.live.opencaster.com/canalpulpotv_bdeee6e2/index.m3u8
-#EXTINF:-1 tvg-id="canaltroplus-co-sd" tvg-name="Canal TRO +" tvg-chno="340" tvg-country="CO" group-title="Entretenimiento",Canal TRO +
+#EXTINF:-1 tvg-id="canaltroplus-co-sd" tvg-name="Canal TRO +" tvg-chno="367" tvg-country="CO" group-title="Entretenimiento",Canal TRO +
 https://liveingesta118.cdnmedia.tv/canaltro2live/smil:troplus.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="canelatv-us-sd" tvg-name="Canela TV" tvg-chno="341" tvg-country="US" group-title="Entretenimiento",Canela TV
+#EXTINF:-1 tvg-id="canelatv-us-sd" tvg-name="Canela TV" tvg-chno="368" tvg-country="US" group-title="Entretenimiento",Canela TV
 https://d3cx6yargdnl7q.cloudfront.net/canelatv.m3u8
-#EXTINF:-1 tvg-id="canicatv-co-sd" tvg-name="Canica TV" tvg-chno="342" tvg-country="CO" group-title="Entretenimiento",Canica TV
+#EXTINF:-1 tvg-id="canicatv-co-sd" tvg-name="Canica TV" tvg-chno="369" tvg-country="CO" group-title="Entretenimiento",Canica TV
 https://stmv4.voxtvhd.com.br/canicatv/canicatv/playlist.m3u8
-#EXTINF:-1 tvg-id="carastv-ar-sd" tvg-name="Caras TV" tvg-chno="343" tvg-country="AR" group-title="Entretenimiento",Caras TV
+#EXTINF:-1 tvg-id="carastv-ar-sd" tvg-name="Caras TV" tvg-chno="370" tvg-country="AR" group-title="Entretenimiento",Caras TV
 https://unlimited1-us.dps.live/carastv/carastv.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="cibaenatv-do-sd" tvg-name="Cibaena TV" tvg-chno="344" tvg-country="DO" group-title="Entretenimiento",Cibaena TV
+#EXTINF:-1 tvg-id="cibaenatv-do-sd" tvg-name="Cibaena TV" tvg-chno="371" tvg-country="DO" group-title="Entretenimiento",Cibaena TV
 https://streamunoapp.com:3958/live/cibaenatvlive.m3u8
-#EXTINF:-1 tvg-id="cineramatelevision-bo-sd" tvg-name="Cinerama Television" tvg-chno="345" tvg-country="BO" group-title="Entretenimiento",Cinerama Television
+#EXTINF:-1 tvg-id="cineramatelevision-bo-sd" tvg-name="Cinerama Television" tvg-chno="372" tvg-country="BO" group-title="Entretenimiento",Cinerama Television
 https://live.cineramatvbo.com/hls/stream.m3u8
-#EXTINF:-1 tvg-id="ciudadesdelociotv-es-sd" tvg-name="Ciudades del Ocio TV" tvg-chno="346" tvg-country="ES" group-title="Entretenimiento",Ciudades del Ocio TV
+#EXTINF:-1 tvg-id="ciudadesdelociotv-es-sd" tvg-name="Ciudades del Ocio TV" tvg-chno="373" tvg-country="ES" group-title="Entretenimiento",Ciudades del Ocio TV
 https://cloudvideo.servers10.com:8081/8024/index.m3u8
-#EXTINF:-1 tvg-id="clarovisiontv-do-sd" tvg-name="Claro Vision TV" tvg-chno="347" tvg-country="DO" group-title="Entretenimiento",Claro Vision TV
+#EXTINF:-1 tvg-id="clarovisiontv-do-sd" tvg-name="Claro Vision TV" tvg-chno="374" tvg-country="DO" group-title="Entretenimiento",Claro Vision TV
 https://streamunoapp.com:3057/live/clarovisiontvlive.m3u8
-#EXTINF:-1 tvg-id="cocotv-do-sd" tvg-name="COCO TV" tvg-chno="348" tvg-country="DO" group-title="Entretenimiento",COCO TV
+#EXTINF:-1 tvg-id="cocotv-do-sd" tvg-name="COCO TV" tvg-chno="375" tvg-country="DO" group-title="Entretenimiento",COCO TV
 https://edge.essastream.com/canalcocotv/playlist.m3u8
-#EXTINF:-1 tvg-id="colosaltv-cr-sd" tvg-name="Colosal TV" tvg-chno="349" tvg-country="CR" group-title="Entretenimiento",Colosal TV
+#EXTINF:-1 tvg-id="colosaltv-cr-sd" tvg-name="Colosal TV" tvg-chno="376" tvg-country="CR" group-title="Entretenimiento",Colosal TV
 https://5eac7b031d945.streamlock.net/COLOSAL/COLOSAL/playlist.m3u8
-#EXTINF:-1 tvg-id="delreytv-py-sd" tvg-name="Del Rey TV" tvg-chno="350" tvg-country="PY" group-title="Entretenimiento",Del Rey TV
+#EXTINF:-1 tvg-id="delreytv-py-sd" tvg-name="Del Rey TV" tvg-chno="377" tvg-country="PY" group-title="Entretenimiento",Del Rey TV
 https://video.hostingcaaguazu.com:19360/delreytv/delreytv.m3u8
-#EXTINF:-1 tvg-id="desdeelsurtv-uy-sd" tvg-name="Desde El Sur TV" tvg-chno="351" tvg-country="UY" group-title="Entretenimiento",Desde El Sur TV
+#EXTINF:-1 tvg-id="desdeelsurtv-uy-sd" tvg-name="Desde El Sur TV" tvg-chno="378" tvg-country="UY" group-title="Entretenimiento",Desde El Sur TV
 https://stmv.gmpro.top/surtv/surtv/playlist.m3u8
-#EXTINF:-1 tvg-id="edntv-hn-sd" tvg-name="EDN TV" tvg-chno="352" tvg-country="HN" group-title="Entretenimiento",EDN TV
+#EXTINF:-1 tvg-id="edntv-hn-sd" tvg-name="EDN TV" tvg-chno="379" tvg-country="HN" group-title="Entretenimiento",EDN TV
 https://60417ddeaf0d9.streamlock.net/edntv/videoedntv/playlist.m3u8
-#EXTINF:-1 tvg-id="enelpuntodemira-us-spain" tvg-name="En el punto de mira" tvg-chno="353" tvg-country="US" group-title="Entretenimiento",En el punto de mira
+#EXTINF:-1 tvg-id="enelpuntodemira-us-spain" tvg-name="En el punto de mira" tvg-chno="380" tvg-country="US" group-title="Entretenimiento",En el punto de mira
 https://jmp2.uk/plu-61922be835f3910007fc58f6.m3u8
-#EXTINF:-1 tvg-id="entchannel-uk-hd" tvg-name="ENT Channel" tvg-chno="354" tvg-country="UK" group-title="Entretenimiento",ENT Channel
+#EXTINF:-1 tvg-id="entchannel-uk-hd" tvg-name="ENT Channel" tvg-chno="381" tvg-country="UK" group-title="Entretenimiento",ENT Channel
 https://cdn.global.elektamedia.com/live/c7eds/ENT_Channel/SA_LIVE_hls_enc/master.m3u8
-#EXTINF:-1 tvg-id="entfamily-uk-hd" tvg-name="ENT Family" tvg-chno="355" tvg-country="UK" group-title="Entretenimiento",ENT Family
+#EXTINF:-1 tvg-id="entfamily-uk-hd" tvg-name="ENT Family" tvg-chno="382" tvg-country="UK" group-title="Entretenimiento",ENT Family
 https://cdn.global.elektamedia.com/live/c7eds/ENT_Family/SA_LIVE_hls_enc/master.m3u8
-#EXTINF:-1 tvg-id="estrellagames-us-sd" tvg-name="Estrella Games" tvg-chno="356" tvg-country="US" group-title="Entretenimiento",Estrella Games
+#EXTINF:-1 tvg-id="estrellagames-us-sd" tvg-name="Estrella Games" tvg-chno="383" tvg-country="US" group-title="Entretenimiento",Estrella Games
 https://estrella-games-oando.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="estrellatv-us-sd" tvg-name="Estrella TV" tvg-chno="357" tvg-country="US" group-title="Entretenimiento",Estrella TV
+#EXTINF:-1 tvg-id="estrellatv-us-sd" tvg-name="Estrella TV" tvg-chno="384" tvg-country="US" group-title="Entretenimiento",Estrella TV
 https://estrellatv-oando.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="fxlatinamerica-us-south" tvg-name="FX Latin America South" tvg-chno="358" tvg-country="US" group-title="Entretenimiento",FX Latin America South
+#EXTINF:-1 tvg-id="fxlatinamerica-us-south" tvg-name="FX Latin America South" tvg-chno="385" tvg-country="US" group-title="Entretenimiento",FX Latin America South
 https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/fx-key/chunks.m3u8
-#EXTINF:-1 tvg-id="galaxiateve-do-sd" tvg-name="GalaxiATeVe" tvg-chno="359" tvg-country="DO" group-title="Entretenimiento",GalaxiATeVe
+#EXTINF:-1 tvg-id="galaxiateve-do-sd" tvg-name="GalaxiATeVe" tvg-chno="386" tvg-country="DO" group-title="Entretenimiento",GalaxiATeVe
 https://streaming.grupomediosdelnorte.com:19360/galaxiateve/galaxiateve.m3u8
-#EXTINF:-1 tvg-id="gardeniastv-gt-sd" tvg-name="Gardenias TV" tvg-chno="360" tvg-country="GT" group-title="Entretenimiento",Gardenias TV
+#EXTINF:-1 tvg-id="gardeniastv-gt-sd" tvg-name="Gardenias TV" tvg-chno="387" tvg-country="GT" group-title="Entretenimiento",Gardenias TV
 https://stream.oursnetworktv.com/latin/gardeniasTv/playlist.m3u8
-#EXTINF:-1 tvg-id="gaviotatv-ec-sd" tvg-name="Gaviota TV" tvg-chno="361" tvg-country="EC" group-title="Entretenimiento",Gaviota TV
+#EXTINF:-1 tvg-id="gaviotatv-ec-sd" tvg-name="Gaviota TV" tvg-chno="388" tvg-country="EC" group-title="Entretenimiento",Gaviota TV
 https://gaviotatv.streamseguro.com:3195/live/gaviotatvlive.m3u8
-#EXTINF:-1 tvg-id="gextv-cr-hd" tvg-name="Gex TV" tvg-chno="362" tvg-country="CR" group-title="Entretenimiento",Gex TV
+#EXTINF:-1 tvg-id="gextv-cr-hd" tvg-name="Gex TV" tvg-chno="389" tvg-country="CR" group-title="Entretenimiento",Gex TV
 https://live20.bozztv.com/akamaissh101/ssh101/gextvaccess/playlist.m3u8
-#EXTINF:-1 tvg-id="gitelevision-do-sd" tvg-name="Gi Television" tvg-chno="363" tvg-country="DO" group-title="Entretenimiento",Gi Television
+#EXTINF:-1 tvg-id="gitelevision-do-sd" tvg-name="Gi Television" tvg-chno="390" tvg-country="DO" group-title="Entretenimiento",Gi Television
 https://canal.gitelevisionserver.com/live/DIEEFIh506fL8huspvl0f0c2PZF3/index.m3u8
-#EXTINF:-1 tvg-id="girasoltv-hn-sd" tvg-name="Girasol TV (1080i)" tvg-chno="364" tvg-country="HN" group-title="Entretenimiento",Girasol TV (1080i)
+#EXTINF:-1 tvg-id="girasoltv-hn-sd" tvg-name="Girasol TV (1080i)" tvg-chno="391" tvg-country="HN" group-title="Entretenimiento",Girasol TV (1080i)
 https://s.emisoras.tv:8081/girasoltv/index.m3u8
-#EXTINF:-1 tvg-id="gotv-py-sd" tvg-name="GO TV" tvg-chno="365" tvg-country="PY" group-title="Entretenimiento",GO TV
+#EXTINF:-1 tvg-id="gotv-py-sd" tvg-name="GO TV" tvg-chno="392" tvg-country="PY" group-title="Entretenimiento",GO TV
 https://rds3.desdeparaguay.net/gotv/gotv/playlist.m3u8
-#EXTINF:-1 tvg-id="gtv-gt-sd" tvg-name="GTV (Guatemala)" tvg-chno="366" tvg-country="GT" group-title="Entretenimiento",GTV (Guatemala)
+#EXTINF:-1 tvg-id="gtv-gt-sd" tvg-name="GTV (Guatemala)" tvg-chno="393" tvg-country="GT" group-title="Entretenimiento",GTV (Guatemala)
 https://cdn.streamhispanatv.net:3126/live/genesistvlive.m3u8
-#EXTINF:-1 tvg-id="guarotv-ve-sd" tvg-name="Guaro TV" tvg-chno="367" tvg-country="VE" group-title="Entretenimiento",Guaro TV
+#EXTINF:-1 tvg-id="guarotv-ve-sd" tvg-name="Guaro TV" tvg-chno="394" tvg-country="VE" group-title="Entretenimiento",Guaro TV
 https://stream.guarotv.net:3592/hybrid/play.m3u8
-#EXTINF:-1 tvg-id="historia-es-sd" tvg-name="Historia" tvg-chno="368" tvg-country="ES" group-title="Entretenimiento",Historia
+#EXTINF:-1 tvg-id="historia-es-sd" tvg-name="Historia" tvg-chno="395" tvg-country="ES" group-title="Entretenimiento",Historia
 https://d1k3vzh2ivy22k.cloudfront.net/Historia.m3u8
-#EXTINF:-1 tvg-id="historia-es-hd" tvg-name="Historia HD" tvg-chno="369" tvg-country="ES" group-title="Entretenimiento",Historia HD
+#EXTINF:-1 tvg-id="historia-es-hd" tvg-name="Historia HD" tvg-chno="396" tvg-country="ES" group-title="Entretenimiento",Historia HD
 https://d1k3vzh2ivy22k.cloudfront.net/Historia1080.m3u8
-#EXTINF:-1 tvg-id="holaplay-es-sd" tvg-name="HOLA! Play" tvg-chno="370" tvg-country="ES" group-title="Entretenimiento",HOLA! Play
+#EXTINF:-1 tvg-id="holaplay-es-sd" tvg-name="HOLA! Play" tvg-chno="397" tvg-country="ES" group-title="Entretenimiento",HOLA! Play
 https://hola-play-2108fd06-86d4-44e8-9867-c35b4895a1c1-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6433/master.m3u8
-#EXTINF:-1 tvg-id="htvlive-do-sd" tvg-name="HTV Live" tvg-chno="371" tvg-country="DO" group-title="Entretenimiento",HTV Live
+#EXTINF:-1 tvg-id="htvlive-do-sd" tvg-name="HTV Live" tvg-chno="398" tvg-country="DO" group-title="Entretenimiento",HTV Live
 https://fox.hostlagarto.com:8081/canalhtv/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="iertbcscanal82-mx-sd" tvg-name="IERTBCS Canal 8.2" tvg-chno="372" tvg-country="MX" group-title="Entretenimiento",IERTBCS Canal 8.2
+#EXTINF:-1 tvg-id="iertbcscanal82-mx-sd" tvg-name="IERTBCS Canal 8.2" tvg-chno="399" tvg-country="MX" group-title="Entretenimiento",IERTBCS Canal 8.2
 https://s5.mexside.net:1936/xhbzc82/xhbzc82/playlist.m3u8
-#EXTINF:-1 tvg-id="impactotelevision-pe-sd" tvg-name="Impacto Television" tvg-chno="373" tvg-country="PE" group-title="Entretenimiento",Impacto Television
+#EXTINF:-1 tvg-id="impactotelevision-pe-sd" tvg-name="Impacto Television" tvg-chno="400" tvg-country="PE" group-title="Entretenimiento",Impacto Television
 https://cloudvideo.servers10.com:8081/impactotv/index.m3u8
-#EXTINF:-1 tvg-id="intertv-ve-sd" tvg-name="Inter TV (Venezuela)" tvg-chno="374" tvg-country="VE" group-title="Entretenimiento",Inter TV (Venezuela)
+#EXTINF:-1 tvg-id="intertv-ve-sd" tvg-name="Inter TV (Venezuela)" tvg-chno="401" tvg-country="VE" group-title="Entretenimiento",Inter TV (Venezuela)
 https://streamtv.intervenhosting.net:3439/hybrid/play.m3u8
-#EXTINF:-1 tvg-id="itvdeportes-mx-sd" tvg-name="ITV Deportes" tvg-chno="375" tvg-country="MX" group-title="Entretenimiento",ITV Deportes
+#EXTINF:-1 tvg-id="itvdeportes-mx-sd" tvg-name="ITV Deportes" tvg-chno="402" tvg-country="MX" group-title="Entretenimiento",ITV Deportes
 https://thm-it-roku.otteravision.com/thm/it/it.m3u8
-#EXTINF:-1 tvg-id="jarabacoatv-do-hd" tvg-name="JARABACOA TV" tvg-chno="376" tvg-country="DO" group-title="Entretenimiento",JARABACOA TV
+#EXTINF:-1 tvg-id="jarabacoatv-do-hd" tvg-name="JARABACOA TV" tvg-chno="403" tvg-country="DO" group-title="Entretenimiento",JARABACOA TV
 https://streaming.jarabacoatv.com/Jarabacoa_tv/playlist.m3u8
-#EXTINF:-1 tvg-id="knino-us-sd" tvg-name="KNino" tvg-chno="377" tvg-country="US" group-title="Entretenimiento",KNino
+#EXTINF:-1 tvg-id="knino-us-sd" tvg-name="KNino" tvg-chno="404" tvg-country="US" group-title="Entretenimiento",KNino
 https://ats-edge-iqui-1.live.clarovtrcdn.vtrplay.com/kninohdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
-#EXTINF:-1 tvg-id="koratv-pe-sd" tvg-name="Kora TV" tvg-chno="378" tvg-country="PE" group-title="Entretenimiento",Kora TV
+#EXTINF:-1 tvg-id="koratv-pe-sd" tvg-name="Kora TV" tvg-chno="405" tvg-country="PE" group-title="Entretenimiento",Kora TV
 https://s3.tvdatta.com:3700/live/jjrtvlive.m3u8
-#EXTINF:-1 tvg-id="krgvtv52-us-hd" tvg-name="KRGV-TV 5.2" tvg-chno="379" tvg-country="US" group-title="Entretenimiento",KRGV-TV 5.2
+#EXTINF:-1 tvg-id="krgvtv52-us-hd" tvg-name="KRGV-TV 5.2" tvg-chno="406" tvg-country="US" group-title="Entretenimiento",KRGV-TV 5.2
 https://d3svnrf3rmq619.cloudfront.net/krgv-live/smil:krgv-somos.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="lanuevaradiotv977-ec-sd" tvg-name="La Nueva Radio TV 97.7" tvg-chno="380" tvg-country="EC" group-title="Entretenimiento",La Nueva Radio TV 97.7
+#EXTINF:-1 tvg-id="lanuevaradiotv977-ec-sd" tvg-name="La Nueva Radio TV 97.7" tvg-chno="407" tvg-country="EC" group-title="Entretenimiento",La Nueva Radio TV 97.7
 https://sv72.ecuaradiotv.net/lanuevatv/live/playlist.m3u8
-#EXTINF:-1 tvg-id="lapotenteradiotv-cr-sd" tvg-name="La Potente Radio TV" tvg-chno="381" tvg-country="CR" group-title="Entretenimiento",La Potente Radio TV
+#EXTINF:-1 tvg-id="lapotenteradiotv-cr-sd" tvg-name="La Potente Radio TV" tvg-chno="408" tvg-country="CR" group-title="Entretenimiento",La Potente Radio TV
 https://latamvdo.com:3626/hybrid/play.m3u8
-#EXTINF:-1 tvg-id="laraenredes-ve-sd" tvg-name="Lara en Redes" tvg-chno="382" tvg-country="VE" group-title="Entretenimiento",Lara en Redes
+#EXTINF:-1 tvg-id="laraenredes-ve-sd" tvg-name="Lara en Redes" tvg-chno="409" tvg-country="VE" group-title="Entretenimiento",Lara en Redes
 https://streamtv.laraenredes.com:3020/hybrid/play.m3u8
-#EXTINF:-1 tvg-id="latacungatv-ec-sd" tvg-name="LatacungaTV" tvg-chno="383" tvg-country="EC" group-title="Entretenimiento",LatacungaTV
+#EXTINF:-1 tvg-id="latacungatv-ec-sd" tvg-name="LatacungaTV" tvg-chno="410" tvg-country="EC" group-title="Entretenimiento",LatacungaTV
 https://stmv1.voxtvhd.com.br/latacungatv/latacungatv/playlist.m3u8
-#EXTINF:-1 tvg-id="latv-us-sd" tvg-name="LATV" tvg-chno="384" tvg-country="US" group-title="Entretenimiento",LATV
+#EXTINF:-1 tvg-id="latv-us-sd" tvg-name="LATV" tvg-chno="411" tvg-country="US" group-title="Entretenimiento",LATV
 https://amg00779-latv-amg00779c1-cineverse-us-1746.playouts.now.amagi.tv/playlist/amg00779-latvnetworkllc-latv-cineverseus/playlist.m3u8
-#EXTINF:-1 tvg-id="lifetimelatinamerica-us-mexico" tvg-name="Lifetime Latin America Mexico" tvg-chno="385" tvg-country="US" group-title="Entretenimiento",Lifetime Latin America Mexico
+#EXTINF:-1 tvg-id="lifetimelatinamerica-us-mexico" tvg-name="Lifetime Latin America Mexico" tvg-chno="412" tvg-country="US" group-title="Entretenimiento",Lifetime Latin America Mexico
 https://streaming.onnethn.com/LIFETIME/index.m3u8
-#EXTINF:-1 tvg-id="makrodigitaltelevision-ec-sd" tvg-name="MakroDigital Television" tvg-chno="386" tvg-country="EC" group-title="Entretenimiento",MakroDigital Television
+#EXTINF:-1 tvg-id="makrodigitaltelevision-ec-sd" tvg-name="MakroDigital Television" tvg-chno="413" tvg-country="EC" group-title="Entretenimiento",MakroDigital Television
 https://makrodigitaltv.makrodigital.com/makrodigitaltelevision/iptv/playlist.m3u8
-#EXTINF:-1 tvg-id="mastalk-ve-sd" tvg-name="Mas Talk" tvg-chno="387" tvg-country="VE" group-title="Entretenimiento",Mas Talk
+#EXTINF:-1 tvg-id="mastalk-ve-sd" tvg-name="Mas Talk" tvg-chno="414" tvg-country="VE" group-title="Entretenimiento",Mas Talk
 https://vod2live.univtec.com/manifest/89290956-94ab-4950-accb-a54bbd7e176f.m3u8
-#EXTINF:-1 tvg-id="maximatv-ve-sd" tvg-name="Maxima TV" tvg-chno="388" tvg-country="VE" group-title="Entretenimiento",Maxima TV
+#EXTINF:-1 tvg-id="maximatv-ve-sd" tvg-name="Maxima TV" tvg-chno="415" tvg-country="VE" group-title="Entretenimiento",Maxima TV
 https://maximatv.net/hls/stream.m3u8
-#EXTINF:-1 tvg-id="maxivisiontv-gt-sd" tvg-name="Maxivision TV" tvg-chno="389" tvg-country="GT" group-title="Entretenimiento",Maxivision TV
+#EXTINF:-1 tvg-id="maxivisiontv-gt-sd" tvg-name="Maxivision TV" tvg-chno="416" tvg-country="GT" group-title="Entretenimiento",Maxivision TV
 https://video03.logicahost.com.br/maxivisiontv/maxivisiontv/playlist.m3u8
-#EXTINF:-1 tvg-id="maxtv-co-hd" tvg-name="MaxTV" tvg-chno="390" tvg-country="CO" group-title="Entretenimiento",MaxTV
+#EXTINF:-1 tvg-id="maxtv-co-hd" tvg-name="MaxTV" tvg-chno="417" tvg-country="CO" group-title="Entretenimiento",MaxTV
 https://inliveserver.com:1936/8078/8078/playlist.m3u8
-#EXTINF:-1 tvg-id="melradiotv-ec-sd" tvg-name="Mel Radio TV" tvg-chno="391" tvg-country="EC" group-title="Entretenimiento",Mel Radio TV
+#EXTINF:-1 tvg-id="melradiotv-ec-sd" tvg-name="Mel Radio TV" tvg-chno="418" tvg-country="EC" group-title="Entretenimiento",Mel Radio TV
 https://eu1.servers10.com:8081/8334/index.m3u8
-#EXTINF:-1 tvg-id="metrotv-ar-sd" tvg-name="Metro TV (Argentina)" tvg-chno="392" tvg-country="AR" group-title="Entretenimiento",Metro TV (Argentina)
+#EXTINF:-1 tvg-id="metrotv-ar-sd" tvg-name="Metro TV (Argentina)" tvg-chno="419" tvg-country="AR" group-title="Entretenimiento",Metro TV (Argentina)
 https://streamtv12.ddns.net:5443/LiveApp/streams/193945633734205616732920.m3u8
-#EXTINF:-1 tvg-id="metrotv-hn-sd" tvg-name="Metro TV (Honduras)" tvg-chno="393" tvg-country="HN" group-title="Entretenimiento",Metro TV (Honduras)
+#EXTINF:-1 tvg-id="metrotv-hn-sd" tvg-name="Metro TV (Honduras)" tvg-chno="420" tvg-country="HN" group-title="Entretenimiento",Metro TV (Honduras)
 https://s.emisoras.tv:8081/metrotv/index.m3u8
-#EXTINF:-1 tvg-id="mitv-py-sd" tvg-name="MiTV" tvg-chno="394" tvg-country="PY" group-title="Entretenimiento",MiTV
+#EXTINF:-1 tvg-id="mitv-py-sd" tvg-name="MiTV" tvg-chno="421" tvg-country="PY" group-title="Entretenimiento",MiTV
 https://rds3.desdeparaguay.net/mitv/mitv/playlist.m3u8
-#EXTINF:-1 tvg-id="nhkworldpremium-jp-sd" tvg-name="NHK World Premium" tvg-chno="395" tvg-country="JP" group-title="Entretenimiento",NHK World Premium
+#EXTINF:-1 tvg-id="nhkworldpremium-jp-sd" tvg-name="NHK World Premium" tvg-chno="422" tvg-country="JP" group-title="Entretenimiento",NHK World Premium
 https://media-tyo.hls.nhkworld.jp/hls/wp/live/master.m3u8
-#EXTINF:-1 tvg-id="nitidatv-do-sd" tvg-name="Nitida TV" tvg-chno="396" tvg-country="DO" group-title="Entretenimiento",Nitida TV
+#EXTINF:-1 tvg-id="nitidatv-do-sd" tvg-name="Nitida TV" tvg-chno="423" tvg-country="DO" group-title="Entretenimiento",Nitida TV
 https://vs20.live.opencaster.com/bznudxxdtppv/index.m3u8
-#EXTINF:-1 tvg-id="nortenatv-ve-hd" tvg-name="Nortena Tv" tvg-chno="397" tvg-country="VE" group-title="Entretenimiento",Nortena Tv
+#EXTINF:-1 tvg-id="nortenatv-ve-hd" tvg-name="Nortena Tv" tvg-chno="424" tvg-country="VE" group-title="Entretenimiento",Nortena Tv
 https://lbgo.bozztv.com/ssh101/ssh101/nortenatv1234/playlist.m3u8
-#EXTINF:-1 tvg-id="oasistv-py-sd" tvg-name="Oasis TV (Paraguay)" tvg-chno="398" tvg-country="PY" group-title="Entretenimiento",Oasis TV (Paraguay)
+#EXTINF:-1 tvg-id="oasistv-py-sd" tvg-name="Oasis TV (Paraguay)" tvg-chno="425" tvg-country="PY" group-title="Entretenimiento",Oasis TV (Paraguay)
 https://video.hostingcaaguazu.com:19360/oasistv/oasistv.m3u8
-#EXTINF:-1 tvg-id="plutotvamorymentiras-us-latam" tvg-name="Pluto TV Amor y Mentiras" tvg-chno="399" tvg-country="US" group-title="Entretenimiento",Pluto TV Amor y Mentiras
+#EXTINF:-1 tvg-id="plutotvamorymentiras-us-latam" tvg-name="Pluto TV Amor y Mentiras" tvg-chno="426" tvg-country="US" group-title="Entretenimiento",Pluto TV Amor y Mentiras
 https://jmp2.uk/plu-698a45156dc3c71eb1ba6599.m3u8
-#EXTINF:-1 tvg-id="plutotvgasolina-de-es" tvg-name="Pluto TV Gasolina" tvg-chno="400" tvg-country="DE" group-title="Entretenimiento",Pluto TV Gasolina
+#EXTINF:-1 tvg-id="plutotvgasolina-de-es" tvg-name="Pluto TV Gasolina" tvg-chno="427" tvg-country="DE" group-title="Entretenimiento",Pluto TV Gasolina
 https://jmp2.uk/plu-65bd0f53dc10a40008e68b96.m3u8
-#EXTINF:-1 tvg-id="nickjrlatinamerica-us-panregional" tvg-name="Nick Jr. Latin America" tvg-chno="401" tvg-country="US" group-title="Infantil",Nick Jr. Latin America
-https://streaming.onnethn.com/NICK_JR/playlist.m3u8
-#EXTINF:-1 tvg-id="plutotvgoreslasher-de-es" tvg-name="Pluto TV Gore & Slasher" tvg-chno="401" tvg-country="DE" group-title="Entretenimiento",Pluto TV Gore & Slasher
+#EXTINF:-1 tvg-id="plutotvgoreslasher-de-es" tvg-name="Pluto TV Gore & Slasher" tvg-chno="428" tvg-country="DE" group-title="Entretenimiento",Pluto TV Gore & Slasher
 https://jmp2.uk/plu-66b0dfa1d512590008bfa7fd.m3u8
-#EXTINF:-1 tvg-id="947-energeek" tvg-name="EnerGeek" tvg-chno="402" tvg-country="CL" group-title="Animación",EnerGeek
-https://cl-2.backend.energeek.cl/bkp/egretroweb/index.m3u8?token=D3m0M3UCLWeb&PlaylistM3UCL
-#EXTINF:-1 tvg-id="plutotvimpacto-de-es" tvg-name="Pluto TV Impacto" tvg-chno="402" tvg-country="DE" group-title="Entretenimiento",Pluto TV Impacto
+#EXTINF:-1 tvg-id="plutotvimpacto-de-es" tvg-name="Pluto TV Impacto" tvg-chno="429" tvg-country="DE" group-title="Entretenimiento",Pluto TV Impacto
 https://jmp2.uk/plu-68adc697116b783a33f99e6c.m3u8
-#EXTINF:-1 tvg-id="1112-energeek-fan" tvg-name="EnerGeek FAN" tvg-chno="403" tvg-country="CL" group-title="Animación",EnerGeek FAN
-https://cl-2.backend.energeek.cl/bkp/egfanweb/index.m3u8?token=D3m0M3UCLWeb&PlaylistM3UCL
-#EXTINF:-1 tvg-id="plutotvreality-us-latam" tvg-name="Pluto TV Reality LatAm" tvg-chno="403" tvg-country="US" group-title="Entretenimiento",Pluto TV Reality LatAm
+#EXTINF:-1 tvg-id="plutotvreality-us-latam" tvg-name="Pluto TV Reality LatAm" tvg-chno="430" tvg-country="US" group-title="Entretenimiento",Pluto TV Reality LatAm
 https://jmp2.uk/plu-5dcde197f6591d0009839e04.m3u8
-#EXTINF:-1 tvg-id="1266-energeek-radio" tvg-name="EnerGeek Radio" tvg-chno="404" tvg-country="CL" group-title="Animación",EnerGeek Radio
-https://cl-2.backend.energeek.cl/bkp/egradioweb/index.m3u8?token=D3m0M3UCLWeb&PlaylistM3UCL
-#EXTINF:-1 tvg-id="powermaxradiotv-ar-sd" tvg-name="Power Max Radio TV" tvg-chno="404" tvg-country="AR" group-title="Entretenimiento",Power Max Radio TV
+#EXTINF:-1 tvg-id="powermaxradiotv-ar-sd" tvg-name="Power Max Radio TV" tvg-chno="431" tvg-country="AR" group-title="Entretenimiento",Power Max Radio TV
 https://videostream.shockmedia.com.ar:19360/radio1045/radio1045.m3u8
-#EXTINF:-1 tvg-id="45-ntv" tvg-name="NTV" tvg-chno="405" tvg-country="CL" group-title="Animación",NTV
-https://mdstrm.com/live-stream-playlist/5aaabe9e2c56420918184c6d.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="pronemstv-do-sd" tvg-name="Pronems TV" tvg-chno="405" tvg-country="DO" group-title="Entretenimiento",Pronems TV
+#EXTINF:-1 tvg-id="pronemstv-do-sd" tvg-name="Pronems TV" tvg-chno="432" tvg-country="DO" group-title="Entretenimiento",Pronems TV
 https://fox.hostlagarto.com:8081/pronemstv/playlist.m3u8
-#EXTINF:-1 tvg-id="avatarlaleyendadeaang-us-latam" tvg-name="Avatar: La Leyenda de Aang" tvg-chno="406" tvg-country="US" group-title="Infantil",Avatar: La Leyenda de Aang
-https://jmp2.uk/plu-6759ee82bd523200083b4f0f.m3u8
-#EXTINF:-1 tvg-id="psn-mx-sd" tvg-name="PSN" tvg-chno="406" tvg-country="MX" group-title="Entretenimiento",PSN
+#EXTINF:-1 tvg-id="psn-mx-sd" tvg-name="PSN" tvg-chno="433" tvg-country="MX" group-title="Entretenimiento",PSN
 https://srspsn.live/live/livestream.m3u8
-#EXTINF:-1 tvg-id="babyfirst-us-us" tvg-name="BabyFirst" tvg-chno="407" tvg-country="US" group-title="Infantil",BabyFirst
-https://cdn.fast.jwp.services/v1/channel/1_jB6940Ei_TvhvIHDL/manifest.m3u8
-#EXTINF:-1 tvg-id="pulatv-do-sd" tvg-name="Pula TV" tvg-chno="407" tvg-country="DO" group-title="Entretenimiento",Pula TV
+#EXTINF:-1 tvg-id="pulatv-do-sd" tvg-name="Pula TV" tvg-chno="434" tvg-country="DO" group-title="Entretenimiento",Pula TV
 https://fox.hostlagarto.com:8081/pulatv/index.m3u8
-#EXTINF:-1 tvg-id="bobesponja-de-es" tvg-name="Bob Esponja" tvg-chno="408" tvg-country="DE" group-title="Infantil",Bob Esponja
-https://jmp2.uk/plu-5f1aca0b4e448e00075e7c5e.m3u8
-#EXTINF:-1 tvg-id="retv-do-sd" tvg-name="R&E TV" tvg-chno="408" tvg-country="DO" group-title="Entretenimiento",R&E TV
+#EXTINF:-1 tvg-id="retv-do-sd" tvg-name="R&E TV" tvg-chno="435" tvg-country="DO" group-title="Entretenimiento",R&E TV
 https://cloud2.streaminglivehd.com:1936/8072/8072/playlist.m3u8
-#EXTINF:-1 tvg-id="bobesponjapantalonescuadrados-us-latam" tvg-name="Bob Esponja Pantalones Cuadrados" tvg-chno="409" tvg-country="US" group-title="Infantil",Bob Esponja Pantalones Cuadrados
-https://jmp2.uk/plu-6254598f5083f800076d8563.m3u8
-#EXTINF:-1 tvg-id="radiocarnavaltv-es-sd" tvg-name="Radio Carnaval TV" tvg-chno="409" tvg-country="ES" group-title="Entretenimiento",Radio Carnaval TV
+#EXTINF:-1 tvg-id="radiocarnavaltv-es-sd" tvg-name="Radio Carnaval TV" tvg-chno="436" tvg-country="ES" group-title="Entretenimiento",Radio Carnaval TV
 https://eu1.servers10.com:8081/8116/index.m3u8
-#EXTINF:-1 tvg-id="chinolatv-do-sd" tvg-name="Chinola TV" tvg-chno="410" tvg-country="DO" group-title="Infantil",Chinola TV
-https://tv.wracanal10.com:3300/live/chinolatvlive.m3u8
-#EXTINF:-1 tvg-id="radioomegatv-hn-sd" tvg-name="Radio Omega TV" tvg-chno="410" tvg-country="HN" group-title="Entretenimiento",Radio Omega TV
+#EXTINF:-1 tvg-id="radioomegatv-hn-sd" tvg-name="Radio Omega TV" tvg-chno="437" tvg-country="HN" group-title="Entretenimiento",Radio Omega TV
 https://5caf24a595d94.streamlock.net:1937/8142/8142/playlist.m3u8
-#EXTINF:-1 tvg-id="clan-es-sd" tvg-name="Clan" tvg-chno="411" tvg-country="ES" group-title="Infantil",Clan
-https://lge-lgla2.otteravision.com/lge/lgcla/lgcla.m3u8
-#EXTINF:-1 tvg-id="radioyguazutv-ar-sd" tvg-name="Radio Yguazu TV" tvg-chno="411" tvg-country="AR" group-title="Entretenimiento",Radio Yguazu TV
+#EXTINF:-1 tvg-id="radioyguazutv-ar-sd" tvg-name="Radio Yguazu TV" tvg-chno="438" tvg-country="AR" group-title="Entretenimiento",Radio Yguazu TV
 https://live.enhdtv.com:8081/radioiguazutv/index.m3u8
-#EXTINF:-1 tvg-id="rcnnovelas-co-sd" tvg-name="RCN Novelas" tvg-chno="412" tvg-country="CO" group-title="Entretenimiento",RCN Novelas
+#EXTINF:-1 tvg-id="rcnnovelas-co-sd" tvg-name="RCN Novelas" tvg-chno="439" tvg-country="CO" group-title="Entretenimiento",RCN Novelas
 https://cdnlive.klicgo.net/rcnnovelas/live/playlist.m3u8
-#EXTINF:-1 tvg-id="claninternacional-es-sd" tvg-name="Clan Internacional Americas" tvg-chno="412" tvg-country="ES" group-title="Infantil",Clan Internacional Americas
-https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/clan_int_main_1080.m3u8
-#EXTINF:-1 tvg-id="diostevekids-hn-sd" tvg-name="Dios Te Ve Kids" tvg-chno="413" tvg-country="HN" group-title="Infantil",Dios Te Ve Kids
-https://s.emisoras.tv:8081/diostevekids/index.m3u8
-#EXTINF:-1 tvg-id="redplus-co-sd" tvg-name="Red+" tvg-chno="413" tvg-country="CO" group-title="Entretenimiento",Red+
+#EXTINF:-1 tvg-id="redplus-co-sd" tvg-name="Red+" tvg-chno="440" tvg-country="CO" group-title="Entretenimiento",Red+
 https://inforedvos.lcdn.claro.net.co/Content/HLS_HLS_DIR/Live/channel(REDMASHDWEB)/master.m3u8
-#EXTINF:-1 tvg-id="revrylatinx-us-sd" tvg-name="Revry LatinX" tvg-chno="414" tvg-country="US" group-title="Entretenimiento",Revry LatinX
+#EXTINF:-1 tvg-id="revrylatinx-us-sd" tvg-name="Revry LatinX" tvg-chno="441" tvg-country="US" group-title="Entretenimiento",Revry LatinX
 https://linear-142.frequency.stream/dist/24i/142/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-id="dreamworkschannellatinamerica-us-panregional" tvg-name="DreamWorks Channel Latin America" tvg-chno="414" tvg-country="US" group-title="Infantil",DreamWorks Channel Latin America
-https://xyktmobile00.s.gy/PPV913_DREAMWO
-#EXTINF:-1 tvg-id="elchavotv-mx-hd" tvg-name="El Chavo TV" tvg-chno="415" tvg-country="MX" group-title="Infantil",El Chavo TV
-https://live20.bozztv.com/giatvplayout7/giatv-211465/playlist.m3u8
-#EXTINF:-1 tvg-id="rikutv-pe-sd" tvg-name="Riku TV" tvg-chno="415" tvg-country="PE" group-title="Entretenimiento",Riku TV
+#EXTINF:-1 tvg-id="rikutv-pe-sd" tvg-name="Riku TV" tvg-chno="442" tvg-country="PE" group-title="Entretenimiento",Riku TV
 https://amixtv.com:8081/rikutv/index.m3u8
-#EXTINF:-1 tvg-id="rsvhonduras-hn-sd" tvg-name="RSV Honduras" tvg-chno="416" tvg-country="HN" group-title="Entretenimiento",RSV Honduras
+#EXTINF:-1 tvg-id="rsvhonduras-hn-sd" tvg-name="RSV Honduras" tvg-chno="443" tvg-country="HN" group-title="Entretenimiento",RSV Honduras
 https://stmv2.srvif.com/rsvhonduras/rsvhonduras/playlist.m3u8
-#EXTINF:-1 tvg-id="el-reino-infantil-2" tvg-name="El Reino Infantil" tvg-chno="416" tvg-country="US" group-title="Infantil",El Reino Infantil
-https://jmp2.uk/plu-66fedd65d7de140008dccd66.m3u8
-#EXTINF:-1 tvg-id="eureka-co-sd" tvg-name="Eureka" tvg-chno="417" tvg-country="CO" group-title="Infantil",Eureka
-https://mdstrm.com/live-stream-playlist/6952e02d19eabace52e2885f.m3u8
-#EXTINF:-1 tvg-id="sastv-gt-sd" tvg-name="SAS TV" tvg-chno="417" tvg-country="GT" group-title="Entretenimiento",SAS TV
+#EXTINF:-1 tvg-id="sastv-gt-sd" tvg-name="SAS TV" tvg-chno="444" tvg-country="GT" group-title="Entretenimiento",SAS TV
 https://cdn.streamhispanatv.net:3390/live/sastvgtlive.m3u8
-#EXTINF:-1 tvg-id="soltv-gq-sd" tvg-name="SolTV (Equatorial Guinea)" tvg-chno="418" tvg-country="GQ" group-title="Entretenimiento",SolTV (Equatorial Guinea)
+#EXTINF:-1 tvg-id="soltv-gq-sd" tvg-name="SolTV (Equatorial Guinea)" tvg-chno="445" tvg-country="GQ" group-title="Entretenimiento",SolTV (Equatorial Guinea)
 https://stream.solmediaeg.com/soltv/soltv.m3u8
-#EXTINF:-1 tvg-id="gloobweb-br-sd" tvg-name="Gloob Web" tvg-chno="418" tvg-country="BR" group-title="Infantil",Gloob Web
-https://vs20.live.opencaster.com/globiosat_73a904af/index.m3u8
-#EXTINF:-1 tvg-id="heyarnold-us-latam" tvg-name="Hey Arnold!" tvg-chno="419" tvg-country="US" group-title="Infantil",Hey Arnold!
-https://jmp2.uk/plu-66c79221b1a34600087e264d.m3u8
-#EXTINF:-1 tvg-id="streamforce360-co-main" tvg-name="StreamForce 360" tvg-chno="419" tvg-country="CO" group-title="Entretenimiento",StreamForce 360
+#EXTINF:-1 tvg-id="streamforce360-co-main" tvg-name="StreamForce 360" tvg-chno="446" tvg-country="CO" group-title="Entretenimiento",StreamForce 360
 https://sistemastr.tropicalmoonmedia.com:443/live/9E495C5FDA503D7F71037F2D2C5D3FA3/16.m3u8
-#EXTINF:-1 tvg-id="logostvkids-es-sd" tvg-name="Logos TV Kids" tvg-chno="420" tvg-country="ES" group-title="Infantil",Logos TV Kids
-https://streamer1.streamhost.org/salive/logoskidsH/playlist.m3u8
-#EXTINF:-1 tvg-id="super7fm-do-sd" tvg-name="Super7FM" tvg-chno="420" tvg-country="DO" group-title="Entretenimiento",Super7FM
+#EXTINF:-1 tvg-id="super7fm-do-sd" tvg-name="Super7FM" tvg-chno="447" tvg-country="DO" group-title="Entretenimiento",Super7FM
 https://tv.livestreaminggroup.info:3295/live/super7tvlive.m3u8
-#EXTINF:-1 tvg-id="telemas-cr-sd" tvg-name="TeleMas" tvg-chno="421" tvg-country="CR" group-title="Entretenimiento",TeleMas
+#EXTINF:-1 tvg-id="telemas-cr-sd" tvg-name="TeleMas" tvg-chno="448" tvg-country="CR" group-title="Entretenimiento",TeleMas
 https://acceso.mediosdecostarica.com:3192/hybrid/play.m3u8
-#EXTINF:-1 tvg-id="newchannelpop-ca-sd" tvg-name="New Channel Pop!" tvg-chno="421" tvg-country="CA" group-title="Infantil",New Channel Pop!
-https://vodcdn.bamboo-cloud.com/livehls/6ab37c6c7e057f9063071c85/master.m3u8
-#EXTINF:-1 tvg-id="telemax-do-sd" tvg-name="Telemax (Dominican Republic)" tvg-chno="422" tvg-country="DO" group-title="Entretenimiento",Telemax (Dominican Republic)
+#EXTINF:-1 tvg-id="telemax-do-sd" tvg-name="Telemax (Dominican Republic)" tvg-chno="449" tvg-country="DO" group-title="Entretenimiento",Telemax (Dominican Republic)
 https://edge.essastream.com/telemax/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="nickenespanol-us" tvg-name="Nick en Espanol" tvg-chno="422" tvg-country="MX" group-title="Infantil",Nick en Espanol
-https://jmp2.uk/plu-5d8d08395f39465da6fb3ec4.m3u8
-#EXTINF:-1 tvg-id="telemundocorpuschristi-us-sd" tvg-name="Telemundo Corpus Christi" tvg-chno="423" tvg-country="US" group-title="Entretenimiento",Telemundo Corpus Christi
+#EXTINF:-1 tvg-id="telemundocorpuschristi-us-sd" tvg-name="Telemundo Corpus Christi" tvg-chno="450" tvg-country="US" group-title="Entretenimiento",Telemundo Corpus Christi
 https://content.uplynk.com/channel/b6a96ed39d694ae1b738faa98cf7dd3f.m3u8
-#EXTINF:-1 tvg-id="nickjrclub-us-latam" tvg-name="Nick Jr. Club (United States) LatAm" tvg-chno="423" tvg-country="US" group-title="Infantil",Nick Jr. Club (United States) LatAm
-https://jmp2.uk/plu-5ddd7cb2cbb9010009b4fe32.m3u8
-#EXTINF:-1 tvg-id="teleplaysureste-mx-sd" tvg-name="Teleplay Sureste" tvg-chno="424" tvg-country="MX" group-title="Entretenimiento",Teleplay Sureste
+#EXTINF:-1 tvg-id="teleplaysureste-mx-sd" tvg-name="Teleplay Sureste" tvg-chno="451" tvg-country="MX" group-title="Entretenimiento",Teleplay Sureste
 https://player.tvstream.mx/livestream/teleplay/livehd/playlist.m3u8
-#EXTINF:-1 tvg-id="nickelodeonclasico-us-latam" tvg-name="Nickelodeon Clasico" tvg-chno="424" tvg-country="US" group-title="Infantil",Nickelodeon Clasico
-https://jmp2.uk/plu-6824cda00101510f9eeaa011.m3u8
-#EXTINF:-1 tvg-id="telerayo-hn-sd" tvg-name="Telerayo" tvg-chno="425" tvg-country="HN" group-title="Entretenimiento",Telerayo
+#EXTINF:-1 tvg-id="telerayo-hn-sd" tvg-name="Telerayo" tvg-chno="452" tvg-country="HN" group-title="Entretenimiento",Telerayo
 https://s.emisoras.tv:8081/telerayo/index.m3u8
-#EXTINF:-1 tvg-id="nickelodeonteen-us-latam" tvg-name="Nickelodeon Teen LatAm" tvg-chno="425" tvg-country="US" group-title="Infantil",Nickelodeon Teen LatAm
-https://jmp2.uk/plu-5fab09a8749b1a00077d35d2.m3u8
-#EXTINF:-1 tvg-id="televisioncaribe-us-hd" tvg-name="Television Caribe" tvg-chno="426" tvg-country="US" group-title="Entretenimiento",Television Caribe
+#EXTINF:-1 tvg-id="televisioncaribe-us-hd" tvg-name="Television Caribe" tvg-chno="453" tvg-country="US" group-title="Entretenimiento",Television Caribe
 https://televisioncaribe.com/index.m3u8
-#EXTINF:-1 tvg-id="nickelodeontoons-us-latam" tvg-name="Nickelodeon Toons LatAm" tvg-chno="426" tvg-country="US" group-title="Infantil",Nickelodeon Toons LatAm
-https://jmp2.uk/plu-645952687cb4b100084ed52e.m3u8
-#EXTINF:-1 tvg-id="tevecolombia-co-sd" tvg-name="TeveColombia" tvg-chno="427" tvg-country="CO" group-title="Entretenimiento",TeveColombia
+#EXTINF:-1 tvg-id="tevecolombia-co-sd" tvg-name="TeveColombia" tvg-chno="454" tvg-country="CO" group-title="Entretenimiento",TeveColombia
 https://cloud6.livescast.com:3900/live/tevecolombialive.m3u8
-#EXTINF:-1 tvg-id="pequestv-pe-sd" tvg-name="Peques TV" tvg-chno="427" tvg-country="PE" group-title="Infantil",Peques TV
-https://live-evg7.tv360.bitel.com.pe/bitel/pequestv/playlist.m3u8
-#EXTINF:-1 tvg-id="turismohd-do-hd" tvg-name="Turismo HD" tvg-chno="428" tvg-country="DO" group-title="Entretenimiento",Turismo HD
+#EXTINF:-1 tvg-id="turismohd-do-hd" tvg-name="Turismo HD" tvg-chno="455" tvg-country="DO" group-title="Entretenimiento",Turismo HD
 https://live20.bozztv.com/giatvplayout7/giatv-208343/playlist.m3u8
-#EXTINF:-1 tvg-id="plutotvjunior-us-latam" tvg-name="Pluto TV Junior LatAm" tvg-chno="428" tvg-country="US" group-title="Infantil",Pluto TV Junior LatAm
-https://jmp2.uk/plu-5dcde2ac4bc6c500094ab45b.m3u8
-#EXTINF:-1 tvg-id="tvcanalsur-do-sd" tvg-name="TV Canal Sur" tvg-chno="429" tvg-country="DO" group-title="Entretenimiento",TV Canal Sur
+#EXTINF:-1 tvg-id="tvcanalsur-do-sd" tvg-name="TV Canal Sur" tvg-chno="456" tvg-country="DO" group-title="Entretenimiento",TV Canal Sur
 https://streamtvs.tvcanalsur.com.do/hls/index_720.m3u8
-#EXTINF:-1 tvg-id="plutotvkidsclassics-de-es" tvg-name="Pluto TV Kids Classics" tvg-chno="429" tvg-country="DE" group-title="Infantil",Pluto TV Kids Classics
-https://jmp2.uk/plu-609e7e423e9173000706a681.m3u8
-#EXTINF:-1 tvg-id="tvcentro272hd-hn-sd" tvg-name="TV Centro 27.2 HD" tvg-chno="430" tvg-country="HN" group-title="Entretenimiento",TV Centro 27.2 HD
+#EXTINF:-1 tvg-id="tvcentro272hd-hn-sd" tvg-name="TV Centro 27.2 HD" tvg-chno="457" tvg-country="HN" group-title="Entretenimiento",TV Centro 27.2 HD
 https://cloud2.streaminglivehd.com:1936/8004/8004/playlist.m3u8
-#EXTINF:-1 tvg-id="plutotvkids-us-latam" tvg-name="Pluto TV Kids LatAm" tvg-chno="430" tvg-country="US" group-title="Infantil",Pluto TV Kids LatAm
-https://jmp2.uk/plu-5dd6dae8ce788b0009eaf77b.m3u8
-#EXTINF:-1 tvg-id="tvgolfouraba-co-sd" tvg-name="TV Golfo Uraba" tvg-chno="431" tvg-country="CO" group-title="Entretenimiento",TV Golfo Uraba
+#EXTINF:-1 tvg-id="tvgolfouraba-co-sd" tvg-name="TV Golfo Uraba" tvg-chno="458" tvg-country="CO" group-title="Entretenimiento",TV Golfo Uraba
 https://stmv7.voxtvhd.com.br/golfo/golfo/playlist.m3u8
-#EXTINF:-1 tvg-id="plutotvteen-de-es" tvg-name="Pluto TV Teen" tvg-chno="431" tvg-country="DE" group-title="Infantil",Pluto TV Teen
-https://jmp2.uk/plu-63eb944dc111bc0008fe7021.m3u8
-#EXTINF:-1 tvg-id="tvkaliente-pe-sd" tvg-name="TV Kaliente" tvg-chno="432" tvg-country="PE" group-title="Entretenimiento",TV Kaliente
+#EXTINF:-1 tvg-id="tvkaliente-pe-sd" tvg-name="TV Kaliente" tvg-chno="459" tvg-country="PE" group-title="Entretenimiento",TV Kaliente
 https://lbgo.bozztv.com/ssh101/ssh101/kalientecusco/playlist.m3u8
-#EXTINF:-1 tvg-id="rugrats-de-es" tvg-name="Rugrats (Germany)" tvg-chno="432" tvg-country="DE" group-title="Infantil",Rugrats (Germany)
-https://jmp2.uk/plu-610c09219fc0430007a3fce6.m3u8
-#EXTINF:-1 tvg-id="tvcariblatino-sx-sd" tvg-name="TVCARiB Latino" tvg-chno="433" tvg-country="SX" group-title="Entretenimiento",TVCARiB Latino
+#EXTINF:-1 tvg-id="tvcariblatino-sx-sd" tvg-name="TVCARiB Latino" tvg-chno="460" tvg-country="SX" group-title="Entretenimiento",TVCARiB Latino
 https://cdn.mycloudstream.io/hls/live/broadcast/xn44vdc5/index.m3u8
-#EXTINF:-1 tvg-id="rugrats-us-latam" tvg-name="Rugrats (United States)" tvg-chno="433" tvg-country="US" group-title="Infantil",Rugrats (United States)
-https://jmp2.uk/plu-5ea7215005d66d0007e8128a.m3u8
-#EXTINF:-1 tvg-id="tvmax-pa-sd" tvg-name="TVMax" tvg-chno="434" tvg-country="PA" group-title="Entretenimiento",TVMax
+#EXTINF:-1 tvg-id="tvmax-pa-sd" tvg-name="TVMax" tvg-chno="461" tvg-country="PA" group-title="Entretenimiento",TVMax
 https://bcovlive-a.akamaihd.net/74f665e9ff8447639d4de4b8b458d8ae/us-east-1/6058004209001/playlist_dvr.m3u8
-#EXTINF:-1 tvg-id="tomandjerry-do-hd" tvg-name="Tom And Jerry" tvg-chno="434" tvg-country="DO" group-title="Infantil",Tom And Jerry
-https://live20.bozztv.com/giatvplayout7/giatv-208314/playlist.m3u8
-#EXTINF:-1 tvg-id="tvs-do-sd" tvg-name="TVS (Dominican Republic)" tvg-chno="435" tvg-country="DO" group-title="Entretenimiento",TVS (Dominican Republic)
+#EXTINF:-1 tvg-id="tvs-do-sd" tvg-name="TVS (Dominican Republic)" tvg-chno="462" tvg-country="DO" group-title="Entretenimiento",TVS (Dominican Republic)
 https://imagenuniversaltv.net:3741/live/tvslive.m3u8
-#EXTINF:-1 tvg-id="zoomoo-sg-sd" tvg-name="ZooMoo" tvg-chno="435" tvg-country="SG" group-title="Infantil",ZooMoo
-https://zoomoo-samsungau.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="comedycentralsouthpark-us-latam" tvg-name="Comedy Central South Park LatAm" tvg-chno="436" tvg-country="US" group-title="Animación",Comedy Central South Park LatAm
-https://jmp2.uk/plu-609ae5cd48d3200007b0a98e.m3u8
-#EXTINF:-1 tvg-id="ultracasanaretv-co-sd" tvg-name="Ultra Casanare TV" tvg-chno="436" tvg-country="CO" group-title="Entretenimiento",Ultra Casanare TV
+#EXTINF:-1 tvg-id="ultracasanaretv-co-sd" tvg-name="Ultra Casanare TV" tvg-chno="463" tvg-country="CO" group-title="Entretenimiento",Ultra Casanare TV
 https://eu1.servers10.com:8081/8072/index.m3u8
-#EXTINF:-1 tvg-id="detectiveconan-us-spain" tvg-name="Detective Conan" tvg-chno="437" tvg-country="US" group-title="Animación",Detective Conan
-https://jmp2.uk/plu-629a066860ef810008267b70.m3u8
-#EXTINF:-1 tvg-id="universtv-es-sd" tvg-name="Univers TV" tvg-chno="437" tvg-country="ES" group-title="Entretenimiento",Univers TV
+#EXTINF:-1 tvg-id="universtv-es-sd" tvg-name="Univers TV" tvg-chno="464" tvg-country="ES" group-title="Entretenimiento",Univers TV
 https://cloud2.streaminglivehd.com:1936/universfaller/universfaller/playlist.m3u8
-#EXTINF:-1 tvg-id="dreikotv-pa-sd" tvg-name="Dreiko TV" tvg-chno="438" tvg-country="PA" group-title="Animación",Dreiko TV
-https://cloudvideo.servers10.com:8081/8020/index.m3u8
-#EXTINF:-1 tvg-id="vbmediatv-mx-sd" tvg-name="VB Media TV" tvg-chno="438" tvg-country="MX" group-title="Entretenimiento",VB Media TV
+#EXTINF:-1 tvg-id="vbmediatv-mx-sd" tvg-name="VB Media TV" tvg-chno="465" tvg-country="MX" group-title="Entretenimiento",VB Media TV
 https://capomo01-enitv.eninetworks.com/locales_vbmedia_publico/index.m3u8
-#EXTINF:-1 tvg-id="visionndv-do-sd" tvg-name="Vision NDV" tvg-chno="439" tvg-country="DO" group-title="Entretenimiento",Vision NDV
+#EXTINF:-1 tvg-id="visionndv-do-sd" tvg-name="Vision NDV" tvg-chno="466" tvg-country="DO" group-title="Entretenimiento",Vision NDV
 https://soportedvb.click:3891/live/visionndvlive.m3u8
-#EXTINF:-1 tvg-id="west-pe-sd" tvg-name="WEST" tvg-chno="440" tvg-country="PE" group-title="Entretenimiento",WEST
+#EXTINF:-1 tvg-id="west-pe-sd" tvg-name="WEST" tvg-chno="467" tvg-country="PE" group-title="Entretenimiento",WEST
 https://cablered.iptvperu.tv:1936/cablered/west/playlist.m3u8
-#EXTINF:-1 tvg-id="esportsmaxtv-ve-sd" tvg-name="eSports Max TV" tvg-chno="441" tvg-country="VE" group-title="Animación",eSports Max TV
-https://cdnlive.klicgo.net/esportsmax/live/playlist_dvr.m3u8
-#EXTINF:-1 tvg-id="wtvcanal20-ni-sd" tvg-name="WTV Canal 20" tvg-chno="441" tvg-country="NI" group-title="Entretenimiento",WTV Canal 20
+#EXTINF:-1 tvg-id="wtvcanal20-ni-sd" tvg-name="WTV Canal 20" tvg-chno="468" tvg-country="NI" group-title="Entretenimiento",WTV Canal 20
 https://cootv.cootel.com.ni:8095/Canal40_WTV/playlist.m3u8
-#EXTINF:-1 tvg-id="extremakidstv-cr-hd" tvg-name="Extrema Kids TV" tvg-chno="442" tvg-country="CR" group-title="Animación",Extrema Kids TV
-https://627bb251f23c7.streamlock.net:444/ExtremaKids/ExtremaKids/playlist.m3u8
-#EXTINF:-1 tvg-id="yunavision-do-sd" tvg-name="Yunavision" tvg-chno="442" tvg-country="DO" group-title="Entretenimiento",Yunavision
+#EXTINF:-1 tvg-id="yunavision-do-sd" tvg-name="Yunavision" tvg-chno="469" tvg-country="DO" group-title="Entretenimiento",Yunavision
 https://tele-stream.telecasa.net/live/st1/yunavision-hd/index.m3u8
-#EXTINF:-1 tvg-id="giktvmx-mx-sd" tvg-name="GikTVMX" tvg-chno="443" tvg-country="MX" group-title="Animación",GikTVMX
-https://pistream.ddns.net/hls/stream.m3u8
-#EXTINF:-1 tvg-id="zaz-mx-sd" tvg-name="ZAZ" tvg-chno="443" tvg-country="MX" group-title="Entretenimiento",ZAZ
+#EXTINF:-1 tvg-id="zaz-mx-sd" tvg-name="ZAZ" tvg-chno="470" tvg-country="MX" group-title="Entretenimiento",ZAZ
 https://cloud.fastchannel.es/mic/manifiest/hls/zaztv/zaztv.m3u8
-#EXTINF:-1 tvg-id="afvespanol-us-sd" tvg-name="AFV Espanol" tvg-chno="444" tvg-country="US" group-title="Comedia",AFV Espanol
+#EXTINF:-1 tvg-id="afvespanol-us-sd" tvg-name="AFV Espanol" tvg-chno="471" tvg-country="US" group-title="Comedia",AFV Espanol
 https://linear-46.frequency.stream/dist/plex/46/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-id="lamil35tv-ar-sd" tvg-name="LAMIL35 TV" tvg-chno="444" tvg-country="AR" group-title="Animación",LAMIL35 TV
-https://vtm2.msinteractiva.com/lamil35/lamil35/playlist.m3u8
-#EXTINF:-1 tvg-id="comediaalobestiadeplutotv-de-es" tvg-name="Comedia a lo bestia de Pluto TV" tvg-chno="445" tvg-country="DE" group-title="Comedia",Comedia a lo bestia de Pluto TV
+#EXTINF:-1 tvg-id="comediaalobestiadeplutotv-de-es" tvg-name="Comedia a lo bestia de Pluto TV" tvg-chno="472" tvg-country="DE" group-title="Comedia",Comedia a lo bestia de Pluto TV
 https://jmp2.uk/plu-68de3db35fc0afe85de0b843.m3u8
-#EXTINF:-1 tvg-id="lastortugasninja-us-latam" tvg-name="Las Tortugas Ninja" tvg-chno="445" tvg-country="US" group-title="Animación",Las Tortugas Ninja
-https://jmp2.uk/plu-63dd5d7a4e83e700088fbca8.m3u8
-#EXTINF:-1 tvg-id="comedycentralenespanol-us-sd" tvg-name="Comedy Central en Espanol" tvg-chno="446" tvg-country="US" group-title="Comedia",Comedy Central en Espanol
+#EXTINF:-1 tvg-id="comedycentralenespanol-us-sd" tvg-name="Comedy Central en Espanol" tvg-chno="473" tvg-country="US" group-title="Comedia",Comedy Central en Espanol
 https://jmp2.uk/plu-5cf96dad1652631e36d43320.m3u8
-#EXTINF:-1 tvg-id="mrbeananimated-uk-es" tvg-name="Mr Bean Animated ES" tvg-chno="446" tvg-country="UK" group-title="Animación",Mr Bean Animated ES
-https://amg00627-amg00627c30-rakuten-es-3990.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanescc-rakutenes/playlist.m3u8
-#EXTINF:-1 tvg-id="comedycentralplutotv-us-latam" tvg-name="Comedy Central Pluto TV LatAm" tvg-chno="447" tvg-country="US" group-title="Comedia",Comedy Central Pluto TV LatAm
+#EXTINF:-1 tvg-id="comedycentralplutotv-us-latam" tvg-name="Comedy Central Pluto TV LatAm" tvg-chno="474" tvg-country="US" group-title="Comedia",Comedy Central Pluto TV LatAm
 https://jmp2.uk/plu-5ffcc21a432945000762d06b.m3u8
-#EXTINF:-1 tvg-id="narutoenespanol-us-sd" tvg-name="Naruto en espanol" tvg-chno="447" tvg-country="US" group-title="Animación",Naruto en espanol
-https://jmp2.uk/plu-5ee92e72fb286e0007285fec.m3u8
-#EXTINF:-1 tvg-id="daria-us-latam" tvg-name="Daria" tvg-chno="448" tvg-country="US" group-title="Comedia",Daria
+#EXTINF:-1 tvg-id="daria-us-latam" tvg-name="Daria" tvg-chno="475" tvg-country="US" group-title="Comedia",Daria
 https://jmp2.uk/plu-62d0895ebe7a970008785244.m3u8
-#EXTINF:-1 tvg-id="narutoshippuden-us-latam" tvg-name="Naruto Shippuden" tvg-chno="448" tvg-country="US" group-title="Animación",Naruto Shippuden
-https://jmp2.uk/plu-64c92f965580090008084968.m3u8
-#EXTINF:-1 tvg-id="onepiece-us-latam" tvg-name="One Piece LatAm" tvg-chno="449" tvg-country="US" group-title="Animación",One Piece LatAm
-https://jmp2.uk/plu-5ff4b9ccf938f8000779eb99.m3u8
-#EXTINF:-1 tvg-id="plutotvcomediamadeinspain-de-es" tvg-name="Pluto TV Comedia made in Spain" tvg-chno="449" tvg-country="DE" group-title="Comedia",Pluto TV Comedia made in Spain
+#EXTINF:-1 tvg-id="plutotvcomediamadeinspain-de-es" tvg-name="Pluto TV Comedia made in Spain" tvg-chno="476" tvg-country="DE" group-title="Comedia",Pluto TV Comedia made in Spain
 https://jmp2.uk/plu-5f1abce155a03d0007718834.m3u8
-#EXTINF:-1 tvg-id="onepiece-us-spain" tvg-name="One Piece Spain" tvg-chno="450" tvg-country="US" group-title="Animación",One Piece Spain
-https://jmp2.uk/plu-680ba8992472a7200a183eb5.m3u8
-#EXTINF:-1 tvg-id="vayasemanita-us-spain" tvg-name="Vaya semanita" tvg-chno="450" tvg-country="US" group-title="Comedia",Vaya semanita
+#EXTINF:-1 tvg-id="vayasemanita-us-spain" tvg-name="Vaya semanita" tvg-chno="477" tvg-country="US" group-title="Comedia",Vaya semanita
 https://jmp2.uk/plu-5f28009b150b2500077766b8.m3u8
-#EXTINF:-1 tvg-id="6wisetv-us-sd" tvg-name="6 Wise Tv" tvg-chno="451" tvg-country="US" group-title="Familia",6 Wise Tv
+#EXTINF:-1 tvg-id="6wisetv-us-sd" tvg-name="6 Wise Tv" tvg-chno="478" tvg-country="US" group-title="Familia",6 Wise Tv
 https://live.enhdtv.com:8081/8150/index.m3u8
-#EXTINF:-1 tvg-id="southpark-de-es" tvg-name="South Park (Germany)" tvg-chno="451" tvg-country="DE" group-title="Animación",South Park (Germany)
-https://jmp2.uk/plu-628751bb7154a40007168843.m3u8
-#EXTINF:-1 tvg-id="hopechannelproyectoja-cr-sd" tvg-name="Hope Channel PROYECTO JA" tvg-chno="452" tvg-country="CR" group-title="Familia",Hope Channel PROYECTO JA
+#EXTINF:-1 tvg-id="hopechannelproyectoja-cr-sd" tvg-name="Hope Channel PROYECTO JA" tvg-chno="479" tvg-country="CR" group-title="Familia",Hope Channel PROYECTO JA
 https://edge1-us-miami.picarto.tv/stream/hls/golive%2bXSTUDIOCODE/0_1/index.m3u8
-#EXTINF:-1 tvg-id="southparkversionoriginal-de-es" tvg-name="South Park Version Original" tvg-chno="452" tvg-country="DE" group-title="Animación",South Park Version Original
-https://jmp2.uk/plu-63d7a8e5a9957100086bfc23.m3u8
-#EXTINF:-1 tvg-id="southparkcoleccioncartman-us-latam" tvg-name="South Park: Coleccion Cartman" tvg-chno="453" tvg-country="US" group-title="Animación",South Park: Coleccion Cartman
-https://jmp2.uk/plu-65df731cec9fda0008b7aa8d.m3u8
-#EXTINF:-1 tvg-id="talangatvcanal39-hn-sd" tvg-name="Talanga TV Canal 39" tvg-chno="453" tvg-country="HN" group-title="Familia",Talanga TV Canal 39
+#EXTINF:-1 tvg-id="talangatvcanal39-hn-sd" tvg-name="Talanga TV Canal 39" tvg-chno="480" tvg-country="HN" group-title="Familia",Talanga TV Canal 39
 https://stream.oursnetworktv.com/latin/Tv39Talanga/playlist.m3u8
-#EXTINF:-1 tvg-id="southparkcoleccionkenny-us-latam" tvg-name="South Park: Coleccion Kenny" tvg-chno="454" tvg-country="US" group-title="Animación",South Park: Coleccion Kenny
-https://jmp2.uk/plu-65df7272ec9fda0008b7a970.m3u8
-#EXTINF:-1 tvg-id="telenovisa43-do-sd" tvg-name="Telenovisa43" tvg-chno="454" tvg-country="DO" group-title="Familia",Telenovisa43
+#EXTINF:-1 tvg-id="telenovisa43-do-sd" tvg-name="Telenovisa43" tvg-chno="481" tvg-country="DO" group-title="Familia",Telenovisa43
 https://fox.hostlagarto.com:8081/telenonisa43/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="southparkcoleccionkyle-us-latam" tvg-name="South Park: Coleccion Kyle" tvg-chno="455" tvg-country="US" group-title="Animación",South Park: Coleccion Kyle
-https://jmp2.uk/plu-65df73520d4561000817c29b.m3u8
-#EXTINF:-1 tvg-id="thepetcollective-us-mexico" tvg-name="The Pet Collective Mexico" tvg-chno="455" tvg-country="US" group-title="Familia",The Pet Collective Mexico
+#EXTINF:-1 tvg-id="thepetcollective-us-mexico" tvg-name="The Pet Collective Mexico" tvg-chno="482" tvg-country="US" group-title="Familia",The Pet Collective Mexico
 https://the-pet-collective-international-mx.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="southparkcoleccionstan-us-latam" tvg-name="South Park: Coleccion Stan" tvg-chno="456" tvg-country="US" group-title="Animación",South Park: Coleccion Stan
-https://jmp2.uk/plu-65df72db18036500081a8292.m3u8
-#EXTINF:-1 tvg-id="thepetcollective-us-spain" tvg-name="The Pet Collective Spain" tvg-chno="456" tvg-country="US" group-title="Familia",The Pet Collective Spain
+#EXTINF:-1 tvg-id="thepetcollective-us-spain" tvg-name="The Pet Collective Spain" tvg-chno="483" tvg-country="US" group-title="Familia",The Pet Collective Spain
 https://the-pet-collective-international-es.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="tigueritotv-do-hd" tvg-name="Tiguerito TV" tvg-chno="457" tvg-country="DO" group-title="Animación",Tiguerito TV
-https://ss2.tvrdomi.com:1936/tigueritostv/tigueritostv/playlist.m3u8
-#EXTINF:-1 tvg-id="tvfamilia-ve-sd" tvg-name="TV Familia" tvg-chno="457" tvg-country="VE" group-title="Familia",TV Familia
+#EXTINF:-1 tvg-id="tvfamilia-ve-sd" tvg-name="TV Familia" tvg-chno="484" tvg-country="VE" group-title="Familia",TV Familia
 https://cloudusa.streamingconnect.com/tvfamiliatvbox/tvfamiliaweb.m3u8
-#EXTINF:-1 tvg-id="macgyver-us-latam" tvg-name="MacGyver (United States) LatAm" tvg-chno="458" tvg-country="US" group-title="Clásicos",MacGyver (United States) LatAm
+#EXTINF:-1 tvg-id="macgyver-us-latam" tvg-name="MacGyver (United States) LatAm" tvg-chno="485" tvg-country="US" group-title="Clásicos",MacGyver (United States) LatAm
 https://jmp2.uk/plu-63eb95baa99571000898a078.m3u8
-#EXTINF:-1 tvg-id="clan-rtve" tvg-name="Clan RTVE" tvg-chno="458" tvg-country="ES" group-title="Infantil",Clan RTVE
-https://rtvelivestream.rtve.es/rtvesec/clan/clan_main.m3u8
-#EXTINF:-1 tvg-id="plutotvseriesretro-us-latam" tvg-name="Pluto TV Series Retro" tvg-chno="459" tvg-country="US" group-title="Clásicos",Pluto TV Series Retro
+#EXTINF:-1 tvg-id="plutotvseriesretro-us-latam" tvg-name="Pluto TV Series Retro" tvg-chno="486" tvg-country="US" group-title="Clásicos",Pluto TV Series Retro
 https://jmp2.uk/plu-5de802659167b10009e7deba.m3u8
-#EXTINF:-1 tvg-id="retroxtv-cr-sd" tvg-name="Retrox TV" tvg-chno="460" tvg-country="CR" group-title="Clásicos",Retrox TV
+#EXTINF:-1 tvg-id="retroxtv-cr-sd" tvg-name="Retrox TV" tvg-chno="487" tvg-country="CR" group-title="Clásicos",Retrox TV
 https://lbgo.bozztv.com/ssh101/ssh101/retyroxtv/playlist.m3u8
-#EXTINF:-1 tvg-id="tvsretro-gt-sd" tvg-name="TVS Retro" tvg-chno="461" tvg-country="GT" group-title="Clásicos",TVS Retro
+#EXTINF:-1 tvg-id="tvsretro-gt-sd" tvg-name="TVS Retro" tvg-chno="488" tvg-country="GT" group-title="Clásicos",TVS Retro
 https://cdn.streamhispanatv.net:3531/live/tvsretrogtlive.m3u8
-#EXTINF:-1 tvg-id="anime-presente" tvg-name="Anime Presente" tvg-chno="501" tvg-country="ES" group-title="Anime",Anime Presente
+#EXTINF:-1 tvg-id="nickjrlatinamerica-us-panregional" tvg-name="Nick Jr. Latin America" tvg-chno="491" tvg-country="US" group-title="Infantil",Nick Jr. Latin America
+https://streaming.onnethn.com/NICK_JR/playlist.m3u8
+#EXTINF:-1 tvg-id="947-energeek" tvg-name="EnerGeek" tvg-chno="492" tvg-country="CL" group-title="Animación",EnerGeek
+https://cl-2.backend.energeek.cl/bkp/egretroweb/index.m3u8?token=D3m0M3UCLWeb&PlaylistM3UCL
+#EXTINF:-1 tvg-id="1112-energeek-fan" tvg-name="EnerGeek FAN" tvg-chno="493" tvg-country="CL" group-title="Animación",EnerGeek FAN
+https://cl-2.backend.energeek.cl/bkp/egfanweb/index.m3u8?token=D3m0M3UCLWeb&PlaylistM3UCL
+#EXTINF:-1 tvg-id="1266-energeek-radio" tvg-name="EnerGeek Radio" tvg-chno="494" tvg-country="CL" group-title="Animación",EnerGeek Radio
+https://cl-2.backend.energeek.cl/bkp/egradioweb/index.m3u8?token=D3m0M3UCLWeb&PlaylistM3UCL
+#EXTINF:-1 tvg-id="45-ntv" tvg-name="NTV" tvg-chno="495" tvg-country="CL" group-title="Animación",NTV
+https://mdstrm.com/live-stream-playlist/5aaabe9e2c56420918184c6d.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="avatarlaleyendadeaang-us-latam" tvg-name="Avatar: La Leyenda de Aang" tvg-chno="496" tvg-country="US" group-title="Infantil",Avatar: La Leyenda de Aang
+https://jmp2.uk/plu-6759ee82bd523200083b4f0f.m3u8
+#EXTINF:-1 tvg-id="babyfirst-us-us" tvg-name="BabyFirst" tvg-chno="497" tvg-country="US" group-title="Infantil",BabyFirst
+https://cdn.fast.jwp.services/v1/channel/1_jB6940Ei_TvhvIHDL/manifest.m3u8
+#EXTINF:-1 tvg-id="bobesponja-de-es" tvg-name="Bob Esponja" tvg-chno="498" tvg-country="DE" group-title="Infantil",Bob Esponja
+https://jmp2.uk/plu-5f1aca0b4e448e00075e7c5e.m3u8
+#EXTINF:-1 tvg-id="bobesponjapantalonescuadrados-us-latam" tvg-name="Bob Esponja Pantalones Cuadrados" tvg-chno="499" tvg-country="US" group-title="Infantil",Bob Esponja Pantalones Cuadrados
+https://jmp2.uk/plu-6254598f5083f800076d8563.m3u8
+#EXTINF:-1 tvg-id="chinolatv-do-sd" tvg-name="Chinola TV" tvg-chno="500" tvg-country="DO" group-title="Infantil",Chinola TV
+https://tv.wracanal10.com:3300/live/chinolatvlive.m3u8
+#EXTINF:-1 tvg-id="clan-es-sd" tvg-name="Clan" tvg-chno="501" tvg-country="ES" group-title="Infantil",Clan
+https://lge-lgla2.otteravision.com/lge/lgcla/lgcla.m3u8
+#EXTINF:-1 tvg-id="claninternacional-es-sd" tvg-name="Clan Internacional Americas" tvg-chno="502" tvg-country="ES" group-title="Infantil",Clan Internacional Americas
+https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/clan_int_main_1080.m3u8
+#EXTINF:-1 tvg-id="diostevekids-hn-sd" tvg-name="Dios Te Ve Kids" tvg-chno="503" tvg-country="HN" group-title="Infantil",Dios Te Ve Kids
+https://s.emisoras.tv:8081/diostevekids/index.m3u8
+#EXTINF:-1 tvg-id="dreamworkschannellatinamerica-us-panregional" tvg-name="DreamWorks Channel Latin America" tvg-chno="504" tvg-country="US" group-title="Infantil",DreamWorks Channel Latin America
+https://xyktmobile00.s.gy/PPV913_DREAMWO
+#EXTINF:-1 tvg-id="elchavotv-mx-hd" tvg-name="El Chavo TV" tvg-chno="505" tvg-country="MX" group-title="Infantil",El Chavo TV
+https://live20.bozztv.com/giatvplayout7/giatv-211465/playlist.m3u8
+#EXTINF:-1 tvg-id="el-reino-infantil-2" tvg-name="El Reino Infantil" tvg-chno="506" tvg-country="US" group-title="Infantil",El Reino Infantil
+https://jmp2.uk/plu-66fedd65d7de140008dccd66.m3u8
+#EXTINF:-1 tvg-id="eureka-co-sd" tvg-name="Eureka" tvg-chno="507" tvg-country="CO" group-title="Infantil",Eureka
+https://mdstrm.com/live-stream-playlist/6952e02d19eabace52e2885f.m3u8
+#EXTINF:-1 tvg-id="gloobweb-br-sd" tvg-name="Gloob Web" tvg-chno="508" tvg-country="BR" group-title="Infantil",Gloob Web
+https://vs20.live.opencaster.com/globiosat_73a904af/index.m3u8
+#EXTINF:-1 tvg-id="heyarnold-us-latam" tvg-name="Hey Arnold!" tvg-chno="509" tvg-country="US" group-title="Infantil",Hey Arnold!
+https://jmp2.uk/plu-66c79221b1a34600087e264d.m3u8
+#EXTINF:-1 tvg-id="logostvkids-es-sd" tvg-name="Logos TV Kids" tvg-chno="510" tvg-country="ES" group-title="Infantil",Logos TV Kids
+https://streamer1.streamhost.org/salive/logoskidsH/playlist.m3u8
+#EXTINF:-1 tvg-id="newchannelpop-ca-sd" tvg-name="New Channel Pop!" tvg-chno="511" tvg-country="CA" group-title="Infantil",New Channel Pop!
+https://vodcdn.bamboo-cloud.com/livehls/6ab37c6c7e057f9063071c85/master.m3u8
+#EXTINF:-1 tvg-id="nickenespanol-us" tvg-name="Nick en Espanol" tvg-chno="512" tvg-country="MX" group-title="Infantil",Nick en Espanol
+https://jmp2.uk/plu-5d8d08395f39465da6fb3ec4.m3u8
+#EXTINF:-1 tvg-id="nickjrclub-us-latam" tvg-name="Nick Jr. Club (United States) LatAm" tvg-chno="513" tvg-country="US" group-title="Infantil",Nick Jr. Club (United States) LatAm
+https://jmp2.uk/plu-5ddd7cb2cbb9010009b4fe32.m3u8
+#EXTINF:-1 tvg-id="nickelodeonclasico-us-latam" tvg-name="Nickelodeon Clasico" tvg-chno="514" tvg-country="US" group-title="Infantil",Nickelodeon Clasico
+https://jmp2.uk/plu-6824cda00101510f9eeaa011.m3u8
+#EXTINF:-1 tvg-id="nickelodeonteen-us-latam" tvg-name="Nickelodeon Teen LatAm" tvg-chno="515" tvg-country="US" group-title="Infantil",Nickelodeon Teen LatAm
+https://jmp2.uk/plu-5fab09a8749b1a00077d35d2.m3u8
+#EXTINF:-1 tvg-id="nickelodeontoons-us-latam" tvg-name="Nickelodeon Toons LatAm" tvg-chno="516" tvg-country="US" group-title="Infantil",Nickelodeon Toons LatAm
+https://jmp2.uk/plu-645952687cb4b100084ed52e.m3u8
+#EXTINF:-1 tvg-id="pequestv-pe-sd" tvg-name="Peques TV" tvg-chno="517" tvg-country="PE" group-title="Infantil",Peques TV
+https://live-evg7.tv360.bitel.com.pe/bitel/pequestv/playlist.m3u8
+#EXTINF:-1 tvg-id="plutotvjunior-us-latam" tvg-name="Pluto TV Junior LatAm" tvg-chno="518" tvg-country="US" group-title="Infantil",Pluto TV Junior LatAm
+https://jmp2.uk/plu-5dcde2ac4bc6c500094ab45b.m3u8
+#EXTINF:-1 tvg-id="plutotvkidsclassics-de-es" tvg-name="Pluto TV Kids Classics" tvg-chno="519" tvg-country="DE" group-title="Infantil",Pluto TV Kids Classics
+https://jmp2.uk/plu-609e7e423e9173000706a681.m3u8
+#EXTINF:-1 tvg-id="plutotvkids-us-latam" tvg-name="Pluto TV Kids LatAm" tvg-chno="520" tvg-country="US" group-title="Infantil",Pluto TV Kids LatAm
+https://jmp2.uk/plu-5dd6dae8ce788b0009eaf77b.m3u8
+#EXTINF:-1 tvg-id="plutotvteen-de-es" tvg-name="Pluto TV Teen" tvg-chno="521" tvg-country="DE" group-title="Infantil",Pluto TV Teen
+https://jmp2.uk/plu-63eb944dc111bc0008fe7021.m3u8
+#EXTINF:-1 tvg-id="rugrats-de-es" tvg-name="Rugrats (Germany)" tvg-chno="522" tvg-country="DE" group-title="Infantil",Rugrats (Germany)
+https://jmp2.uk/plu-610c09219fc0430007a3fce6.m3u8
+#EXTINF:-1 tvg-id="rugrats-us-latam" tvg-name="Rugrats (United States)" tvg-chno="523" tvg-country="US" group-title="Infantil",Rugrats (United States)
+https://jmp2.uk/plu-5ea7215005d66d0007e8128a.m3u8
+#EXTINF:-1 tvg-id="tomandjerry-do-hd" tvg-name="Tom And Jerry" tvg-chno="524" tvg-country="DO" group-title="Infantil",Tom And Jerry
+https://live20.bozztv.com/giatvplayout7/giatv-208314/playlist.m3u8
+#EXTINF:-1 tvg-id="zoomoo-sg-sd" tvg-name="ZooMoo" tvg-chno="525" tvg-country="SG" group-title="Infantil",ZooMoo
+https://zoomoo-samsungau.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="comedycentralsouthpark-us-latam" tvg-name="Comedy Central South Park LatAm" tvg-chno="526" tvg-country="US" group-title="Animación",Comedy Central South Park LatAm
+https://jmp2.uk/plu-609ae5cd48d3200007b0a98e.m3u8
+#EXTINF:-1 tvg-id="detectiveconan-us-spain" tvg-name="Detective Conan" tvg-chno="527" tvg-country="US" group-title="Animación",Detective Conan
+https://jmp2.uk/plu-629a066860ef810008267b70.m3u8
+#EXTINF:-1 tvg-id="dreikotv-pa-sd" tvg-name="Dreiko TV" tvg-chno="528" tvg-country="PA" group-title="Animación",Dreiko TV
+https://cloudvideo.servers10.com:8081/8020/index.m3u8
+#EXTINF:-1 tvg-id="esportsmaxtv-ve-sd" tvg-name="eSports Max TV" tvg-chno="531" tvg-country="VE" group-title="Animación",eSports Max TV
+https://cdnlive.klicgo.net/esportsmax/live/playlist_dvr.m3u8
+#EXTINF:-1 tvg-id="extremakidstv-cr-hd" tvg-name="Extrema Kids TV" tvg-chno="532" tvg-country="CR" group-title="Animación",Extrema Kids TV
+https://627bb251f23c7.streamlock.net:444/ExtremaKids/ExtremaKids/playlist.m3u8
+#EXTINF:-1 tvg-id="giktvmx-mx-sd" tvg-name="GikTVMX" tvg-chno="533" tvg-country="MX" group-title="Animación",GikTVMX
+https://pistream.ddns.net/hls/stream.m3u8
+#EXTINF:-1 tvg-id="lamil35tv-ar-sd" tvg-name="LAMIL35 TV" tvg-chno="534" tvg-country="AR" group-title="Animación",LAMIL35 TV
+https://vtm2.msinteractiva.com/lamil35/lamil35/playlist.m3u8
+#EXTINF:-1 tvg-id="lastortugasninja-us-latam" tvg-name="Las Tortugas Ninja" tvg-chno="535" tvg-country="US" group-title="Animación",Las Tortugas Ninja
+https://jmp2.uk/plu-63dd5d7a4e83e700088fbca8.m3u8
+#EXTINF:-1 tvg-id="mrbeananimated-uk-es" tvg-name="Mr Bean Animated ES" tvg-chno="536" tvg-country="UK" group-title="Animación",Mr Bean Animated ES
+https://amg00627-amg00627c30-rakuten-es-3990.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanescc-rakutenes/playlist.m3u8
+#EXTINF:-1 tvg-id="narutoenespanol-us-sd" tvg-name="Naruto en espanol" tvg-chno="537" tvg-country="US" group-title="Animación",Naruto en espanol
+https://jmp2.uk/plu-5ee92e72fb286e0007285fec.m3u8
+#EXTINF:-1 tvg-id="narutoshippuden-us-latam" tvg-name="Naruto Shippuden" tvg-chno="538" tvg-country="US" group-title="Animación",Naruto Shippuden
+https://jmp2.uk/plu-64c92f965580090008084968.m3u8
+#EXTINF:-1 tvg-id="onepiece-us-latam" tvg-name="One Piece LatAm" tvg-chno="539" tvg-country="US" group-title="Animación",One Piece LatAm
+https://jmp2.uk/plu-5ff4b9ccf938f8000779eb99.m3u8
+#EXTINF:-1 tvg-id="onepiece-us-spain" tvg-name="One Piece Spain" tvg-chno="540" tvg-country="US" group-title="Animación",One Piece Spain
+https://jmp2.uk/plu-680ba8992472a7200a183eb5.m3u8
+#EXTINF:-1 tvg-id="southpark-de-es" tvg-name="South Park (Germany)" tvg-chno="541" tvg-country="DE" group-title="Animación",South Park (Germany)
+https://jmp2.uk/plu-628751bb7154a40007168843.m3u8
+#EXTINF:-1 tvg-id="southparkversionoriginal-de-es" tvg-name="South Park Version Original" tvg-chno="542" tvg-country="DE" group-title="Animación",South Park Version Original
+https://jmp2.uk/plu-63d7a8e5a9957100086bfc23.m3u8
+#EXTINF:-1 tvg-id="southparkcoleccioncartman-us-latam" tvg-name="South Park: Coleccion Cartman" tvg-chno="543" tvg-country="US" group-title="Animación",South Park: Coleccion Cartman
+https://jmp2.uk/plu-65df731cec9fda0008b7aa8d.m3u8
+#EXTINF:-1 tvg-id="southparkcoleccionkenny-us-latam" tvg-name="South Park: Coleccion Kenny" tvg-chno="544" tvg-country="US" group-title="Animación",South Park: Coleccion Kenny
+https://jmp2.uk/plu-65df7272ec9fda0008b7a970.m3u8
+#EXTINF:-1 tvg-id="southparkcoleccionkyle-us-latam" tvg-name="South Park: Coleccion Kyle" tvg-chno="545" tvg-country="US" group-title="Animación",South Park: Coleccion Kyle
+https://jmp2.uk/plu-65df73520d4561000817c29b.m3u8
+#EXTINF:-1 tvg-id="southparkcoleccionstan-us-latam" tvg-name="South Park: Coleccion Stan" tvg-chno="546" tvg-country="US" group-title="Animación",South Park: Coleccion Stan
+https://jmp2.uk/plu-65df72db18036500081a8292.m3u8
+#EXTINF:-1 tvg-id="tigueritotv-do-hd" tvg-name="Tiguerito TV" tvg-chno="547" tvg-country="DO" group-title="Animación",Tiguerito TV
+https://ss2.tvrdomi.com:1936/tigueritostv/tigueritostv/playlist.m3u8
+#EXTINF:-1 tvg-id="clan-rtve" tvg-name="Clan RTVE" tvg-chno="548" tvg-country="ES" group-title="Infantil",Clan RTVE
+https://rtvelivestream.rtve.es/rtvesec/clan/clan_main.m3u8
+#EXTINF:-1 tvg-id="anime-presente" tvg-name="Anime Presente" tvg-chno="549" tvg-country="ES" group-title="Anime",Anime Presente
 https://live20.bozztv.com/giatvplayout7/giatv-209624/playlist.m3u8
-#EXTINF:-1 tvg-id="anime-station-america-latina-no-24-7" tvg-name="Anime Station (América Latina) [No 24/7]" tvg-chno="502" tvg-country="ES" group-title="Anime",Anime Station (América Latina) [No 24/7]
+#EXTINF:-1 tvg-id="anime-station-america-latina-no-24-7" tvg-name="Anime Station (América Latina) [No 24/7]" tvg-chno="550" tvg-country="ES" group-title="Anime",Anime Station (América Latina) [No 24/7]
 https://live20.bozztv.com/akamaissh101/ssh101/livestreamingtv/playlist.m3u8
-#EXTINF:-1 tvg-id="animevision-es-sd" tvg-name="Anime Vision" tvg-chno="503" tvg-country="ES" group-title="Anime",Anime Vision
+#EXTINF:-1 tvg-id="animevision-es-sd" tvg-name="Anime Vision" tvg-chno="551" tvg-country="ES" group-title="Anime",Anime Vision
 https://d1ujfw1zyymzyd.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-a6fukwkbxmex8/live/fast-channel-animevision-64527ec0/fast-channel-animevision-64527ec0.m3u8
-#EXTINF:-1 tvg-id="anime-vision-espana-opc-1" tvg-name="Anime Visión (España)[Opc.1]" tvg-chno="504" tvg-country="ES" group-title="Anime",Anime Visión (España)[Opc.1]
+#EXTINF:-1 tvg-id="anime-vision-espana-opc-1" tvg-name="Anime Visión (España)[Opc.1]" tvg-chno="552" tvg-country="ES" group-title="Anime",Anime Visión (España)[Opc.1]
 https://jmp2.uk/stvp-ES300029LP
-#EXTINF:-1 tvg-id="animevisionclassics-es-sd" tvg-name="Anime Vision Classics" tvg-chno="505" tvg-country="ES" group-title="Anime",Anime Vision Classics
+#EXTINF:-1 tvg-id="animevisionclassics-es-sd" tvg-name="Anime Vision Classics" tvg-chno="553" tvg-country="ES" group-title="Anime",Anime Vision Classics
 https://d82pyvmcw2kdc.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-swfivzrzwamaq/live/fast-channel-animevisionclassics-efc8dc6d/fast-channel-animevisionclassics-efc8dc6d.m3u8
-#EXTINF:-1 tvg-id="anime-vision-classics-espana-opc-1" tvg-name="Anime Visión Classics (España)[Opc.1]" tvg-chno="506" tvg-country="ES" group-title="Anime",Anime Visión Classics (España)[Opc.1]
+#EXTINF:-1 tvg-id="anime-vision-classics-espana-opc-1" tvg-name="Anime Visión Classics (España)[Opc.1]" tvg-chno="554" tvg-country="ES" group-title="Anime",Anime Visión Classics (España)[Opc.1]
 https://jmp2.uk/stvp-ES3000288I
-#EXTINF:-1 tvg-id="b4u-music-apac" tvg-name="B4U Music APAC" tvg-chno="507" tvg-country="ES" group-title="Anime",B4U Music APAC
+#EXTINF:-1 tvg-id="b4u-music-apac" tvg-name="B4U Music APAC" tvg-chno="555" tvg-country="ES" group-title="Anime",B4U Music APAC
 https://streams.tangotv.in/B4UMUSIC/ORIGIN/index.m3u8
-#EXTINF:-1 tvg-id="beyblade-espana" tvg-name="Beyblade (España)" tvg-chno="508" tvg-country="ES" group-title="Anime",Beyblade (España)
+#EXTINF:-1 tvg-id="beyblade-espana" tvg-name="Beyblade (España)" tvg-chno="556" tvg-country="ES" group-title="Anime",Beyblade (España)
 https://amg01796-amg01796c8-rakuten-es-5333.playouts.now.amagi.tv/playlist/amg01796-fastmediafast-beybladees-rakutenes/playlist.m3u8
-#EXTINF:-1 tvg-id="canal-locomotion-segunda-senal-no-24-7" tvg-name="Canal Locomotion - Segunda señal [No 24/7]" tvg-chno="509" tvg-country="ES" group-title="Anime",Canal Locomotion - Segunda señal [No 24/7]
+#EXTINF:-1 tvg-id="canal-locomotion-segunda-senal-no-24-7" tvg-name="Canal Locomotion - Segunda señal [No 24/7]" tvg-chno="557" tvg-country="ES" group-title="Anime",Canal Locomotion - Segunda señal [No 24/7]
 https://live20.bozztv.com/akamaissh101/ssh101/myevent2025/playlist.m3u8
-#EXTINF:-1 tvg-id="canal-locomotion-segunda-senal-opc-2-no-24-7" tvg-name="Canal Locomotion - Segunda señal [Opc.2][No 24/7]" tvg-chno="510" tvg-country="ES" group-title="Anime",Canal Locomotion - Segunda señal [Opc.2][No 24/7]
+#EXTINF:-1 tvg-id="canal-locomotion-segunda-senal-opc-2-no-24-7" tvg-name="Canal Locomotion - Segunda señal [Opc.2][No 24/7]" tvg-chno="558" tvg-country="ES" group-title="Anime",Canal Locomotion - Segunda señal [Opc.2][No 24/7]
 https://live20.bozztv.com/giatvplayout7/giatv-210075/playlist.m3u8
-#EXTINF:-1 tvg-id="coreano-by-cj-enm" tvg-name="Coreano by CJ ENM" tvg-chno="511" tvg-country="ES" group-title="Anime",Coreano by CJ ENM
+#EXTINF:-1 tvg-id="coreano-by-cj-enm" tvg-name="Coreano by CJ ENM" tvg-chno="559" tvg-country="ES" group-title="Anime",Coreano by CJ ENM
 https://jmp2.uk/stvp-ES1700003C6
-#EXTINF:-1 tvg-id="death-note-elfen-lied" tvg-name="Death Note - Elfen Lied" tvg-chno="512" tvg-country="ES" group-title="Anime",Death Note - Elfen Lied
+#EXTINF:-1 tvg-id="death-note-elfen-lied" tvg-name="Death Note - Elfen Lied" tvg-chno="560" tvg-country="ES" group-title="Anime",Death Note - Elfen Lied
 https://live20.bozztv.com/giatvplayout7/giatv-212089/playlist.m3u8
-#EXTINF:-1 tvg-id="delmi-tv" tvg-name="Delmi TV" tvg-chno="513" tvg-country="ES" group-title="Anime",Delmi TV
+#EXTINF:-1 tvg-id="delmi-tv" tvg-name="Delmi TV" tvg-chno="561" tvg-country="ES" group-title="Anime",Delmi TV
 https://live20.bozztv.com/giatvplayout7/giatv-210634/playlist.m3u8
-#EXTINF:-1 tvg-id="dragon-ball-dragon-ball-z-america-latina" tvg-name="Dragon Ball / Dragon Ball Z (América Latina)" tvg-chno="514" tvg-country="ES" group-title="Anime",Dragon Ball / Dragon Ball Z (América Latina)
+#EXTINF:-1 tvg-id="dragon-ball-dragon-ball-z-america-latina" tvg-name="Dragon Ball / Dragon Ball Z (América Latina)" tvg-chno="562" tvg-country="ES" group-title="Anime",Dragon Ball / Dragon Ball Z (América Latina)
 https://183.bozztv.com/giatv/giatv-dball/dball/playlist.m3u8
-#EXTINF:-1 tvg-id="dragon-ball-peliculas-america-latina" tvg-name="Dragon Ball Peliculas (América Latina)" tvg-chno="515" tvg-country="ES" group-title="Anime",Dragon Ball Peliculas (América Latina)
+#EXTINF:-1 tvg-id="dragon-ball-peliculas-america-latina" tvg-name="Dragon Ball Peliculas (América Latina)" tvg-chno="563" tvg-country="ES" group-title="Anime",Dragon Ball Peliculas (América Latina)
 https://live20.bozztv.com/akamaissh101/ssh101/gokupelis/playlist.m3u8
-#EXTINF:-1 tvg-id="dragon-ball-super-america-latina" tvg-name="Dragon Ball Super (América Latina)" tvg-chno="516" tvg-country="ES" group-title="Anime",Dragon Ball Super (América Latina)
+#EXTINF:-1 tvg-id="dragon-ball-super-america-latina" tvg-name="Dragon Ball Super (América Latina)" tvg-chno="564" tvg-country="ES" group-title="Anime",Dragon Ball Super (América Latina)
 https://lbgo.bozztv.com/ssh101/ssh101/dbsuperlat/playlist.m3u8
-#EXTINF:-1 tvg-id="energeek-fan-america-latina" tvg-name="EnerGeek Fan (América Latina)" tvg-chno="517" tvg-country="ES" group-title="Anime",EnerGeek Fan (América Latina)
+#EXTINF:-1 tvg-id="energeek-fan-america-latina" tvg-name="EnerGeek Fan (América Latina)" tvg-chno="565" tvg-country="ES" group-title="Anime",EnerGeek Fan (América Latina)
 https://cl-2.backend.energeek.cl/bkp/egfanweb/index.m3u8?token=W3bEnerG33k2026
-#EXTINF:-1 tvg-id="energeek-retro-america-latina" tvg-name="EnerGeek Retro (América Latina)" tvg-chno="518" tvg-country="ES" group-title="Anime",EnerGeek Retro (América Latina)
+#EXTINF:-1 tvg-id="energeek-retro-america-latina" tvg-name="EnerGeek Retro (América Latina)" tvg-chno="566" tvg-country="ES" group-title="Anime",EnerGeek Retro (América Latina)
 https://cl-2.backend.energeek.cl/bkp/egretroweb/index.m3u8?token=W3bEnerG33k2026
-#EXTINF:-1 tvg-id="energeek-retro-america-latina-opc-2" tvg-name="EnerGeek Retro (América Latina)[Opc.2]" tvg-chno="519" tvg-country="ES" group-title="Anime",EnerGeek Retro (América Latina)[Opc.2]
+#EXTINF:-1 tvg-id="energeek-retro-america-latina-opc-2" tvg-name="EnerGeek Retro (América Latina)[Opc.2]" tvg-chno="567" tvg-country="ES" group-title="Anime",EnerGeek Retro (América Latina)[Opc.2]
 https://cl-2.backend.energeek.cl/bkp/egretro/mobile/index.m3u8?token=W3bEnerG33k2026
-#EXTINF:-1 tvg-id="k-drama" tvg-name="K-Drama+" tvg-chno="520" tvg-country="ES" group-title="Anime",K-Drama+
+#EXTINF:-1 tvg-id="k-drama" tvg-name="K-Drama+" tvg-chno="568" tvg-country="ES" group-title="Anime",K-Drama+
 https://jmp2.uk/stvp-ESBD4100001DU
-#EXTINF:-1 tvg-id="k-drama-rakuten" tvg-name="K-Drama+ (Rakuten)" tvg-chno="521" tvg-country="ES" group-title="Anime",K-Drama+ (Rakuten)
+#EXTINF:-1 tvg-id="k-drama-rakuten" tvg-name="K-Drama+ (Rakuten)" tvg-chno="569" tvg-country="ES" group-title="Anime",K-Drama+ (Rakuten)
 https://ca7c8b78.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWVzX0tEcmFtYV9ITFM/manifest.m3u8
-#EXTINF:-1 tvg-id="k-pop-by-cj-enm" tvg-name="K-POP by CJ ENM" tvg-chno="522" tvg-country="ES" group-title="Anime",K-POP by CJ ENM
+#EXTINF:-1 tvg-id="k-pop-by-cj-enm" tvg-name="K-POP by CJ ENM" tvg-chno="570" tvg-country="ES" group-title="Anime",K-POP by CJ ENM
 https://jmp2.uk/stvp-ES3900001QG
-#EXTINF:-1 tvg-id="kpopmix-ar-sd" tvg-name="Kpop Mix" tvg-chno="523" tvg-country="AR" group-title="Anime",Kpop Mix
+#EXTINF:-1 tvg-id="kpopmix-ar-sd" tvg-name="Kpop Mix" tvg-chno="571" tvg-country="AR" group-title="Anime",Kpop Mix
 https://cloud.tvomix.com/KPOPMIX/index.m3u8
-#EXTINF:-1 tvg-id="kpop-tv-play" tvg-name="KPOP TV Play" tvg-chno="524" tvg-country="ES" group-title="Anime",KPOP TV Play
+#EXTINF:-1 tvg-id="kpop-tv-play" tvg-name="KPOP TV Play" tvg-chno="572" tvg-country="ES" group-title="Anime",KPOP TV Play
 https://183.bozztv.com/giatv/giatv-kpoptvplay/kpoptvplay/playlist.m3u8
-#EXTINF:-1 tvg-id="macross-tv" tvg-name="Macross TV" tvg-chno="525" tvg-country="ES" group-title="Anime",Macross TV
+#EXTINF:-1 tvg-id="macross-tv" tvg-name="Macross TV" tvg-chno="573" tvg-country="ES" group-title="Anime",Macross TV
 https://live20.bozztv.com/giatvplayout7/giatv-210686/playlist.m3u8
-#EXTINF:-1 tvg-id="maxanime-ve-sd" tvg-name="MAX Anime" tvg-chno="526" tvg-country="VE" group-title="Anime",MAX Anime
+#EXTINF:-1 tvg-id="maxanime-ve-sd" tvg-name="MAX Anime" tvg-chno="574" tvg-country="VE" group-title="Anime",MAX Anime
 https://cdnlive.klicgo.net/maxanime/live/playlist.m3u8
-#EXTINF:-1 tvg-id="max-anime-america-latina" tvg-name="Max Anime (América Latina)" tvg-chno="527" tvg-country="ES" group-title="Anime",Max Anime (América Latina)
+#EXTINF:-1 tvg-id="max-anime-america-latina" tvg-name="Max Anime (América Latina)" tvg-chno="575" tvg-country="ES" group-title="Anime",Max Anime (América Latina)
 https://cdnlive.klicgo.net/maxanime/live/playlist_dvr.m3u8
-#EXTINF:-1 tvg-id="mundo-series" tvg-name="Mundo Series" tvg-chno="528" tvg-country="ES" group-title="Anime",Mundo Series
+#EXTINF:-1 tvg-id="mundo-series" tvg-name="Mundo Series" tvg-chno="576" tvg-country="ES" group-title="Anime",Mundo Series
 https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/e3189902-0967-48a7-9d32-9401e34471c6/manifest.m3u8
-#EXTINF:-1 tvg-id="naruto-peliculas-america-latina" tvg-name="Naruto (Peliculas) (América Latina)" tvg-chno="529" tvg-country="ES" group-title="Anime",Naruto (Peliculas) (América Latina)
+#EXTINF:-1 tvg-id="naruto-peliculas-america-latina" tvg-name="Naruto (Peliculas) (América Latina)" tvg-chno="577" tvg-country="ES" group-title="Anime",Naruto (Peliculas) (América Latina)
 https://live20.bozztv.com/giatvplayout7/giatv-211970/playlist.m3u8
-#EXTINF:-1 tvg-id="navez-mix-tv" tvg-name="Navez Mix TV" tvg-chno="530" tvg-country="ES" group-title="Anime",Navez Mix TV
+#EXTINF:-1 tvg-id="navez-mix-tv" tvg-name="Navez Mix TV" tvg-chno="578" tvg-country="ES" group-title="Anime",Navez Mix TV
 https://livefta.malimarcdn.com/ftaedge00/ohmuanglao.stream/chunklist.m3u8
-#EXTINF:-1 tvg-id="new-k-movies-sub" tvg-name="NEW K-MOVIES (SUB)" tvg-chno="531" tvg-country="ES" group-title="Anime",NEW K-MOVIES (SUB)
+#EXTINF:-1 tvg-id="new-k-movies-sub" tvg-name="NEW K-MOVIES (SUB)" tvg-chno="579" tvg-country="ES" group-title="Anime",NEW K-MOVIES (SUB)
 https://jmp2.uk/stvp-ES170000433
-#EXTINF:-1 tvg-id="new-kpop" tvg-name="NEW KPOP" tvg-chno="532" tvg-country="ES" group-title="Anime",NEW KPOP
+#EXTINF:-1 tvg-id="new-kpop" tvg-name="NEW KPOP" tvg-chno="580" tvg-country="ES" group-title="Anime",NEW KPOP
 https://jmp2.uk/stvp-ES1700005ME
-#EXTINF:-1 tvg-id="plutotvanime-de-es" tvg-name="Pluto TV Anime" tvg-chno="533" tvg-country="DE" group-title="Anime",Pluto TV Anime
+#EXTINF:-1 tvg-id="plutotvanime-de-es" tvg-name="Pluto TV Anime" tvg-chno="581" tvg-country="DE" group-title="Anime",Pluto TV Anime
 https://jmp2.uk/plu-608035b8d8705f0007260287.m3u8
-#EXTINF:-1 tvg-id="plutotvanime-us-latam" tvg-name="Pluto TV Anime LatAm" tvg-chno="534" tvg-country="US" group-title="Anime",Pluto TV Anime LatAm
+#EXTINF:-1 tvg-id="plutotvanime-us-latam" tvg-name="Pluto TV Anime LatAm" tvg-chno="582" tvg-country="US" group-title="Anime",Pluto TV Anime LatAm
 https://jmp2.uk/plu-5dcde17bf6591d0009839e02.m3u8
-#EXTINF:-1 tvg-id="primired-anime-america-latina" tvg-name="Primired Anime (América Latina)" tvg-chno="535" tvg-country="ES" group-title="Anime",Primired Anime (América Latina)
+#EXTINF:-1 tvg-id="primired-anime-america-latina" tvg-name="Primired Anime (América Latina)" tvg-chno="583" tvg-country="ES" group-title="Anime",Primired Anime (América Latina)
 https://cdn.global.elektamedia.com/live/c7eds/Primired/SA_LIVE_hls_enc/master.m3u8
-#EXTINF:-1 tvg-id="rakuten-viki-sub" tvg-name="Rakuten VIKI (SUB)" tvg-chno="536" tvg-country="ES" group-title="Anime",Rakuten VIKI (SUB)
+#EXTINF:-1 tvg-id="rakuten-viki-sub" tvg-name="Rakuten VIKI (SUB)" tvg-chno="584" tvg-country="ES" group-title="Anime",Rakuten VIKI (SUB)
 https://b8ee598f.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWVzX1Jha3V0ZW5WaWtpX0hMUw/manifest.m3u8
-#EXTINF:-1 tvg-id="series-k-comedia-romantica" tvg-name="Series K-Comedia Romántica" tvg-chno="537" tvg-country="ES" group-title="Anime",Series K-Comedia Romántica
+#EXTINF:-1 tvg-id="series-k-comedia-romantica" tvg-name="Series K-Comedia Romántica" tvg-chno="585" tvg-country="ES" group-title="Anime",Series K-Comedia Romántica
 https://jmp2.uk/stvp-ES200041FT
-#EXTINF:-1 tvg-id="series-k-drama" tvg-name="Series K-Drama" tvg-chno="538" tvg-country="ES" group-title="Anime",Series K-Drama
+#EXTINF:-1 tvg-id="series-k-drama" tvg-name="Series K-Drama" tvg-chno="586" tvg-country="ES" group-title="Anime",Series K-Drama
 https://jmp2.uk/stvp-ES200040YF
-#EXTINF:-1 tvg-id="shinchan-espana" tvg-name="Shinchan (España)" tvg-chno="539" tvg-country="ES" group-title="Anime",Shinchan (España)
+#EXTINF:-1 tvg-id="shinchan-espana" tvg-name="Shinchan (España)" tvg-chno="587" tvg-country="ES" group-title="Anime",Shinchan (España)
 https://www.twitch.tv/shinchan_oficial
-#EXTINF:-1 tvg-id="taltal-tv" tvg-name="TALTAL TV" tvg-chno="540" tvg-country="ES" group-title="Anime",TALTAL TV
+#EXTINF:-1 tvg-id="taltal-tv" tvg-name="TALTAL TV" tvg-chno="588" tvg-country="ES" group-title="Anime",TALTAL TV
 https://183.bozztv.com/giatv/giatv-TALTALTVANIMACION/TALTALTVANIMACION/playlist.m3u8
-#EXTINF:-1 tvg-id="taltal-tv-2" tvg-name="TALTAL TV 2" tvg-chno="541" tvg-country="ES" group-title="Anime",TALTAL TV 2
+#EXTINF:-1 tvg-id="taltal-tv-2" tvg-name="TALTAL TV 2" tvg-chno="589" tvg-country="ES" group-title="Anime",TALTAL TV 2
 https://183.bozztv.com/giatv/giatv-TALTALTVANIMACION2/TALTALTVANIMACION2/playlist.m3u8
-#EXTINF:-1 tvg-id="tl-el-salvador" tvg-name="TL+ (El Salvador)" tvg-chno="542" tvg-country="ES" group-title="Anime",TL+ (El Salvador)
+#EXTINF:-1 tvg-id="tl-el-salvador" tvg-name="TL+ (El Salvador)" tvg-chno="590" tvg-country="ES" group-title="Anime",TL+ (El Salvador)
 https://cdn.global.elektamedia.com/live/c7eds/TLMasSV/SA_LIVE_hls_enc/master.m3u8
-#EXTINF:-1 tvg-id="tv-grupo-medios-mendoza-anime" tvg-name="TV Grupo Medios Mendoza Anime" tvg-chno="543" tvg-country="ES" group-title="Anime",TV Grupo Medios Mendoza Anime
+#EXTINF:-1 tvg-id="tv-grupo-medios-mendoza-anime" tvg-name="TV Grupo Medios Mendoza Anime" tvg-chno="591" tvg-country="ES" group-title="Anime",TV Grupo Medios Mendoza Anime
 https://live20.bozztv.com/giatvplayout7/giatv-211565/playlist.m3u8
-#EXTINF:-1 tvg-id="yu-gi-oh-espana" tvg-name="Yu-Gi-Oh! (España)" tvg-chno="544" tvg-country="ES" group-title="Anime",Yu-Gi-Oh! (España)
+#EXTINF:-1 tvg-id="yu-gi-oh-espana" tvg-name="Yu-Gi-Oh! (España)" tvg-chno="592" tvg-country="ES" group-title="Anime",Yu-Gi-Oh! (España)
 https://amg01796-amg01796c18-rakuten-es-7491.playouts.now.amagi.tv/playlist/amg01796-fastmediafast-yugiohees-rakutenes/playlist.m3u8
-#EXTINF:-1 tvg-id="zyoon-tv-hd-chile" tvg-name="Zyoon TV HD (Chile)" tvg-chno="545" tvg-country="ES" group-title="Anime",Zyoon TV HD (Chile)
+#EXTINF:-1 tvg-id="zyoon-tv-hd-chile" tvg-name="Zyoon TV HD (Chile)" tvg-chno="593" tvg-country="ES" group-title="Anime",Zyoon TV HD (Chile)
 https://live20.bozztv.com/giatv/giatv-ZYOONTV/ZYOONTV/playlist.m3u8
-#EXTINF:-1 tvg-id="zyoon-tv-sd-chile" tvg-name="Zyoon TV SD (Chile)" tvg-chno="546" tvg-country="ES" group-title="Anime",Zyoon TV SD (Chile)
+#EXTINF:-1 tvg-id="zyoon-tv-sd-chile" tvg-name="Zyoon TV SD (Chile)" tvg-chno="594" tvg-country="ES" group-title="Anime",Zyoon TV SD (Chile)
 https://live20.bozztv.com/akamaissh101/ssh101/onlinezyoontv/playlist.m3u8
 #EXTINF:-1 tvg-id="versotv-cl-sd" tvg-name="Verso TV" tvg-chno="603" tvg-country="CL" group-title="Cultura",Verso TV
 https://verso.coopcom.cl/live/SHf6GLCpn4hDSpWdzaDzgX0ciU82/index.m3u8

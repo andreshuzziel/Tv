@@ -1,17 +1,17 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="comedycentrallatinamerica-us-panregional" tvg-name="Comedy Central Latin America" tvg-chno="317" tvg-country="US" group-title="Comedia",Comedy Central Latin America
+#EXTINF:-1 tvg-id="comedycentrallatinamerica-us-panregional" tvg-name="Comedy Central Latin America" tvg-chno="344" tvg-country="US" group-title="Comedia",Comedy Central Latin America
 https://barinaslive1.boldmss.com/COMEDY/COMEDY.isml/COMEDY.m3u8
-#EXTINF:-1 tvg-id="afvespanol-us-sd" tvg-name="AFV Espanol" tvg-chno="444" tvg-country="US" group-title="Comedia",AFV Espanol
+#EXTINF:-1 tvg-id="afvespanol-us-sd" tvg-name="AFV Espanol" tvg-chno="471" tvg-country="US" group-title="Comedia",AFV Espanol
 https://linear-46.frequency.stream/dist/plex/46/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-id="comediaalobestiadeplutotv-de-es" tvg-name="Comedia a lo bestia de Pluto TV" tvg-chno="445" tvg-country="DE" group-title="Comedia",Comedia a lo bestia de Pluto TV
+#EXTINF:-1 tvg-id="comediaalobestiadeplutotv-de-es" tvg-name="Comedia a lo bestia de Pluto TV" tvg-chno="472" tvg-country="DE" group-title="Comedia",Comedia a lo bestia de Pluto TV
 https://jmp2.uk/plu-68de3db35fc0afe85de0b843.m3u8
-#EXTINF:-1 tvg-id="comedycentralenespanol-us-sd" tvg-name="Comedy Central en Espanol" tvg-chno="446" tvg-country="US" group-title="Comedia",Comedy Central en Espanol
+#EXTINF:-1 tvg-id="comedycentralenespanol-us-sd" tvg-name="Comedy Central en Espanol" tvg-chno="473" tvg-country="US" group-title="Comedia",Comedy Central en Espanol
 https://jmp2.uk/plu-5cf96dad1652631e36d43320.m3u8
-#EXTINF:-1 tvg-id="comedycentralplutotv-us-latam" tvg-name="Comedy Central Pluto TV LatAm" tvg-chno="447" tvg-country="US" group-title="Comedia",Comedy Central Pluto TV LatAm
+#EXTINF:-1 tvg-id="comedycentralplutotv-us-latam" tvg-name="Comedy Central Pluto TV LatAm" tvg-chno="474" tvg-country="US" group-title="Comedia",Comedy Central Pluto TV LatAm
 https://jmp2.uk/plu-5ffcc21a432945000762d06b.m3u8
-#EXTINF:-1 tvg-id="daria-us-latam" tvg-name="Daria" tvg-chno="448" tvg-country="US" group-title="Comedia",Daria
+#EXTINF:-1 tvg-id="daria-us-latam" tvg-name="Daria" tvg-chno="475" tvg-country="US" group-title="Comedia",Daria
 https://jmp2.uk/plu-62d0895ebe7a970008785244.m3u8
-#EXTINF:-1 tvg-id="plutotvcomediamadeinspain-de-es" tvg-name="Pluto TV Comedia made in Spain" tvg-chno="449" tvg-country="DE" group-title="Comedia",Pluto TV Comedia made in Spain
+#EXTINF:-1 tvg-id="plutotvcomediamadeinspain-de-es" tvg-name="Pluto TV Comedia made in Spain" tvg-chno="476" tvg-country="DE" group-title="Comedia",Pluto TV Comedia made in Spain
 https://jmp2.uk/plu-5f1abce155a03d0007718834.m3u8
-#EXTINF:-1 tvg-id="vayasemanita-us-spain" tvg-name="Vaya semanita" tvg-chno="450" tvg-country="US" group-title="Comedia",Vaya semanita
+#EXTINF:-1 tvg-id="vayasemanita-us-spain" tvg-name="Vaya semanita" tvg-chno="477" tvg-country="US" group-title="Comedia",Vaya semanita
 https://jmp2.uk/plu-5f28009b150b2500077766b8.m3u8

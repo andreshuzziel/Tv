@@ -6,25 +6,25 @@ Cada canal lleva su número en `tvg-chno` dentro de `playlists/tv-chile-todo.m3u
 
 ## 🗂️ Esquema de numeración (rangos por bloque temático)
 
-- **#1–#23** · 📺 Señal abierta nacional de Chile
-- **#100+** · 📰 Noticias
-- **#201+** · ⚽ Deportes (legales/FAST)
-- **#301+** · 🎬 Entretenimiento y series
-- **#401+** · 🧸 Infantil y animación
-- **#501+** · ⛩️ Anime y doramas
-- **#601+** · 🎓 Cultura, educación y documentales
-- **#701+** · 🎵 Música y radios
-- **#1001+** · 📻 Radios en video
-- **#1101+** · 🌿 Estilo de vida y viajes
-- **#1201+** · 🏛️ Gobierno y Congreso de Chile (solo 🇨🇱)
-- **#1301+** · ⛪ Religiosos
-- **#1501+** · 🤝 Comunitarios
-- **#1601+** · 🌐 Internacionales
-- **#1701+** · 🌐 Servicios OTT gratis (enlaces)
-- **#1801+** · 📡 Generalistas (resto)
-- **#3501+** · 📍 Regiones de Chile (norte→sur)
+- **#1–#100** · 📺 Señal abierta nacional de Chile
+- **#101–#200** · 📰 Noticias
+- **#201–#300** · ⚽ Deportes (legales/FAST)
+- **#301–#400** · 🎬 Entretenimiento y series
+- **#401–#500** · 🧸 Infantil y animación
+- **#501–#600** · ⛩️ Anime y doramas
+- **#601–#700** · 🎓 Cultura, educación y documentales
+- **#701–#1000** · 🎵 Música y radios
+- **#1001–#1100** · 📻 Radios en video
+- **#1101–#1200** · 🌿 Estilo de vida y viajes
+- **#1201–#1300** · 🏛️ Gobierno y Congreso de Chile (solo 🇨🇱)
+- **#1301–#1500** · ⛪ Religiosos
+- **#1501–#1600** · 🤝 Comunitarios
+- **#1601–#1700** · 🌐 Internacionales
+- **#1701–#1800** · 🌐 Servicios OTT gratis (enlaces)
+- **#1801–#3500** · 📡 Generalistas (resto)
+- **#3501–#3800** · 📍 Regiones de Chile (norte→sur)
 
-Cada bloque arranca en el número indicado y dentro de él los canales van en **# ascendente** (orden cronológico).
+Cada bloque arranca en el número indicado y dentro de él los canales van en **# ascendente**; si un bloque tiene más canales que el ancho declarado, el siguiente arranca después del último usado (sin repetir números).
 
 ## 🔢 Lista completa ordenada por temática (dentro de cada tema: # ascendente)
 
@@ -60,155 +60,155 @@ Cada bloque arranca en el número indicado y dentro de él los canales van en **
 
 | # | Bandera | Canal | Grupo | Región/País |
 |---:|---|---|---|---|
-| 100 | 🇨🇱 | ADN TV | Noticias | Nacional |
-| 101 | 🇨🇱 | Agricultura TV | Noticias | Nacional |
-| 102 | 🇨🇱 | Atacama Noticias | Noticias | Nacional |
-| 103 | 🇨🇱 | CHV Noticias | Noticias | Nacional |
-| 104 | 🇨🇱 | Cooperativa TV | Noticias | Nacional |
-| 105 | 🇨🇱 | El Centro TV | Noticias | Nacional |
-| 106 | 🇨🇱 | El Pinguino TV | Noticias | Nacional |
-| 107 | 🇨🇱 | Meganoticias | Noticias | Nacional |
-| 108 | 🇨🇱 | Meganoticias Ahora | Noticias | Nacional |
-| 109 | 🇨🇱 | Opinionsur | Noticias | Nacional |
-| 110 | 🇨🇱 | Puranoticia | Noticias | Nacional |
-| 111 | 🇨🇱 | Puranoticia TV | Noticias | Nacional |
-| 112 | 🇨🇱 | T13 | Noticias | Nacional |
-| 113 | 🇨🇱 | T13 En Vivo | Noticias | Nacional |
-| 114 | 🇨🇱 | TeleCauquenes | Noticias | Nacional |
-| 115 | 🇨🇱 | Turno | Noticias | Nacional |
-| 116 | 🇨🇱 | TVN 24 Horas | Noticias | Nacional |
-| 117 | 🇪🇸 | 101tv Malaga | Noticias | Español (Latam/ES) |
-| 118 | 🇪🇸 | 24 Horas — *(solo web: sitio oficial)* | Noticias | Español (Latam/ES) |
-| 119 | 🇪🇸 | 24 Horas Catalunya | Noticias | Español (Latam/ES) |
-| 120 | 🇦🇷 | 24/7 Canal de Noticias | Noticias | Español (Latam/ES) |
-| 121 | 🇵🇾 | 4Dmas Noticias TV | Noticias | Español (Latam/ES) |
-| 122 | 🇺🇸 | ABC News Live | Noticias | Español (Latam/ES) |
-| 123 | 🇩🇴 | Acento TV | Noticias | Español (Latam/ES) |
-| 124 | 🇪🇸 | Actualidad 360 | Noticias | Español (Latam/ES) |
-| 125 | 🇲🇽 | Acustik TV | Noticias | Español (Latam/ES) |
-| 126 | 🇲🇽 | ADN 40 | Noticias | Español (Latam/ES) |
-| 127 | 🇪🇸 | Aire de Santa Fe (Santa Fe) | Noticias | Español (Latam/ES) |
-| 128 | 🇶🇦 | Al Jazeera English | Noticias | Español (Latam/ES) |
-| 129 | 🇲🇽 | AMX Noticias | Noticias | Español (Latam/ES) |
-| 130 | 🇰🇷 | Arirang UN | Noticias | Español (Latam/ES) |
-| 131 | 🇸🇪 | Aznews TV | Noticias | Español (Latam/ES) |
-| 132 | 🇭🇳 | Buendia TV | Noticias | Español (Latam/ES) |
-| 133 | 🇵🇾 | C9N | Noticias | Español (Latam/ES) |
-| 134 | 🇪🇸 | Canal 2000 La Solana HD (Ciudad Real - Castilla-La Mancha) | Noticias | Español (Latam/ES) |
-| 135 | 🇪🇸 | Canal 22 (Argentina - Nacional) | Noticias | Español (Latam/ES) |
-| 136 | 🇦🇷 | Canal 26 (Argentina) | Noticias | Español (Latam/ES) |
-| 137 | 🇪🇸 | Canal 28 Nuevo León [No 24/7] (Monterrey) | Noticias | Español (Latam/ES) |
-| 138 | 🇨🇺 | Canal Caribe | Noticias | Español (Latam/ES) |
-| 139 | 🇪🇸 | Canal Catorce SPR (Nacional) | Noticias | Español (Latam/ES) |
-| 140 | 🇻🇪 | Canal I | Noticias | Español (Latam/ES) |
-| 141 | 🇨🇴 | Canal PyC | Noticias | Español (Latam/ES) |
-| 142 | 🇪🇸 | Canal Sur Noticias | Noticias | Español (Latam/ES) |
-| 143 | 🇦🇷 | Canal TDC | Noticias | Español (Latam/ES) |
-| 144 | 🇩🇴 | Carivision | Noticias | Español (Latam/ES) |
-| 145 | 🇳🇮 | CDNN 23 | Noticias | Español (Latam/ES) |
-| 146 | 🇨🇳 | CGTN | Noticias | Español (Latam/ES) |
-| 147 | 🇨🇳 | CGTN French | Noticias | Español (Latam/ES) |
-| 148 | 🇨🇳 | CGTN Spanish | Noticias | Español (Latam/ES) |
-| 149 | 🇩🇴 | Citrico TV | Noticias | Español (Latam/ES) |
-| 150 | 🇵🇪 | Conecta2TV | Noticias | Español (Latam/ES) |
-| 151 | 🇩🇴 | De Ultimo Minuto TV | Noticias | Español (Latam/ES) |
-| 152 | 🇩🇪 | DW Espanol | Noticias | Español (Latam/ES) |
-| 153 | 🇪🇸 | DW Español (Alemania / Internacional) | Noticias | Español (Latam/ES) |
-| 154 | 🇪🇨 | Ecotel TV | Noticias | Español (Latam/ES) |
-| 155 | 🇪🇨 | Ecuavisa | Noticias | Español (Latam/ES) |
-| 156 | 🇪🇨 | Ecuavisa — *(solo web: https://www.ecuavisa.com/envivo)* | Noticias | Español (Latam/ES) |
-| 157 | 🇩🇴 | El Nuevo Diario TV | Noticias | Español (Latam/ES) |
-| 158 | 🇹🇳 | Elyssa TV | Noticias | Español (Latam/ES) |
-| 159 | 🇪🇸 | English TV (USA / Internacional) | Noticias | Español (Latam/ES) |
-| 160 | 🇺🇸 | Estrella News | Noticias | Español (Latam/ES) |
-| 161 | 🇫🇷 | Euronews English | Noticias | Español (Latam/ES) |
-| 162 | 🇫🇷 | Euronews English HD | Noticias | Español (Latam/ES) |
-| 163 | 🇫🇷 | Euronews Spanish | Noticias | Español (Latam/ES) |
-| 164 | 🇪🇸 | Exitosa TV (Perú - Nacional) | Noticias | Español (Latam/ES) |
-| 165 | 🇫🇷 | France 24 | Noticias | Español (Latam/ES) |
-| 166 | 🇫🇷 | France 24 English | Noticias | Español (Latam/ES) |
-| 167 | 🇫🇷 | France 24 Spanish | Noticias | Español (Latam/ES) |
-| 168 | 🇪🇸 | FTV Fuengirola (Málaga - Andalucía) | Noticias | Español (Latam/ES) |
-| 169 | 🇭🇳 | HCH | Noticias | Español (Latam/ES) |
-| 170 | 🇩🇴 | Hermanas Mirabal TV | Noticias | Español (Latam/ES) |
-| 171 | 🇮🇷 | Hispan TV | Noticias | Español (Latam/ES) |
-| 172 | 🇮🇱 | i24NEWS English World | Noticias | Español (Latam/ES) |
-| 173 | 🇭🇳 | ICN Digital | Noticias | Español (Latam/ES) |
-| 174 | 🇵🇪 | Latina Noticias 24/7 | Noticias | Español (Latam/ES) |
-| 175 | 🇨🇩 | Le Monde en 24h | Noticias | Español (Latam/ES) |
-| 176 | 🇭🇳 | Lenca TV | Noticias | Español (Latam/ES) |
-| 177 | 🇩🇴 | Linieros TV | Noticias | Español (Latam/ES) |
-| 178 | 🇪🇸 | M95 Television Marbella | Noticias | Español (Latam/ES) |
-| 179 | 🇪🇨 | Mario Pinto TV | Noticias | Español (Latam/ES) |
-| 180 | 🇭🇳 | Mas Noticias Television | Noticias | Español (Latam/ES) |
-| 181 | 🇭🇳 | Maya TV | Noticias | Español (Latam/ES) |
-| 182 | 🇵🇾 | Mega TV (Paraguay) | Noticias | Español (Latam/ES) |
-| 183 | 🇦🇷 | Mercurio Noticias | Noticias | Español (Latam/ES) |
-| 184 | 🇲🇽 | Milenio Television | Noticias | Español (Latam/ES) |
-| 185 | 🇪🇸 | Mirame TV | Noticias | Español (Latam/ES) |
-| 186 | 🇨🇴 | Momento24 | Noticias | Español (Latam/ES) |
-| 187 | 🇦🇷 | Multivision Federal | Noticias | Español (Latam/ES) |
-| 188 | 🇪🇸 | N+ (Nacional) | Noticias | Español (Latam/ES) |
-| 189 | 🇪🇸 | N+ Foro (Televisa) (Nacional) | Noticias | Español (Latam/ES) |
-| 190 | 🇪🇸 | N+ Guadalajara (Jalisco) | Noticias | Español (Latam/ES) |
-| 191 | 🇪🇸 | N+ Monterrey (Nuevo León) | Noticias | Español (Latam/ES) |
-| 192 | 🇵🇾 | Nanduti | Noticias | Español (Latam/ES) |
-| 193 | 🇦🇷 | Net TV | Noticias | Español (Latam/ES) |
-| 194 | 🇦🇷 | Net TV — *(solo web: https://www.canalnet.tv/page/senal-en-vivo)* | Noticias | Español (Latam/ES) |
+| 101 | 🇨🇱 | ADN TV | Noticias | Nacional |
+| 102 | 🇨🇱 | Agricultura TV | Noticias | Nacional |
+| 103 | 🇨🇱 | Atacama Noticias | Noticias | Nacional |
+| 104 | 🇨🇱 | CHV Noticias | Noticias | Nacional |
+| 105 | 🇨🇱 | Cooperativa TV | Noticias | Nacional |
+| 106 | 🇨🇱 | El Centro TV | Noticias | Nacional |
+| 107 | 🇨🇱 | El Pinguino TV | Noticias | Nacional |
+| 108 | 🇨🇱 | Meganoticias | Noticias | Nacional |
+| 109 | 🇨🇱 | Meganoticias Ahora | Noticias | Nacional |
+| 110 | 🇨🇱 | Opinionsur | Noticias | Nacional |
+| 111 | 🇨🇱 | Puranoticia | Noticias | Nacional |
+| 112 | 🇨🇱 | Puranoticia TV | Noticias | Nacional |
+| 113 | 🇨🇱 | T13 | Noticias | Nacional |
+| 114 | 🇨🇱 | T13 En Vivo | Noticias | Nacional |
+| 115 | 🇨🇱 | TeleCauquenes | Noticias | Nacional |
+| 116 | 🇨🇱 | Turno | Noticias | Nacional |
+| 117 | 🇨🇱 | TVN 24 Horas | Noticias | Nacional |
+| 118 | 🇪🇸 | 101tv Malaga | Noticias | Español (Latam/ES) |
+| 119 | 🇪🇸 | 24 Horas — *(solo web: sitio oficial)* | Noticias | Español (Latam/ES) |
+| 120 | 🇪🇸 | 24 Horas Catalunya | Noticias | Español (Latam/ES) |
+| 121 | 🇦🇷 | 24/7 Canal de Noticias | Noticias | Español (Latam/ES) |
+| 122 | 🇵🇾 | 4Dmas Noticias TV | Noticias | Español (Latam/ES) |
+| 123 | 🇺🇸 | ABC News Live | Noticias | Español (Latam/ES) |
+| 124 | 🇩🇴 | Acento TV | Noticias | Español (Latam/ES) |
+| 125 | 🇪🇸 | Actualidad 360 | Noticias | Español (Latam/ES) |
+| 126 | 🇲🇽 | Acustik TV | Noticias | Español (Latam/ES) |
+| 127 | 🇲🇽 | ADN 40 | Noticias | Español (Latam/ES) |
+| 128 | 🇪🇸 | Aire de Santa Fe (Santa Fe) | Noticias | Español (Latam/ES) |
+| 129 | 🇶🇦 | Al Jazeera English | Noticias | Español (Latam/ES) |
+| 130 | 🇲🇽 | AMX Noticias | Noticias | Español (Latam/ES) |
+| 131 | 🇰🇷 | Arirang UN | Noticias | Español (Latam/ES) |
+| 132 | 🇸🇪 | Aznews TV | Noticias | Español (Latam/ES) |
+| 133 | 🇭🇳 | Buendia TV | Noticias | Español (Latam/ES) |
+| 134 | 🇵🇾 | C9N | Noticias | Español (Latam/ES) |
+| 135 | 🇪🇸 | Canal 2000 La Solana HD (Ciudad Real - Castilla-La Mancha) | Noticias | Español (Latam/ES) |
+| 136 | 🇪🇸 | Canal 22 (Argentina - Nacional) | Noticias | Español (Latam/ES) |
+| 137 | 🇦🇷 | Canal 26 (Argentina) | Noticias | Español (Latam/ES) |
+| 138 | 🇪🇸 | Canal 28 Nuevo León [No 24/7] (Monterrey) | Noticias | Español (Latam/ES) |
+| 139 | 🇨🇺 | Canal Caribe | Noticias | Español (Latam/ES) |
+| 140 | 🇪🇸 | Canal Catorce SPR (Nacional) | Noticias | Español (Latam/ES) |
+| 141 | 🇻🇪 | Canal I | Noticias | Español (Latam/ES) |
+| 142 | 🇨🇴 | Canal PyC | Noticias | Español (Latam/ES) |
+| 143 | 🇪🇸 | Canal Sur Noticias | Noticias | Español (Latam/ES) |
+| 144 | 🇦🇷 | Canal TDC | Noticias | Español (Latam/ES) |
+| 145 | 🇩🇴 | Carivision | Noticias | Español (Latam/ES) |
+| 146 | 🇳🇮 | CDNN 23 | Noticias | Español (Latam/ES) |
+| 147 | 🇨🇳 | CGTN | Noticias | Español (Latam/ES) |
+| 148 | 🇨🇳 | CGTN French | Noticias | Español (Latam/ES) |
+| 149 | 🇨🇳 | CGTN Spanish | Noticias | Español (Latam/ES) |
+| 150 | 🇩🇴 | Citrico TV | Noticias | Español (Latam/ES) |
+| 151 | 🇵🇪 | Conecta2TV | Noticias | Español (Latam/ES) |
+| 152 | 🇩🇴 | De Ultimo Minuto TV | Noticias | Español (Latam/ES) |
+| 153 | 🇩🇪 | DW Espanol | Noticias | Español (Latam/ES) |
+| 154 | 🇪🇸 | DW Español (Alemania / Internacional) | Noticias | Español (Latam/ES) |
+| 155 | 🇪🇨 | Ecotel TV | Noticias | Español (Latam/ES) |
+| 156 | 🇪🇨 | Ecuavisa | Noticias | Español (Latam/ES) |
+| 157 | 🇪🇨 | Ecuavisa — *(solo web: https://www.ecuavisa.com/envivo)* | Noticias | Español (Latam/ES) |
+| 158 | 🇩🇴 | El Nuevo Diario TV | Noticias | Español (Latam/ES) |
+| 159 | 🇹🇳 | Elyssa TV | Noticias | Español (Latam/ES) |
+| 160 | 🇪🇸 | English TV (USA / Internacional) | Noticias | Español (Latam/ES) |
+| 161 | 🇺🇸 | Estrella News | Noticias | Español (Latam/ES) |
+| 162 | 🇫🇷 | Euronews English | Noticias | Español (Latam/ES) |
+| 163 | 🇫🇷 | Euronews English HD | Noticias | Español (Latam/ES) |
+| 164 | 🇫🇷 | Euronews Spanish | Noticias | Español (Latam/ES) |
+| 165 | 🇪🇸 | Exitosa TV (Perú - Nacional) | Noticias | Español (Latam/ES) |
+| 166 | 🇫🇷 | France 24 | Noticias | Español (Latam/ES) |
+| 167 | 🇫🇷 | France 24 English | Noticias | Español (Latam/ES) |
+| 168 | 🇫🇷 | France 24 Spanish | Noticias | Español (Latam/ES) |
+| 169 | 🇪🇸 | FTV Fuengirola (Málaga - Andalucía) | Noticias | Español (Latam/ES) |
+| 170 | 🇭🇳 | HCH | Noticias | Español (Latam/ES) |
+| 171 | 🇩🇴 | Hermanas Mirabal TV | Noticias | Español (Latam/ES) |
+| 172 | 🇮🇷 | Hispan TV | Noticias | Español (Latam/ES) |
+| 173 | 🇮🇱 | i24NEWS English World | Noticias | Español (Latam/ES) |
+| 174 | 🇭🇳 | ICN Digital | Noticias | Español (Latam/ES) |
+| 175 | 🇵🇪 | Latina Noticias 24/7 | Noticias | Español (Latam/ES) |
+| 176 | 🇨🇩 | Le Monde en 24h | Noticias | Español (Latam/ES) |
+| 177 | 🇭🇳 | Lenca TV | Noticias | Español (Latam/ES) |
+| 178 | 🇩🇴 | Linieros TV | Noticias | Español (Latam/ES) |
+| 179 | 🇪🇸 | M95 Television Marbella | Noticias | Español (Latam/ES) |
+| 180 | 🇪🇨 | Mario Pinto TV | Noticias | Español (Latam/ES) |
+| 181 | 🇭🇳 | Mas Noticias Television | Noticias | Español (Latam/ES) |
+| 182 | 🇭🇳 | Maya TV | Noticias | Español (Latam/ES) |
+| 183 | 🇵🇾 | Mega TV (Paraguay) | Noticias | Español (Latam/ES) |
+| 184 | 🇦🇷 | Mercurio Noticias | Noticias | Español (Latam/ES) |
+| 185 | 🇲🇽 | Milenio Television | Noticias | Español (Latam/ES) |
+| 186 | 🇪🇸 | Mirame TV | Noticias | Español (Latam/ES) |
+| 187 | 🇨🇴 | Momento24 | Noticias | Español (Latam/ES) |
+| 188 | 🇦🇷 | Multivision Federal | Noticias | Español (Latam/ES) |
+| 189 | 🇪🇸 | N+ (Nacional) | Noticias | Español (Latam/ES) |
+| 190 | 🇪🇸 | N+ Foro (Televisa) (Nacional) | Noticias | Español (Latam/ES) |
+| 191 | 🇪🇸 | N+ Guadalajara (Jalisco) | Noticias | Español (Latam/ES) |
+| 192 | 🇪🇸 | N+ Monterrey (Nuevo León) | Noticias | Español (Latam/ES) |
+| 193 | 🇵🇾 | Nanduti | Noticias | Español (Latam/ES) |
+| 194 | 🇦🇷 | Net TV | Noticias | Español (Latam/ES) |
 | 195 | 🇦🇷 | Net TV — *(solo web: https://www.canalnet.tv/page/senal-en-vivo)* | Noticias | Español (Latam/ES) |
 | 196 | 🇦🇷 | Net TV — *(solo web: https://www.canalnet.tv/page/senal-en-vivo)* | Noticias | Español (Latam/ES) |
-| 197 | 🇺🇸 | News of the World | Noticias | Español (Latam/ES) |
-| 198 | 🇺🇸 | News of the World Spanish | Noticias | Español (Latam/ES) |
-| 199 | 🇺🇸 | Newsmax Spanish | Noticias | Español (Latam/ES) |
-| 200 | 🇪🇸 | NG Federal TV (Resistencia - Chaco) | Noticias | Español (Latam/ES) |
-| 201 | 🇨🇷 | Norte Informativo TV | Noticias | Español (Latam/ES) |
-| 202 | 🇩🇴 | Noticias 16 | Noticias | Español (Latam/ES) |
-| 203 | 🇨🇴 | Noticias RCN | Noticias | Español (Latam/ES) |
-| 204 | 🇨🇴 | Noticiero 90 Minutos | Noticias | Español (Latam/ES) |
-| 205 | 🇵🇾 | NPY | Noticias | Español (Latam/ES) |
-| 206 | 🇨🇴 | NTN24 | Noticias | Español (Latam/ES) |
-| 207 | 🇵🇦 | Plus TV (Panama) | Noticias | Español (Latam/ES) |
-| 208 | 🇨🇺 | Prensa Latina TV | Noticias | Español (Latam/ES) |
-| 209 | 🇲🇽 | PSN Canal 45.2 | Noticias | Español (Latam/ES) |
-| 210 | 🇵🇪 | Qosqo Times | Noticias | Español (Latam/ES) |
-| 211 | 🇦🇷 | Quantica TV | Noticias | Español (Latam/ES) |
-| 212 | 🇵🇦 | Radio Ancon | Noticias | Español (Latam/ES) |
-| 213 | 🇵🇷 | Radio Isla TV | Noticias | Español (Latam/ES) |
-| 214 | 🇵🇪 | Radio Uno Tacna | Noticias | Español (Latam/ES) |
-| 215 | 🇭🇳 | RCV TV | Noticias | Español (Latam/ES) |
-| 216 | 🇩🇴 | RDN | Noticias | Español (Latam/ES) |
-| 217 | 🇩🇴 | RNN | Noticias | Español (Latam/ES) |
-| 218 | 🇩🇴 | RNN DOS | Noticias | Español (Latam/ES) |
-| 219 | 🇪🇸 | RPP TV (Perú - Nacional) | Noticias | Español (Latam/ES) |
-| 220 | 🇵🇪 | RSelvaTV | Noticias | Español (Latam/ES) |
-| 221 | 🇪🇸 | RT Noticias | Noticias | Español (Latam/ES) |
-| 222 | 🇪🇸 | RT Noticias — *(solo web: sitio oficial)* | Noticias | Español (Latam/ES) |
-| 223 | 🇪🇸 | San Luis + (San Luis) | Noticias | Español (Latam/ES) |
-| 224 | 🇺🇸 | SC Currents | Noticias | Español (Latam/ES) |
-| 225 | 🇵🇾 | Suceso TV | Noticias | Español (Latam/ES) |
-| 226 | 🇩🇴 | Telenews TV | Noticias | Español (Latam/ES) |
-| 227 | 🇪🇸 | Telesur (Latinoamérica) | Noticias | Español (Latam/ES) |
-| 228 | 🇻🇪 | Telesur English | Noticias | Español (Latam/ES) |
-| 229 | 🇻🇪 | Telesur English HD | Noticias | Español (Latam/ES) |
-| 230 | 🇻🇪 | Telesur HD | Noticias | Español (Latam/ES) |
-| 231 | 🇩🇴 | Television del Este | Noticias | Español (Latam/ES) |
-| 232 | 🇬🇹 | TN23 | Noticias | Español (Latam/ES) |
-| 233 | 🇮🇳 | TOI Global | Noticias | Español (Latam/ES) |
-| 234 | 🇸🇻 | Tribuna TV | Noticias | Español (Latam/ES) |
-| 235 | 🇹🇷 | TRT World | Noticias | Español (Latam/ES) |
-| 236 | 🇹🇷 | TRT World HD | Noticias | Español (Latam/ES) |
-| 237 | 🇩🇴 | TVN24 | Noticias | Español (Latam/ES) |
-| 238 | 🇪🇸 | TVP Ciudad Obregón (Sonora) | Noticias | Español (Latam/ES) |
-| 239 | 🇪🇸 | TVP Culiacán (Sinaloa) | Noticias | Español (Latam/ES) |
-| 240 | 🇪🇸 | TVP Los Mochis (Sinaloa) | Noticias | Español (Latam/ES) |
-| 241 | 🇪🇸 | TVP Mazatlán (Sinaloa) | Noticias | Español (Latam/ES) |
-| 242 | 🇪🇸 | TVPE Noticias (Perú) | Noticias | Español (Latam/ES) |
-| 243 | 🇪🇸 | UMSA TVU LP (La Paz) | Noticias | Español (Latam/ES) |
-| 244 | 🇺🇸 | UN Web TV | Noticias | Español (Latam/ES) |
-| 245 | 🇭🇳 | UNE TV | Noticias | Español (Latam/ES) |
-| 246 | 🇪🇸 | Venevision Noticias (Venezuela) | Noticias | Español (Latam/ES) |
-| 247 | 🇦🇷 | VIVE TV | Noticias | Español (Latam/ES) |
-| 248 | 🇵🇪 | VNP | Noticias | Español (Latam/ES) |
+| 197 | 🇦🇷 | Net TV — *(solo web: https://www.canalnet.tv/page/senal-en-vivo)* | Noticias | Español (Latam/ES) |
+| 198 | 🇺🇸 | News of the World | Noticias | Español (Latam/ES) |
+| 199 | 🇺🇸 | News of the World Spanish | Noticias | Español (Latam/ES) |
+| 200 | 🇺🇸 | Newsmax Spanish | Noticias | Español (Latam/ES) |
+| 201 | 🇪🇸 | NG Federal TV (Resistencia - Chaco) | Noticias | Español (Latam/ES) |
+| 202 | 🇨🇷 | Norte Informativo TV | Noticias | Español (Latam/ES) |
+| 203 | 🇩🇴 | Noticias 16 | Noticias | Español (Latam/ES) |
+| 204 | 🇨🇴 | Noticias RCN | Noticias | Español (Latam/ES) |
+| 205 | 🇨🇴 | Noticiero 90 Minutos | Noticias | Español (Latam/ES) |
+| 206 | 🇵🇾 | NPY | Noticias | Español (Latam/ES) |
+| 207 | 🇨🇴 | NTN24 | Noticias | Español (Latam/ES) |
+| 208 | 🇵🇦 | Plus TV (Panama) | Noticias | Español (Latam/ES) |
+| 209 | 🇨🇺 | Prensa Latina TV | Noticias | Español (Latam/ES) |
+| 210 | 🇲🇽 | PSN Canal 45.2 | Noticias | Español (Latam/ES) |
+| 211 | 🇵🇪 | Qosqo Times | Noticias | Español (Latam/ES) |
+| 212 | 🇦🇷 | Quantica TV | Noticias | Español (Latam/ES) |
+| 213 | 🇵🇦 | Radio Ancon | Noticias | Español (Latam/ES) |
+| 214 | 🇵🇷 | Radio Isla TV | Noticias | Español (Latam/ES) |
+| 215 | 🇵🇪 | Radio Uno Tacna | Noticias | Español (Latam/ES) |
+| 216 | 🇭🇳 | RCV TV | Noticias | Español (Latam/ES) |
+| 217 | 🇩🇴 | RDN | Noticias | Español (Latam/ES) |
+| 218 | 🇩🇴 | RNN | Noticias | Español (Latam/ES) |
+| 219 | 🇩🇴 | RNN DOS | Noticias | Español (Latam/ES) |
+| 220 | 🇪🇸 | RPP TV (Perú - Nacional) | Noticias | Español (Latam/ES) |
+| 221 | 🇵🇪 | RSelvaTV | Noticias | Español (Latam/ES) |
+| 222 | 🇪🇸 | RT Noticias | Noticias | Español (Latam/ES) |
+| 223 | 🇪🇸 | RT Noticias — *(solo web: sitio oficial)* | Noticias | Español (Latam/ES) |
+| 224 | 🇪🇸 | San Luis + (San Luis) | Noticias | Español (Latam/ES) |
+| 225 | 🇺🇸 | SC Currents | Noticias | Español (Latam/ES) |
+| 226 | 🇵🇾 | Suceso TV | Noticias | Español (Latam/ES) |
+| 227 | 🇩🇴 | Telenews TV | Noticias | Español (Latam/ES) |
+| 228 | 🇪🇸 | Telesur (Latinoamérica) | Noticias | Español (Latam/ES) |
+| 229 | 🇻🇪 | Telesur English | Noticias | Español (Latam/ES) |
+| 230 | 🇻🇪 | Telesur English HD | Noticias | Español (Latam/ES) |
+| 231 | 🇻🇪 | Telesur HD | Noticias | Español (Latam/ES) |
+| 232 | 🇩🇴 | Television del Este | Noticias | Español (Latam/ES) |
+| 233 | 🇬🇹 | TN23 | Noticias | Español (Latam/ES) |
+| 234 | 🇮🇳 | TOI Global | Noticias | Español (Latam/ES) |
+| 235 | 🇸🇻 | Tribuna TV | Noticias | Español (Latam/ES) |
+| 236 | 🇹🇷 | TRT World | Noticias | Español (Latam/ES) |
+| 237 | 🇹🇷 | TRT World HD | Noticias | Español (Latam/ES) |
+| 238 | 🇩🇴 | TVN24 | Noticias | Español (Latam/ES) |
+| 239 | 🇪🇸 | TVP Ciudad Obregón (Sonora) | Noticias | Español (Latam/ES) |
+| 240 | 🇪🇸 | TVP Culiacán (Sinaloa) | Noticias | Español (Latam/ES) |
+| 241 | 🇪🇸 | TVP Los Mochis (Sinaloa) | Noticias | Español (Latam/ES) |
+| 242 | 🇪🇸 | TVP Mazatlán (Sinaloa) | Noticias | Español (Latam/ES) |
+| 243 | 🇪🇸 | TVPE Noticias (Perú) | Noticias | Español (Latam/ES) |
+| 244 | 🇪🇸 | UMSA TVU LP (La Paz) | Noticias | Español (Latam/ES) |
+| 245 | 🇺🇸 | UN Web TV | Noticias | Español (Latam/ES) |
+| 246 | 🇭🇳 | UNE TV | Noticias | Español (Latam/ES) |
+| 247 | 🇪🇸 | Venevision Noticias (Venezuela) | Noticias | Español (Latam/ES) |
+| 248 | 🇦🇷 | VIVE TV | Noticias | Español (Latam/ES) |
+| 249 | 🇵🇪 | VNP | Noticias | Español (Latam/ES) |
 
 ### 📍 Regiones de Chile (norte → sur) — 259 canales
 
@@ -478,366 +478,366 @@ Cada bloque arranca en el número indicado y dentro de él los canales van en **
 
 | # | Bandera | Canal | Grupo | Región/País |
 |---:|---|---|---|---|
-| 201 | 🇨🇱 | 13 go | Deportes | Nacional |
-| 202 | 🇨🇱 | CHV Deportes | Deportes | Nacional |
-| 203 | 🇨🇱 | CRTV | Deportes | Nacional |
-| 204 | 🇨🇱 | CRTV (Chile) | Deportes | Nacional |
-| 205 | 🇨🇱 | D13 | Deportes | Nacional |
-| 206 | 🇨🇱 | FutGO | Deportes | Nacional |
-| 207 | 🇨🇱 | Teletrak | Deportes | Nacional |
-| 208 | 🇨🇱 | Turf Movil | Deportes | Nacional |
-| 209 | 🇨🇱 | TV Turf | Deportes | Nacional |
-| 210 | 🇻🇪 | AS3 Sport TV | Deportes | Español (Latam/ES) |
-| 211 | 🇸🇻 | Awapa Sports TV | Deportes | Español (Latam/ES) |
-| 212 | 🇪🇸 | Azteca Deportes Network 3 HD | Deportes | Español (Latam/ES) |
-| 213 | 🇪🇸 | Barca TV | Deportes | Español (Latam/ES) |
-| 214 | 🇪🇸 | Box Gamers (España) | Deportes | Español (Latam/ES) |
-| 215 | 🇦🇷 | Canal Showsport | Deportes | Español (Latam/ES) |
-| 216 | 🇪🇸 | CazéTV (BR) | Deportes | Español (Latam/ES) |
-| 217 | 🇩🇴 | CDN Deportes | Deportes | Español (Latam/ES) |
-| 218 | 🇩🇴 | Colimdo TV | Deportes | Español (Latam/ES) |
-| 219 | 🇪🇸 | CombaTV (Internacional) | Deportes | Español (Latam/ES) |
-| 220 | 🇪🇸 | Deportes13 (Chile) | Deportes | Español (Latam/ES) |
-| 221 | 🇺🇰 | FIFA+ Hispanic America | Deportes | Español (Latam/ES) |
-| 222 | 🇺🇰 | FIFA+ Spain | Deportes | Español (Latam/ES) |
-| 223 | 🇺🇰 | FIFA+ United States | Deportes | Español (Latam/ES) |
-| 224 | 🇲🇽 | FITE 24/7 | Deportes | Español (Latam/ES) |
-| 225 | 🇺🇸 | FloHockey | Deportes | Español (Latam/ES) |
-| 226 | 🇺🇸 | FloRacing | Deportes | Español (Latam/ES) |
-| 227 | 🇧🇴 | FTV (Bolivia) | Deportes | Español (Latam/ES) |
-| 228 | 🇪🇸 | FUEL TV (Internacional) [SUB] | Deportes | Español (Latam/ES) |
-| 229 | 🇵🇹 | FUEL TV US | Deportes | Español (Latam/ES) |
-| 230 | 🇪🇸 | Glory Kickboxing (EE.UU.) [EN] | Deportes | Español (Latam/ES) |
-| 231 | 🇪🇸 | Hard Knocks MMA (EE.UU.) [EN] | Deportes | Español (Latam/ES) |
-| 232 | 🇪🇸 | ITV Deportes (Internacional) | Deportes | Español (Latam/ES) |
-| 233 | 🇪🇸 | Lucha Plus (Internacional) | Deportes | Español (Latam/ES) |
-| 234 | 🇺🇸 | MLB | Deportes | Español (Latam/ES) |
-| 235 | 🇵🇪 | Monterrico TV | Deportes | Español (Latam/ES) |
-| 236 | 🇪🇸 | Monterrico TV (Perú) | Deportes | Español (Latam/ES) |
-| 237 | 🇪🇸 | Motorvision TV (Internacional) | Deportes | Español (Latam/ES) |
-| 238 | 🇪🇸 | MTRSPT1 (EE.UU.) [EN] | Deportes | Español (Latam/ES) |
-| 239 | 🇬🇹 | Multivision Sports | Deportes | Español (Latam/ES) |
-| 240 | 🇺🇸 | NHL Network SD | Deportes | Español (Latam/ES) |
-| 241 | 🇪🇸 | Olympic Channel | Deportes | Español (Latam/ES) |
-| 242 | 🇪🇸 | PFL MMA (EE.UU.) [EN] | Deportes | Español (Latam/ES) |
-| 243 | 🇺🇸 | Pluto TV Deportes | Deportes | Español (Latam/ES) |
-| 244 | 🇺🇸 | Pluto TV E-Sports | Deportes | Español (Latam/ES) |
-| 245 | 🇪🇸 | PowerNation (Internacional) | Deportes | Español (Latam/ES) |
-| 246 | 🇪🇸 | Racer International (EE.UU.) [EN] | Deportes | Español (Latam/ES) |
-| 247 | 🇺🇸 | Racer Network | Deportes | Español (Latam/ES) |
-| 248 | 🇺🇸 | Racer Select | Deportes | Español (Latam/ES) |
-| 249 | 🇨🇷 | Radio Turrialba TV Sports | Deportes | Español (Latam/ES) |
-| 250 | 🇪🇸 | Rally TV FAST (EE.UU.) [EN] | Deportes | Español (Latam/ES) |
-| 251 | 🇪🇸 | Real Madrid TV | Deportes | Español (Latam/ES) |
-| 252 | 🇪🇸 | Red Bull TV (ES) (Internacional) | Deportes | Español (Latam/ES) |
-| 253 | 🇪🇸 | RedBull TV (EE.UU.) [EN] | Deportes | Español (Latam/ES) |
-| 254 | 🇪🇸 | SBT (BR) | Deportes | Español (Latam/ES) |
-| 255 | 🇪🇸 | SFT Combat (BR) | Deportes | Español (Latam/ES) |
-| 256 | 🇨🇭 | SKI TV | Deportes | Español (Latam/ES) |
-| 257 | 🇪🇸 | SportMax 2 | Deportes | Español (Latam/ES) |
-| 258 | 🇪🇸 | SportMax News | Deportes | Español (Latam/ES) |
-| 259 | 🇵🇪 | Sqala TV | Deportes | Español (Latam/ES) |
-| 260 | 🇪🇸 | Teledeporte | Deportes | Español (Latam/ES) |
-| 261 | 🇪🇸 | Telemundo Deportes Ahora (Internacional) | Deportes | Español (Latam/ES) |
-| 262 | 🇪🇸 | Telemundo Deportes Ahora (Internacional)[1080p] | Deportes | Español (Latam/ES) |
-| 263 | 🇪🇸 | Telemundo Deportes Ahora (Internacional)[720p] | Deportes | Español (Latam/ES) |
-| 264 | 🇪🇸 | Teletrak TV (Chile) | Deportes | Español (Latam/ES) |
-| 265 | 🇪🇸 | Tennis + (EE.UU.) [EN] | Deportes | Español (Latam/ES) |
-| 266 | 🇧🇴 | Tigo Sports (Bolivia) | Deportes | Español (Latam/ES) |
-| 267 | 🇨🇷 | Tigo Sports (Costa Rica) | Deportes | Español (Latam/ES) |
-| 268 | 🇵🇾 | Tigo Sports+ | Deportes | Español (Latam/ES) |
-| 269 | 🇪🇸 | TOP Barça [EN] | Deportes | Español (Latam/ES) |
-| 270 | 🇪🇸 | TOP Barça [ES] | Deportes | Español (Latam/ES) |
-| 271 | 🇩🇴 | Tour Spot TV | Deportes | Español (Latam/ES) |
-| 272 | 🇪🇸 | Turf Móvil (Chile) | Deportes | Español (Latam/ES) |
-| 273 | 🇲🇽 | TV Cuatro 4.3 | Deportes | Español (Latam/ES) |
-| 274 | 🇪🇸 | TVQ Sports [No 24/7 ] (Guatemala) | Deportes | Español (Latam/ES) |
-| 275 | 🇪🇸 | UFC (EE.UU.) [EN] | Deportes | Español (Latam/ES) |
-| 276 | 🇪🇸 | Women's Sports Network (EE.UU.) [EN] | Deportes | Español (Latam/ES) |
-| 277 | 🇪🇸 | World Billiards TV (EE.UU.) [EN] | Deportes | Español (Latam/ES) |
-| 278 | 🇪🇸 | World Poker Tour (Internacional) | Deportes | Español (Latam/ES) |
+| 250 | 🇨🇱 | 13 go | Deportes | Nacional |
+| 251 | 🇨🇱 | CHV Deportes | Deportes | Nacional |
+| 252 | 🇨🇱 | CRTV | Deportes | Nacional |
+| 253 | 🇨🇱 | CRTV (Chile) | Deportes | Nacional |
+| 254 | 🇨🇱 | D13 | Deportes | Nacional |
+| 255 | 🇨🇱 | FutGO | Deportes | Nacional |
+| 256 | 🇨🇱 | Teletrak | Deportes | Nacional |
+| 257 | 🇨🇱 | Turf Movil | Deportes | Nacional |
+| 258 | 🇨🇱 | TV Turf | Deportes | Nacional |
+| 259 | 🇻🇪 | AS3 Sport TV | Deportes | Español (Latam/ES) |
+| 260 | 🇸🇻 | Awapa Sports TV | Deportes | Español (Latam/ES) |
+| 261 | 🇪🇸 | Azteca Deportes Network 3 HD | Deportes | Español (Latam/ES) |
+| 262 | 🇪🇸 | Barca TV | Deportes | Español (Latam/ES) |
+| 263 | 🇪🇸 | Box Gamers (España) | Deportes | Español (Latam/ES) |
+| 264 | 🇦🇷 | Canal Showsport | Deportes | Español (Latam/ES) |
+| 265 | 🇪🇸 | CazéTV (BR) | Deportes | Español (Latam/ES) |
+| 266 | 🇩🇴 | CDN Deportes | Deportes | Español (Latam/ES) |
+| 267 | 🇩🇴 | Colimdo TV | Deportes | Español (Latam/ES) |
+| 268 | 🇪🇸 | CombaTV (Internacional) | Deportes | Español (Latam/ES) |
+| 269 | 🇪🇸 | Deportes13 (Chile) | Deportes | Español (Latam/ES) |
+| 270 | 🇺🇰 | FIFA+ Hispanic America | Deportes | Español (Latam/ES) |
+| 271 | 🇺🇰 | FIFA+ Spain | Deportes | Español (Latam/ES) |
+| 272 | 🇺🇰 | FIFA+ United States | Deportes | Español (Latam/ES) |
+| 273 | 🇲🇽 | FITE 24/7 | Deportes | Español (Latam/ES) |
+| 274 | 🇺🇸 | FloHockey | Deportes | Español (Latam/ES) |
+| 275 | 🇺🇸 | FloRacing | Deportes | Español (Latam/ES) |
+| 276 | 🇧🇴 | FTV (Bolivia) | Deportes | Español (Latam/ES) |
+| 277 | 🇪🇸 | FUEL TV (Internacional) [SUB] | Deportes | Español (Latam/ES) |
+| 278 | 🇵🇹 | FUEL TV US | Deportes | Español (Latam/ES) |
+| 279 | 🇪🇸 | Glory Kickboxing (EE.UU.) [EN] | Deportes | Español (Latam/ES) |
+| 280 | 🇪🇸 | Hard Knocks MMA (EE.UU.) [EN] | Deportes | Español (Latam/ES) |
+| 281 | 🇪🇸 | ITV Deportes (Internacional) | Deportes | Español (Latam/ES) |
+| 282 | 🇪🇸 | Lucha Plus (Internacional) | Deportes | Español (Latam/ES) |
+| 283 | 🇺🇸 | MLB | Deportes | Español (Latam/ES) |
+| 284 | 🇵🇪 | Monterrico TV | Deportes | Español (Latam/ES) |
+| 285 | 🇪🇸 | Monterrico TV (Perú) | Deportes | Español (Latam/ES) |
+| 286 | 🇪🇸 | Motorvision TV (Internacional) | Deportes | Español (Latam/ES) |
+| 287 | 🇪🇸 | MTRSPT1 (EE.UU.) [EN] | Deportes | Español (Latam/ES) |
+| 288 | 🇬🇹 | Multivision Sports | Deportes | Español (Latam/ES) |
+| 289 | 🇺🇸 | NHL Network SD | Deportes | Español (Latam/ES) |
+| 290 | 🇪🇸 | Olympic Channel | Deportes | Español (Latam/ES) |
+| 291 | 🇪🇸 | PFL MMA (EE.UU.) [EN] | Deportes | Español (Latam/ES) |
+| 292 | 🇺🇸 | Pluto TV Deportes | Deportes | Español (Latam/ES) |
+| 293 | 🇺🇸 | Pluto TV E-Sports | Deportes | Español (Latam/ES) |
+| 294 | 🇪🇸 | PowerNation (Internacional) | Deportes | Español (Latam/ES) |
+| 295 | 🇪🇸 | Racer International (EE.UU.) [EN] | Deportes | Español (Latam/ES) |
+| 296 | 🇺🇸 | Racer Network | Deportes | Español (Latam/ES) |
+| 297 | 🇺🇸 | Racer Select | Deportes | Español (Latam/ES) |
+| 298 | 🇨🇷 | Radio Turrialba TV Sports | Deportes | Español (Latam/ES) |
+| 299 | 🇪🇸 | Rally TV FAST (EE.UU.) [EN] | Deportes | Español (Latam/ES) |
+| 300 | 🇪🇸 | Real Madrid TV | Deportes | Español (Latam/ES) |
+| 301 | 🇪🇸 | Red Bull TV (ES) (Internacional) | Deportes | Español (Latam/ES) |
+| 302 | 🇪🇸 | RedBull TV (EE.UU.) [EN] | Deportes | Español (Latam/ES) |
+| 303 | 🇪🇸 | SBT (BR) | Deportes | Español (Latam/ES) |
+| 304 | 🇪🇸 | SFT Combat (BR) | Deportes | Español (Latam/ES) |
+| 305 | 🇨🇭 | SKI TV | Deportes | Español (Latam/ES) |
+| 306 | 🇪🇸 | SportMax 2 | Deportes | Español (Latam/ES) |
+| 307 | 🇪🇸 | SportMax News | Deportes | Español (Latam/ES) |
+| 308 | 🇵🇪 | Sqala TV | Deportes | Español (Latam/ES) |
+| 309 | 🇪🇸 | Teledeporte | Deportes | Español (Latam/ES) |
+| 310 | 🇪🇸 | Telemundo Deportes Ahora (Internacional) | Deportes | Español (Latam/ES) |
+| 311 | 🇪🇸 | Telemundo Deportes Ahora (Internacional)[1080p] | Deportes | Español (Latam/ES) |
+| 312 | 🇪🇸 | Telemundo Deportes Ahora (Internacional)[720p] | Deportes | Español (Latam/ES) |
+| 313 | 🇪🇸 | Teletrak TV (Chile) | Deportes | Español (Latam/ES) |
+| 314 | 🇪🇸 | Tennis + (EE.UU.) [EN] | Deportes | Español (Latam/ES) |
+| 315 | 🇧🇴 | Tigo Sports (Bolivia) | Deportes | Español (Latam/ES) |
+| 316 | 🇨🇷 | Tigo Sports (Costa Rica) | Deportes | Español (Latam/ES) |
+| 317 | 🇵🇾 | Tigo Sports+ | Deportes | Español (Latam/ES) |
+| 318 | 🇪🇸 | TOP Barça [EN] | Deportes | Español (Latam/ES) |
+| 319 | 🇪🇸 | TOP Barça [ES] | Deportes | Español (Latam/ES) |
+| 320 | 🇩🇴 | Tour Spot TV | Deportes | Español (Latam/ES) |
+| 321 | 🇪🇸 | Turf Móvil (Chile) | Deportes | Español (Latam/ES) |
+| 322 | 🇲🇽 | TV Cuatro 4.3 | Deportes | Español (Latam/ES) |
+| 323 | 🇪🇸 | TVQ Sports [No 24/7 ] (Guatemala) | Deportes | Español (Latam/ES) |
+| 324 | 🇪🇸 | UFC (EE.UU.) [EN] | Deportes | Español (Latam/ES) |
+| 325 | 🇪🇸 | Women's Sports Network (EE.UU.) [EN] | Deportes | Español (Latam/ES) |
+| 326 | 🇪🇸 | World Billiards TV (EE.UU.) [EN] | Deportes | Español (Latam/ES) |
+| 327 | 🇪🇸 | World Poker Tour (Internacional) | Deportes | Español (Latam/ES) |
 
 ### 🎬 Entretención y series — 163 canales
 
 | # | Bandera | Canal | Grupo | Región/País |
 |---:|---|---|---|---|
-| 301 | 🇨🇱 | 13 Festival — *(solo web: https://www.13.cl/)* | 13 FAST | Nacional |
-| 302 | 🇨🇱 | 13 Humor | 13 FAST | Nacional |
-| 303 | 🇨🇱 | 13 Kids | 13 FAST | Nacional |
-| 304 | 🇨🇱 | 13 Realities — *(solo web: https://www.13.cl/)* | 13 FAST | Nacional |
-| 305 | 🇨🇱 | 13C | 13 FAST | Nacional |
-| 306 | 🇨🇱 | 13E | 13 FAST | Nacional |
-| 307 | 🇨🇱 | 13P | 13 FAST | Nacional |
-| 308 | 🇨🇱 | 13T | 13 FAST | Nacional |
-| 309 | 🇨🇱 | Canal Chilote — *(solo web: sitio oficial)* | Entretenimiento | Nacional |
-| 310 | 🇨🇱 | Chile Channel | Entretenimiento | Nacional |
-| 311 | 🇨🇱 | Emocion TV — *(solo web: sitio oficial)* | Entretenimiento | Nacional |
-| 312 | 🇨🇱 | Estacion Limache TV — *(solo web: sitio oficial)* | Entretenimiento | Nacional |
-| 313 | 🇨🇱 | La Melinkana TV — *(solo web: sitio oficial)* | Entretenimiento | Nacional |
-| 314 | 🇨🇱 | La Nuestra — *(solo web: sitio oficial)* | Entretenimiento | Nacional |
-| 315 | 🇨🇱 | Nada Es Imposible TV | Entretenimiento | Nacional |
-| 316 | 🇨🇱 | Zona Play TV | Entretenimiento | Nacional |
-| 317 | 🇺🇸 | Comedy Central Latin America | Comedia | Nacional |
-| 318 | 🇨🇷 | ¡OPA! | Entretenimiento | Español (Latam/ES) |
-| 319 | 🇻🇪 | AbejalesTV | Entretenimiento | Español (Latam/ES) |
-| 320 | 🇻🇪 | Aguacate TV | Entretenimiento | Español (Latam/ES) |
-| 321 | 🇩🇴 | Alegre TV RD | Entretenimiento | Español (Latam/ES) |
-| 322 | 🇵🇾 | Alt Media TV | Entretenimiento | Español (Latam/ES) |
-| 323 | 🇵🇷 | America TeVe | Entretenimiento | Español (Latam/ES) |
-| 324 | 🇨🇴 | ANC Television | Entretenimiento | Español (Latam/ES) |
-| 325 | 🇵🇪 | Antares Television | Entretenimiento | Español (Latam/ES) |
-| 326 | 🇩🇴 | Antena 21 | Entretenimiento | Español (Latam/ES) |
-| 327 | 🇩🇴 | Antena 21 HD | Entretenimiento | Español (Latam/ES) |
-| 328 | 🇲🇽 | Azteca Internacional | Entretenimiento | Español (Latam/ES) |
-| 329 | 🇪🇨 | Bacan Te Veo | Entretenimiento | Español (Latam/ES) |
-| 330 | 🇩🇴 | Bellavision | Entretenimiento | Español (Latam/ES) |
-| 331 | 🇲🇽 | bitMe | Entretenimiento | Español (Latam/ES) |
-| 332 | 🇲🇽 | bitMe Latin America | Entretenimiento | Español (Latam/ES) |
-| 333 | 🇩🇴 | Bonches Latinos TV | Entretenimiento | Español (Latam/ES) |
-| 334 | 🇵🇷 | Buena TV | Entretenimiento | Español (Latam/ES) |
-| 335 | 🇦🇷 | Canal 10 Mar del Plata | Entretenimiento | Español (Latam/ES) |
-| 336 | 🇨🇴 | Canal 14 Codazzi | Entretenimiento | Español (Latam/ES) |
-| 337 | 🇦🇷 | Canal 9 Link | Entretenimiento | Español (Latam/ES) |
-| 338 | 🇨🇴 | Canal Nets | Entretenimiento | Español (Latam/ES) |
-| 339 | 🇦🇷 | Canal Pulpo TV | Entretenimiento | Español (Latam/ES) |
-| 340 | 🇨🇴 | Canal TRO + | Entretenimiento | Español (Latam/ES) |
-| 341 | 🇺🇸 | Canela TV | Entretenimiento | Español (Latam/ES) |
-| 342 | 🇨🇴 | Canica TV | Entretenimiento | Español (Latam/ES) |
-| 343 | 🇦🇷 | Caras TV | Entretenimiento | Español (Latam/ES) |
-| 344 | 🇩🇴 | Cibaena TV | Entretenimiento | Español (Latam/ES) |
-| 345 | 🇧🇴 | Cinerama Television | Entretenimiento | Español (Latam/ES) |
-| 346 | 🇪🇸 | Ciudades del Ocio TV | Entretenimiento | Español (Latam/ES) |
-| 347 | 🇩🇴 | Claro Vision TV | Entretenimiento | Español (Latam/ES) |
-| 348 | 🇩🇴 | COCO TV | Entretenimiento | Español (Latam/ES) |
-| 349 | 🇨🇷 | Colosal TV | Entretenimiento | Español (Latam/ES) |
-| 350 | 🇵🇾 | Del Rey TV | Entretenimiento | Español (Latam/ES) |
-| 351 | 🇺🇾 | Desde El Sur TV | Entretenimiento | Español (Latam/ES) |
-| 352 | 🇭🇳 | EDN TV | Entretenimiento | Español (Latam/ES) |
-| 353 | 🇺🇸 | En el punto de mira | Entretenimiento | Español (Latam/ES) |
-| 354 | 🇺🇰 | ENT Channel | Entretenimiento | Español (Latam/ES) |
-| 355 | 🇺🇰 | ENT Family | Entretenimiento | Español (Latam/ES) |
-| 356 | 🇺🇸 | Estrella Games | Entretenimiento | Español (Latam/ES) |
-| 357 | 🇺🇸 | Estrella TV | Entretenimiento | Español (Latam/ES) |
-| 358 | 🇺🇸 | FX Latin America South | Entretenimiento | Español (Latam/ES) |
-| 359 | 🇩🇴 | GalaxiATeVe | Entretenimiento | Español (Latam/ES) |
-| 360 | 🇬🇹 | Gardenias TV | Entretenimiento | Español (Latam/ES) |
-| 361 | 🇪🇨 | Gaviota TV | Entretenimiento | Español (Latam/ES) |
-| 362 | 🇨🇷 | Gex TV | Entretenimiento | Español (Latam/ES) |
-| 363 | 🇩🇴 | Gi Television | Entretenimiento | Español (Latam/ES) |
-| 364 | 🇭🇳 | Girasol TV (1080i) | Entretenimiento | Español (Latam/ES) |
-| 365 | 🇵🇾 | GO TV | Entretenimiento | Español (Latam/ES) |
-| 366 | 🇬🇹 | GTV (Guatemala) | Entretenimiento | Español (Latam/ES) |
-| 367 | 🇻🇪 | Guaro TV | Entretenimiento | Español (Latam/ES) |
-| 368 | 🇪🇸 | Historia | Entretenimiento | Español (Latam/ES) |
-| 369 | 🇪🇸 | Historia HD | Entretenimiento | Español (Latam/ES) |
-| 370 | 🇪🇸 | HOLA! Play | Entretenimiento | Español (Latam/ES) |
-| 371 | 🇩🇴 | HTV Live | Entretenimiento | Español (Latam/ES) |
-| 372 | 🇲🇽 | IERTBCS Canal 8.2 | Entretenimiento | Español (Latam/ES) |
-| 373 | 🇵🇪 | Impacto Television | Entretenimiento | Español (Latam/ES) |
-| 374 | 🇻🇪 | Inter TV (Venezuela) | Entretenimiento | Español (Latam/ES) |
-| 375 | 🇲🇽 | ITV Deportes | Entretenimiento | Español (Latam/ES) |
-| 376 | 🇩🇴 | JARABACOA TV | Entretenimiento | Español (Latam/ES) |
-| 377 | 🇺🇸 | KNino | Entretenimiento | Español (Latam/ES) |
-| 378 | 🇵🇪 | Kora TV | Entretenimiento | Español (Latam/ES) |
-| 379 | 🇺🇸 | KRGV-TV 5.2 | Entretenimiento | Español (Latam/ES) |
-| 380 | 🇪🇨 | La Nueva Radio TV 97.7 | Entretenimiento | Español (Latam/ES) |
-| 381 | 🇨🇷 | La Potente Radio TV | Entretenimiento | Español (Latam/ES) |
-| 382 | 🇻🇪 | Lara en Redes | Entretenimiento | Español (Latam/ES) |
-| 383 | 🇪🇨 | LatacungaTV | Entretenimiento | Español (Latam/ES) |
-| 384 | 🇺🇸 | LATV | Entretenimiento | Español (Latam/ES) |
-| 385 | 🇺🇸 | Lifetime Latin America Mexico | Entretenimiento | Español (Latam/ES) |
-| 386 | 🇪🇨 | MakroDigital Television | Entretenimiento | Español (Latam/ES) |
-| 387 | 🇻🇪 | Mas Talk | Entretenimiento | Español (Latam/ES) |
-| 388 | 🇻🇪 | Maxima TV | Entretenimiento | Español (Latam/ES) |
-| 389 | 🇬🇹 | Maxivision TV | Entretenimiento | Español (Latam/ES) |
-| 390 | 🇨🇴 | MaxTV | Entretenimiento | Español (Latam/ES) |
-| 391 | 🇪🇨 | Mel Radio TV | Entretenimiento | Español (Latam/ES) |
-| 392 | 🇦🇷 | Metro TV (Argentina) | Entretenimiento | Español (Latam/ES) |
-| 393 | 🇭🇳 | Metro TV (Honduras) | Entretenimiento | Español (Latam/ES) |
-| 394 | 🇵🇾 | MiTV | Entretenimiento | Español (Latam/ES) |
-| 395 | 🇯🇵 | NHK World Premium | Entretenimiento | Español (Latam/ES) |
-| 396 | 🇩🇴 | Nitida TV | Entretenimiento | Español (Latam/ES) |
-| 397 | 🇻🇪 | Nortena Tv | Entretenimiento | Español (Latam/ES) |
-| 398 | 🇵🇾 | Oasis TV (Paraguay) | Entretenimiento | Español (Latam/ES) |
-| 399 | 🇺🇸 | Pluto TV Amor y Mentiras | Entretenimiento | Español (Latam/ES) |
-| 400 | 🇩🇪 | Pluto TV Gasolina | Entretenimiento | Español (Latam/ES) |
-| 401 | 🇩🇪 | Pluto TV Gore & Slasher | Entretenimiento | Español (Latam/ES) |
-| 402 | 🇩🇪 | Pluto TV Impacto | Entretenimiento | Español (Latam/ES) |
-| 403 | 🇺🇸 | Pluto TV Reality LatAm | Entretenimiento | Español (Latam/ES) |
-| 404 | 🇦🇷 | Power Max Radio TV | Entretenimiento | Español (Latam/ES) |
-| 405 | 🇩🇴 | Pronems TV | Entretenimiento | Español (Latam/ES) |
-| 406 | 🇲🇽 | PSN | Entretenimiento | Español (Latam/ES) |
-| 407 | 🇩🇴 | Pula TV | Entretenimiento | Español (Latam/ES) |
-| 408 | 🇩🇴 | R&E TV | Entretenimiento | Español (Latam/ES) |
-| 409 | 🇪🇸 | Radio Carnaval TV | Entretenimiento | Español (Latam/ES) |
-| 410 | 🇭🇳 | Radio Omega TV | Entretenimiento | Español (Latam/ES) |
-| 411 | 🇦🇷 | Radio Yguazu TV | Entretenimiento | Español (Latam/ES) |
-| 412 | 🇨🇴 | RCN Novelas | Entretenimiento | Español (Latam/ES) |
-| 413 | 🇨🇴 | Red+ | Entretenimiento | Español (Latam/ES) |
-| 414 | 🇺🇸 | Revry LatinX | Entretenimiento | Español (Latam/ES) |
-| 415 | 🇵🇪 | Riku TV | Entretenimiento | Español (Latam/ES) |
-| 416 | 🇭🇳 | RSV Honduras | Entretenimiento | Español (Latam/ES) |
-| 417 | 🇬🇹 | SAS TV | Entretenimiento | Español (Latam/ES) |
-| 418 | 🇬🇶 | SolTV (Equatorial Guinea) | Entretenimiento | Español (Latam/ES) |
-| 419 | 🇨🇴 | StreamForce 360 | Entretenimiento | Español (Latam/ES) |
-| 420 | 🇩🇴 | Super7FM | Entretenimiento | Español (Latam/ES) |
-| 421 | 🇨🇷 | TeleMas | Entretenimiento | Español (Latam/ES) |
-| 422 | 🇩🇴 | Telemax (Dominican Republic) | Entretenimiento | Español (Latam/ES) |
-| 423 | 🇺🇸 | Telemundo Corpus Christi | Entretenimiento | Español (Latam/ES) |
-| 424 | 🇲🇽 | Teleplay Sureste | Entretenimiento | Español (Latam/ES) |
-| 425 | 🇭🇳 | Telerayo | Entretenimiento | Español (Latam/ES) |
-| 426 | 🇺🇸 | Television Caribe | Entretenimiento | Español (Latam/ES) |
-| 427 | 🇨🇴 | TeveColombia | Entretenimiento | Español (Latam/ES) |
-| 428 | 🇩🇴 | Turismo HD | Entretenimiento | Español (Latam/ES) |
-| 429 | 🇩🇴 | TV Canal Sur | Entretenimiento | Español (Latam/ES) |
-| 430 | 🇭🇳 | TV Centro 27.2 HD | Entretenimiento | Español (Latam/ES) |
-| 431 | 🇨🇴 | TV Golfo Uraba | Entretenimiento | Español (Latam/ES) |
-| 432 | 🇵🇪 | TV Kaliente | Entretenimiento | Español (Latam/ES) |
-| 433 | 🇸🇽 | TVCARiB Latino | Entretenimiento | Español (Latam/ES) |
-| 434 | 🇵🇦 | TVMax | Entretenimiento | Español (Latam/ES) |
-| 435 | 🇩🇴 | TVS (Dominican Republic) | Entretenimiento | Español (Latam/ES) |
-| 436 | 🇨🇴 | Ultra Casanare TV | Entretenimiento | Español (Latam/ES) |
-| 437 | 🇪🇸 | Univers TV | Entretenimiento | Español (Latam/ES) |
-| 438 | 🇲🇽 | VB Media TV | Entretenimiento | Español (Latam/ES) |
-| 439 | 🇩🇴 | Vision NDV | Entretenimiento | Español (Latam/ES) |
-| 440 | 🇵🇪 | WEST | Entretenimiento | Español (Latam/ES) |
-| 441 | 🇳🇮 | WTV Canal 20 | Entretenimiento | Español (Latam/ES) |
-| 442 | 🇩🇴 | Yunavision | Entretenimiento | Español (Latam/ES) |
-| 443 | 🇲🇽 | ZAZ | Entretenimiento | Español (Latam/ES) |
-| 444 | 🇺🇸 | AFV Espanol | Comedia | Español (Latam/ES) |
-| 445 | 🇩🇪 | Comedia a lo bestia de Pluto TV | Comedia | Español (Latam/ES) |
-| 446 | 🇺🇸 | Comedy Central en Espanol | Comedia | Español (Latam/ES) |
-| 447 | 🇺🇸 | Comedy Central Pluto TV LatAm | Comedia | Español (Latam/ES) |
-| 448 | 🇺🇸 | Daria | Comedia | Español (Latam/ES) |
-| 449 | 🇩🇪 | Pluto TV Comedia made in Spain | Comedia | Español (Latam/ES) |
-| 450 | 🇺🇸 | Vaya semanita | Comedia | Español (Latam/ES) |
-| 451 | 🇺🇸 | 6 Wise Tv | Familia | Español (Latam/ES) |
-| 452 | 🇨🇷 | Hope Channel PROYECTO JA | Familia | Español (Latam/ES) |
-| 453 | 🇭🇳 | Talanga TV Canal 39 | Familia | Español (Latam/ES) |
-| 454 | 🇩🇴 | Telenovisa43 | Familia | Español (Latam/ES) |
-| 455 | 🇺🇸 | The Pet Collective Mexico | Familia | Español (Latam/ES) |
-| 456 | 🇺🇸 | The Pet Collective Spain | Familia | Español (Latam/ES) |
-| 457 | 🇻🇪 | TV Familia | Familia | Español (Latam/ES) |
-| 458 | 🇺🇸 | MacGyver (United States) LatAm | Clásicos | Español (Latam/ES) |
-| 459 | 🇺🇸 | Pluto TV Series Retro | Clásicos | Español (Latam/ES) |
-| 460 | 🇨🇷 | Retrox TV | Clásicos | Español (Latam/ES) |
-| 461 | 🇬🇹 | TVS Retro | Clásicos | Español (Latam/ES) |
-| 462 | 🇨🇱 | Mega 2 — *(solo web: https://www.mega.cl/)* | 13 FAST | Nacional |
-| 463 | 🇨🇱 | Mega Ficción — *(solo web: https://www.mega.cl/)* | 13 FAST | Nacional |
+| 328 | 🇨🇱 | 13 Festival — *(solo web: https://www.13.cl/)* | 13 FAST | Nacional |
+| 329 | 🇨🇱 | 13 Humor | 13 FAST | Nacional |
+| 330 | 🇨🇱 | 13 Kids | 13 FAST | Nacional |
+| 331 | 🇨🇱 | 13 Realities — *(solo web: https://www.13.cl/)* | 13 FAST | Nacional |
+| 332 | 🇨🇱 | 13C | 13 FAST | Nacional |
+| 333 | 🇨🇱 | 13E | 13 FAST | Nacional |
+| 334 | 🇨🇱 | 13P | 13 FAST | Nacional |
+| 335 | 🇨🇱 | 13T | 13 FAST | Nacional |
+| 336 | 🇨🇱 | Canal Chilote — *(solo web: sitio oficial)* | Entretenimiento | Nacional |
+| 337 | 🇨🇱 | Chile Channel | Entretenimiento | Nacional |
+| 338 | 🇨🇱 | Emocion TV — *(solo web: sitio oficial)* | Entretenimiento | Nacional |
+| 339 | 🇨🇱 | Estacion Limache TV — *(solo web: sitio oficial)* | Entretenimiento | Nacional |
+| 340 | 🇨🇱 | La Melinkana TV — *(solo web: sitio oficial)* | Entretenimiento | Nacional |
+| 341 | 🇨🇱 | La Nuestra — *(solo web: sitio oficial)* | Entretenimiento | Nacional |
+| 342 | 🇨🇱 | Nada Es Imposible TV | Entretenimiento | Nacional |
+| 343 | 🇨🇱 | Zona Play TV | Entretenimiento | Nacional |
+| 344 | 🇺🇸 | Comedy Central Latin America | Comedia | Nacional |
+| 345 | 🇨🇷 | ¡OPA! | Entretenimiento | Español (Latam/ES) |
+| 346 | 🇻🇪 | AbejalesTV | Entretenimiento | Español (Latam/ES) |
+| 347 | 🇻🇪 | Aguacate TV | Entretenimiento | Español (Latam/ES) |
+| 348 | 🇩🇴 | Alegre TV RD | Entretenimiento | Español (Latam/ES) |
+| 349 | 🇵🇾 | Alt Media TV | Entretenimiento | Español (Latam/ES) |
+| 350 | 🇵🇷 | America TeVe | Entretenimiento | Español (Latam/ES) |
+| 351 | 🇨🇴 | ANC Television | Entretenimiento | Español (Latam/ES) |
+| 352 | 🇵🇪 | Antares Television | Entretenimiento | Español (Latam/ES) |
+| 353 | 🇩🇴 | Antena 21 | Entretenimiento | Español (Latam/ES) |
+| 354 | 🇩🇴 | Antena 21 HD | Entretenimiento | Español (Latam/ES) |
+| 355 | 🇲🇽 | Azteca Internacional | Entretenimiento | Español (Latam/ES) |
+| 356 | 🇪🇨 | Bacan Te Veo | Entretenimiento | Español (Latam/ES) |
+| 357 | 🇩🇴 | Bellavision | Entretenimiento | Español (Latam/ES) |
+| 358 | 🇲🇽 | bitMe | Entretenimiento | Español (Latam/ES) |
+| 359 | 🇲🇽 | bitMe Latin America | Entretenimiento | Español (Latam/ES) |
+| 360 | 🇩🇴 | Bonches Latinos TV | Entretenimiento | Español (Latam/ES) |
+| 361 | 🇵🇷 | Buena TV | Entretenimiento | Español (Latam/ES) |
+| 362 | 🇦🇷 | Canal 10 Mar del Plata | Entretenimiento | Español (Latam/ES) |
+| 363 | 🇨🇴 | Canal 14 Codazzi | Entretenimiento | Español (Latam/ES) |
+| 364 | 🇦🇷 | Canal 9 Link | Entretenimiento | Español (Latam/ES) |
+| 365 | 🇨🇴 | Canal Nets | Entretenimiento | Español (Latam/ES) |
+| 366 | 🇦🇷 | Canal Pulpo TV | Entretenimiento | Español (Latam/ES) |
+| 367 | 🇨🇴 | Canal TRO + | Entretenimiento | Español (Latam/ES) |
+| 368 | 🇺🇸 | Canela TV | Entretenimiento | Español (Latam/ES) |
+| 369 | 🇨🇴 | Canica TV | Entretenimiento | Español (Latam/ES) |
+| 370 | 🇦🇷 | Caras TV | Entretenimiento | Español (Latam/ES) |
+| 371 | 🇩🇴 | Cibaena TV | Entretenimiento | Español (Latam/ES) |
+| 372 | 🇧🇴 | Cinerama Television | Entretenimiento | Español (Latam/ES) |
+| 373 | 🇪🇸 | Ciudades del Ocio TV | Entretenimiento | Español (Latam/ES) |
+| 374 | 🇩🇴 | Claro Vision TV | Entretenimiento | Español (Latam/ES) |
+| 375 | 🇩🇴 | COCO TV | Entretenimiento | Español (Latam/ES) |
+| 376 | 🇨🇷 | Colosal TV | Entretenimiento | Español (Latam/ES) |
+| 377 | 🇵🇾 | Del Rey TV | Entretenimiento | Español (Latam/ES) |
+| 378 | 🇺🇾 | Desde El Sur TV | Entretenimiento | Español (Latam/ES) |
+| 379 | 🇭🇳 | EDN TV | Entretenimiento | Español (Latam/ES) |
+| 380 | 🇺🇸 | En el punto de mira | Entretenimiento | Español (Latam/ES) |
+| 381 | 🇺🇰 | ENT Channel | Entretenimiento | Español (Latam/ES) |
+| 382 | 🇺🇰 | ENT Family | Entretenimiento | Español (Latam/ES) |
+| 383 | 🇺🇸 | Estrella Games | Entretenimiento | Español (Latam/ES) |
+| 384 | 🇺🇸 | Estrella TV | Entretenimiento | Español (Latam/ES) |
+| 385 | 🇺🇸 | FX Latin America South | Entretenimiento | Español (Latam/ES) |
+| 386 | 🇩🇴 | GalaxiATeVe | Entretenimiento | Español (Latam/ES) |
+| 387 | 🇬🇹 | Gardenias TV | Entretenimiento | Español (Latam/ES) |
+| 388 | 🇪🇨 | Gaviota TV | Entretenimiento | Español (Latam/ES) |
+| 389 | 🇨🇷 | Gex TV | Entretenimiento | Español (Latam/ES) |
+| 390 | 🇩🇴 | Gi Television | Entretenimiento | Español (Latam/ES) |
+| 391 | 🇭🇳 | Girasol TV (1080i) | Entretenimiento | Español (Latam/ES) |
+| 392 | 🇵🇾 | GO TV | Entretenimiento | Español (Latam/ES) |
+| 393 | 🇬🇹 | GTV (Guatemala) | Entretenimiento | Español (Latam/ES) |
+| 394 | 🇻🇪 | Guaro TV | Entretenimiento | Español (Latam/ES) |
+| 395 | 🇪🇸 | Historia | Entretenimiento | Español (Latam/ES) |
+| 396 | 🇪🇸 | Historia HD | Entretenimiento | Español (Latam/ES) |
+| 397 | 🇪🇸 | HOLA! Play | Entretenimiento | Español (Latam/ES) |
+| 398 | 🇩🇴 | HTV Live | Entretenimiento | Español (Latam/ES) |
+| 399 | 🇲🇽 | IERTBCS Canal 8.2 | Entretenimiento | Español (Latam/ES) |
+| 400 | 🇵🇪 | Impacto Television | Entretenimiento | Español (Latam/ES) |
+| 401 | 🇻🇪 | Inter TV (Venezuela) | Entretenimiento | Español (Latam/ES) |
+| 402 | 🇲🇽 | ITV Deportes | Entretenimiento | Español (Latam/ES) |
+| 403 | 🇩🇴 | JARABACOA TV | Entretenimiento | Español (Latam/ES) |
+| 404 | 🇺🇸 | KNino | Entretenimiento | Español (Latam/ES) |
+| 405 | 🇵🇪 | Kora TV | Entretenimiento | Español (Latam/ES) |
+| 406 | 🇺🇸 | KRGV-TV 5.2 | Entretenimiento | Español (Latam/ES) |
+| 407 | 🇪🇨 | La Nueva Radio TV 97.7 | Entretenimiento | Español (Latam/ES) |
+| 408 | 🇨🇷 | La Potente Radio TV | Entretenimiento | Español (Latam/ES) |
+| 409 | 🇻🇪 | Lara en Redes | Entretenimiento | Español (Latam/ES) |
+| 410 | 🇪🇨 | LatacungaTV | Entretenimiento | Español (Latam/ES) |
+| 411 | 🇺🇸 | LATV | Entretenimiento | Español (Latam/ES) |
+| 412 | 🇺🇸 | Lifetime Latin America Mexico | Entretenimiento | Español (Latam/ES) |
+| 413 | 🇪🇨 | MakroDigital Television | Entretenimiento | Español (Latam/ES) |
+| 414 | 🇻🇪 | Mas Talk | Entretenimiento | Español (Latam/ES) |
+| 415 | 🇻🇪 | Maxima TV | Entretenimiento | Español (Latam/ES) |
+| 416 | 🇬🇹 | Maxivision TV | Entretenimiento | Español (Latam/ES) |
+| 417 | 🇨🇴 | MaxTV | Entretenimiento | Español (Latam/ES) |
+| 418 | 🇪🇨 | Mel Radio TV | Entretenimiento | Español (Latam/ES) |
+| 419 | 🇦🇷 | Metro TV (Argentina) | Entretenimiento | Español (Latam/ES) |
+| 420 | 🇭🇳 | Metro TV (Honduras) | Entretenimiento | Español (Latam/ES) |
+| 421 | 🇵🇾 | MiTV | Entretenimiento | Español (Latam/ES) |
+| 422 | 🇯🇵 | NHK World Premium | Entretenimiento | Español (Latam/ES) |
+| 423 | 🇩🇴 | Nitida TV | Entretenimiento | Español (Latam/ES) |
+| 424 | 🇻🇪 | Nortena Tv | Entretenimiento | Español (Latam/ES) |
+| 425 | 🇵🇾 | Oasis TV (Paraguay) | Entretenimiento | Español (Latam/ES) |
+| 426 | 🇺🇸 | Pluto TV Amor y Mentiras | Entretenimiento | Español (Latam/ES) |
+| 427 | 🇩🇪 | Pluto TV Gasolina | Entretenimiento | Español (Latam/ES) |
+| 428 | 🇩🇪 | Pluto TV Gore & Slasher | Entretenimiento | Español (Latam/ES) |
+| 429 | 🇩🇪 | Pluto TV Impacto | Entretenimiento | Español (Latam/ES) |
+| 430 | 🇺🇸 | Pluto TV Reality LatAm | Entretenimiento | Español (Latam/ES) |
+| 431 | 🇦🇷 | Power Max Radio TV | Entretenimiento | Español (Latam/ES) |
+| 432 | 🇩🇴 | Pronems TV | Entretenimiento | Español (Latam/ES) |
+| 433 | 🇲🇽 | PSN | Entretenimiento | Español (Latam/ES) |
+| 434 | 🇩🇴 | Pula TV | Entretenimiento | Español (Latam/ES) |
+| 435 | 🇩🇴 | R&E TV | Entretenimiento | Español (Latam/ES) |
+| 436 | 🇪🇸 | Radio Carnaval TV | Entretenimiento | Español (Latam/ES) |
+| 437 | 🇭🇳 | Radio Omega TV | Entretenimiento | Español (Latam/ES) |
+| 438 | 🇦🇷 | Radio Yguazu TV | Entretenimiento | Español (Latam/ES) |
+| 439 | 🇨🇴 | RCN Novelas | Entretenimiento | Español (Latam/ES) |
+| 440 | 🇨🇴 | Red+ | Entretenimiento | Español (Latam/ES) |
+| 441 | 🇺🇸 | Revry LatinX | Entretenimiento | Español (Latam/ES) |
+| 442 | 🇵🇪 | Riku TV | Entretenimiento | Español (Latam/ES) |
+| 443 | 🇭🇳 | RSV Honduras | Entretenimiento | Español (Latam/ES) |
+| 444 | 🇬🇹 | SAS TV | Entretenimiento | Español (Latam/ES) |
+| 445 | 🇬🇶 | SolTV (Equatorial Guinea) | Entretenimiento | Español (Latam/ES) |
+| 446 | 🇨🇴 | StreamForce 360 | Entretenimiento | Español (Latam/ES) |
+| 447 | 🇩🇴 | Super7FM | Entretenimiento | Español (Latam/ES) |
+| 448 | 🇨🇷 | TeleMas | Entretenimiento | Español (Latam/ES) |
+| 449 | 🇩🇴 | Telemax (Dominican Republic) | Entretenimiento | Español (Latam/ES) |
+| 450 | 🇺🇸 | Telemundo Corpus Christi | Entretenimiento | Español (Latam/ES) |
+| 451 | 🇲🇽 | Teleplay Sureste | Entretenimiento | Español (Latam/ES) |
+| 452 | 🇭🇳 | Telerayo | Entretenimiento | Español (Latam/ES) |
+| 453 | 🇺🇸 | Television Caribe | Entretenimiento | Español (Latam/ES) |
+| 454 | 🇨🇴 | TeveColombia | Entretenimiento | Español (Latam/ES) |
+| 455 | 🇩🇴 | Turismo HD | Entretenimiento | Español (Latam/ES) |
+| 456 | 🇩🇴 | TV Canal Sur | Entretenimiento | Español (Latam/ES) |
+| 457 | 🇭🇳 | TV Centro 27.2 HD | Entretenimiento | Español (Latam/ES) |
+| 458 | 🇨🇴 | TV Golfo Uraba | Entretenimiento | Español (Latam/ES) |
+| 459 | 🇵🇪 | TV Kaliente | Entretenimiento | Español (Latam/ES) |
+| 460 | 🇸🇽 | TVCARiB Latino | Entretenimiento | Español (Latam/ES) |
+| 461 | 🇵🇦 | TVMax | Entretenimiento | Español (Latam/ES) |
+| 462 | 🇩🇴 | TVS (Dominican Republic) | Entretenimiento | Español (Latam/ES) |
+| 463 | 🇨🇴 | Ultra Casanare TV | Entretenimiento | Español (Latam/ES) |
+| 464 | 🇪🇸 | Univers TV | Entretenimiento | Español (Latam/ES) |
+| 465 | 🇲🇽 | VB Media TV | Entretenimiento | Español (Latam/ES) |
+| 466 | 🇩🇴 | Vision NDV | Entretenimiento | Español (Latam/ES) |
+| 467 | 🇵🇪 | WEST | Entretenimiento | Español (Latam/ES) |
+| 468 | 🇳🇮 | WTV Canal 20 | Entretenimiento | Español (Latam/ES) |
+| 469 | 🇩🇴 | Yunavision | Entretenimiento | Español (Latam/ES) |
+| 470 | 🇲🇽 | ZAZ | Entretenimiento | Español (Latam/ES) |
+| 471 | 🇺🇸 | AFV Espanol | Comedia | Español (Latam/ES) |
+| 472 | 🇩🇪 | Comedia a lo bestia de Pluto TV | Comedia | Español (Latam/ES) |
+| 473 | 🇺🇸 | Comedy Central en Espanol | Comedia | Español (Latam/ES) |
+| 474 | 🇺🇸 | Comedy Central Pluto TV LatAm | Comedia | Español (Latam/ES) |
+| 475 | 🇺🇸 | Daria | Comedia | Español (Latam/ES) |
+| 476 | 🇩🇪 | Pluto TV Comedia made in Spain | Comedia | Español (Latam/ES) |
+| 477 | 🇺🇸 | Vaya semanita | Comedia | Español (Latam/ES) |
+| 478 | 🇺🇸 | 6 Wise Tv | Familia | Español (Latam/ES) |
+| 479 | 🇨🇷 | Hope Channel PROYECTO JA | Familia | Español (Latam/ES) |
+| 480 | 🇭🇳 | Talanga TV Canal 39 | Familia | Español (Latam/ES) |
+| 481 | 🇩🇴 | Telenovisa43 | Familia | Español (Latam/ES) |
+| 482 | 🇺🇸 | The Pet Collective Mexico | Familia | Español (Latam/ES) |
+| 483 | 🇺🇸 | The Pet Collective Spain | Familia | Español (Latam/ES) |
+| 484 | 🇻🇪 | TV Familia | Familia | Español (Latam/ES) |
+| 485 | 🇺🇸 | MacGyver (United States) LatAm | Clásicos | Español (Latam/ES) |
+| 486 | 🇺🇸 | Pluto TV Series Retro | Clásicos | Español (Latam/ES) |
+| 487 | 🇨🇷 | Retrox TV | Clásicos | Español (Latam/ES) |
+| 488 | 🇬🇹 | TVS Retro | Clásicos | Español (Latam/ES) |
+| 489 | 🇨🇱 | Mega 2 — *(solo web: https://www.mega.cl/)* | 13 FAST | Nacional |
+| 490 | 🇨🇱 | Mega Ficción — *(solo web: https://www.mega.cl/)* | 13 FAST | Nacional |
 
 ### 🧸 Infantil y animación — 58 canales
 
 | # | Bandera | Canal | Grupo | Región/País |
 |---:|---|---|---|---|
-| 401 | 🇺🇸 | Nick Jr. Latin America | Infantil | Nacional |
-| 402 | 🇨🇱 | EnerGeek | Animación | Nacional |
-| 403 | 🇨🇱 | EnerGeek FAN | Animación | Nacional |
-| 404 | 🇨🇱 | EnerGeek Radio | Animación | Nacional |
-| 405 | 🇨🇱 | NTV | Animación | Nacional |
-| 406 | 🇺🇸 | Avatar: La Leyenda de Aang | Infantil | Español (Latam/ES) |
-| 407 | 🇺🇸 | BabyFirst | Infantil | Español (Latam/ES) |
-| 408 | 🇩🇪 | Bob Esponja | Infantil | Español (Latam/ES) |
-| 409 | 🇺🇸 | Bob Esponja Pantalones Cuadrados | Infantil | Español (Latam/ES) |
-| 410 | 🇩🇴 | Chinola TV | Infantil | Español (Latam/ES) |
-| 411 | 🇪🇸 | Clan | Infantil | Español (Latam/ES) |
-| 412 | 🇪🇸 | Clan Internacional Americas | Infantil | Español (Latam/ES) |
-| 413 | 🇭🇳 | Dios Te Ve Kids | Infantil | Español (Latam/ES) |
-| 414 | 🇺🇸 | DreamWorks Channel Latin America | Infantil | Español (Latam/ES) |
-| 415 | 🇲🇽 | El Chavo TV | Infantil | Español (Latam/ES) |
-| 416 | 🇺🇸 | El Reino Infantil | Infantil | Español (Latam/ES) |
-| 417 | 🇨🇴 | Eureka | Infantil | Español (Latam/ES) |
-| 418 | 🇧🇷 | Gloob Web | Infantil | Español (Latam/ES) |
-| 419 | 🇺🇸 | Hey Arnold! | Infantil | Español (Latam/ES) |
-| 420 | 🇪🇸 | Logos TV Kids | Infantil | Español (Latam/ES) |
-| 421 | 🇨🇦 | New Channel Pop! | Infantil | Español (Latam/ES) |
-| 422 | 🇲🇽 | Nick en Espanol | Infantil | Español (Latam/ES) |
-| 423 | 🇺🇸 | Nick Jr. Club (United States) LatAm | Infantil | Español (Latam/ES) |
-| 424 | 🇺🇸 | Nickelodeon Clasico | Infantil | Español (Latam/ES) |
-| 425 | 🇺🇸 | Nickelodeon Teen LatAm | Infantil | Español (Latam/ES) |
-| 426 | 🇺🇸 | Nickelodeon Toons LatAm | Infantil | Español (Latam/ES) |
-| 427 | 🇵🇪 | Peques TV | Infantil | Español (Latam/ES) |
-| 428 | 🇺🇸 | Pluto TV Junior LatAm | Infantil | Español (Latam/ES) |
-| 429 | 🇩🇪 | Pluto TV Kids Classics | Infantil | Español (Latam/ES) |
-| 430 | 🇺🇸 | Pluto TV Kids LatAm | Infantil | Español (Latam/ES) |
-| 431 | 🇩🇪 | Pluto TV Teen | Infantil | Español (Latam/ES) |
-| 432 | 🇩🇪 | Rugrats (Germany) | Infantil | Español (Latam/ES) |
-| 433 | 🇺🇸 | Rugrats (United States) | Infantil | Español (Latam/ES) |
-| 434 | 🇩🇴 | Tom And Jerry | Infantil | Español (Latam/ES) |
-| 435 | 🇸🇬 | ZooMoo | Infantil | Español (Latam/ES) |
-| 436 | 🇺🇸 | Comedy Central South Park LatAm | Animación | Español (Latam/ES) |
-| 437 | 🇺🇸 | Detective Conan | Animación | Español (Latam/ES) |
-| 438 | 🇵🇦 | Dreiko TV | Animación | Español (Latam/ES) |
-| 439 | 🇨🇱 | EnerGeek — *(solo web: sitio oficial)* | Animación | Español (Latam/ES) |
-| 440 | 🇨🇱 | EnerGeek FAN — *(solo web: sitio oficial)* | Animación | Español (Latam/ES) |
-| 441 | 🇻🇪 | eSports Max TV | Animación | Español (Latam/ES) |
-| 442 | 🇨🇷 | Extrema Kids TV | Animación | Español (Latam/ES) |
-| 443 | 🇲🇽 | GikTVMX | Animación | Español (Latam/ES) |
-| 444 | 🇦🇷 | LAMIL35 TV | Animación | Español (Latam/ES) |
-| 445 | 🇺🇸 | Las Tortugas Ninja | Animación | Español (Latam/ES) |
-| 446 | 🇺🇰 | Mr Bean Animated ES | Animación | Español (Latam/ES) |
-| 447 | 🇺🇸 | Naruto en espanol | Animación | Español (Latam/ES) |
-| 448 | 🇺🇸 | Naruto Shippuden | Animación | Español (Latam/ES) |
-| 449 | 🇺🇸 | One Piece LatAm | Animación | Español (Latam/ES) |
-| 450 | 🇺🇸 | One Piece Spain | Animación | Español (Latam/ES) |
-| 451 | 🇩🇪 | South Park (Germany) | Animación | Español (Latam/ES) |
-| 452 | 🇩🇪 | South Park Version Original | Animación | Español (Latam/ES) |
-| 453 | 🇺🇸 | South Park: Coleccion Cartman | Animación | Español (Latam/ES) |
-| 454 | 🇺🇸 | South Park: Coleccion Kenny | Animación | Español (Latam/ES) |
-| 455 | 🇺🇸 | South Park: Coleccion Kyle | Animación | Español (Latam/ES) |
-| 456 | 🇺🇸 | South Park: Coleccion Stan | Animación | Español (Latam/ES) |
-| 457 | 🇩🇴 | Tiguerito TV | Animación | Español (Latam/ES) |
-| 458 | 🇪🇸 | Clan RTVE | Infantil | Nacional |
+| 491 | 🇺🇸 | Nick Jr. Latin America | Infantil | Nacional |
+| 492 | 🇨🇱 | EnerGeek | Animación | Nacional |
+| 493 | 🇨🇱 | EnerGeek FAN | Animación | Nacional |
+| 494 | 🇨🇱 | EnerGeek Radio | Animación | Nacional |
+| 495 | 🇨🇱 | NTV | Animación | Nacional |
+| 496 | 🇺🇸 | Avatar: La Leyenda de Aang | Infantil | Español (Latam/ES) |
+| 497 | 🇺🇸 | BabyFirst | Infantil | Español (Latam/ES) |
+| 498 | 🇩🇪 | Bob Esponja | Infantil | Español (Latam/ES) |
+| 499 | 🇺🇸 | Bob Esponja Pantalones Cuadrados | Infantil | Español (Latam/ES) |
+| 500 | 🇩🇴 | Chinola TV | Infantil | Español (Latam/ES) |
+| 501 | 🇪🇸 | Clan | Infantil | Español (Latam/ES) |
+| 502 | 🇪🇸 | Clan Internacional Americas | Infantil | Español (Latam/ES) |
+| 503 | 🇭🇳 | Dios Te Ve Kids | Infantil | Español (Latam/ES) |
+| 504 | 🇺🇸 | DreamWorks Channel Latin America | Infantil | Español (Latam/ES) |
+| 505 | 🇲🇽 | El Chavo TV | Infantil | Español (Latam/ES) |
+| 506 | 🇺🇸 | El Reino Infantil | Infantil | Español (Latam/ES) |
+| 507 | 🇨🇴 | Eureka | Infantil | Español (Latam/ES) |
+| 508 | 🇧🇷 | Gloob Web | Infantil | Español (Latam/ES) |
+| 509 | 🇺🇸 | Hey Arnold! | Infantil | Español (Latam/ES) |
+| 510 | 🇪🇸 | Logos TV Kids | Infantil | Español (Latam/ES) |
+| 511 | 🇨🇦 | New Channel Pop! | Infantil | Español (Latam/ES) |
+| 512 | 🇲🇽 | Nick en Espanol | Infantil | Español (Latam/ES) |
+| 513 | 🇺🇸 | Nick Jr. Club (United States) LatAm | Infantil | Español (Latam/ES) |
+| 514 | 🇺🇸 | Nickelodeon Clasico | Infantil | Español (Latam/ES) |
+| 515 | 🇺🇸 | Nickelodeon Teen LatAm | Infantil | Español (Latam/ES) |
+| 516 | 🇺🇸 | Nickelodeon Toons LatAm | Infantil | Español (Latam/ES) |
+| 517 | 🇵🇪 | Peques TV | Infantil | Español (Latam/ES) |
+| 518 | 🇺🇸 | Pluto TV Junior LatAm | Infantil | Español (Latam/ES) |
+| 519 | 🇩🇪 | Pluto TV Kids Classics | Infantil | Español (Latam/ES) |
+| 520 | 🇺🇸 | Pluto TV Kids LatAm | Infantil | Español (Latam/ES) |
+| 521 | 🇩🇪 | Pluto TV Teen | Infantil | Español (Latam/ES) |
+| 522 | 🇩🇪 | Rugrats (Germany) | Infantil | Español (Latam/ES) |
+| 523 | 🇺🇸 | Rugrats (United States) | Infantil | Español (Latam/ES) |
+| 524 | 🇩🇴 | Tom And Jerry | Infantil | Español (Latam/ES) |
+| 525 | 🇸🇬 | ZooMoo | Infantil | Español (Latam/ES) |
+| 526 | 🇺🇸 | Comedy Central South Park LatAm | Animación | Español (Latam/ES) |
+| 527 | 🇺🇸 | Detective Conan | Animación | Español (Latam/ES) |
+| 528 | 🇵🇦 | Dreiko TV | Animación | Español (Latam/ES) |
+| 529 | 🇨🇱 | EnerGeek — *(solo web: sitio oficial)* | Animación | Español (Latam/ES) |
+| 530 | 🇨🇱 | EnerGeek FAN — *(solo web: sitio oficial)* | Animación | Español (Latam/ES) |
+| 531 | 🇻🇪 | eSports Max TV | Animación | Español (Latam/ES) |
+| 532 | 🇨🇷 | Extrema Kids TV | Animación | Español (Latam/ES) |
+| 533 | 🇲🇽 | GikTVMX | Animación | Español (Latam/ES) |
+| 534 | 🇦🇷 | LAMIL35 TV | Animación | Español (Latam/ES) |
+| 535 | 🇺🇸 | Las Tortugas Ninja | Animación | Español (Latam/ES) |
+| 536 | 🇺🇰 | Mr Bean Animated ES | Animación | Español (Latam/ES) |
+| 537 | 🇺🇸 | Naruto en espanol | Animación | Español (Latam/ES) |
+| 538 | 🇺🇸 | Naruto Shippuden | Animación | Español (Latam/ES) |
+| 539 | 🇺🇸 | One Piece LatAm | Animación | Español (Latam/ES) |
+| 540 | 🇺🇸 | One Piece Spain | Animación | Español (Latam/ES) |
+| 541 | 🇩🇪 | South Park (Germany) | Animación | Español (Latam/ES) |
+| 542 | 🇩🇪 | South Park Version Original | Animación | Español (Latam/ES) |
+| 543 | 🇺🇸 | South Park: Coleccion Cartman | Animación | Español (Latam/ES) |
+| 544 | 🇺🇸 | South Park: Coleccion Kenny | Animación | Español (Latam/ES) |
+| 545 | 🇺🇸 | South Park: Coleccion Kyle | Animación | Español (Latam/ES) |
+| 546 | 🇺🇸 | South Park: Coleccion Stan | Animación | Español (Latam/ES) |
+| 547 | 🇩🇴 | Tiguerito TV | Animación | Español (Latam/ES) |
+| 548 | 🇪🇸 | Clan RTVE | Infantil | Nacional |
 
 ### ⛩️ Anime y doramas — 46 canales
 
 | # | Bandera | Canal | Grupo | Región/País |
 |---:|---|---|---|---|
-| 501 | 🇪🇸 | Anime Presente | Anime | Español (Latam/ES) |
-| 502 | 🇪🇸 | Anime Station (América Latina) [No 24/7] | Anime | Español (Latam/ES) |
-| 503 | 🇪🇸 | Anime Vision | Anime | Español (Latam/ES) |
-| 504 | 🇪🇸 | Anime Visión (España)[Opc.1] | Anime | Español (Latam/ES) |
-| 505 | 🇪🇸 | Anime Vision Classics | Anime | Español (Latam/ES) |
-| 506 | 🇪🇸 | Anime Visión Classics (España)[Opc.1] | Anime | Español (Latam/ES) |
-| 507 | 🇪🇸 | B4U Music APAC | Anime | Español (Latam/ES) |
-| 508 | 🇪🇸 | Beyblade (España) | Anime | Español (Latam/ES) |
-| 509 | 🇪🇸 | Canal Locomotion - Segunda señal [No 24/7] | Anime | Español (Latam/ES) |
-| 510 | 🇪🇸 | Canal Locomotion - Segunda señal [Opc.2][No 24/7] | Anime | Español (Latam/ES) |
-| 511 | 🇪🇸 | Coreano by CJ ENM | Anime | Español (Latam/ES) |
-| 512 | 🇪🇸 | Death Note - Elfen Lied | Anime | Español (Latam/ES) |
-| 513 | 🇪🇸 | Delmi TV | Anime | Español (Latam/ES) |
-| 514 | 🇪🇸 | Dragon Ball / Dragon Ball Z (América Latina) | Anime | Español (Latam/ES) |
-| 515 | 🇪🇸 | Dragon Ball Peliculas (América Latina) | Anime | Español (Latam/ES) |
-| 516 | 🇪🇸 | Dragon Ball Super (América Latina) | Anime | Español (Latam/ES) |
-| 517 | 🇪🇸 | EnerGeek Fan (América Latina) | Anime | Español (Latam/ES) |
-| 518 | 🇪🇸 | EnerGeek Retro (América Latina) | Anime | Español (Latam/ES) |
-| 519 | 🇪🇸 | EnerGeek Retro (América Latina)[Opc.2] | Anime | Español (Latam/ES) |
-| 520 | 🇪🇸 | K-Drama+ | Anime | Español (Latam/ES) |
-| 521 | 🇪🇸 | K-Drama+ (Rakuten) | Anime | Español (Latam/ES) |
-| 522 | 🇪🇸 | K-POP by CJ ENM | Anime | Español (Latam/ES) |
-| 523 | 🇦🇷 | Kpop Mix | Anime | Español (Latam/ES) |
-| 524 | 🇪🇸 | KPOP TV Play | Anime | Español (Latam/ES) |
-| 525 | 🇪🇸 | Macross TV | Anime | Español (Latam/ES) |
-| 526 | 🇻🇪 | MAX Anime | Anime | Español (Latam/ES) |
-| 527 | 🇪🇸 | Max Anime (América Latina) | Anime | Español (Latam/ES) |
-| 528 | 🇪🇸 | Mundo Series | Anime | Español (Latam/ES) |
-| 529 | 🇪🇸 | Naruto (Peliculas) (América Latina) | Anime | Español (Latam/ES) |
-| 530 | 🇪🇸 | Navez Mix TV | Anime | Español (Latam/ES) |
-| 531 | 🇪🇸 | NEW K-MOVIES (SUB) | Anime | Español (Latam/ES) |
-| 532 | 🇪🇸 | NEW KPOP | Anime | Español (Latam/ES) |
-| 533 | 🇩🇪 | Pluto TV Anime | Anime | Español (Latam/ES) |
-| 534 | 🇺🇸 | Pluto TV Anime LatAm | Anime | Español (Latam/ES) |
-| 535 | 🇪🇸 | Primired Anime (América Latina) | Anime | Español (Latam/ES) |
-| 536 | 🇪🇸 | Rakuten VIKI (SUB) | Anime | Español (Latam/ES) |
-| 537 | 🇪🇸 | Series K-Comedia Romántica | Anime | Español (Latam/ES) |
-| 538 | 🇪🇸 | Series K-Drama | Anime | Español (Latam/ES) |
-| 539 | 🇪🇸 | Shinchan (España) | Anime | Español (Latam/ES) |
-| 540 | 🇪🇸 | TALTAL TV | Anime | Español (Latam/ES) |
-| 541 | 🇪🇸 | TALTAL TV 2 | Anime | Español (Latam/ES) |
-| 542 | 🇪🇸 | TL+ (El Salvador) | Anime | Español (Latam/ES) |
-| 543 | 🇪🇸 | TV Grupo Medios Mendoza Anime | Anime | Español (Latam/ES) |
-| 544 | 🇪🇸 | Yu-Gi-Oh! (España) | Anime | Español (Latam/ES) |
-| 545 | 🇪🇸 | Zyoon TV HD (Chile) | Anime | Español (Latam/ES) |
-| 546 | 🇪🇸 | Zyoon TV SD (Chile) | Anime | Español (Latam/ES) |
+| 549 | 🇪🇸 | Anime Presente | Anime | Español (Latam/ES) |
+| 550 | 🇪🇸 | Anime Station (América Latina) [No 24/7] | Anime | Español (Latam/ES) |
+| 551 | 🇪🇸 | Anime Vision | Anime | Español (Latam/ES) |
+| 552 | 🇪🇸 | Anime Visión (España)[Opc.1] | Anime | Español (Latam/ES) |
+| 553 | 🇪🇸 | Anime Vision Classics | Anime | Español (Latam/ES) |
+| 554 | 🇪🇸 | Anime Visión Classics (España)[Opc.1] | Anime | Español (Latam/ES) |
+| 555 | 🇪🇸 | B4U Music APAC | Anime | Español (Latam/ES) |
+| 556 | 🇪🇸 | Beyblade (España) | Anime | Español (Latam/ES) |
+| 557 | 🇪🇸 | Canal Locomotion - Segunda señal [No 24/7] | Anime | Español (Latam/ES) |
+| 558 | 🇪🇸 | Canal Locomotion - Segunda señal [Opc.2][No 24/7] | Anime | Español (Latam/ES) |
+| 559 | 🇪🇸 | Coreano by CJ ENM | Anime | Español (Latam/ES) |
+| 560 | 🇪🇸 | Death Note - Elfen Lied | Anime | Español (Latam/ES) |
+| 561 | 🇪🇸 | Delmi TV | Anime | Español (Latam/ES) |
+| 562 | 🇪🇸 | Dragon Ball / Dragon Ball Z (América Latina) | Anime | Español (Latam/ES) |
+| 563 | 🇪🇸 | Dragon Ball Peliculas (América Latina) | Anime | Español (Latam/ES) |
+| 564 | 🇪🇸 | Dragon Ball Super (América Latina) | Anime | Español (Latam/ES) |
+| 565 | 🇪🇸 | EnerGeek Fan (América Latina) | Anime | Español (Latam/ES) |
+| 566 | 🇪🇸 | EnerGeek Retro (América Latina) | Anime | Español (Latam/ES) |
+| 567 | 🇪🇸 | EnerGeek Retro (América Latina)[Opc.2] | Anime | Español (Latam/ES) |
+| 568 | 🇪🇸 | K-Drama+ | Anime | Español (Latam/ES) |
+| 569 | 🇪🇸 | K-Drama+ (Rakuten) | Anime | Español (Latam/ES) |
+| 570 | 🇪🇸 | K-POP by CJ ENM | Anime | Español (Latam/ES) |
+| 571 | 🇦🇷 | Kpop Mix | Anime | Español (Latam/ES) |
+| 572 | 🇪🇸 | KPOP TV Play | Anime | Español (Latam/ES) |
+| 573 | 🇪🇸 | Macross TV | Anime | Español (Latam/ES) |
+| 574 | 🇻🇪 | MAX Anime | Anime | Español (Latam/ES) |
+| 575 | 🇪🇸 | Max Anime (América Latina) | Anime | Español (Latam/ES) |
+| 576 | 🇪🇸 | Mundo Series | Anime | Español (Latam/ES) |
+| 577 | 🇪🇸 | Naruto (Peliculas) (América Latina) | Anime | Español (Latam/ES) |
+| 578 | 🇪🇸 | Navez Mix TV | Anime | Español (Latam/ES) |
+| 579 | 🇪🇸 | NEW K-MOVIES (SUB) | Anime | Español (Latam/ES) |
+| 580 | 🇪🇸 | NEW KPOP | Anime | Español (Latam/ES) |
+| 581 | 🇩🇪 | Pluto TV Anime | Anime | Español (Latam/ES) |
+| 582 | 🇺🇸 | Pluto TV Anime LatAm | Anime | Español (Latam/ES) |
+| 583 | 🇪🇸 | Primired Anime (América Latina) | Anime | Español (Latam/ES) |
+| 584 | 🇪🇸 | Rakuten VIKI (SUB) | Anime | Español (Latam/ES) |
+| 585 | 🇪🇸 | Series K-Comedia Romántica | Anime | Español (Latam/ES) |
+| 586 | 🇪🇸 | Series K-Drama | Anime | Español (Latam/ES) |
+| 587 | 🇪🇸 | Shinchan (España) | Anime | Español (Latam/ES) |
+| 588 | 🇪🇸 | TALTAL TV | Anime | Español (Latam/ES) |
+| 589 | 🇪🇸 | TALTAL TV 2 | Anime | Español (Latam/ES) |
+| 590 | 🇪🇸 | TL+ (El Salvador) | Anime | Español (Latam/ES) |
+| 591 | 🇪🇸 | TV Grupo Medios Mendoza Anime | Anime | Español (Latam/ES) |
+| 592 | 🇪🇸 | Yu-Gi-Oh! (España) | Anime | Español (Latam/ES) |
+| 593 | 🇪🇸 | Zyoon TV HD (Chile) | Anime | Español (Latam/ES) |
+| 594 | 🇪🇸 | Zyoon TV SD (Chile) | Anime | Español (Latam/ES) |
 
 ### 🎓 Cultura, educación y documentales — 92 canales
 

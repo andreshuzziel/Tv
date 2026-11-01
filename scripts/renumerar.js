@@ -12,7 +12,7 @@ let REGION_ALIAS = {};
 const ma = src.match(/const REGION_ALIAS = (\{[\s\S]*?\});/);
 if (ma) REGION_ALIAS = eval('(' + ma[1] + ')');
 
-const STARTS = { nac: 1, noticias: 100, deportes: 201, entre: 301, infantil: 401, anime: 501, cultura: 601, musica: 701, radio: 1001, estilo: 1101, gob: 1201, religion: 1301, comunit: 1501, inter: 1601, ott: 1701, general: 1801 };
+const STARTS = { nac: 1, noticias: 101, deportes: 201, entre: 301, infantil: 401, anime: 501, cultura: 601, musica: 701, radio: 1001, estilo: 1101, gob: 1201, religion: 1301, comunit: 1501, inter: 1601, ott: 1701, general: 1801 };
 const REG_START = 3501;
 
 global.window = {};
@@ -31,11 +31,15 @@ for (const c of chans) {
   else (byTheme[themeOf(c)] = byTheme[themeOf(c)] || []).push(c);
 }
 const nuevo = {};
+let prevEnd = 0;
 for (const t of THEMES) {
   const arr = (byTheme[t.k] || []).sort((a, b) => oldChno(a) - oldChno(b) || a.name.localeCompare(b.name));
-  arr.forEach((c, i) => { nuevo[c.id] = STARTS[t.k] + i; });
+  if (!arr.length) continue;
+  const start = Math.max(STARTS[t.k], prevEnd + 1);   // sin solaparse con el bloque anterior
+  arr.forEach((c, i) => { nuevo[c.id] = start + i; });
+  prevEnd = start + arr.length - 1;
 }
-let n = REG_START;
+let n = Math.max(REG_START, prevEnd + 1);
 for (const r of REGIONS) {
   const arr = (byReg[r.k] || []).sort((a, b) => oldChno(a) - oldChno(b) || a.name.localeCompare(b.name));
   for (const c of arr) nuevo[c.id] = n++;
@@ -65,6 +69,6 @@ console.log('tv-chile-todo.m3u:', withUrl.length, 'EXTINF · primero:', lines[1]
 // resumen por tema
 for (const t of THEMES) {
   const arr = byTheme[t.k] || [];
-  if (arr.length) console.log(`  ${t.icon} ${t.name}: #${STARTS[t.k]}–#${STARTS[t.k] + arr.length - 1} (${arr.length})`);
+  if (arr.length) { const ns = arr.map(c => nuevo[c.id]); console.log(`  ${t.icon} ${t.name}: #${Math.min(...ns)}–#${Math.max(...ns)} (${arr.length}) · bloque declarado #${STARTS[t.k]}+`); }
 }
 console.log(`  📍 Regiones: #${REG_START}–#${n - 1} (${n - REG_START})`);
