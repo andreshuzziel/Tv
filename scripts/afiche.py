@@ -86,10 +86,8 @@ def svg_doc(title, subtitle, items, fname):
     h = head_h
     for s, grp in blocks:
         big = (s is DEPORTES); cols = COLS_BIG if big else 4
-        colw = (W - 2 * M - (cols - 1) * GAP) / cols
         ch, pitch = (CH_BIG, PITCH_BIG) if big else (CH, PITCH)
-        nsub = 1 + (1 if big else 0)  # deportes: fila extra "alternativas legales"
-        h += sec_h + 4 + ((len(grp) + cols - 1) // cols) * pitch + 6
+        h += 16 + sec_h + 4 + (24 if big else 0) + ((len(grp) + cols - 1) // cols) * pitch + 6
     h += M; H = int(h)
     o = [f'<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="{W}" height="{H}" viewBox="0 0 {W} {H}" font-family="Segoe UI, Arial, Helvetica, sans-serif">',
          DEFS,
@@ -99,7 +97,7 @@ def svg_doc(title, subtitle, items, fname):
          f'<text x="{M}" y="46" font-size="34" font-weight="700" fill="#f8fafc">{esc(title)}</text>',
          f'<text x="{M}" y="76" font-size="15" fill="#94a3b8">{esc(subtitle)}</text>',
          f'<text x="{M}" y="102" font-size="13" fill="#64748b">Cada celda:  #número  🚩 bandera real + emote 🏳️ del país de origen (flagcdn, ISO 3166-1)  Nombre   ·   tooltip: país + temática</text>',
-         f'<text x="{M}" y="126" font-size="13" fill="#64748b">Orden: POR TEMÁTICA (igual que la app: nacional, noticias, regiones, deportes, …) y dentro de cada tema # cronológico ascendente · deportes con alternativas legales ✔ · OTT gratis cerca del final</text>',
+         f'<text x="{M}" y="126" font-size="13" fill="#64748b">Orden: POR TEMÁTICA (igual que la app: nacional, noticias, regiones, deportes, …) y dentro de cada tema # cronológico ascendente · CADA TEMA EN SU PROPIO PANEL · deportes con ✔ legales · OTT cerca del final</text>',
          f'<text x="{M}" y="148" font-size="13" fill="#64748b">Generado 01-nov-2026 · v3.102 · ordenado por temática + # ascendente · sanitizado (https, sin TV de pago/piratería)</text>']
     y = head_h
     for s, grp in blocks:
@@ -108,6 +106,8 @@ def svg_doc(title, subtitle, items, fname):
         colw = (W - 2 * M - (cols - 1) * GAP) / cols
         ch, pitch = (CH_BIG, PITCH_BIG) if big else (CH, PITCH)
         maxch = int((colw - 92) / 6.55)
+        bh = sec_h + 4 + (24 if big else 0) + ((len(grp) + cols - 1) // cols) * pitch + 6
+        o.append(f'<rect x="{M-9}" y="{y-9}" width="{W-2*M+18}" height="{bh+12}" rx="12" fill="#0d1526" stroke="{color}" stroke-opacity="0.45" stroke-width="1.5"/>')
         if s[0] is not None:
             rng = f'{s[0]}–{s[1]}'
         else:
@@ -139,7 +139,7 @@ def svg_doc(title, subtitle, items, fname):
                 fx = cx + (44 if not alt else 30)
             o.append(f'<text x="{fx}" y="{cy + (20 if big else 16)}" font-size="{10.5 if big else 10}" opacity="0.95">{fl}</text>')  # EMOTE de bandera
             o.append(f'<text x="{fx+14}" y="{cy + (20 if big else 16)}" font-size="{13 if big else 12}" fill="#e2e8f0">{esc(trunc(r["name"], maxch))}</text>')
-        y += ((len(grp) + cols - 1) // cols) * pitch + 6
+        y += ((len(grp) + cols - 1) // cols) * pitch + 6 + 16
     o.append('</svg>')
     open(fname, 'w', encoding='utf-8').write('\n'.join(o))
     return W, H
@@ -188,8 +188,11 @@ try:
         colw = (W - 2 * M - (cols - 1) * GAP) / cols
         ch, pitch = (CH_BIG, PITCH_BIG) if big else (CH, PITCH)
         maxch = int((colw - 80) / 6.9)
+        bh = 34 + (24 if big else 0) + ((len(grp) + cols - 1) // cols) * pitch + 6
+        d.rectangle([M-9, y-9, w-M+9, y+bh-2], fill=(13, 21, 38), outline=rgb, width=2)
         d.rectangle([M, y, w - M, y + 26], fill=rgb)
-        rng = f'{s[0]}–{s[1]}' if s[0] else '—'
+        nums = [r['chno'] for r in grp if r.get('chno')]
+        rng = f'#{min(nums)}–#{max(nums)}' if nums else 'web'
         d.text((M + 10, y + 4), s[2] + f'  ·  canales {rng}  ·  {len(grp)} filas', font=f_sub, fill='#ffffff')
         y += 34
         if big:
@@ -207,7 +210,7 @@ try:
             fx = int(cx + (44 if not alt else 32))
             if ck in flagimg: img.paste(flagimg[ck], (fx, int(cy + (9 if big else 5))))
             d.text((fx + 22, cy + (8 if big else 4)), trunc(r['name'], maxch), font=f_txtb if big else f_txt, fill='#e2e8f0')
-        y += ((len(grp) + cols - 1) // cols) * pitch + 6
+        y += ((len(grp) + cols - 1) // cols) * pitch + 6 + 16
     img.save('AFICHE-CANALES.png', optimize=True)
     print(f'AFICHE-CANALES.png: {w}x{h}, {os.path.getsize("AFICHE-CANALES.png")/1048576:.1f} MB')
 except Exception as e:
