@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="cosmostv-py-sd" tvg-name="Cosmos TV" tvg-chno="1422" tvg-country="PY" group-title="Ciencia",Cosmos TV
+#EXTINF:-1 tvg-id="cosmostv-py-sd" tvg-name="Cosmos TV" tvg-chno="690" tvg-country="PY" group-title="Ciencia",Cosmos TV
 https://video.hostingcaaguazu.com:19360/cosmostv/cosmostv.m3u8
-#EXTINF:-1 tvg-id="exctv-ve-sd" tvg-name="EXC TV" tvg-chno="1423" tvg-country="VE" group-title="Ciencia",EXC TV
+#EXTINF:-1 tvg-id="exctv-ve-sd" tvg-name="EXC TV" tvg-chno="691" tvg-country="VE" group-title="Ciencia",EXC TV
 https://vcp.myplaytv.com/explosioncreativa/explosioncreativa/playlist.m3u8

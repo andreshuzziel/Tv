@@ -1,25 +1,25 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="wapp-cl-sd" tvg-name="Wapp" tvg-chno="456" tvg-country="CL" group-title="Estilo de vida",Wapp
+#EXTINF:-1 tvg-id="wapp-cl-sd" tvg-name="Wapp" tvg-chno="1101" tvg-country="CL" group-title="Estilo de vida",Wapp
 https://stream.wapptv.cl/video/index.m3u8
-#EXTINF:-1 tvg-id="cinepride-us-sd" tvg-name="CinePride" tvg-chno="1596" tvg-country="US" group-title="Estilo de vida",CinePride
+#EXTINF:-1 tvg-id="cinepride-us-sd" tvg-name="CinePride" tvg-chno="1104" tvg-country="US" group-title="Estilo de vida",CinePride
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=2223
-#EXTINF:-1 tvg-id="elmueble-es-sd" tvg-name="El Mueble" tvg-chno="1597" tvg-country="ES" group-title="Estilo de vida",El Mueble
+#EXTINF:-1 tvg-id="elmueble-es-sd" tvg-name="El Mueble" tvg-chno="1105" tvg-country="ES" group-title="Estilo de vida",El Mueble
 https://jmp2.uk/plu-690dd10a37b131228d76d5b1.m3u8
-#EXTINF:-1 tvg-id="kaloopytv-us-sd" tvg-name="Kaloopy TV" tvg-chno="1598" tvg-country="US" group-title="Estilo de vida",Kaloopy TV
+#EXTINF:-1 tvg-id="kaloopytv-us-sd" tvg-name="Kaloopy TV" tvg-chno="1106" tvg-country="US" group-title="Estilo de vida",Kaloopy TV
 https://streamingserver000.viewtv.cloud/VIEWTVNETWORK-KALOOPY/index.m3u8
-#EXTINF:-1 tvg-id="logostvsalud-es-sd" tvg-name="Logos TV Salud" tvg-chno="1599" tvg-country="ES" group-title="Estilo de vida",Logos TV Salud
+#EXTINF:-1 tvg-id="logostvsalud-es-sd" tvg-name="Logos TV Salud" tvg-chno="1107" tvg-country="ES" group-title="Estilo de vida",Logos TV Salud
 https://streamer1.streamhost.org/salive/logossaludH/playlist.m3u8
-#EXTINF:-1 tvg-id="nowmediatelevision-us-hd" tvg-name="NowMedia Television" tvg-chno="1600" tvg-country="US" group-title="Estilo de vida",NowMedia Television
+#EXTINF:-1 tvg-id="nowmediatelevision-us-hd" tvg-name="NowMedia Television" tvg-chno="1108" tvg-country="US" group-title="Estilo de vida",NowMedia Television
 https://stream-204968.castr.net/64e0c91d08bff3041638aee3/live_a4243540d4b911f0b624bda5e9a32aa9/index.m3u8
-#EXTINF:-1 tvg-id="nowmediatelevision-us-spanish" tvg-name="NowMedia Television Spanish" tvg-chno="1601" tvg-country="US" group-title="Estilo de vida",NowMedia Television Spanish
+#EXTINF:-1 tvg-id="nowmediatelevision-us-spanish" tvg-name="NowMedia Television Spanish" tvg-chno="1109" tvg-country="US" group-title="Estilo de vida",NowMedia Television Spanish
 https://stream-204968.castr.net/64e0c91d08bff3041638aee3/live_a16fa020f4c411f09ddaa1978319689a/index.m3u8
-#EXTINF:-1 tvg-id="ploustv-ve-sd" tvg-name="Plous TV" tvg-chno="1602" tvg-country="VE" group-title="Estilo de vida",Plous TV
+#EXTINF:-1 tvg-id="ploustv-ve-sd" tvg-name="Plous TV" tvg-chno="1110" tvg-country="VE" group-title="Estilo de vida",Plous TV
 https://vcp.myplaytv.com/glowtv/glowtv/playlist.m3u8
-#EXTINF:-1 tvg-id="plutotvdiseno-de-es" tvg-name="Pluto TV Diseno" tvg-chno="1603" tvg-country="DE" group-title="Estilo de vida",Pluto TV Diseno
+#EXTINF:-1 tvg-id="plutotvdiseno-de-es" tvg-name="Pluto TV Diseno" tvg-chno="1111" tvg-country="DE" group-title="Estilo de vida",Pluto TV Diseno
 https://jmp2.uk/plu-64db2e0835425100080f2f5a.m3u8
-#EXTINF:-1 tvg-id="plutotvestilodevida-us-latam" tvg-name="Pluto TV Estilo de Vida" tvg-chno="1604" tvg-country="US" group-title="Estilo de vida",Pluto TV Estilo de Vida
+#EXTINF:-1 tvg-id="plutotvestilodevida-us-latam" tvg-name="Pluto TV Estilo de Vida" tvg-chno="1112" tvg-country="US" group-title="Estilo de vida",Pluto TV Estilo de Vida
 https://jmp2.uk/plu-5dcde0657444a40009cd2422.m3u8
-#EXTINF:-1 tvg-id="senalestv-do-sd" tvg-name="Senales TV" tvg-chno="1605" tvg-country="DO" group-title="Estilo de vida",Senales TV
+#EXTINF:-1 tvg-id="senalestv-do-sd" tvg-name="Senales TV" tvg-chno="1113" tvg-country="DO" group-title="Estilo de vida",Senales TV
 https://live.dionelysterrero.com/senalestv/stream.m3u8
-#EXTINF:-1 tvg-id="superyachttv-mc-sd" tvg-name="Superyacht TV" tvg-chno="1606" tvg-country="MC" group-title="Estilo de vida",Superyacht TV
+#EXTINF:-1 tvg-id="superyachttv-mc-sd" tvg-name="Superyacht TV" tvg-chno="1114" tvg-country="MC" group-title="Estilo de vida",Superyacht TV
 https://sy.wns.live/hls/stream.m3u8

@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="1332-clickradio-cl" tvg-name="ClickRadio.cl" tvg-chno="445" tvg-country="CL" group-title="Comunitarios",ClickRadio.cl
+#EXTINF:-1 tvg-id="1332-clickradio-cl" tvg-name="ClickRadio.cl" tvg-chno="1501" tvg-country="CL" group-title="Comunitarios",ClickRadio.cl
 https://live20.bozztv.com/akamaissh101/ssh101/clickradiolive/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="1754-pudahuel-tv" tvg-name="Pudahuel TV" tvg-chno="446" tvg-country="CL" group-title="Comunitarios",Pudahuel TV
+#EXTINF:-1 tvg-id="1754-pudahuel-tv" tvg-name="Pudahuel TV" tvg-chno="1502" tvg-country="CL" group-title="Comunitarios",Pudahuel TV
 https://panel.tvstream.cl:1936/8000/8000/playlist.m3u8?PlaylistM3UCL

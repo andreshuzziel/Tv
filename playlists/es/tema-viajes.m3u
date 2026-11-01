@@ -1,15 +1,15 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="turismotraveltv-cl-sd" tvg-name="Turismo Travel TV" tvg-chno="457" tvg-country="CL" group-title="Viajes",Turismo Travel TV
+#EXTINF:-1 tvg-id="turismotraveltv-cl-sd" tvg-name="Turismo Travel TV" tvg-chno="1102" tvg-country="CL" group-title="Viajes",Turismo Travel TV
 https://stmv3.voxtvhd.com.br/turismotraveltv/turismotraveltv/playlist.m3u8
-#EXTINF:-1 tvg-id="arubatv-aw-sd" tvg-name="Aruba.TV" tvg-chno="1607" tvg-country="AW" group-title="Viajes",Aruba.TV
+#EXTINF:-1 tvg-id="arubatv-aw-sd" tvg-name="Aruba.TV" tvg-chno="1115" tvg-country="AW" group-title="Viajes",Aruba.TV
 https://cdn01.setar.aw/Canal49/canal49/playlist.m3u8
-#EXTINF:-1 tvg-id="oepmtv-do-sd" tvg-name="OEPM TV" tvg-chno="1608" tvg-country="DO" group-title="Viajes",OEPM TV
+#EXTINF:-1 tvg-id="oepmtv-do-sd" tvg-name="OEPM TV" tvg-chno="1116" tvg-country="DO" group-title="Viajes",OEPM TV
 https://cnn.hostlagarto.com/oepmtelevision/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="teletur-do-sd" tvg-name="Teletur" tvg-chno="1609" tvg-country="DO" group-title="Viajes",Teletur
+#EXTINF:-1 tvg-id="teletur-do-sd" tvg-name="Teletur" tvg-chno="1117" tvg-country="DO" group-title="Viajes",Teletur
 https://fox.hostlagarto.com:8081/teleturtv/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="turismordtv-do-hd" tvg-name="Turismo RDTV" tvg-chno="1610" tvg-country="DO" group-title="Viajes",Turismo RDTV
+#EXTINF:-1 tvg-id="turismordtv-do-hd" tvg-name="Turismo RDTV" tvg-chno="1118" tvg-country="DO" group-title="Viajes",Turismo RDTV
 https://5790d294af2dc.streamlock.net/yosoyturismotv/live/playlist.m3u8
-#EXTINF:-1 tvg-id="turistiktv-mx-sd" tvg-name="Turistik TV" tvg-chno="1611" tvg-country="MX" group-title="Viajes",Turistik TV
+#EXTINF:-1 tvg-id="turistiktv-mx-sd" tvg-name="Turistik TV" tvg-chno="1119" tvg-country="MX" group-title="Viajes",Turistik TV
 https://cdn1.cef-technology.com/stream_web/turistik/playlist.m3u8
-#EXTINF:-1 tvg-id="tvoff-bo-sd" tvg-name="TV OFF" tvg-chno="1612" tvg-country="BO" group-title="Viajes",TV OFF
+#EXTINF:-1 tvg-id="tvoff-bo-sd" tvg-name="TV OFF" tvg-chno="1120" tvg-country="BO" group-title="Viajes",TV OFF
 https://edge.enhdtv.com/tvoff/index.m3u8

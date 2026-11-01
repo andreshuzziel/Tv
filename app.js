@@ -608,7 +608,7 @@
       <span class="tag ${s.type === 'Gratis' ? 'free' : 'paid'}">${esc(s.type)}</span>
     </a>`).join('');
   const nRegs = new Set(regChans.map(c => c._reg)).size;
-  $('#topStats').innerHTML = `<span><b>${chans.length}</b> canales</span><span><b>${regChans.length}</b> regionales · ${nRegs} regiones</span><span><b>${temChans.length}</b> por temática</span><span class="upd">🔄 actualizado 01-nov-2026 · v3.103 · 🏛️ Gobierno y Congreso CL (9) · # por tema · 🌐 OTT gratis</span>`;
+  $('#topStats').innerHTML = `<span><b>${chans.length}</b> canales</span><span><b>${regChans.length}</b> regionales · ${nRegs} regiones</span><span><b>${temChans.length}</b> por temática</span><span class="upd">🔄 actualizado 01-nov-2026 · v3.104 · 🏛️ gob CL (9) · # por bloques de temática · 🌐 OTT gratis</span>`;
   $('#gFoot').textContent = 'Solo señales abiertas https · sanitizado (iptv-org + m3u.cl + 6 fuentes)';
   $('#tFoot').textContent = 'Elige una temática para filtrar los canales →';
 

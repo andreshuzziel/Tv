@@ -1,7 +1,7 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="garagetvlatinamerica-ar-sd" tvg-name="Garage TV Latin America" tvg-chno="1625" tvg-country="AR" group-title="Autos",Garage TV Latin America
+#EXTINF:-1 tvg-id="garagetvlatinamerica-ar-sd" tvg-name="Garage TV Latin America" tvg-chno="1133" tvg-country="AR" group-title="Autos",Garage TV Latin America
 https://stream1.sersat.com/hls/garagetv.m3u8
-#EXTINF:-1 tvg-id="motorvision-de-sd" tvg-name="Motorvision" tvg-chno="1626" tvg-country="DE" group-title="Autos",Motorvision
+#EXTINF:-1 tvg-id="motorvision-de-sd" tvg-name="Motorvision" tvg-chno="1134" tvg-country="DE" group-title="Autos",Motorvision
 https://mvg-mv-xumo.otteravision.com/mvg/mv/mv.m3u8
-#EXTINF:-1 tvg-id="plutotvmotor-de-es" tvg-name="Pluto TV Motor (Germany)" tvg-chno="1627" tvg-country="DE" group-title="Autos",Pluto TV Motor (Germany)
+#EXTINF:-1 tvg-id="plutotvmotor-de-es" tvg-name="Pluto TV Motor (Germany)" tvg-chno="1135" tvg-country="DE" group-title="Autos",Pluto TV Motor (Germany)
 https://jmp2.uk/plu-6080345ebb49b90007ce0baf.m3u8

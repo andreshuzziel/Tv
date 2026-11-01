@@ -21,4 +21,4 @@ for (const [g, arr] of Object.entries(byGroup)) {
   fs.writeFileSync(`playlists/es/tema-${slug(g)}.m3u`, ls.join('\n') + '\n');
 }
 console.log('tematicas-es-completa.m3u:', tem.length, 'canales |', Object.keys(byGroup).length, 'temas');
-console.log('tema-legislativo.m3u:', (byGroup['Legislativo'] || []).map(c => c.name + ' [' + c.cc + ']').join(' | '));
+console.log('tema-gobierno-y-congreso.m3u:', (byGroup['Gobierno y Congreso'] || []).map(c => c.name + ' [' + c.cc + ']').join(' | '));

@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="443-arab-tv" tvg-name="Arab TV" tvg-chno="437" tvg-country="CL" group-title="Culturales",Arab TV
+#EXTINF:-1 tvg-id="443-arab-tv" tvg-name="Arab TV" tvg-chno="604" tvg-country="CL" group-title="Culturales",Arab TV
 https://video03.logicahost.com.br/arabtvchile/arabtvchile/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="1288-suyai-tv" tvg-name="Suyai TV" tvg-chno="439" tvg-country="CL" group-title="Culturales",Suyai TV
+#EXTINF:-1 tvg-id="1288-suyai-tv" tvg-name="Suyai TV" tvg-chno="605" tvg-country="CL" group-title="Culturales",Suyai TV
 https://trun.suyaitv.cl/memfs/1255a743-cd41-40a8-86c4-d264ee16ebf3.m3u8?PlaylistM3UCL

@@ -1,49 +1,49 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="947-energeek" tvg-name="EnerGeek" tvg-chno="319" tvg-country="CL" group-title="Animación",EnerGeek
+#EXTINF:-1 tvg-id="947-energeek" tvg-name="EnerGeek" tvg-chno="402" tvg-country="CL" group-title="Animación",EnerGeek
 https://cl-2.backend.energeek.cl/bkp/egretroweb/index.m3u8?token=D3m0M3UCLWeb&PlaylistM3UCL
-#EXTINF:-1 tvg-id="1112-energeek-fan" tvg-name="EnerGeek FAN" tvg-chno="320" tvg-country="CL" group-title="Animación",EnerGeek FAN
+#EXTINF:-1 tvg-id="1112-energeek-fan" tvg-name="EnerGeek FAN" tvg-chno="403" tvg-country="CL" group-title="Animación",EnerGeek FAN
 https://cl-2.backend.energeek.cl/bkp/egfanweb/index.m3u8?token=D3m0M3UCLWeb&PlaylistM3UCL
-#EXTINF:-1 tvg-id="1266-energeek-radio" tvg-name="EnerGeek Radio" tvg-chno="321" tvg-country="CL" group-title="Animación",EnerGeek Radio
+#EXTINF:-1 tvg-id="1266-energeek-radio" tvg-name="EnerGeek Radio" tvg-chno="404" tvg-country="CL" group-title="Animación",EnerGeek Radio
 https://cl-2.backend.energeek.cl/bkp/egradioweb/index.m3u8?token=D3m0M3UCLWeb&PlaylistM3UCL
-#EXTINF:-1 tvg-id="45-ntv" tvg-name="NTV" tvg-chno="322" tvg-country="CL" group-title="Animación",NTV
+#EXTINF:-1 tvg-id="45-ntv" tvg-name="NTV" tvg-chno="405" tvg-country="CL" group-title="Animación",NTV
 https://mdstrm.com/live-stream-playlist/5aaabe9e2c56420918184c6d.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="comedycentralsouthpark-us-latam" tvg-name="Comedy Central South Park LatAm" tvg-chno="915" tvg-country="US" group-title="Animación",Comedy Central South Park LatAm
+#EXTINF:-1 tvg-id="comedycentralsouthpark-us-latam" tvg-name="Comedy Central South Park LatAm" tvg-chno="436" tvg-country="US" group-title="Animación",Comedy Central South Park LatAm
 https://jmp2.uk/plu-609ae5cd48d3200007b0a98e.m3u8
-#EXTINF:-1 tvg-id="detectiveconan-us-spain" tvg-name="Detective Conan" tvg-chno="916" tvg-country="US" group-title="Animación",Detective Conan
+#EXTINF:-1 tvg-id="detectiveconan-us-spain" tvg-name="Detective Conan" tvg-chno="437" tvg-country="US" group-title="Animación",Detective Conan
 https://jmp2.uk/plu-629a066860ef810008267b70.m3u8
-#EXTINF:-1 tvg-id="dreikotv-pa-sd" tvg-name="Dreiko TV" tvg-chno="917" tvg-country="PA" group-title="Animación",Dreiko TV
+#EXTINF:-1 tvg-id="dreikotv-pa-sd" tvg-name="Dreiko TV" tvg-chno="438" tvg-country="PA" group-title="Animación",Dreiko TV
 https://cloudvideo.servers10.com:8081/8020/index.m3u8
-#EXTINF:-1 tvg-id="esportsmaxtv-ve-sd" tvg-name="eSports Max TV" tvg-chno="920" tvg-country="VE" group-title="Animación",eSports Max TV
+#EXTINF:-1 tvg-id="esportsmaxtv-ve-sd" tvg-name="eSports Max TV" tvg-chno="441" tvg-country="VE" group-title="Animación",eSports Max TV
 https://cdnlive.klicgo.net/esportsmax/live/playlist_dvr.m3u8
-#EXTINF:-1 tvg-id="extremakidstv-cr-hd" tvg-name="Extrema Kids TV" tvg-chno="921" tvg-country="CR" group-title="Animación",Extrema Kids TV
+#EXTINF:-1 tvg-id="extremakidstv-cr-hd" tvg-name="Extrema Kids TV" tvg-chno="442" tvg-country="CR" group-title="Animación",Extrema Kids TV
 https://627bb251f23c7.streamlock.net:444/ExtremaKids/ExtremaKids/playlist.m3u8
-#EXTINF:-1 tvg-id="giktvmx-mx-sd" tvg-name="GikTVMX" tvg-chno="922" tvg-country="MX" group-title="Animación",GikTVMX
+#EXTINF:-1 tvg-id="giktvmx-mx-sd" tvg-name="GikTVMX" tvg-chno="443" tvg-country="MX" group-title="Animación",GikTVMX
 https://pistream.ddns.net/hls/stream.m3u8
-#EXTINF:-1 tvg-id="lamil35tv-ar-sd" tvg-name="LAMIL35 TV" tvg-chno="923" tvg-country="AR" group-title="Animación",LAMIL35 TV
+#EXTINF:-1 tvg-id="lamil35tv-ar-sd" tvg-name="LAMIL35 TV" tvg-chno="444" tvg-country="AR" group-title="Animación",LAMIL35 TV
 https://vtm2.msinteractiva.com/lamil35/lamil35/playlist.m3u8
-#EXTINF:-1 tvg-id="lastortugasninja-us-latam" tvg-name="Las Tortugas Ninja" tvg-chno="924" tvg-country="US" group-title="Animación",Las Tortugas Ninja
+#EXTINF:-1 tvg-id="lastortugasninja-us-latam" tvg-name="Las Tortugas Ninja" tvg-chno="445" tvg-country="US" group-title="Animación",Las Tortugas Ninja
 https://jmp2.uk/plu-63dd5d7a4e83e700088fbca8.m3u8
-#EXTINF:-1 tvg-id="mrbeananimated-uk-es" tvg-name="Mr Bean Animated ES" tvg-chno="925" tvg-country="UK" group-title="Animación",Mr Bean Animated ES
+#EXTINF:-1 tvg-id="mrbeananimated-uk-es" tvg-name="Mr Bean Animated ES" tvg-chno="446" tvg-country="UK" group-title="Animación",Mr Bean Animated ES
 https://amg00627-amg00627c30-rakuten-es-3990.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanescc-rakutenes/playlist.m3u8
-#EXTINF:-1 tvg-id="narutoenespanol-us-sd" tvg-name="Naruto en espanol" tvg-chno="926" tvg-country="US" group-title="Animación",Naruto en espanol
+#EXTINF:-1 tvg-id="narutoenespanol-us-sd" tvg-name="Naruto en espanol" tvg-chno="447" tvg-country="US" group-title="Animación",Naruto en espanol
 https://jmp2.uk/plu-5ee92e72fb286e0007285fec.m3u8
-#EXTINF:-1 tvg-id="narutoshippuden-us-latam" tvg-name="Naruto Shippuden" tvg-chno="927" tvg-country="US" group-title="Animación",Naruto Shippuden
+#EXTINF:-1 tvg-id="narutoshippuden-us-latam" tvg-name="Naruto Shippuden" tvg-chno="448" tvg-country="US" group-title="Animación",Naruto Shippuden
 https://jmp2.uk/plu-64c92f965580090008084968.m3u8
-#EXTINF:-1 tvg-id="onepiece-us-latam" tvg-name="One Piece LatAm" tvg-chno="928" tvg-country="US" group-title="Animación",One Piece LatAm
+#EXTINF:-1 tvg-id="onepiece-us-latam" tvg-name="One Piece LatAm" tvg-chno="449" tvg-country="US" group-title="Animación",One Piece LatAm
 https://jmp2.uk/plu-5ff4b9ccf938f8000779eb99.m3u8
-#EXTINF:-1 tvg-id="onepiece-us-spain" tvg-name="One Piece Spain" tvg-chno="929" tvg-country="US" group-title="Animación",One Piece Spain
+#EXTINF:-1 tvg-id="onepiece-us-spain" tvg-name="One Piece Spain" tvg-chno="450" tvg-country="US" group-title="Animación",One Piece Spain
 https://jmp2.uk/plu-680ba8992472a7200a183eb5.m3u8
-#EXTINF:-1 tvg-id="southpark-de-es" tvg-name="South Park (Germany)" tvg-chno="930" tvg-country="DE" group-title="Animación",South Park (Germany)
+#EXTINF:-1 tvg-id="southpark-de-es" tvg-name="South Park (Germany)" tvg-chno="451" tvg-country="DE" group-title="Animación",South Park (Germany)
 https://jmp2.uk/plu-628751bb7154a40007168843.m3u8
-#EXTINF:-1 tvg-id="southparkversionoriginal-de-es" tvg-name="South Park Version Original" tvg-chno="931" tvg-country="DE" group-title="Animación",South Park Version Original
+#EXTINF:-1 tvg-id="southparkversionoriginal-de-es" tvg-name="South Park Version Original" tvg-chno="452" tvg-country="DE" group-title="Animación",South Park Version Original
 https://jmp2.uk/plu-63d7a8e5a9957100086bfc23.m3u8
-#EXTINF:-1 tvg-id="southparkcoleccioncartman-us-latam" tvg-name="South Park: Coleccion Cartman" tvg-chno="932" tvg-country="US" group-title="Animación",South Park: Coleccion Cartman
+#EXTINF:-1 tvg-id="southparkcoleccioncartman-us-latam" tvg-name="South Park: Coleccion Cartman" tvg-chno="453" tvg-country="US" group-title="Animación",South Park: Coleccion Cartman
 https://jmp2.uk/plu-65df731cec9fda0008b7aa8d.m3u8
-#EXTINF:-1 tvg-id="southparkcoleccionkenny-us-latam" tvg-name="South Park: Coleccion Kenny" tvg-chno="933" tvg-country="US" group-title="Animación",South Park: Coleccion Kenny
+#EXTINF:-1 tvg-id="southparkcoleccionkenny-us-latam" tvg-name="South Park: Coleccion Kenny" tvg-chno="454" tvg-country="US" group-title="Animación",South Park: Coleccion Kenny
 https://jmp2.uk/plu-65df7272ec9fda0008b7a970.m3u8
-#EXTINF:-1 tvg-id="southparkcoleccionkyle-us-latam" tvg-name="South Park: Coleccion Kyle" tvg-chno="934" tvg-country="US" group-title="Animación",South Park: Coleccion Kyle
+#EXTINF:-1 tvg-id="southparkcoleccionkyle-us-latam" tvg-name="South Park: Coleccion Kyle" tvg-chno="455" tvg-country="US" group-title="Animación",South Park: Coleccion Kyle
 https://jmp2.uk/plu-65df73520d4561000817c29b.m3u8
-#EXTINF:-1 tvg-id="southparkcoleccionstan-us-latam" tvg-name="South Park: Coleccion Stan" tvg-chno="935" tvg-country="US" group-title="Animación",South Park: Coleccion Stan
+#EXTINF:-1 tvg-id="southparkcoleccionstan-us-latam" tvg-name="South Park: Coleccion Stan" tvg-chno="456" tvg-country="US" group-title="Animación",South Park: Coleccion Stan
 https://jmp2.uk/plu-65df72db18036500081a8292.m3u8
-#EXTINF:-1 tvg-id="tigueritotv-do-hd" tvg-name="Tiguerito TV" tvg-chno="936" tvg-country="DO" group-title="Animación",Tiguerito TV
+#EXTINF:-1 tvg-id="tigueritotv-do-hd" tvg-name="Tiguerito TV" tvg-chno="457" tvg-country="DO" group-title="Animación",Tiguerito TV
 https://ss2.tvrdomi.com:1936/tigueritostv/tigueritostv/playlist.m3u8

@@ -1,441 +1,441 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="aeradiotv-cl-sd" tvg-name="AE Radio TV" tvg-chno="323" tvg-country="CL" group-title="Música",AE Radio TV
+#EXTINF:-1 tvg-id="aeradiotv-cl-sd" tvg-name="AE Radio TV" tvg-chno="701" tvg-country="CL" group-title="Música",AE Radio TV
 https://tls-cl.cdnz.cl/aeradio/live/playlist.m3u8
-#EXTINF:-1 tvg-id="27-carolina-tv" tvg-name="Carolina TV" tvg-chno="325" tvg-country="CL" group-title="Música",Carolina TV
+#EXTINF:-1 tvg-id="27-carolina-tv" tvg-name="Carolina TV" tvg-chno="703" tvg-country="CL" group-title="Música",Carolina TV
 https://mdstrm.com/live-stream-playlist/63a06468117f42713374addd.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="1127-carolina-tv-2" tvg-name="Carolina TV 2" tvg-chno="326" tvg-country="CL" group-title="Música",Carolina TV 2
+#EXTINF:-1 tvg-id="1127-carolina-tv-2" tvg-name="Carolina TV 2" tvg-chno="704" tvg-country="CL" group-title="Música",Carolina TV 2
 https://jireh-1-hls-video-cl-isp.dps.live/hls-video/ey6283je82983je9823je8jowowiekldk9838274/carolinatv2/carolinatv2.smil/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="chocolatefm-cl-sd" tvg-name="Chocolate FM" tvg-chno="327" tvg-country="CL" group-title="Música",Chocolate FM
+#EXTINF:-1 tvg-id="chocolatefm-cl-sd" tvg-name="Chocolate FM" tvg-chno="705" tvg-country="CL" group-title="Música",Chocolate FM
 https://5eaccbab48461.streamlock.net:1936/8180/8180/playlist.m3u8
-#EXTINF:-1 tvg-id="dancefm-cl-sd" tvg-name="Dance FM" tvg-chno="328" tvg-country="CL" group-title="Música",Dance FM
+#EXTINF:-1 tvg-id="dancefm-cl-sd" tvg-name="Dance FM" tvg-chno="706" tvg-country="CL" group-title="Música",Dance FM
 https://5eaccbab48461.streamlock.net:1936/dancefm_1/dancefm_1/playlist.m3u8
-#EXTINF:-1 tvg-id="29-dj-loncho-tv" tvg-name="DJ Loncho TV" tvg-chno="329" tvg-country="CL" group-title="Música",DJ Loncho TV
+#EXTINF:-1 tvg-id="29-dj-loncho-tv" tvg-name="DJ Loncho TV" tvg-chno="707" tvg-country="CL" group-title="Música",DJ Loncho TV
 https://lbgo.bozztv.com/ssh101/ssh101/djlonchotv/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="324-el-galpon-80" tvg-name="El Galpon 80" tvg-chno="330" tvg-country="CL" group-title="Música",El Galpon 80
+#EXTINF:-1 tvg-id="324-el-galpon-80" tvg-name="El Galpon 80" tvg-chno="708" tvg-country="CL" group-title="Música",El Galpon 80
 https://fernando.tail5b5e1d.ts.net/live/index.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="1312-eternal-metal" tvg-name="Eternal Metal" tvg-chno="334" tvg-country="CL" group-title="Música",Eternal Metal
+#EXTINF:-1 tvg-id="1312-eternal-metal" tvg-name="Eternal Metal" tvg-chno="712" tvg-country="CL" group-title="Música",Eternal Metal
 https://stmv7.voxtvhd.com.br/eternaltv/eternaltv/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="fmplustv-cl-sd" tvg-name="FM Plus TV" tvg-chno="335" tvg-country="CL" group-title="Música",FM Plus TV
+#EXTINF:-1 tvg-id="fmplustv-cl-sd" tvg-name="FM Plus TV" tvg-chno="713" tvg-country="CL" group-title="Música",FM Plus TV
 https://v2.tustreaming.cl/fmplus/index.m3u8
-#EXTINF:-1 tvg-id="genialtv-cl-sd" tvg-name="Genial TV" tvg-chno="336" tvg-country="CL" group-title="Música",Genial TV
+#EXTINF:-1 tvg-id="genialtv-cl-sd" tvg-name="Genial TV" tvg-chno="714" tvg-country="CL" group-title="Música",Genial TV
 https://v1.tustreaming.cl/genialtv/index.m3u8
-#EXTINF:-1 tvg-id="1731-guns-n-roses-fans" tvg-name="Guns n Roses Fans" tvg-chno="337" tvg-country="CL" group-title="Música",Guns n Roses Fans
+#EXTINF:-1 tvg-id="1731-guns-n-roses-fans" tvg-name="Guns n Roses Fans" tvg-chno="715" tvg-country="CL" group-title="Música",Guns n Roses Fans
 https://stmv6.voxtvhd.com.br/gunsrosesfans/gunsrosesfans/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="1195-la-chilena-tv" tvg-name="La Chilena TV" tvg-chno="338" tvg-country="CL" group-title="Música",La Chilena TV
+#EXTINF:-1 tvg-id="1195-la-chilena-tv" tvg-name="La Chilena TV" tvg-chno="716" tvg-country="CL" group-title="Música",La Chilena TV
 https://vdochile.com:3134/hybrid/play.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="laclave-cl-sd" tvg-name="La Clave" tvg-chno="339" tvg-country="CL" group-title="Música",La Clave
+#EXTINF:-1 tvg-id="laclave-cl-sd" tvg-name="La Clave" tvg-chno="717" tvg-country="CL" group-title="Música",La Clave
 https://unlimited1-cl-isp.dps.live/laclavetv/laclavetv.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="la-metrofm" tvg-name="La MetroFM" tvg-chno="340" tvg-country="CL" group-title="Música",La MetroFM
+#EXTINF:-1 tvg-id="la-metrofm" tvg-name="La MetroFM" tvg-chno="718" tvg-country="CL" group-title="Música",La MetroFM
 https://jireh-3-hls-video-cl-movistar.dps.live/hls-video/931b584451fa6dd1313ee66efbfd5802e3f3bcea/metropolitanatv/metropolitanatv.smil/metropolitanatv/livestream1/chunks.m3u8
-#EXTINF:-1 tvg-id="996-latinos-tv" tvg-name="Latinos TV" tvg-chno="342" tvg-country="CL" group-title="Música",Latinos TV
+#EXTINF:-1 tvg-id="996-latinos-tv" tvg-name="Latinos TV" tvg-chno="720" tvg-country="CL" group-title="Música",Latinos TV
 https://lbgo.bozztv.com/ssh101/ssh101/latinos2026/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="1550-m-music-tv" tvg-name="M Music TV" tvg-chno="343" tvg-country="CL" group-title="Música",M Music TV
+#EXTINF:-1 tvg-id="1550-m-music-tv" tvg-name="M Music TV" tvg-chno="721" tvg-country="CL" group-title="Música",M Music TV
 https://cloudpro.servidoresdestream.com:8081/8036/index.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="771-mundo-de-la-musica-tv" tvg-name="Mundo de la Musica TV" tvg-chno="344" tvg-country="CL" group-title="Música",Mundo de la Musica TV
+#EXTINF:-1 tvg-id="771-mundo-de-la-musica-tv" tvg-name="Mundo de la Musica TV" tvg-chno="722" tvg-country="CL" group-title="Música",Mundo de la Musica TV
 https://tv.arkeo.cl:1936/mundodelamusica/mundodelamusica/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="1725-onda-fiesta" tvg-name="Onda Fiesta" tvg-chno="345" tvg-country="CL" group-title="Música",Onda Fiesta
+#EXTINF:-1 tvg-id="1725-onda-fiesta" tvg-name="Onda Fiesta" tvg-chno="723" tvg-country="CL" group-title="Música",Onda Fiesta
 https://5ff3d9babae13.streamlock.net:443/8000/8000/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="1424-parentesis-tv" tvg-name="Parentesis TV" tvg-chno="346" tvg-country="CL" group-title="Música",Parentesis TV
+#EXTINF:-1 tvg-id="1424-parentesis-tv" tvg-name="Parentesis TV" tvg-chno="724" tvg-country="CL" group-title="Música",Parentesis TV
 https://freya.mivideo.pro/parentesistv/index.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="1722-pasion-ranchera" tvg-name="Pasion Ranchera" tvg-chno="347" tvg-country="CL" group-title="Música",Pasion Ranchera
+#EXTINF:-1 tvg-id="1722-pasion-ranchera" tvg-name="Pasion Ranchera" tvg-chno="725" tvg-country="CL" group-title="Música",Pasion Ranchera
 https://tv.arkeo.cl:19360/8068/8068.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="pauta-cl-sd" tvg-name="Pauta" tvg-chno="349" tvg-country="CL" group-title="Música",Pauta
+#EXTINF:-1 tvg-id="pauta-cl-sd" tvg-name="Pauta" tvg-chno="727" tvg-country="CL" group-title="Música",Pauta
 https://redirector.rudo.video/hls-video/ey6283je82983je9823je8jowowiekldk9838274/pautatv/pautatv.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="1014-planetatv" tvg-name="PlanetaTV" tvg-chno="350" tvg-country="CL" group-title="Música",PlanetaTV
+#EXTINF:-1 tvg-id="1014-planetatv" tvg-name="PlanetaTV" tvg-chno="728" tvg-country="CL" group-title="Música",PlanetaTV
 https://tls-cl.cdnz.cl/envivo/live/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="31-portal-foxmix" tvg-name="Portal FoxMix" tvg-chno="351" tvg-country="CL" group-title="Música",Portal FoxMix
+#EXTINF:-1 tvg-id="31-portal-foxmix" tvg-name="Portal FoxMix" tvg-chno="729" tvg-country="CL" group-title="Música",Portal FoxMix
 https://panel.tvstream.cl:1936/8040/8040/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="radio-alternativa-fm-huasco" tvg-name="Radio Alternativa FM (Huasco)" tvg-chno="352" tvg-country="CL" group-title="Música",Radio Alternativa FM (Huasco)
+#EXTINF:-1 tvg-id="radio-alternativa-fm-huasco" tvg-name="Radio Alternativa FM (Huasco)" tvg-chno="730" tvg-country="CL" group-title="Música",Radio Alternativa FM (Huasco)
 https://vs20.live.opencaster.com/alternativatv_859ab4a0/index.m3u8
-#EXTINF:-1 tvg-id="radioduna-cl-sd" tvg-name="Radio Duna" tvg-chno="353" tvg-country="CL" group-title="Música",Radio Duna
+#EXTINF:-1 tvg-id="radioduna-cl-sd" tvg-name="Radio Duna" tvg-chno="731" tvg-country="CL" group-title="Música",Radio Duna
 https://mdstrm.com/live-stream-playlist/67ed8a8d6db4af9a0188555c.m3u8
-#EXTINF:-1 tvg-id="radio-el-conquistador-fm" tvg-name="Radio El Conquistador FM" tvg-chno="355" tvg-country="CL" group-title="Música",Radio El Conquistador FM
+#EXTINF:-1 tvg-id="radio-el-conquistador-fm" tvg-name="Radio El Conquistador FM" tvg-chno="733" tvg-country="CL" group-title="Música",Radio El Conquistador FM
 https://redirector.rudo.video/hls-video/931b584451fa6dd1313ee66efbfd5802e3f3bcea/elconquistadortv/elconquistadortv.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="radio-graneros-tv" tvg-name="Radio Graneros TV" tvg-chno="357" tvg-country="CL" group-title="Música",Radio Graneros TV
+#EXTINF:-1 tvg-id="radio-graneros-tv" tvg-name="Radio Graneros TV" tvg-chno="735" tvg-country="CL" group-title="Música",Radio Graneros TV
 https://5ff3d9babae13.streamlock.net/rravdcnywy/rravdcnywy/playlist.m3u8
-#EXTINF:-1 tvg-id="radio-la-clave" tvg-name="Radio La Clave" tvg-chno="360" tvg-country="CL" group-title="Música",Radio La Clave
+#EXTINF:-1 tvg-id="radio-la-clave" tvg-name="Radio La Clave" tvg-chno="738" tvg-country="CL" group-title="Música",Radio La Clave
 https://pantera1-100gb-cl-movistar.dps.live/laclavetv/laclavetv.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="radiolaserenatv-cl-sd" tvg-name="Radio La Serena TV" tvg-chno="361" tvg-country="CL" group-title="Música",Radio La Serena TV
+#EXTINF:-1 tvg-id="radiolaserenatv-cl-sd" tvg-name="Radio La Serena TV" tvg-chno="739" tvg-country="CL" group-title="Música",Radio La Serena TV
 https://5ff3d9babae13.streamlock.net/chrgkqgkyb/chrgkqgkyb/playlist.m3u8
-#EXTINF:-1 tvg-id="radiopudahuel-cl-sd" tvg-name="Radio Pudahuel" tvg-chno="362" tvg-country="CL" group-title="Música",Radio Pudahuel
+#EXTINF:-1 tvg-id="radiopudahuel-cl-sd" tvg-name="Radio Pudahuel" tvg-chno="740" tvg-country="CL" group-title="Música",Radio Pudahuel
 https://unlimited2-cl-isp.dps.live/pudahueltv/pudahueltv.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="521-recuerdos-retro-radio-tv" tvg-name="Recuerdos Retro Radio TV" tvg-chno="364" tvg-country="CL" group-title="Música",Recuerdos Retro Radio TV
+#EXTINF:-1 tvg-id="521-recuerdos-retro-radio-tv" tvg-name="Recuerdos Retro Radio TV" tvg-chno="742" tvg-country="CL" group-title="Música",Recuerdos Retro Radio TV
 https://panel.tvstream.cl:1936/8034/8034/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="4-retro-plus-tv" tvg-name="Retro Plus TV" tvg-chno="365" tvg-country="CL" group-title="Música",Retro Plus TV
+#EXTINF:-1 tvg-id="4-retro-plus-tv" tvg-name="Retro Plus TV" tvg-chno="743" tvg-country="CL" group-title="Música",Retro Plus TV
 https://srt01.logicahost.com.br/senal1/index.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="5-retro-plus-tv-senal-2" tvg-name="Retro Plus TV Señal 2" tvg-chno="366" tvg-country="CL" group-title="Música",Retro Plus TV Señal 2
+#EXTINF:-1 tvg-id="5-retro-plus-tv-senal-2" tvg-name="Retro Plus TV Señal 2" tvg-chno="744" tvg-country="CL" group-title="Música",Retro Plus TV Señal 2
 https://srt01.logicahost.com.br/senal2/index.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="retromusicatelevision-cl-sd" tvg-name="Retromusica Television" tvg-chno="367" tvg-country="CL" group-title="Música",Retromusica Television
+#EXTINF:-1 tvg-id="retromusicatelevision-cl-sd" tvg-name="Retromusica Television" tvg-chno="745" tvg-country="CL" group-title="Música",Retromusica Television
 https://vdochile.com:3864/stream/play.m3u8
-#EXTINF:-1 tvg-id="156-rewind" tvg-name="Rewind" tvg-chno="369" tvg-country="CL" group-title="Música",Rewind
+#EXTINF:-1 tvg-id="156-rewind" tvg-name="Rewind" tvg-chno="747" tvg-country="CL" group-title="Música",Rewind
 https://tls-cl.cdnz.cl/rewindtv/live/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="ritoquetv-cl-sd" tvg-name="Ritoque TV" tvg-chno="370" tvg-country="CL" group-title="Música",Ritoque TV
+#EXTINF:-1 tvg-id="ritoquetv-cl-sd" tvg-name="Ritoque TV" tvg-chno="748" tvg-country="CL" group-title="Música",Ritoque TV
 https://streaming.purum.cl/ritoquetv/index.m3u8
-#EXTINF:-1 tvg-id="13-ruidos-tv" tvg-name="Ruidos TV" tvg-chno="371" tvg-country="CL" group-title="Música",Ruidos TV
+#EXTINF:-1 tvg-id="13-ruidos-tv" tvg-name="Ruidos TV" tvg-chno="749" tvg-country="CL" group-title="Música",Ruidos TV
 https://tv1.ruidosfm.cl/ruidostv/stream.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="sensacioncosta-cl-sd" tvg-name="Sensacion Costa" tvg-chno="373" tvg-country="CL" group-title="Música",Sensacion Costa
+#EXTINF:-1 tvg-id="sensacioncosta-cl-sd" tvg-name="Sensacion Costa" tvg-chno="751" tvg-country="CL" group-title="Música",Sensacion Costa
 https://tvcosta.gleeze.com/memfs/4d48db09-0b1e-4803-8da7-22be388bdd7e.m3u8
-#EXTINF:-1 tvg-id="solobailalo-cl-sd" tvg-name="Solo Bailalo" tvg-chno="375" tvg-country="CL" group-title="Música",Solo Bailalo
+#EXTINF:-1 tvg-id="solobailalo-cl-sd" tvg-name="Solo Bailalo" tvg-chno="753" tvg-country="CL" group-title="Música",Solo Bailalo
 https://5ff3d9babae13.streamlock.net/8000/8000/playlist.m3u8
-#EXTINF:-1 tvg-id="tele13-radio" tvg-name="Tele13 Radio" tvg-chno="376" tvg-country="CL" group-title="Música",Tele13 Radio
+#EXTINF:-1 tvg-id="tele13-radio" tvg-name="Tele13 Radio" tvg-chno="754" tvg-country="CL" group-title="Música",Tele13 Radio
 https://mdstrm.com/audio/5c915613519bce27671c4caa/live.m3u8
-#EXTINF:-1 tvg-id="1651-telezeta-tropical" tvg-name="TeleZeta Tropical" tvg-chno="379" tvg-country="CL" group-title="Música",TeleZeta Tropical
+#EXTINF:-1 tvg-id="1651-telezeta-tropical" tvg-name="TeleZeta Tropical" tvg-chno="757" tvg-country="CL" group-title="Música",TeleZeta Tropical
 https://stream.telezeta.cl/live/index.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="1660-tropical-ranchero" tvg-name="Tropical Ranchero" tvg-chno="380" tvg-country="CL" group-title="Música",Tropical Ranchero
+#EXTINF:-1 tvg-id="1660-tropical-ranchero" tvg-name="Tropical Ranchero" tvg-chno="758" tvg-country="CL" group-title="Música",Tropical Ranchero
 https://radioxxx.ddns.net/hls/stream.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="34-tv-vconline-cl" tvg-name="TV vconline.cl" tvg-chno="381" tvg-country="CL" group-title="Música",TV vconline.cl
+#EXTINF:-1 tvg-id="34-tv-vconline-cl" tvg-name="TV vconline.cl" tvg-chno="759" tvg-country="CL" group-title="Música",TV vconline.cl
 https://panel.tvstream.cl:1936/8024/8024/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="1476-urban-pro-dj" tvg-name="Urban Pro DJ" tvg-chno="382" tvg-country="CL" group-title="Música",Urban Pro DJ
+#EXTINF:-1 tvg-id="1476-urban-pro-dj" tvg-name="Urban Pro DJ" tvg-chno="760" tvg-country="CL" group-title="Música",Urban Pro DJ
 https://vdochile.com:3115/hybrid/play.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="1160-vclassictv" tvg-name="VClassicTV" tvg-chno="383" tvg-country="CL" group-title="Música",VClassicTV
+#EXTINF:-1 tvg-id="1160-vclassictv" tvg-name="VClassicTV" tvg-chno="761" tvg-country="CL" group-title="Música",VClassicTV
 https://5eaccbab48461.streamlock.net:1936/8112/8112/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="1255-vclassictv-tropical" tvg-name="VClassicTV Tropical" tvg-chno="384" tvg-country="CL" group-title="Música",VClassicTV Tropical
+#EXTINF:-1 tvg-id="1255-vclassictv-tropical" tvg-name="VClassicTV Tropical" tvg-chno="762" tvg-country="CL" group-title="Música",VClassicTV Tropical
 https://5eaccbab48461.streamlock.net:1936/8076/8076/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="activatv-es-sd" tvg-name="Activa TV" tvg-chno="983" tvg-country="ES" group-title="Música",Activa TV
+#EXTINF:-1 tvg-id="activatv-es-sd" tvg-name="Activa TV" tvg-chno="763" tvg-country="ES" group-title="Música",Activa TV
 https://streamtv.mediasector.es/hls/activatv/index.m3u8
-#EXTINF:-1 tvg-id="alcancefmplaytv-py-sd" tvg-name="Alcance FM PLAY TV" tvg-chno="984" tvg-country="PY" group-title="Música",Alcance FM PLAY TV
+#EXTINF:-1 tvg-id="alcancefmplaytv-py-sd" tvg-name="Alcance FM PLAY TV" tvg-chno="764" tvg-country="PY" group-title="Música",Alcance FM PLAY TV
 https://video.wilohosting.com:19360/alcancefmtv/alcancefmtv.m3u8
-#EXTINF:-1 tvg-id="alegriatv-bo-sd" tvg-name="Alegria TV" tvg-chno="985" tvg-country="BO" group-title="Música",Alegria TV
+#EXTINF:-1 tvg-id="alegriatv-bo-sd" tvg-name="Alegria TV" tvg-chno="765" tvg-country="BO" group-title="Música",Alegria TV
 https://lbgo.bozztv.com/ssh101/ssh101/confirmatv/playlist.m3u8
-#EXTINF:-1 tvg-id="andinartv-pe-sd" tvg-name="Andina RTV" tvg-chno="986" tvg-country="PE" group-title="Música",Andina RTV
+#EXTINF:-1 tvg-id="andinartv-pe-sd" tvg-name="Andina RTV" tvg-chno="766" tvg-country="PE" group-title="Música",Andina RTV
 https://live-evg8.tv360.bitel.com.pe/bitel/andinatvSRT/playlist.m3u8
-#EXTINF:-1 tvg-id="audiokiss-bo-sd" tvg-name="Audiokiss" tvg-chno="987" tvg-country="BO" group-title="Música",Audiokiss
+#EXTINF:-1 tvg-id="audiokiss-bo-sd" tvg-name="Audiokiss" tvg-chno="767" tvg-country="BO" group-title="Música",Audiokiss
 https://master.tucableip.com/audiokisstv/index.m3u8
-#EXTINF:-1 tvg-id="azaharesradiovisualmultimedia-ar-sd" tvg-name="Azahares Radiovisual Multimedia" tvg-chno="988" tvg-country="AR" group-title="Música",Azahares Radiovisual Multimedia
+#EXTINF:-1 tvg-id="azaharesradiovisualmultimedia-ar-sd" tvg-name="Azahares Radiovisual Multimedia" tvg-chno="768" tvg-country="AR" group-title="Música",Azahares Radiovisual Multimedia
 https://streamyes.alsolnet.com/azaharesfm/live/playlist.m3u8
-#EXTINF:-1 tvg-id="beatsradio-ar-sd" tvg-name="Beats Radio" tvg-chno="989" tvg-country="AR" group-title="Música",Beats Radio
+#EXTINF:-1 tvg-id="beatsradio-ar-sd" tvg-name="Beats Radio" tvg-chno="769" tvg-country="AR" group-title="Música",Beats Radio
 https://videostream.shockmedia.com.ar:19360/beatsradio/beatsradio.m3u8
-#EXTINF:-1 tvg-id="box-playlist-internacional" tvg-name="Box Playlist (Internacional)" tvg-chno="990" tvg-country="ES" group-title="Música",Box Playlist (Internacional)
+#EXTINF:-1 tvg-id="box-playlist-internacional" tvg-name="Box Playlist (Internacional)" tvg-chno="770" tvg-country="ES" group-title="Música",Box Playlist (Internacional)
 https://e46fa4a445464f8a9150fa7d510eb85c.mediatailor.us-west-2.amazonaws.com/v1/master/2d2d0d97b0e548f025b2598a69b55bf30337aa0e/npp/BKFNLVLBL20NVRK6FYE0/hls3/now,-1m/playlist.m3u8
-#EXTINF:-1 tvg-id="btatv-ve-sd" tvg-name="BTA TV" tvg-chno="991" tvg-country="VE" group-title="Música",BTA TV
+#EXTINF:-1 tvg-id="btatv-ve-sd" tvg-name="BTA TV" tvg-chno="771" tvg-country="VE" group-title="Música",BTA TV
 https://cloud.fastchannel.es/manifiest/hls/prog9/btatv.m3u8
-#EXTINF:-1 tvg-id="buenisimaradiotv-co-sd" tvg-name="Buenisima Radio TV" tvg-chno="992" tvg-country="CO" group-title="Música",Buenisima Radio TV
+#EXTINF:-1 tvg-id="buenisimaradiotv-co-sd" tvg-name="Buenisima Radio TV" tvg-chno="772" tvg-country="CO" group-title="Música",Buenisima Radio TV
 https://canal.mediaserver.com.co/live/buenisimatv.m3u8
-#EXTINF:-1 tvg-id="cadenaelite-es-sd" tvg-name="Cadena Elite" tvg-chno="993" tvg-country="ES" group-title="Música",Cadena Elite
+#EXTINF:-1 tvg-id="cadenaelite-es-sd" tvg-name="Cadena Elite" tvg-chno="773" tvg-country="ES" group-title="Música",Cadena Elite
 https://cloudvideo.servers10.com:8081/8004/index.m3u8
-#EXTINF:-1 tvg-id="canal3kmktv-cr-sd" tvg-name="Canal 3 KMK TV" tvg-chno="994" tvg-country="CR" group-title="Música",Canal 3 KMK TV
+#EXTINF:-1 tvg-id="canal3kmktv-cr-sd" tvg-name="Canal 3 KMK TV" tvg-chno="774" tvg-country="CR" group-title="Música",Canal 3 KMK TV
 https://live20.bozztv.com/giatv/giatv-KMKTV/KMKTV/chunks.m3u8
-#EXTINF:-1 tvg-id="chamametv-ar-sd" tvg-name="Chamame TV" tvg-chno="995" tvg-country="AR" group-title="Música",Chamame TV
+#EXTINF:-1 tvg-id="chamametv-ar-sd" tvg-name="Chamame TV" tvg-chno="775" tvg-country="AR" group-title="Música",Chamame TV
 https://srv4.zcast.com.br/chamametv/chamametv/playlist.m3u8
-#EXTINF:-1 tvg-id="chamame-tv-argentina" tvg-name="Chamame TV (Argentina)" tvg-chno="996" tvg-country="ES" group-title="Música",Chamame TV (Argentina)
+#EXTINF:-1 tvg-id="chamame-tv-argentina" tvg-name="Chamame TV (Argentina)" tvg-chno="776" tvg-country="ES" group-title="Música",Chamame TV (Argentina)
 https://stmv1.voxtvhd.com.br/chamametv/chamametv/playlist.m3u8
-#EXTINF:-1 tvg-id="concertchannel-us-sd" tvg-name="Concert Channel" tvg-chno="997" tvg-country="US" group-title="Música",Concert Channel
+#EXTINF:-1 tvg-id="concertchannel-us-sd" tvg-name="Concert Channel" tvg-chno="777" tvg-country="US" group-title="Música",Concert Channel
 https://jmp2.uk/plu-6868152657543d1f8be4ece3.m3u8
-#EXTINF:-1 tvg-id="concert-channel-internacional" tvg-name="Concert Channel (Internacional)" tvg-chno="998" tvg-country="ES" group-title="Música",Concert Channel (Internacional)
+#EXTINF:-1 tvg-id="concert-channel-internacional" tvg-name="Concert Channel (Internacional)" tvg-chno="778" tvg-country="ES" group-title="Música",Concert Channel (Internacional)
 https://d1bl6tskrpq9ze.cloudfront.net/hls/master.m3u8?ads.xumo_channelId=99992075
-#EXTINF:-1 tvg-id="conectatv-mx-sd" tvg-name="Conecta TV" tvg-chno="999" tvg-country="MX" group-title="Música",Conecta TV
+#EXTINF:-1 tvg-id="conectatv-mx-sd" tvg-name="Conecta TV" tvg-chno="779" tvg-country="MX" group-title="Música",Conecta TV
 https://stream8.mexiserver.com:19360/conectatvx/conectatvx.m3u8
-#EXTINF:-1 tvg-id="cool-summer-channel-espana" tvg-name="Cool Summer Channel (España)" tvg-chno="1000" tvg-country="ES" group-title="Música",Cool Summer Channel (España)
+#EXTINF:-1 tvg-id="cool-summer-channel-espana" tvg-name="Cool Summer Channel (España)" tvg-chno="780" tvg-country="ES" group-title="Música",Cool Summer Channel (España)
 https://jmp2.uk/stvp-ES2500001F9
-#EXTINF:-1 tvg-id="corazontv-pa-sd" tvg-name="Corazon TV" tvg-chno="1001" tvg-country="PA" group-title="Música",Corazon TV
+#EXTINF:-1 tvg-id="corazontv-pa-sd" tvg-name="Corazon TV" tvg-chno="781" tvg-country="PA" group-title="Música",Corazon TV
 https://sistemastr.tropicalmoonmedia.com/live/7FFCFEC3978B68D1A2ED0A38DE96AF76/12.m3u8
-#EXTINF:-1 tvg-id="cumbiamix-ar-hd" tvg-name="Cumbia Mix" tvg-chno="1002" tvg-country="AR" group-title="Música",Cumbia Mix
+#EXTINF:-1 tvg-id="cumbiamix-ar-hd" tvg-name="Cumbia Mix" tvg-chno="782" tvg-country="AR" group-title="Música",Cumbia Mix
 https://cloud.tvomix.com/CUMBIAMIX/index.m3u8
-#EXTINF:-1 tvg-id="dancetv-ar-sd" tvg-name="Dance TV" tvg-chno="1003" tvg-country="AR" group-title="Música",Dance TV
+#EXTINF:-1 tvg-id="dancetv-ar-sd" tvg-name="Dance TV" tvg-chno="783" tvg-country="AR" group-title="Música",Dance TV
 https://op-group1-swiftservehd-1.dens.tv/h/h250/index.m3u8
-#EXTINF:-1 tvg-id="dgradio-au-hd" tvg-name="DG:Radio" tvg-chno="1004" tvg-country="AU" group-title="Música",DG:Radio
+#EXTINF:-1 tvg-id="dgradio-au-hd" tvg-name="DG:Radio" tvg-chno="784" tvg-country="AU" group-title="Música",DG:Radio
 https://mdn.dg.church/683c0cb036885-1/index.m3u8
-#EXTINF:-1 tvg-id="dismarradiotv-py-sd" tvg-name="Dismar Radio TV" tvg-chno="1005" tvg-country="PY" group-title="Música",Dismar Radio TV
+#EXTINF:-1 tvg-id="dismarradiotv-py-sd" tvg-name="Dismar Radio TV" tvg-chno="785" tvg-country="PY" group-title="Música",Dismar Radio TV
 https://rds3.desdeparaguay.net/dismartv/dismartv/playlist.m3u8
-#EXTINF:-1 tvg-id="e40-py-sd" tvg-name="E40" tvg-chno="1006" tvg-country="PY" group-title="Música",E40
+#EXTINF:-1 tvg-id="e40-py-sd" tvg-name="E40" tvg-chno="786" tvg-country="PY" group-title="Música",E40
 https://copacotf.desdeparaguay.net/e40tv/e40tv_py_alta/playlist.m3u8?admin=tvaccion
-#EXTINF:-1 tvg-id="ecuamundoradiotv-ec-sd" tvg-name="EcuaMundo Radio TV" tvg-chno="1007" tvg-country="EC" group-title="Música",EcuaMundo Radio TV
+#EXTINF:-1 tvg-id="ecuamundoradiotv-ec-sd" tvg-name="EcuaMundo Radio TV" tvg-chno="787" tvg-country="EC" group-title="Música",EcuaMundo Radio TV
 https://pacific.direcnode.com:3353/live/ecuamundotvlive.m3u8
-#EXTINF:-1 tvg-id="elsolnetworktv-ec-sd" tvg-name="El Sol Network TV" tvg-chno="1008" tvg-country="EC" group-title="Música",El Sol Network TV
+#EXTINF:-1 tvg-id="elsolnetworktv-ec-sd" tvg-name="El Sol Network TV" tvg-chno="788" tvg-country="EC" group-title="Música",El Sol Network TV
 https://tv.wracanal10.com:3025/live/elsoltvlive.m3u8
-#EXTINF:-1 tvg-id="fabulosaestereo1005fm-pa-sd" tvg-name="Fabulosa Estereo 100.5 FM" tvg-chno="1011" tvg-country="PA" group-title="Música",Fabulosa Estereo 100.5 FM
+#EXTINF:-1 tvg-id="fabulosaestereo1005fm-pa-sd" tvg-name="Fabulosa Estereo 100.5 FM" tvg-chno="791" tvg-country="PA" group-title="Música",Fabulosa Estereo 100.5 FM
 https://www.streaming507.net:19360/videofabulosa/videofabulosa.m3u8
-#EXTINF:-1 tvg-id="farraplay-py-sd" tvg-name="Farra Play" tvg-chno="1012" tvg-country="PY" group-title="Música",Farra Play
+#EXTINF:-1 tvg-id="farraplay-py-sd" tvg-name="Farra Play" tvg-chno="792" tvg-country="PY" group-title="Música",Farra Play
 https://stream.farra.com.py/live/farra_low.m3u8
-#EXTINF:-1 tvg-id="fiestatv-co-sd" tvg-name="Fiesta TV" tvg-chno="1013" tvg-country="CO" group-title="Música",Fiesta TV
+#EXTINF:-1 tvg-id="fiestatv-co-sd" tvg-name="Fiesta TV" tvg-chno="793" tvg-country="CO" group-title="Música",Fiesta TV
 https://panelvideo1.intermediahost.co:3286/live/ruzfpkqklive.m3u8
-#EXTINF:-1 tvg-id="flashback-mix-argentina" tvg-name="FlashBack Mix (Argentina)" tvg-chno="1014" tvg-country="ES" group-title="Música",FlashBack Mix (Argentina)
+#EXTINF:-1 tvg-id="flashback-mix-argentina" tvg-name="FlashBack Mix (Argentina)" tvg-chno="794" tvg-country="ES" group-title="Música",FlashBack Mix (Argentina)
 https://cloud.tvomix.com/FLASHBACKMIX/index.m3u8
-#EXTINF:-1 tvg-id="flexstudioradiotv-bz-sd" tvg-name="Flex Studio Radio TV" tvg-chno="1015" tvg-country="BZ" group-title="Música",Flex Studio Radio TV
+#EXTINF:-1 tvg-id="flexstudioradiotv-bz-sd" tvg-name="Flex Studio Radio TV" tvg-chno="795" tvg-country="BZ" group-title="Música",Flex Studio Radio TV
 https://live20.bozztv.com/akamaissh101/ssh101/fsradiotv/playlist.m3u8
-#EXTINF:-1 tvg-id="fmmundo-ec-sd" tvg-name="FM Mundo" tvg-chno="1016" tvg-country="EC" group-title="Música",FM Mundo
+#EXTINF:-1 tvg-id="fmmundo-ec-sd" tvg-name="FM Mundo" tvg-chno="796" tvg-country="EC" group-title="Música",FM Mundo
 https://video2.makrodigital.com/fmmundo/fmmundo/playlist.m3u8
-#EXTINF:-1 tvg-id="folkloretv-pe-sd" tvg-name="Folklore TV" tvg-chno="1017" tvg-country="PE" group-title="Música",Folklore TV
+#EXTINF:-1 tvg-id="folkloretv-pe-sd" tvg-name="Folklore TV" tvg-chno="797" tvg-country="PE" group-title="Música",Folklore TV
 https://play.folkloretv.pe/StreamSD/index.m3u8
-#EXTINF:-1 tvg-id="fuegotv-do-sd" tvg-name="Fuego TV" tvg-chno="1018" tvg-country="DO" group-title="Música",Fuego TV
+#EXTINF:-1 tvg-id="fuegotv-do-sd" tvg-name="Fuego TV" tvg-chno="798" tvg-country="DO" group-title="Música",Fuego TV
 https://streamunoapp.com:3553/live/cromtvlive.m3u8
-#EXTINF:-1 tvg-id="galacticatv-pe-sd" tvg-name="Galactica TV" tvg-chno="1019" tvg-country="PE" group-title="Música",Galactica TV
+#EXTINF:-1 tvg-id="galacticatv-pe-sd" tvg-name="Galactica TV" tvg-chno="799" tvg-country="PE" group-title="Música",Galactica TV
 https://stream.neux.site/memfs/e3f59eec-6b93-45e1-a2ab-c82381c2a9ec.m3u8
-#EXTINF:-1 tvg-id="heinow-py-sd" tvg-name="HEi Now" tvg-chno="1020" tvg-country="PY" group-title="Música",HEi Now
+#EXTINF:-1 tvg-id="heinow-py-sd" tvg-name="HEi Now" tvg-chno="800" tvg-country="PY" group-title="Música",HEi Now
 https://copacogen.desdeparaguay.net/heitv/heitv_py_alta/playlist.m3u8?admin=nacion
-#EXTINF:-1 tvg-id="hits-mexicanos-mexico" tvg-name="Hits Mexicanos (México)" tvg-chno="1021" tvg-country="ES" group-title="Música",Hits Mexicanos (México)
+#EXTINF:-1 tvg-id="hits-mexicanos-mexico" tvg-name="Hits Mexicanos (México)" tvg-chno="801" tvg-country="ES" group-title="Música",Hits Mexicanos (México)
 https://e46fa4a445464f8a9150fa7d510eb85c.mediatailor.us-west-2.amazonaws.com/v1/manifest/2d2d0d97b0e548f025b2598a69b55bf30337aa0e/npp/7ad7548f-cc44-4a1b-9aff-34610417fe1b/4.m3u8
-#EXTINF:-1 tvg-id="imagenfm1051-hn-sd" tvg-name="Imagen FM 105.1" tvg-chno="1022" tvg-country="HN" group-title="Música",Imagen FM 105.1
+#EXTINF:-1 tvg-id="imagenfm1051-hn-sd" tvg-name="Imagen FM 105.1" tvg-chno="802" tvg-country="HN" group-title="Música",Imagen FM 105.1
 https://streaming.imagenfm105-1.com/hls/stream.m3u8
-#EXTINF:-1 tvg-id="infinitatv-ec-sd" tvg-name="Infinita TV" tvg-chno="1023" tvg-country="EC" group-title="Música",Infinita TV
+#EXTINF:-1 tvg-id="infinitatv-ec-sd" tvg-name="Infinita TV" tvg-chno="803" tvg-country="EC" group-title="Música",Infinita TV
 https://s2.tvdatta.com:3753/hybrid/play.m3u8
-#EXTINF:-1 tvg-id="iqchannel-cr-sd" tvg-name="IQ Channel" tvg-chno="1024" tvg-country="CR" group-title="Música",IQ Channel
+#EXTINF:-1 tvg-id="iqchannel-cr-sd" tvg-name="IQ Channel" tvg-chno="804" tvg-country="CR" group-title="Música",IQ Channel
 https://rtmp.info/iqtv/envivo/playlist.m3u8
-#EXTINF:-1 tvg-id="italianissimo-ve-sd" tvg-name="Italianissimo" tvg-chno="1025" tvg-country="VE" group-title="Música",Italianissimo
+#EXTINF:-1 tvg-id="italianissimo-ve-sd" tvg-name="Italianissimo" tvg-chno="805" tvg-country="VE" group-title="Música",Italianissimo
 https://vcp.myplaytv.com/italianissimo/italianissimo/playlist.m3u8
-#EXTINF:-1 tvg-id="kandelatv-ve-sd" tvg-name="KandelaTV" tvg-chno="1026" tvg-country="VE" group-title="Música",KandelaTV
+#EXTINF:-1 tvg-id="kandelatv-ve-sd" tvg-name="KandelaTV" tvg-chno="806" tvg-country="VE" group-title="Música",KandelaTV
 https://streamtv.intervenhosting.net:3718/live/kandelamedioslive.m3u8
-#EXTINF:-1 tvg-id="la100-ar-sd" tvg-name="La 100" tvg-chno="1027" tvg-country="AR" group-title="Música",La 100
+#EXTINF:-1 tvg-id="la100-ar-sd" tvg-name="La 100" tvg-chno="807" tvg-country="AR" group-title="Música",La 100
 https://mdstrm.com/live-stream-playlist/68b74fd1d6512526f1f7c75a.m3u8
-#EXTINF:-1 tvg-id="la981tv-hn-sd" tvg-name="La 98.1 TV" tvg-chno="1028" tvg-country="HN" group-title="Música",La 98.1 TV
+#EXTINF:-1 tvg-id="la981tv-hn-sd" tvg-name="La 98.1 TV" tvg-chno="808" tvg-country="HN" group-title="Música",La 98.1 TV
 https://6019dcac4147f.streamlock.net:9443/la98/Invosa/playlist.m3u8
-#EXTINF:-1 tvg-id="laelegidatelevision-uy-sd" tvg-name="La Elegida Television" tvg-chno="1029" tvg-country="UY" group-title="Música",La Elegida Television
+#EXTINF:-1 tvg-id="laelegidatelevision-uy-sd" tvg-name="La Elegida Television" tvg-chno="809" tvg-country="UY" group-title="Música",La Elegida Television
 https://stmv.gmpro.top/laelegidatv/laelegidatv/playlist.m3u8
-#EXTINF:-1 tvg-id="lafabulosatv-pe-sd" tvg-name="La Fabulosa TV" tvg-chno="1030" tvg-country="PE" group-title="Música",La Fabulosa TV
+#EXTINF:-1 tvg-id="lafabulosatv-pe-sd" tvg-name="La Fabulosa TV" tvg-chno="810" tvg-country="PE" group-title="Música",La Fabulosa TV
 https://eu1.servers10.com:8081/8004/index.m3u8
-#EXTINF:-1 tvg-id="lahermandadsalsera-co-sd" tvg-name="La Hermandad Salsera" tvg-chno="1031" tvg-country="CO" group-title="Música",La Hermandad Salsera
+#EXTINF:-1 tvg-id="lahermandadsalsera-co-sd" tvg-name="La Hermandad Salsera" tvg-chno="811" tvg-country="CO" group-title="Música",La Hermandad Salsera
 https://streamlov.alsolnet.com/hermandadsalsera/live/playlist.m3u8
-#EXTINF:-1 tvg-id="la-kalle-colombia" tvg-name="La Kalle (Colombia)" tvg-chno="1032" tvg-country="ES" group-title="Música",La Kalle (Colombia)
+#EXTINF:-1 tvg-id="la-kalle-colombia" tvg-name="La Kalle (Colombia)" tvg-chno="812" tvg-country="ES" group-title="Música",La Kalle (Colombia)
 https://mdstrm.com/live-stream-playlist/58d191f07290fbb058025843.m3u8
-#EXTINF:-1 tvg-id="lamoradaradiotv-co-sd" tvg-name="La Morada Radio TV" tvg-chno="1033" tvg-country="CO" group-title="Música",La Morada Radio TV
+#EXTINF:-1 tvg-id="lamoradaradiotv-co-sd" tvg-name="La Morada Radio TV" tvg-chno="813" tvg-country="CO" group-title="Música",La Morada Radio TV
 https://movil.ejeserver.com/live/lamoradatv.m3u8
-#EXTINF:-1 tvg-id="laperlaradiotv-ec-sd" tvg-name="La Perla Radio TV" tvg-chno="1034" tvg-country="EC" group-title="Música",La Perla Radio TV
+#EXTINF:-1 tvg-id="laperlaradiotv-ec-sd" tvg-name="La Perla Radio TV" tvg-chno="814" tvg-country="EC" group-title="Música",La Perla Radio TV
 https://eu1.servers10.com:8081/8068/index.m3u8
-#EXTINF:-1 tvg-id="laquebuenaatlanta-us-sd" tvg-name="La Que Buena Atlanta" tvg-chno="1035" tvg-country="US" group-title="Música",La Que Buena Atlanta
+#EXTINF:-1 tvg-id="laquebuenaatlanta-us-sd" tvg-name="La Que Buena Atlanta" tvg-chno="815" tvg-country="US" group-title="Música",La Que Buena Atlanta
 https://streamyes.alsolnet.com/quebuenaatlanta/live/index.m3u8
-#EXTINF:-1 tvg-id="latop1029-hn-sd" tvg-name="La Top 102.9" tvg-chno="1036" tvg-country="HN" group-title="Música",La Top 102.9
+#EXTINF:-1 tvg-id="latop1029-hn-sd" tvg-name="La Top 102.9" tvg-chno="816" tvg-country="HN" group-title="Música",La Top 102.9
 https://59d39900ebfb8.streamlock.net/top102/top102/playlist.m3u8
-#EXTINF:-1 tvg-id="latop1077-hn-sd" tvg-name="La Top 107.7" tvg-chno="1037" tvg-country="HN" group-title="Música",La Top 107.7
+#EXTINF:-1 tvg-id="latop1077-hn-sd" tvg-name="La Top 107.7" tvg-chno="817" tvg-country="HN" group-title="Música",La Top 107.7
 https://59d39900ebfb8.streamlock.net/top107/top107/playlist.m3u8
-#EXTINF:-1 tvg-id="laurbantv-es-sd" tvg-name="La Urban TV" tvg-chno="1038" tvg-country="ES" group-title="Música",La Urban TV
+#EXTINF:-1 tvg-id="laurbantv-es-sd" tvg-name="La Urban TV" tvg-chno="818" tvg-country="ES" group-title="Música",La Urban TV
 https://urbanrevolution.es:8443/live/TV/playlist.m3u8
-#EXTINF:-1 tvg-id="lavozdeltropico-do-sd" tvg-name="La Voz del Tropico" tvg-chno="1039" tvg-country="DO" group-title="Música",La Voz del Tropico
+#EXTINF:-1 tvg-id="lavozdeltropico-do-sd" tvg-name="La Voz del Tropico" tvg-chno="819" tvg-country="DO" group-title="Música",La Voz del Tropico
 https://ss2.tvrdomi.com:1936/lavozdeltropico/lavozdeltropico/playlist.m3u8
-#EXTINF:-1 tvg-id="lax-pr-sd" tvg-name="La-X" tvg-chno="1040" tvg-country="PR" group-title="Música",La-X
+#EXTINF:-1 tvg-id="lax-pr-sd" tvg-name="La-X" tvg-chno="820" tvg-country="PR" group-title="Música",La-X
 https://stream.eleden.com/livelax/ngrp:livelax_all/playlist.m3u8
-#EXTINF:-1 tvg-id="lapuracrematelevision-ve-sd" tvg-name="LaPuraCrema Television" tvg-chno="1041" tvg-country="VE" group-title="Música",LaPuraCrema Television
+#EXTINF:-1 tvg-id="lapuracrematelevision-ve-sd" tvg-name="LaPuraCrema Television" tvg-chno="821" tvg-country="VE" group-title="Música",LaPuraCrema Television
 https://streamlov.alsolnet.com/lapuracrema/live/playlist.m3u8
-#EXTINF:-1 tvg-id="latinos-tv-no-24-7" tvg-name="Latinos TV [No 24/7]" tvg-chno="1042" tvg-country="ES" group-title="Música",Latinos TV [No 24/7]
+#EXTINF:-1 tvg-id="latinos-tv-no-24-7" tvg-name="Latinos TV [No 24/7]" tvg-chno="822" tvg-country="ES" group-title="Música",Latinos TV [No 24/7]
 https://v4.tustreaming.cl/latinostv/index.m3u8
-#EXTINF:-1 tvg-id="laxitosapanama-pa-sd" tvg-name="LaXitosa Panama" tvg-chno="1043" tvg-country="PA" group-title="Música",LaXitosa Panama
+#EXTINF:-1 tvg-id="laxitosapanama-pa-sd" tvg-name="LaXitosa Panama" tvg-chno="823" tvg-country="PA" group-title="Música",LaXitosa Panama
 https://stmvideo2.livecastv.com/lax953/lax953/playlist.m3u8
-#EXTINF:-1 tvg-id="lobotv-mx-sd" tvg-name="Lobo TV" tvg-chno="1044" tvg-country="MX" group-title="Música",Lobo TV
+#EXTINF:-1 tvg-id="lobotv-mx-sd" tvg-name="Lobo TV" tvg-chno="824" tvg-country="MX" group-title="Música",Lobo TV
 https://5ca3e84a76d30.streamlock.net/tvlobo/videotvlobo/playlist.m3u8
-#EXTINF:-1 tvg-id="losangelestvradio-py-sd" tvg-name="Los Angeles TV Radio" tvg-chno="1045" tvg-country="PY" group-title="Música",Los Angeles TV Radio
+#EXTINF:-1 tvg-id="losangelestvradio-py-sd" tvg-name="Los Angeles TV Radio" tvg-chno="825" tvg-country="PY" group-title="Música",Los Angeles TV Radio
 https://stmv6.voxtvhd.com.br/losangeles/losangeles/playlist.m3u8
-#EXTINF:-1 tvg-id="maimontvcanal3-do-sd" tvg-name="Maimon TV Canal 3" tvg-chno="1046" tvg-country="DO" group-title="Música",Maimon TV Canal 3
+#EXTINF:-1 tvg-id="maimontvcanal3-do-sd" tvg-name="Maimon TV Canal 3" tvg-chno="826" tvg-country="DO" group-title="Música",Maimon TV Canal 3
 https://tele-stream.telecasa.net/live/st3/maimontv-hd/index.m3u8
-#EXTINF:-1 tvg-id="makaotv-do-sd" tvg-name="Makao TV (1080i)" tvg-chno="1047" tvg-country="DO" group-title="Música",Makao TV (1080i)
+#EXTINF:-1 tvg-id="makaotv-do-sd" tvg-name="Makao TV (1080i)" tvg-chno="827" tvg-country="DO" group-title="Música",Makao TV (1080i)
 https://live.obslivestream.com/makaomux/index.m3u8
-#EXTINF:-1 tvg-id="masfm-ar-sd" tvg-name="Mas FM" tvg-chno="1048" tvg-country="AR" group-title="Música",Mas FM
+#EXTINF:-1 tvg-id="masfm-ar-sd" tvg-name="Mas FM" tvg-chno="828" tvg-country="AR" group-title="Música",Mas FM
 https://vivo.solumedia.com:19360/masfm/masfm.m3u8
-#EXTINF:-1 tvg-id="mas23tv-pa-sd" tvg-name="Mas23 TV" tvg-chno="1049" tvg-country="PA" group-title="Música",Mas23 TV
+#EXTINF:-1 tvg-id="mas23tv-pa-sd" tvg-name="Mas23 TV" tvg-chno="829" tvg-country="PA" group-title="Música",Mas23 TV
 https://movil.ejeserver.com/live/mas23tv.m3u8
-#EXTINF:-1 tvg-id="masmusicafm-co-sd" tvg-name="MasMusica FM" tvg-chno="1050" tvg-country="CO" group-title="Música",MasMusica FM
+#EXTINF:-1 tvg-id="masmusicafm-co-sd" tvg-name="MasMusica FM" tvg-chno="830" tvg-country="CO" group-title="Música",MasMusica FM
 https://movil.ejeserver.com/live/masmusica.m3u8
-#EXTINF:-1 tvg-id="mass-musica-argentina" tvg-name="Mass Musica (Argentina)" tvg-chno="1051" tvg-country="ES" group-title="Música",Mass Musica (Argentina)
+#EXTINF:-1 tvg-id="mass-musica-argentina" tvg-name="Mass Musica (Argentina)" tvg-chno="831" tvg-country="ES" group-title="Música",Mass Musica (Argentina)
 https://stmv3.voxtvhd.com.br/masmusik/masmusik/playlist.m3u8
-#EXTINF:-1 tvg-id="megabox-ni-sd" tvg-name="MegaBox" tvg-chno="1052" tvg-country="NI" group-title="Música",MegaBox
+#EXTINF:-1 tvg-id="megabox-ni-sd" tvg-name="MegaBox" tvg-chno="832" tvg-country="NI" group-title="Música",MegaBox
 https://hdbox.chunklistv.com/live?stream=megabox
-#EXTINF:-1 tvg-id="metaleitortv-us-sd" tvg-name="Metaleitor TV" tvg-chno="1053" tvg-country="US" group-title="Música",Metaleitor TV
+#EXTINF:-1 tvg-id="metaleitortv-us-sd" tvg-name="Metaleitor TV" tvg-chno="833" tvg-country="US" group-title="Música",Metaleitor TV
 https://vs20.live.opencaster.com/metaleitortv_423d3342/index.m3u8
-#EXTINF:-1 tvg-id="metropolimediostv-ec-sd" tvg-name="Metropoli Medios TV" tvg-chno="1054" tvg-country="EC" group-title="Música",Metropoli Medios TV
+#EXTINF:-1 tvg-id="metropolimediostv-ec-sd" tvg-name="Metropoli Medios TV" tvg-chno="834" tvg-country="EC" group-title="Música",Metropoli Medios TV
 https://eu1.servers10.com:8081/8214/index.m3u8
-#EXTINF:-1 tvg-id="metropolitanadelcuzco-pe-sd" tvg-name="Metropolitana del Cuzco" tvg-chno="1055" tvg-country="PE" group-title="Música",Metropolitana del Cuzco
+#EXTINF:-1 tvg-id="metropolitanadelcuzco-pe-sd" tvg-name="Metropolitana del Cuzco" tvg-chno="835" tvg-country="PE" group-title="Música",Metropolitana del Cuzco
 https://video1.earthcam.com/myearthcam/075ff02f78c35af55564cf3af3b3f750.flv/playlist.m3u8
-#EXTINF:-1 tvg-id="mieltv-pe-sd" tvg-name="Miel TV" tvg-chno="1056" tvg-country="PE" group-title="Música",Miel TV
+#EXTINF:-1 tvg-id="mieltv-pe-sd" tvg-name="Miel TV" tvg-chno="836" tvg-country="PE" group-title="Música",Miel TV
 https://live-evg5.tv360.bitel.com.pe/bitel/mieltvSRT/playlist.m3u8
-#EXTINF:-1 tvg-id="millenium109fm-pe-sd" tvg-name="Millenium 109 FM" tvg-chno="1057" tvg-country="PE" group-title="Música",Millenium 109 FM
+#EXTINF:-1 tvg-id="millenium109fm-pe-sd" tvg-name="Millenium 109 FM" tvg-chno="837" tvg-country="PE" group-title="Música",Millenium 109 FM
 https://videoserver.tmcreativos.com:19360/nqvnhujhrx/nqvnhujhrx.m3u8
-#EXTINF:-1 tvg-id="molahits-tv-espana" tvg-name="Molahits TV (España)" tvg-chno="1058" tvg-country="ES" group-title="Música",Molahits TV (España)
+#EXTINF:-1 tvg-id="molahits-tv-espana" tvg-name="Molahits TV (España)" tvg-chno="838" tvg-country="ES" group-title="Música",Molahits TV (España)
 https://ventdelnord.tv:8080/mola/directe.m3u8
-#EXTINF:-1 tvg-id="montonestv-do-hd" tvg-name="Montones TV" tvg-chno="1059" tvg-country="DO" group-title="Música",Montones TV
+#EXTINF:-1 tvg-id="montonestv-do-hd" tvg-name="Montones TV" tvg-chno="839" tvg-country="DO" group-title="Música",Montones TV
 https://lbgo.bozztv.com/ssh101/ssh101/montonestv1/playlist.m3u8
-#EXTINF:-1 tvg-id="musictvgranada-es-sd" tvg-name="Music TV Granada" tvg-chno="1061" tvg-country="ES" group-title="Música",Music TV Granada
+#EXTINF:-1 tvg-id="musictvgranada-es-sd" tvg-name="Music TV Granada" tvg-chno="841" tvg-country="ES" group-title="Música",Music TV Granada
 https://cloudvideo.servers10.com:8081/8032/index.m3u8
-#EXTINF:-1 tvg-id="musictop-ar-sd" tvg-name="MusicTop" tvg-chno="1062" tvg-country="AR" group-title="Música",MusicTop
+#EXTINF:-1 tvg-id="musictop-ar-sd" tvg-name="MusicTop" tvg-chno="842" tvg-country="AR" group-title="Música",MusicTop
 https://stream-gtlc.telecentro.net.ar/hls/musictophls/0/playlist.m3u8
-#EXTINF:-1 tvg-id="nandeportetepetv-py-sd" tvg-name="Nande Portetepe TV" tvg-chno="1063" tvg-country="PY" group-title="Música",Nande Portetepe TV
+#EXTINF:-1 tvg-id="nandeportetepetv-py-sd" tvg-name="Nande Portetepe TV" tvg-chno="843" tvg-country="PY" group-title="Música",Nande Portetepe TV
 https://video.hostingcaaguazu.com:19360/nandeportetepe/nandeportetepe.m3u8
-#EXTINF:-1 tvg-id="nuevavidafm-pr-sd" tvg-name="Nueva Vida FM" tvg-chno="1064" tvg-country="PR" group-title="Música",Nueva Vida FM
+#EXTINF:-1 tvg-id="nuevavidafm-pr-sd" tvg-name="Nueva Vida FM" tvg-chno="844" tvg-country="PR" group-title="Música",Nueva Vida FM
 https://stream.nuevavidafm.net:3937/live/nuevavidalive.m3u8
-#EXTINF:-1 tvg-id="oldies-hits-sd-en-no-24-7" tvg-name="Oldies Hits SD (EN) [No 24/7]" tvg-chno="1065" tvg-country="ES" group-title="Música",Oldies Hits SD (EN) [No 24/7]
+#EXTINF:-1 tvg-id="oldies-hits-sd-en-no-24-7" tvg-name="Oldies Hits SD (EN) [No 24/7]" tvg-chno="845" tvg-country="ES" group-title="Música",Oldies Hits SD (EN) [No 24/7]
 https://video07.logicahost.com.br/oldieshits/oldieshits/playlist.m3u8
-#EXTINF:-1 tvg-id="oldies-hits-sd-es-no-24-7" tvg-name="Oldies Hits SD (ES) [No 24/7]" tvg-chno="1066" tvg-country="ES" group-title="Música",Oldies Hits SD (ES) [No 24/7]
+#EXTINF:-1 tvg-id="oldies-hits-sd-es-no-24-7" tvg-name="Oldies Hits SD (ES) [No 24/7]" tvg-chno="846" tvg-country="ES" group-title="Música",Oldies Hits SD (ES) [No 24/7]
 https://video03.logicahost.com.br/oldieshits_esp/oldieshits_esp/playlist.m3u8
-#EXTINF:-1 tvg-id="onda15tv-es-sd" tvg-name="Onda 15 TV" tvg-chno="1067" tvg-country="ES" group-title="Música",Onda 15 TV
+#EXTINF:-1 tvg-id="onda15tv-es-sd" tvg-name="Onda 15 TV" tvg-chno="847" tvg-country="ES" group-title="Música",Onda 15 TV
 https://cloudvideo.servers10.com:8081/8034/index.m3u8
-#EXTINF:-1 tvg-id="ondavalenciatv-es-sd" tvg-name="Onda Valencia TV" tvg-chno="1068" tvg-country="ES" group-title="Música",Onda Valencia TV
+#EXTINF:-1 tvg-id="ondavalenciatv-es-sd" tvg-name="Onda Valencia TV" tvg-chno="848" tvg-country="ES" group-title="Música",Onda Valencia TV
 https://cloudvideo.servers10.com:8081/8116/index.m3u8
-#EXTINF:-1 tvg-id="oxigenotv-ve-sd" tvg-name="Oxigeno TV" tvg-chno="1069" tvg-country="VE" group-title="Música",Oxigeno TV
+#EXTINF:-1 tvg-id="oxigenotv-ve-sd" tvg-name="Oxigeno TV" tvg-chno="849" tvg-country="VE" group-title="Música",Oxigeno TV
 https://vcp.myplaytv.com/oxigenotv/oxigenotv/playlist.m3u8
-#EXTINF:-1 tvg-id="parentesis-tv-chile" tvg-name="Paréntesis TV (Chile)" tvg-chno="1070" tvg-country="ES" group-title="Música",Paréntesis TV (Chile)
+#EXTINF:-1 tvg-id="parentesis-tv-chile" tvg-name="Paréntesis TV (Chile)" tvg-chno="850" tvg-country="ES" group-title="Música",Paréntesis TV (Chile)
 https://freya.mivideo.pro/parentesistv/index.m3u8
-#EXTINF:-1 tvg-id="parrandavallenata-co-sd" tvg-name="Parranda Vallenata" tvg-chno="1071" tvg-country="CO" group-title="Música",Parranda Vallenata
+#EXTINF:-1 tvg-id="parrandavallenata-co-sd" tvg-name="Parranda Vallenata" tvg-chno="851" tvg-country="CO" group-title="Música",Parranda Vallenata
 https://backupmaxmedia.hvmultiplay.com/hls/stream3/parrandavallenata.m3u8
-#EXTINF:-1 tvg-id="pequeradio-es-sd" tvg-name="Pequeradio" tvg-chno="1072" tvg-country="ES" group-title="Música",Pequeradio
+#EXTINF:-1 tvg-id="pequeradio-es-sd" tvg-name="Pequeradio" tvg-chno="852" tvg-country="ES" group-title="Música",Pequeradio
 https://canadaremar2.todostreaming.es/live/peque-pequetv.m3u8
-#EXTINF:-1 tvg-id="pindintv-pa-sd" tvg-name="Pindin TV" tvg-chno="1073" tvg-country="PA" group-title="Música",Pindin TV
+#EXTINF:-1 tvg-id="pindintv-pa-sd" tvg-name="Pindin TV" tvg-chno="853" tvg-country="PA" group-title="Música",Pindin TV
 https://sistemastr.tropicalmoonmedia.com/live/7C452409423F57ADC960F6405635267F/7.m3u8
-#EXTINF:-1 tvg-id="planet1009fm-pa-sd" tvg-name="Planet 100.9 FM" tvg-chno="1074" tvg-country="PA" group-title="Música",Planet 100.9 FM
+#EXTINF:-1 tvg-id="planet1009fm-pa-sd" tvg-name="Planet 100.9 FM" tvg-chno="854" tvg-country="PA" group-title="Música",Planet 100.9 FM
 https://streamlov.alsolnet.com/planet1009fm/live/playlist.m3u8
-#EXTINF:-1 tvg-id="planeta-tv-no-24-7-chile" tvg-name="Planeta TV [No 24/7](Chile)" tvg-chno="1075" tvg-country="ES" group-title="Música",Planeta TV [No 24/7](Chile)
+#EXTINF:-1 tvg-id="planeta-tv-no-24-7-chile" tvg-name="Planeta TV [No 24/7](Chile)" tvg-chno="855" tvg-country="ES" group-title="Música",Planeta TV [No 24/7](Chile)
 https://tls-cl.cdnz.cl/planetatv/live/playlist.m3u8
-#EXTINF:-1 tvg-id="plutotvkaraokeporstingray-us-latam" tvg-name="Pluto TV Karaoke por Stingray LatAm" tvg-chno="1076" tvg-country="US" group-title="Música",Pluto TV Karaoke por Stingray LatAm
+#EXTINF:-1 tvg-id="plutotvkaraokeporstingray-us-latam" tvg-name="Pluto TV Karaoke por Stingray LatAm" tvg-chno="856" tvg-country="US" group-title="Música",Pluto TV Karaoke por Stingray LatAm
 https://jmp2.uk/plu-5f85cf621d6d2200079f1de0.m3u8
-#EXTINF:-1 tvg-id="pop-world-tv-espana" tvg-name="POP World TV (España)" tvg-chno="1077" tvg-country="ES" group-title="Música",POP World TV (España)
+#EXTINF:-1 tvg-id="pop-world-tv-espana" tvg-name="POP World TV (España)" tvg-chno="857" tvg-country="ES" group-title="Música",POP World TV (España)
 https://janus.xpbroadcasting.com:8443/hls/popworld.m3u8
-#EXTINF:-1 tvg-id="portalfoxmix-chile" tvg-name="PortalFoxMix (Chile)" tvg-chno="1078" tvg-country="ES" group-title="Música",PortalFoxMix (Chile)
+#EXTINF:-1 tvg-id="portalfoxmix-chile" tvg-name="PortalFoxMix (Chile)" tvg-chno="858" tvg-country="ES" group-title="Música",PortalFoxMix (Chile)
 https://panel.tvstream.cl:1936/8040/8040/playlist.m3u8
-#EXTINF:-1 tvg-id="pratteltv-pe-sd" tvg-name="Prattel TV" tvg-chno="1079" tvg-country="PE" group-title="Música",Prattel TV
+#EXTINF:-1 tvg-id="pratteltv-pe-sd" tvg-name="Prattel TV" tvg-chno="859" tvg-country="PE" group-title="Música",Prattel TV
 https://183.bozztv.com/ssh101/ssh101/pratteltvperu/playlist.m3u8
-#EXTINF:-1 tvg-id="radiobonita1067-ec-sd" tvg-name="Radio Bonita 106.7" tvg-chno="1080" tvg-country="EC" group-title="Música",Radio Bonita 106.7
+#EXTINF:-1 tvg-id="radiobonita1067-ec-sd" tvg-name="Radio Bonita 106.7" tvg-chno="860" tvg-country="EC" group-title="Música",Radio Bonita 106.7
 https://cloudvideo.servers10.com:8081/8154/index.m3u8
-#EXTINF:-1 tvg-id="radiochalaca-pe-sd" tvg-name="Radio Chalaca" tvg-chno="1081" tvg-country="PE" group-title="Música",Radio Chalaca
+#EXTINF:-1 tvg-id="radiochalaca-pe-sd" tvg-name="Radio Chalaca" tvg-chno="861" tvg-country="PE" group-title="Música",Radio Chalaca
 https://servilive.com:3414/hybrid/play.m3u8
-#EXTINF:-1 tvg-id="radioclasicatv-bo-sd" tvg-name="Radio Clasica TV" tvg-chno="1082" tvg-country="BO" group-title="Música",Radio Clasica TV
+#EXTINF:-1 tvg-id="radioclasicatv-bo-sd" tvg-name="Radio Clasica TV" tvg-chno="862" tvg-country="BO" group-title="Música",Radio Clasica TV
 https://ares.disfrutaenlared.com:1936/clasica/clasica/playlist.m3u8
-#EXTINF:-1 tvg-id="radiocolmenar925fm-py-sd" tvg-name="Radio Colmenar 92.5 FM" tvg-chno="1083" tvg-country="PY" group-title="Música",Radio Colmenar 92.5 FM
+#EXTINF:-1 tvg-id="radiocolmenar925fm-py-sd" tvg-name="Radio Colmenar 92.5 FM" tvg-chno="863" tvg-country="PY" group-title="Música",Radio Colmenar 92.5 FM
 https://tvdatta.com:3041/live/colmenarlive.m3u8
-#EXTINF:-1 tvg-id="radioconexionwebtv-ar-sd" tvg-name="Radio Conexion Web TV" tvg-chno="1084" tvg-country="AR" group-title="Música",Radio Conexion Web TV
+#EXTINF:-1 tvg-id="radioconexionwebtv-ar-sd" tvg-name="Radio Conexion Web TV" tvg-chno="864" tvg-country="AR" group-title="Música",Radio Conexion Web TV
 https://tuvideoonline.com.ar:3391/live/radioconexionlive.m3u8
-#EXTINF:-1 tvg-id="radiocuencaestereo-ec-sd" tvg-name="Radio Cuenca Estereo" tvg-chno="1085" tvg-country="EC" group-title="Música",Radio Cuenca Estereo
+#EXTINF:-1 tvg-id="radiocuencaestereo-ec-sd" tvg-name="Radio Cuenca Estereo" tvg-chno="865" tvg-country="EC" group-title="Música",Radio Cuenca Estereo
 https://eu1.servers10.com:8081/8074/index.m3u8
-#EXTINF:-1 tvg-id="radioideal-hn-sd" tvg-name="Radio Ideal" tvg-chno="1086" tvg-country="HN" group-title="Música",Radio Ideal
+#EXTINF:-1 tvg-id="radioideal-hn-sd" tvg-name="Radio Ideal" tvg-chno="866" tvg-country="HN" group-title="Música",Radio Ideal
 https://www.idealfm104-7.com/hls/0/stream.m3u8
-#EXTINF:-1 tvg-id="radiomaster-pe-hd" tvg-name="Radio Master" tvg-chno="1087" tvg-country="PE" group-title="Música",Radio Master
+#EXTINF:-1 tvg-id="radiomaster-pe-hd" tvg-name="Radio Master" tvg-chno="867" tvg-country="PE" group-title="Música",Radio Master
 https://videoserver.tmcreativos.com:19360/radiomaster/radiomaster.m3u8
-#EXTINF:-1 tvg-id="radiomonumentaltv-ec-sd" tvg-name="Radio Monumental TV" tvg-chno="1088" tvg-country="EC" group-title="Música",Radio Monumental TV
+#EXTINF:-1 tvg-id="radiomonumentaltv-ec-sd" tvg-name="Radio Monumental TV" tvg-chno="868" tvg-country="EC" group-title="Música",Radio Monumental TV
 https://cloud37.ecuatel.com/monumentaltv/live/manifest.m3u8
-#EXTINF:-1 tvg-id="radioondadigital-pe-sd" tvg-name="Radio Onda Digital" tvg-chno="1089" tvg-country="PE" group-title="Música",Radio Onda Digital
+#EXTINF:-1 tvg-id="radioondadigital-pe-sd" tvg-name="Radio Onda Digital" tvg-chno="869" tvg-country="PE" group-title="Música",Radio Onda Digital
 https://live.ondadigitaltv.com/RADIOODTV/index.m3u8
-#EXTINF:-1 tvg-id="radiorealpolitik-ar-sd" tvg-name="Radio Realpolitik" tvg-chno="1090" tvg-country="AR" group-title="Música",Radio Realpolitik
+#EXTINF:-1 tvg-id="radiorealpolitik-ar-sd" tvg-name="Radio Realpolitik" tvg-chno="870" tvg-country="AR" group-title="Música",Radio Realpolitik
 https://vivo.solumedia.com:19360/realpolitik/realpolitik.m3u8
-#EXTINF:-1 tvg-id="radiorumbatv-pe-sd" tvg-name="Radio Rumba TV" tvg-chno="1091" tvg-country="PE" group-title="Música",Radio Rumba TV
+#EXTINF:-1 tvg-id="radiorumbatv-pe-sd" tvg-name="Radio Rumba TV" tvg-chno="871" tvg-country="PE" group-title="Música",Radio Rumba TV
 https://live-evg7.tv360.bitel.com.pe/bitel/rumba/playlist.m3u8
-#EXTINF:-1 tvg-id="radiosanborjatv-pe-sd" tvg-name="Radio San Borja TV" tvg-chno="1092" tvg-country="PE" group-title="Música",Radio San Borja TV
+#EXTINF:-1 tvg-id="radiosanborjatv-pe-sd" tvg-name="Radio San Borja TV" tvg-chno="872" tvg-country="PE" group-title="Música",Radio San Borja TV
 https://stream.mediacorp.pe/srt/3/playlist.m3u8
-#EXTINF:-1 tvg-id="radiosancristobal887fm-py-sd" tvg-name="Radio San Cristobal 88.7 FM" tvg-chno="1093" tvg-country="PY" group-title="Música",Radio San Cristobal 88.7 FM
+#EXTINF:-1 tvg-id="radiosancristobal887fm-py-sd" tvg-name="Radio San Cristobal 88.7 FM" tvg-chno="873" tvg-country="PY" group-title="Música",Radio San Cristobal 88.7 FM
 https://video.wilohosting.com:19360/sancristobalfm/sancristobalfm.m3u8
-#EXTINF:-1 tvg-id="radiotropical-pe-sd" tvg-name="Radio Tropical" tvg-chno="1094" tvg-country="PE" group-title="Música",Radio Tropical
+#EXTINF:-1 tvg-id="radiotropical-pe-sd" tvg-name="Radio Tropical" tvg-chno="874" tvg-country="PE" group-title="Música",Radio Tropical
 https://videoserver.tmcreativos.com:19360/raditropical/raditropical.m3u8
-#EXTINF:-1 tvg-id="retro-plus-tv-espanol-chile" tvg-name="Retro Plus TV (Español) (Chile)" tvg-chno="1095" tvg-country="ES" group-title="Música",Retro Plus TV (Español) (Chile)
+#EXTINF:-1 tvg-id="retro-plus-tv-espanol-chile" tvg-name="Retro Plus TV (Español) (Chile)" tvg-chno="875" tvg-country="ES" group-title="Música",Retro Plus TV (Español) (Chile)
 https://srt01.logicahost.com.br/senal2/index.m3u8?ChileTv
-#EXTINF:-1 tvg-id="retro-plus-tv-ingles-chile" tvg-name="Retro Plus TV (Inglés) (Chile)" tvg-chno="1096" tvg-country="ES" group-title="Música",Retro Plus TV (Inglés) (Chile)
+#EXTINF:-1 tvg-id="retro-plus-tv-ingles-chile" tvg-name="Retro Plus TV (Inglés) (Chile)" tvg-chno="876" tvg-country="ES" group-title="Música",Retro Plus TV (Inglés) (Chile)
 https://srt01.logicahost.com.br/senal1/index.m3u8?ChileTv
-#EXTINF:-1 tvg-id="reyali-co-sd" tvg-name="Reyali" tvg-chno="1097" tvg-country="CO" group-title="Música",Reyali
+#EXTINF:-1 tvg-id="reyali-co-sd" tvg-name="Reyali" tvg-chno="877" tvg-country="CO" group-title="Música",Reyali
 https://eu1.servers10.com:8081/8090/index.m3u8
-#EXTINF:-1 tvg-id="rtvvida-es-sd" tvg-name="RTV Vida" tvg-chno="1098" tvg-country="ES" group-title="Música",RTV Vida
+#EXTINF:-1 tvg-id="rtvvida-es-sd" tvg-name="RTV Vida" tvg-chno="878" tvg-country="ES" group-title="Música",RTV Vida
 https://vidartv2.todostreaming.es/live/radiovida-emisiontvhd.m3u8
-#EXTINF:-1 tvg-id="rumbamixtv-pe-sd" tvg-name="RumbaMix TV" tvg-chno="1099" tvg-country="PE" group-title="Música",RumbaMix TV
+#EXTINF:-1 tvg-id="rumbamixtv-pe-sd" tvg-name="RumbaMix TV" tvg-chno="879" tvg-country="PE" group-title="Música",RumbaMix TV
 https://live-evg5.tv360.bitel.com.pe/bitel/mixtvSRT/playlist.m3u8
-#EXTINF:-1 tvg-id="salsagordatelevision-co-sd" tvg-name="Salsa Gorda Television" tvg-chno="1100" tvg-country="CO" group-title="Música",Salsa Gorda Television
+#EXTINF:-1 tvg-id="salsagordatelevision-co-sd" tvg-name="Salsa Gorda Television" tvg-chno="880" tvg-country="CO" group-title="Música",Salsa Gorda Television
 https://live20.bozztv.com/akamaissh101/ssh101/qMUAZEy/playlist.m3u8
-#EXTINF:-1 tvg-id="salsa-tv" tvg-name="Salsa TV" tvg-chno="1101" tvg-country="ES" group-title="Música",Salsa TV
+#EXTINF:-1 tvg-id="salsa-tv" tvg-name="Salsa TV" tvg-chno="881" tvg-country="ES" group-title="Música",Salsa TV
 https://sistemastr.tropicalmoonmedia.com:443/live/219197C7B6902B1A4D33D19600E9BE7A/1.m3u8
-#EXTINF:-1 tvg-id="siembratv-do-sd" tvg-name="Siembra TV (Dominican Republic)" tvg-chno="1102" tvg-country="DO" group-title="Música",Siembra TV (Dominican Republic)
+#EXTINF:-1 tvg-id="siembratv-do-sd" tvg-name="Siembra TV (Dominican Republic)" tvg-chno="882" tvg-country="DO" group-title="Música",Siembra TV (Dominican Republic)
 https://streamunoapp.com:3809/live/siembratvlive.m3u8
-#EXTINF:-1 tvg-id="solmusica-es-sd" tvg-name="Sol Musica" tvg-chno="1103" tvg-country="ES" group-title="Música",Sol Musica
+#EXTINF:-1 tvg-id="solmusica-es-sd" tvg-name="Sol Musica" tvg-chno="883" tvg-country="ES" group-title="Música",Sol Musica
 https://d2glyu450vvghm.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-21u4g5cjglv02/sm.m3u8
-#EXTINF:-1 tvg-id="soyplanchatv-cr-sd" tvg-name="SOY Plancha TV" tvg-chno="1104" tvg-country="CR" group-title="Música",SOY Plancha TV
+#EXTINF:-1 tvg-id="soyplanchatv-cr-sd" tvg-name="SOY Plancha TV" tvg-chno="884" tvg-country="CR" group-title="Música",SOY Plancha TV
 https://59ef525c24caa.streamlock.net/vmtv/soyplancha/playlist.m3u8
-#EXTINF:-1 tvg-id="spektratv-es-sd" tvg-name="SpektraTV" tvg-chno="1105" tvg-country="ES" group-title="Música",SpektraTV
+#EXTINF:-1 tvg-id="spektratv-es-sd" tvg-name="SpektraTV" tvg-chno="885" tvg-country="ES" group-title="Música",SpektraTV
 https://cloudvideo.servers10.com:8081/8026/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-id="stingrayclassica-ca-sd" tvg-name="Stingray Classica" tvg-chno="1106" tvg-country="CA" group-title="Música",Stingray Classica
+#EXTINF:-1 tvg-id="stingrayclassica-ca-sd" tvg-name="Stingray Classica" tvg-chno="886" tvg-country="CA" group-title="Música",Stingray Classica
 https://lotus.stingray.com/manifest/classica-cla008-montreal/samsungtvplus/master.m3u8
-#EXTINF:-1 tvg-id="stingrayiconcerts-ca-hd" tvg-name="Stingray iConcerts HD" tvg-chno="1107" tvg-country="CA" group-title="Música",Stingray iConcerts HD
+#EXTINF:-1 tvg-id="stingrayiconcerts-ca-hd" tvg-name="Stingray iConcerts HD" tvg-chno="887" tvg-country="CA" group-title="Música",Stingray iConcerts HD
 https://dash4.antik.sk/live/test_stingray_iconcerts_hd_hevc50/playlist.m3u8
-#EXTINF:-1 tvg-id="stingraytiktokradio-ca-hd" tvg-name="Stingray TikTok Radio" tvg-chno="1108" tvg-country="CA" group-title="Música",Stingray TikTok Radio
+#EXTINF:-1 tvg-id="stingraytiktokradio-ca-hd" tvg-name="Stingray TikTok Radio" tvg-chno="888" tvg-country="CA" group-title="Música",Stingray TikTok Radio
 https://d3f4oii5n0oeqi.cloudfront.net/11701/88814594/hls/master.m3u8?ads.xumo_channelId=88814594
-#EXTINF:-1 tvg-id="superqpanama-pa-sd" tvg-name="Super Q Panama" tvg-chno="1109" tvg-country="PA" group-title="Música",Super Q Panama
+#EXTINF:-1 tvg-id="superqpanama-pa-sd" tvg-name="Super Q Panama" tvg-chno="889" tvg-country="PA" group-title="Música",Super Q Panama
 https://vcp8.myplaytv.com:1936/superq/superq/playlist.m3u8
-#EXTINF:-1 tvg-id="supermusicatv-co-sd" tvg-name="Supermusica TV" tvg-chno="1110" tvg-country="CO" group-title="Música",Supermusica TV
+#EXTINF:-1 tvg-id="supermusicatv-co-sd" tvg-name="Supermusica TV" tvg-chno="890" tvg-country="CO" group-title="Música",Supermusica TV
 https://backupmaxmedia.hvmultiplay.com/hls/stream4/supermusica.m3u8
-#EXTINF:-1 tvg-id="teledominicanatv-do-sd" tvg-name="Tele Dominicana TV" tvg-chno="1111" tvg-country="DO" group-title="Música",Tele Dominicana TV
+#EXTINF:-1 tvg-id="teledominicanatv-do-sd" tvg-name="Tele Dominicana TV" tvg-chno="891" tvg-country="DO" group-title="Música",Tele Dominicana TV
 https://vdopanel.jlahozconsulting.com/p/3417/hybrid/play.m3u8
-#EXTINF:-1 tvg-id="thecabbinfm-ar-sd" tvg-name="The Cabbin FM" tvg-chno="1112" tvg-country="AR" group-title="Música",The Cabbin FM
+#EXTINF:-1 tvg-id="thecabbinfm-ar-sd" tvg-name="The Cabbin FM" tvg-chno="892" tvg-country="AR" group-title="Música",The Cabbin FM
 https://5f700d5b2c46f.streamlock.net/thecabinn/thecabinn/playlist.m3u8
-#EXTINF:-1 tvg-id="topicalmoonrd-do-hd" tvg-name="Topical Moon RD" tvg-chno="1113" tvg-country="DO" group-title="Música",Topical Moon RD
+#EXTINF:-1 tvg-id="topicalmoonrd-do-hd" tvg-name="Topical Moon RD" tvg-chno="893" tvg-country="DO" group-title="Música",Topical Moon RD
 https://sistemastr.tropicalmoonmedia.com/live/56BE17DB16EB76C9F2DDB8346F4DFA4E/30.m3u8
-#EXTINF:-1 tvg-id="totalmusic-uk-hd" tvg-name="Totalmusic" tvg-chno="1114" tvg-country="UK" group-title="Música",Totalmusic
+#EXTINF:-1 tvg-id="totalmusic-uk-hd" tvg-name="Totalmusic" tvg-chno="894" tvg-country="UK" group-title="Música",Totalmusic
 https://cdn.global.elektamedia.com/live/c7eds/Totalmusic/SA_LIVE_hls_enc/master.m3u8
-#EXTINF:-1 tvg-id="totalmusic2000s-uk-hd" tvg-name="Totalmusic 2000s" tvg-chno="1115" tvg-country="UK" group-title="Música",Totalmusic 2000s
+#EXTINF:-1 tvg-id="totalmusic2000s-uk-hd" tvg-name="Totalmusic 2000s" tvg-chno="895" tvg-country="UK" group-title="Música",Totalmusic 2000s
 https://cdn.global.elektamedia.com/live/c7eds/Totalmusic_00s/SA_LIVE_hls_enc/master.m3u8
-#EXTINF:-1 tvg-id="totalmusic80s-uk-hd" tvg-name="Totalmusic 80s" tvg-chno="1116" tvg-country="UK" group-title="Música",Totalmusic 80s
+#EXTINF:-1 tvg-id="totalmusic80s-uk-hd" tvg-name="Totalmusic 80s" tvg-chno="896" tvg-country="UK" group-title="Música",Totalmusic 80s
 https://cdn.global.elektamedia.com/live/c7eds/Totalmusic_80s/SA_LIVE_hls_enc/master.m3u8
-#EXTINF:-1 tvg-id="totalmusicconcerts-uk-hd" tvg-name="Totalmusic Concerts" tvg-chno="1117" tvg-country="UK" group-title="Música",Totalmusic Concerts
+#EXTINF:-1 tvg-id="totalmusicconcerts-uk-hd" tvg-name="Totalmusic Concerts" tvg-chno="897" tvg-country="UK" group-title="Música",Totalmusic Concerts
 https://cdn.global.elektamedia.com/live/c7eds/Totalmusic_Concerts/SA_LIVE_hls_enc/master.m3u8
-#EXTINF:-1 tvg-id="totalmusicdance-uk-hd" tvg-name="Totalmusic Dance" tvg-chno="1118" tvg-country="UK" group-title="Música",Totalmusic Dance
+#EXTINF:-1 tvg-id="totalmusicdance-uk-hd" tvg-name="Totalmusic Dance" tvg-chno="898" tvg-country="UK" group-title="Música",Totalmusic Dance
 https://cdn.global.elektamedia.com/live/c7eds/Totalmusic_Dance/SA_LIVE_hls_enc/master.m3u8
-#EXTINF:-1 tvg-id="totovision-gt-sd" tvg-name="Totovision" tvg-chno="1119" tvg-country="GT" group-title="Música",Totovision
+#EXTINF:-1 tvg-id="totovision-gt-sd" tvg-name="Totovision" tvg-chno="899" tvg-country="GT" group-title="Música",Totovision
 https://cdn.streamhispanatv.net:3652/live/totovisiongtlive.m3u8
-#EXTINF:-1 tvg-id="trace-latina-internacional" tvg-name="Trace Latina (Internacional)" tvg-chno="1120" tvg-country="ES" group-title="Música",Trace Latina (Internacional)
+#EXTINF:-1 tvg-id="trace-latina-internacional" tvg-name="Trace Latina (Internacional)" tvg-chno="900" tvg-country="ES" group-title="Música",Trace Latina (Internacional)
 https://amg01131-tracetv-tracelatina-klowdtv-v10em.amagi.tv/playlist/amg01131-tracetv-tracelatina-klowdtv/playlist.m3u8
-#EXTINF:-1 tvg-id="trace-urban-internacional" tvg-name="Trace Urban (Internacional)" tvg-chno="1121" tvg-country="ES" group-title="Música",Trace Urban (Internacional)
+#EXTINF:-1 tvg-id="trace-urban-internacional" tvg-name="Trace Urban (Internacional)" tvg-chno="901" tvg-country="ES" group-title="Música",Trace Urban (Internacional)
 https://amg01131-tracetv-traceurban-klowdtv-utiqd.amagi.tv/playlist/amg01131-tracetv-traceurban-klowdtv/playlist.m3u8
-#EXTINF:-1 tvg-id="tropiq997fm-pa-sd" tvg-name="Tropi Q 99.7 FM" tvg-chno="1122" tvg-country="PA" group-title="Música",Tropi Q 99.7 FM
+#EXTINF:-1 tvg-id="tropiq997fm-pa-sd" tvg-name="Tropi Q 99.7 FM" tvg-chno="902" tvg-country="PA" group-title="Música",Tropi Q 99.7 FM
 https://www.streaming507.net:19360/videotropiq/videotropiq.m3u8
-#EXTINF:-1 tvg-id="tropi-tv-argentina" tvg-name="Tropi TV (Argentina)" tvg-chno="1123" tvg-country="ES" group-title="Música",Tropi TV (Argentina)
+#EXTINF:-1 tvg-id="tropi-tv-argentina" tvg-name="Tropi TV (Argentina)" tvg-chno="903" tvg-country="ES" group-title="Música",Tropi TV (Argentina)
 https://stmv3.voxtvhd.com.br/tropixtrema/tropixtrema/playlist.m3u8
-#EXTINF:-1 tvg-id="tropicalmooncumbiatv-pa-sd" tvg-name="Tropical Moon Cumbia TV" tvg-chno="1124" tvg-country="PA" group-title="Música",Tropical Moon Cumbia TV
+#EXTINF:-1 tvg-id="tropicalmooncumbiatv-pa-sd" tvg-name="Tropical Moon Cumbia TV" tvg-chno="904" tvg-country="PA" group-title="Música",Tropical Moon Cumbia TV
 https://srv2.tropicalmoonmedia.com/cumbiatv/cumbiatv/playlist.m3u8
-#EXTINF:-1 tvg-id="tropicalmoonurbantv-pa-sd" tvg-name="Tropical Moon Urban TV" tvg-chno="1125" tvg-country="PA" group-title="Música",Tropical Moon Urban TV
+#EXTINF:-1 tvg-id="tropicalmoonurbantv-pa-sd" tvg-name="Tropical Moon Urban TV" tvg-chno="905" tvg-country="PA" group-title="Música",Tropical Moon Urban TV
 https://sistemastr.tropicalmoonmedia.com:443/live/D8E123ACA054EF85B153C354A481A406/4.m3u8
-#EXTINF:-1 tvg-id="turbomixradiotv-pe-sd" tvg-name="Turbo Mix Radio TV" tvg-chno="1126" tvg-country="PE" group-title="Música",Turbo Mix Radio TV
+#EXTINF:-1 tvg-id="turbomixradiotv-pe-sd" tvg-name="Turbo Mix Radio TV" tvg-chno="906" tvg-country="PE" group-title="Música",Turbo Mix Radio TV
 https://live-evg11.tv360.bitel.com.pe/bitel/turbomixSRT/playlist.m3u8
-#EXTINF:-1 tvg-id="turbo-mix-radio-tv-peru" tvg-name="Turbo Mix Radio TV (Perú)" tvg-chno="1127" tvg-country="ES" group-title="Música",Turbo Mix Radio TV (Perú)
+#EXTINF:-1 tvg-id="turbo-mix-radio-tv-peru" tvg-name="Turbo Mix Radio TV (Perú)" tvg-chno="907" tvg-country="ES" group-title="Música",Turbo Mix Radio TV (Perú)
 https://7.innovatestream.pe:19360/turbomixoficial/turbomixoficial.m3u8
-#EXTINF:-1 tvg-id="tvbozsikehamburghd-de-hd" tvg-name="TV Bozsike Hamburg HD" tvg-chno="1128" tvg-country="DE" group-title="Música",TV Bozsike Hamburg HD
+#EXTINF:-1 tvg-id="tvbozsikehamburghd-de-hd" tvg-name="TV Bozsike Hamburg HD" tvg-chno="908" tvg-country="DE" group-title="Música",TV Bozsike Hamburg HD
 https://rtmp.radiobozsike.com/hls/stream1.m3u8
-#EXTINF:-1 tvg-id="tvexitos-do-sd" tvg-name="TV Exitos" tvg-chno="1129" tvg-country="DO" group-title="Música",TV Exitos
+#EXTINF:-1 tvg-id="tvexitos-do-sd" tvg-name="TV Exitos" tvg-chno="909" tvg-country="DO" group-title="Música",TV Exitos
 https://streaming.grupomediosdelnorte.com:19360/tvexitos/tvexitos.m3u8
-#EXTINF:-1 tvg-id="tvperuanisima-pe-sd" tvg-name="TV Peruanisima" tvg-chno="1130" tvg-country="PE" group-title="Música",TV Peruanisima
+#EXTINF:-1 tvg-id="tvperuanisima-pe-sd" tvg-name="TV Peruanisima" tvg-chno="910" tvg-country="PE" group-title="Música",TV Peruanisima
 https://k20.usastreams.com:8081/tvperuanisima/index.m3u8
-#EXTINF:-1 tvg-id="tvomix-es-hd" tvg-name="TVOMIX" tvg-chno="1131" tvg-country="ES" group-title="Música",TVOMIX
+#EXTINF:-1 tvg-id="tvomix-es-hd" tvg-name="TVOMIX" tvg-chno="911" tvg-country="ES" group-title="Música",TVOMIX
 https://cloud.tvomix.com/TVOMIX/index.m3u8
-#EXTINF:-1 tvg-id="tvonenicaragua-ni-sd" tvg-name="TVONE Nicaragua" tvg-chno="1132" tvg-country="NI" group-title="Música",TVONE Nicaragua
+#EXTINF:-1 tvg-id="tvonenicaragua-ni-sd" tvg-name="TVONE Nicaragua" tvg-chno="912" tvg-country="NI" group-title="Música",TVONE Nicaragua
 https://hdbox.chunklistv.com/live?stream=tvone
-#EXTINF:-1 tvg-id="tvuno-pe-sd" tvg-name="TVUNO" tvg-chno="1133" tvg-country="PE" group-title="Música",TVUNO
+#EXTINF:-1 tvg-id="tvuno-pe-sd" tvg-name="TVUNO" tvg-chno="913" tvg-country="PE" group-title="Música",TVUNO
 https://streamtv.onliv3.online:1936/karibtv/karibtv/playlist.m3u8
-#EXTINF:-1 tvg-id="urban-tv" tvg-name="Urban TV" tvg-chno="1134" tvg-country="ES" group-title="Música",Urban TV
+#EXTINF:-1 tvg-id="urban-tv" tvg-name="Urban TV" tvg-chno="914" tvg-country="ES" group-title="Música",Urban TV
 https://sistemastr.tropicalmoonmedia.com/live/D8E123ACA054EF85B153C354A481A406/4.m3u8
-#EXTINF:-1 tvg-id="urbanotv-cr-sd" tvg-name="Urbano TV" tvg-chno="1135" tvg-country="CR" group-title="Música",Urbano TV
+#EXTINF:-1 tvg-id="urbanotv-cr-sd" tvg-name="Urbano TV" tvg-chno="915" tvg-country="CR" group-title="Música",Urbano TV
 https://59ef525c24caa.streamlock.net/tvurbano/tvurbano/playlist.m3u8
-#EXTINF:-1 tvg-id="vclassictv-cl" tvg-name="V Classic TV" tvg-chno="1136" tvg-country="MX" group-title="Música",V Classic TV
+#EXTINF:-1 tvg-id="vclassictv-cl" tvg-name="V Classic TV" tvg-chno="916" tvg-country="MX" group-title="Música",V Classic TV
 https://5eaccbab48461.streamlock.net:1936/8112/8112/playlist.m3u8
-#EXTINF:-1 tvg-id="vallenatointernacional-us-sd" tvg-name="Vallenato Internacional" tvg-chno="1137" tvg-country="US" group-title="Música",Vallenato Internacional
+#EXTINF:-1 tvg-id="vallenatointernacional-us-sd" tvg-name="Vallenato Internacional" tvg-chno="917" tvg-country="US" group-title="Música",Vallenato Internacional
 https://59a564764e2b6.streamlock.net/vallenato/vallenatom/playlist.m3u8
-#EXTINF:-1 tvg-id="venusmedia-py-sd" tvg-name="Venus Media" tvg-chno="1138" tvg-country="PY" group-title="Música",Venus Media
+#EXTINF:-1 tvg-id="venusmedia-py-sd" tvg-name="Venus Media" tvg-chno="918" tvg-country="PY" group-title="Música",Venus Media
 https://tigocloud.desdeparaguay.net/venusmedia/venusmedia/playlist.m3u8
-#EXTINF:-1 tvg-id="verbena-tv-no-24-7-espana" tvg-name="Verbena TV [No 24/7] (España)" tvg-chno="1139" tvg-country="ES" group-title="Música",Verbena TV [No 24/7] (España)
+#EXTINF:-1 tvg-id="verbena-tv-no-24-7-espana" tvg-name="Verbena TV [No 24/7] (España)" tvg-chno="919" tvg-country="ES" group-title="Música",Verbena TV [No 24/7] (España)
 https://streamtv2.elitecomunicacion.cloud:3144/live/verbenatvlive.m3u8
-#EXTINF:-1 tvg-id="vevo-latino" tvg-name="VEVO LATINO" tvg-chno="1140" tvg-country="ES" group-title="Música",VEVO LATINO
+#EXTINF:-1 tvg-id="vevo-latino" tvg-name="VEVO LATINO" tvg-chno="920" tvg-country="ES" group-title="Música",VEVO LATINO
 https://amg00056-amg00056c13-rakuten-es-3246.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="vevo-latino-internacional" tvg-name="VEVO Latino (Internacional)" tvg-chno="1141" tvg-country="ES" group-title="Música",VEVO Latino (Internacional)
+#EXTINF:-1 tvg-id="vevo-latino-internacional" tvg-name="VEVO Latino (Internacional)" tvg-chno="921" tvg-country="ES" group-title="Música",VEVO Latino (Internacional)
 https://d2xijrr4wx5ch6.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-6t0qpfdg3pp0p/playlist.m3u8
-#EXTINF:-1 tvg-id="vevo-pop-internacional" tvg-name="VEVO Pop (Internacional)" tvg-chno="1142" tvg-country="ES" group-title="Música",VEVO Pop (Internacional)
+#EXTINF:-1 tvg-id="vevo-pop-internacional" tvg-name="VEVO Pop (Internacional)" tvg-chno="922" tvg-country="ES" group-title="Música",VEVO Pop (Internacional)
 https://d3e0llp20n59j5.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-fs5u02h1uaofy/playlist.m3u8
-#EXTINF:-1 tvg-id="vevo-retro-internacional" tvg-name="VEVO Retro (Internacional)" tvg-chno="1143" tvg-country="ES" group-title="Música",VEVO Retro (Internacional)
+#EXTINF:-1 tvg-id="vevo-retro-internacional" tvg-name="VEVO Retro (Internacional)" tvg-chno="923" tvg-country="ES" group-title="Música",VEVO Retro (Internacional)
 https://dh732bpen9wqx.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-xpcm3pisx9sj8/VevoRetro_ES.m3u8
-#EXTINF:-1 tvg-id="videotourchannel-cr-sd" tvg-name="Video Tour Channel" tvg-chno="1144" tvg-country="CR" group-title="Música",Video Tour Channel
+#EXTINF:-1 tvg-id="videotourchannel-cr-sd" tvg-name="Video Tour Channel" tvg-chno="924" tvg-country="CR" group-title="Música",Video Tour Channel
 https://59ef525c24caa.streamlock.net/videotour/videotour/playlist.m3u8
-#EXTINF:-1 tvg-id="vintagemusic-cr-sd" tvg-name="Vintage Music" tvg-chno="1145" tvg-country="CR" group-title="Música",Vintage Music
+#EXTINF:-1 tvg-id="vintagemusic-cr-sd" tvg-name="Vintage Music" tvg-chno="925" tvg-country="CR" group-title="Música",Vintage Music
 https://59ef525c24caa.streamlock.net/vmtv/tvvintage/playlist.m3u8
-#EXTINF:-1 tvg-id="vision-musica-tv" tvg-name="Vision Musica TV" tvg-chno="1146" tvg-country="ES" group-title="Música",Vision Musica TV
+#EXTINF:-1 tvg-id="vision-musica-tv" tvg-name="Vision Musica TV" tvg-chno="926" tvg-country="ES" group-title="Música",Vision Musica TV
 https://videoserver.tmcreativos.com:19360/visionmusica/visionmusica.m3u8
-#EXTINF:-1 tvg-id="visiontelevision-mx-sd" tvg-name="Vision Television" tvg-chno="1147" tvg-country="MX" group-title="Música",Vision Television
+#EXTINF:-1 tvg-id="visiontelevision-mx-sd" tvg-name="Vision Television" tvg-chno="927" tvg-country="MX" group-title="Música",Vision Television
 https://cloudvideo.servers10.com:8081/8016/index.m3u8
-#EXTINF:-1 tvg-id="vm-latino-no-24-7-costa-rica" tvg-name="VM Latino [No 24/7](Costa Rica)" tvg-chno="1148" tvg-country="ES" group-title="Música",VM Latino [No 24/7](Costa Rica)
+#EXTINF:-1 tvg-id="vm-latino-no-24-7-costa-rica" tvg-name="VM Latino [No 24/7](Costa Rica)" tvg-chno="928" tvg-country="ES" group-title="Música",VM Latino [No 24/7](Costa Rica)
 https://59ef525c24caa.streamlock.net/vmtv/vmlatino/playlist.m3u8
-#EXTINF:-1 tvg-id="voiceoverradiotv-cr-sd" tvg-name="VoiceOver Radio TV" tvg-chno="1149" tvg-country="CR" group-title="Música",VoiceOver Radio TV
+#EXTINF:-1 tvg-id="voiceoverradiotv-cr-sd" tvg-name="VoiceOver Radio TV" tvg-chno="929" tvg-country="CR" group-title="Música",VoiceOver Radio TV
 https://cloudvideo.servers10.com:8081/8198/index.m3u8
-#EXTINF:-1 tvg-id="vorterix-mendoza" tvg-name="Vorterix (Mendoza)" tvg-chno="1150" tvg-country="ES" group-title="Música",Vorterix (Mendoza)
+#EXTINF:-1 tvg-id="vorterix-mendoza" tvg-name="Vorterix (Mendoza)" tvg-chno="930" tvg-country="ES" group-title="Música",Vorterix (Mendoza)
 https://vivo.solumedia.com:19360/vorterixmza/vorterixmza.m3u8
-#EXTINF:-1 tvg-id="vorterix-san-luis" tvg-name="Vorterix (San Luis)" tvg-chno="1151" tvg-country="ES" group-title="Música",Vorterix (San Luis)
+#EXTINF:-1 tvg-id="vorterix-san-luis" tvg-name="Vorterix (San Luis)" tvg-chno="931" tvg-country="ES" group-title="Música",Vorterix (San Luis)
 https://streamyes.alsolnet.com/vorterixvillademerlo/live/playlist.m3u8
-#EXTINF:-1 tvg-id="vorterix-hd" tvg-name="Vorterix HD" tvg-chno="1152" tvg-country="ES" group-title="Música",Vorterix HD
+#EXTINF:-1 tvg-id="vorterix-hd" tvg-name="Vorterix HD" tvg-chno="932" tvg-country="ES" group-title="Música",Vorterix HD
 https://prepublish.f.qaotic.net/a08/ngrp:vorterix_video1-20057_all/vorterix_video1-20057_720p.m3u8
-#EXTINF:-1 tvg-id="vorterix-sd" tvg-name="Vorterix SD" tvg-chno="1153" tvg-country="ES" group-title="Música",Vorterix SD
+#EXTINF:-1 tvg-id="vorterix-sd" tvg-name="Vorterix SD" tvg-chno="933" tvg-country="ES" group-title="Música",Vorterix SD
 https://prepublish.f.qaotic.net/a08/ngrp:vorterix_video1-20057_all/vorterix_video1-20057_540p.m3u8
-#EXTINF:-1 tvg-id="vosytv-ec-sd" tvg-name="Vos y TV" tvg-chno="1154" tvg-country="EC" group-title="Música",Vos y TV
+#EXTINF:-1 tvg-id="vosytv-ec-sd" tvg-name="Vos y TV" tvg-chno="934" tvg-country="EC" group-title="Música",Vos y TV
 https://cloud37.ecuatel.com/vostv/live/manifest.m3u8
-#EXTINF:-1 tvg-id="xlevelmedia-ar-sd" tvg-name="X Level Media" tvg-chno="1155" tvg-country="AR" group-title="Música",X Level Media
+#EXTINF:-1 tvg-id="xlevelmedia-ar-sd" tvg-name="X Level Media" tvg-chno="935" tvg-country="AR" group-title="Música",X Level Media
 https://tuvideoonline.com.ar:3332/live/xlevelmedialive.m3u8
-#EXTINF:-1 tvg-id="xitenuevolatino-us-sd" tvg-name="XITE Nuevo Latino" tvg-chno="1156" tvg-country="US" group-title="Música",XITE Nuevo Latino
+#EXTINF:-1 tvg-id="xitenuevolatino-us-sd" tvg-name="XITE Nuevo Latino" tvg-chno="936" tvg-country="US" group-title="Música",XITE Nuevo Latino
 https://d3bsgqzbpkrvbb.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-w288eaw03izg1/XITE_Nuevo_Latino.m3u8
-#EXTINF:-1 tvg-id="xitesiemprelatino-us-sd" tvg-name="XITE Siempre Latino" tvg-chno="1157" tvg-country="US" group-title="Música",XITE Siempre Latino
+#EXTINF:-1 tvg-id="xitesiemprelatino-us-sd" tvg-name="XITE Siempre Latino" tvg-chno="937" tvg-country="US" group-title="Música",XITE Siempre Latino
 https://d1xc25jm9e0l4b.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-xplkt8i7m24dc/XITE_Siempre_Latino.m3u8
-#EXTINF:-1 tvg-id="xpectra-groove-top-hits-argentina" tvg-name="Xpectra Groove Top Hits (Argentina)" tvg-chno="1158" tvg-country="ES" group-title="Música",Xpectra Groove Top Hits (Argentina)
+#EXTINF:-1 tvg-id="xpectra-groove-top-hits-argentina" tvg-name="Xpectra Groove Top Hits (Argentina)" tvg-chno="938" tvg-country="ES" group-title="Música",Xpectra Groove Top Hits (Argentina)
 https://stmv6.voxtvhd.com.br/spectratophits/spectratophits/playlist.m3u8
-#EXTINF:-1 tvg-id="zonamusictv-cr-sd" tvg-name="Zona Music TV" tvg-chno="1159" tvg-country="CR" group-title="Música",Zona Music TV
+#EXTINF:-1 tvg-id="zonamusictv-cr-sd" tvg-name="Zona Music TV" tvg-chno="939" tvg-country="CR" group-title="Música",Zona Music TV
 https://acceso.radiosportstv.online:3022/stream/play.m3u8

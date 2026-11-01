@@ -1,13 +1,13 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="13h" tvg-name="13 Humor" tvg-chno="26" tvg-country="CL" group-title="13 FAST",13 Humor
+#EXTINF:-1 tvg-id="13h" tvg-name="13 Humor" tvg-chno="302" tvg-country="CL" group-title="13 FAST",13 Humor
 https://origin.dpsgo.com/ssai/event/cKWySXKgSK-SzlJmESkOWw/master.m3u8
-#EXTINF:-1 tvg-id="13k" tvg-name="13 Kids" tvg-chno="27" tvg-country="CL" group-title="13 FAST",13 Kids
+#EXTINF:-1 tvg-id="13k" tvg-name="13 Kids" tvg-chno="303" tvg-country="CL" group-title="13 FAST",13 Kids
 https://origin.dpsgo.com/ssai/event/LhHrVtyeQkKZ-Ye_xEU75g/master.m3u8
-#EXTINF:-1 tvg-id="13c" tvg-name="13C" tvg-chno="29" tvg-country="CL" group-title="13 FAST",13C
+#EXTINF:-1 tvg-id="13c" tvg-name="13C" tvg-chno="305" tvg-country="CL" group-title="13 FAST",13C
 https://origin.dpsgo.com/ssai/event/GI-9cp_bT8KcerLpZwkuhw/master.m3u8
-#EXTINF:-1 tvg-id="13e" tvg-name="13E" tvg-chno="30" tvg-country="CL" group-title="13 FAST",13E
+#EXTINF:-1 tvg-id="13e" tvg-name="13E" tvg-chno="306" tvg-country="CL" group-title="13 FAST",13E
 https://origin.dpsgo.com/ssai/event/BBp0VeP6QtOOlH8nu3bWTg/master.m3u8
-#EXTINF:-1 tvg-id="13p" tvg-name="13P" tvg-chno="31" tvg-country="CL" group-title="13 FAST",13P
+#EXTINF:-1 tvg-id="13p" tvg-name="13P" tvg-chno="307" tvg-country="CL" group-title="13 FAST",13P
 https://origin.dpsgo.com/ssai/event/p4mmBxEzSmKAxY1GusOHrw/master.m3u8
-#EXTINF:-1 tvg-id="13t" tvg-name="13T" tvg-chno="32" tvg-country="CL" group-title="13 FAST",13T
+#EXTINF:-1 tvg-id="13t" tvg-name="13T" tvg-chno="308" tvg-country="CL" group-title="13 FAST",13T
 https://origin.dpsgo.com/ssai/event/f4TrySe8SoiGF8Lu3EIq1g/master.m3u8

@@ -74,20 +74,27 @@ Generada: 01-nov-2026 · **${numerados} canales numerados** (de ${total} en el c
 Cada canal lleva su número en \`tvg-chno\` dentro de \`playlists/tv-chile-todo.m3u\` → la app IPTV los ordena con esos números.
 **Orden de esta lista: por temática (igual que en la app) y, dentro de cada tema, números cronológicos ascendentes.**
 
-## 🗂️ Esquema de numeración (rangos)
+## 🗂️ Esquema de numeración (rangos por bloque temático)
 
-- **1–32** · 🇨🇱 Señal abierta nacional de Chile (32)
-- **33–52** · 📰 Noticias de Chile (20)
-- **53–85** · 📍 Biobío (tu región) (33)
-- **86–308** · 📍 Otras regiones de Chile (norte → sur) (223)
-- **309–317** · ⚽ Deportes (legales/FAST) (9)
-- **318–322** · 🧸 Infantil · Animación · ⛩️ Anime (5)
-- **323–415** · 🎵 Música · 📻 Radio (93)
-- **416–433** · ⛪ Religiosos (18)
-- **434–446** · 🎓 Cultura · Educación · Documentales · Universitarios · Ciencia · Comunitarios (13)
-- **447–683** · 📺 Resto de Chile (entretenimiento, generalistas, regionales varios) (237)
-- **684–3110** · 🌎 Español de otros países (Latam/España), por tema (2427)
-- **3111+** · ✨ Nuevos FAST gratis + 🏛️ Gobierno y Congreso de Chile (solo 🇨🇱)
+- **#1–#23** · 📺 Señal abierta nacional de Chile
+- **#100+** · 📰 Noticias
+- **#201+** · ⚽ Deportes (legales/FAST)
+- **#301+** · 🎬 Entretenimiento y series
+- **#401+** · 🧸 Infantil y animación
+- **#501+** · ⛩️ Anime y doramas
+- **#601+** · 🎓 Cultura, educación y documentales
+- **#701+** · 🎵 Música y radios
+- **#1001+** · 📻 Radios en video
+- **#1101+** · 🌿 Estilo de vida y viajes
+- **#1201+** · 🏛️ Gobierno y Congreso de Chile (solo 🇨🇱)
+- **#1301+** · ⛪ Religiosos
+- **#1501+** · 🤝 Comunitarios
+- **#1601+** · 🌐 Internacionales
+- **#1701+** · 🌐 Servicios OTT gratis (enlaces)
+- **#1801+** · 📡 Generalistas (resto)
+- **#3501+** · 📍 Regiones de Chile (norte→sur)
+
+Cada bloque arranca en el número indicado y dentro de él los canales van en **# ascendente** (orden cronológico).
 
 ## 🔢 Lista completa ordenada por temática (dentro de cada tema: # ascendente)
 `;
