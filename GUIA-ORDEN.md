@@ -210,270 +210,6 @@ Cada bloque arranca en el número indicado y dentro de él los canales van en **
 | 248 | 🇦🇷 | VIVE TV | Noticias | Español (Latam/ES) |
 | 249 | 🇵🇪 | VNP | Noticias | Español (Latam/ES) |
 
-### 📍 Regiones de Chile (norte → sur) — 259 canales
-
-| # | Bandera | Canal | Grupo | Región/País |
-|---:|---|---|---|---|
-| 3501 | 🇨🇱 | Arica TV | Regionales | Arica y Parinacota |
-| 3502 | 🇨🇱 | Cappissima Multimedial TV | Regionales | Arica y Parinacota |
-| 3503 | 🇨🇱 | Puerta Norte | Regionales | Arica y Parinacota |
-| 3504 | 🇨🇱 | Radio Estacion Arica | Radio | Arica y Parinacota |
-| 3505 | 🇨🇱 | Iquique TV | Regionales | Tarapacá |
-| 3506 | 🇨🇱 | Longino TV | Regionales | Tarapacá |
-| 3507 | 🇨🇱 | RTC Television | Regionales | Tarapacá |
-| 3508 | 🇨🇱 | Antofagasta TV | Regionales | Antofagasta |
-| 3509 | 🇨🇱 | DCH | Regionales | Antofagasta |
-| 3510 | 🇨🇱 | FM Plus | General | Antofagasta |
-| 3511 | 🇨🇱 | Omega Radio | Radio | Antofagasta |
-| 3512 | 🇨🇱 | Radio Labrar Noticias | Noticias | Atacama |
-| 3513 | 🇨🇱 | Alternativa TV | Regionales | Atacama |
-| 3514 | 🇨🇱 | Atacama Noticias TV | Regionales | Atacama |
-| 3515 | 🇨🇱 | Atacama TV | Regionales | Atacama |
-| 3516 | 🇨🇱 | Enfoque Digital TV | Regionales | Atacama |
-| 3517 | 🇨🇱 | Escuchame Radio | Religiosos | Atacama |
-| 3518 | 🇨🇱 | Holvoet TV | Regionales | Atacama |
-| 3519 | 🇨🇱 | Huasco TV | Regionales | Atacama |
-| 3520 | 🇨🇱 | Madero TV | Regionales | Atacama |
-| 3521 | 🇨🇱 | Maray TV | Regionales | Atacama |
-| 3522 | 🇨🇱 | Radio Amiga Vallenar | Radio | Atacama |
-| 3523 | 🇨🇱 | Radio Caldera Vision | Radio | Atacama |
-| 3524 | 🇨🇱 | Radio Labrar TV | Regionales | Atacama |
-| 3525 | 🇨🇱 | Radio RT | Radio | Atacama |
-| 3526 | 🇨🇱 | WF9 | Regionales | Atacama |
-| 3527 | 🇨🇱 | El Conquistador La Serena | Radio | Coquimbo |
-| 3528 | 🇨🇱 | La Popular TV | Regionales | Coquimbo |
-| 3529 | 🇨🇱 | Mi Radio TV | Radio | Coquimbo |
-| 3530 | 🇨🇱 | Nexovision | Regionales | Coquimbo |
-| 3531 | 🇨🇱 | Radio Riquelme TV | Radio | Coquimbo |
-| 3532 | 🇨🇱 | TeleOvalle | Regionales | Coquimbo |
-| 3533 | 🇨🇱 | ThemaTV | Regionales | Coquimbo |
-| 3534 | 🇨🇱 | TV Elqui | Regionales | Coquimbo |
-| 3535 | 🇨🇱 | UCV TV / TV+ | Nacional | Valparaíso |
-| 3536 | 🇨🇱 | Canal 2 de San Antonio | Regionales | Valparaíso |
-| 3537 | 🇨🇱 | Canal 74 TeVe | Regionales | Valparaíso |
-| 3538 | 🇨🇱 | Canal Local | Regionales | Valparaíso |
-| 3539 | 🇨🇱 | Estacion Limache TV | Regionales | Valparaíso |
-| 3540 | 🇨🇱 | Frecuencia 7 Aconcagua | Regionales | Valparaíso |
-| 3541 | 🇨🇱 | Frecuencia Cultural | Comunitarios | Valparaíso |
-| 3542 | 🇨🇱 | Galactika Media | Regionales | Valparaíso |
-| 3543 | 🇨🇱 | Grupo Libra TV | Regionales | Valparaíso |
-| 3544 | 🇨🇱 | IPNA Medio | Religiosos | Valparaíso |
-| 3545 | 🇨🇱 | Marga Marga TV | Regionales | Valparaíso |
-| 3546 | 🇨🇱 | Plaza TV | Regionales | Valparaíso |
-| 3547 | 🇨🇱 | Preludio TV | Radio | Valparaíso |
-| 3548 | 🇨🇱 | Preludio TV Señal 2 | Radio | Valparaíso |
-| 3549 | 🇨🇱 | Primicia Vida Television | Regionales | Valparaíso |
-| 3550 | 🇨🇱 | Qultura | Regionales | Valparaíso |
-| 3551 | 🇨🇱 | Radio Bohemia TV | Radio | Valparaíso |
-| 3552 | 🇨🇱 | Radio Rosa FM | Radio | Valparaíso |
-| 3553 | 🇨🇱 | Revolviendola Radio | Radio | Valparaíso |
-| 3554 | 🇨🇱 | RitoqueFM TV | Radio | Valparaíso |
-| 3555 | 🇨🇱 | SoloTV | Regionales | Valparaíso |
-| 3556 | 🇨🇱 | TuTV | Radio | Valparaíso |
-| 3557 | 🇨🇱 | TV Costa | Regionales | Valparaíso |
-| 3558 | 🇨🇱 | TV Quinta Region | Regionales | Valparaíso |
-| 3559 | 🇨🇱 | UCV | Universitarios | Valparaíso |
-| 3560 | 🇨🇱 | UCV 2 | Universitarios | Valparaíso |
-| 3561 | 🇨🇱 | Valparaiso Sporting | Deportes | Valparaíso |
-| 3562 | 🇨🇱 | Vida Nueva TV | Regionales | Valparaíso |
-| 3563 | 🇨🇱 | VTV | Regionales | Valparaíso |
-| 3564 | 🇨🇱 | VTV Quillota | Regionales | Valparaíso |
-| 3565 | 🇨🇱 | Autonoma Radio | Radio | Metropolitana |
-| 3566 | 🇨🇱 | Autonoma TV | Regionales | Metropolitana |
-| 3567 | 🇨🇱 | Canal ISB | Religiosos | Metropolitana |
-| 3568 | 🇨🇱 | ChocolateFM | Radio | Metropolitana |
-| 3569 | 🇨🇱 | El Conquistador Santiago | Radio | Metropolitana |
-| 3570 | 🇨🇱 | Emocion TV | Radio | Metropolitana |
-| 3571 | 🇨🇱 | Enlace BPB | Religiosos | Metropolitana |
-| 3572 | 🇨🇱 | Fortaleza TV | Religiosos | Metropolitana |
-| 3573 | 🇨🇱 | Gracia TV | Religiosos | Metropolitana |
-| 3574 | 🇨🇱 | La Granja FM | Comunitarios | Metropolitana |
-| 3575 | 🇨🇱 | La Granja TV | Comunitarios | Metropolitana |
-| 3576 | 🇨🇱 | La Metro | Radio | Metropolitana |
-| 3577 | 🇨🇱 | NCTV — *(solo web: https://nctv.cl/)* | Religiosos | Metropolitana |
-| 3578 | 🇨🇱 | Nina TV | Radio | Metropolitana |
-| 3579 | 🇨🇱 | Providencia Television | Regionales | Metropolitana |
-| 3580 | 🇨🇱 | Radio Fantasia | Radio | Metropolitana |
-| 3581 | 🇨🇱 | Radio Fantasia TV | Radio | Metropolitana |
-| 3582 | 🇨🇱 | Radio Hoy | Radio | Metropolitana |
-| 3583 | 🇨🇱 | Radio La Señal | Radio | Metropolitana |
-| 3584 | 🇨🇱 | Radio Mágica TV | Radio | Metropolitana |
-| 3585 | 🇨🇱 | Radio Mágica TV Señal 2 | Radio | Metropolitana |
-| 3586 | 🇨🇱 | Radio Portales | Radio | Metropolitana |
-| 3587 | 🇨🇱 | Radio UC | Radio | Metropolitana |
-| 3588 | 🇨🇱 | RialTv | Regionales | Metropolitana |
-| 3589 | 🇨🇱 | ShowtimeTV | General | Metropolitana |
-| 3590 | 🇨🇱 | Tendencias Prime | Regionales | Metropolitana |
-| 3591 | 🇨🇱 | TNE | Religiosos | Metropolitana |
-| 3592 | 🇨🇱 | TV USACH | Universitarios | Metropolitana |
-| 3593 | 🇨🇱 | TVR | Regionales | Metropolitana |
-| 3594 | 🇨🇱 | U Chile TV | Universitarios | Metropolitana |
-| 3595 | 🇨🇱 | UesTV | Universitarios | Metropolitana |
-| 3596 | 🇨🇱 | Unetev | Comunitarios | Metropolitana |
-| 3597 | 🇨🇱 | Vida TV | Religiosos | Metropolitana |
-| 3598 | 🇨🇱 | Vision Plus TV | Regionales | Metropolitana |
-| 3599 | 🇨🇱 | WappTV | Regionales | Metropolitana |
-| 3600 | 🇨🇱 | Zona Sur TV | Regionales | Metropolitana |
-| 3601 | 🇨🇱 | Ekiz TV | Regionales | O'Higgins |
-| 3602 | 🇨🇱 | La Comarca TV | Regionales | O'Higgins |
-| 3603 | 🇨🇱 | Pichilemu TV | Comunitarios | O'Higgins |
-| 3604 | 🇨🇱 | Radio Bienvenida FM | Radio | O'Higgins |
-| 3605 | 🇨🇱 | Radio Fiessta | Radio | O'Higgins |
-| 3606 | 🇨🇱 | Radio Rancagua | Radio | O'Higgins |
-| 3607 | 🇨🇱 | Radio Ritmo FM | Radio | O'Higgins |
-| 3608 | 🇨🇱 | RTV | Regionales | O'Higgins |
-| 3609 | 🇨🇱 | Santa Cruz FM | Radio | O'Higgins |
-| 3610 | 🇨🇱 | Santa Cruz HD | Regionales | O'Higgins |
-| 3611 | 🇨🇱 | Sextavision | Regionales | O'Higgins |
-| 3612 | 🇨🇱 | Telecanal Santa Cruz | Regionales | O'Higgins |
-| 3613 | 🇨🇱 | TV Lascabras.net | Regionales | O'Higgins |
-| 3614 | 🇨🇱 | TVO San Vicente | Regionales | O'Higgins |
-| 3615 | 🇨🇱 | Uniregion TV | Regionales | O'Higgins |
-| 3616 | 🇨🇱 | Alegria Cristiana | Religiosos | Maule |
-| 3617 | 🇨🇱 | Canal 30 Loncomilla | Regionales | Maule |
-| 3618 | 🇨🇱 | Central TV | Regionales | Maule |
-| 3619 | 🇨🇱 | Contivision | Regionales | Maule |
-| 3620 | 🇨🇱 | El Centro TV — *(solo web: https://www.diarioelcentro.cl/)* | Regionales | Maule |
-| 3621 | 🇨🇱 | En Linea Maule | Regionales | Maule |
-| 3622 | 🇨🇱 | LaMix TV | Regionales | Maule |
-| 3623 | 🇨🇱 | Lila TV Pencahue | Regionales | Maule |
-| 3624 | 🇨🇱 | Mas Radio TV | Radio | Maule |
-| 3625 | 🇨🇱 | Maule Vision | Regionales | Maule |
-| 3626 | 🇨🇱 | Molina TV | Regionales | Maule |
-| 3627 | 🇨🇱 | Nativa TV | Regionales | Maule |
-| 3628 | 🇨🇱 | Nova TV Canal 7 | Regionales | Maule |
-| 3629 | 🇨🇱 | Poesia TV | Radio | Maule |
-| 3630 | 🇨🇱 | Radio Ancoa TV | Radio | Maule |
-| 3631 | 🇨🇱 | Radio Favorita | Radio | Maule |
-| 3632 | 🇨🇱 | Radio Frecuencia Uno | Radio | Maule |
-| 3633 | 🇨🇱 | Radio Via 7 TV | Radio | Maule |
-| 3634 | 🇨🇱 | Radio Vida Curico | Religiosos | Maule |
-| 3635 | 🇨🇱 | Sabor TV | Radio | Maule |
-| 3636 | 🇨🇱 | Telecauquenes — *(solo web: https://www.telecauquenes.cl/)* | Regionales | Maule |
-| 3637 | 🇨🇱 | TV 5 Linares | Regionales | Maule |
-| 3638 | 🇨🇱 | UTalcaTV | Universitarios | Maule |
-| 3639 | 🇨🇱 | UTV San Clemente | Regionales | Maule |
-| 3640 | 🇨🇱 | VLTV | Regionales | Maule |
-| 3641 | 🇨🇱 | Canal 1 | Regionales | Ñuble |
-| 3642 | 🇨🇱 | El Sembrador | Radio | Ñuble |
-| 3643 | 🇨🇱 | EstaciónTV | Música | Ñuble |
-| 3644 | 🇨🇱 | Interactiva FM | Radio | Ñuble |
-| 3645 | 🇨🇱 | Interactiva TV Señal 2 | Regionales | Ñuble |
-| 3646 | 🇨🇱 | Ñublevision | Regionales | Ñuble |
-| 3647 | 🇨🇱 | Plenitud Juvenil | Religiosos | Ñuble |
-| 3648 | 🇨🇱 | Plenitud TV | Religiosos | Ñuble |
-| 3649 | 🇨🇱 | Plenitud TV 2 | Religiosos | Ñuble |
-| 3650 | 🇨🇱 | Radio Contemporanea Coihueco — *(solo web: https://radiocontemporaneacoihueco.cl/)* | Radio | Ñuble |
-| 3651 | 🇨🇱 | Radio Magistral Coihueco | Radio | Ñuble |
-| 3652 | 🇨🇱 | Radio Ñuble | Radio | Ñuble |
-| 3653 | 🇨🇱 | Radio Popular Coihueco | Radio | Ñuble |
-| 3654 | 🇨🇱 | Red Vision Television | Regionales | Ñuble |
-| 3655 | 🇨🇱 | Región Televisión Ñuble | Regionales | Ñuble |
-| 3656 | 🇨🇱 | San Nicolas TV | Regionales | Ñuble |
-| 3657 | 🇨🇱 | Televida HD | Religiosos | Ñuble |
-| 3658 | 🇨🇱 | Bio Bio TV | Noticias | Biobío |
-| 3659 | 🇨🇱 | Ritmo Top Latino | Música | Biobío |
-| 3660 | 🇨🇱 | Top New Radio | Música | Biobío |
-| 3661 | 🇨🇱 | AE Radio | Radio | Biobío |
-| 3662 | 🇨🇱 | El Conquistador Concepcion | Radio | Biobío |
-| 3663 | 🇨🇱 | Radio Araucaria | Radio | Biobío |
-| 3664 | 🇨🇱 | Radio Camila TV | Radio | Biobío |
-| 3665 | 🇨🇱 | Radio Mia 89.3 Fm | Radio | Biobío |
-| 3666 | 🇨🇱 | Radio Via Libre | Radio | Biobío |
-| 3667 | 🇨🇱 | Tributo Valentina | Radio | Biobío |
-| 3668 | 🇨🇱 | TVU | Universitarios | Biobío |
-| 3669 | 🇨🇱 | El 3 de Conce | Comunitarios | Biobío |
-| 3670 | 🇨🇱 | Exprezion TV | Comunitarios | Biobío |
-| 3671 | 🇨🇱 | G Vision | Comunitarios | Biobío |
-| 3672 | 🇨🇱 | Canal 9 Bío Bí­o TV | Regionales | Biobío |
-| 3673 | 🇨🇱 | Canal TV4 | Regionales | Biobío |
-| 3674 | 🇨🇱 | ClickTv | Regionales | Biobío |
-| 3675 | 🇨🇱 | Club TV | Regionales | Biobío |
-| 3676 | 🇨🇱 | Concepcion TV | Regionales | Biobío |
-| 3677 | 🇨🇱 | CRadio.cl | Regionales | Biobío |
-| 3678 | 🇨🇱 | Energia TV | Regionales | Biobío |
-| 3679 | 🇨🇱 | Eva Televisión | Regionales | Biobío |
-| 3680 | 🇨🇱 | Juntos TV | Regionales | Biobío |
-| 3681 | 🇨🇱 | Pacifico Television | Regionales | Biobío |
-| 3682 | 🇨🇱 | San Pedro Conecta | Regionales | Biobío |
-| 3683 | 🇨🇱 | Supersonika TV | Regionales | Biobío |
-| 3684 | 🇨🇱 | LCR Televisión | General | Biobío |
-| 3685 | 🇨🇱 | Radio Contemporanea Coihueco | General | Biobío |
-| 3686 | 🇨🇱 | Bío Bío TV — *(solo web: https://www.biobiochile.cl/tv/)* | Biobío | Biobío |
-| 3687 | 🇨🇱 | Canal 9 Bío-Bío TV | Biobío | Biobío |
-| 3688 | 🇨🇱 | Concepción TV — *(solo web: https://www.concepciontv.cl/)* | Biobío | Biobío |
-| 3689 | 🇨🇱 | El 3 de Conce — *(solo web: https://el3deconce.cl/)* | Biobío | Biobío |
-| 3690 | 🇨🇱 | Juntos TV — *(solo web: https://juntostvchile.cl/)* | Biobío | Biobío |
-| 3691 | 🇨🇱 | NCTV | Biobío | Biobío |
-| 3692 | 🇨🇱 | Abajo e la linea TV | Comunitarios | Araucanía |
-| 3693 | 🇨🇱 | Apocalipsis TV | Regionales | Araucanía |
-| 3694 | 🇨🇱 | Factor 80 | Música | Araucanía |
-| 3695 | 🇨🇱 | Pucon TV | Regionales | Araucanía |
-| 3696 | 🇨🇱 | Radio Edelweiss | Radio | Araucanía |
-| 3697 | 🇨🇱 | Teleangol Radio | Regionales | Araucanía |
-| 3698 | 🇨🇱 | Temuco TV | Regionales | Araucanía |
-| 3699 | 🇨🇱 | TV UCT | Biobío | Araucanía |
-| 3700 | 🇨🇱 | TV UCT — *(solo web: https://www.tvuct.cl/)* | Universitarios | Araucanía |
-| 3701 | 🇨🇱 | UFROTV | Universitarios | Araucanía |
-| 3702 | 🇨🇱 | ATV Valdivia | Regionales | Los Ríos |
-| 3703 | 🇨🇱 | Canal Latino 54 | Regionales | Los Ríos |
-| 3704 | 🇨🇱 | Lanco TV | Regionales | Los Ríos |
-| 3705 | 🇨🇱 | Metanoia TV | Religiosos | Los Ríos |
-| 3706 | 🇨🇱 | Osorno TV+ | Regionales | Los Ríos |
-| 3707 | 🇨🇱 | Radio Maqui | Radio | Los Ríos |
-| 3708 | 🇨🇱 | Ritmo TV | Radio | Los Ríos |
-| 3709 | 🇨🇱 | TV Valdivia | Regionales | Los Ríos |
-| 3710 | 🇨🇱 | Alerce TV | Regionales | Los Lagos |
-| 3711 | 🇨🇱 | CalbucoNet | Regionales | Los Lagos |
-| 3712 | 🇨🇱 | Canal 2 Quellon | Regionales | Los Lagos |
-| 3713 | 🇨🇱 | Canal 48HD Musica Calbuco DTV | Regionales | Los Lagos |
-| 3714 | 🇨🇱 | Canal 5 Puerto Montt | Regionales | Los Lagos |
-| 3715 | 🇨🇱 | Canal Chilote | Regionales | Los Lagos |
-| 3716 | 🇨🇱 | Canal Del Sur | Regionales | Los Lagos |
-| 3717 | 🇨🇱 | Chiloe Red 25 | Regionales | Los Lagos |
-| 3718 | 🇨🇱 | Decima TV | Regionales | Los Lagos |
-| 3719 | 🇨🇱 | En la Noticia | Radio | Los Lagos |
-| 3720 | 🇨🇱 | Fortaleza Radio | Religiosos | Los Lagos |
-| 3721 | 🇨🇱 | Hito Cero TV | Regionales | Los Lagos |
-| 3722 | 🇨🇱 | Horeb Television | Religiosos | Los Lagos |
-| 3723 | 🇨🇱 | Interradio TV | Radio | Los Lagos |
-| 3724 | 🇨🇱 | Onda Radio TV | Radio | Los Lagos |
-| 3725 | 🇨🇱 | Patagonia Radio TV | Radio | Los Lagos |
-| 3726 | 🇨🇱 | Radio Chiloe | Radio | Los Lagos |
-| 3727 | 🇨🇱 | Ruta 215 TV | General | Los Lagos |
-| 3728 | 🇨🇱 | T-Vinet | Regionales | Los Lagos |
-| 3729 | 🇨🇱 | TVM | Regionales | Los Lagos |
-| 3730 | 🇨🇱 | ULagos TV | Universitarios | Los Lagos |
-| 3731 | 🇨🇱 | Vision TV | Regionales | Los Lagos |
-| 3732 | 🇨🇱 | Zona Play Radio | Radio | Los Lagos |
-| 3733 | 🇨🇱 | Aysen TV | Regionales | Aysén |
-| 3734 | 🇨🇱 | Canal 11 TV Aysen | Regionales | Aysén |
-| 3735 | 🇨🇱 | Ciudadano Radio | Radio | Aysén |
-| 3736 | 🇨🇱 | Coyhaique TV | Regionales | Aysén |
-| 3737 | 🇨🇱 | La Melinkana TV | Regionales | Aysén |
-| 3738 | 🇨🇱 | Radio Genial TV | Radio | Aysén |
-| 3739 | 🇨🇱 | Radio Las Nieves | Radio | Aysén |
-| 3740 | 🇨🇱 | Rocco TV 4 | Regionales | Aysén |
-| 3741 | 🇨🇱 | Santa Maria TV | Regionales | Aysén |
-| 3742 | 🇨🇱 | Canal Sur Patagonia | Regionales | Magallanes |
-| 3743 | 🇨🇱 | CTV35 | Regionales | Magallanes |
-| 3744 | 🇨🇱 | EvaVisión | Regionales | Magallanes |
-| 3745 | 🇨🇱 | ITV Patagonia | Regionales | Magallanes |
-| 3746 | 🇨🇱 | Milodon TV | Radio | Magallanes |
-| 3747 | 🇨🇱 | Music PUQ | Música | Magallanes |
-| 3748 | 🇨🇱 | NG Channel | Religiosos | Magallanes |
-| 3749 | 🇨🇱 | PinguinoTV | Regionales | Magallanes |
-| 3750 | 🇨🇱 | Radio Magallanes | Radio | Magallanes |
-| 3751 | 🇨🇱 | Radio Polar | Radio | Magallanes |
-| 3752 | 🇨🇱 | Radio Presidente Ibañez | Radio | Magallanes |
-| 3753 | 🇨🇱 | Radio Zona 90.3 | Radio | Magallanes |
-| 3754 | 🇨🇱 | Red Fueguina Radio | Radio | Magallanes |
-| 3755 | 🇨🇱 | Soberania Radio | Regionales | Magallanes |
-| 3756 | 🇨🇱 | SurTV | Regionales | Magallanes |
-| 3757 | 🇨🇱 | TV Bajo Cero | Regionales | Magallanes |
-| 3758 | 🇨🇱 | UMAG TV | Universitarios | Magallanes |
-| 3759 | 🇨🇱 | UMAG TV 2 | Universitarios | Magallanes |
-
 ### ⚽ Deportes — 78 canales
 
 | # | Bandera | Canal | Grupo | Región/País |
@@ -3213,6 +2949,270 @@ Cada bloque arranca en el número indicado y dentro de él los canales van en **
 | 3493 | 🇨🇷 | Zurqui TV | General | Español (Latam/ES) |
 | 3494 | 🇪🇸 | Zylo Cine Friki | General | Español (Latam/ES) |
 | 3495 | 🇺🇸 | DroneTV | Relajación | Español (Latam/ES) |
+
+### 📍 Regiones de Chile (norte → sur) — 259 canales
+
+| # | Bandera | Canal | Grupo | Región/País |
+|---:|---|---|---|---|
+| 3501 | 🇨🇱 | Arica TV | Regionales | Arica y Parinacota |
+| 3502 | 🇨🇱 | Cappissima Multimedial TV | Regionales | Arica y Parinacota |
+| 3503 | 🇨🇱 | Puerta Norte | Regionales | Arica y Parinacota |
+| 3504 | 🇨🇱 | Radio Estacion Arica | Radio | Arica y Parinacota |
+| 3505 | 🇨🇱 | Iquique TV | Regionales | Tarapacá |
+| 3506 | 🇨🇱 | Longino TV | Regionales | Tarapacá |
+| 3507 | 🇨🇱 | RTC Television | Regionales | Tarapacá |
+| 3508 | 🇨🇱 | Antofagasta TV | Regionales | Antofagasta |
+| 3509 | 🇨🇱 | DCH | Regionales | Antofagasta |
+| 3510 | 🇨🇱 | FM Plus | General | Antofagasta |
+| 3511 | 🇨🇱 | Omega Radio | Radio | Antofagasta |
+| 3512 | 🇨🇱 | Radio Labrar Noticias | Noticias | Atacama |
+| 3513 | 🇨🇱 | Alternativa TV | Regionales | Atacama |
+| 3514 | 🇨🇱 | Atacama Noticias TV | Regionales | Atacama |
+| 3515 | 🇨🇱 | Atacama TV | Regionales | Atacama |
+| 3516 | 🇨🇱 | Enfoque Digital TV | Regionales | Atacama |
+| 3517 | 🇨🇱 | Escuchame Radio | Religiosos | Atacama |
+| 3518 | 🇨🇱 | Holvoet TV | Regionales | Atacama |
+| 3519 | 🇨🇱 | Huasco TV | Regionales | Atacama |
+| 3520 | 🇨🇱 | Madero TV | Regionales | Atacama |
+| 3521 | 🇨🇱 | Maray TV | Regionales | Atacama |
+| 3522 | 🇨🇱 | Radio Amiga Vallenar | Radio | Atacama |
+| 3523 | 🇨🇱 | Radio Caldera Vision | Radio | Atacama |
+| 3524 | 🇨🇱 | Radio Labrar TV | Regionales | Atacama |
+| 3525 | 🇨🇱 | Radio RT | Radio | Atacama |
+| 3526 | 🇨🇱 | WF9 | Regionales | Atacama |
+| 3527 | 🇨🇱 | El Conquistador La Serena | Radio | Coquimbo |
+| 3528 | 🇨🇱 | La Popular TV | Regionales | Coquimbo |
+| 3529 | 🇨🇱 | Mi Radio TV | Radio | Coquimbo |
+| 3530 | 🇨🇱 | Nexovision | Regionales | Coquimbo |
+| 3531 | 🇨🇱 | Radio Riquelme TV | Radio | Coquimbo |
+| 3532 | 🇨🇱 | TeleOvalle | Regionales | Coquimbo |
+| 3533 | 🇨🇱 | ThemaTV | Regionales | Coquimbo |
+| 3534 | 🇨🇱 | TV Elqui | Regionales | Coquimbo |
+| 3535 | 🇨🇱 | UCV TV / TV+ | Nacional | Valparaíso |
+| 3536 | 🇨🇱 | Canal 2 de San Antonio | Regionales | Valparaíso |
+| 3537 | 🇨🇱 | Canal 74 TeVe | Regionales | Valparaíso |
+| 3538 | 🇨🇱 | Canal Local | Regionales | Valparaíso |
+| 3539 | 🇨🇱 | Estacion Limache TV | Regionales | Valparaíso |
+| 3540 | 🇨🇱 | Frecuencia 7 Aconcagua | Regionales | Valparaíso |
+| 3541 | 🇨🇱 | Frecuencia Cultural | Comunitarios | Valparaíso |
+| 3542 | 🇨🇱 | Galactika Media | Regionales | Valparaíso |
+| 3543 | 🇨🇱 | Grupo Libra TV | Regionales | Valparaíso |
+| 3544 | 🇨🇱 | IPNA Medio | Religiosos | Valparaíso |
+| 3545 | 🇨🇱 | Marga Marga TV | Regionales | Valparaíso |
+| 3546 | 🇨🇱 | Plaza TV | Regionales | Valparaíso |
+| 3547 | 🇨🇱 | Preludio TV | Radio | Valparaíso |
+| 3548 | 🇨🇱 | Preludio TV Señal 2 | Radio | Valparaíso |
+| 3549 | 🇨🇱 | Primicia Vida Television | Regionales | Valparaíso |
+| 3550 | 🇨🇱 | Qultura | Regionales | Valparaíso |
+| 3551 | 🇨🇱 | Radio Bohemia TV | Radio | Valparaíso |
+| 3552 | 🇨🇱 | Radio Rosa FM | Radio | Valparaíso |
+| 3553 | 🇨🇱 | Revolviendola Radio | Radio | Valparaíso |
+| 3554 | 🇨🇱 | RitoqueFM TV | Radio | Valparaíso |
+| 3555 | 🇨🇱 | SoloTV | Regionales | Valparaíso |
+| 3556 | 🇨🇱 | TuTV | Radio | Valparaíso |
+| 3557 | 🇨🇱 | TV Costa | Regionales | Valparaíso |
+| 3558 | 🇨🇱 | TV Quinta Region | Regionales | Valparaíso |
+| 3559 | 🇨🇱 | UCV | Universitarios | Valparaíso |
+| 3560 | 🇨🇱 | UCV 2 | Universitarios | Valparaíso |
+| 3561 | 🇨🇱 | Valparaiso Sporting | Deportes | Valparaíso |
+| 3562 | 🇨🇱 | Vida Nueva TV | Regionales | Valparaíso |
+| 3563 | 🇨🇱 | VTV | Regionales | Valparaíso |
+| 3564 | 🇨🇱 | VTV Quillota | Regionales | Valparaíso |
+| 3565 | 🇨🇱 | Autonoma Radio | Radio | Metropolitana |
+| 3566 | 🇨🇱 | Autonoma TV | Regionales | Metropolitana |
+| 3567 | 🇨🇱 | Canal ISB | Religiosos | Metropolitana |
+| 3568 | 🇨🇱 | ChocolateFM | Radio | Metropolitana |
+| 3569 | 🇨🇱 | El Conquistador Santiago | Radio | Metropolitana |
+| 3570 | 🇨🇱 | Emocion TV | Radio | Metropolitana |
+| 3571 | 🇨🇱 | Enlace BPB | Religiosos | Metropolitana |
+| 3572 | 🇨🇱 | Fortaleza TV | Religiosos | Metropolitana |
+| 3573 | 🇨🇱 | Gracia TV | Religiosos | Metropolitana |
+| 3574 | 🇨🇱 | La Granja FM | Comunitarios | Metropolitana |
+| 3575 | 🇨🇱 | La Granja TV | Comunitarios | Metropolitana |
+| 3576 | 🇨🇱 | La Metro | Radio | Metropolitana |
+| 3577 | 🇨🇱 | NCTV — *(solo web: https://nctv.cl/)* | Religiosos | Metropolitana |
+| 3578 | 🇨🇱 | Nina TV | Radio | Metropolitana |
+| 3579 | 🇨🇱 | Providencia Television | Regionales | Metropolitana |
+| 3580 | 🇨🇱 | Radio Fantasia | Radio | Metropolitana |
+| 3581 | 🇨🇱 | Radio Fantasia TV | Radio | Metropolitana |
+| 3582 | 🇨🇱 | Radio Hoy | Radio | Metropolitana |
+| 3583 | 🇨🇱 | Radio La Señal | Radio | Metropolitana |
+| 3584 | 🇨🇱 | Radio Mágica TV | Radio | Metropolitana |
+| 3585 | 🇨🇱 | Radio Mágica TV Señal 2 | Radio | Metropolitana |
+| 3586 | 🇨🇱 | Radio Portales | Radio | Metropolitana |
+| 3587 | 🇨🇱 | Radio UC | Radio | Metropolitana |
+| 3588 | 🇨🇱 | RialTv | Regionales | Metropolitana |
+| 3589 | 🇨🇱 | ShowtimeTV | General | Metropolitana |
+| 3590 | 🇨🇱 | Tendencias Prime | Regionales | Metropolitana |
+| 3591 | 🇨🇱 | TNE | Religiosos | Metropolitana |
+| 3592 | 🇨🇱 | TV USACH | Universitarios | Metropolitana |
+| 3593 | 🇨🇱 | TVR | Regionales | Metropolitana |
+| 3594 | 🇨🇱 | U Chile TV | Universitarios | Metropolitana |
+| 3595 | 🇨🇱 | UesTV | Universitarios | Metropolitana |
+| 3596 | 🇨🇱 | Unetev | Comunitarios | Metropolitana |
+| 3597 | 🇨🇱 | Vida TV | Religiosos | Metropolitana |
+| 3598 | 🇨🇱 | Vision Plus TV | Regionales | Metropolitana |
+| 3599 | 🇨🇱 | WappTV | Regionales | Metropolitana |
+| 3600 | 🇨🇱 | Zona Sur TV | Regionales | Metropolitana |
+| 3601 | 🇨🇱 | Ekiz TV | Regionales | O'Higgins |
+| 3602 | 🇨🇱 | La Comarca TV | Regionales | O'Higgins |
+| 3603 | 🇨🇱 | Pichilemu TV | Comunitarios | O'Higgins |
+| 3604 | 🇨🇱 | Radio Bienvenida FM | Radio | O'Higgins |
+| 3605 | 🇨🇱 | Radio Fiessta | Radio | O'Higgins |
+| 3606 | 🇨🇱 | Radio Rancagua | Radio | O'Higgins |
+| 3607 | 🇨🇱 | Radio Ritmo FM | Radio | O'Higgins |
+| 3608 | 🇨🇱 | RTV | Regionales | O'Higgins |
+| 3609 | 🇨🇱 | Santa Cruz FM | Radio | O'Higgins |
+| 3610 | 🇨🇱 | Santa Cruz HD | Regionales | O'Higgins |
+| 3611 | 🇨🇱 | Sextavision | Regionales | O'Higgins |
+| 3612 | 🇨🇱 | Telecanal Santa Cruz | Regionales | O'Higgins |
+| 3613 | 🇨🇱 | TV Lascabras.net | Regionales | O'Higgins |
+| 3614 | 🇨🇱 | TVO San Vicente | Regionales | O'Higgins |
+| 3615 | 🇨🇱 | Uniregion TV | Regionales | O'Higgins |
+| 3616 | 🇨🇱 | Alegria Cristiana | Religiosos | Maule |
+| 3617 | 🇨🇱 | Canal 30 Loncomilla | Regionales | Maule |
+| 3618 | 🇨🇱 | Central TV | Regionales | Maule |
+| 3619 | 🇨🇱 | Contivision | Regionales | Maule |
+| 3620 | 🇨🇱 | El Centro TV — *(solo web: https://www.diarioelcentro.cl/)* | Regionales | Maule |
+| 3621 | 🇨🇱 | En Linea Maule | Regionales | Maule |
+| 3622 | 🇨🇱 | LaMix TV | Regionales | Maule |
+| 3623 | 🇨🇱 | Lila TV Pencahue | Regionales | Maule |
+| 3624 | 🇨🇱 | Mas Radio TV | Radio | Maule |
+| 3625 | 🇨🇱 | Maule Vision | Regionales | Maule |
+| 3626 | 🇨🇱 | Molina TV | Regionales | Maule |
+| 3627 | 🇨🇱 | Nativa TV | Regionales | Maule |
+| 3628 | 🇨🇱 | Nova TV Canal 7 | Regionales | Maule |
+| 3629 | 🇨🇱 | Poesia TV | Radio | Maule |
+| 3630 | 🇨🇱 | Radio Ancoa TV | Radio | Maule |
+| 3631 | 🇨🇱 | Radio Favorita | Radio | Maule |
+| 3632 | 🇨🇱 | Radio Frecuencia Uno | Radio | Maule |
+| 3633 | 🇨🇱 | Radio Via 7 TV | Radio | Maule |
+| 3634 | 🇨🇱 | Radio Vida Curico | Religiosos | Maule |
+| 3635 | 🇨🇱 | Sabor TV | Radio | Maule |
+| 3636 | 🇨🇱 | Telecauquenes — *(solo web: https://www.telecauquenes.cl/)* | Regionales | Maule |
+| 3637 | 🇨🇱 | TV 5 Linares | Regionales | Maule |
+| 3638 | 🇨🇱 | UTalcaTV | Universitarios | Maule |
+| 3639 | 🇨🇱 | UTV San Clemente | Regionales | Maule |
+| 3640 | 🇨🇱 | VLTV | Regionales | Maule |
+| 3641 | 🇨🇱 | Canal 1 | Regionales | Ñuble |
+| 3642 | 🇨🇱 | El Sembrador | Radio | Ñuble |
+| 3643 | 🇨🇱 | EstaciónTV | Música | Ñuble |
+| 3644 | 🇨🇱 | Interactiva FM | Radio | Ñuble |
+| 3645 | 🇨🇱 | Interactiva TV Señal 2 | Regionales | Ñuble |
+| 3646 | 🇨🇱 | Ñublevision | Regionales | Ñuble |
+| 3647 | 🇨🇱 | Plenitud Juvenil | Religiosos | Ñuble |
+| 3648 | 🇨🇱 | Plenitud TV | Religiosos | Ñuble |
+| 3649 | 🇨🇱 | Plenitud TV 2 | Religiosos | Ñuble |
+| 3650 | 🇨🇱 | Radio Contemporanea Coihueco — *(solo web: https://radiocontemporaneacoihueco.cl/)* | Radio | Ñuble |
+| 3651 | 🇨🇱 | Radio Magistral Coihueco | Radio | Ñuble |
+| 3652 | 🇨🇱 | Radio Ñuble | Radio | Ñuble |
+| 3653 | 🇨🇱 | Radio Popular Coihueco | Radio | Ñuble |
+| 3654 | 🇨🇱 | Red Vision Television | Regionales | Ñuble |
+| 3655 | 🇨🇱 | Región Televisión Ñuble | Regionales | Ñuble |
+| 3656 | 🇨🇱 | San Nicolas TV | Regionales | Ñuble |
+| 3657 | 🇨🇱 | Televida HD | Religiosos | Ñuble |
+| 3658 | 🇨🇱 | Bio Bio TV | Noticias | Biobío |
+| 3659 | 🇨🇱 | Ritmo Top Latino | Música | Biobío |
+| 3660 | 🇨🇱 | Top New Radio | Música | Biobío |
+| 3661 | 🇨🇱 | AE Radio | Radio | Biobío |
+| 3662 | 🇨🇱 | El Conquistador Concepcion | Radio | Biobío |
+| 3663 | 🇨🇱 | Radio Araucaria | Radio | Biobío |
+| 3664 | 🇨🇱 | Radio Camila TV | Radio | Biobío |
+| 3665 | 🇨🇱 | Radio Mia 89.3 Fm | Radio | Biobío |
+| 3666 | 🇨🇱 | Radio Via Libre | Radio | Biobío |
+| 3667 | 🇨🇱 | Tributo Valentina | Radio | Biobío |
+| 3668 | 🇨🇱 | TVU | Universitarios | Biobío |
+| 3669 | 🇨🇱 | El 3 de Conce | Comunitarios | Biobío |
+| 3670 | 🇨🇱 | Exprezion TV | Comunitarios | Biobío |
+| 3671 | 🇨🇱 | G Vision | Comunitarios | Biobío |
+| 3672 | 🇨🇱 | Canal 9 Bío Bí­o TV | Regionales | Biobío |
+| 3673 | 🇨🇱 | Canal TV4 | Regionales | Biobío |
+| 3674 | 🇨🇱 | ClickTv | Regionales | Biobío |
+| 3675 | 🇨🇱 | Club TV | Regionales | Biobío |
+| 3676 | 🇨🇱 | Concepcion TV | Regionales | Biobío |
+| 3677 | 🇨🇱 | CRadio.cl | Regionales | Biobío |
+| 3678 | 🇨🇱 | Energia TV | Regionales | Biobío |
+| 3679 | 🇨🇱 | Eva Televisión | Regionales | Biobío |
+| 3680 | 🇨🇱 | Juntos TV | Regionales | Biobío |
+| 3681 | 🇨🇱 | Pacifico Television | Regionales | Biobío |
+| 3682 | 🇨🇱 | San Pedro Conecta | Regionales | Biobío |
+| 3683 | 🇨🇱 | Supersonika TV | Regionales | Biobío |
+| 3684 | 🇨🇱 | LCR Televisión | General | Biobío |
+| 3685 | 🇨🇱 | Radio Contemporanea Coihueco | General | Biobío |
+| 3686 | 🇨🇱 | Bío Bío TV — *(solo web: https://www.biobiochile.cl/tv/)* | Biobío | Biobío |
+| 3687 | 🇨🇱 | Canal 9 Bío-Bío TV | Biobío | Biobío |
+| 3688 | 🇨🇱 | Concepción TV — *(solo web: https://www.concepciontv.cl/)* | Biobío | Biobío |
+| 3689 | 🇨🇱 | El 3 de Conce — *(solo web: https://el3deconce.cl/)* | Biobío | Biobío |
+| 3690 | 🇨🇱 | Juntos TV — *(solo web: https://juntostvchile.cl/)* | Biobío | Biobío |
+| 3691 | 🇨🇱 | NCTV | Biobío | Biobío |
+| 3692 | 🇨🇱 | Abajo e la linea TV | Comunitarios | Araucanía |
+| 3693 | 🇨🇱 | Apocalipsis TV | Regionales | Araucanía |
+| 3694 | 🇨🇱 | Factor 80 | Música | Araucanía |
+| 3695 | 🇨🇱 | Pucon TV | Regionales | Araucanía |
+| 3696 | 🇨🇱 | Radio Edelweiss | Radio | Araucanía |
+| 3697 | 🇨🇱 | Teleangol Radio | Regionales | Araucanía |
+| 3698 | 🇨🇱 | Temuco TV | Regionales | Araucanía |
+| 3699 | 🇨🇱 | TV UCT | Biobío | Araucanía |
+| 3700 | 🇨🇱 | TV UCT — *(solo web: https://www.tvuct.cl/)* | Universitarios | Araucanía |
+| 3701 | 🇨🇱 | UFROTV | Universitarios | Araucanía |
+| 3702 | 🇨🇱 | ATV Valdivia | Regionales | Los Ríos |
+| 3703 | 🇨🇱 | Canal Latino 54 | Regionales | Los Ríos |
+| 3704 | 🇨🇱 | Lanco TV | Regionales | Los Ríos |
+| 3705 | 🇨🇱 | Metanoia TV | Religiosos | Los Ríos |
+| 3706 | 🇨🇱 | Osorno TV+ | Regionales | Los Ríos |
+| 3707 | 🇨🇱 | Radio Maqui | Radio | Los Ríos |
+| 3708 | 🇨🇱 | Ritmo TV | Radio | Los Ríos |
+| 3709 | 🇨🇱 | TV Valdivia | Regionales | Los Ríos |
+| 3710 | 🇨🇱 | Alerce TV | Regionales | Los Lagos |
+| 3711 | 🇨🇱 | CalbucoNet | Regionales | Los Lagos |
+| 3712 | 🇨🇱 | Canal 2 Quellon | Regionales | Los Lagos |
+| 3713 | 🇨🇱 | Canal 48HD Musica Calbuco DTV | Regionales | Los Lagos |
+| 3714 | 🇨🇱 | Canal 5 Puerto Montt | Regionales | Los Lagos |
+| 3715 | 🇨🇱 | Canal Chilote | Regionales | Los Lagos |
+| 3716 | 🇨🇱 | Canal Del Sur | Regionales | Los Lagos |
+| 3717 | 🇨🇱 | Chiloe Red 25 | Regionales | Los Lagos |
+| 3718 | 🇨🇱 | Decima TV | Regionales | Los Lagos |
+| 3719 | 🇨🇱 | En la Noticia | Radio | Los Lagos |
+| 3720 | 🇨🇱 | Fortaleza Radio | Religiosos | Los Lagos |
+| 3721 | 🇨🇱 | Hito Cero TV | Regionales | Los Lagos |
+| 3722 | 🇨🇱 | Horeb Television | Religiosos | Los Lagos |
+| 3723 | 🇨🇱 | Interradio TV | Radio | Los Lagos |
+| 3724 | 🇨🇱 | Onda Radio TV | Radio | Los Lagos |
+| 3725 | 🇨🇱 | Patagonia Radio TV | Radio | Los Lagos |
+| 3726 | 🇨🇱 | Radio Chiloe | Radio | Los Lagos |
+| 3727 | 🇨🇱 | Ruta 215 TV | General | Los Lagos |
+| 3728 | 🇨🇱 | T-Vinet | Regionales | Los Lagos |
+| 3729 | 🇨🇱 | TVM | Regionales | Los Lagos |
+| 3730 | 🇨🇱 | ULagos TV | Universitarios | Los Lagos |
+| 3731 | 🇨🇱 | Vision TV | Regionales | Los Lagos |
+| 3732 | 🇨🇱 | Zona Play Radio | Radio | Los Lagos |
+| 3733 | 🇨🇱 | Aysen TV | Regionales | Aysén |
+| 3734 | 🇨🇱 | Canal 11 TV Aysen | Regionales | Aysén |
+| 3735 | 🇨🇱 | Ciudadano Radio | Radio | Aysén |
+| 3736 | 🇨🇱 | Coyhaique TV | Regionales | Aysén |
+| 3737 | 🇨🇱 | La Melinkana TV | Regionales | Aysén |
+| 3738 | 🇨🇱 | Radio Genial TV | Radio | Aysén |
+| 3739 | 🇨🇱 | Radio Las Nieves | Radio | Aysén |
+| 3740 | 🇨🇱 | Rocco TV 4 | Regionales | Aysén |
+| 3741 | 🇨🇱 | Santa Maria TV | Regionales | Aysén |
+| 3742 | 🇨🇱 | Canal Sur Patagonia | Regionales | Magallanes |
+| 3743 | 🇨🇱 | CTV35 | Regionales | Magallanes |
+| 3744 | 🇨🇱 | EvaVisión | Regionales | Magallanes |
+| 3745 | 🇨🇱 | ITV Patagonia | Regionales | Magallanes |
+| 3746 | 🇨🇱 | Milodon TV | Radio | Magallanes |
+| 3747 | 🇨🇱 | Music PUQ | Música | Magallanes |
+| 3748 | 🇨🇱 | NG Channel | Religiosos | Magallanes |
+| 3749 | 🇨🇱 | PinguinoTV | Regionales | Magallanes |
+| 3750 | 🇨🇱 | Radio Magallanes | Radio | Magallanes |
+| 3751 | 🇨🇱 | Radio Polar | Radio | Magallanes |
+| 3752 | 🇨🇱 | Radio Presidente Ibañez | Radio | Magallanes |
+| 3753 | 🇨🇱 | Radio Zona 90.3 | Radio | Magallanes |
+| 3754 | 🇨🇱 | Red Fueguina Radio | Radio | Magallanes |
+| 3755 | 🇨🇱 | Soberania Radio | Regionales | Magallanes |
+| 3756 | 🇨🇱 | SurTV | Regionales | Magallanes |
+| 3757 | 🇨🇱 | TV Bajo Cero | Regionales | Magallanes |
+| 3758 | 🇨🇱 | UMAG TV | Universitarios | Magallanes |
+| 3759 | 🇨🇱 | UMAG TV 2 | Universitarios | Magallanes |
 
 ## 📝 Notas
 

@@ -33,10 +33,10 @@ const regionOf = c => {
 
 // secciones: temas en orden de la app; regiones insertadas tras 'noticias'
 const noticiasIdx = THEMES.findIndex(t => t.k === 'noticias');
-const REG_TORD = noticiasIdx + 0.5;
+const REG_TORD = THEMES.length + 0.5;  // 📍 Regiones va AL FINAL, después de Generalistas (última lista)
 const themeSec = THEMES.map((t, i) => ({ tord: i, label: t.name.startsWith(t.icon) ? t.name : `${t.icon} ${t.name}`, color: t.color, big: t.k === 'deportes', key: t.k }));
 const regSec = { tord: REG_TORD, label: '📍 Regiones de Chile (norte → sur)', color: '#0891b2', big: false, key: 'regiones' };
-const ALL_SECS = [...themeSec.slice(0, noticiasIdx + 1), regSec, ...themeSec.slice(noticiasIdx + 1)];
+const ALL_SECS = [...themeSec, regSec];  // orden de la última lista: 16 temas y 📍 Regiones al final
 
 const rows = chans.map(c => {
   const reg = regionOf(c);
