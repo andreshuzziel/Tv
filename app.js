@@ -17,6 +17,7 @@
   const renames = Object.assign({}, window.RENAMES || {}, store.get('tvcl_renames', {}));
   const saveRenames = () => store.set('tvcl_renames', renames);
   const dispName = c => renames[c.id] || c.name;
+  const paisName = cc => (window.PAISES || {})[String(cc || '').toLowerCase()] || String(cc || '?').toUpperCase();
   const toast = msg => {
     const t = $('#toast'); t.textContent = msg; t.classList.add('show');
     clearTimeout(t._t); t._t = setTimeout(() => t.classList.remove('show'), 2200);
@@ -177,8 +178,8 @@
     const sub = sec === 'reg'
       ? `${ti} ` + ((c.note || '').split('·')[0].trim() || c.group)
       : c._reg ? `${ti} ${c._reg} · ${c.group}` : `${c._origin === 'es' ? '🌎' : '🇨🇱'} ${ti} ${c.group}${c.note ? ' · ' + c.note.split('·')[0].trim() : ''}`;
-    return `<button class="ch ${current && current.id === c.id ? 'on' : ''} ${c.url ? '' : 'dis'}" data-id="${esc(c.id)}" title="${esc(dispName(c))} (${esc(c.cc || '?').toUpperCase()})${renames[c.id] ? ' · original: ' + esc(c.name) : ''}">
-      <span class="cflag">${c._flag}</span><span class="logo" style="background:${esc(c.color || '#334155')}">${esc((c.abbr || c.name || '?').slice(0, 4))}</span>
+    return `<button class="ch ${current && current.id === c.id ? 'on' : ''} ${c.url ? '' : 'dis'}" data-id="${esc(c.id)}" title="${esc(dispName(c))} (${esc(paisName(c.cc))})${renames[c.id] ? ' · original: ' + esc(c.name) : ''}">
+      <span class="cflag" title="${esc(paisName(c.cc))}">${c._flag}<span class="ccname">${esc(paisName(c.cc))}</span></span><span class="logo" style="background:${esc(c.color || '#334155')}">${esc((c.abbr || c.name || '?').slice(0, 4))}</span>
       <span class="meta"><span class="nm">${esc(dispName(c))}${renames[c.id] ? ' <span style="opacity:.55;font-size:11px">(renombrado)</span>' : ''}</span><span class="sb">${esc(sub)}</span></span>
       <span class="eq"><i></i><i></i><i></i></span>
       ${favs.has(c.id) ? '<span class="star">★</span>' : ''}
@@ -439,6 +440,7 @@
 
     $('#nowName').textContent = dispName(ch);
     const nf = $('#nowFlag'); if (nf) nf.textContent = ch._flag || '';
+    const nc = $('#nowCountry'); if (nc) nc.textContent = paisName(ch.cc);
     $('#nowGroup').textContent = [ch._reg ? `Región de ${ch._reg}` : (THEMES.find(t => t.k === ch._theme) || {}).name, ch.note].filter(Boolean).join(' · ');
     $('#ovLogo').textContent = (ch.abbr || ch.name).slice(0, 4);
     $('#ovLogo').style.background = ch.color || '#1b2440';

@@ -231,3 +231,6 @@ code{background:#0b1120;border:1px solid var(--line);padding:1px 6px;border-radi
 .cflag.big{font-size:19px;margin-right:2px}
 .ch .cflag{margin-right:7px}
 .top-stats .upd{color:#7dd3fc;font-weight:600}
+
+.ccname{font-size:9px;opacity:.8;margin-left:3px;vertical-align:1px;letter-spacing:.2px;white-space:nowrap}
+.ccname.big{font-size:11px;opacity:.9}
