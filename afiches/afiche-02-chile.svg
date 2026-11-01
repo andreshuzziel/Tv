@@ -1,0 +1,113 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1460" height="348" viewBox="0 0 1460 348" font-family="Segoe UI, Arial, Helvetica, sans-serif">
+<rect width="1460" height="348" fill="#0b1220"/>
+<rect x="0" y="0" width="1460" height="168" fill="#111a2e"/>
+<rect x="0" y="164" width="1460" height="4" fill="#d52b1e"/>
+<text x="20" y="46" font-size="34" font-weight="700" fill="#f8fafc">📰 Noticias de Chile — canales 33–52</text>
+<text x="20" y="76" font-size="15" fill="#94a3b8">20 canales · TV Chile v3.112 · 01-nov-2026</text>
+<text x="20" y="102" font-size="13" fill="#64748b">Cada celda:  #número  🏳️ bandera (país)  Nombre del canal   ·   al pasar el mouse: país y temática completos</text>
+<text x="20" y="126" font-size="13" fill="#64748b">Rangos: 1–32 señal abierta CL · 33–52 noticias · 53–85 Biobío · 86–308 regiones · 309–317 deportes · 318–322 infantil/anime · 323–415 música · 416–433 religiosos · 434–446 cultura · 447–683 resto CL · 684–3110 español otros países</text>
+<text x="20" y="148" font-size="13" fill="#64748b">Generado 01-nov-2026 · v3.112 · lista sanitizada (https, sin TV de pago) · repo tv-chile</text>
+<rect x="20" y="168" width="1420" height="26" rx="6" fill="#2563eb" opacity="0.9"/>
+<text x="30" y="186" font-size="15" font-weight="600" fill="#fff">📰 Noticias de Chile</text>
+<text x="1430" y="186" font-size="13" fill="#e2e8f0" text-anchor="end">canales 33–52 · 20</text>
+<rect x="20.0" y="202" width="349.0" height="22" rx="4" fill="#121b30"/>
+<title>#33 · 🇨🇱 Chile — ADN TV (Noticias)</title>
+<text x="26.0" y="218" font-size="12.5" font-weight="700" fill="#2563eb" font-family="Consolas, Menlo, monospace">#33</text>
+<text x="68.0" y="218" font-size="12">🇨🇱</text>
+<text x="94.0" y="218" font-size="12" fill="#e2e8f0">ADN TV</text>
+<rect x="377.0" y="202" width="349.0" height="22" rx="4" fill="#121b30"/>
+<title>#34 · 🇨🇱 Chile — Agricultura TV (Noticias)</title>
+<text x="383.0" y="218" font-size="12.5" font-weight="700" fill="#2563eb" font-family="Consolas, Menlo, monospace">#34</text>
+<text x="425.0" y="218" font-size="12">🇨🇱</text>
+<text x="451.0" y="218" font-size="12" fill="#e2e8f0">Agricultura TV</text>
+<rect x="734.0" y="202" width="349.0" height="22" rx="4" fill="#121b30"/>
+<title>#35 · 🇨🇱 Chile — Atacama Noticias (Noticias)</title>
+<text x="740.0" y="218" font-size="12.5" font-weight="700" fill="#2563eb" font-family="Consolas, Menlo, monospace">#35</text>
+<text x="782.0" y="218" font-size="12">🇨🇱</text>
+<text x="808.0" y="218" font-size="12" fill="#e2e8f0">Atacama Noticias</text>
+<rect x="1091.0" y="202" width="349.0" height="22" rx="4" fill="#121b30"/>
+<title>#36 · 🇨🇱 Chile — Bio Bio TV (Noticias)</title>
+<text x="1097.0" y="218" font-size="12.5" font-weight="700" fill="#2563eb" font-family="Consolas, Menlo, monospace">#36</text>
+<text x="1139.0" y="218" font-size="12">🇨🇱</text>
+<text x="1165.0" y="218" font-size="12" fill="#e2e8f0">Bio Bio TV</text>
+<rect x="20.0" y="226" width="349.0" height="22" rx="4" fill="#0f172a"/>
+<title>#37 · 🇨🇱 Chile — CHV Noticias (Noticias)</title>
+<text x="26.0" y="242" font-size="12.5" font-weight="700" fill="#2563eb" font-family="Consolas, Menlo, monospace">#37</text>
+<text x="68.0" y="242" font-size="12">🇨🇱</text>
+<text x="94.0" y="242" font-size="12" fill="#e2e8f0">CHV Noticias</text>
+<rect x="377.0" y="226" width="349.0" height="22" rx="4" fill="#0f172a"/>
+<title>#38 · 🇨🇱 Chile — Cooperativa TV (Noticias)</title>
+<text x="383.0" y="242" font-size="12.5" font-weight="700" fill="#2563eb" font-family="Consolas, Menlo, monospace">#38</text>
+<text x="425.0" y="242" font-size="12">🇨🇱</text>
+<text x="451.0" y="242" font-size="12" fill="#e2e8f0">Cooperativa TV</text>
+<rect x="734.0" y="226" width="349.0" height="22" rx="4" fill="#0f172a"/>
+<title>#39 · 🇨🇱 Chile — El Centro TV (Noticias)</title>
+<text x="740.0" y="242" font-size="12.5" font-weight="700" fill="#2563eb" font-family="Consolas, Menlo, monospace">#39</text>
+<text x="782.0" y="242" font-size="12">🇨🇱</text>
+<text x="808.0" y="242" font-size="12" fill="#e2e8f0">El Centro TV</text>
+<rect x="1091.0" y="226" width="349.0" height="22" rx="4" fill="#0f172a"/>
+<title>#40 · 🇨🇱 Chile — El Pinguino TV (Noticias)</title>
+<text x="1097.0" y="242" font-size="12.5" font-weight="700" fill="#2563eb" font-family="Consolas, Menlo, monospace">#40</text>
+<text x="1139.0" y="242" font-size="12">🇨🇱</text>
+<text x="1165.0" y="242" font-size="12" fill="#e2e8f0">El Pinguino TV</text>
+<rect x="20.0" y="250" width="349.0" height="22" rx="4" fill="#121b30"/>
+<title>#41 · 🇨🇱 Chile — Meganoticias (Noticias)</title>
+<text x="26.0" y="266" font-size="12.5" font-weight="700" fill="#2563eb" font-family="Consolas, Menlo, monospace">#41</text>
+<text x="68.0" y="266" font-size="12">🇨🇱</text>
+<text x="94.0" y="266" font-size="12" fill="#e2e8f0">Meganoticias</text>
+<rect x="377.0" y="250" width="349.0" height="22" rx="4" fill="#121b30"/>
+<title>#42 · 🇨🇱 Chile — Meganoticias Ahora (Noticias)</title>
+<text x="383.0" y="266" font-size="12.5" font-weight="700" fill="#2563eb" font-family="Consolas, Menlo, monospace">#42</text>
+<text x="425.0" y="266" font-size="12">🇨🇱</text>
+<text x="451.0" y="266" font-size="12" fill="#e2e8f0">Meganoticias Ahora</text>
+<rect x="734.0" y="250" width="349.0" height="22" rx="4" fill="#121b30"/>
+<title>#43 · 🇨🇱 Chile — Opinionsur (Noticias)</title>
+<text x="740.0" y="266" font-size="12.5" font-weight="700" fill="#2563eb" font-family="Consolas, Menlo, monospace">#43</text>
+<text x="782.0" y="266" font-size="12">🇨🇱</text>
+<text x="808.0" y="266" font-size="12" fill="#e2e8f0">Opinionsur</text>
+<rect x="1091.0" y="250" width="349.0" height="22" rx="4" fill="#121b30"/>
+<title>#44 · 🇨🇱 Chile — Puranoticia (Noticias)</title>
+<text x="1097.0" y="266" font-size="12.5" font-weight="700" fill="#2563eb" font-family="Consolas, Menlo, monospace">#44</text>
+<text x="1139.0" y="266" font-size="12">🇨🇱</text>
+<text x="1165.0" y="266" font-size="12" fill="#e2e8f0">Puranoticia</text>
+<rect x="20.0" y="274" width="349.0" height="22" rx="4" fill="#0f172a"/>
+<title>#45 · 🇨🇱 Chile — Puranoticia TV (Noticias)</title>
+<text x="26.0" y="290" font-size="12.5" font-weight="700" fill="#2563eb" font-family="Consolas, Menlo, monospace">#45</text>
+<text x="68.0" y="290" font-size="12">🇨🇱</text>
+<text x="94.0" y="290" font-size="12" fill="#e2e8f0">Puranoticia TV</text>
+<rect x="377.0" y="274" width="349.0" height="22" rx="4" fill="#0f172a"/>
+<title>#46 · 🇨🇱 Chile — Radio Labrar Noticias (Noticias)</title>
+<text x="383.0" y="290" font-size="12.5" font-weight="700" fill="#2563eb" font-family="Consolas, Menlo, monospace">#46</text>
+<text x="425.0" y="290" font-size="12">🇨🇱</text>
+<text x="451.0" y="290" font-size="12" fill="#e2e8f0">Radio Labrar Noticias</text>
+<rect x="734.0" y="274" width="349.0" height="22" rx="4" fill="#0f172a"/>
+<title>#47 · 🇨🇱 Chile — T13 (Noticias)</title>
+<text x="740.0" y="290" font-size="12.5" font-weight="700" fill="#2563eb" font-family="Consolas, Menlo, monospace">#47</text>
+<text x="782.0" y="290" font-size="12">🇨🇱</text>
+<text x="808.0" y="290" font-size="12" fill="#e2e8f0">T13</text>
+<rect x="1091.0" y="274" width="349.0" height="22" rx="4" fill="#0f172a"/>
+<title>#48 · 🇨🇱 Chile — T13 En Vivo (Noticias)</title>
+<text x="1097.0" y="290" font-size="12.5" font-weight="700" fill="#2563eb" font-family="Consolas, Menlo, monospace">#48</text>
+<text x="1139.0" y="290" font-size="12">🇨🇱</text>
+<text x="1165.0" y="290" font-size="12" fill="#e2e8f0">T13 En Vivo</text>
+<rect x="20.0" y="298" width="349.0" height="22" rx="4" fill="#121b30"/>
+<title>#49 · 🇨🇱 Chile — TeleCauquenes (Noticias)</title>
+<text x="26.0" y="314" font-size="12.5" font-weight="700" fill="#2563eb" font-family="Consolas, Menlo, monospace">#49</text>
+<text x="68.0" y="314" font-size="12">🇨🇱</text>
+<text x="94.0" y="314" font-size="12" fill="#e2e8f0">TeleCauquenes</text>
+<rect x="377.0" y="298" width="349.0" height="22" rx="4" fill="#121b30"/>
+<title>#50 · 🇨🇱 Chile — Turno (Noticias)</title>
+<text x="383.0" y="314" font-size="12.5" font-weight="700" fill="#2563eb" font-family="Consolas, Menlo, monospace">#50</text>
+<text x="425.0" y="314" font-size="12">🇨🇱</text>
+<text x="451.0" y="314" font-size="12" fill="#e2e8f0">Turno</text>
+<rect x="734.0" y="298" width="349.0" height="22" rx="4" fill="#121b30"/>
+<title>#51 · 🇨🇱 Chile — TV Senado (Noticias)</title>
+<text x="740.0" y="314" font-size="12.5" font-weight="700" fill="#2563eb" font-family="Consolas, Menlo, monospace">#51</text>
+<text x="782.0" y="314" font-size="12">🇨🇱</text>
+<text x="808.0" y="314" font-size="12" fill="#e2e8f0">TV Senado</text>
+<rect x="1091.0" y="298" width="349.0" height="22" rx="4" fill="#121b30"/>
+<title>#52 · 🇨🇱 Chile — TVN 24 Horas (Noticias)</title>
+<text x="1097.0" y="314" font-size="12.5" font-weight="700" fill="#2563eb" font-family="Consolas, Menlo, monospace">#52</text>
+<text x="1139.0" y="314" font-size="12">🇨🇱</text>
+<text x="1165.0" y="314" font-size="12" fill="#e2e8f0">TVN 24 Horas</text>
+</svg>
