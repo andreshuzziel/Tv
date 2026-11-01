@@ -144,8 +144,17 @@ def svg_doc(title, subtitle, items, fname):
     open(fname, 'w', encoding='utf-8').write('\n'.join(o))
     return W, H
 
+def prune_flags(path):
+    """Quita del <defs> las banderas que el archivo no referencia (achica cada lámina)."""
+    s = open(path, encoding='utf-8').read()
+    used = set(re.findall(r'href="#flag-([a-z]{2})"', s))
+    out = [ln for ln in s.split('\n')
+           if not (re.match(r'<g id="flag-([a-z]{2})">', ln) and re.match(r'<g id="flag-([a-z]{2})">', ln).group(1) not in used)]
+    open(path, 'w', encoding='utf-8').write('\n'.join(out))
+
 n = len(rows)
 w, h = svg_doc('📺 TV CHILE — AFICHE DE TODOS LOS CANALES', f'{n} canales numerados · Chile primero (Biobío destacado) · español Latam/ES · 01-nov-2026 · v3.103', rows, 'AFICHE-CANALES.svg')
+prune_flags('AFICHE-CANALES.svg')
 print(f'AFICHE-CANALES.svg: {w}x{h}, {n} canales, {os.path.getsize("AFICHE-CANALES.svg")/1024:.0f} KB')
 
 os.makedirs('afiches', exist_ok=True)
@@ -158,14 +167,18 @@ for s, grp in blocks_of(rows):
     rng = f'#{min(nums)}–#{max(nums)}' if nums else 'solo web'
     svg_path = f'afiches/afiche-{k:02d}-{slug}.svg'
     svg_doc(f'{s[2]} — canales {rng}', f'{len(grp)} filas · ordenados por # ascendente · TV Chile v3.103 · 01-nov-2026', grp, svg_path)
-    try:
-        import cairosvg
-        cairosvg.svg2png(url=svg_path, write_to=f'afiches/afiche-{k:02d}-{slug}.png', output_width=W)
-    except Exception as e:
-        print('PNG de sección omitido:', repr(e))
+    prune_flags(svg_path)
+    if not os.environ.get('SKIP_PNG'):
+        try:
+            import cairosvg
+            cairosvg.svg2png(url=svg_path, write_to=f'afiches/afiche-{k:02d}-{slug}.png', output_width=W)
+        except Exception as e:
+            print('PNG de sección omitido:', repr(e))
 print('afiches por sección (SVG+PNG):', k)
 
 try:
+    if os.environ.get('SKIP_PNG'):
+        raise RuntimeError('SKIP_PNG=1')
     from PIL import Image, ImageDraw, ImageFont
     f_num = ImageFont.truetype('/usr/share/fonts/truetype/dejavu/DejaVuSansMono-Bold.ttf', 13)
     f_big = ImageFont.truetype('/usr/share/fonts/truetype/dejavu/DejaVuSansMono-Bold.ttf', 15)
