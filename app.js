@@ -156,19 +156,22 @@
 
   const byChno = (a, b) => ((a.chno || 1e9) - (b.chno || 1e9)) || String(a.name).localeCompare(b.name);
   const rngOf = arr => { const n = arr.map(c => c.chno).filter(Boolean); return n.length ? ` · #${Math.min(...n)}–#${Math.max(...n)}` : ''; };
+  function regSections() {
+    return REGIONS.map(r => {
+      const all = regChans.filter(c => c._reg === r.k);
+      const items = all.filter(c => (state.regKind === 'all' || c._kind === state.regKind) && matches(c)).sort(byChno);
+      const tv = all.filter(c => c._kind !== 'radio').length, ra = all.length - tv;
+      return {
+        key: 'reg:' + r.k, code: r.code, color: r.color, title: `📍 ${r.k}`,
+        sub: `${r.cap} · ${tv} TV${ra ? ` · ${ra} radios` : ''}${rngOf(all)}`,
+        items, total: all.length, groupBy: c => c._kind, groupLabel: k => KIND_LABEL[k],
+        groupOrder: ['tv', 'otros', 'radio'], isReg: true
+      };
+    });
+  }
   function sectionsFor(view) {
     if (view === 'reg') {
-      return REGIONS.map(r => {
-        const all = regChans.filter(c => c._reg === r.k);
-        const items = all.filter(c => (state.regKind === 'all' || c._kind === state.regKind) && matches(c)).sort(byChno);
-        const tv = all.filter(c => c._kind !== 'radio').length, ra = all.length - tv;
-        return {
-          key: r.k, code: r.code, color: r.color, title: r.k,
-          sub: `${r.cap} · ${tv} TV${ra ? ` · ${ra} radios` : ''}${rngOf(all)}`,
-          items, total: all.length, groupBy: c => c._kind, groupLabel: k => KIND_LABEL[k],
-          groupOrder: ['tv', 'otros', 'radio']
-        };
-      });
+      return regSections();
     }
     if (view === 'tem') {
       const legalItems = legalChans.filter(matches);
@@ -178,7 +181,7 @@
         items: legalItems, total: (state.theme === 'all' || state.theme === 'deportes') ? legalChans.length : 0,
         groupBy: c => c._origin, groupLabel: k => (k === 'cl' ? '🇨🇱 Chile' : '🌎 Internacionales'), groupOrder: ['cl', 'es']
       };
-      return [legal, ...THEMES.map(t => {
+      const secs = [legal, ...THEMES.map(t => {
         const all = temChans.filter(c => c._theme === t.k && (t.k !== 'gob' || c._origin === 'cl'));
         const items = all.filter(c => (state.temOrigin === 'all' || c._origin === state.temOrigin) && matches(c)).sort(byChno);
         const cl = all.filter(c => c._origin === 'cl').length, es = all.length - cl;
@@ -195,8 +198,12 @@
           sec.groupOrder = SPORT_ORDER;
         }
         return sec;
-      })].sort((a, b) => {
-        // ⭐ la temática elegida en la columna izquierda va primero
+      })];
+    // 📍 al ver TODAS las temáticas, las regiones van al final (mismo orden que el afiche)
+    if (state.theme === 'all') secs.push(...regSections());
+    return secs.sort((a, b) => {
+        // ⭐ la temática elegida en la columna izquierda va primero; las regiones quedan últimas
+        if (a.isReg !== b.isReg) return a.isReg ? 1 : -1;
         if (state.theme === 'all') return 0;
         if (a.key === state.theme) return -1;
         if (b.key === state.theme) return 1;
@@ -608,7 +615,7 @@
       <span class="tag ${s.type === 'Gratis' ? 'free' : 'paid'}">${esc(s.type)}</span>
     </a>`).join('');
   const nRegs = new Set(regChans.map(c => c._reg)).size;
-  $('#topStats').innerHTML = `<span><b>${chans.length}</b> canales</span><span><b>${regChans.length}</b> regionales · ${nRegs} regiones</span><span><b>${temChans.length}</b> por temática</span><span class="upd">🔄 actualizado 01-nov-2026 · v3.105 · 🏛️ gob CL (9) · bloques #1-100…#3501-3800 · 🌐 OTT gratis</span>`;
+  $('#topStats').innerHTML = `<span><b>${chans.length}</b> canales</span><span><b>${regChans.length}</b> regionales · ${nRegs} regiones</span><span><b>${temChans.length}</b> por temática</span><span class="upd">🔄 actualizado 01-nov-2026 · v3.106 · orden afiche (temas y 📍 regiones al final) · 🌐 OTT gratis</span>`;
   $('#gFoot').textContent = 'Solo señales abiertas https · sanitizado (iptv-org + m3u.cl + 6 fuentes)';
   $('#tFoot').textContent = 'Elige una temática para filtrar los canales →';
 
