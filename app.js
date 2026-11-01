@@ -154,15 +154,17 @@
     return !state.query || c._q.includes(state.query);
   }
 
+  const byChno = (a, b) => ((a.chno || 1e9) - (b.chno || 1e9)) || String(a.name).localeCompare(b.name);
+  const rngOf = arr => { const n = arr.map(c => c.chno).filter(Boolean); return n.length ? ` · #${Math.min(...n)}–#${Math.max(...n)}` : ''; };
   function sectionsFor(view) {
     if (view === 'reg') {
       return REGIONS.map(r => {
         const all = regChans.filter(c => c._reg === r.k);
-        const items = all.filter(c => (state.regKind === 'all' || c._kind === state.regKind) && matches(c));
+        const items = all.filter(c => (state.regKind === 'all' || c._kind === state.regKind) && matches(c)).sort(byChno);
         const tv = all.filter(c => c._kind !== 'radio').length, ra = all.length - tv;
         return {
           key: r.k, code: r.code, color: r.color, title: r.k,
-          sub: `${r.cap} · ${tv} TV${ra ? ` · ${ra} radios` : ''}`,
+          sub: `${r.cap} · ${tv} TV${ra ? ` · ${ra} radios` : ''}${rngOf(all)}`,
           items, total: all.length, groupBy: c => c._kind, groupLabel: k => KIND_LABEL[k],
           groupOrder: ['tv', 'otros', 'radio']
         };
@@ -178,11 +180,11 @@
       };
       return [legal, ...THEMES.map(t => {
         const all = temChans.filter(c => c._theme === t.k && (t.k !== 'gob' || c._origin === 'cl'));
-        const items = all.filter(c => (state.temOrigin === 'all' || c._origin === state.temOrigin) && matches(c));
+        const items = all.filter(c => (state.temOrigin === 'all' || c._origin === state.temOrigin) && matches(c)).sort(byChno);
         const cl = all.filter(c => c._origin === 'cl').length, es = all.length - cl;
         const sec = {
           key: t.k, code: t.icon, color: t.color, title: t.name, emoji: true,
-          sub: [cl && `🇨🇱 ${cl} Chile`, es && `🌎 ${es} hispanos`].filter(Boolean).join(' · '),
+          sub: [cl && `🇨🇱 ${cl} Chile`, es && `🌎 ${es} hispanos`].filter(Boolean).join(' · ') + rngOf(all),
           items, total: all.length, groupBy: c => c._origin,
           groupLabel: k => (k === 'cl' ? '🇨🇱 Chile' : '🌎 Hispanoamérica y España'), groupOrder: ['cl', 'es']
         };
@@ -219,7 +221,7 @@
       ? `${ti} ` + ((c.note || '').split('·')[0].trim() || c.group)
       : c._reg ? `${ti} ${c._reg} · ${c.group}` : `${c._origin === 'es' ? '🌎' : '🇨🇱'} ${ti} ${c.group}${c.note ? ' · ' + c.note.split('·')[0].trim() : ''}`;
     return `<button class="ch ${current && current.id === c.id ? 'on' : ''} ${c.url ? '' : 'dis'}" data-id="${esc(c.id)}" title="${esc(dispName(c))} (${esc(paisName(c.cc))})${renames[c.id] ? ' · original: ' + esc(c.name) : ''}">
-      <span class="cflag" title="${esc(paisName(c.cc))}">${c._flag}<span class="ccname">${esc(paisName(c.cc))}</span></span><span class="logo" style="background:${esc(c.color || '#334155')}">${esc((c.abbr || c.name || '?').slice(0, 4))}</span>
+      <span class="cflag" title="${esc(paisName(c.cc))}">${c._flag}<span class="ccname">${esc(paisName(c.cc))}</span></span>${c.chno ? `<span class="chn" title="Número de canal (tvg-chno)">#${c.chno}</span>` : ''}<span class="logo" style="background:${esc(c.color || '#334155')}">${esc((c.abbr || c.name || '?').slice(0, 4))}</span>
       <span class="meta"><span class="nm">${esc(dispName(c))}${renames[c.id] ? ' <span style="opacity:.55;font-size:11px">(renombrado)</span>' : ''}</span><span class="sb">${esc(sub)}</span></span>
       <span class="eq"><i></i><i></i><i></i></span>
       ${favs.has(c.id) ? '<span class="star">★</span>' : ''}
@@ -606,7 +608,7 @@
       <span class="tag ${s.type === 'Gratis' ? 'free' : 'paid'}">${esc(s.type)}</span>
     </a>`).join('');
   const nRegs = new Set(regChans.map(c => c._reg)).size;
-  $('#topStats').innerHTML = `<span><b>${chans.length}</b> canales</span><span><b>${regChans.length}</b> regionales · ${nRegs} regiones</span><span><b>${temChans.length}</b> por temática</span><span class="upd">🔄 actualizado 01-nov-2026 · v3.102 · 🏛️ Gobierno y Congreso CL (9) · 🌐 OTT gratis</span>`;
+  $('#topStats').innerHTML = `<span><b>${chans.length}</b> canales</span><span><b>${regChans.length}</b> regionales · ${nRegs} regiones</span><span><b>${temChans.length}</b> por temática</span><span class="upd">🔄 actualizado 01-nov-2026 · v3.103 · 🏛️ Gobierno y Congreso CL (9) · # por tema · 🌐 OTT gratis</span>`;
   $('#gFoot').textContent = 'Solo señales abiertas https · sanitizado (iptv-org + m3u.cl + 6 fuentes)';
   $('#tFoot').textContent = 'Elige una temática para filtrar los canales →';
 
