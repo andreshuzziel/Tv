@@ -68,6 +68,7 @@
     { k: 'religion', name: 'Religiosos',             icon: '⛪', color: '#a16207', groups: ['Religioso', 'Religiosos'] },
     { k: 'comunit',  name: 'Comunitarios',           icon: '🤝', color: '#0d9488', groups: ['Comunitarios'] },
     { k: 'inter',    name: 'Internacionales',        icon: '🌐', color: '#4f46e5', groups: ['Internacionales'] },
+    { k: 'ott',      name: 'Servicios OTT (streaming legal)', icon: '🌐', color: '#4f46e5', groups: ['OTT'] },
     { k: 'general',  name: 'Generalistas',           icon: '📡', color: '#64748b', groups: [] } // resto
   ];
   const G2T = {}; THEMES.forEach(t => t.groups.forEach(g => { G2T[norm(g)] = t.k; }));
@@ -605,7 +606,7 @@
       <span class="tag ${s.type === 'Gratis' ? 'free' : 'paid'}">${esc(s.type)}</span>
     </a>`).join('');
   const nRegs = new Set(regChans.map(c => c._reg)).size;
-  $('#topStats').innerHTML = `<span><b>${chans.length}</b> canales</span><span><b>${regChans.length}</b> regionales · ${nRegs} regiones</span><span><b>${temChans.length}</b> por temática</span><span class="upd">🔄 actualizado 01-nov-2026 · v3.112</span>`;
+  $('#topStats').innerHTML = `<span><b>${chans.length}</b> canales</span><span><b>${regChans.length}</b> regionales · ${nRegs} regiones</span><span><b>${temChans.length}</b> por temática</span><span class="upd">🔄 actualizado 01-nov-2026 · v3.120 (incluye 8 servicios OTT 🌐)</span>`;
   $('#gFoot').textContent = 'Solo señales abiertas https · sanitizado (iptv-org + m3u.cl + 6 fuentes)';
   $('#tFoot').textContent = 'Elige una temática para filtrar los canales →';
 

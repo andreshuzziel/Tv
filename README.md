@@ -125,3 +125,6 @@ Cada canal muestra su **bandera del país de origen** (campo `cc` = ISO 3166-1 a
 
 ## 🧹 Dedupe nov-2026 (grillas cable/telefónicas CL)
 Crucé las grillas de Movistar/VTR/Claro/GTD/Telsur/Entel/Zapping con el catálogo: de **175 nombres duplicados** se probó cada URL (HTTP + tipo de contenido) y se **desactivaron 226 alternativas muertas** (quedó la mejor señal viva por canal; ver nota ⚠️ en GUIA-ORDEN). Resultado: **3.112 canales, 2.884 con stream activo**. Los FTA restantes de m3u.cl (CNN Chile, Opinionsur Cine, Radio Universal, Radio Navarino) tenían URL caída → no se agregaron. Los canales de pago de cable (TNT/ESPN/HBO/Discovery…) **no se implementan como stream** — van por suscripción oficial (Movistar Play, Zapping, etc.; deportes ya en la sección ✔ legales).
+
+## 🌐 Sección OTT implementada (streaming legal, sin cable)
+Nueva temática **🌐 Servicios OTT** en el panel izquierdo: 8 entradas (Max/HBO, **TNT Sports en Max** ~$13.990, Disney+ con Star+ESPN, Fanatiz, Pluto TV, Vix, Prime Video, Paramount+) con su web oficial, precio aprox. 2026 y nota; al tocarlas **abren el sitio oficial** (son enlaces, no streams). Catálogo: 3.120 entradas (3.112 canales + 8 OTT).

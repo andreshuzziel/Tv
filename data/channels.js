@@ -40456,8 +40456,16 @@ window.CHANNELS = [
   "note": "1080p · vía iptv-org-hispam (sanitizada)",
   "chno": 914
  }
+,
+ {"id": "ott-max", "name": "Max (HBO)", "group": "OTT", "region": "Nacional", "color": "#4f46e5", "abbr": "MAX", "url": "", "web": "https://www.max.com/cl/", "note": "OTT puro (sin cable): catálogo HBO + canales lineales TNT · Estándar ~$8.990 / Premium ~$11.990 (2026)", "cc": "us"},
+ {"id": "ott-tntmax", "name": "TNT Sports en Max (complemento)", "group": "OTT", "region": "Nacional", "color": "#16a34a", "abbr": "⚽", "url": "", "web": "https://www.max.com/cl/", "note": "~$13.990/mes: fútbol chileno EN VIVO (Primera A/B, Copa Chile, Supercopa) · se contrata dentro de Max (standalone o sobre plan base)", "cc": "cl"},
+ {"id": "ott-disney", "name": "Disney+ (Disney + Star + ESPN)", "group": "OTT", "region": "Nacional", "color": "#0b63f6", "abbr": "D+", "url": "", "web": "https://www.disneyplus.com/cl/", "note": "Estándar ~$9.900 / Premium ~$13.500 (2026) · Star+ fusionado + ESPN: Champions, LaLiga, NBA, F1", "cc": "us"},
+ {"id": "ott-fanatiz", "name": "Fanatiz", "group": "OTT", "region": "Nacional", "color": "#0d9488", "abbr": "FZ", "url": "", "web": "https://www.fanatiz.com/", "note": "OTT chileno solo deportes intl: Libertadores, Sudamericana, ligas europeas (~$6.000–10.000/mes) · NO trae Primera de Chile", "cc": "cl"},
+ {"id": "ott-pluto", "name": "Pluto TV", "group": "OTT", "region": "Nacional", "color": "#f59e0b", "abbr": "PLT", "url": "", "web": "https://pluto.tv/", "note": "FAST gratis con anuncios · sus canales ya están en esta app (tema General)", "cc": "us"},
+ {"id": "ott-vix", "name": "Vix", "group": "OTT", "region": "Nacional", "color": "#db2777", "abbr": "VIX", "url": "", "web": "https://www.vix.com/", "note": "Telenovelas y noticias latinas · gratis con anuncios + Vix Premium", "cc": "us"},
+ {"id": "ott-prime", "name": "Amazon Prime Video", "group": "OTT", "region": "Nacional", "color": "#ea580c", "abbr": "PV", "url": "", "web": "https://www.primevideo.com/", "note": "Video base + canales add-on (se agregan Max, Paramount+, etc. dentro de Prime)", "cc": "us"},
+ {"id": "ott-paramount", "name": "Paramount+", "group": "OTT", "region": "Nacional", "color": "#2563eb", "abbr": "P+", "url": "", "web": "https://www.paramountplus.com/", "note": "Star Trek, CBS, MTV, Nickelodeon · Estándar/Premium (2026)", "cc": "us"}
 ];
-
 window.SPORTS = [
  {
   "name": "TNT Sports (oficial)",
