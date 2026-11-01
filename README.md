@@ -96,3 +96,10 @@ https://raw.githubusercontent.com/TU-USUARIO/tv-chile/main/playlists/tv-chile-to
 | 🎭 **Temáticas** (15) + filtro CL/ES + buscador | 📺 **Pantalla** grande (autoplay, sin botón ▶) + canal actual | 📋 **Canales**: 📍 Regiones / 🎭 Temáticas / ★ Favoritos + ⬇ M3U |
 
 Elegir una temática en la izquierda filtra en vivo la lista de la derecha (p. ej. *Deportes* → 78 canales, *Noticias* → 150).
+
+
+## 🛠️ Guías
+
+- **`GUIA-IMPLEMENTACION.md`** — cómo publicar en GitHub y usar **dos tokens**: uno de *lectura* (ver la lista en la TV si el repo es privado) y otro de *actualización* (pipeline automático con GitHub Actions + `scripts/actualizar.sh` + `scripts/sanitizar.py`).
+- **`GUIA-ORDEN.md`** — guía de canales **con números** (rangos 1–32 señal abierta CL, 53–85 Biobío, … 684+ español Latam/ES) y lista numerada completa; los números van en `tvg-chno` de `playlists/tv-chile-todo.m3u`.
+- **`GUIA-TV.md`** — pasos para cargar el link en la app IPTV de tu TV.

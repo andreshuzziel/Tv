@@ -1,0 +1,30 @@
+# ============================================================
+# Actualización automática diaria del catálogo de playlists.
+# Usa el token efímero GITHUB_TOKEN con permisos contents:write
+# (NO se guarda ningún token en el repo). Para actualizar desde
+# fuera, define un Fine-grained PAT en secrets.UPDATE_TOKEN.
+# ============================================================
+name: actualizar-playlists
+on:
+  schedule:
+    - cron: '0 6 * * *'        # 06:00 UTC diario
+  workflow_dispatch:           # ejecución manual desde la pestaña Actions
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.x'
+      - name: Ejecutar pipeline de actualización
+        env:
+          UPDATE_TOKEN: ${{ secrets.UPDATE_TOKEN }}
+          GITHUB_REPOSITORY: ${{ github.repository }}
+        run: bash scripts/actualizar.sh
