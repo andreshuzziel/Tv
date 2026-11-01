@@ -74,3 +74,16 @@ El panel lateral se rehízo desde cero y ahora está a la **derecha** del reprod
 - **🎭 Temáticas** — los otros 1.106 canales (nacionales + hispanos) en 14 temas: Señal abierta nacional, Noticias, Deportes, Entretención y series, Infantil, Cultura/educación, Música, Radios, Estilo de vida, Gobierno, Religiosos, Comunitarios, Internacionales y Generalistas. Filtro *Todos / 🇨🇱 Chile / 🌎 Hispanos*.
 - **★** — Favoritos + vistos recientemente.
 - Buscador sin tildes, secciones desplegables (se recuerdan), zapping ↑/↓ en el orden del panel, descarga M3U de la vista actual con `group-title` = región o temática.
+
+
+## 📺 Usar en tu TV con un link (app IPTV)
+
+La lista completa está en `playlists/tv-chile-todo.m3u` (3.110 canales). Para usarla en TiviMate / IPTV Smarters / OTT Navigator / VLC en tu TV, publica este repo en GitHub y usa el link raw:
+
+```
+https://raw.githubusercontent.com/TU-USUARIO/tv-chile/main/playlists/tv-chile-todo.m3u
+```
+
+(o sirviendo la carpeta en tu red local: `http://IP-DE-TU-PC:8000/playlists/tv-chile-todo.m3u`)
+
+👉 Guía paso a paso completa: **`GUIA-TV.md`**
