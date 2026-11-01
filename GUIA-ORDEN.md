@@ -3135,13 +3135,13 @@ No son canales con stream: al abrirlos vas al sitio oficial (gratis con anuncios
 
 
 > 🧹 Limpieza 01-nov-2026: la temática 🏛️ Gobierno es **solo de Chile** — se eliminaron del catálogo los 28 canales legislativos extranjeros (Congreso de España, canales ciudad USA, etc.); quedan TV Senado #51, Cámara de Diputados #438 y Gobierno de Chile #555.
-| 3113 | 🇨🇱 | Poder Judicial de Chile | Legislativo | Nacional |  *(solo web: YouTube oficial @pjudicialchile)*
-| 3114 | 🇨🇱 | Servicio Electoral de Chile (Servel) | Legislativo | Nacional |  *(solo web: YouTube oficial)*
-| 3115 | 🇨🇱 | Tribunal Constitucional de Chile | Legislativo | Nacional |  *(solo web: YouTube oficial)*
+| 3113 | 🇨🇱 | Poder Judicial de Chile | Gobierno y Congreso | Nacional |  *(solo web: YouTube oficial @pjudicialchile)*
+| 3114 | 🇨🇱 | Servicio Electoral de Chile (Servel) | Gobierno y Congreso | Nacional |  *(solo web: YouTube oficial)*
+| 3115 | 🇨🇱 | Tribunal Constitucional de Chile | Gobierno y Congreso | Nacional |  *(solo web: YouTube oficial)*
 
-> 🏛️ gob solo Chile (8): TV Senado #51 (stream oficial senado.cl + tv.senado.cl + @TVSENADOCHILE), TV Cámara #438 (CDTV: cdtv.cl + YouTube UCYd5k2TyOyOmUJNx0SH17KA), Gobierno #555, + web oficiales Poder Judicial #3113, Servel #3114, TC #3115, **BCN #3116 @CongresoChile**.
+> 🏛️ Gobierno y Congreso de Chile — solo 🇨🇱 (9 canales): TV Senado #51 (stream oficial senado.cl + tv.senado.cl + @TVSENADOCHILE), TV Cámara #438 (CDTV: cdtv.cl + YouTube UCYd5k2TyOyOmUJNx0SH17KA), Gobierno #555, + web oficiales Poder Judicial #3113, Servel #3114, TC #3115, **BCN #3116 @CongresoChile**.
 
 > Anterior: TV Senado #51 ahora con **señal oficial senado.cl** (`janus-tv-ply.senado.cl`, verificada 200 OK); + Poder Judicial, Servel y Tribunal Constitucional como enlaces web oficiales (YouTube), sin stream abierto verificado.
-| 3116 | 🇨🇱 | Biblioteca del Congreso Nacional (BCN) | Legislativo | Nacional |  *(solo web: YouTube @CongresoChile · bcn.cl)*
-| 3117 | 🇨🇱 | Democracia en Vivo (Cámara de Diputados) | Legislativo | Nacional |  *(solo web: democraciaenvivo.cl)*
+| 3116 | 🇨🇱 | Biblioteca del Congreso Nacional (BCN) | Gobierno y Congreso | Nacional |  *(solo web: YouTube @CongresoChile · bcn.cl)*
+| 3117 | 🇨🇱 | Democracia en Vivo (Cámara de Diputados) | Gobierno y Congreso | Nacional |  *(solo web: democraciaenvivo.cl)*
 

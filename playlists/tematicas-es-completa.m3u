@@ -79,7 +79,7 @@ https://redirector.dps.live/hls/t13/playlist.m3u8
 https://lbgo.bozztv.com/ssh101/ssh101/telecauquenestv/playlist.m3u8
 #EXTINF:-1 tvg-id="turno-cl-sd" tvg-name="Turno" tvg-chno="50" tvg-country="CL" group-title="Noticias",Turno
 https://redirector.dps.live/hls/turno/playlist.m3u8
-#EXTINF:-1 tvg-id="senado" tvg-name="TV Senado" tvg-chno="51" tvg-country="CL" group-title="Legislativo",TV Senado
+#EXTINF:-1 tvg-id="senado" tvg-name="TV Senado" tvg-chno="51" tvg-country="CL" group-title="Gobierno y Congreso",TV Senado
 https://janus-tv-ply.senado.cl/playlist/playlist.m3u8
 #EXTINF:-1 tvg-id="448-tvn-24-horas" tvg-name="TVN 24 Horas" tvg-chno="52" tvg-country="CL" group-title="Noticias",TVN 24 Horas
 https://mdstrm.com/live-stream-playlist/689ba606ecfe7915e1f8f741.m3u8?PlaylistM3UCL
@@ -287,7 +287,7 @@ https://live20.bozztv.com/akamaissh101/ssh101/asjdksa/playlist.m3u8?PlaylistM3UC
 https://verso.coopcom.cl/live/SHf6GLCpn4hDSpWdzaDzgX0ciU82/index.m3u8
 #EXTINF:-1 tvg-id="443-arab-tv" tvg-name="Arab TV" tvg-chno="437" tvg-country="CL" group-title="Culturales",Arab TV
 https://video03.logicahost.com.br/arabtvchile/arabtvchile/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="445-camara-de-diputados" tvg-name="Camara de Diputados" tvg-chno="438" tvg-country="CL" group-title="Legislativo",Camara de Diputados
+#EXTINF:-1 tvg-id="445-camara-de-diputados" tvg-name="Camara de Diputados" tvg-chno="438" tvg-country="CL" group-title="Gobierno y Congreso",Camara de Diputados
 https://tls-cl.cdnz.cl/streamdiptudadosa/live/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="1288-suyai-tv" tvg-name="Suyai TV" tvg-chno="439" tvg-country="CL" group-title="Culturales",Suyai TV
 https://trun.suyaitv.cl/memfs/1255a743-cd41-40a8-86c4-d264ee16ebf3.m3u8?PlaylistM3UCL
@@ -403,7 +403,7 @@ https://v2.tustreaming.cl:443/frecuencia7/index.m3u8
 https://v2.tustreaming.cl/frecuencia7/index.m3u8
 #EXTINF:-1 tvg-id="girovisual-tv-hd-el-quisco-san-antonio-valpa" tvg-name="Girovisual TV HD (El Quisco / San Antonio - Valparaíso) [No 24/7]" tvg-chno="554" tvg-country="CL" group-title="General",Girovisual TV HD (El Quisco / San Antonio - Valparaíso) [No 24/7]
 https://panel.tvstream.cl:1936/puekxmssxt/puekxmssxt/playlist.m3u8
-#EXTINF:-1 tvg-id="1780-gobierno-de-chile" tvg-name="Gobierno de Chile" tvg-chno="555" tvg-country="CL" group-title="Legislativo",Gobierno de Chile
+#EXTINF:-1 tvg-id="1780-gobierno-de-chile" tvg-name="Gobierno de Chile" tvg-chno="555" tvg-country="CL" group-title="Gobierno y Congreso",Gobierno de Chile
 https://mdstrm.com/live-stream-playlist/6239f6d008e7ac488826f237.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="432-hipertv" tvg-name="HiperTV" tvg-chno="556" tvg-country="CL" group-title="General",HiperTV
 https://hipertvserver.cl/hls/live/main/index.m3u8?PlaylistM3UCL

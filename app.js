@@ -64,7 +64,7 @@
     { k: 'musica',   name: 'Música',                 icon: '🎵', color: '#9333ea', groups: ['Música'] },
     { k: 'radio',    name: 'Radios en video',        icon: '📻', color: '#ea580c', groups: ['Radio'] },
     { k: 'estilo',   name: 'Estilo de vida y viajes', icon: '🌿', color: '#65a30d', groups: ['Estilo de vida', 'Viajes', 'Cocina', 'Autos', 'Aire libre', 'Negocios'] },
-    { k: 'gob',      name: '🏛️ Gobierno de Chile (solo 🇨🇱)', icon: '🏛️', color: '#475569', groups: ['Legislativo'] },
+    { k: 'gob',      name: '🏛️ Gobierno y Congreso de Chile (solo 🇨🇱)', icon: '🏛️', color: '#475569', groups: ['Gobierno y Congreso'] },
     { k: 'religion', name: 'Religiosos',             icon: '⛪', color: '#a16207', groups: ['Religioso', 'Religiosos'] },
     { k: 'comunit',  name: 'Comunitarios',           icon: '🤝', color: '#0d9488', groups: ['Comunitarios'] },
     { k: 'inter',    name: 'Internacionales',        icon: '🌐', color: '#4f46e5', groups: ['Internacionales'] },
@@ -606,7 +606,7 @@
       <span class="tag ${s.type === 'Gratis' ? 'free' : 'paid'}">${esc(s.type)}</span>
     </a>`).join('');
   const nRegs = new Set(regChans.map(c => c._reg)).size;
-  $('#topStats').innerHTML = `<span><b>${chans.length}</b> canales</span><span><b>${regChans.length}</b> regionales · ${nRegs} regiones</span><span><b>${temChans.length}</b> por temática</span><span class="upd">🔄 actualizado 01-nov-2026 · v3.101 · 🏛️ gob CL (9) · 🌐 OTT gratis</span>`;
+  $('#topStats').innerHTML = `<span><b>${chans.length}</b> canales</span><span><b>${regChans.length}</b> regionales · ${nRegs} regiones</span><span><b>${temChans.length}</b> por temática</span><span class="upd">🔄 actualizado 01-nov-2026 · v3.102 · 🏛️ Gobierno y Congreso CL (9) · 🌐 OTT gratis</span>`;
   $('#gFoot').textContent = 'Solo señales abiertas https · sanitizado (iptv-org + m3u.cl + 6 fuentes)';
   $('#tFoot').textContent = 'Elige una temática para filtrar los canales →';
 

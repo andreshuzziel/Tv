@@ -1,0 +1,7 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="senado" tvg-name="TV Senado" tvg-chno="51" tvg-country="CL" group-title="Gobierno y Congreso",TV Senado
+https://janus-tv-ply.senado.cl/playlist/playlist.m3u8
+#EXTINF:-1 tvg-id="445-camara-de-diputados" tvg-name="Camara de Diputados" tvg-chno="438" tvg-country="CL" group-title="Gobierno y Congreso",Camara de Diputados
+https://tls-cl.cdnz.cl/streamdiptudadosa/live/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="1780-gobierno-de-chile" tvg-name="Gobierno de Chile" tvg-chno="555" tvg-country="CL" group-title="Gobierno y Congreso",Gobierno de Chile
+https://mdstrm.com/live-stream-playlist/6239f6d008e7ac488826f237.m3u8?PlaylistM3UCL
