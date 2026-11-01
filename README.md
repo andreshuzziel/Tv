@@ -128,3 +128,6 @@ Crucé las grillas de Movistar/VTR/Claro/GTD/Telsur/Entel/Zapping con el catálo
 
 ## 🌐 Sección OTT implementada (streaming legal, sin cable)
 Nueva temática **🌐 Servicios OTT** en el panel izquierdo: 8 entradas (Max/HBO, **TNT Sports en Max** ~$13.990, Disney+ con Star+ESPN, Fanatiz, Pluto TV, Vix, Prime Video, Paramount+) con su web oficial, precio aprox. 2026 y nota; al tocarlas **abren el sitio oficial** (son enlaces, no streams). Catálogo: 3.120 entradas (3.112 canales + 8 OTT).
+
+## 🌐 OTT: solo los GRATIS implementados
+La temática **🌐 Servicios OTT** quedó solo con servicios **gratuitos** (Pluto TV, Vix tier gratis, Tubi, Samsung TV Plus, LG Channels, Plex gratis, YouTube en vivo, RTVE Play, Twitch, Dailymotion) — los de pago (Max/HBO, TNT Sports en Max, Disney+, Prime, Paramount+, Fanatiz de pago) **no** están como OTT; los deportes de pago siguen solo como referencia en la sección ✔ legales. Además se agregaron 2 canales FAST gratis con stream oficial verificado vivo: **#3111 Clan RTVE** 🇪🇸 y **#3112 La 2 de TVE** 🇪🇸. Total: 3.125 entradas, 2.886 con stream.

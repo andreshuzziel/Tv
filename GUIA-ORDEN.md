@@ -3131,3 +3131,11 @@ Cada canal lleva su número en `tvg-chno` dentro de `playlists/tv-chile-todo.m3u
 | 3108 | 🇨🇷 | Zurqui TV | General | CR |
 | 3109 | 🇪🇸 | Zylo Cine Friki | General | ES |
 | 3110 | 🇺🇸 | DroneTV | Relajación | US |
+
+---
+
+## ✨ Nuevos (01-nov-2026) — FAST/OTT gratis oficiales
+
+| 3111 | 🇪🇸 | Clan RTVE | Infantil | Nacional |  *(gratis, stream oficial verificado)*
+| 3112 | 🇪🇸 | La 2 de TVE | Cultura | Nacional |  *(gratis, stream oficial verificado)*
+

@@ -40457,14 +40457,19 @@ window.CHANNELS = [
   "chno": 914
  }
 ,
- {"id": "ott-max", "name": "Max (HBO)", "group": "OTT", "region": "Nacional", "color": "#4f46e5", "abbr": "MAX", "url": "", "web": "https://www.max.com/cl/", "note": "OTT puro (sin cable): catálogo HBO + canales lineales TNT · Estándar ~$8.990 / Premium ~$11.990 (2026)", "cc": "us"},
- {"id": "ott-tntmax", "name": "TNT Sports en Max (complemento)", "group": "OTT", "region": "Nacional", "color": "#16a34a", "abbr": "⚽", "url": "", "web": "https://www.max.com/cl/", "note": "~$13.990/mes: fútbol chileno EN VIVO (Primera A/B, Copa Chile, Supercopa) · se contrata dentro de Max (standalone o sobre plan base)", "cc": "cl"},
- {"id": "ott-disney", "name": "Disney+ (Disney + Star + ESPN)", "group": "OTT", "region": "Nacional", "color": "#0b63f6", "abbr": "D+", "url": "", "web": "https://www.disneyplus.com/cl/", "note": "Estándar ~$9.900 / Premium ~$13.500 (2026) · Star+ fusionado + ESPN: Champions, LaLiga, NBA, F1", "cc": "us"},
- {"id": "ott-fanatiz", "name": "Fanatiz", "group": "OTT", "region": "Nacional", "color": "#0d9488", "abbr": "FZ", "url": "", "web": "https://www.fanatiz.com/", "note": "OTT chileno solo deportes intl: Libertadores, Sudamericana, ligas europeas (~$6.000–10.000/mes) · NO trae Primera de Chile", "cc": "cl"},
- {"id": "ott-pluto", "name": "Pluto TV", "group": "OTT", "region": "Nacional", "color": "#f59e0b", "abbr": "PLT", "url": "", "web": "https://pluto.tv/", "note": "FAST gratis con anuncios · sus canales ya están en esta app (tema General)", "cc": "us"},
- {"id": "ott-vix", "name": "Vix", "group": "OTT", "region": "Nacional", "color": "#db2777", "abbr": "VIX", "url": "", "web": "https://www.vix.com/", "note": "Telenovelas y noticias latinas · gratis con anuncios + Vix Premium", "cc": "us"},
- {"id": "ott-prime", "name": "Amazon Prime Video", "group": "OTT", "region": "Nacional", "color": "#ea580c", "abbr": "PV", "url": "", "web": "https://www.primevideo.com/", "note": "Video base + canales add-on (se agregan Max, Paramount+, etc. dentro de Prime)", "cc": "us"},
- {"id": "ott-paramount", "name": "Paramount+", "group": "OTT", "region": "Nacional", "color": "#2563eb", "abbr": "P+", "url": "", "web": "https://www.paramountplus.com/", "note": "Star Trek, CBS, MTV, Nickelodeon · Estándar/Premium (2026)", "cc": "us"}
+,
+ {"id": "ott-pluto", "name": "Pluto TV", "group": "OTT", "region": "Nacional", "color": "#f59e0b", "abbr": "PLT", "url": "", "web": "https://pluto.tv/", "note": "GRATIS (FAST, con anuncios) · sus canales en español ya están en esta app", "cc": "us"},
+ {"id": "ott-vix", "name": "Vix — tier gratis", "group": "OTT", "region": "Nacional", "color": "#db2777", "abbr": "VIX", "url": "", "web": "https://www.vix.com/", "note": "GRATIS con anuncios (telenovelas/noticias); el Premium es de pago", "cc": "us"},
+ {"id": "ott-tubi", "name": "Tubi", "group": "OTT", "region": "Nacional", "color": "#16a34a", "abbr": "TUB", "url": "", "web": "https://www.tubi.tv/", "note": "GRATIS (FAST, con anuncios) · pelis/series/canales en vivo", "cc": "us"},
+ {"id": "ott-samsung", "name": "Samsung TV Plus", "group": "OTT", "region": "Nacional", "color": "#2563eb", "abbr": "S+", "url": "", "web": "https://samsungtvplus.com/", "note": "GRATIS en Smart TV Samsung (FAST) · también app/web", "cc": "kr"},
+ {"id": "ott-lg", "name": "LG Channels", "group": "OTT", "region": "Nacional", "color": "#db2777", "abbr": "LG", "url": "", "web": "https://lgchannels.com/", "note": "GRATIS en Smart TV LG (FAST) · también app/web", "cc": "kr"},
+ {"id": "ott-plex", "name": "Plex (TV gratis)", "group": "OTT", "region": "Nacional", "color": "#ea580c", "abbr": "PLX", "url": "", "web": "https://www.plex.tv/", "note": "GRATIS con anuncios: TV en vivo + pelis/series (cuenta gratis)", "cc": "us"},
+ {"id": "ott-yt", "name": "YouTube — en vivo", "group": "OTT", "region": "Nacional", "color": "#dc2626", "abbr": "YT", "url": "", "web": "https://www.youtube.com/live", "note": "GRATIS · transmisiones 24/7 oficiales (noticias, eventos, radios)", "cc": "us"},
+ {"id": "ott-rtveplay", "name": "RTVE Play", "group": "OTT", "region": "Nacional", "color": "#0891b2", "abbr": "RTVE", "url": "", "web": "https://www.rtve.es/play/", "note": "GRATIS (con registro) · TVE, La 2, Clan, 24h, Radio 3…", "cc": "es"},
+ {"id": "ott-twitch", "name": "Twitch", "group": "OTT", "region": "Nacional", "color": "#9333ea", "abbr": "TW", "url": "", "web": "https://www.twitch.tv/", "note": "GRATIS (con anuncios) · creadores, esports, noticias en vivo", "cc": "us"},
+ {"id": "ott-dailymotion", "name": "Dailymotion", "group": "OTT", "region": "Nacional", "color": "#0b63f6", "abbr": "DM", "url": "", "web": "https://www.dailymotion.com/", "note": "GRATIS · videos y canales en vivo", "cc": "fr"},
+ {"id": "clan-rtve", "name": "Clan RTVE", "group": "Infantil", "region": "Nacional", "color": "#f59e0b", "abbr": "CLAN", "url": "https://rtvelivestream.rtve.es/rtvesec/clan/clan_main.m3u8", "web": "https://www.rtve.es/play/videos/clan/", "note": "GRATIS oficial RTVE · infantil 24/7 (verificado 200 OK 01-nov-2026)", "cc": "es", "chno": 3111},
+ {"id": "la2-rtve", "name": "La 2 de TVE", "group": "Cultura", "region": "Nacional", "color": "#0891b2", "abbr": "LA2", "url": "https://rtvelivestream.rtve.es/rtvesec/la2/la2_main.m3u8", "web": "https://www.rtve.es/play/videos/la-2/", "note": "GRATIS oficial RTVE · cultura/documentales (verificado 200 OK 01-nov-2026)", "cc": "es", "chno": 3112}
 ];
 window.SPORTS = [
  {
