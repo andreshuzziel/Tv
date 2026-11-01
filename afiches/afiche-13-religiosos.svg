@@ -63,8 +63,8 @@
 <rect width="1460" height="1428" fill="#0b1220"/>
 <rect x="0" y="0" width="1460" height="168" fill="#111a2e"/>
 <rect x="0" y="164" width="1460" height="4" fill="#16a34a"/>
-<text x="20" y="46" font-size="34" font-weight="700" fill="#f8fafc">⛪ Religiosos — canales solo web</text>
-<text x="20" y="76" font-size="15" fill="#94a3b8">200 filas · TV Chile v3.112 · 01-nov-2026</text>
+<text x="20" y="46" font-size="34" font-weight="700" fill="#f8fafc">⛪ Religiosos — canales #416–#1341</text>
+<text x="20" y="76" font-size="15" fill="#94a3b8">200 filas · ordenados por # ascendente · TV Chile v3.103 · 01-nov-2026</text>
 <text x="20" y="102" font-size="13" fill="#64748b">Cada celda:  #número  🚩 bandera real + emote 🏳️ del país de origen (flagcdn, ISO 3166-1)  Nombre   ·   tooltip: país + temática</text>
 <text x="20" y="126" font-size="13" fill="#64748b">Orden: POR TEMÁTICA (igual que la app: nacional, noticias, regiones, deportes, …) y dentro de cada tema # cronológico ascendente · deportes con alternativas legales ✔ · OTT gratis cerca del final</text>
 <text x="20" y="148" font-size="13" fill="#64748b">Generado 01-nov-2026 · v3.102 · ordenado por temática + # ascendente · sanitizado (https, sin TV de pago/piratería)</text>

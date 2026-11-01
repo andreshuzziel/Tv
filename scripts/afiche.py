@@ -145,7 +145,7 @@ def svg_doc(title, subtitle, items, fname):
     return W, H
 
 n = len(rows)
-w, h = svg_doc('📺 TV CHILE — AFICHE DE TODOS LOS CANALES', f'{n} canales numerados · Chile primero (Biobío destacado) · español Latam/ES · 01-nov-2026 · v3.112', rows, 'AFICHE-CANALES.svg')
+w, h = svg_doc('📺 TV CHILE — AFICHE DE TODOS LOS CANALES', f'{n} canales numerados · Chile primero (Biobío destacado) · español Latam/ES · 01-nov-2026 · v3.103', rows, 'AFICHE-CANALES.svg')
 print(f'AFICHE-CANALES.svg: {w}x{h}, {n} canales, {os.path.getsize("AFICHE-CANALES.svg")/1024:.0f} KB')
 
 os.makedirs('afiches', exist_ok=True)
@@ -154,9 +154,16 @@ k = 0
 for s, grp in blocks_of(rows):
     k += 1
     slug = re.sub(r'[^a-z0-9]+', '-', s[2].lower())[:24].strip('-')
-    rng = f'{s[0]}–{s[1]}' if s[0] else 'solo web'
-    svg_doc(f'{s[2]} — canales {rng}', f'{len(grp)} filas · TV Chile v3.112 · 01-nov-2026', grp, f'afiches/afiche-{k:02d}-{slug}.svg')
-print('afiches por sección:', k)
+    nums = [r['chno'] for r in grp if r.get('chno')]
+    rng = f'#{min(nums)}–#{max(nums)}' if nums else 'solo web'
+    svg_path = f'afiches/afiche-{k:02d}-{slug}.svg'
+    svg_doc(f'{s[2]} — canales {rng}', f'{len(grp)} filas · ordenados por # ascendente · TV Chile v3.103 · 01-nov-2026', grp, svg_path)
+    try:
+        import cairosvg
+        cairosvg.svg2png(url=svg_path, write_to=f'afiches/afiche-{k:02d}-{slug}.png', output_width=W)
+    except Exception as e:
+        print('PNG de sección omitido:', repr(e))
+print('afiches por sección (SVG+PNG):', k)
 
 try:
     from PIL import Image, ImageDraw, ImageFont
@@ -173,7 +180,7 @@ try:
     img = Image.new('RGB', (w, h), '#0b1220'); d = ImageDraw.Draw(img)
     d.rectangle([0, 0, w, 160], fill='#111a2e'); d.rectangle([0, 156, w, 160], fill='#16a34a')
     d.text((M, 18), 'TV CHILE — AFICHE DE TODOS LOS CANALES', font=f_head, fill='#f8fafc')
-    d.text((M, 62), f'{n} canales numerados · Chile primero · v3.112 · 01-nov-2026 · celda: #núm [BANDERA] Nombre · deportes con alternativas legales ✔', font=f_sub, fill='#94a3b8')
+    d.text((M, 62), f'{n} canales numerados · Chile primero · v3.103 · 01-nov-2026 · celda: #núm [BANDERA] Nombre · deportes con alternativas legales ✔', font=f_sub, fill='#94a3b8')
     y = 168
     for s, grp in blocks_of(rows):
         color = s[3]; rgb = tuple(int(color[j:j+2], 16) for j in (1, 3, 5))
