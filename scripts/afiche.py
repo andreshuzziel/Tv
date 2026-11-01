@@ -83,12 +83,26 @@ DEFS = '\n'.join(DEFS)
 def svg_doc(title, subtitle, items, fname):
     blocks = blocks_of(items)
     head_h, sec_h = 168, 30
-    h = head_h
-    for s, grp in blocks:
+    try:
+        REGIONS_META = json.load(open('/tmp/regions.json'))
+    except Exception:
+        REGIONS_META = []
+    reg_order = ['Biobío'] + [r['k'] for r in REGIONS_META if r['k'] != 'Biobío']
+    def is_regiones(s): return s[2].startswith('📍')
+    def segments(s, grp):
+        if not is_regiones(s): return [('all', grp)]
+        by = {}
+        for r in grp: by.setdefault(r.get('reg') or r.get('group') or '—', []).append(r)
+        keys = [k for k in reg_order if k in by] + sorted(k for k in by if k not in reg_order)
+        return [(k, by[k]) for k in keys]
+    def layout(s, grp):
         big = (s is DEPORTES); cols = COLS_BIG if big else 4
         ch, pitch = (CH_BIG, PITCH_BIG) if big else (CH, PITCH)
-        h += 16 + sec_h + 4 + (24 if big else 0) + ((len(grp) + cols - 1) // cols) * pitch + 6
-    h += M; H = int(h)
+        segs = segments(s, grp)
+        content = sum(((24 if (is_regiones(s) and k != 'all') else 0) + ((len(sg) + cols - 1) // cols) * pitch + 4) for k, sg in segs)
+        bh = sec_h + 4 + (24 if big else 0) + content + 6
+        return big, cols, ch, pitch, segs, bh, 16 + bh + 16
+    H = int(head_h + sum(layout(s, grp)[6] for s, grp in blocks) + M)
     o = [f'<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="{W}" height="{H}" viewBox="0 0 {W} {H}" font-family="Segoe UI, Arial, Helvetica, sans-serif">',
          DEFS,
          f'<rect width="{W}" height="{H}" fill="#0b1220"/>',
@@ -97,16 +111,14 @@ def svg_doc(title, subtitle, items, fname):
          f'<text x="{M}" y="46" font-size="34" font-weight="700" fill="#f8fafc">{esc(title)}</text>',
          f'<text x="{M}" y="76" font-size="15" fill="#94a3b8">{esc(subtitle)}</text>',
          f'<text x="{M}" y="102" font-size="13" fill="#64748b">Cada celda:  #número  🚩 bandera real + emote 🏳️ del país de origen (flagcdn, ISO 3166-1)  Nombre   ·   tooltip: país + temática</text>',
-         f'<text x="{M}" y="126" font-size="13" fill="#64748b">Orden: POR TEMÁTICA (igual que la app: nacional, noticias, regiones, deportes, …) y dentro de cada tema # cronológico ascendente · CADA TEMA EN SU PROPIO PANEL · deportes con ✔ legales · OTT cerca del final</text>',
-         f'<text x="{M}" y="148" font-size="13" fill="#64748b">Generado 01-nov-2026 · v3.102 · ordenado por temática + # ascendente · sanitizado (https, sin TV de pago/piratería)</text>']
+         f'<text x="{M}" y="126" font-size="13" fill="#64748b">Orden: POR TEMÁTICA (igual que la app) y dentro de cada tema # cronológico ascendente · CADA TEMA EN SU PROPIO PANEL · el panel 📍 Regiones va subdividido POR REGIÓN (Biobío primero, luego norte→sur) · deportes con ✔ legales</text>',
+         f'<text x="{M}" y="148" font-size="13" fill="#64748b">Generado 01-nov-2026 · v3.103 · ordenado por temática + # ascendente · sanitizado (https, sin TV de pago/piratería)</text>']
     y = head_h
     for s, grp in blocks:
         label, color = s[2], s[3]
-        big = (s is DEPORTES); cols = COLS_BIG if big else 4
+        big, cols, ch, pitch, segs, bh, _tot = layout(s, grp)
         colw = (W - 2 * M - (cols - 1) * GAP) / cols
-        ch, pitch = (CH_BIG, PITCH_BIG) if big else (CH, PITCH)
         maxch = int((colw - 92) / 6.55)
-        bh = sec_h + 4 + (24 if big else 0) + ((len(grp) + cols - 1) // cols) * pitch + 6
         o.append(f'<rect x="{M-9}" y="{y-9}" width="{W-2*M+18}" height="{bh+12}" rx="12" fill="#0d1526" stroke="{color}" stroke-opacity="0.45" stroke-width="1.5"/>')
         if s[0] is not None:
             rng = f'{s[0]}–{s[1]}'
@@ -121,25 +133,34 @@ def svg_doc(title, subtitle, items, fname):
             o.append(f'<rect x="{M}" y="{y}" width="{W-2*M}" height="20" rx="4" fill="#14532d"/>')
             o.append(f'<text x="{M+10}" y="{y+14}" font-size="12" fill="#86efac">⚽ Canales de deportes en vivo (legales, sanitizados) — abajo, alternativas oficiales ✔ (sin piratería de TV de pago)</text>')
             y += 24
-        for idx, r in enumerate(grp):
-            cx = M + (idx % cols) * (colw + GAP); cy = y + (idx // cols) * pitch
-            alt = r.get('alt')
-            fill = '#14532d' if alt else ('#121b30' if (idx // cols) % 2 == 0 else '#0f172a')
-            o.append(f'<rect x="{cx}" y="{cy}" width="{colw}" height="{ch}" rx="5" fill="{fill}"/>')
-            num = f'#{r["chno"]}' if r['chno'] else ('✔' if alt else 'web')
-            cc = r['cc']; ck = ckey(cc); fl = flag_emoji(cc) if not alt else ('🏟️' if not cc else flag_emoji(cc))
-            tip = r.get('tip') or f'{num} · {fl} {cc} — {r["name"]} ({r["group"]})'
-            o.append(f'<title>{esc(tip)}</title>')
-            ncol = '#4ade80' if alt else color
-            o.append(f'<text x="{cx+7}" y="{cy+ (20 if big else 16)}" font-size="{13 if big else 12.5}" font-weight="700" fill="{ncol}" font-family="Consolas, Menlo, monospace">{esc(num)}</text>')
-            if ck in FLAGS:
-                o.append(f'<use href="#flag-{ck}" xlink:href="#flag-{ck}" x="{cx+ (44 if not alt else 30)}" y="{cy + (9 if big else 5)}"/>')
-                fx = cx + (44 if not alt else 30) + 20
-            else:
-                fx = cx + (44 if not alt else 30)
-            o.append(f'<text x="{fx}" y="{cy + (20 if big else 16)}" font-size="{10.5 if big else 10}" opacity="0.95">{fl}</text>')  # EMOTE de bandera
-            o.append(f'<text x="{fx+14}" y="{cy + (20 if big else 16)}" font-size="{13 if big else 12}" fill="#e2e8f0">{esc(trunc(r["name"], maxch))}</text>')
-        y += ((len(grp) + cols - 1) // cols) * pitch + 6 + 16
+        for k, sg in segs:
+            if is_regiones(s) and k != 'all':
+                nums = [r['chno'] for r in sg if r.get('chno')]
+                srng = f' · #{min(nums)}–#{max(nums)}' if nums else ''
+                cap = next((r['cap'] for r in REGIONS_META if r['k'] == k), '')
+                o.append(f'<rect x="{M}" y="{y}" width="{W-2*M}" height="20" rx="4" fill="{color}" fill-opacity="0.22" stroke="{color}" stroke-opacity="0.6"/>')
+                o.append(f'<text x="{M+10}" y="{y+14}" font-size="12" font-weight="600" fill="#e2e8f0">📍 {esc(k)}{f" ({esc(cap)})" if cap else ""} · {len(sg)} canales{srng}</text>')
+                y += 24
+            for idx, r in enumerate(sg):
+                cx = M + (idx % cols) * (colw + GAP); cy = y + (idx // cols) * pitch
+                alt = r.get('alt')
+                fill = '#14532d' if alt else ('#121b30' if (idx // cols) % 2 == 0 else '#0f172a')
+                o.append(f'<rect x="{cx}" y="{cy}" width="{colw}" height="{ch}" rx="5" fill="{fill}"/>')
+                num = f'#{r["chno"]}' if r['chno'] else ('✔' if alt else 'web')
+                cc = r['cc']; ck = ckey(cc); fl = flag_emoji(cc) if not alt else ('🏟️' if not cc else flag_emoji(cc))
+                tip = r.get('tip') or f'{num} · {fl} {cc} — {r["name"]} ({r["group"]})'
+                o.append(f'<title>{esc(tip)}</title>')
+                ncol = '#4ade80' if alt else color
+                o.append(f'<text x="{cx+7}" y="{cy+ (20 if big else 16)}" font-size="{13 if big else 12.5}" font-weight="700" fill="{ncol}" font-family="Consolas, Menlo, monospace">{esc(num)}</text>')
+                if ck in FLAGS:
+                    o.append(f'<use href="#flag-{ck}" xlink:href="#flag-{ck}" x="{cx+ (44 if not alt else 30)}" y="{cy + (9 if big else 5)}"/>')
+                    fx = cx + (44 if not alt else 30) + 20
+                else:
+                    fx = cx + (44 if not alt else 30)
+                o.append(f'<text x="{fx}" y="{cy + (20 if big else 16)}" font-size="{10.5 if big else 10}" opacity="0.95">{fl}</text>')
+                o.append(f'<text x="{fx+14}" y="{cy + (20 if big else 16)}" font-size="{13 if big else 12}" fill="#e2e8f0">{esc(trunc(r["name"], maxch))}</text>')
+            y += ((len(sg) + cols - 1) // cols) * pitch + 4
+        y += 6 + 16
     o.append('</svg>')
     open(fname, 'w', encoding='utf-8').write('\n'.join(o))
     return W, H

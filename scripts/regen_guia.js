@@ -52,9 +52,10 @@ rows.sort((a, b) => (a.tord - b.tord) || ((a.chno || 1e9) - (b.chno || 1e9)) || 
 
 // ---------- /tmp para afiche.py ----------
 fs.writeFileSync('/tmp/themes.json', JSON.stringify(ALL_SECS.map(s => ({ tord: s.tord, label: s.label, color: s.color, big: !!s.big }))));
+fs.writeFileSync('/tmp/regions.json', JSON.stringify(REGIONS.map(r => ({ k: r.k, cap: r.cap }))));
 fs.writeFileSync('/tmp/poster.json', JSON.stringify(rows.map(r => ({
   chno: r.chno, id: r.c.id, flag: r.flag, cc: r.cc, name: r.name, group: r.group,
-  url: r.url, tord: r.tord,
+  url: r.url, tord: r.tord, reg: r.reg || '',
 }))));
 fs.writeFileSync('/tmp/sports.json', JSON.stringify(sports));
 
