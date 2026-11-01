@@ -1444,34 +1444,6 @@ Cada canal lleva su número en `tvg-chno` dentro de `playlists/tv-chile-todo.m3u
 | 1421 | 🇿🇦 | WildEarth | Documentales | ZA |
 | 1422 | 🇵🇾 | Cosmos TV | Ciencia | PY |
 | 1423 | 🇻🇪 | EXC TV | Ciencia | VE |
-| 1424 | 🇺🇸 | ATL 26 | Legislativo | US |
-| 1425 | 🇲🇽 | Canal del Congreso 45.1 | Legislativo | MX |
-| 1426 | 🇪🇸 | Canal Parlamento | Legislativo | ES |
-| 1427 | 🇲🇽 | Canal Parlamento del Congreso de Jalisco | Legislativo | MX |
-| 1428 | 🇺🇸 | City TV Channel 3/41 | Legislativo | US |
-| 1429 | 🇪🇸 | Congreso de los Diputados 1 | Legislativo | ES |
-| 1430 | 🇪🇸 | Congreso de los Diputados 2 | Legislativo | ES |
-| 1431 | 🇪🇸 | Congreso de los Diputados 3 | Legislativo | ES |
-| 1432 | 🇪🇸 | Congreso de los Diputados 4 | Legislativo | ES |
-| 1433 | 🇪🇸 | Congreso de los Diputados 5 | Legislativo | ES |
-| 1434 | 🇪🇸 | Corts Valencianes | Legislativo | ES |
-| 1435 | 🇺🇸 | Cruz TV | Legislativo | US |
-| 1436 | 🇧🇪 | EbS | Legislativo | BE |
-| 1437 | 🇧🇪 | EbS+ | Legislativo | BE |  ⚠️ *(baja: duplicado — usar el canal principal)*
-| 1438 | 🇲🇽 | Icrtv Colima | Legislativo | MX |
-| 1439 | 🇵🇪 | JNE TV | Legislativo | PE |
-| 1440 | 🇲🇽 | Justicia TV (Mexico) | Legislativo | MX |
-| 1441 | 🇺🇸 | LA CityView 35 | Legislativo | US |
-| 1442 | 🇸🇻 | Legislative Assembly of El Salvador | Legislativo | SV |
-| 1443 | 🇪🇸 | Parlamento de Navarra | Legislativo | ES |
-| 1444 | 🇺🇸 | PHXTV | Legislativo | US |
-| 1445 | 🇺🇸 | The City of Marina | Legislativo | US |
-| 1446 | 🇺🇸 | The Peninsula Channel | Legislativo | US |
-| 1447 | 🇪🇨 | TV Legislativa | Legislativo | EC |
-| 1448 | 🇺🇸 | YouDotGov | Legislativo | US |
-| 1449 | 🇺🇸 | Yuma Channel 72 | Legislativo | US |
-| 1450 | 🇺🇸 | Yuma Channel 73 | Legislativo | US |
-| 1451 | 🇺🇸 | Yuma77 | Legislativo | US |
 | 1452 | 🇨🇷 | ¡OPA! | Entretenimiento | CR |
 | 1453 | 🇻🇪 | AbejalesTV | Entretenimiento | VE |
 | 1454 | 🇻🇪 | Aguacate TV | Entretenimiento | VE |
@@ -3160,3 +3132,6 @@ No son canales con stream: al abrirlos vas al sitio oficial (gratis con anuncios
 | ott | Dailymotion | 🇫🇷 | dailymotion.com |
 
 *Los OTT de pago (Max/HBO, TNT Sports, Disney+, Prime, Paramount+) NO están implementados como canales; van por suscripción oficial (ver sección ✔ legales para deportes).*
+
+
+> 🧹 Limpieza 01-nov-2026: la temática 🏛️ Gobierno es **solo de Chile** — se eliminaron del catálogo los 28 canales legislativos extranjeros (Congreso de España, canales ciudad USA, etc.); quedan TV Senado #51, Cámara de Diputados #438 y Gobierno de Chile #555.

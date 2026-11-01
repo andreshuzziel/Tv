@@ -8723,19 +8723,7 @@ window.CHANNELS = [
   "cc": "do",
   "chno": 1740
  },
- {
-  "id": "atl26-us-sd",
-  "name": "ATL 26",
-  "group": "Legislativo",
-  "region": "Español (Latam/ES)",
-  "color": "hsl(211,58%,42%)",
-  "abbr": "A2",
-  "url": "https://securestream11.champds.com/LIVE/AtlantaGALIVE/AtlantaGALIVE.m3u8",
-  "web": "",
-  "note": "vía iptv-org · lista spa (sanitizada)",
-  "cc": "us",
-  "chno": 1424
- },
+
  {
   "id": "atlantisradiotv-pe-sd",
   "name": "Atlantis Radio TV",
@@ -11115,19 +11103,7 @@ window.CHANNELS = [
   "cc": "us",
   "chno": 1181
  },
- {
-  "id": "canaldelcongreso451-mx-sd",
-  "name": "Canal del Congreso 45.1",
-  "group": "Legislativo",
-  "region": "Español (Latam/ES)",
-  "color": "hsl(206,58%,42%)",
-  "abbr": "CDC",
-  "url": "https://ccstreaming.packet.mx/WebRTCAppEE/streams/45.1_kd5oiNTTWO0gEOFc431277834.m3u8",
-  "web": "",
-  "note": "vía iptv-org · lista spa (sanitizada)",
-  "cc": "mx",
-  "chno": 1425
- },
+
  {
   "id": "canaldelsol-do-sd",
   "name": "Canal del Sol",
@@ -11414,32 +11390,8 @@ window.CHANNELS = [
   "cc": "ar",
   "chno": 1187
  },
- {
-  "id": "canalparlamento-es-sd",
-  "name": "Canal Parlamento",
-  "group": "Legislativo",
-  "region": "Español (Latam/ES)",
-  "color": "hsl(264,58%,42%)",
-  "abbr": "CP",
-  "url": "https://congresodirecto.akamaized.net/hls/live/2037973/canalparlamento/master.m3u8",
-  "web": "",
-  "note": " not 24/7 · 360p · vía iptv-org · lista spa (sanitizada)",
-  "cc": "es",
-  "chno": 1426
- },
- {
-  "id": "canalparlamentodelcongresodejalisco-mx-s",
-  "name": "Canal Parlamento del Congreso de Jalisco",
-  "group": "Legislativo",
-  "region": "Español (Latam/ES)",
-  "color": "hsl(163,58%,42%)",
-  "abbr": "CPD",
-  "url": "https://60417ddeaf0d9.streamlock.net/srtc/smil:srtc.smil/playlist.m3u8",
-  "web": "",
-  "note": " not 24/7 · 720p · vía iptv-org · lista spa (sanitizada)",
-  "cc": "mx",
-  "chno": 1427
- },
+
+
  {
   "id": "canalpeniel-gt-sd",
   "name": "Canal Peniel",
@@ -12311,19 +12263,7 @@ window.CHANNELS = [
   "cc": "do",
   "chno": 716
  },
- {
-  "id": "citytvchannel341-us-sd",
-  "name": "City TV Channel 3/41",
-  "group": "Legislativo",
-  "region": "Español (Latam/ES)",
-  "color": "hsl(71,58%,42%)",
-  "abbr": "CTC",
-  "url": "https://edge-f.swagit.com/live/chinohillsca/live-1-a/playlist.m3u8",
-  "web": "",
-  "note": "360p · vía iptv-org · lista spa (sanitizada)",
-  "cc": "us",
-  "chno": 1428
- },
+
  {
   "id": "ciudadmagica-ar-sd",
   "name": "Ciudad Magica",
@@ -12727,71 +12667,11 @@ window.CHANNELS = [
   "cc": "cr",
   "chno": 1204
  },
- {
-  "id": "congresodelosdiputados1-es-sd",
-  "name": "Congreso de los Diputados 1",
-  "group": "Legislativo",
-  "region": "Español (Latam/ES)",
-  "color": "hsl(175,58%,42%)",
-  "abbr": "CDL",
-  "url": "https://congresodirecto.akamaized.net/hls/live/2038274/canal1/master.m3u8",
-  "web": "",
-  "note": " not 24/7 · 360p · vía iptv-org · lista spa (sanitizada)",
-  "cc": "es",
-  "chno": 1429
- },
- {
-  "id": "congresodelosdiputados2-es-sd",
-  "name": "Congreso de los Diputados 2",
-  "group": "Legislativo",
-  "region": "Español (Latam/ES)",
-  "color": "hsl(176,58%,42%)",
-  "abbr": "CDL",
-  "url": "https://congresodirecto.akamaized.net/hls/live/2038275/canal2/master.m3u8",
-  "web": "",
-  "note": " not 24/7 · 360p · vía iptv-org · lista spa (sanitizada)",
-  "cc": "es",
-  "chno": 1430
- },
- {
-  "id": "congresodelosdiputados3-es-sd",
-  "name": "Congreso de los Diputados 3",
-  "group": "Legislativo",
-  "region": "Español (Latam/ES)",
-  "color": "hsl(177,58%,42%)",
-  "abbr": "CDL",
-  "url": "https://congresodirecto.akamaized.net/hls/live/2038276/canal3/master.m3u8",
-  "web": "",
-  "note": " not 24/7 · 360p · vía iptv-org · lista spa (sanitizada)",
-  "cc": "es",
-  "chno": 1431
- },
- {
-  "id": "congresodelosdiputados4-es-sd",
-  "name": "Congreso de los Diputados 4",
-  "group": "Legislativo",
-  "region": "Español (Latam/ES)",
-  "color": "hsl(178,58%,42%)",
-  "abbr": "CDL",
-  "url": "https://congresodirecto.akamaized.net/hls/live/2038277/canal4/master.m3u8",
-  "web": "",
-  "note": " not 24/7 · 360p · vía iptv-org · lista spa (sanitizada)",
-  "cc": "es",
-  "chno": 1432
- },
- {
-  "id": "congresodelosdiputados5-es-sd",
-  "name": "Congreso de los Diputados 5",
-  "group": "Legislativo",
-  "region": "Español (Latam/ES)",
-  "color": "hsl(179,58%,42%)",
-  "abbr": "CDL",
-  "url": "https://congresodirecto.akamaized.net/hls/live/2038278/canal5/master.m3u8",
-  "web": "",
-  "note": " not 24/7 · 360p · vía iptv-org · lista spa (sanitizada)",
-  "cc": "es",
-  "chno": 1433
- },
+
+
+
+
+
  {
   "id": "constanzatv-do-sd",
   "name": "ConstanzaTV",
@@ -12883,19 +12763,7 @@ window.CHANNELS = [
   "cc": "ar",
   "chno": 2061
  },
- {
-  "id": "cortsvalencianes-es-sd",
-  "name": "Corts Valencianes",
-  "group": "Legislativo",
-  "region": "Español (Latam/ES)",
-  "color": "hsl(304,58%,42%)",
-  "abbr": "CV",
-  "url": "https://streamserver3.seneca.tv/cval_live/cdn_enc_3/master.m3u8",
-  "web": "",
-  "note": " not 24/7 · 480p · vía iptv-org · lista spa (sanitizada)",
-  "cc": "es",
-  "chno": 1434
- },
+
  {
   "id": "cosmostv-py-sd",
   "name": "Cosmos TV",
@@ -13065,19 +12933,7 @@ window.CHANNELS = [
   "cc": "co",
   "chno": 1207
  },
- {
-  "id": "cruztv-us-sd",
-  "name": "Cruz TV",
-  "group": "Legislativo",
-  "region": "Español (Latam/ES)",
-  "color": "hsl(22,58%,42%)",
-  "abbr": "CT",
-  "url": "https://reflect-communitytv.cablecast.tv/live-4/live/stream-2/live.m3u8",
-  "web": "",
-  "note": "vía iptv-org · lista spa (sanitizada)",
-  "cc": "us",
-  "chno": 1435
- },
+
  {
   "id": "csienespanol-us-sd",
   "name": "CSI en espanol",
@@ -13637,32 +13493,8 @@ window.CHANNELS = [
   "cc": "pr",
   "chno": 1213
  },
- {
-  "id": "ebs-be-sd",
-  "name": "EbS",
-  "group": "Legislativo",
-  "region": "Español (Latam/ES)",
-  "color": "hsl(310,58%,42%)",
-  "abbr": "E",
-  "url": "https://streams.prd.commavservices.eu/live/ebs/index.m3u8",
-  "web": "",
-  "note": "1080p · vía iptv-org · lista spa (sanitizada)",
-  "cc": "be",
-  "chno": 1436
- },
- {
-  "id": "ebsplus-be-sd",
-  "name": "EbS+",
-  "group": "Legislativo",
-  "region": "Español (Latam/ES)",
-  "color": "hsl(293,58%,42%)",
-  "abbr": "E",
-  "url": "",
-  "web": "",
-  "note": "1080p · vía iptv-org · lista spa (sanitizada) · ⚠️ duplicado desactivado (mejor señal: #1436)",
-  "cc": "be",
-  "chno": 1437
- },
+
+
  {
   "id": "eclipsetv-mx-sd",
   "name": "Eclipse TV",
@@ -15496,19 +15328,7 @@ window.CHANNELS = [
   "cc": "hn",
   "chno": 740
  },
- {
-  "id": "icrtvcolima-mx-sd",
-  "name": "Icrtv Colima",
-  "group": "Legislativo",
-  "region": "Español (Latam/ES)",
-  "color": "hsl(99,58%,42%)",
-  "abbr": "IC",
-  "url": "https://5fc584f3f19c9.streamlock.net/icrtvcolima/smil:icrtvcolima.smil/playlist.m3u8",
-  "web": "",
-  "note": "1080p · vía iptv-org · lista spa (sanitizada)",
-  "cc": "mx",
-  "chno": 1438
- },
+
  {
   "id": "ieanjesusecuador-ec-sd",
   "name": "IeanJesus Ecuador",
@@ -15990,19 +15810,7 @@ window.CHANNELS = [
   "cc": "do",
   "chno": 2269
  },
- {
-  "id": "jnetv-pe-sd",
-  "name": "JNE TV",
-  "group": "Legislativo",
-  "region": "Español (Latam/ES)",
-  "color": "hsl(33,58%,42%)",
-  "abbr": "JT",
-  "url": "https://lbgo.bozztv.com/ssh101/ssh101/jnetv/playlist.m3u8",
-  "web": "",
-  "note": "720p · vía iptv-org · lista spa (sanitizada)",
-  "cc": "pe",
-  "chno": 1439
- },
+
  {
   "id": "josuetv-sv-sd",
   "name": "Josue TV",
@@ -16042,19 +15850,7 @@ window.CHANNELS = [
   "cc": "do",
   "chno": 2271
  },
- {
-  "id": "justiciatv-mx-sd",
-  "name": "Justicia TV (Mexico)",
-  "group": "Legislativo",
-  "region": "Español (Latam/ES)",
-  "color": "hsl(256,58%,42%)",
-  "abbr": "JTM",
-  "url": "https://live-scjn.ovp-vivaro.digital/ovp-origin/638a22b47746d/playlist.m3u8",
-  "web": "",
-  "note": "720p · vía iptv-org · lista spa (sanitizada)",
-  "cc": "mx",
-  "chno": 1440
- },
+
  {
   "id": "kalutv-co-sd",
   "name": "Kalu TV",
@@ -16328,19 +16124,7 @@ window.CHANNELS = [
   "cc": "do",
   "chno": 2298
  },
- {
-  "id": "lacityview35-us-sd",
-  "name": "LA CityView 35",
-  "group": "Legislativo",
-  "region": "Español (Latam/ES)",
-  "color": "hsl(199,58%,42%)",
-  "abbr": "LC3",
-  "url": "https://reflect-losangeles.cablecast.tv/live-3/live/live.m3u8",
-  "web": "",
-  "note": "1080p · vía iptv-org · lista spa (sanitizada)",
-  "cc": "us",
-  "chno": 1441
- },
+
  {
   "id": "ladescargatv-do-hd",
   "name": "La Descarga TV",
@@ -16822,19 +16606,7 @@ window.CHANNELS = [
   "cc": "cd",
   "chno": 742
  },
- {
-  "id": "legislativeassemblyofelsalvador-sv-sd",
-  "name": "Legislative Assembly of El Salvador",
-  "group": "Legislativo",
-  "region": "Español (Latam/ES)",
-  "color": "hsl(353,58%,42%)",
-  "abbr": "LAO",
-  "url": "https://streaming.asamblea.gob.sv/hls/plenariahd.m3u8",
-  "web": "",
-  "note": " not 24/7 · 1080p · vía iptv-org · lista spa (sanitizada)",
-  "cc": "sv",
-  "chno": 1442
- },
+
  {
   "id": "lenatv-do-sd",
   "name": "Lena TV",
@@ -23829,123 +23601,15 @@ window.CHANNELS = [
   "cc": "us",
   "chno": 912
  },
- {
-  "id": "parlamentodenavarra-es-sd",
-  "name": "Parlamento de Navarra",
-  "group": "Legislativo",
-  "region": "Español (Latam/ES)",
-  "color": "hsl(193,58%,42%)",
-  "abbr": "PDN",
-  "url": "https://broadcasting.parlamentodenavarra.es/live/canal1/master.m3u8",
-  "web": "",
-  "note": "vía iptv-org · spa (sanitizada)",
-  "cc": "es",
-  "chno": 1443
- },
- {
-  "id": "phxtv-us-sd",
-  "name": "PHXTV",
-  "group": "Legislativo",
-  "region": "Español (Latam/ES)",
-  "color": "hsl(170,58%,42%)",
-  "abbr": "P",
-  "url": "https://cdn3.wowza.com/5/bGZUOHp2TnhudnM2/phoenix/G1498_006/playlist.m3u8",
-  "web": "",
-  "note": "vía iptv-org · spa (sanitizada)",
-  "cc": "us",
-  "chno": 1444
- },
- {
-  "id": "thecityofmarina-us-sd",
-  "name": "The City of Marina",
-  "group": "Legislativo",
-  "region": "Español (Latam/ES)",
-  "color": "hsl(17,58%,42%)",
-  "abbr": "TCO",
-  "url": "https://dlttx48mxf9m3.cloudfront.net/vod_clients/amp/live/ch4/video.m3u8",
-  "web": "",
-  "note": "vía iptv-org · spa (sanitizada)",
-  "cc": "us",
-  "chno": 1445
- },
- {
-  "id": "thepeninsulachannel-us-sd",
-  "name": "The Peninsula Channel",
-  "group": "Legislativo",
-  "region": "Español (Latam/ES)",
-  "color": "hsl(73,58%,42%)",
-  "abbr": "TPC",
-  "url": "https://dlttx48mxf9m3.cloudfront.net/vod_clients/amp/live/ch5/video.m3u8",
-  "web": "",
-  "note": "vía iptv-org · spa (sanitizada)",
-  "cc": "us",
-  "chno": 1446
- },
- {
-  "id": "tvlegislativa-ec-sd",
-  "name": "TV Legislativa",
-  "group": "Legislativo",
-  "region": "Español (Latam/ES)",
-  "color": "hsl(263,58%,42%)",
-  "abbr": "TL",
-  "url": "https://streamingav.asambleanacional.gob.ec/hls/stream.m3u8",
-  "web": "",
-  "note": "vía iptv-org · spa (sanitizada)",
-  "cc": "ec",
-  "chno": 1447
- },
- {
-  "id": "youdotgov-us-sd",
-  "name": "YouDotGov",
-  "group": "Legislativo",
-  "region": "Español (Latam/ES)",
-  "color": "hsl(12,58%,42%)",
-  "abbr": "Y",
-  "url": "https://reflect-communitytv.cablecast.tv/live-3/live/stream-1/live.m3u8",
-  "web": "",
-  "note": "vía iptv-org · spa (sanitizada)",
-  "cc": "us",
-  "chno": 1448
- },
- {
-  "id": "yuma77-us-sd",
-  "name": "Yuma77",
-  "group": "Legislativo",
-  "region": "Español (Latam/ES)",
-  "color": "hsl(192,58%,42%)",
-  "abbr": "Y",
-  "url": "https://securestream10.champds.com/LIVE/YumaCoAZLIVE/YumaCoAZLIVE.m3u8",
-  "web": "",
-  "note": "vía iptv-org · spa (sanitizada)",
-  "cc": "us",
-  "chno": 1451
- },
- {
-  "id": "yumachannel72-us-sd",
-  "name": "Yuma Channel 72",
-  "group": "Legislativo",
-  "region": "Español (Latam/ES)",
-  "color": "hsl(288,58%,42%)",
-  "abbr": "YC7",
-  "url": "https://livestream.telvue.com/yumaaz1/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8",
-  "web": "",
-  "note": "vía iptv-org · spa (sanitizada)",
-  "cc": "us",
-  "chno": 1449
- },
- {
-  "id": "yumachannel73-us-sd",
-  "name": "Yuma Channel 73",
-  "group": "Legislativo",
-  "region": "Español (Latam/ES)",
-  "color": "hsl(289,58%,42%)",
-  "abbr": "YC7",
-  "url": "https://livestream.telvue.com/yumaaz2/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8",
-  "web": "",
-  "note": "vía iptv-org · spa (sanitizada)",
-  "cc": "us",
-  "chno": 1450
- },
+
+
+
+
+
+
+
+
+
  {
   "id": "mieltv-pe-sd",
   "name": "Miel TV",

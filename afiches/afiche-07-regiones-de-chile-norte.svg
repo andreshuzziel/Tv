@@ -64,47 +64,53 @@
 <rect x="0" y="0" width="1460" height="168" fill="#111a2e"/>
 <rect x="0" y="164" width="1460" height="4" fill="#16a34a"/>
 <text x="20" y="46" font-size="34" font-weight="700" fill="#f8fafc">📍 Regiones de Chile (norte → sur) — canales 86–308</text>
-<text x="20" y="76" font-size="15" fill="#94a3b8">6 filas · TV Chile v3.112 · 01-nov-2026</text>
+<text x="20" y="76" font-size="15" fill="#94a3b8">7 filas · TV Chile v3.112 · 01-nov-2026</text>
 <text x="20" y="102" font-size="13" fill="#64748b">Cada celda:  #número  🚩 bandera real + emote 🏳️ del país de origen (flagcdn, ISO 3166-1)  Nombre   ·   tooltip: país + temática</text>
 <text x="20" y="126" font-size="13" fill="#64748b">Rangos: 1–32 señal abierta CL · 33–52 noticias · 53–85 Biobío · 86–308 regiones · 309–317 deportes (+ alternativas legales ✔) · 318–322 infantil/anime · 323–415 música · 416–433 religiosos · 434–446 cultura · 447–683 resto CL · 684–3110 español otros países · 3111+ nuevos FAST · 🌐 OTT gratis al final</text>
 <text x="20" y="148" font-size="13" fill="#64748b">Generado 01-nov-2026 · v3.112 · sanitizado (https, sin TV de pago/piratería)</text>
 <rect x="20" y="168" width="1420" height="26" rx="6" fill="#0891b2"/>
 <text x="30" y="186" font-size="15" font-weight="600" fill="#fff">📍 Regiones de Chile (norte → sur)</text>
-<text x="1430" y="186" font-size="13" fill="#e2e8f0" text-anchor="end">canales 86–308 · 6</text>
+<text x="1430" y="186" font-size="13" fill="#e2e8f0" text-anchor="end">canales 86–308 · 7</text>
 <rect x="20.0" y="202" width="349.0" height="22" rx="5" fill="#121b30"/>
-<title>#303 · 🇨🇱 CL — Red Fueguina Radio (Radio)</title>
-<text x="27.0" y="218" font-size="12.5" font-weight="700" fill="#0891b2" font-family="Consolas, Menlo, monospace">#303</text>
+<title>#302 · 🇨🇱 CL — Radio Zona 90.3 (Radio)</title>
+<text x="27.0" y="218" font-size="12.5" font-weight="700" fill="#0891b2" font-family="Consolas, Menlo, monospace">#302</text>
 <use href="#flag-cl" xlink:href="#flag-cl" x="64.0" y="207"/>
 <text x="84.0" y="218" font-size="10" opacity="0.95">🇨🇱</text>
-<text x="98.0" y="218" font-size="12" fill="#e2e8f0">Red Fueguina Radio</text>
+<text x="98.0" y="218" font-size="12" fill="#e2e8f0">Radio Zona 90.3</text>
 <rect x="377.0" y="202" width="349.0" height="22" rx="5" fill="#121b30"/>
-<title>#304 · 🇨🇱 CL — Soberania Radio (Regionales)</title>
-<text x="384.0" y="218" font-size="12.5" font-weight="700" fill="#0891b2" font-family="Consolas, Menlo, monospace">#304</text>
+<title>#303 · 🇨🇱 CL — Red Fueguina Radio (Radio)</title>
+<text x="384.0" y="218" font-size="12.5" font-weight="700" fill="#0891b2" font-family="Consolas, Menlo, monospace">#303</text>
 <use href="#flag-cl" xlink:href="#flag-cl" x="421.0" y="207"/>
 <text x="441.0" y="218" font-size="10" opacity="0.95">🇨🇱</text>
-<text x="455.0" y="218" font-size="12" fill="#e2e8f0">Soberania Radio</text>
+<text x="455.0" y="218" font-size="12" fill="#e2e8f0">Red Fueguina Radio</text>
 <rect x="734.0" y="202" width="349.0" height="22" rx="5" fill="#121b30"/>
-<title>#305 · 🇨🇱 CL — SurTV (Regionales)</title>
-<text x="741.0" y="218" font-size="12.5" font-weight="700" fill="#0891b2" font-family="Consolas, Menlo, monospace">#305</text>
+<title>#304 · 🇨🇱 CL — Soberania Radio (Regionales)</title>
+<text x="741.0" y="218" font-size="12.5" font-weight="700" fill="#0891b2" font-family="Consolas, Menlo, monospace">#304</text>
 <use href="#flag-cl" xlink:href="#flag-cl" x="778.0" y="207"/>
 <text x="798.0" y="218" font-size="10" opacity="0.95">🇨🇱</text>
-<text x="812.0" y="218" font-size="12" fill="#e2e8f0">SurTV</text>
+<text x="812.0" y="218" font-size="12" fill="#e2e8f0">Soberania Radio</text>
 <rect x="1091.0" y="202" width="349.0" height="22" rx="5" fill="#121b30"/>
-<title>#306 · 🇨🇱 CL — TV Bajo Cero (Regionales)</title>
-<text x="1098.0" y="218" font-size="12.5" font-weight="700" fill="#0891b2" font-family="Consolas, Menlo, monospace">#306</text>
+<title>#305 · 🇨🇱 CL — SurTV (Regionales)</title>
+<text x="1098.0" y="218" font-size="12.5" font-weight="700" fill="#0891b2" font-family="Consolas, Menlo, monospace">#305</text>
 <use href="#flag-cl" xlink:href="#flag-cl" x="1135.0" y="207"/>
 <text x="1155.0" y="218" font-size="10" opacity="0.95">🇨🇱</text>
-<text x="1169.0" y="218" font-size="12" fill="#e2e8f0">TV Bajo Cero</text>
+<text x="1169.0" y="218" font-size="12" fill="#e2e8f0">SurTV</text>
 <rect x="20.0" y="226" width="349.0" height="22" rx="5" fill="#0f172a"/>
-<title>#307 · 🇨🇱 CL — UMAG TV (Universitarios)</title>
-<text x="27.0" y="242" font-size="12.5" font-weight="700" fill="#0891b2" font-family="Consolas, Menlo, monospace">#307</text>
+<title>#306 · 🇨🇱 CL — TV Bajo Cero (Regionales)</title>
+<text x="27.0" y="242" font-size="12.5" font-weight="700" fill="#0891b2" font-family="Consolas, Menlo, monospace">#306</text>
 <use href="#flag-cl" xlink:href="#flag-cl" x="64.0" y="231"/>
 <text x="84.0" y="242" font-size="10" opacity="0.95">🇨🇱</text>
-<text x="98.0" y="242" font-size="12" fill="#e2e8f0">UMAG TV</text>
+<text x="98.0" y="242" font-size="12" fill="#e2e8f0">TV Bajo Cero</text>
 <rect x="377.0" y="226" width="349.0" height="22" rx="5" fill="#0f172a"/>
-<title>#308 · 🇨🇱 CL — UMAG TV 2 (Universitarios)</title>
-<text x="384.0" y="242" font-size="12.5" font-weight="700" fill="#0891b2" font-family="Consolas, Menlo, monospace">#308</text>
+<title>#307 · 🇨🇱 CL — UMAG TV (Universitarios)</title>
+<text x="384.0" y="242" font-size="12.5" font-weight="700" fill="#0891b2" font-family="Consolas, Menlo, monospace">#307</text>
 <use href="#flag-cl" xlink:href="#flag-cl" x="421.0" y="231"/>
 <text x="441.0" y="242" font-size="10" opacity="0.95">🇨🇱</text>
-<text x="455.0" y="242" font-size="12" fill="#e2e8f0">UMAG TV 2</text>
+<text x="455.0" y="242" font-size="12" fill="#e2e8f0">UMAG TV</text>
+<rect x="734.0" y="226" width="349.0" height="22" rx="5" fill="#0f172a"/>
+<title>#308 · 🇨🇱 CL — UMAG TV 2 (Universitarios)</title>
+<text x="741.0" y="242" font-size="12.5" font-weight="700" fill="#0891b2" font-family="Consolas, Menlo, monospace">#308</text>
+<use href="#flag-cl" xlink:href="#flag-cl" x="778.0" y="231"/>
+<text x="798.0" y="242" font-size="10" opacity="0.95">🇨🇱</text>
+<text x="812.0" y="242" font-size="12" fill="#e2e8f0">UMAG TV 2</text>
 </svg>

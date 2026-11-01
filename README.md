@@ -136,3 +136,5 @@ La temática **🌐 Servicios OTT** quedó solo con servicios **gratuitos** (Plu
 
 ## 🏛️ Temática Gobierno = SOLO Chile
 La temática **🏛️ Gobierno de Chile (solo 🇨🇱)** muestra únicamente canales del Estado chileno (TV Senado #51, Cámara de Diputados #438, Gobierno de Chile #555 — reasignados al grupo `Legislativo`). Los legislativos extranjeros (Congreso de España, canales ciudad USA, etc.) quedan fuera de esta temática (siguen en General/Español otros países).
+
+- **Limpieza 01-nov-2026:** la temática 🏛️ Gobierno es **solo de Chile** — se eliminaron del catálogo los 28 canales legislativos extranjeros; quedan TV Senado, Cámara de Diputados y Gobierno de Chile (todos 🇨🇱). Catálogo: 3.096 entradas.

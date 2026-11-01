@@ -2475,60 +2475,6 @@ https://dqga3jatxofgx.cloudfront.net/WildEarth.m3u8
 https://video.hostingcaaguazu.com:19360/cosmostv/cosmostv.m3u8
 #EXTINF:-1 tvg-id="exctv-ve-sd" tvg-name="EXC TV" tvg-chno="1423" tvg-country="VE" group-title="Ciencia",EXC TV
 https://vcp.myplaytv.com/explosioncreativa/explosioncreativa/playlist.m3u8
-#EXTINF:-1 tvg-id="atl26-us-sd" tvg-name="ATL 26" tvg-chno="1424" tvg-country="US" group-title="Legislativo",ATL 26
-https://securestream11.champds.com/LIVE/AtlantaGALIVE/AtlantaGALIVE.m3u8
-#EXTINF:-1 tvg-id="canaldelcongreso451-mx-sd" tvg-name="Canal del Congreso 45.1" tvg-chno="1425" tvg-country="MX" group-title="Legislativo",Canal del Congreso 45.1
-https://ccstreaming.packet.mx/WebRTCAppEE/streams/45.1_kd5oiNTTWO0gEOFc431277834.m3u8
-#EXTINF:-1 tvg-id="canalparlamento-es-sd" tvg-name="Canal Parlamento" tvg-chno="1426" tvg-country="ES" group-title="Legislativo",Canal Parlamento
-https://congresodirecto.akamaized.net/hls/live/2037973/canalparlamento/master.m3u8
-#EXTINF:-1 tvg-id="canalparlamentodelcongresodejalisco-mx-s" tvg-name="Canal Parlamento del Congreso de Jalisco" tvg-chno="1427" tvg-country="MX" group-title="Legislativo",Canal Parlamento del Congreso de Jalisco
-https://60417ddeaf0d9.streamlock.net/srtc/smil:srtc.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="citytvchannel341-us-sd" tvg-name="City TV Channel 3/41" tvg-chno="1428" tvg-country="US" group-title="Legislativo",City TV Channel 3/41
-https://edge-f.swagit.com/live/chinohillsca/live-1-a/playlist.m3u8
-#EXTINF:-1 tvg-id="congresodelosdiputados1-es-sd" tvg-name="Congreso de los Diputados 1" tvg-chno="1429" tvg-country="ES" group-title="Legislativo",Congreso de los Diputados 1
-https://congresodirecto.akamaized.net/hls/live/2038274/canal1/master.m3u8
-#EXTINF:-1 tvg-id="congresodelosdiputados2-es-sd" tvg-name="Congreso de los Diputados 2" tvg-chno="1430" tvg-country="ES" group-title="Legislativo",Congreso de los Diputados 2
-https://congresodirecto.akamaized.net/hls/live/2038275/canal2/master.m3u8
-#EXTINF:-1 tvg-id="congresodelosdiputados3-es-sd" tvg-name="Congreso de los Diputados 3" tvg-chno="1431" tvg-country="ES" group-title="Legislativo",Congreso de los Diputados 3
-https://congresodirecto.akamaized.net/hls/live/2038276/canal3/master.m3u8
-#EXTINF:-1 tvg-id="congresodelosdiputados4-es-sd" tvg-name="Congreso de los Diputados 4" tvg-chno="1432" tvg-country="ES" group-title="Legislativo",Congreso de los Diputados 4
-https://congresodirecto.akamaized.net/hls/live/2038277/canal4/master.m3u8
-#EXTINF:-1 tvg-id="congresodelosdiputados5-es-sd" tvg-name="Congreso de los Diputados 5" tvg-chno="1433" tvg-country="ES" group-title="Legislativo",Congreso de los Diputados 5
-https://congresodirecto.akamaized.net/hls/live/2038278/canal5/master.m3u8
-#EXTINF:-1 tvg-id="cortsvalencianes-es-sd" tvg-name="Corts Valencianes" tvg-chno="1434" tvg-country="ES" group-title="Legislativo",Corts Valencianes
-https://streamserver3.seneca.tv/cval_live/cdn_enc_3/master.m3u8
-#EXTINF:-1 tvg-id="cruztv-us-sd" tvg-name="Cruz TV" tvg-chno="1435" tvg-country="US" group-title="Legislativo",Cruz TV
-https://reflect-communitytv.cablecast.tv/live-4/live/stream-2/live.m3u8
-#EXTINF:-1 tvg-id="ebs-be-sd" tvg-name="EbS" tvg-chno="1436" tvg-country="BE" group-title="Legislativo",EbS
-https://streams.prd.commavservices.eu/live/ebs/index.m3u8
-#EXTINF:-1 tvg-id="icrtvcolima-mx-sd" tvg-name="Icrtv Colima" tvg-chno="1438" tvg-country="MX" group-title="Legislativo",Icrtv Colima
-https://5fc584f3f19c9.streamlock.net/icrtvcolima/smil:icrtvcolima.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="jnetv-pe-sd" tvg-name="JNE TV" tvg-chno="1439" tvg-country="PE" group-title="Legislativo",JNE TV
-https://lbgo.bozztv.com/ssh101/ssh101/jnetv/playlist.m3u8
-#EXTINF:-1 tvg-id="justiciatv-mx-sd" tvg-name="Justicia TV (Mexico)" tvg-chno="1440" tvg-country="MX" group-title="Legislativo",Justicia TV (Mexico)
-https://live-scjn.ovp-vivaro.digital/ovp-origin/638a22b47746d/playlist.m3u8
-#EXTINF:-1 tvg-id="lacityview35-us-sd" tvg-name="LA CityView 35" tvg-chno="1441" tvg-country="US" group-title="Legislativo",LA CityView 35
-https://reflect-losangeles.cablecast.tv/live-3/live/live.m3u8
-#EXTINF:-1 tvg-id="legislativeassemblyofelsalvador-sv-sd" tvg-name="Legislative Assembly of El Salvador" tvg-chno="1442" tvg-country="SV" group-title="Legislativo",Legislative Assembly of El Salvador
-https://streaming.asamblea.gob.sv/hls/plenariahd.m3u8
-#EXTINF:-1 tvg-id="parlamentodenavarra-es-sd" tvg-name="Parlamento de Navarra" tvg-chno="1443" tvg-country="ES" group-title="Legislativo",Parlamento de Navarra
-https://broadcasting.parlamentodenavarra.es/live/canal1/master.m3u8
-#EXTINF:-1 tvg-id="phxtv-us-sd" tvg-name="PHXTV" tvg-chno="1444" tvg-country="US" group-title="Legislativo",PHXTV
-https://cdn3.wowza.com/5/bGZUOHp2TnhudnM2/phoenix/G1498_006/playlist.m3u8
-#EXTINF:-1 tvg-id="thecityofmarina-us-sd" tvg-name="The City of Marina" tvg-chno="1445" tvg-country="US" group-title="Legislativo",The City of Marina
-https://dlttx48mxf9m3.cloudfront.net/vod_clients/amp/live/ch4/video.m3u8
-#EXTINF:-1 tvg-id="thepeninsulachannel-us-sd" tvg-name="The Peninsula Channel" tvg-chno="1446" tvg-country="US" group-title="Legislativo",The Peninsula Channel
-https://dlttx48mxf9m3.cloudfront.net/vod_clients/amp/live/ch5/video.m3u8
-#EXTINF:-1 tvg-id="tvlegislativa-ec-sd" tvg-name="TV Legislativa" tvg-chno="1447" tvg-country="EC" group-title="Legislativo",TV Legislativa
-https://streamingav.asambleanacional.gob.ec/hls/stream.m3u8
-#EXTINF:-1 tvg-id="youdotgov-us-sd" tvg-name="YouDotGov" tvg-chno="1448" tvg-country="US" group-title="Legislativo",YouDotGov
-https://reflect-communitytv.cablecast.tv/live-3/live/stream-1/live.m3u8
-#EXTINF:-1 tvg-id="yumachannel72-us-sd" tvg-name="Yuma Channel 72" tvg-chno="1449" tvg-country="US" group-title="Legislativo",Yuma Channel 72
-https://livestream.telvue.com/yumaaz1/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
-#EXTINF:-1 tvg-id="yumachannel73-us-sd" tvg-name="Yuma Channel 73" tvg-chno="1450" tvg-country="US" group-title="Legislativo",Yuma Channel 73
-https://livestream.telvue.com/yumaaz2/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
-#EXTINF:-1 tvg-id="yuma77-us-sd" tvg-name="Yuma77" tvg-chno="1451" tvg-country="US" group-title="Legislativo",Yuma77
-https://securestream10.champds.com/LIVE/YumaCoAZLIVE/YumaCoAZLIVE.m3u8
 #EXTINF:-1 tvg-id="opa-cr-sd" tvg-name="¡OPA!" tvg-chno="1452" tvg-country="CR" group-title="Entretenimiento",¡OPA!
 https://5f1af61612fb5.streamlock.net/genteopa/videogenteopa_720p/playlist.m3u8
 #EXTINF:-1 tvg-id="abejalestv-ve-hd" tvg-name="AbejalesTV" tvg-chno="1453" tvg-country="VE" group-title="Entretenimiento",AbejalesTV
