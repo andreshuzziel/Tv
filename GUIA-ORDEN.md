@@ -3135,3 +3135,9 @@ No son canales con stream: al abrirlos vas al sitio oficial (gratis con anuncios
 
 
 > 🧹 Limpieza 01-nov-2026: la temática 🏛️ Gobierno es **solo de Chile** — se eliminaron del catálogo los 28 canales legislativos extranjeros (Congreso de España, canales ciudad USA, etc.); quedan TV Senado #51, Cámara de Diputados #438 y Gobierno de Chile #555.
+| 3113 | 🇨🇱 | Poder Judicial de Chile | Legislativo | Nacional |  *(solo web: YouTube oficial @pjudicialchile)*
+| 3114 | 🇨🇱 | Servicio Electoral de Chile (Servel) | Legislativo | Nacional |  *(solo web: YouTube oficial)*
+| 3115 | 🇨🇱 | Tribunal Constitucional de Chile | Legislativo | Nacional |  *(solo web: YouTube oficial)*
+
+> 🏛️ gob solo Chile: TV Senado #51 ahora con **señal oficial senado.cl** (`janus-tv-ply.senado.cl`, verificada 200 OK); + Poder Judicial, Servel y Tribunal Constitucional como enlaces web oficiales (YouTube), sin stream abierto verificado.
+
