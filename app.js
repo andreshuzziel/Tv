@@ -173,9 +173,10 @@
 
   /* ---------- Render ---------- */
   const chHTML = (c, sec) => {
+    const ti = (THEMES.find(t => t.groups.includes(c.group)) || { icon: '📡' }).icon;
     const sub = sec === 'reg'
-      ? (c.note || '').split('·')[0].trim() || c.group
-      : c._reg ? `${c._reg} · ${c.group}` : `${c._origin === 'es' ? '🌎' : '🇨🇱'} ${c.group}${c.note ? ' · ' + c.note.split('·')[0].trim() : ''}`;
+      ? `${ti} ` + ((c.note || '').split('·')[0].trim() || c.group)
+      : c._reg ? `${ti} ${c._reg} · ${c.group}` : `${c._origin === 'es' ? '🌎' : '🇨🇱'} ${ti} ${c.group}${c.note ? ' · ' + c.note.split('·')[0].trim() : ''}`;
     return `<button class="ch ${current && current.id === c.id ? 'on' : ''} ${c.url ? '' : 'dis'}" data-id="${esc(c.id)}" title="${esc(dispName(c))} (${esc(c.cc || '?').toUpperCase()})${renames[c.id] ? ' · original: ' + esc(c.name) : ''}">
       <span class="cflag">${c._flag}</span><span class="logo" style="background:${esc(c.color || '#334155')}">${esc((c.abbr || c.name || '?').slice(0, 4))}</span>
       <span class="meta"><span class="nm">${esc(dispName(c))}${renames[c.id] ? ' <span style="opacity:.55;font-size:11px">(renombrado)</span>' : ''}</span><span class="sb">${esc(sub)}</span></span>

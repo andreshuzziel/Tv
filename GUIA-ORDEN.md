@@ -484,7 +484,7 @@ Cada canal lleva su número en `tvg-chno` dentro de `playlists/tv-chile-todo.m3u
 | 461 | 🇨🇱 | Pirque TV | Regionales | Nacional |
 | 462 | 🇨🇱 | Verso TV | Regionales | Nacional |
 | 463 | 🇨🇱 | 13 Internacional | Internacionales | Nacional |
-| 464 | 🇨🇱 | China Channel | Internacionales | Nacional |
+| 464 | 🇨🇳 | China Channel | Internacionales | Nacional |
 | 465 | 🇨🇱 | TV Chile | Internacionales | Nacional |
 | 466 | 🇨🇱 | 13 Cocina | General | Nacional |
 | 467 | 🇨🇱 | 13 Internacional HD (Nacional) | General | Nacional |
@@ -544,7 +544,7 @@ Cada canal lleva su número en `tvg-chno` dentro de `playlists/tv-chile-todo.m3u
 | 521 | 🇨🇱 | Chilevisión Ⓖ | General | Nacional |
 | 522 | 🇨🇱 | Chilevisión Noticias | General | Nacional |
 | 523 | 🇨🇱 | Chilevisual Classic | General | Nacional |
-| 524 | 🇨🇱 | China Channel | General | Nacional |
+| 524 | 🇨🇳 | China Channel | General | Nacional |
 | 525 | 🇨🇱 | ClickTV [No24/7](Coronel - Biobío) [Opc.2] | General | Nacional |
 | 526 | 🇨🇱 | ClickTv Chile (Coronel) | General | Nacional |
 | 527 | 🇨🇱 | ClickTv Chile (Coronel) | General | Nacional |

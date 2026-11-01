@@ -428,7 +428,7 @@ window.CHANNELS = [
   "url": "",
   "web": "https://www.mega.cl/",
   "note": "Teleseries Mega · 1080p · sin enlace seguro: usa el sitio oficial",
-  "cc": ""
+  "cc": "cl"
  },
  {
   "id": "mega2",
@@ -440,7 +440,7 @@ window.CHANNELS = [
   "url": "",
   "web": "https://www.mega.cl/",
   "note": "1080p · sin enlace seguro: usa el sitio oficial",
-  "cc": ""
+  "cc": "cl"
  },
  {
   "id": "151bpb-cl-sd",
@@ -816,7 +816,7 @@ window.CHANNELS = [
   "url": "https://v2.tustreaming.cl/chinachannel/index.m3u8",
   "web": "",
   "note": "720p · vía iptv-org (lista sanitizada)",
-  "cc": "cl",
+  "cc": "cn",
   "chno": 524
  },
  {
@@ -2987,7 +2987,7 @@ window.CHANNELS = [
   "url": "https://v2.tustreaming.cl/chinachannel/index.m3u8?PlaylistM3UCL",
   "web": "",
   "note": "vía m3u.cl (lista sanitizada)",
-  "cc": "cl",
+  "cc": "cn",
   "chno": 464
  },
  {

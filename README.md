@@ -106,3 +106,6 @@ Elegir una temática en la izquierda filtra en vivo la lista de la derecha (p. e
 
 ## ✏️ Nombres personalizados
 Sí: botón **✏️ Renombrar** en la app (se guarda en localStorage y puede fijarse en `data/renames.js`, que el pipeline reaplica sobre la playlist numerada sin cambiar los números). En la TV: en la app IPTV mantén presionado el canal → renombrar; o edita el nombre tras la coma del `#EXTINF` en el `.m3u`.
+
+## 🏳️ Bandera + temática por canal
+Cada canal muestra su **bandera del país de origen** (campo `cc` = ISO 3166-1 alpha-2 → emoji formado con los *Regional Indicator Symbols* U+1F1E6–U+1F1FF, el mismo sistema de la tabla pública de emojis de bandera) y su **temática** con icono (📺📰⚽🎬🧸⛩️🎓🎵📻…). Los 3.112 canales tienen `cc` verificado (proveniencia de la fuente; `scripts/mejorar_cc.js` re-verifica). La playlist `tv-chile-todo.m3u` incluye `tvg-country="XX"` en cada `#EXTINF`.

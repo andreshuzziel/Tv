@@ -925,7 +925,7 @@ https://eu1.servers10.com:8081/laureltv/index.m3u8?PlaylistM3UCL
 https://verso.coopcom.cl/live/SHf6GLCpn4hDSpWdzaDzgX0ciU82/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="1685-13-internacional" tvg-name="13 Internacional" tvg-chno="463" tvg-country="CL" group-title="Internacionales",13 Internacional
 https://redirector.dps.live/hls/13intav/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="1769-china-channel" tvg-name="China Channel" tvg-chno="464" tvg-country="CL" group-title="Internacionales",China Channel
+#EXTINF:-1 tvg-id="1769-china-channel" tvg-name="China Channel" tvg-chno="464" tvg-country="CN" group-title="Internacionales",China Channel
 https://v2.tustreaming.cl/chinachannel/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="491-tv-chile" tvg-name="TV Chile" tvg-chno="465" tvg-country="CL" group-title="Internacionales",TV Chile
 https://mdstrm.com/live-stream-playlist/533adcc949386ce765657d7c.m3u8?PlaylistM3UCL
@@ -1045,7 +1045,7 @@ https://redirector.rudo.video/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd
 https://redirector.rudo.video/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/chvn/chvn.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="1418-chilevisual-classic" tvg-name="Chilevisual Classic" tvg-chno="523" tvg-country="CL" group-title="General",Chilevisual Classic
 https://paneltv.stream:19360/chilevisual/chilevisual.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="chinachannel-cl-sd" tvg-name="China Channel" tvg-chno="524" tvg-country="CL" group-title="General",China Channel
+#EXTINF:-1 tvg-id="chinachannel-cl-sd" tvg-name="China Channel" tvg-chno="524" tvg-country="CN" group-title="General",China Channel
 https://v2.tustreaming.cl/chinachannel/index.m3u8
 #EXTINF:-1 tvg-id="clicktv-no24-7-coronel-biobio-opc-2" tvg-name="ClickTV [No24/7](Coronel - Biobío) [Opc.2]" tvg-chno="525" tvg-country="CL" group-title="General",ClickTV [No24/7](Coronel - Biobío) [Opc.2]
 https://andromeda2.cd-latam.com:1936/Monitoreo_ClickTV/clicktv.stream/playlist.m3u8

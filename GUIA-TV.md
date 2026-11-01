@@ -57,3 +57,7 @@ Tu lista completa vive en **`playlists/tv-chile-todo.m3u`** (3.110 canales, todo
 - **En la playlist .m3u:** el nombre es el texto después de la coma en `#EXTINF:-1 ...,Nombre` — edítalo a mano y listo. **El número no cambia** (`tvg-chno`/`tvg-id` siguen iguales).
 - **En apps IPTV de la TV (TiviMate, etc.):** mantén presionado el canal → *Rename* / *Renombrar*.
 - **Al actualizar automático** (`scripts/actualizar.sh`): los renombres de `data/renames.js` se reaplican solos sobre la lista nueva con `scripts/aplicar_renames.py`, así tus nombres propios sobreviven a las actualizaciones.
+
+
+## 🏳️ Banderas y temáticas en la TV
+El archivo `tv-chile-todo.m3u` lleva `tvg-country="XX"` (ISO 3166-1 alpha-2) en cada canal: las apps compatibles muestran la bandera automáticamente (los emojis de bandera son los pares de *regional indicators* U+1F1E6+letra, según la tabla pública de emojis de bandera). El grupo (`group-title`) es la temática. En la app web cada canal muestra 🏳️ bandera + icono de temática junto al nombre.
