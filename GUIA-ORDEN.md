@@ -3143,4 +3143,5 @@ No son canales con stream: al abrirlos vas al sitio oficial (gratis con anuncios
 
 > Anterior: TV Senado #51 ahora con **señal oficial senado.cl** (`janus-tv-ply.senado.cl`, verificada 200 OK); + Poder Judicial, Servel y Tribunal Constitucional como enlaces web oficiales (YouTube), sin stream abierto verificado.
 | 3116 | 🇨🇱 | Biblioteca del Congreso Nacional (BCN) | Legislativo | Nacional |  *(solo web: YouTube @CongresoChile · bcn.cl)*
+| 3117 | 🇨🇱 | Democracia en Vivo (Cámara de Diputados) | Legislativo | Nacional |  *(solo web: democraciaenvivo.cl)*
 
