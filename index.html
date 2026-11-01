@@ -9,7 +9,28 @@
 <body>
 <div class="app">
 
-  <!-- MAIN (izquierda) -->
+  <!-- ══ COLUMNA IZQUIERDA: TEMÁTICAS ══ -->
+  <aside class="themes" id="themes">
+    <div class="t-head">
+      <div class="t-title">
+        <h2>🎭 Temáticas</h2>
+        <span id="tCount">—</span>
+      </div>
+    </div>
+
+    <div class="t-search">
+      <svg viewBox="0 0 24 24" width="16" height="16"><circle cx="11" cy="11" r="7" fill="none" stroke="currentColor" stroke-width="2"/><path d="M16.5 16.5 21 21" stroke="currentColor" stroke-width="2" stroke-linecap="round"/></svg>
+      <input id="q" type="search" placeholder="Buscar canal o temática…" autocomplete="off">
+    </div>
+
+    <div class="t-sub" id="tSub"></div>
+
+    <div class="t-body" id="tBody"></div>
+
+    <div class="t-foot" id="tFoot"></div>
+  </aside>
+
+  <!-- ══ CENTRO: PANTALLA ══ -->
   <main class="main">
     <header class="topbar">
       <div class="brand">
@@ -37,7 +58,7 @@
           <div class="ov-card">
             <div class="ov-logo" id="ovLogo">TV</div>
             <h2 id="ovName">Elige un canal</h2>
-            <p id="ovNote">Elige una región o una temática en el panel de la derecha: el canal se sintoniza solo. Usa ↑ / ↓ para hacer zapping.</p>
+            <p id="ovNote">Elige una temática a la izquierda: el canal se sintoniza solo. Usa ↑ / ↓ para hacer zapping.</p>
             <div class="ov-actions">
               <a id="webBtn" class="ghost" target="_blank" rel="noopener" hidden>Sitio oficial ↗</a>
             </div>
@@ -72,9 +93,9 @@
       <article class="panel">
         <h3>🧩 Cómo usar este repositorio</h3>
         <ol class="steps">
-          <li><strong>En el navegador:</strong> elige un canal en el panel de la derecha y se sintoniza solo.</li>
+          <li><strong>En el navegador:</strong> elige un canal en las temáticas (izquierda) y se sintoniza solo.</li>
           <li><strong>En VLC:</strong> <code>Medio → Abrir ubicación de red</code> y pega la URL del canal.</li>
-          <li><strong>TiviMate / OTT Navigator:</strong> descarga la playlist de la vista actual (botón ⬇ del panel).</li>
+          <li><strong>TiviMate / OTT Navigator:</strong> descarga la playlist de la vista actual (botón ⬇ del panel derecho).</li>
           <li><strong>Playlists del repo:</strong> <code>playlists/chile-segura.m3u</code>, <code>playlists/m3u-cl/region-*.m3u</code>, <code>playlists/es/tema-*.m3u</code>.</li>
         </ol>
       </article>
@@ -86,19 +107,14 @@
     </section>
   </main>
 
-  <!-- PANEL DE CANALES (derecha) — rehecho desde cero -->
+  <!-- ══ COLUMNA DERECHA: CANALES ══ -->
   <aside class="guide" id="guide">
     <div class="g-head">
       <div class="g-title">
-        <h2>Guía de canales</h2>
+        <h2>Canales</h2>
         <span id="gCount">—</span>
       </div>
       <button class="g-dl" id="dl" title="Descargar la vista actual como .m3u">⬇ M3U</button>
-    </div>
-
-    <div class="g-search">
-      <svg viewBox="0 0 24 24" width="16" height="16"><circle cx="11" cy="11" r="7" fill="none" stroke="currentColor" stroke-width="2"/><path d="M16.5 16.5 21 21" stroke="currentColor" stroke-width="2" stroke-linecap="round"/></svg>
-      <input id="q" type="search" placeholder="Buscar canal, región o tema…" autocomplete="off">
     </div>
 
     <div class="seg" id="seg" role="tablist">

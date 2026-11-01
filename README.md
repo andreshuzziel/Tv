@@ -87,3 +87,12 @@ https://raw.githubusercontent.com/TU-USUARIO/tv-chile/main/playlists/tv-chile-to
 (o sirviendo la carpeta en tu red local: `http://IP-DE-TU-PC:8000/playlists/tv-chile-todo.m3u`)
 
 👉 Guía paso a paso completa: **`GUIA-TV.md`**
+
+
+## 🖥️ Layout (3 columnas)
+
+| Izquierda | Centro | Derecha |
+|---|---|---|
+| 🎭 **Temáticas** (15) + filtro CL/ES + buscador | 📺 **Pantalla** grande (autoplay, sin botón ▶) + canal actual | 📋 **Canales**: 📍 Regiones / 🎭 Temáticas / ★ Favoritos + ⬇ M3U |
+
+Elegir una temática en la izquierda filtra en vivo la lista de la derecha (p. ej. *Deportes* → 78 canales, *Noticias* → 150).

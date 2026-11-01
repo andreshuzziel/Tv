@@ -97,12 +97,14 @@
     view: ui.view || 'reg',
     regKind: ui.regKind || 'all',     // all | tv | radio
     temOrigin: ui.temOrigin || 'all', // all | cl | es
+    // ⭐ tema elegido en la columna izquierda de temáticas (filtra los canales de la derecha)
+    theme: ui.theme || 'all',
     open: { reg: new Set(ui.openReg || ['Biobío']), tem: new Set(ui.openTem || ['nac']), fav: new Set(['favs', 'recent']) },
     query: '',
     expanded: new Set()
   };
   const saveUi = () => store.set('tvcl_ui', {
-    view: state.view, regKind: state.regKind, temOrigin: state.temOrigin,
+    view: state.view, regKind: state.regKind, temOrigin: state.temOrigin, theme: state.theme,
     openReg: [...state.open.reg], openTem: [...state.open.tem]
   });
 
@@ -114,7 +116,12 @@
   const PAGE = 60;
 
   /* ---------- Construcción de secciones según la vista ---------- */
-  function matches(c) { return !state.query || c._q.includes(state.query); }
+  // ⭐ el filtro de temática (columna izquierda) se aplica siempre
+  const themeFilter = c => state.theme === 'all' || c._theme === state.theme || c._reg === state.theme;
+  function matches(c) {
+    if (!themeFilter(c)) return false;
+    return !state.query || c._q.includes(state.query);
+  }
 
   function sectionsFor(view) {
     if (view === 'reg') {
@@ -141,6 +148,12 @@
           items, total: all.length, groupBy: c => c._origin,
           groupLabel: k => (k === 'cl' ? '🇨🇱 Chile' : '🌎 Hispanoamérica y España'), groupOrder: ['cl', 'es']
         };
+      }).sort((a, b) => {
+        // ⭐ la temática elegida en la columna izquierda va primero
+        if (state.theme === 'all') return 0;
+        if (a.key === state.theme) return -1;
+        if (b.key === state.theme) return 1;
+        return 0;
       });
     }
     // favoritos + recientes
@@ -190,11 +203,53 @@
   }
 
   let lastSections = [];
+
+  /* =====================================================================
+     2-bis. COLUMNA IZQUIERDA: selector de TEMÁTICAS
+     ===================================================================== */
+  function renderThemes() {
+    // filtro de origen (CL / ES) aplicado a las temáticas
+    const items = THEMES.map(t => {
+      const all = temChans.filter(c => c._theme === t.k);
+      const cl = all.filter(c => c._origin === 'cl').length;
+      const es = all.length - cl;
+      let n = all.length;
+      if (state.temOrigin === 'cl') n = cl;
+      else if (state.temOrigin === 'es') n = es;
+      if (state.query) n = all.filter(c => c._q.includes(state.query)).length;
+      return { t, n, cl, es, all };
+    });
+    const total = items.reduce((a, x) => a + x.n, 0);
+    $('#tCount').textContent = state.theme === 'all'
+      ? `${total} canales`
+      : `${items.find(x => x.t.k === state.theme)?.n || 0} canales`;
+
+    $('#tSub').innerHTML = [['all', 'Todas'], ['cl', '🇨🇱 Chile'], ['es', '🌎 Hispanos']]
+      .map(([k, l]) => `<button data-torigin="${k}" class="${state.temOrigin === k ? 'on' : ''}">${l}</button>`).join('');
+
+    const hasCur = current && (current._theme === state.theme || (state.theme === 'all' && current._theme));
+    $('#tBody').innerHTML = `
+      <button class="tcard ${state.theme === 'all' ? 'on' : ''}" data-theme="all">
+        <span class="ic" style="background:#1a2237">🎛️</span>
+        <span class="tt"><b>Todas las temáticas</b><small>sin filtro · ${chans.length} canales</small></span>
+        <span class="n">${chans.length}</span>
+      </button>` + items.map(({ t, n, cl, es }) => `
+      <button class="tcard ${state.theme === t.k ? 'on' : ''} ${hasCur && current?._theme === t.k ? 'has-cur' : ''}" data-theme="${t.k}">
+        <span class="ic" style="background:${t.color}22;color:${t.color}">${t.icon}</span>
+        <span class="tt"><b>${esc(t.name)}</b><small>${cl ? `🇨🇱 ${cl}` : ''}${cl && es ? ' · ' : ''}${es ? `🌎 ${es}` : ''}${!cl && !es ? '—' : ''}</small></span>
+        <span class="n">${n}</span>
+      </button>`).join('');
+  }
+
   function render() {
     const view = state.view;
     const secs = sectionsFor(view);
     const visibleSecs = state.query ? secs.filter(s => s.items.length) : secs.filter(s => view === 'fav' || s.total);
-    lastSections = visibleSecs;
+    // ⭐ con una temática seleccionada (columna izquierda), la derecha muestra solo esa
+    const shownSecs = (view === 'tem' && state.theme !== 'all')
+      ? visibleSecs.filter(s => s.key === state.theme)
+      : visibleSecs;
+    lastSections = shownSecs;
 
     // Subfiltros
     const sub = $('#gSub');
@@ -209,12 +264,12 @@
     } else sub.innerHTML = '';
 
     const body = $('#gBody');
-    if (!visibleSecs.length) {
+    if (!shownSecs.length) {
       const other = view === 'reg' ? 'tem' : 'reg';
       const n = state.query ? chans.filter(c => (other === 'reg' ? c._reg : !c._reg) && matches(c)).length : 0;
       body.innerHTML = `<div class="empty">Sin resultados para “${esc(state.query)}”.${n ? `<br><br><button class="more" data-goto="${other}">Ver ${n} resultado(s) en ${other === 'reg' ? '📍 Regiones' : '🎭 Temáticas'} →</button>` : ''}</div>`;
     } else {
-      body.innerHTML = visibleSecs.map(s => {
+      body.innerHTML = shownSecs.map(s => {
         const open = state.query || state.open[view].has(s.key);
         const hasCur = current && s.items.some(c => c.id === current.id);
         return `<section class="sec ${open ? 'open' : ''} ${hasCur ? 'has-cur' : ''}" data-sec="${esc(s.key)}">
@@ -234,12 +289,44 @@
     $('#nTem').textContent = temChans.length;
     $('#nFav').textContent = favs.size || '';
     [...$('#seg').children].forEach(b => b.classList.toggle('on', b.dataset.v === view));
-    const shownCount = visibleSecs.reduce((a, s) => a + s.items.length, 0);
+    const shownCount = shownSecs.reduce((a, s) => a + s.items.length, 0);
+    const nSec = shownSecs.filter(s => s.items.length).length;
+    const temaSel = state.theme !== 'all' ? (THEMES.find(t => t.k === state.theme) || {}).name : null;
     $('#gCount').textContent = view === 'reg'
-      ? `${shownCount} canales en ${visibleSecs.filter(s => s.items.length).length} regiones`
-      : view === 'tem' ? `${shownCount} canales en ${visibleSecs.filter(s => s.items.length).length} temáticas`
-      : `${favs.size} favoritos · ${recent.length} recientes`;
+      ? `${shownCount} canales en ${nSec} regiones`
+      : view === 'tem'
+        ? (temaSel ? `${shownCount} canales · ${temaSel}` : `${shownCount} canales en ${nSec} temáticas`)
+        : `${favs.size} favoritos · ${recent.length} recientes`;
+
+    renderThemes();
   }
+
+  /* ---------- Eventos de la columna izquierda (temáticas) ---------- */
+  let qT;
+  $('#tBody').addEventListener('click', e => {
+    const b = e.target.closest('[data-theme]'); if (!b) return;
+    state.theme = b.dataset.theme;
+    saveUi();
+    // al elegir una temática, la vista de la derecha salta a "Temáticas" para ver sus canales
+    if (state.theme !== 'all') {
+      state.view = 'tem';
+      state.open.tem.add(state.theme);
+      state.expanded.add('tem:' + state.theme);
+    }
+    render();
+    $('#gBody').scrollTop = 0;
+    toast(state.theme === 'all'
+      ? 'Mostrando todos los canales'
+      : `Temática: ${(THEMES.find(t => t.k === state.theme) || {}).name}`);
+  });
+  $('#tSub').addEventListener('click', e => {
+    const b = e.target.closest('[data-torigin]'); if (!b) return;
+    state.temOrigin = b.dataset.torigin; saveUi(); render();
+  });
+  $('#q').addEventListener('input', e => {
+    clearTimeout(qT);
+    qT = setTimeout(() => { state.query = norm(e.target.value.trim()); render(); }, 120);
+  });
 
   /* ---------- Eventos del panel ---------- */
   $('#seg').addEventListener('click', e => {
@@ -257,11 +344,6 @@
       keys.forEach(k => allOpen ? set.delete(k) : set.add(k));
     }
     saveUi(); render();
-  });
-  let qT;
-  $('#q').addEventListener('input', e => {
-    clearTimeout(qT);
-    qT = setTimeout(() => { state.query = norm(e.target.value.trim()); render(); }, 120);
   });
   $('#gBody').addEventListener('click', e => {
     const t = e.target.closest('[data-toggle],[data-more],[data-goto],.ch'); if (!t) return;
@@ -288,7 +370,9 @@
       const s = lastSections.find(x => x.items.some(c => c.id === current.id));
       if (s) list = orderInSection(s);
     }
-    return list.length ? list : lastSections.flatMap(orderInSection);
+    list = list.filter(c => themeFilter(c));
+    if (!list.length) list = lastSections.flatMap(orderInSection).filter(c => themeFilter(c));
+    return list;
   }
   function orderInSection(s) {
     if (!s.groupBy) return s.items;
@@ -302,6 +386,8 @@
     if (state.view === 'reg' && ch._reg) state.open.reg.add(ch._reg);
     else if (state.view === 'tem' && ch._theme) state.open.tem.add(ch._theme);
     else if (state.view !== 'fav') { state.view = ch._reg ? 'reg' : 'tem'; state.open[state.view].add(ch._reg || ch._theme); }
+    // ⭐ sincronizar la columna izquierda de temáticas con el canal actual
+    if (ch._theme && state.theme !== 'all' && state.theme !== ch._theme) state.theme = ch._theme;
     const s = sectionsFor(state.view).find(x => x.key === (ch._reg || ch._theme));
     if (s) {
       const idx = orderInSection(s).findIndex(c => c.id === ch.id);
@@ -440,11 +526,12 @@
     }));
     const blob = new Blob([body.join('\n') + '\n'], { type: 'audio/x-mpegurl' });
     const a = document.createElement('a');
+    const tname = state.theme !== 'all' ? (THEMES.find(t => t.k === state.theme) || {}).name : null;
     a.href = URL.createObjectURL(blob);
     a.download = state.view === 'reg' ? 'tv-chile-regiones.m3u' : state.view === 'tem' ? 'tv-chile-tematicas.m3u' : 'tv-chile-favoritos.m3u';
     a.click();
     setTimeout(() => URL.revokeObjectURL(a.href), 1000);
-    toast(`Playlist descargada (${n} canales)`);
+    toast(`Playlist descargada (${n} canales)${tname ? ' · ' + tname : ''}`);
   });
 
   /* ---------- Deportes legales + estadísticas ---------- */
@@ -455,7 +542,8 @@
     </a>`).join('');
   const nRegs = new Set(regChans.map(c => c._reg)).size;
   $('#topStats').innerHTML = `<span><b>${chans.length}</b> canales</span><span><b>${regChans.length}</b> regionales · ${nRegs} regiones</span><span><b>${temChans.length}</b> por temática</span><span class="upd">🔄 actualizado 01-nov-2026 · v3.112</span>`;
-  $('#gFoot').textContent = 'Solo señales abiertas https · sanitizado (iptv-org + m3u.cl)';
+  $('#gFoot').textContent = 'Solo señales abiertas https · sanitizado (iptv-org + m3u.cl + 6 fuentes)';
+  $('#tFoot').textContent = 'Elige una temática para filtrar los canales →';
 
   render();
 
