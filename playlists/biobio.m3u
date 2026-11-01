@@ -1,0 +1,15 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="bbtv" group-title="Biobío",Bío Bío TV
+https://redirector.rudo.video/hls-video/339f69c6122f6d8f4574732c235f09b7683e31a5/bbtv/bbtv.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="ctv" group-title="Biobío",Concepción TV
+https://stream.blserver.cl/hls/ctv/index.m3u8
+#EXTINF:-1 tvg-id="c9" group-title="Biobío",Canal 9 Bío-Bío TV
+https://unlimited6-cl.dps.live/c9/c9.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="el3" group-title="Biobío",El 3 de Conce
+https://5ff3d9babae13.streamlock.net/xedkektnqj/xedkektnqj/playlist.m3u8
+#EXTINF:-1 tvg-id="conti" group-title="Biobío",Contivisión
+https://unlimited6-cl.dps.live/cm/cm.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="nctv" group-title="Biobío",NCTV
+https://pantera1-100gb-cl-movistar.dps.live/nctv/nctv.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="uct" group-title="Biobío",TV UCT
+https://unlimited1-us.dps.live/uct/uct.smil/playlist.m3u8

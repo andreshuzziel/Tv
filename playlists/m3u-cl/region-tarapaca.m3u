@@ -1,0 +1,5 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="314" tvg-logo="https://cdn.m3u.cl/logo/314_Iquique_TV.png" group-title="Región: Tarapacá",Iquique TV
+https://origin.skarnetchile.com:8081/iquiquetv-hd/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="1136" tvg-logo="https://cdn.m3u.cl/logo/1136_RTC_Television.png" group-title="Región: Tarapacá",RTC Television
+https://scl.edge.grupoz.cl/rtcstreaming/live/playlist.m3u8?PlaylistM3UCL

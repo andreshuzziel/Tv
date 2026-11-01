@@ -1,0 +1,149 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="3ABNInternational.us@SD" group-title="Religioso",3ABN International
+https://3abn.bozztv.com/3abn2/Int_live/smil:Int_live.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="ABCNewsLive.us@SD" group-title="Noticias",ABC News Live
+https://jmp2.uk/plu-6508be683a0d700008c534e4.m3u8
+#EXTINF:-1 tvg-id="AlJazeera.qa@English" group-title="Noticias",Al Jazeera English
+https://live-hls-apps-aje-fa.getaj.net/AJE/index.m3u8
+#EXTINF:-1 tvg-id="ArirangUN.kr@SD" group-title="Noticias",Arirang UN
+https://amdlive-ch02-ctnd-com.akamaized.net/arirang_2ch/smil:arirang_2ch.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="Armenia1.am@Sattelite" group-title="General",Armenia 1 Sattelite
+https://amtv.tulixcdn.com/amtv2/am2abr/index.m3u8
+#EXTINF:-1 tvg-id="AznewsTV.se@SD" group-title="Noticias",Aznews TV
+https://edge1.socialsmart.tv/aznews/smil/playlist.m3u8
+#EXTINF:-1 tvg-id="BloombergTV.us@Plus" group-title="Negocios",Bloomberg TV +
+https://d8975dc3.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1nYl9CbG9vbWJlcmdUVlBsdXNfSExT/playlist.m3u8
+#EXTINF:-1 tvg-id="BVN.nl@SD" group-title="General",BVN
+https://tv.ft.md.npox.nl/2D3RhEOhAQWhBE5ucG8tcHJvZC1jYXQtMVhtpQFubnBvLXBsYXllci1hcGkEGmrU6TAHUMoWYxpMO-JwSGbPSI_FUeUZATYBGQE4owChAGVodHRwcwGhAHB0di5mdC5tZC5ucG94Lm5sBaEBeBovTDIvYzA2MjBmYWYvMjdlYTIwODguaXNtbFggydhaqdtF_IHCX4a0VwNuBEfPoPT2H6JQxyZeZQoJUxk/L2/c0620faf/27ea2088.isml/dash.mpd
+#EXTINF:-1 tvg-id="CCTV4America.cn@SD" group-title="General",CCTV-4 America
+https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8
+#EXTINF:-1 tvg-id="CGTN.cn@SD" group-title="Noticias",CGTN
+https://amg00405-rakutentv-cgtn-rakuten-i9tar.amagi.tv/master.m3u8
+#EXTINF:-1 tvg-id="CGTNDocumentary.cn@SD" group-title="Documentales",CGTN Documentary
+https://amg00405-rakutentv-cgtndocumentary-rakuten-0ql8j.amagi.tv/master.m3u8
+#EXTINF:-1 tvg-id="CGTNFrench.cn@SD" group-title="Noticias",CGTN French
+https://amg01314-cgtn-amg01314c2-rakuten-us-1319.playouts.now.amagi.tv/cgtn-fr-rakuten/playlist.m3u8
+#EXTINF:-1 tvg-id="CGTNGlobalBiz.cn@SD" group-title="Negocios",CGTN Global Biz
+https://fastlive.cctvplus.com/out/v1/2b3d8a0c805d437f9dc85b764c2ac599/index.m3u8
+#EXTINF:-1 tvg-id="ChinaTravel.cn@SD" group-title="Cultura",China Travel
+https://fastlive.cctvplus.com/out/v1/ca6f9297b7314a63959435028af287fc/index.m3u8
+#EXTINF:-1 tvg-id="ClassicArtsShowcase.us@SD" group-title="Cultura",Classic Arts Showcase
+https://classicarts.akamaized.net/hls/live/1024257/CAS/master.m3u8
+#EXTINF:-1 tvg-id="DeFianceMedia.pr@SD" group-title="Negocios",DeFiance Media
+https://amg01529-defiancetv-defiancemedia-glewed-tre8x.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="DGRadio.au@HD" group-title="Música",DG:Radio
+https://mdn.dg.church/683c0cb036885-1/index.m3u8
+#EXTINF:-1 tvg-id="DGTV.au@HD" group-title="Religioso",DG:TV
+https://mdn.dg.church/673ac57a073a4-1/index.m3u8
+#EXTINF:-1 tvg-id="DiscoveringChina.cn@SD" group-title="Cultura",Discovering China
+https://fastlive.cctvplus.com/out/v1/8442c3bfd4c64a3984389328f6087879/index.m3u8
+#EXTINF:-1 tvg-id="DocuBox.nl@SD" group-title="Documentales",DocuBox
+https://dash3.antik.sk/live/test_docubox_medium_atk/playlist.m3u8
+#EXTINF:-1 tvg-id="DocumentaryPlus.us@International" group-title="Documentales",Documentary+ International
+https://1d153317c8db4250b3789601274e2402.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-887-DOCUMENTARYINTERNATIONAL-DOCUMENTARYPLUS/mt/documentaryplus/887/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-id="DroneTV.us@SD" group-title="Relajación",DroneTV
+https://airvuz-dronetv-1-us.ohlscdn.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="ElyssaTV.tn@HD" group-title="Noticias",Elyssa TV
+https://tv.elyssatv.com/live/master.m3u8
+#EXTINF:-1 tvg-id="EuronewsEnglish.fr@SD" group-title="Noticias",Euronews English
+https://jmp2.uk/plu-61de96114757070008d33cae.m3u8
+#EXTINF:-1 tvg-id="EuronewsEnglish.fr@HD" group-title="Noticias",Euronews English HD
+https://dash4.antik.sk/live/test_euronews/playlist.m3u8
+#EXTINF:-1 tvg-id="FloHockey.us@HD" group-title="Deportes",FloHockey
+https://amg02278-amg02278c2-flosports-worldwide-9916.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="FloRacing.us@HD" group-title="Deportes",FloRacing
+https://amg02278-amg02278c1-flosports-worldwide-7592.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="France24.fr@French" group-title="Noticias",France 24
+https://live.france24.com/hls/live/2037179-b/F24_FR_HI_HLS/master_5000.m3u8
+#EXTINF:-1 tvg-id="France24.fr@English" group-title="Noticias",France 24 English
+https://live.france24.com/hls/live/2037218-b/F24_EN_HI_HLS/master_5000.m3u8
+#EXTINF:-1 tvg-id="FUELTV.pt@US" group-title="Deportes",FUEL TV US
+https://amg01074-fueltv-amg01074c1-firetv-us-3150.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="GloobWeb.br@SD" group-title="Infantil",Gloob Web
+https://vs20.live.opencaster.com/globiosat_73a904af/index.m3u8
+#EXTINF:-1 tvg-id="GustoTV.ca@SD" group-title="Cocina",Gusto TV
+https://e75fc053c0d2406fb74cdd71d77e1a7f.mediatailor.us-east-1.amazonaws.com/v1/master/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/RakutenTV-eu_GustoTV/playlist.m3u8
+#EXTINF:-1 tvg-id="i24NEWSEnglishWorld.il@SD" group-title="Noticias",i24NEWS English World
+https://i24newsenglish-cdn.encoders.immergo.tv/master.m3u8
+#EXTINF:-1 tvg-id="IMPDTVWorldwide.br@SD" group-title="Religioso",IMPD TV Worldwide
+https://igrejamundial.nuvemplay.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="KaloopyTV.us@SD" group-title="Estilo de vida",Kaloopy TV
+https://streamingserver000.viewtv.cloud/VIEWTVNETWORK-KALOOPY/index.m3u8
+#EXTINF:-1 tvg-id="KBSWorld.kr@SD" group-title="General",KBS World
+https://stream8.cinerama.uz/1448/playlist.m3u8
+#EXTINF:-1 tvg-id="KoreanCentralTelevision.kp@HD" group-title="General",Korean Central Television
+https://live.koryocdn.org/kctv/index.m3u8
+#EXTINF:-1 tvg-id="KoreanCentralTelevision.kp@SD" group-title="General",Korean Central Television SD
+https://streamer.nknews.org/tvdash/stream.mpd
+#EXTINF:-1 tvg-id="MasterChefsAcademyTV.uk@HD" group-title="Cocina",Master Chefs Academy TV
+https://platform-iuoamc.uk/iptv/mca-tv/index.m3u8
+#EXTINF:-1 tvg-id="Motorvision.de@SD" group-title="Autos",Motorvision
+https://mvg-mv-xumo.otteravision.com/mvg/mv/mv.m3u8
+#EXTINF:-1 tvg-id="NBTWorld.th@SD" group-title="General",NBT World
+https://cdn-edge.iiptvcdn.com/live_event/smil:d36f-93c1-9c58-fdcc-427f.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="NewChannelPop.ca@SD" group-title="Infantil",New Channel Pop!
+https://vodcdn.bamboo-cloud.com/livehls/6ab37c6c7e057f9063071c85/master.m3u8
+#EXTINF:-1 tvg-id="NewsoftheWorld.us@Global" group-title="Noticias",News of the World
+https://nowhls.wns.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="NHKWorldJapan.jp@SD" group-title="Cultura",NHK World-Japan
+https://masterpl.hls.nhkworld.jp/hls/w/live/smarttv.m3u8
+#EXTINF:-1 tvg-id="NHKWorldJapan.jp@HD" group-title="Cultura",NHK World-Japan HD
+https://freem3u.xyz/api/live/play.m3u8?vid=106
+#EXTINF:-1 tvg-id="NowMediaTelevision.us@HD" group-title="Estilo de vida",NowMedia Television
+https://stream-204968.castr.net/64e0c91d08bff3041638aee3/live_a4243540d4b911f0b624bda5e9a32aa9/index.m3u8
+#EXTINF:-1 tvg-id="RacerNetwork.us@SD" group-title="Deportes",Racer Network
+https://amg00378-mavtv-amg00378c2-samsung-au-1790.playouts.now.amagi.tv/playlist/amg00378-mavtvfast-motorsportsnetwork-samsungau/playlist.m3u8
+#EXTINF:-1 tvg-id="RacerSelect.us@SD" group-title="Deportes",Racer Select
+https://amg00378-amg00378c4-freelivesports-emea-5637.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="RaiItalia.it@NorthAmericas" group-title="General",Rai Italia North Americas
+https://d3k8wzt41aflvx.cloudfront.net/RAIUSA/Live.m3u8
+#EXTINF:-1 tvg-id="RaiItalia.it@SouthAmericas" group-title="General",Rai Italia South Americas
+https://d3k8wzt41aflvx.cloudfront.net/RAISA/Live.m3u8
+#EXTINF:-1 tvg-id="RedCCTV.bo@SD" group-title="General",Red CCTV
+https://solo.disfrutaenlared.com:1936/redcctv/redcctv/playlist.m3u8
+#EXTINF:-1 tvg-id="RTDocumentary.ru@English" group-title="Documentales",RT Documentary
+https://rt-rtd.rttv.com/dvr/rtdoc/playlist.m3u8
+#EXTINF:-1 tvg-id="RTPMundo.pt@SD" group-title="General",RTP Mundo
+https://streaming-live.rtp.pt/liverepeater/smil:rtpi.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="Shalom.in@Global" group-title="Religioso",Shalom Global
+https://d28xtgmk9tfk6b.cloudfront.net/master.m3u8
+#EXTINF:-1 tvg-id="ShalomWorld.us@NorthAmerica" group-title="Religioso",Shalom World
+https://broadcaster-1.cclouds.in/srt-2/channel2_abr/playlist.m3u8
+#EXTINF:-1 tvg-id="ShalomWorldPrayer.us@SD" group-title="Religioso",Shalom World Prayer
+https://broadcaster-1.cclouds.in/srt-4/channel4_abr/playlist.m3u8
+#EXTINF:-1 tvg-id="SKITV.ch@SD" group-title="Deportes",SKI TV
+https://d2xeo83q8fcni6.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/SkiTV-SportsTribal/193.m3u8
+#EXTINF:-1 tvg-id="StingrayTikTokRadio.ca@HD" group-title="Música",Stingray TikTok Radio
+https://d3f4oii5n0oeqi.cloudfront.net/11701/88814594/hls/master.m3u8?ads.xumo_channelId=88814594
+#EXTINF:-1 tvg-id="SuperyachtTV.mc@SD" group-title="Estilo de vida",Superyacht TV
+https://sy.wns.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="Telesur.ve@English" group-title="Noticias",Telesur English
+https://mblenmain01.telesur.ultrabase.net/mblivev3/480p/playlist.m3u8
+#EXTINF:-1 tvg-id="Telesur.ve@EnglishHD" group-title="Noticias",Telesur English HD
+https://mblenmain01.telesur.ultrabase.net/mblivev3/hd/playlist.m3u8
+#EXTINF:-1 tvg-id="ThePetCollective.us@Mexico" group-title="Familia",The Pet Collective Mexico
+https://the-pet-collective-international-mx.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="TOIGlobal.in@SD" group-title="Noticias",TOI Global
+https://live.sli.ke/live/npnhm84gz9/master.m3u8
+#EXTINF:-1 tvg-id="TomAndJerry.do@HD" group-title="Infantil",Tom And Jerry
+https://live20.bozztv.com/giatvplayout7/giatv-208314/playlist.m3u8
+#EXTINF:-1 tvg-id="TRTWorld.tr@SD" group-title="Noticias",TRT World
+https://mumbai-edge.smartplaytv.in/TRTWorld/index.m3u8
+#EXTINF:-1 tvg-id="TRTWorld.tr@HD" group-title="Noticias",TRT World HD
+https://dash2.antik.sk/live/test_trt_world_atktv/playlist.m3u8
+#EXTINF:-1 tvg-id="TV5MONDEChefs.fr@SD" group-title="Cocina",TV5MONDE Chefs
+https://tvf-tv5ch.otteravision.com/tvf/tv5ch/tv5ch.m3u8
+#EXTINF:-1 tvg-id="TVBozsikeHamburgHD.de@HD" group-title="Música",TV Bozsike Hamburg HD
+https://rtmp.radiobozsike.com/hls/stream1.m3u8
+#EXTINF:-1 tvg-id="TVMaya.gt@SD" group-title="Educación",TV Maya
+https://5ca9af4645e15.streamlock.net/mayas/videomayas/playlist.m3u8
+#EXTINF:-1 tvg-id="UNWebTV.us@SD" group-title="Noticias",UN Web TV
+https://cdnapi.kaltura.com/p/2503451/sp/250345100/playManifest/entryId/1_gb6tjmle/protocol/https/format/applehttp/a.m3u8
+#EXTINF:-1 tvg-id="WeatherSpy.mx@SD" group-title="Clima",WeatherSpy (Mexico)
+https://jukin-weatherspy-2-mx.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="WildEarth.za@SD" group-title="Documentales",WildEarth
+https://dqga3jatxofgx.cloudfront.net/WildEarth.m3u8
+#EXTINF:-1 tvg-id="YOYInternational.id@HD" group-title="General",YOY International
+https://gist.githubusercontent.com/iptvonlinetv/8a6b2f12e5e968537378f1245cea02c9/raw/78bf84476f8e24cc8ea9d5ac24855078c61b18db/udp305.575.530:3030.m3u8
+#EXTINF:-1 tvg-id="ZooMoo.sg@SD" group-title="Infantil",ZooMoo
+https://zoomoo-samsungau.amagi.tv/playlist.m3u8

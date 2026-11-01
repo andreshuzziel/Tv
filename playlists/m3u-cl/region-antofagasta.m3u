@@ -1,0 +1,7 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="1755" tvg-logo="https://cdn.m3u.cl/logo/1755_FM_Plus.png" group-title="Región: Antofagasta",FM Plus
+https://v2.tustreaming.cl/fmplus/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="1671" tvg-logo="https://cdn.m3u.cl/logo/1671_Omega_Radio.png" group-title="Región: Antofagasta",Omega Radio
+https://v2.tustreaming.cl:443/broadcastingtx/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="71" tvg-logo="https://cdn.m3u.cl/logo/71_Antofagasta_TV.png" group-title="Región: Antofagasta",Antofagasta TV
+https://unlimited1-cl-isp.dps.live/atv/atv.smil/playlist.m3u8?PlaylistM3UCL

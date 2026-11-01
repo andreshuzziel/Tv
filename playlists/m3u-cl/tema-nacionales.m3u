@@ -1,0 +1,25 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="790" tvg-logo="https://cdn.m3u.cl/logo/790_La_Red.png" group-title="Tema: Nacionales",La Red
+https://live.getcirca.run/3969875408/ts:abr.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="458" tvg-logo="https://cdn.m3u.cl/logo/458_TV_.png" group-title="Tema: Nacionales",TV+
+https://redirector.rudo.video/hls-video/ey6283je82983je9823je8jowowiekldk9838274/tvmas/tvmas.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="1437" tvg-logo="https://cdn.m3u.cl/logo/1437_TVN3.png" group-title="Tema: Nacionales",TVN3
+https://mdstrm.com/live-stream-playlist/5653641561b4eba30a7e4929.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="455" tvg-logo="https://cdn.m3u.cl/logo/455_Mega.png" group-title="Tema: Nacionales",Mega
+https://unlimited2-cl-isp.dps.live/mega/mega.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="1569" tvg-logo="https://cdn.m3u.cl/logo/1569_CHV.png" group-title="Tema: Nacionales",CHV
+https://redirector.rudo.video/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/chv/chv.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="457" tvg-logo="https://cdn.m3u.cl/logo/457_Canal_13.png" group-title="Tema: Nacionales",Canal 13
+https://redirector.rudo.video/hls-video/ey6283je82983je9823je8jowowiekldk9838274/13popup/13popup.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="1193" tvg-logo="https://cdn.m3u.cl/logo/1193_13_Cultura.png" group-title="Tema: Nacionales",13 Cultura
+https://redirector.dps.live/hls/13cultura/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="1033" tvg-logo="https://cdn.m3u.cl/logo/1033_13_Pop.png" group-title="Tema: Nacionales",13 Pop
+https://redirector.dps.live/hls/13pop/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="1032" tvg-logo="https://cdn.m3u.cl/logo/1032_13_Teleseries.png" group-title="Tema: Nacionales",13 Teleseries
+https://redirector.dps.live/hls/13t/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="1446" tvg-logo="https://cdn.m3u.cl/logo/1446_13_Festival.png" group-title="Tema: Nacionales",13 Festival
+https://redirector.dps.live/hls/13festival/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="1448" tvg-logo="https://cdn.m3u.cl/logo/1448_13_Realities.png" group-title="Tema: Nacionales",13 Realities
+https://redirector.dps.live/hls/13realities/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="1684" tvg-logo="https://cdn.m3u.cl/logo/1684_13_Viajes.png" group-title="Tema: Nacionales",13 Viajes
+https://redirector.dps.live/hls/13viajes/playlist.m3u8?PlaylistM3UCL

@@ -1,0 +1,45 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="161" tvg-logo="https://cdn.m3u.cl/logo/161_Vida_TV.png" group-title="Tema: Religiosos",Vida TV
+https://player.netv.cl/vidatv/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="169" tvg-logo="https://cdn.m3u.cl/logo/169_Televida_HD.png" group-title="Tema: Religiosos",Televida HD
+https://tls-cl.cdnz.cl/televida/live/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="351" tvg-logo="https://cdn.m3u.cl/logo/351_Restaurando_Vidas_TV.png" group-title="Tema: Religiosos",Restaurando Vidas TV
+https://v4.tustreaming.cl/restaurandovida/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="167" tvg-logo="https://cdn.m3u.cl/logo/167_Radio_Vida_Curico.png" group-title="Tema: Religiosos",Radio Vida Curico
+https://v2.tustreaming.cl/radiovidacurico/rewind-999999.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="164" tvg-logo="https://cdn.m3u.cl/logo/164_NCTV.png" group-title="Tema: Religiosos",NCTV
+https://pantera1-100gb-cl-movistar.dps.live/nctv/nctv.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="163" tvg-logo="https://cdn.m3u.cl/logo/163_Gracia_TV.png" group-title="Tema: Religiosos",Gracia TV
+https://v4.tustreaming.cl/graciatv/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="159" tvg-logo="https://cdn.m3u.cl/logo/159_Canal_ISB.png" group-title="Tema: Religiosos",Canal ISB
+https://unlimited1-cl-isp.dps.live/isb/isb.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="1384" tvg-logo="https://cdn.m3u.cl/logo/1384_Metanoia_TV.png" group-title="Tema: Religiosos",Metanoia TV
+https://live.mtna.tv/hls/mtna/mtna.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="1399" tvg-logo="https://cdn.m3u.cl/logo/1399_IPNA_Medio.png" group-title="Tema: Religiosos",IPNA Medio
+https://paneltv.stream:19360/ipnamedios/ipnamedios.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="1412" tvg-logo="https://cdn.m3u.cl/logo/1412_Enlace_BPB.png" group-title="Tema: Religiosos",Enlace BPB
+https://v1.tustreaming.cl/enlacebpbtv/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="173" tvg-logo="https://cdn.m3u.cl/logo/173_Escuchame_Radio.png" group-title="Tema: Religiosos",Escuchame Radio
+https://Stmv1.transmissaodigital.com/pedro9800/pedro9800/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="1480" tvg-logo="https://cdn.m3u.cl/logo/1480_Fortaleza_Radio.png" group-title="Tema: Religiosos",Fortaleza Radio
+https://live.tvcontrolcp.com:1936/fortalezatv/fortalezatv/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="1479" tvg-logo="https://cdn.m3u.cl/logo/1479_Fortaleza_TV.png" group-title="Tema: Religiosos",Fortaleza TV
+https://multimedia.fortalezatv.cl/video/video.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="1638" tvg-logo="https://cdn.m3u.cl/logo/1638_ADA_TV.png" group-title="Tema: Religiosos",ADA TV
+https://v4.tustreaming.cl/adatvchile/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="1711" tvg-logo="https://cdn.m3u.cl/logo/1711_Alegria_Cristiana.png" group-title="Tema: Religiosos",Alegria Cristiana
+https://vdochile.com:3182/hybrid/play.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="1714" tvg-logo="https://cdn.m3u.cl/logo/1714_Tv_Catedral_de_la_Florida.png" group-title="Tema: Religiosos",Tv Catedral de la Florida
+https://live20.bozztv.com/akamaissh101/ssh101/asjdksa/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="1735" tvg-logo="https://cdn.m3u.cl/logo/1735_NG_Channel.png" group-title="Tema: Religiosos",NG Channel
+https://vdochile.com:3222/live/ngchalive.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="1756" tvg-logo="https://cdn.m3u.cl/logo/1756_Cristo_Razon_De_Vivir.png" group-title="Tema: Religiosos",Cristo Razon De Vivir
+https://tv.arkeo.cl:19360/8058/8058.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="1760" tvg-logo="https://cdn.m3u.cl/logo/1760_Plenitud_TV.png" group-title="Tema: Religiosos",Plenitud TV
+https://live20.bozztv.com/giatvplayout7/giatv-208727/tracks-v1a1/mono.ts.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="1766" tvg-logo="https://cdn.m3u.cl/logo/1766_Plenitud_Juvenil.png" group-title="Tema: Religiosos",Plenitud Juvenil
+https://live20.bozztv.com/giatvplayout7/giatv-209259/tracks-v1a1/mono.ts.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="1789" tvg-logo="https://cdn.m3u.cl/logo/1789_Plenitud_TV_2.png" group-title="Tema: Religiosos",Plenitud TV 2
+https://live20.bozztv.com/giatvplayout7/giatv-212033/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="1806" tvg-logo="https://cdn.m3u.cl/logo/1806_Horeb_Television.png" group-title="Tema: Religiosos",Horeb Television
+https://multistream.comunikados.cl/live/horebtv/playlist.m3u8?PlaylistM3UCL

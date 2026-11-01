@@ -1,0 +1,9 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="1793" tvg-logo="https://cdn.m3u.cl/logo/1793_TV_Valdivia.png" group-title="Región: Los Ríos",TV Valdivia
+https://5eaccbab48461.streamlock.net:1936/8206/8206/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="359" tvg-logo="https://cdn.m3u.cl/logo/359_Canal_Latino_54.png" group-title="Región: Los Ríos",Canal Latino 54
+https://videostream.chileservidores.com:8081/latina/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="1383" tvg-logo="https://cdn.m3u.cl/logo/1383_ATV_Valdivia.png" group-title="Región: Los Ríos",ATV Valdivia
+https://live.mtna.tv/hls/atv/atv.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="1384" tvg-logo="https://cdn.m3u.cl/logo/1384_Metanoia_TV.png" group-title="Región: Los Ríos",Metanoia TV
+https://live.mtna.tv/hls/mtna/mtna.m3u8?PlaylistM3UCL

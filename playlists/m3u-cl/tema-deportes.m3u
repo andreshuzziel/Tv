@@ -1,0 +1,15 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="1098" tvg-logo="https://cdn.m3u.cl/logo/1098_CRTV.png" group-title="Tema: Deportes",CRTV
+https://stmv2.voxtvhd.com.br/crtvchile/crtvchile/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="1763" tvg-logo="https://cdn.m3u.cl/logo/1763_CHV_Deportes.png" group-title="Tema: Deportes",CHV Deportes
+https://redirector.rudo.video/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/chvdeportes/chvdeportes.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="1530" tvg-logo="https://cdn.m3u.cl/logo/1530_13_go.png" group-title="Tema: Deportes",13 go
+https://origin.dpsgo.com/ssai/event/LhHrVtyeQkKZ-Ye_xEU75g/master.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="1598" tvg-logo="https://cdn.m3u.cl/logo/1598_FutGO.png" group-title="Tema: Deportes",FutGO
+https://origin.dpsgo.com/ssai/event/Jxo4ZkwHQr-9XqguRcdsSg/master.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="1199" tvg-logo="https://cdn.m3u.cl/logo/1199_D13.png" group-title="Tema: Deportes",D13
+https://origin.dpsgo.com/ssai/event/uFiYkh4CQPCPgbs7WPKhXw/master.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="376" tvg-logo="https://cdn.m3u.cl/logo/376_Teletrak.png" group-title="Tema: Deportes",Teletrak
+https://teletraktv.janus.cl/playlist/stream.m3u8?t=0&s=&p=&id=lufuufsd&d=w&PlaylistM3UCL
+#EXTINF:-1 tvg-id="374" tvg-logo="https://cdn.m3u.cl/logo/374_TV_Turf.png" group-title="Tema: Deportes",TV Turf
+https://tvturf4.janus.cl/playlist/stream.m3u8?d=w&id=lufv0n9d&t=1711909093&q=2&s=sd&PlaylistM3UCL

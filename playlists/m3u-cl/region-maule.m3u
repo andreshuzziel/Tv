@@ -1,0 +1,47 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="1706" tvg-logo="https://cdn.m3u.cl/logo/1706_Central_TV.png" group-title="Región: Maule",Central TV
+https://freya.mivideo.pro/centraltv/video.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="417" tvg-logo="https://cdn.m3u.cl/logo/417_Radio_Favorita.png" group-title="Región: Maule",Radio Favorita
+https://freya.mivideo.pro/favoritatv2/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="1777" tvg-logo="https://cdn.m3u.cl/logo/1777_Radio_Via_7_TV.png" group-title="Región: Maule",Radio Via 7 TV
+https://tv.arkeo.cl:1936/radiovia7tv/radiovia7tv/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="1495" tvg-logo="https://cdn.m3u.cl/logo/1495_Mas_Radio_TV.png" group-title="Región: Maule",Mas Radio TV
+https://iptv.intersurtv.cl/intersur_mauletv/index.fmp4.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="1775" tvg-logo="https://cdn.m3u.cl/logo/1775_LaMix_TV.png" group-title="Región: Maule",LaMix TV
+https://lbgo.bozztv.com/ssh101/ssh101/lamixtv/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="1734" tvg-logo="https://cdn.m3u.cl/logo/1734_Lila_TV_Pencahue.png" group-title="Región: Maule",Lila TV Pencahue
+https://tv.arkeo.cl:1936/radiolila/radiolila/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="1630" tvg-logo="https://cdn.m3u.cl/logo/1630_Poesia_TV.png" group-title="Región: Maule",Poesia TV
+https://5eaccbab48461.streamlock.net:1936/8034/8034/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="55" tvg-logo="https://cdn.m3u.cl/logo/55_UTalcaTV.png" group-title="Región: Maule",UTalcaTV
+https://unlimited1-cl-isp.dps.live/campustv/campustv.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="79" tvg-logo="https://cdn.m3u.cl/logo/79_En_Linea_Maule.png" group-title="Región: Maule",En Linea Maule
+https://v1.tustreaming.cl/enlineamauletv/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="343" tvg-logo="https://cdn.m3u.cl/logo/343_VLTV.png" group-title="Región: Maule",VLTV
+https://andromeda2.trapemn.tv:1936/regionales/vltv.stream/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="1432" tvg-logo="https://cdn.m3u.cl/logo/1432_El_Centro_TV.png" group-title="Región: Maule",El Centro TV
+https://v1.tustreaming.cl:443/diarioelcentrotv/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="80" tvg-logo="https://cdn.m3u.cl/logo/80_TV_5_Linares.png" group-title="Región: Maule",TV 5 Linares
+https://v1.tustreaming.cl/tv5linares/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="81" tvg-logo="https://cdn.m3u.cl/logo/81_Contivision.png" group-title="Región: Maule",Contivision
+https://unlimited2-cl-isp.dps.live/cm/cm.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="345" tvg-logo="https://cdn.m3u.cl/logo/345_UTV_San_Clemente.png" group-title="Región: Maule",UTV San Clemente
+https://v2.tustreaming.cl/utv/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="346" tvg-logo="https://cdn.m3u.cl/logo/346_Nativa_TV.png" group-title="Región: Maule",Nativa TV
+https://origin-us.streaminghd.cl/nativatv/nativatv/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="1164" tvg-logo="https://cdn.m3u.cl/logo/1164_Maule_Vision.png" group-title="Región: Maule",Maule Vision
+https://v2.tustreaming.cl/maulevisiontv/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="1431" tvg-logo="https://cdn.m3u.cl/logo/1431_Canal_30_Loncomilla.png" group-title="Región: Maule",Canal 30 Loncomilla
+https://v1.tustreaming.cl:443/canal30loncomilla/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="1302" tvg-logo="https://cdn.m3u.cl/logo/1302_Telecauquenes.png" group-title="Región: Maule",Telecauquenes
+https://live20.bozztv.com/akamaissh101/ssh101/telecauquenestv/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="416" tvg-logo="https://cdn.m3u.cl/logo/416_Sabor_TV.png" group-title="Región: Maule",Sabor TV
+https://v1.tustreaming.cl/sabortv/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="1646" tvg-logo="https://cdn.m3u.cl/logo/1646_Radio_Frecuencia_Uno.png" group-title="Región: Maule",Radio Frecuencia Uno
+https://v1.tustreaming.cl/frecuencia1tv/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="406" tvg-logo="https://cdn.m3u.cl/logo/406_Radio_Ancoa_TV.png" group-title="Región: Maule",Radio Ancoa TV
+https://v2.tustreaming.cl/radioancoatv/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="167" tvg-logo="https://cdn.m3u.cl/logo/167_Radio_Vida_Curico.png" group-title="Región: Maule",Radio Vida Curico
+https://v2.tustreaming.cl/radiovidacurico/rewind-999999.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="1711" tvg-logo="https://cdn.m3u.cl/logo/1711_Alegria_Cristiana.png" group-title="Región: Maule",Alegria Cristiana
+https://vdochile.com:3182/hybrid/play.m3u8?PlaylistM3UCL

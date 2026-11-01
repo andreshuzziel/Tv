@@ -1,0 +1,124 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>TV Chile · Repositorio de canales abiertos</title>
+<link rel="stylesheet" href="styles.css">
+</head>
+<body>
+<div class="app">
+
+  <!-- MAIN (izquierda) -->
+  <main class="main">
+    <header class="topbar">
+      <div class="brand">
+        <div class="flag" aria-hidden="true">
+          <svg viewBox="0 0 30 20" width="34" height="23">
+            <rect width="30" height="10" fill="#fff"/>
+            <rect y="10" width="30" height="10" fill="#D52B1E"/>
+            <rect width="10" height="10" fill="#0039A6"/>
+            <polygon points="5,2 6.1,5.2 9.5,5.2 6.7,7.2 7.8,10.4 5,8.4 2.2,10.4 3.3,7.2 0.5,5.2 3.9,5.2" fill="#fff"/>
+          </svg>
+        </div>
+        <div>
+          <h1>TV Chile</h1>
+          <p>repo de canales abiertos</p>
+        </div>
+      </div>
+      <div class="top-stats" id="topStats"></div>
+    </header>
+
+    <section class="player-wrap">
+      <div class="screen" id="screen">
+        <video id="video" playsinline controls autoplay></video>
+        <button id="unmuteBtn" class="unmute" hidden>🔇 Toca para activar el sonido</button>
+        <div class="overlay" id="overlay">
+          <div class="ov-card">
+            <div class="ov-logo" id="ovLogo">TV</div>
+            <h2 id="ovName">Elige un canal</h2>
+            <p id="ovNote">Elige una región o una temática en el panel de la derecha: el canal se sintoniza solo. Usa ↑ / ↓ para hacer zapping.</p>
+            <div class="ov-actions">
+              <a id="webBtn" class="ghost" target="_blank" rel="noopener" hidden>Sitio oficial ↗</a>
+            </div>
+            <div class="ov-status" id="ovStatus"></div>
+          </div>
+        </div>
+      </div>
+
+      <div class="nowbar">
+        <div class="now">
+          <span class="dot" id="dot"></span>
+          <span class="cflag big" id="nowFlag"></span>
+          <strong id="nowName">Sin señal</strong>
+          <span class="sep">·</span>
+          <span id="nowGroup">—</span>
+        </div>
+        <div class="now-tools">
+          <button id="copyBtn" class="chip" title="Copiar URL del stream">Copiar URL</button>
+          <button id="vlcBtn" class="chip" title="Cómo abrir en VLC">Abrir en VLC</button>
+          <button id="favBtn" class="chip" title="Favorito">☆ Favorito</button>
+        </div>
+      </div>
+    </section>
+
+    <section class="panels">
+      <article class="panel">
+        <h3>⚽ Deportes — alternativas legales</h3>
+        <p class="muted">No incluimos señales de TV de pago (TNT Sports, ESPN, DSports) porque esos enlaces de las listas públicas son retransmisiones no autorizadas. Estas son las vías oficiales:</p>
+        <div class="sports" id="sports"></div>
+      </article>
+
+      <article class="panel">
+        <h3>🧩 Cómo usar este repositorio</h3>
+        <ol class="steps">
+          <li><strong>En el navegador:</strong> elige un canal en el panel de la derecha y se sintoniza solo.</li>
+          <li><strong>En VLC:</strong> <code>Medio → Abrir ubicación de red</code> y pega la URL del canal.</li>
+          <li><strong>TiviMate / OTT Navigator:</strong> descarga la playlist de la vista actual (botón ⬇ del panel).</li>
+          <li><strong>Playlists del repo:</strong> <code>playlists/chile-segura.m3u</code>, <code>playlists/m3u-cl/region-*.m3u</code>, <code>playlists/es/tema-*.m3u</code>.</li>
+        </ol>
+      </article>
+
+      <article class="panel warn">
+        <h3>⚠️ Aviso</h3>
+        <p class="muted">Solo se enlazan señales de <strong>televisión abierta y pública</strong> publicadas por los propios canales (todas https). Los enlaces pueden caerse o cambiar sin aviso; algunos tienen geobloqueo y otros no emiten 24/7.</p>
+      </article>
+    </section>
+  </main>
+
+  <!-- PANEL DE CANALES (derecha) — rehecho desde cero -->
+  <aside class="guide" id="guide">
+    <div class="g-head">
+      <div class="g-title">
+        <h2>Guía de canales</h2>
+        <span id="gCount">—</span>
+      </div>
+      <button class="g-dl" id="dl" title="Descargar la vista actual como .m3u">⬇ M3U</button>
+    </div>
+
+    <div class="g-search">
+      <svg viewBox="0 0 24 24" width="16" height="16"><circle cx="11" cy="11" r="7" fill="none" stroke="currentColor" stroke-width="2"/><path d="M16.5 16.5 21 21" stroke="currentColor" stroke-width="2" stroke-linecap="round"/></svg>
+      <input id="q" type="search" placeholder="Buscar canal, región o tema…" autocomplete="off">
+    </div>
+
+    <div class="seg" id="seg" role="tablist">
+      <button data-v="reg" class="on" role="tab">📍 Regiones <b id="nReg"></b></button>
+      <button data-v="tem" role="tab">🎭 Temáticas <b id="nTem"></b></button>
+      <button data-v="fav" role="tab">★ <b id="nFav"></b></button>
+    </div>
+
+    <div class="g-sub" id="gSub"></div>
+
+    <div class="g-body" id="gBody"></div>
+
+    <div class="g-foot" id="gFoot"></div>
+  </aside>
+</div>
+
+<div class="toast" id="toast"></div>
+
+<script src="vendor/hls.min.js"></script>
+<script src="data/channels.js"></script>
+<script src="app.js"></script>
+</body>
+</html>

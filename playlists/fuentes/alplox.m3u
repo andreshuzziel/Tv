@@ -1,0 +1,203 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="net-tv" group-title="Noticias",Net TV
+https://unlimited1-us.dps.live/nettv/nettv.smil/nettv/livestream1/chunks.m3u8
+#EXTINF:-1 tvg-id="net-tv-2" group-title="Noticias",Net TV
+https://unlimited1-us.dps.live/nettv/nettv.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="net-tv-3" group-title="Noticias",Net TV
+https://unlimited6-cl.dps.live/nettv/nettv.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="net-tv-4" group-title="Noticias",Net TV
+https://unlimited1-us.dps.live/nettv/nettv.smil/nettv/livestream2/chunks.m3u8
+#EXTINF:-1 tvg-id="agricultura-tv" group-title="Música",AGRICULTURA TV
+https://unlimited2-cl-isp.dps.live/921tv/921tv.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="radio-alternativa-fm-huasco" group-title="Música",Radio Alternativa FM (Huasco)
+https://vs20.live.opencaster.com/alternativatv_859ab4a0/index.m3u8
+#EXTINF:-1 tvg-id="antofagasta-tv" group-title="General",Antofagasta TV
+https://unlimited1-cl-isp.dps.live/atv/atv.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="atacama-tv" group-title="General",Atacama TV
+https://v2.tustreaming.cl/atacamatv/index.m3u8
+#EXTINF:-1 tvg-id="atacama-tv-2" group-title="General",Atacama TV
+https://v2.tustreaming.cl/atacamatv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="aysen-tv" group-title="General",Aysen TV
+https://v1.tustreaming.cl/aysentv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="aysen-tv-2" group-title="General",Aysen TV
+https://v1.tustreaming.cl:443/aysentv/index.m3u8
+#EXTINF:-1 tvg-id="canal-2-quellon" group-title="General",Canal 2 Quellón
+https://unlimited2-cl-isp.dps.live/tvquellon/tvquellon.smil/tvquellon/livestream1/chunks.m3u8
+#EXTINF:-1 tvg-id="canal-2-quellon-2" group-title="General",Canal 2 Quellón
+https://redirector.dps.live/hls/tvquellon/playlist.m3u8
+#EXTINF:-1 tvg-id="canal-2-quellon-3" group-title="General",Canal 2 Quellón
+https://unlimited6-cl.dps.live/tvquellon/tvquellon.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="canal-2-quellon-4" group-title="General",Canal 2 Quellón
+https://unlimited1-cl-isp.dps.live/tvquellon/tvquellon.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="canal-2-quellon-5" group-title="General",Canal 2 Quellón
+https://unlimited2-cl-isp.dps.live/tvquellon/tvquellon.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="canal-2-san-antonio" group-title="General",Canal 2 San Antonio
+https://unlimited1-us.dps.live/canal2/canal2.smil/canal2/livestream1/chunks.m3u8
+#EXTINF:-1 tvg-id="canal-2-san-antonio-2" group-title="General",Canal 2 San Antonio
+https://pantera1-100gb-cl-movistar.dps.live/canal2/canal2.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="canal-2-san-antonio-3" group-title="General",Canal 2 San Antonio
+https://unlimited1-cl-isp.dps.live/canal2/canal2.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="canal-5-pto-montt" group-title="General",Canal 5 Pto. Montt
+https://5ff3d9babae13.streamlock.net:443/aufymdjpjf/aufymdjpjf/playlist.m3u8
+#EXTINF:-1 tvg-id="canal-9" group-title="General",Canal 9
+https://unlimited6-cl.dps.live/c9/c9.smil/c9/livestream1/chunks.m3u8
+#EXTINF:-1 tvg-id="canal-9-2" group-title="General",Canal 9
+https://unlimited1-cl-isp.dps.live/c9/c9.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="canal-local-quillota" group-title="General",Canal Local Quillota
+https://v2.tustreaming.cl/canallocalcl/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="canal-local-quillota-2" group-title="General",Canal Local Quillota
+https://v2.tustreaming.cl:443/canallocalcl/index.m3u8
+#EXTINF:-1 tvg-id="canal-sur-patagonia" group-title="General",Canal Sur Patagonia
+https://v2.tustreaming.cl/fmarcoirirs/index.m3u8
+#EXTINF:-1 tvg-id="canal-sur-patagonia-2" group-title="General",Canal Sur Patagonia
+https://v2.tustreaming.cl/fmarcoirirs/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="canal-sur-patagonia-3" group-title="General",Canal Sur Patagonia
+https://v2.tustreaming.cl:443/fmarcoirirs/index.m3u8
+#EXTINF:-1 tvg-id="clicktv-chile-coronel" group-title="General",ClickTv Chile (Coronel)
+https://v2.tustreaming.cl/clicktv/playlist.m3u8
+#EXTINF:-1 tvg-id="clicktv-chile-coronel-2" group-title="General",ClickTv Chile (Coronel)
+https://v2.tustreaming.cl/clicktv/index.m3u8
+#EXTINF:-1 tvg-id="contivision" group-title="General",Contivision
+https://unlimited1-cl-isp.dps.live/cm/cm.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="contivision-2" group-title="General",Contivision
+https://unlimited2-cl-isp.dps.live/cm/cm.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="decima-tv-ancud" group-title="General",Décima TV (Ancud)
+https://unlimited6-cl.dps.live/decimatv/decimatv.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="energeek-fan" group-title="General",EnerGeek Fan
+https://backend.energeek.cl/webtv/egfanweb/index.m3u8?token=ZZDemoIPTVGH
+#EXTINF:-1 tvg-id="energeek-fan-2" group-title="General",EnerGeek Fan
+https://backend.energeek.cl/webtv/egfanweb/index.m3u8?token=D3m0M3UCLWeb
+#EXTINF:-1 tvg-id="energeek-radio" group-title="Música",EnerGeek Radio
+https://backend.energeek.cl/webtv/egradioweb/index.m3u8?token=ZZDemoIPTVGH
+#EXTINF:-1 tvg-id="energeek-radio-2" group-title="Música",EnerGeek Radio
+https://backend.energeek.cl/webtv/egradioweb/index.m3u8?token=D3m0M3UCLWeb
+#EXTINF:-1 tvg-id="energeek-radio-3" group-title="Música",EnerGeek Radio
+https://backend.energeek.cl/webtv/egradioweb/index.m3u8?token=dEmoweBeneRGEek2025
+#EXTINF:-1 tvg-id="energeek-retro" group-title="General",EnerGeek Retro
+https://backend.energeek.cl/webtv/egretroweb/index.m3u8?token=ZZDemoIPTVGH
+#EXTINF:-1 tvg-id="energeek-retro-2" group-title="General",EnerGeek Retro
+https://backend.energeek.cl/webtv/egretroweb/index.m3u8?token=D3m0M3UCLWeb
+#EXTINF:-1 tvg-id="energeek-retro-3" group-title="General",EnerGeek Retro
+https://backend.energeek.cl/webtv/egretroweb/index.m3u8?token=dEmoweBeneRGEek2025
+#EXTINF:-1 tvg-id="energeek-retro-4" group-title="General",EnerGeek Retro
+https://backend.energeek.cl/webtv/egretro/mobile/index.m3u8?token=dEmoweBeneRGEek2025
+#EXTINF:-1 tvg-id="frecuencia-7" group-title="General",Frecuencia 7
+https://v2.tustreaming.cl:443/frecuencia7/index.m3u8
+#EXTINF:-1 tvg-id="holvoet-tv" group-title="General",Holvoet TV
+https://unlimited1-cl-isp.dps.live/holvoettv/holvoettv.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="canal-isb-iglesia-san-bernardo" group-title="Religioso",Canal ISB (Iglesia San Bernardo)
+https://unlimited1-cl-isp.dps.live/isb/isb.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="canal-isb-iglesia-san-bernardo-2" group-title="Religioso",Canal ISB (Iglesia San Bernardo)
+https://pantera1-100gb-cl-movistar.dps.live/isb/isb.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="itv-patagonia" group-title="General",ITV Patagonia
+https://unlimited1-cl-isp.dps.live/itv/itv.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="itv-patagonia-2" group-title="General",ITV Patagonia
+https://pantera1-100gb-cl-movistar.dps.live/itv/itv.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="itv-patagonia-3" group-title="General",ITV Patagonia
+https://unlimited1-us.dps.live/itv/itv.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="la-metrofm" group-title="Música",La MetroFM
+https://jireh-3-hls-video-cl-movistar.dps.live/hls-video/931b584451fa6dd1313ee66efbfd5802e3f3bcea/metropolitanatv/metropolitanatv.smil/metropolitanatv/livestream1/chunks.m3u8
+#EXTINF:-1 tvg-id="la-metrofm-2" group-title="Música",La MetroFM
+https://redirector.rudo.video/hls-video/931b584451fa6dd1313ee66efbfd5802e3f3bcea/metropolitanatv/metropolitanatv.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="marga-marga-tv" group-title="General",Marga Marga TV
+https://v1.tustreaming.cl/margamargatv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="mega-2" group-title="General",Mega
+https://unlimited1-cl-isp.dps.live/mega/mega.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="mega-3" group-title="General",Mega
+https://unlimited2-cl-isp.dps.live/mega/mega.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="nuble-rvt" group-title="General",Ñuble RVT
+https://tv.arkeo.cl:1936/canalrtv/canalrtv/chunklist.m3u8
+#EXTINF:-1 tvg-id="panoramica-informativa" group-title="General",Panoramica Informativa
+https://v2.tustreaming.cl:443/alingeproducciones/index.m3u8
+#EXTINF:-1 tvg-id="pichilemu-tv" group-title="General",Pichilemu TV
+https://5ff3d9babae13.streamlock.net:443/8028/8028/playlist.m3u8
+#EXTINF:-1 tvg-id="pinguino-tv" group-title="General",Pingüino TV
+https://streaming.elpinguino.com:5391/live/EP.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="pinguino-tv-2" group-title="General",Pingüino TV
+https://redirector.rudo.video/hls-video/339f69c6122f6d8f4574732c235f09b7683e31a5/pinguinotv/pinguinotv.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="pucon-tv" group-title="General",Pucón TV
+https://unlimited1-cl-isp.dps.live/pucontv/pucontv.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="pucon-tv-2" group-title="General",Pucón TV
+https://pantera1-100gb-cl-movistar.dps.live/pucontv/pucontv.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="pucon-tv-3" group-title="General",Pucón TV
+https://unlimited6-cl.dps.live/pucontv/pucontv.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="puranoticia-tv" group-title="General",Puranoticia TV
+https://pnt.janus.cl/playlist/stream.m3u8
+#EXTINF:-1 tvg-id="radio-el-conquistador-fm" group-title="Música",Radio El Conquistador FM
+https://redirector.rudo.video/hls-video/931b584451fa6dd1313ee66efbfd5802e3f3bcea/elconquistadortv/elconquistadortv.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="radio-el-conquistador-fm-2" group-title="Música",Radio El Conquistador FM
+https://v1.tustreaming.cl/conquistadorconcepcion/index.m3u8
+#EXTINF:-1 tvg-id="radio-graneros-tv" group-title="Música",Radio Graneros TV
+https://5ff3d9babae13.streamlock.net/rravdcnywy/rravdcnywy/playlist.m3u8
+#EXTINF:-1 tvg-id="radio-graneros-tv-2" group-title="Música",Radio Graneros TV
+https://5ff3d9babae13.streamlock.net:443/rravdcnywy/rravdcnywy/playlist.m3u8
+#EXTINF:-1 tvg-id="radio-graneros-tv-3" group-title="Música",Radio Graneros TV
+https://5ff3d9babae13.streamlock.net:1936/rravdcnywy/rravdcnywy/playlist.m3u8
+#EXTINF:-1 tvg-id="radio-la-clave" group-title="Música",Radio La Clave
+https://pantera1-100gb-cl-movistar.dps.live/laclavetv/laclavetv.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="sextavision" group-title="General",Sextavision
+https://5ff3d9babae13.streamlock.net:443/fzkqsdfray/fzkqsdfray/playlist.m3u8
+#EXTINF:-1 tvg-id="sextavision-2" group-title="General",Sextavision
+https://5ff3d9babae13.streamlock.net:1936/fzkqsdfray/fzkqsdfray/playlist.m3u8
+#EXTINF:-1 tvg-id="tele13-radio" group-title="Música",Tele13 Radio
+https://mdstrm.com/audio/5c915613519bce27671c4caa/live.m3u8
+#EXTINF:-1 tvg-id="tele13-radio-2" group-title="Música",Tele13 Radio
+https://unlimited1-cl-isp.dps.live/t13radio/t13radio.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="teleangol" group-title="General",TeleAngol
+https://unlimited1-cl-isp.dps.live/teleangol/teleangol.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="teleangol-2" group-title="General",TeleAngol
+https://unlimited6-cl.dps.live/teleangol/teleangol.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="t-vinet-digital" group-title="General",T-Vinet Digital
+https://unlimited6-cl.dps.live/inet2/inet2.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="t-vinet-digital-2" group-title="General",T-Vinet Digital
+https://pantera1-100gb-cl-movistar.dps.live/inet2/inet2.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="tv-uct-u-catolica-de-temuco" group-title="General",TV UCT (U. Católica de Temuco)
+https://unlimited1-cl-isp.dps.live/uct/uct.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="tv-uct-u-catolica-de-temuco-2" group-title="General",TV UCT (U. Católica de Temuco)
+https://unlimited2-cl-isp.dps.live/uct/uct.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="tv5-linares" group-title="General",TV5 Linares
+https://v1.tustreaming.cl/tv5linares/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="tvo-san-vicente" group-title="General",TVO San Vicente
+https://5ff3d9babae13.streamlock.net:443/8014/8014/playlist.m3u8
+#EXTINF:-1 tvg-id="tvo-san-vicente-2" group-title="General",TVO San Vicente
+https://5ff3d9babae13.streamlock.net:1936/8014/8014/playlist.m3u8
+#EXTINF:-1 tvg-id="tvr-television-regional" group-title="General",TVR Television Regional
+https://redirector.dps.live/hls/tvr/playlist.m3u8
+#EXTINF:-1 tvg-id="tvr-television-regional-2" group-title="General",TVR Television Regional
+https://unlimited1-cl-isp.dps.live/tvr/tvr.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="tvu" group-title="General",TVU
+https://unlimited6-cl.dps.live/tvu/tvu.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="tvu-2" group-title="General",TVU
+https://pantera1-100gb-cl-movistar.dps.live/tvu/tvu.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="u-de-chile-tv" group-title="General",U de Chile TV
+https://unlimited2-cl-isp.dps.live/uchiletv/uchiletv.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="u-de-chile-tv-2" group-title="General",U de Chile TV
+https://pantera1-100gb-cl-movistar.dps.live/uchiletv/uchiletv.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="utalcatv-u-de-talca-campus-tv" group-title="General",UTalcaTV (U. de Talca) - Campus TV
+https://unlimited1-cl-isp.dps.live/campustv/campustv.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="ua-tv-u-autonoma" group-title="General",UA TV (U. Autonoma)
+https://unlimited2-cl-isp.dps.live/uatv/uatv.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="ua-tv-u-autonoma-2" group-title="General",UA TV (U. Autonoma)
+https://unlimited1-cl-isp.dps.live/uatv/uatv.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="ucv-tv" group-title="General",UCV TV
+https://pantera1-100gb-cl-movistar.dps.live/ucvtv2/ucvtv2.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="ucv-tv-eventos" group-title="General",UCV TV Eventos
+https://pantera1-100gb-cl-movistar.dps.live/ucvtveventos/ucvtveventos.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="ucv-tv-eventos-2" group-title="General",UCV TV Eventos
+https://unlimited1-cl-isp.dps.live/ucvtveventos/ucvtveventos.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="vision-plus-tv-melipilla" group-title="General",Vision Plus TV Melipilla
+https://5ff3d9babae13.streamlock.net:443/jwagpqxehu/jwagpqxehu/playlist.m3u8
+#EXTINF:-1 tvg-id="vision-plus-tv-melipilla-2" group-title="General",Vision Plus TV Melipilla
+https://5ff3d9babae13.streamlock.net:1936/jwagpqxehu/jwagpqxehu/playlist.m3u8
+#EXTINF:-1 tvg-id="vtv" group-title="General",VTV
+https://unlimited2-cl-isp.dps.live/vtv/vtv.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="vtv-2" group-title="General",VTV
+https://unlimited6-cl.dps.live/vtv/vtv.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="vtv-quillota" group-title="General",VTV Quillota
+https://pantera1-100gb-cl-movistar.dps.live/vtvquillota/vtvquillota.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="vtv-quillota-2" group-title="General",VTV Quillota
+https://unlimited1-cl-isp.dps.live/vtvquillota/vtvquillota.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="ecuavisa" group-title="Noticias",Ecuavisa
+https://redirector.rudo.video/hls-video/c54ac2799874375c81c1672abb700870537c5223/ecuavisaqo/ecuavisaqo/.m3u8
+#EXTINF:-1 tvg-id="ecuavisa-2" group-title="Noticias",Ecuavisa
+https://jireh-6-hls-video-cl-isp.dps.live/hls-video/c54ac2799874375c81c1672abb700870537c5223/ecuavisa/ecuavisa.smil/playlist.m3u8

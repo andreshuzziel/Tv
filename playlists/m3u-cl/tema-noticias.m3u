@@ -1,0 +1,15 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="1772" tvg-logo="https://cdn.m3u.cl/logo/1772_Radio_Labrar_Noticias.png" group-title="Tema: Noticias",Radio Labrar Noticias
+https://183.bozztv.com/giatv/giatv-labrarnoticias/labrarnoticias/chunks.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="421" tvg-logo="https://cdn.m3u.cl/logo/421_Bio_Bio_TV.png" group-title="Tema: Noticias",Bio Bio TV
+https://redirector.rudo.video/hls-video/339f69c6122f6d8f4574732c235f09b7683e31a5/bbtv/bbtv.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="448" tvg-logo="https://cdn.m3u.cl/logo/448_TVN_24_Horas.png" group-title="Tema: Noticias",TVN 24 Horas
+https://mdstrm.com/live-stream-playlist/689ba606ecfe7915e1f8f741.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="449" tvg-logo="https://cdn.m3u.cl/logo/449_Meganoticias.png" group-title="Tema: Noticias",Meganoticias
+https://mdstrm.com/live-stream-playlist/561430ae330428c223687e1e.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="1153" tvg-logo="https://cdn.m3u.cl/logo/1153_CHV_Noticias.png" group-title="Tema: Noticias",CHV Noticias
+https://redirector.rudo.video/hls-video/339f69c6122f6d8f4574732c235f09b7683e31a5/chvn/chvn.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="1054" tvg-logo="https://cdn.m3u.cl/logo/1054_T13.png" group-title="Tema: Noticias",T13
+https://redirector.rudo.video/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/t13/t13.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="415" tvg-logo="https://cdn.m3u.cl/logo/415_Puranoticia.png" group-title="Tema: Noticias",Puranoticia
+https://pnt.janusmedia.tv/hls/pnt.m3u8?PlaylistM3UCL

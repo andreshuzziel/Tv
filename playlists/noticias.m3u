@@ -1,0 +1,11 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="t13" group-title="Noticias",T13 En Vivo
+https://redirector.dps.live/hls/t13/playlist.m3u8
+#EXTINF:-1 tvg-id="adn" group-title="Noticias",ADN TV
+https://redirector.rudo.video/hls-video/931b584451fa6dd1313ee66efbfd5802e3f3bcea/adntv/adntv.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="coop" group-title="Noticias",Cooperativa TV
+https://unlimited1-cl-isp.dps.live/coopetv/coopetv.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="agri" group-title="Noticias",Agricultura TV
+https://redirector.rudo.video/hls-video/ey6283je82983je9823je8jowowiekldk9838274/921tv/921tv.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="senado" group-title="Noticias",TV Senado
+https://janus-tv-ply.senado.cl/playlist/playlist.m3u8

@@ -1,0 +1,7 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="1769" tvg-logo="https://cdn.m3u.cl/logo/1769_China_Channel.png" group-title="Tema: Internacionales",China Channel
+https://v2.tustreaming.cl/chinachannel/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="491" tvg-logo="https://cdn.m3u.cl/logo/491_TV_Chile.png" group-title="Tema: Internacionales",TV Chile
+https://mdstrm.com/live-stream-playlist/533adcc949386ce765657d7c.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="1685" tvg-logo="https://cdn.m3u.cl/logo/1685_13_Internacional.png" group-title="Tema: Internacionales",13 Internacional
+https://redirector.dps.live/hls/13intav/playlist.m3u8?PlaylistM3UCL

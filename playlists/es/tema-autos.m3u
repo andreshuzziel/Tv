@@ -1,0 +1,5 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="GarageTVLatinAmerica.ar@SD" tvg-logo="https://i.imgur.com/FqFxog1.png" group-title="Autos",Garage TV Latin America
+https://stream1.sersat.com/hls/garagetv.m3u8
+#EXTINF:-1 tvg-id="PlutoTVMotor.de@ES" tvg-logo="https://images.pluto.tv/channels/6080345ebb49b90007ce0baf/colorLogoPNG.png" group-title="Autos",Pluto TV Motor (Germany)
+https://jmp2.uk/plu-6080345ebb49b90007ce0baf.m3u8

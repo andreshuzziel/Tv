@@ -1,0 +1,33 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="1757" tvg-logo="https://cdn.m3u.cl/logo/1757_Radio_Magistral_Coihueco.png" group-title="Región: Ñuble",Radio Magistral Coihueco
+https://tv.arkeo.cl:19360/8056/8056.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="1700" tvg-logo="https://cdn.m3u.cl/logo/1700_San_Nicolas_TV.png" group-title="Región: Ñuble",San Nicolas TV
+https://v4.tustreaming.cl/sannicolastv/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="1670" tvg-logo="https://cdn.m3u.cl/logo/1670_Interactiva_TV_Senal_2.png" group-title="Región: Ñuble",Interactiva TV Señal 2
+https://tv.arkeo.cl:1936/interactivatv/interactivatv/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="388" tvg-logo="https://cdn.m3u.cl/logo/388_Interactiva_FM.png" group-title="Región: Ñuble",Interactiva FM
+https://tv.arkeo.cl:1936/interactivafm/interactivafm/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="348" tvg-logo="https://cdn.m3u.cl/logo/348_Canal_1.png" group-title="Región: Ñuble",Canal 1
+https://tls-cl.cdnz.cl/canal21tv/live/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="903" tvg-logo="https://cdn.m3u.cl/logo/903_Region_Television_Nuble.png" group-title="Región: Ñuble",Región Televisión Ñuble
+https://tv.arkeo.cl:1936/canalrtv/canalrtv/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="1726" tvg-logo="https://cdn.m3u.cl/logo/1726_EstacionTV.png" group-title="Región: Ñuble",EstaciónTV
+https://stmv5.voxtvhd.com.br/tvestacion1/tvestacion1/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="1609" tvg-logo="https://cdn.m3u.cl/logo/1609_Red_Vision_Television.png" group-title="Región: Ñuble",Red Vision Television
+https://tls-cl.cdnz.cl/livertv/live/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="1122" tvg-logo="https://cdn.m3u.cl/logo/1122_Radio_Popular_Coihueco.png" group-title="Región: Ñuble",Radio Popular Coihueco
+https://tv.arkeo.cl:19360/8052/8052.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="870" tvg-logo="https://cdn.m3u.cl/logo/870_Radio_Nuble.png" group-title="Región: Ñuble",Radio Ñuble
+https://tv.telselec.cl:3376/live/nublefmlive.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="1493" tvg-logo="https://cdn.m3u.cl/logo/1493_Radio_Contemporanea_Coihueco.png" group-title="Región: Ñuble",Radio Contemporanea Coihueco
+https://tv.arkeo.cl:19360/8046/8046.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="398" tvg-logo="https://cdn.m3u.cl/logo/398_El_Sembrador.png" group-title="Región: Ñuble",El Sembrador
+https://tv.arkeo.cl:1936/elsembrador/elsembrador/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="169" tvg-logo="https://cdn.m3u.cl/logo/169_Televida_HD.png" group-title="Región: Ñuble",Televida HD
+https://tls-cl.cdnz.cl/televida/live/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="1760" tvg-logo="https://cdn.m3u.cl/logo/1760_Plenitud_TV.png" group-title="Región: Ñuble",Plenitud TV
+https://live20.bozztv.com/giatvplayout7/giatv-208727/tracks-v1a1/mono.ts.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="1766" tvg-logo="https://cdn.m3u.cl/logo/1766_Plenitud_Juvenil.png" group-title="Región: Ñuble",Plenitud Juvenil
+https://live20.bozztv.com/giatvplayout7/giatv-209259/tracks-v1a1/mono.ts.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="1789" tvg-logo="https://cdn.m3u.cl/logo/1789_Plenitud_TV_2.png" group-title="Región: Ñuble",Plenitud TV 2
+https://live20.bozztv.com/giatvplayout7/giatv-212033/playlist.m3u8?PlaylistM3UCL

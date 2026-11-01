@@ -1,0 +1,9 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="1112" tvg-logo="https://cdn.m3u.cl/logo/1112_EnerGeek_FAN.png" group-title="Tema: Animación",EnerGeek FAN
+https://cl-2.backend.energeek.cl/bkp/egfanweb/index.m3u8?token=D3m0M3UCLWeb&PlaylistM3UCL
+#EXTINF:-1 tvg-id="947" tvg-logo="https://cdn.m3u.cl/logo/947_EnerGeek.png" group-title="Tema: Animación",EnerGeek
+https://cl-2.backend.energeek.cl/bkp/egretroweb/index.m3u8?token=D3m0M3UCLWeb&PlaylistM3UCL
+#EXTINF:-1 tvg-id="1266" tvg-logo="https://cdn.m3u.cl/logo/1266_EnerGeek_Radio.png" group-title="Tema: Animación",EnerGeek Radio
+https://cl-2.backend.energeek.cl/bkp/egradioweb/index.m3u8?token=D3m0M3UCLWeb&PlaylistM3UCL
+#EXTINF:-1 tvg-id="45" tvg-logo="https://cdn.m3u.cl/logo/45_NTV.png" group-title="Tema: Animación",NTV
+https://mdstrm.com/live-stream-playlist/5aaabe9e2c56420918184c6d.m3u8?PlaylistM3UCL

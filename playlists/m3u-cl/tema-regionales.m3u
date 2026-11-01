@@ -1,0 +1,179 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="1771" tvg-logo="https://cdn.m3u.cl/logo/1771_Qultura.png" group-title="Tema: Regionales",Qultura
+https://scl.edge.grupoz.cl/transmision/live/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="1706" tvg-logo="https://cdn.m3u.cl/logo/1706_Central_TV.png" group-title="Tema: Regionales",Central TV
+https://freya.mivideo.pro/centraltv/video.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="1487" tvg-logo="https://cdn.m3u.cl/logo/1487_Radio_Labrar_TV.png" group-title="Tema: Regionales",Radio Labrar TV
+https://183.bozztv.com/giatv/giatv-radiolabrartv/radiolabrartv/chunks.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="1793" tvg-logo="https://cdn.m3u.cl/logo/1793_TV_Valdivia.png" group-title="Tema: Regionales",TV Valdivia
+https://5eaccbab48461.streamlock.net:1936/8206/8206/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="1792" tvg-logo="https://cdn.m3u.cl/logo/1792_Pirque_TV.png" group-title="Tema: Regionales",Pirque TV
+https://eu1.servers10.com:8081/laureltv/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="1775" tvg-logo="https://cdn.m3u.cl/logo/1775_LaMix_TV.png" group-title="Tema: Regionales",LaMix TV
+https://lbgo.bozztv.com/ssh101/ssh101/lamixtv/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="1768" tvg-logo="https://cdn.m3u.cl/logo/1768_Coyhaique_TV.png" group-title="Tema: Regionales",Coyhaique TV
+https://v2.tustreaming.cl/coyhaiquetv/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="1767" tvg-logo="https://cdn.m3u.cl/logo/1767_WappTV.png" group-title="Tema: Regionales",WappTV
+https://stream.wapptv.cl/video/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="1764" tvg-logo="https://cdn.m3u.cl/logo/1764_Grupo_Libra_TV.png" group-title="Tema: Regionales",Grupo Libra TV
+https://v2.tustreaming.cl/libratv/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="1762" tvg-logo="https://cdn.m3u.cl/logo/1762_SoloTV.png" group-title="Tema: Regionales",SoloTV
+https://stream.making.cl/memfs/ee909361-73e9-4e74-8391-5f1b0b8006c2.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="1759" tvg-logo="https://cdn.m3u.cl/logo/1759_Docevision.png" group-title="Tema: Regionales",Docevision
+https://live20.bozztv.com/giatvplayout7/giatv-208729/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="1753" tvg-logo="https://cdn.m3u.cl/logo/1753_Canal_Del_Sur.png" group-title="Tema: Regionales",Canal Del Sur
+https://oracle.streaminghd.cl/canal-del-sur/canal-del-sur/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="1747" tvg-logo="https://cdn.m3u.cl/logo/1747_Canal_48HD_Musica_Calbuco_DTV.png" group-title="Tema: Regionales",Canal 48HD Musica Calbuco DTV
+https://live20.bozztv.com/akamaissh101/ssh101/canal48/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="1734" tvg-logo="https://cdn.m3u.cl/logo/1734_Lila_TV_Pencahue.png" group-title="Tema: Regionales",Lila TV Pencahue
+https://tv.arkeo.cl:1936/radiolila/radiolila/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="1715" tvg-logo="https://cdn.m3u.cl/logo/1715_Uniregion_TV.png" group-title="Tema: Regionales",Uniregion TV
+https://5ff3d9babae13.streamlock.net:443/ubyecbxnfd/ubyecbxnfd/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="1700" tvg-logo="https://cdn.m3u.cl/logo/1700_San_Nicolas_TV.png" group-title="Tema: Regionales",San Nicolas TV
+https://v4.tustreaming.cl/sannicolastv/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="1670" tvg-logo="https://cdn.m3u.cl/logo/1670_Interactiva_TV_Senal_2.png" group-title="Tema: Regionales",Interactiva TV Señal 2
+https://tv.arkeo.cl:1936/interactivatv/interactivatv/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="1668" tvg-logo="https://cdn.m3u.cl/logo/1668_Verso_TV.png" group-title="Tema: Regionales",Verso TV
+https://verso.coopcom.cl/live/SHf6GLCpn4hDSpWdzaDzgX0ciU82/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="1282" tvg-logo="https://cdn.m3u.cl/logo/1282_Galactika_Media.png" group-title="Tema: Regionales",Galactika Media
+https://lbgo.bozztv.com/ssh101/ssh101/myevento20267/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="386" tvg-logo="https://cdn.m3u.cl/logo/386_Energia_TV.png" group-title="Tema: Regionales",Energia TV
+https://andromeda2.trapemn.tv:1936/regionales/energia-fm/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="1645" tvg-logo="https://cdn.m3u.cl/logo/1645_CalbucoNet.png" group-title="Tema: Regionales",CalbucoNet
+https://videostream.chileservidores.com:8081/chiloe5/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="312" tvg-logo="https://cdn.m3u.cl/logo/312_Cappissima_Multimedial_TV.png" group-title="Tema: Regionales",Cappissima Multimedial TV
+https://oracle.streaminghd.cl/cappissima/cappissima/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="313" tvg-logo="https://cdn.m3u.cl/logo/313_Puerta_Norte.png" group-title="Tema: Regionales",Puerta Norte
+https://panel.tvstream.cl:1936/8030/8030/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="314" tvg-logo="https://cdn.m3u.cl/logo/314_Iquique_TV.png" group-title="Tema: Regionales",Iquique TV
+https://origin.skarnetchile.com:8081/iquiquetv-hd/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="1136" tvg-logo="https://cdn.m3u.cl/logo/1136_RTC_Television.png" group-title="Tema: Regionales",RTC Television
+https://scl.edge.grupoz.cl/rtcstreaming/live/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="319" tvg-logo="https://cdn.m3u.cl/logo/319_Atacama_Noticias_TV.png" group-title="Tema: Regionales",Atacama Noticias TV
+https://v2.tustreaming.cl/atacamanoticias/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="320" tvg-logo="https://cdn.m3u.cl/logo/320_Atacama_TV.png" group-title="Tema: Regionales",Atacama TV
+https://v4.tustreaming.cl/atacamatv/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="784" tvg-logo="https://cdn.m3u.cl/logo/784_Madero_TV.png" group-title="Tema: Regionales",Madero TV
+https://v1.tustreaming.cl/maderoantofagasta/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="321" tvg-logo="https://cdn.m3u.cl/logo/321_Huasco_TV.png" group-title="Tema: Regionales",Huasco TV
+https://paneltv.stream:19360/huasco/huasco.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="462" tvg-logo="https://cdn.m3u.cl/logo/462_Alternativa_TV.png" group-title="Tema: Regionales",Alternativa TV
+https://live20.bozztv.com/giatv/giatv-alternativatv/alternativatv/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="322" tvg-logo="https://cdn.m3u.cl/logo/322_Enfoque_Digital_TV.png" group-title="Tema: Regionales",Enfoque Digital TV
+https://5eaccbab48461.streamlock.net:1936/8074/8074/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="1601" tvg-logo="https://cdn.m3u.cl/logo/1601_Maray_TV.png" group-title="Tema: Regionales",Maray TV
+https://5eaccbab48461.streamlock.net:1936/8242/ngrp:8242_all/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="1451" tvg-logo="https://cdn.m3u.cl/logo/1451_Nexovision.png" group-title="Tema: Regionales",Nexovision
+https://oracle.streaminghd.cl/nexovision/nexovision/playlist.m3u8?streaminghdstarttime=1775574932&streaminghdendtime=1775618132&streaminghdhash=LdQe_x_kJhkmY-zJkmQN_mIkxGYOFYcYVGiCv5ktNsQ=&PlaylistM3UCL
+#EXTINF:-1 tvg-id="325" tvg-logo="https://cdn.m3u.cl/logo/325_La_Popular_TV.png" group-title="Tema: Regionales",La Popular TV
+https://tv.arkeo.cl:1936/enlacetv1/enlacetv1/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="326" tvg-logo="https://cdn.m3u.cl/logo/326_ThemaTV.png" group-title="Tema: Regionales",ThemaTV
+https://unlimited1-cl-isp.dps.live/thema/thema.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="329" tvg-logo="https://cdn.m3u.cl/logo/329_TV_Elqui.png" group-title="Tema: Regionales",TV Elqui
+https://panel.tvstream.cl:1936/campu/campu/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="1434" tvg-logo="https://cdn.m3u.cl/logo/1434_Marga_Marga_TV.png" group-title="Tema: Regionales",Marga Marga TV
+https://v1.tustreaming.cl/margamargatv/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="1427" tvg-logo="https://cdn.m3u.cl/logo/1427_Estacion_Limache_TV.png" group-title="Tema: Regionales",Estacion Limache TV
+https://v4.tustreaming.cl/limachemovil/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="332" tvg-logo="https://cdn.m3u.cl/logo/332_TV_Costa.png" group-title="Tema: Regionales",TV Costa
+https://tvcosta.gleeze.com/memfs/39cef946-1aac-4418-8df8-6d8ff6d0a680.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="1231" tvg-logo="https://cdn.m3u.cl/logo/1231_Canal_Local.png" group-title="Tema: Regionales",Canal Local
+https://v2.tustreaming.cl/canallocalcl/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="854" tvg-logo="https://cdn.m3u.cl/logo/854_TV_Quinta_Region.png" group-title="Tema: Regionales",TV Quinta Region
+https://stmv7.voxtvhd.com.br/tvquintaregion/tvquintaregion/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="995" tvg-logo="https://cdn.m3u.cl/logo/995_Vida_Nueva_TV.png" group-title="Tema: Regionales",Vida Nueva TV
+https://stmv7.voxtvhd.com.br/vidanueva/vidanueva/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="464" tvg-logo="https://cdn.m3u.cl/logo/464_Frecuencia_7_Aconcagua.png" group-title="Tema: Regionales",Frecuencia 7 Aconcagua
+https://v2.tustreaming.cl/frecuencia7/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="333" tvg-logo="https://cdn.m3u.cl/logo/333_Plaza_TV.png" group-title="Tema: Regionales",Plaza TV
+https://oracle.streaminghd.cl/mediaradiotv/mediaradiotv/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="336" tvg-logo="https://cdn.m3u.cl/logo/336_Tendencias_Prime.png" group-title="Tema: Regionales",Tendencias Prime
+https://v4.tustreaming.cl/tendenciastv/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="1024" tvg-logo="https://cdn.m3u.cl/logo/1024_Vision_Plus_TV.png" group-title="Tema: Regionales",Vision Plus TV
+https://5ff3d9babae13.streamlock.net/jwagpqxehu/jwagpqxehu/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="1120" tvg-logo="https://cdn.m3u.cl/logo/1120_Autonoma_TV.png" group-title="Tema: Regionales",Autonoma TV
+https://wifispeed.trapemn.tv:1936/comunales/autonoma-tv/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="1599" tvg-logo="https://cdn.m3u.cl/logo/1599_RialTv.png" group-title="Tema: Regionales",RialTv
+https://5eaccbab48461.streamlock.net:1936/8124/8124/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="340" tvg-logo="https://cdn.m3u.cl/logo/340_TVO_San_Vicente.png" group-title="Tema: Regionales",TVO San Vicente
+https://5ff3d9babae13.streamlock.net:443/8014/8014/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="341" tvg-logo="https://cdn.m3u.cl/logo/341_Sextavision.png" group-title="Tema: Regionales",Sextavision
+https://5ff3d9babae13.streamlock.net/fzkqsdfray/fzkqsdfray/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="1607" tvg-logo="https://cdn.m3u.cl/logo/1607_Santa_Cruz_HD.png" group-title="Tema: Regionales",Santa Cruz HD
+https://origin-us.streaminghd.cl/santacruz/santacruz/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="1602" tvg-logo="https://cdn.m3u.cl/logo/1602_RTV.png" group-title="Tema: Regionales",RTV
+https://origin-us.streaminghd.cl/rtv/rtv/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="1572" tvg-logo="https://cdn.m3u.cl/logo/1572_TV_Lascabras_net.png" group-title="Tema: Regionales",TV Lascabras.net
+https://vivo.solumedia.com:19360/lascabrastv/lascabrastv.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="343" tvg-logo="https://cdn.m3u.cl/logo/343_VLTV.png" group-title="Tema: Regionales",VLTV
+https://andromeda2.trapemn.tv:1936/regionales/vltv.stream/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="1432" tvg-logo="https://cdn.m3u.cl/logo/1432_El_Centro_TV.png" group-title="Tema: Regionales",El Centro TV
+https://v1.tustreaming.cl:443/diarioelcentrotv/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="345" tvg-logo="https://cdn.m3u.cl/logo/345_UTV_San_Clemente.png" group-title="Tema: Regionales",UTV San Clemente
+https://v2.tustreaming.cl/utv/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="346" tvg-logo="https://cdn.m3u.cl/logo/346_Nativa_TV.png" group-title="Tema: Regionales",Nativa TV
+https://origin-us.streaminghd.cl/nativatv/nativatv/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="1164" tvg-logo="https://cdn.m3u.cl/logo/1164_Maule_Vision.png" group-title="Tema: Regionales",Maule Vision
+https://v2.tustreaming.cl/maulevisiontv/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="1431" tvg-logo="https://cdn.m3u.cl/logo/1431_Canal_30_Loncomilla.png" group-title="Tema: Regionales",Canal 30 Loncomilla
+https://v1.tustreaming.cl:443/canal30loncomilla/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="1302" tvg-logo="https://cdn.m3u.cl/logo/1302_Telecauquenes.png" group-title="Tema: Regionales",Telecauquenes
+https://live20.bozztv.com/akamaissh101/ssh101/telecauquenestv/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="348" tvg-logo="https://cdn.m3u.cl/logo/348_Canal_1.png" group-title="Tema: Regionales",Canal 1
+https://tls-cl.cdnz.cl/canal21tv/live/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="903" tvg-logo="https://cdn.m3u.cl/logo/903_Region_Television_Nuble.png" group-title="Tema: Regionales",Región Televisión Ñuble
+https://tv.arkeo.cl:1936/canalrtv/canalrtv/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="349" tvg-logo="https://cdn.m3u.cl/logo/349_Supersonika_TV.png" group-title="Tema: Regionales",Supersonika TV
+https://unlimited1-cl-isp.dps.live/supersonikatv/supersonikatv.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="350" tvg-logo="https://cdn.m3u.cl/logo/350_ClickTv.png" group-title="Tema: Regionales",ClickTv
+https://v2.tustreaming.cl/clicktv/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="1609" tvg-logo="https://cdn.m3u.cl/logo/1609_Red_Vision_Television.png" group-title="Tema: Regionales",Red Vision Television
+https://tls-cl.cdnz.cl/livertv/live/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="352" tvg-logo="https://cdn.m3u.cl/logo/352_Concepcion_TV.png" group-title="Tema: Regionales",Concepcion TV
+https://stream.blserver.cl/hls/ctv/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="353" tvg-logo="https://cdn.m3u.cl/logo/353_Canal_9_Bio_Bi­o_TV.png" group-title="Tema: Regionales",Canal 9 Bío Bí­o TV
+https://unlimited1-cl-isp.dps.live/c9/c9.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="957" tvg-logo="https://cdn.m3u.cl/logo/957_Pacifico_Television.png" group-title="Tema: Regionales",Pacifico Television
+https://us.streaminghd.cl/pacificotelevision/tracks-v1a1/mono.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="1482" tvg-logo="https://cdn.m3u.cl/logo/1482_Eva_Television.png" group-title="Tema: Regionales",Eva Televisión
+https://tv.arkeo.cl:1936/evatelevision/evatelevision/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="948" tvg-logo="https://cdn.m3u.cl/logo/948_San_Pedro_Conecta.png" group-title="Tema: Regionales",San Pedro Conecta
+https://video.ipstream.cl:3710/hybrid/play.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="810" tvg-logo="https://cdn.m3u.cl/logo/810_Club_TV.png" group-title="Tema: Regionales",Club TV
+https://tv.arkeo.cl:1936/clubtv/clubtv/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="1013" tvg-logo="https://cdn.m3u.cl/logo/1013_CRadio_cl.png" group-title="Tema: Regionales",CRadio.cl
+https://tls-cl.cdnz.cl/cradio/live/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="357" tvg-logo="https://cdn.m3u.cl/logo/357_Temuco_TV.png" group-title="Tema: Regionales",Temuco TV
+https://mediacp.nnw.cl:19360/temucotelevision/temucotelevision.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="359" tvg-logo="https://cdn.m3u.cl/logo/359_Canal_Latino_54.png" group-title="Tema: Regionales",Canal Latino 54
+https://videostream.chileservidores.com:8081/latina/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="1383" tvg-logo="https://cdn.m3u.cl/logo/1383_ATV_Valdivia.png" group-title="Tema: Regionales",ATV Valdivia
+https://live.mtna.tv/hls/atv/atv.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="1610" tvg-logo="https://cdn.m3u.cl/logo/1610_Apocalipsis_TV.png" group-title="Tema: Regionales",Apocalipsis TV
+https://us.streaminghd.cl/apocalipsistvd/video.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="364" tvg-logo="https://cdn.m3u.cl/logo/364_Canal_5_Puerto_Montt.png" group-title="Tema: Regionales",Canal 5 Puerto Montt
+https://5ff3d9babae13.streamlock.net:443/aufymdjpjf/aufymdjpjf/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="366" tvg-logo="https://cdn.m3u.cl/logo/366_Chiloe_Red_25.png" group-title="Tema: Regionales",Chiloe Red 25
+https://v2.tustreaming.cl/chiloered/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="1396" tvg-logo="https://cdn.m3u.cl/logo/1396_Alerce_TV.png" group-title="Tema: Regionales",Alerce TV
+https://s1.tvdatta.com:3384/live/canal20tvlive.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="368" tvg-logo="https://cdn.m3u.cl/logo/368_Santa_Maria_TV.png" group-title="Tema: Regionales",Santa Maria TV
+https://unlimited2-cl-isp.dps.live/smtv/smtv.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="367" tvg-logo="https://cdn.m3u.cl/logo/367_Rocco_TV_4.png" group-title="Tema: Regionales",Rocco TV 4
+https://5ff3d9babae13.streamlock.net/wympnqeqts/wympnqeqts/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="369" tvg-logo="https://cdn.m3u.cl/logo/369_Canal_11_TV_Aysen.png" group-title="Tema: Regionales",Canal 11 TV Aysen
+https://v2.tustreaming.cl/canal11aysen/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="1012" tvg-logo="https://cdn.m3u.cl/logo/1012_Aysen_TV.png" group-title="Tema: Regionales",Aysen TV
+https://v1.tustreaming.cl/aysentv/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="1393" tvg-logo="https://cdn.m3u.cl/logo/1393_La_Melinkana_TV.png" group-title="Tema: Regionales",La Melinkana TV
+https://v1.tustreaming.cl/melinkana/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="370" tvg-logo="https://cdn.m3u.cl/logo/370_Soberania_Radio.png" group-title="Tema: Regionales",Soberania Radio
+https://tls-cl.cdnz.cl/radiosoberania/live/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="1116" tvg-logo="https://cdn.m3u.cl/logo/1116_SurTV.png" group-title="Tema: Regionales",SurTV
+https://surtv-2.mddsoluciones.cl/play/ZZZ-M3U-CL:79W62zMmFSbBFoIE/live/surtvweb/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="371" tvg-logo="https://cdn.m3u.cl/logo/371_EvaVision.png" group-title="Tema: Regionales",EvaVisión
+https://stmv4.voxtvhd.com.br/evavision/evavision/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="373" tvg-logo="https://cdn.m3u.cl/logo/373_PinguinoTV.png" group-title="Tema: Regionales",PinguinoTV
+https://redirector.rudo.video/hls-video/339f69c6122f6d8f4574732c235f09b7683e31a5/pinguinotv/pinguinotv.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="1608" tvg-logo="https://cdn.m3u.cl/logo/1608_CTV35.png" group-title="Tema: Regionales",CTV35
+https://paneltv.stream:19360/ctv35/ctv35.m3u8?PlaylistM3UCL

@@ -1,0 +1,63 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="1802" tvg-logo="https://cdn.m3u.cl/logo/1802_Radio_Magica_TV_Senal_2.png" group-title="Región: Metropolitana",Radio Mágica TV Señal 2
+https://stmv5.voxtvhd.com.br/radiomagicatv2/radiomagicatv2/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="1796" tvg-logo="https://cdn.m3u.cl/logo/1796_ShowtimeTV.png" group-title="Región: Metropolitana",ShowtimeTV
+https://stmv7.voxtvhd.com.br/showtimetv/showtimetv/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="1788" tvg-logo="https://cdn.m3u.cl/logo/1788_Radio_Magica_TV.png" group-title="Región: Metropolitana",Radio Mágica TV
+https://stmv1.voxtvhd.com.br/radiomagicatv/radiomagicatv/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="1774" tvg-logo="https://cdn.m3u.cl/logo/1774_Radio_Fantasia.png" group-title="Región: Metropolitana",Radio Fantasia
+https://srt.servilive.com/live/fantasiachile-pf556.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="1767" tvg-logo="https://cdn.m3u.cl/logo/1767_WappTV.png" group-title="Región: Metropolitana",WappTV
+https://stream.wapptv.cl/video/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="1314" tvg-logo="https://cdn.m3u.cl/logo/1314_Unetev.png" group-title="Región: Metropolitana",Unetev
+https://tv.arkeo.cl:1936/unetev/unetev/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="1001" tvg-logo="https://cdn.m3u.cl/logo/1001_La_Granja_TV.png" group-title="Región: Metropolitana",La Granja TV
+https://oracle.streaminghd.cl/8126/8126/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="1017" tvg-logo="https://cdn.m3u.cl/logo/1017_U_Chile_TV.png" group-title="Región: Metropolitana",U Chile TV
+https://unlimited1-cl-isp.dps.live/uchiletv/uchiletv.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="53" tvg-logo="https://cdn.m3u.cl/logo/53_TV_USACH.png" group-title="Región: Metropolitana",TV USACH
+https://stv4.janus.cl/playlist/stream.m3u8?s=lq&t=&id=luflljxo&q=&d=w&PlaylistM3UCL
+#EXTINF:-1 tvg-id="62" tvg-logo="https://cdn.m3u.cl/logo/62_UesTV.png" group-title="Región: Metropolitana",UesTV
+https://stream.castr.com/627c69e631b96a3b9b99c2db/live_14ff24d0ed9911f0bad5c55033ee00d0/rewind-3600.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="77" tvg-logo="https://cdn.m3u.cl/logo/77_TVR.png" group-title="Región: Metropolitana",TVR
+https://unlimited1-cl-isp.dps.live/tvr/tvr.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="336" tvg-logo="https://cdn.m3u.cl/logo/336_Tendencias_Prime.png" group-title="Región: Metropolitana",Tendencias Prime
+https://v4.tustreaming.cl/tendenciastv/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="1024" tvg-logo="https://cdn.m3u.cl/logo/1024_Vision_Plus_TV.png" group-title="Región: Metropolitana",Vision Plus TV
+https://5ff3d9babae13.streamlock.net/jwagpqxehu/jwagpqxehu/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="1120" tvg-logo="https://cdn.m3u.cl/logo/1120_Autonoma_TV.png" group-title="Región: Metropolitana",Autonoma TV
+https://wifispeed.trapemn.tv:1936/comunales/autonoma-tv/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="1599" tvg-logo="https://cdn.m3u.cl/logo/1599_RialTv.png" group-title="Región: Metropolitana",RialTv
+https://5eaccbab48461.streamlock.net:1936/8124/8124/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="1467" tvg-logo="https://cdn.m3u.cl/logo/1467_Radio_UC.png" group-title="Región: Metropolitana",Radio UC
+https://oracle.streaminghd.cl/radiouc/radiouc/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="1284" tvg-logo="https://cdn.m3u.cl/logo/1284_Autonoma_Radio.png" group-title="Región: Metropolitana",Autonoma Radio
+https://wifispeed.trapemn.tv:1936/radios/autonoma-radio/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="987" tvg-logo="https://cdn.m3u.cl/logo/987_Emocion_TV.png" group-title="Región: Metropolitana",Emocion TV
+https://v1.tustreaming.cl/emociontv/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="380" tvg-logo="https://cdn.m3u.cl/logo/380_Radio_Hoy.png" group-title="Región: Metropolitana",Radio Hoy
+https://oracle.streaminghd.cl/radiohoy/smil:transcoder.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="389" tvg-logo="https://cdn.m3u.cl/logo/389_Radio_Fantasia_TV.png" group-title="Región: Metropolitana",Radio Fantasia TV
+https://v2.tustreaming.cl/fantasiatv/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="1478" tvg-logo="https://cdn.m3u.cl/logo/1478_El_Conquistador_Santiago.png" group-title="Región: Metropolitana",El Conquistador Santiago
+https://redirector.rudo.video/hls-video/931b584451fa6dd1313ee66efbfd5802e3f3bcea/elconquistadortv/elconquistadortv.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="382" tvg-logo="https://cdn.m3u.cl/logo/382_ChocolateFM.png" group-title="Región: Metropolitana",ChocolateFM
+https://5eaccbab48461.streamlock.net:1936/8180/8180/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="1571" tvg-logo="https://cdn.m3u.cl/logo/1571_Radio_La_Senal.png" group-title="Región: Metropolitana",Radio La Señal
+https://5ff3d9babae13.streamlock.net:443/chrgkqgkyb/chrgkqgkyb/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="1552" tvg-logo="https://cdn.m3u.cl/logo/1552_Nina_TV.png" group-title="Región: Metropolitana",Nina TV
+https://tv1.ninatv.cl/hls/stream.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="1534" tvg-logo="https://cdn.m3u.cl/logo/1534_La_Metro.png" group-title="Región: Metropolitana",La Metro
+https://redirector.rudo.video/hls-video/931b584451fa6dd1313ee66efbfd5802e3f3bcea/metropolitanatv/metropolitanatv.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="161" tvg-logo="https://cdn.m3u.cl/logo/161_Vida_TV.png" group-title="Región: Metropolitana",Vida TV
+https://player.netv.cl/vidatv/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="164" tvg-logo="https://cdn.m3u.cl/logo/164_NCTV.png" group-title="Región: Metropolitana",NCTV
+https://pantera1-100gb-cl-movistar.dps.live/nctv/nctv.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="163" tvg-logo="https://cdn.m3u.cl/logo/163_Gracia_TV.png" group-title="Región: Metropolitana",Gracia TV
+https://v4.tustreaming.cl/graciatv/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="159" tvg-logo="https://cdn.m3u.cl/logo/159_Canal_ISB.png" group-title="Región: Metropolitana",Canal ISB
+https://unlimited1-cl-isp.dps.live/isb/isb.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="1412" tvg-logo="https://cdn.m3u.cl/logo/1412_Enlace_BPB.png" group-title="Región: Metropolitana",Enlace BPB
+https://v1.tustreaming.cl/enlacebpbtv/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="1479" tvg-logo="https://cdn.m3u.cl/logo/1479_Fortaleza_TV.png" group-title="Región: Metropolitana",Fortaleza TV
+https://multimedia.fortalezatv.cl/video/video.m3u8?PlaylistM3UCL

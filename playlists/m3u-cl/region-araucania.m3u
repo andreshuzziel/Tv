@@ -1,0 +1,19 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="1724" tvg-logo="https://cdn.m3u.cl/logo/1724_Factor_80.png" group-title="Región: Araucanía",Factor 80
+https://5ff3d9babae13.streamlock.net:443/mjtdyftskj/mjtdyftskj/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="1690" tvg-logo="https://cdn.m3u.cl/logo/1690_Abajo_e_la_linea_TV.png" group-title="Región: Araucanía",Abajo e la linea TV
+https://5ff3d9babae13.streamlock.net/ynfpncxxjg/ynfpncxxjg/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="802" tvg-logo="https://cdn.m3u.cl/logo/802_TV_UCT.png" group-title="Región: Araucanía",TV UCT
+https://unlimited2-cl-isp.dps.live/uct/uct.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="57" tvg-logo="https://cdn.m3u.cl/logo/57_UFROTV.png" group-title="Región: Araucanía",UFROTV
+https://mdstrm.com/live-stream-playlist/580a80b827de0ae2086ea6d8.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="82" tvg-logo="https://cdn.m3u.cl/logo/82_Teleangol_Radio.png" group-title="Región: Araucanía",Teleangol Radio
+https://pantera1-100gb-cl-movistar.dps.live/teleangol/teleangol.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="83" tvg-logo="https://cdn.m3u.cl/logo/83_Pucon_TV.png" group-title="Región: Araucanía",Pucon TV
+https://unlimited1-cl-isp.dps.live/pucontv/pucontv.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="357" tvg-logo="https://cdn.m3u.cl/logo/357_Temuco_TV.png" group-title="Región: Araucanía",Temuco TV
+https://mediacp.nnw.cl:19360/temucotelevision/temucotelevision.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="1610" tvg-logo="https://cdn.m3u.cl/logo/1610_Apocalipsis_TV.png" group-title="Región: Araucanía",Apocalipsis TV
+https://us.streaminghd.cl/apocalipsistvd/video.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="1313" tvg-logo="https://cdn.m3u.cl/logo/1313_Radio_Edelweiss.png" group-title="Región: Araucanía",Radio Edelweiss
+https://vmix.dyndns.biz/Edelweiss/index.m3u8?PlaylistM3UCL

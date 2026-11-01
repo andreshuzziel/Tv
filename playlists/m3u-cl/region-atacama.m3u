@@ -1,0 +1,27 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="1772" tvg-logo="https://cdn.m3u.cl/logo/1772_Radio_Labrar_Noticias.png" group-title="Región: Atacama",Radio Labrar Noticias
+https://183.bozztv.com/giatv/giatv-labrarnoticias/labrarnoticias/chunks.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="1487" tvg-logo="https://cdn.m3u.cl/logo/1487_Radio_Labrar_TV.png" group-title="Región: Atacama",Radio Labrar TV
+https://183.bozztv.com/giatv/giatv-radiolabrartv/radiolabrartv/chunks.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="1675" tvg-logo="https://cdn.m3u.cl/logo/1675_Radio_Amiga_Vallenar.png" group-title="Región: Atacama",Radio Amiga Vallenar
+https://5eaccbab48461.streamlock.net:1936/8176/8176/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="1600" tvg-logo="https://cdn.m3u.cl/logo/1600_Radio_Caldera_Vision.png" group-title="Región: Atacama",Radio Caldera Vision
+https://tv.arkeo.cl:1936/kymczwbrge/kymczwbrge/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="72" tvg-logo="https://cdn.m3u.cl/logo/72_Holvoet_TV.png" group-title="Región: Atacama",Holvoet TV
+https://unlimited1-cl-isp.dps.live/holvoettv/holvoettv.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="319" tvg-logo="https://cdn.m3u.cl/logo/319_Atacama_Noticias_TV.png" group-title="Región: Atacama",Atacama Noticias TV
+https://v2.tustreaming.cl/atacamanoticias/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="320" tvg-logo="https://cdn.m3u.cl/logo/320_Atacama_TV.png" group-title="Región: Atacama",Atacama TV
+https://v4.tustreaming.cl/atacamatv/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="784" tvg-logo="https://cdn.m3u.cl/logo/784_Madero_TV.png" group-title="Región: Atacama",Madero TV
+https://v1.tustreaming.cl/maderoantofagasta/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="321" tvg-logo="https://cdn.m3u.cl/logo/321_Huasco_TV.png" group-title="Región: Atacama",Huasco TV
+https://paneltv.stream:19360/huasco/huasco.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="462" tvg-logo="https://cdn.m3u.cl/logo/462_Alternativa_TV.png" group-title="Región: Atacama",Alternativa TV
+https://live20.bozztv.com/giatv/giatv-alternativatv/alternativatv/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="322" tvg-logo="https://cdn.m3u.cl/logo/322_Enfoque_Digital_TV.png" group-title="Región: Atacama",Enfoque Digital TV
+https://5eaccbab48461.streamlock.net:1936/8074/8074/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="1601" tvg-logo="https://cdn.m3u.cl/logo/1601_Maray_TV.png" group-title="Región: Atacama",Maray TV
+https://5eaccbab48461.streamlock.net:1936/8242/ngrp:8242_all/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="173" tvg-logo="https://cdn.m3u.cl/logo/173_Escuchame_Radio.png" group-title="Región: Atacama",Escuchame Radio
+https://Stmv1.transmissaodigital.com/pedro9800/pedro9800/playlist.m3u8?PlaylistM3UCL

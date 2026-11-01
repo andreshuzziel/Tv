@@ -1,0 +1,11 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="1451" tvg-logo="https://cdn.m3u.cl/logo/1451_Nexovision.png" group-title="Región: Coquimbo",Nexovision
+https://oracle.streaminghd.cl/nexovision/nexovision/playlist.m3u8?streaminghdstarttime=1775574932&streaminghdendtime=1775618132&streaminghdhash=LdQe_x_kJhkmY-zJkmQN_mIkxGYOFYcYVGiCv5ktNsQ=&PlaylistM3UCL
+#EXTINF:-1 tvg-id="325" tvg-logo="https://cdn.m3u.cl/logo/325_La_Popular_TV.png" group-title="Región: Coquimbo",La Popular TV
+https://tv.arkeo.cl:1936/enlacetv1/enlacetv1/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="326" tvg-logo="https://cdn.m3u.cl/logo/326_ThemaTV.png" group-title="Región: Coquimbo",ThemaTV
+https://unlimited1-cl-isp.dps.live/thema/thema.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="329" tvg-logo="https://cdn.m3u.cl/logo/329_TV_Elqui.png" group-title="Región: Coquimbo",TV Elqui
+https://panel.tvstream.cl:1936/campu/campu/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="1647" tvg-logo="https://cdn.m3u.cl/logo/1647_El_Conquistador_La_Serena.png" group-title="Región: Coquimbo",El Conquistador La Serena
+https://v4.tustreaming.cl:443/elcqlaserena/index.m3u8?PlaylistM3UCL

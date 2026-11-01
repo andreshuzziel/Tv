@@ -1,0 +1,49 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="1798" tvg-logo="https://cdn.m3u.cl/logo/1798_LCR_Television.png" group-title="Región: Biobío",LCR Televisión
+https://stream.blserver.cl/hls/expresiontv/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="414" tvg-logo="https://cdn.m3u.cl/logo/414_AE_Radio.png" group-title="Región: Biobío",AE Radio
+https://tls-cl.cdnz.cl/aeradio/live/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="386" tvg-logo="https://cdn.m3u.cl/logo/386_Energia_TV.png" group-title="Región: Biobío",Energia TV
+https://andromeda2.trapemn.tv:1936/regionales/energia-fm/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="421" tvg-logo="https://cdn.m3u.cl/logo/421_Bio_Bio_TV.png" group-title="Región: Biobío",Bio Bio TV
+https://redirector.rudo.video/hls-video/339f69c6122f6d8f4574732c235f09b7683e31a5/bbtv/bbtv.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="65" tvg-logo="https://cdn.m3u.cl/logo/65_El_3_de_Conce.png" group-title="Región: Biobío",El 3 de Conce
+https://5ff3d9babae13.streamlock.net:443/xedkektnqj/xedkektnqj/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="67" tvg-logo="https://cdn.m3u.cl/logo/67_Exprezion_TV.png" group-title="Región: Biobío",Exprezion TV
+https://lbgo.bozztv.com/ssh101/ssh101/exprezion2026/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="69" tvg-logo="https://cdn.m3u.cl/logo/69_G_Vision.png" group-title="Región: Biobío",G Vision
+https://videostream.chileservidores.com:8081/tome/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="56" tvg-logo="https://cdn.m3u.cl/logo/56_TVU.png" group-title="Región: Biobío",TVU
+https://unlimited1-cl-isp.dps.live/tvu/tvu.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="349" tvg-logo="https://cdn.m3u.cl/logo/349_Supersonika_TV.png" group-title="Región: Biobío",Supersonika TV
+https://unlimited1-cl-isp.dps.live/supersonikatv/supersonikatv.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="350" tvg-logo="https://cdn.m3u.cl/logo/350_ClickTv.png" group-title="Región: Biobío",ClickTv
+https://v2.tustreaming.cl/clicktv/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="352" tvg-logo="https://cdn.m3u.cl/logo/352_Concepcion_TV.png" group-title="Región: Biobío",Concepcion TV
+https://stream.blserver.cl/hls/ctv/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="353" tvg-logo="https://cdn.m3u.cl/logo/353_Canal_9_Bio_Bi­o_TV.png" group-title="Región: Biobío",Canal 9 Bío Bí­o TV
+https://unlimited1-cl-isp.dps.live/c9/c9.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="957" tvg-logo="https://cdn.m3u.cl/logo/957_Pacifico_Television.png" group-title="Región: Biobío",Pacifico Television
+https://us.streaminghd.cl/pacificotelevision/tracks-v1a1/mono.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="1482" tvg-logo="https://cdn.m3u.cl/logo/1482_Eva_Television.png" group-title="Región: Biobío",Eva Televisión
+https://tv.arkeo.cl:1936/evatelevision/evatelevision/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="948" tvg-logo="https://cdn.m3u.cl/logo/948_San_Pedro_Conecta.png" group-title="Región: Biobío",San Pedro Conecta
+https://video.ipstream.cl:3710/hybrid/play.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="810" tvg-logo="https://cdn.m3u.cl/logo/810_Club_TV.png" group-title="Región: Biobío",Club TV
+https://tv.arkeo.cl:1936/clubtv/clubtv/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="1013" tvg-logo="https://cdn.m3u.cl/logo/1013_CRadio_cl.png" group-title="Región: Biobío",CRadio.cl
+https://tls-cl.cdnz.cl/cradio/live/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="973" tvg-logo="https://cdn.m3u.cl/logo/973_Top_New_Radio.png" group-title="Región: Biobío",Top New Radio
+https://5ff3d9babae13.streamlock.net:443/dxwdsmgesp/dxwdsmgesp/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="1564" tvg-logo="https://cdn.m3u.cl/logo/1564_Ritmo_Top_Latino.png" group-title="Región: Biobío",Ritmo Top Latino
+https://5ff3d9babae13.streamlock.net/vzzfdajnnf/vzzfdajnnf/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="1173" tvg-logo="https://cdn.m3u.cl/logo/1173_Radio_Mia_89_3_Fm.png" group-title="Región: Biobío",Radio Mia 89.3 Fm
+https://tv.telselec.cl:3856/live/radiomialive.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="786" tvg-logo="https://cdn.m3u.cl/logo/786_Tributo_Valentina.png" group-title="Región: Biobío",Tributo Valentina
+https://vdochile.com:3795/hybrid/play.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="396" tvg-logo="https://cdn.m3u.cl/logo/396_Radio_Via_Libre.png" group-title="Región: Biobío",Radio Via Libre
+https://live20.bozztv.com/akamaissh101/ssh101/vialibretv/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="410" tvg-logo="https://cdn.m3u.cl/logo/410_Radio_Camila_TV.png" group-title="Región: Biobío",Radio Camila TV
+https://panel.tvstream.cl:1936/8008/8008/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="419" tvg-logo="https://cdn.m3u.cl/logo/419_El_Conquistador_Concepcion.png" group-title="Región: Biobío",El Conquistador Concepcion
+https://v1.tustreaming.cl/conquistadorconcepcion/index.m3u8?PlaylistM3UCL

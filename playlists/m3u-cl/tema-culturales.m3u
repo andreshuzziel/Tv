@@ -1,0 +1,9 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="1288" tvg-logo="https://cdn.m3u.cl/logo/1288_Suyai_TV.png" group-title="Tema: Culturales",Suyai TV
+https://trun.suyaitv.cl/memfs/1255a743-cd41-40a8-86c4-d264ee16ebf3.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="445" tvg-logo="https://cdn.m3u.cl/logo/445_Camara_de_Diputados.png" group-title="Tema: Culturales",Camara de Diputados
+https://tls-cl.cdnz.cl/streamdiptudadosa/live/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="444" tvg-logo="https://cdn.m3u.cl/logo/444_TV_Senado.png" group-title="Tema: Culturales",TV Senado
+https://janus-tv-ply.senado.cl/playlist/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="443" tvg-logo="https://cdn.m3u.cl/logo/443_Arab_TV.png" group-title="Tema: Culturales",Arab TV
+https://video03.logicahost.com.br/arabtvchile/arabtvchile/playlist.m3u8?PlaylistM3UCL

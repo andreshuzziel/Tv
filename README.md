@@ -1,0 +1,76 @@
+# 📺 TV Chile — Repositorio de canales abiertos
+
+> 🔄 **Última actualización:** 01-nov-2026 · **3.112 canales** (Chile + español Latam/ES de 7 fuentes, todo sanitizado https) · servidor sirviendo en el puerto 8000
+
+Repositorio y reproductor web de canales de **televisión abierta y pública de Chile**, con foco extra en la **Región del Biobío**. Datos obtenidos del proyecto open-source [iptv-org](https://github.com/iptv-org/iptv).
+
+## Contenido
+
+```
+index.html              → Reproductor web (abre y listo)
+styles.css / app.js     → Interfaz y lógica del player HLS
+data/channels.js        → Catálogo de canales (3.112 = Chile + español Latam/ES de 7 fuentes, todo sanitizado)
+vendor/hls.min.js       → reproductor HLS local (sin CDN externo)
+playlists/
+  ├ chile-segura.m3u    → ✅ LISTA RECOMENDADA: solo HTTPS con dominio, sin TV de pago (177 canales)
+  ├ chile-completa.m3u  → canales del repo (sanitizada: sin http/IP/.php)
+  ├ nacionales.m3u      → TVN, Mega, CHV, Canal 13, La Red, Telecanal… (sanitizada)
+  ├ noticias.m3u        → T13, Meganoticias, ADN, Cooperativa, TV Senado (sanitizada)
+  └ biobio.m3u          → Bío Bío TV, Concepción TV, Canal 9, El 3 de Conce… (sanitizada)
+  └ m3u-cl/             → lista M3U.CL sanitizada, separada por región (16) y tema (16) — ver su README
+upstream/
+  ├ iptv-clone/         → clon shallow (depth 1) de github.com/iptv-org/iptv @ d5a172b
+  └ audit/              → findings.csv (4.007 URLs con hallazgos) + reportes de limpieza
+REVISION-SEGURIDAD.md   → auditoría anti-hackeo completa del repo externo
+audit-repo.sh           → script para auditar CUALQUIER repo de GitHub sin ejecutarlo
+```
+
+## Uso
+
+**Navegador:** abre `index.html` y haz clic en un canal.
+
+**VLC:** `Medio → Abrir ubicación de red` y pega:
+```
+https://iptv-org.github.io/iptv/countries/cl.m3u      # todo Chile
+https://iptv-org.github.io/iptv/subdivisions/cl-bi.m3u # Biobío
+```
+o abre directamente cualquier archivo de `playlists/`.
+
+**TiviMate / IPTV Smarters / OTT Navigator:** agrega una playlist tipo M3U apuntando al archivo.
+
+## Canales incluidos (3.112)
+
+Se incluyen **todos los canales seguros** de: (1) iptv-org Chile (`chile-segura.m3u` + catálogo curado con sitios oficiales: TVN, Mega, CHV, Canal 13, La Red…), (2) **M3U.CL** (381 canales, por región y tema en `playlists/m3u-cl/`) y (3) iptv-org **en español de otros países, COMPLETO** y (4) **fuentes extras curadas**: Alplox/json-teles, Free-TV (LatAm+ES), CharlieII/IPTV_mexico, JMigue85/IPTV-SV, Pluto TV ES (`playlists/fuentes/*.m3u`) (`spa`: los 1.584 canales sanitizados entran en la app dentro de las temáticas existentes — Noticias 101, Música 187, Religioso 170, General 987, Entretenimiento 133…; además por temática en `playlists/es/` y completa en `playlists/tematicas-es-completa.m3u`). Se excluyen solo entradas riesgosas (http/IP/.php) o de TV de pago/VOD no autorizada (ver `upstream/audit/*.csv`).
+
+Grupos automáticos (desde las categorías de iptv-org): General, Noticias, Deportes, Infantil, Cine, Música, Entretenimiento, Religioso, Cultura, Comedia, Educación, Negocios, Viajes, Estilo de vida, Biobío (canales locales de tu región), 13 FAST…
+
+Cada canal muestra la **🏳️ bandera emoji de su país de origen** (campo `cc` ISO 3166-1, derivado del `tvg-id` de iptv-org: 🇨🇱 567, 🇩🇴 234, 🇪🇸 164, 🇺🇸 144, 🇦🇷 139, 🇵🇪 135, 🇲🇽 130…), en la lista y en la barra del canal en reproducción.
+
+La app **sintoniza sola**: no hay botón de reproducir — al hacer clic en un canal reproduce al instante (si el navegador bloquea el sonido, arranca en silencio con el aviso 🔊, y si bloquea todo, basta **tocar la pantalla**). Al volver a abrir la página **reabre automáticamente el último canal visto**, y hay zapping con ↑ / ↓.
+
+## ⚽ Deportes
+
+**No se incluyen** señales de TNT Sports, ESPN, DSports ni similares: los enlaces que circulan en listas públicas son retransmisiones no autorizadas de TV de pago. Alternativas legales dentro de la app (pestaña Deportes): TNT Sports oficial, ESPN/Disney+, Chilevisión y Mega en abierto, FIFA+, Pluto TV Deportes, Zapping, Movistar TV, DirecTV GO.
+
+## 🔒 Seguridad
+
+El upstream `iptv-org/iptv` fue sometido a una **auditoría anti-hackeo completa** (ver `REVISION-SEGURIDAD.md` y `upstream/audit/RESUMEN-AUDIT.md`). Conclusión: el **código** del repo está limpio (0 binarios ejecutables, 0 patrones peligrosos en workflows/scripts, actions fijadas por SHA), pero sus playlists contienen miles de URLs de riesgo (HTTP plano, IPs directas, endpoints `.php`, `rtmp`). Por eso este repo aplica una política de sanitización:
+
+- `playlists/*.m3u` quedaron **sanitizadas**: solo `https://` con nombre de dominio; fuera TV de pago no autorizada, IPs directas, `.php` y URLs sospechosas (detalle en `upstream/audit/limpieza-playlists-locales.csv`).
+- `playlists/chile-segura.m3u` es la lista pública recomendada (177 canales conservados, 34 eliminados).
+- Las entradas de `data/channels.js` que dependen de espejos http/IP llevan el aviso `⚠ espejo no oficial`; si una señal falla, usa el botón **Sitio oficial** (tvn.cl, mega.cl, etc.).
+- Para auditar cualquier otro repo externo antes de usarlo: `./audit-repo.sh org/repo`.
+- **Verificación en vivo de enlaces** (DNS/TLS/HTTP/redirects): ver `REPORTE-SEGURIDAD-LINKS.md` — 567 URLs chequeadas, 0 riesgosas, 106 muertas podadas.
+
+## Aviso
+
+Solo se enlazan señales publicadas por los propios canales. Los enlaces pueden caerse, cambiar o tener geobloqueo. Si una señal falla, usa el botón **Sitio oficial**.
+
+Licencia MIT para el código. Las marcas y contenidos pertenecen a sus respectivos titulares.
+
+## Panel de canales (derecha) — Regiones y Temáticas
+El panel lateral se rehízo desde cero y ahora está a la **derecha** del reproductor:
+- **📍 Regiones** — 260 canales regionales en las 16 regiones, de norte a sur (XV Arica y Parinacota → XII Magallanes), cada una con su número romano y capital; dentro, separados en *Televisión regional*, *Temáticos de la región* y *Radios*. Filtro *Todo / Solo TV / Solo radios*.
+- **🎭 Temáticas** — los otros 1.106 canales (nacionales + hispanos) en 14 temas: Señal abierta nacional, Noticias, Deportes, Entretención y series, Infantil, Cultura/educación, Música, Radios, Estilo de vida, Gobierno, Religiosos, Comunitarios, Internacionales y Generalistas. Filtro *Todos / 🇨🇱 Chile / 🌎 Hispanos*.
+- **★** — Favoritos + vistos recientemente.
+- Buscador sin tildes, secciones desplegables (se recuerdan), zapping ↑/↓ en el orden del panel, descarga M3U de la vista actual con `group-title` = región o temática.

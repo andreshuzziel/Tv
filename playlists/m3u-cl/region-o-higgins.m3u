@@ -1,0 +1,23 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="1715" tvg-logo="https://cdn.m3u.cl/logo/1715_Uniregion_TV.png" group-title="Región: O'Higgins",Uniregion TV
+https://5ff3d9babae13.streamlock.net:443/ubyecbxnfd/ubyecbxnfd/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="66" tvg-logo="https://cdn.m3u.cl/logo/66_Pichilemu_TV.png" group-title="Región: O'Higgins",Pichilemu TV
+https://5ff3d9babae13.streamlock.net/8028/8028/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="1025" tvg-logo="https://cdn.m3u.cl/logo/1025_Telecanal_Santa_Cruz.png" group-title="Región: O'Higgins",Telecanal Santa Cruz
+https://origin-us.streaminghd.cl/telecanal/telecanal/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="340" tvg-logo="https://cdn.m3u.cl/logo/340_TVO_San_Vicente.png" group-title="Región: O'Higgins",TVO San Vicente
+https://5ff3d9babae13.streamlock.net:443/8014/8014/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="341" tvg-logo="https://cdn.m3u.cl/logo/341_Sextavision.png" group-title="Región: O'Higgins",Sextavision
+https://5ff3d9babae13.streamlock.net/fzkqsdfray/fzkqsdfray/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="1607" tvg-logo="https://cdn.m3u.cl/logo/1607_Santa_Cruz_HD.png" group-title="Región: O'Higgins",Santa Cruz HD
+https://origin-us.streaminghd.cl/santacruz/santacruz/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="1602" tvg-logo="https://cdn.m3u.cl/logo/1602_RTV.png" group-title="Región: O'Higgins",RTV
+https://origin-us.streaminghd.cl/rtv/rtv/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="1572" tvg-logo="https://cdn.m3u.cl/logo/1572_TV_Lascabras_net.png" group-title="Región: O'Higgins",TV Lascabras.net
+https://vivo.solumedia.com:19360/lascabrastv/lascabrastv.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="1463" tvg-logo="https://cdn.m3u.cl/logo/1463_Radio_Bienvenida_FM.png" group-title="Región: O'Higgins",Radio Bienvenida FM
+https://panel.tvstream.cl:1936/8012/8012/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="1309" tvg-logo="https://cdn.m3u.cl/logo/1309_Santa_Cruz_FM.png" group-title="Región: O'Higgins",Santa Cruz FM
+https://unlimited1-cl-isp.dps.live/rcruz/rcruz.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="1196" tvg-logo="https://cdn.m3u.cl/logo/1196_Radio_Ritmo_FM.png" group-title="Región: O'Higgins",Radio Ritmo FM
+https://panel.tvstream.cl:1936/8046/8046/playlist.m3u8?PlaylistM3UCL

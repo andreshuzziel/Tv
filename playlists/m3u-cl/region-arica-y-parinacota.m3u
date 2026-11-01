@@ -1,0 +1,7 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="312" tvg-logo="https://cdn.m3u.cl/logo/312_Cappissima_Multimedial_TV.png" group-title="Región: Arica y Parinacota",Cappissima Multimedial TV
+https://oracle.streaminghd.cl/cappissima/cappissima/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="313" tvg-logo="https://cdn.m3u.cl/logo/313_Puerta_Norte.png" group-title="Región: Arica y Parinacota",Puerta Norte
+https://panel.tvstream.cl:1936/8030/8030/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="1242" tvg-logo="https://cdn.m3u.cl/logo/1242_Radio_Estacion_Arica.png" group-title="Región: Arica y Parinacota",Radio Estacion Arica
+https://5eaccbab48461.streamlock.net:1936/heqhvtgebg/heqhvtgebg/playlist.m3u8?PlaylistM3UCL

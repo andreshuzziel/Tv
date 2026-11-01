@@ -1,0 +1,7 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="tvn3" group-title="Nacional",TVN 3 / NTV
+https://mdstrm.com/live-stream-playlist/5653641561b4eba30a7e4929.m3u8
+#EXTINF:-1 tvg-id="ucv" group-title="Nacional",UCV TV / TV+
+https://unlimited2-cl-isp.dps.live/ucvtv2/ucvtv2.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="rewind" group-title="Nacional",Rewind TV
+https://tls-cl.cdnz.cl/rewindtv/live/playlist.m3u8

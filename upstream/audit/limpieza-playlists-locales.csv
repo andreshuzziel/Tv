@@ -1,0 +1,17 @@
+archivo,canal,url,motivo
+chile-completa.m3u,TVN,http://15.204.246.24:8080/TVNHD/index.m3u8,no-https;ip-directa
+chile-completa.m3u,Mega,http://tr.live.clarovtrcdn.vtrplay.com/megahdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD,no-https
+chile-completa.m3u,Chilevisión,http://15.204.246.24:8080/CHVHD/index.m3u8,no-https;ip-directa
+chile-completa.m3u,Canal 13,http://15.204.246.24:8080/Canal13HD/index.m3u8,no-https;ip-directa
+chile-completa.m3u,Telecanal,http://45.232.210.1:8029/play/a00s/index.m3u8,no-https;ip-directa
+chile-completa.m3u,TV Chile,http://38.252.238.18:8000/play/a04b/index.m3u8,no-https;ip-directa
+chile-completa.m3u,Meganoticias Ahora,http://15.204.196.147:22880/MEGANOTICIA-MEGAMEDIA-EE.UU-PROVEEDOR/video.m3u8,no-https;ip-directa
+chile-completa.m3u,Mega Ficción,http://15.204.196.147:22880/MEGAFICCION-MEGAMEDIA-EE.UU-PROVEEDOR/index.m3u8,no-https;ip-directa
+chile-completa.m3u,Mega 2,http://15.204.246.24:8080/Mega2HD/index.m3u8,no-https;ip-directa
+nacionales.m3u,TVN,http://15.204.246.24:8080/TVNHD/index.m3u8,no-https;ip-directa
+nacionales.m3u,Mega,http://tr.live.clarovtrcdn.vtrplay.com/megahdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD,no-https
+nacionales.m3u,Chilevisión,http://15.204.246.24:8080/CHVHD/index.m3u8,no-https;ip-directa
+nacionales.m3u,Canal 13,http://15.204.246.24:8080/Canal13HD/index.m3u8,no-https;ip-directa
+nacionales.m3u,Telecanal,http://45.232.210.1:8029/play/a00s/index.m3u8,no-https;ip-directa
+nacionales.m3u,TV Chile,http://38.252.238.18:8000/play/a04b/index.m3u8,no-https;ip-directa
+noticias.m3u,Meganoticias Ahora,http://15.204.196.147:22880/MEGANOTICIA-MEGAMEDIA-EE.UU-PROVEEDOR/video.m3u8,no-https;ip-directa

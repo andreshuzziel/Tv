@@ -1,0 +1,21 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="1017" tvg-logo="https://cdn.m3u.cl/logo/1017_U_Chile_TV.png" group-title="Tema: Universitarios",U Chile TV
+https://unlimited1-cl-isp.dps.live/uchiletv/uchiletv.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="54" tvg-logo="https://cdn.m3u.cl/logo/54_UCV.png" group-title="Tema: Universitarios",UCV
+https://unlimited2-cl-isp.dps.live/ucvtv2/ucvtv2.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="1152" tvg-logo="https://cdn.m3u.cl/logo/1152_UCV_2.png" group-title="Tema: Universitarios",UCV 2
+https://unlimited1-cl-isp.dps.live/ucvtveventos/ucvtveventos.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="53" tvg-logo="https://cdn.m3u.cl/logo/53_TV_USACH.png" group-title="Tema: Universitarios",TV USACH
+https://stv4.janus.cl/playlist/stream.m3u8?s=lq&t=&id=luflljxo&q=&d=w&PlaylistM3UCL
+#EXTINF:-1 tvg-id="55" tvg-logo="https://cdn.m3u.cl/logo/55_UTalcaTV.png" group-title="Tema: Universitarios",UTalcaTV
+https://unlimited1-cl-isp.dps.live/campustv/campustv.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="56" tvg-logo="https://cdn.m3u.cl/logo/56_TVU.png" group-title="Tema: Universitarios",TVU
+https://unlimited1-cl-isp.dps.live/tvu/tvu.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="802" tvg-logo="https://cdn.m3u.cl/logo/802_TV_UCT.png" group-title="Tema: Universitarios",TV UCT
+https://unlimited2-cl-isp.dps.live/uct/uct.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="57" tvg-logo="https://cdn.m3u.cl/logo/57_UFROTV.png" group-title="Tema: Universitarios",UFROTV
+https://mdstrm.com/live-stream-playlist/580a80b827de0ae2086ea6d8.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="60" tvg-logo="https://cdn.m3u.cl/logo/60_UMAG_TV.png" group-title="Tema: Universitarios",UMAG TV
+https://tls-cl.cdnz.cl/umag1/ngrp:live_all/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="62" tvg-logo="https://cdn.m3u.cl/logo/62_UesTV.png" group-title="Tema: Universitarios",UesTV
+https://stream.castr.com/627c69e631b96a3b9b99c2db/live_14ff24d0ed9911f0bad5c55033ee00d0/rewind-3600.m3u8?PlaylistM3UCL

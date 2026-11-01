@@ -1,0 +1,47 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="1771" tvg-logo="https://cdn.m3u.cl/logo/1771_Qultura.png" group-title="Región: Valparaíso",Qultura
+https://scl.edge.grupoz.cl/transmision/live/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="1776" tvg-logo="https://cdn.m3u.cl/logo/1776_Radio_Bohemia_TV.png" group-title="Región: Valparaíso",Radio Bohemia TV
+https://portalstream.cl:8080/bohemia1.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="1764" tvg-logo="https://cdn.m3u.cl/logo/1764_Grupo_Libra_TV.png" group-title="Región: Valparaíso",Grupo Libra TV
+https://v2.tustreaming.cl/libratv/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="1762" tvg-logo="https://cdn.m3u.cl/logo/1762_SoloTV.png" group-title="Región: Valparaíso",SoloTV
+https://stream.making.cl/memfs/ee909361-73e9-4e74-8391-5f1b0b8006c2.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="1704" tvg-logo="https://cdn.m3u.cl/logo/1704_TuTV.png" group-title="Región: Valparaíso",TuTV
+https://vdochile.com:3775/hybrid/play.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="1678" tvg-logo="https://cdn.m3u.cl/logo/1678_RitoqueFM_TV.png" group-title="Región: Valparaíso",RitoqueFM TV
+https://streaming.purum.cl/ritoquetv/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="1672" tvg-logo="https://cdn.m3u.cl/logo/1672_Preludio_TV_Senal_2.png" group-title="Región: Valparaíso",Preludio TV Señal 2
+https://tv.arkeo.cl:1936/preludio2/preludio2/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="1282" tvg-logo="https://cdn.m3u.cl/logo/1282_Galactika_Media.png" group-title="Región: Valparaíso",Galactika Media
+https://lbgo.bozztv.com/ssh101/ssh101/myevento20267/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="54" tvg-logo="https://cdn.m3u.cl/logo/54_UCV.png" group-title="Región: Valparaíso",UCV
+https://unlimited2-cl-isp.dps.live/ucvtv2/ucvtv2.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="1152" tvg-logo="https://cdn.m3u.cl/logo/1152_UCV_2.png" group-title="Región: Valparaíso",UCV 2
+https://unlimited1-cl-isp.dps.live/ucvtveventos/ucvtveventos.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="73" tvg-logo="https://cdn.m3u.cl/logo/73_VTV_Quillota.png" group-title="Región: Valparaíso",VTV Quillota
+https://unlimited1-cl-isp.dps.live/vtvquillota/vtvquillota.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="335" tvg-logo="https://cdn.m3u.cl/logo/335_VTV.png" group-title="Región: Valparaíso",VTV
+https://unlimited2-cl-isp.dps.live/vtv/vtv.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="1434" tvg-logo="https://cdn.m3u.cl/logo/1434_Marga_Marga_TV.png" group-title="Región: Valparaíso",Marga Marga TV
+https://v1.tustreaming.cl/margamargatv/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="1427" tvg-logo="https://cdn.m3u.cl/logo/1427_Estacion_Limache_TV.png" group-title="Región: Valparaíso",Estacion Limache TV
+https://v4.tustreaming.cl/limachemovil/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="332" tvg-logo="https://cdn.m3u.cl/logo/332_TV_Costa.png" group-title="Región: Valparaíso",TV Costa
+https://tvcosta.gleeze.com/memfs/39cef946-1aac-4418-8df8-6d8ff6d0a680.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="1231" tvg-logo="https://cdn.m3u.cl/logo/1231_Canal_Local.png" group-title="Región: Valparaíso",Canal Local
+https://v2.tustreaming.cl/canallocalcl/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="854" tvg-logo="https://cdn.m3u.cl/logo/854_TV_Quinta_Region.png" group-title="Región: Valparaíso",TV Quinta Region
+https://stmv7.voxtvhd.com.br/tvquintaregion/tvquintaregion/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="995" tvg-logo="https://cdn.m3u.cl/logo/995_Vida_Nueva_TV.png" group-title="Región: Valparaíso",Vida Nueva TV
+https://stmv7.voxtvhd.com.br/vidanueva/vidanueva/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="464" tvg-logo="https://cdn.m3u.cl/logo/464_Frecuencia_7_Aconcagua.png" group-title="Región: Valparaíso",Frecuencia 7 Aconcagua
+https://v2.tustreaming.cl/frecuencia7/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="76" tvg-logo="https://cdn.m3u.cl/logo/76_Canal_2_de_San_Antonio.png" group-title="Región: Valparaíso",Canal 2 de San Antonio
+https://unlimited1-cl-isp.dps.live/canal2/canal2.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="333" tvg-logo="https://cdn.m3u.cl/logo/333_Plaza_TV.png" group-title="Región: Valparaíso",Plaza TV
+https://oracle.streaminghd.cl/mediaradiotv/mediaradiotv/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="1422" tvg-logo="https://cdn.m3u.cl/logo/1422_Radio_Rosa_FM.png" group-title="Región: Valparaíso",Radio Rosa FM
+https://tv.arkeo.cl:1936/rosafm/rosafm/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="1399" tvg-logo="https://cdn.m3u.cl/logo/1399_IPNA_Medio.png" group-title="Región: Valparaíso",IPNA Medio
+https://paneltv.stream:19360/ipnamedios/ipnamedios.m3u8?PlaylistM3UCL

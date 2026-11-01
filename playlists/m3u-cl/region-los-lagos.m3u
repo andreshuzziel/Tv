@@ -1,0 +1,33 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="1805" tvg-logo="https://cdn.m3u.cl/logo/1805_Ruta_215_TV.png" group-title="Región: Los Lagos",Ruta 215 TV
+https://multistream.comunikados.cl/live/ruta215/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="1753" tvg-logo="https://cdn.m3u.cl/logo/1753_Canal_Del_Sur.png" group-title="Región: Los Lagos",Canal Del Sur
+https://oracle.streaminghd.cl/canal-del-sur/canal-del-sur/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="1747" tvg-logo="https://cdn.m3u.cl/logo/1747_Canal_48HD_Musica_Calbuco_DTV.png" group-title="Región: Los Lagos",Canal 48HD Musica Calbuco DTV
+https://live20.bozztv.com/akamaissh101/ssh101/canal48/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="1005" tvg-logo="https://cdn.m3u.cl/logo/1005_Onda_Radio_TV.png" group-title="Región: Los Lagos",Onda Radio TV
+https://tv.arkeo.cl:1936/ondaradiotv/ondaradiotv/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="1645" tvg-logo="https://cdn.m3u.cl/logo/1645_CalbucoNet.png" group-title="Región: Los Lagos",CalbucoNet
+https://videostream.chileservidores.com:8081/chiloe5/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="85" tvg-logo="https://cdn.m3u.cl/logo/85_Decima_TV.png" group-title="Región: Los Lagos",Decima TV
+https://unlimited2-cl-isp.dps.live/decimatv/decimatv.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="84" tvg-logo="https://cdn.m3u.cl/logo/84_T_Vinet.png" group-title="Región: Los Lagos",T-Vinet
+https://unlimited1-cl-isp.dps.live/inet2/inet2.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="86" tvg-logo="https://cdn.m3u.cl/logo/86_Canal_2_Quellon.png" group-title="Región: Los Lagos",Canal 2 Quellon
+https://unlimited1-cl-isp.dps.live/tvquellon/tvquellon.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="364" tvg-logo="https://cdn.m3u.cl/logo/364_Canal_5_Puerto_Montt.png" group-title="Región: Los Lagos",Canal 5 Puerto Montt
+https://5ff3d9babae13.streamlock.net:443/aufymdjpjf/aufymdjpjf/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="366" tvg-logo="https://cdn.m3u.cl/logo/366_Chiloe_Red_25.png" group-title="Región: Los Lagos",Chiloe Red 25
+https://v2.tustreaming.cl/chiloered/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="1396" tvg-logo="https://cdn.m3u.cl/logo/1396_Alerce_TV.png" group-title="Región: Los Lagos",Alerce TV
+https://s1.tvdatta.com:3384/live/canal20tvlive.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="387" tvg-logo="https://cdn.m3u.cl/logo/387_Zona_Play_Radio.png" group-title="Región: Los Lagos",Zona Play Radio
+https://tv1.mediacp.eu:3131/live/dilxbgxylive.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="974" tvg-logo="https://cdn.m3u.cl/logo/974_Patagonia_Radio_TV.png" group-title="Región: Los Lagos",Patagonia Radio TV
+https://video01.logicahost.com.br/grupomedia/grupomedia/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="411" tvg-logo="https://cdn.m3u.cl/logo/411_Interradio_TV.png" group-title="Región: Los Lagos",Interradio TV
+https://tv.digitalstreaming.cl/live/interradiotv.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="1480" tvg-logo="https://cdn.m3u.cl/logo/1480_Fortaleza_Radio.png" group-title="Región: Los Lagos",Fortaleza Radio
+https://live.tvcontrolcp.com:1936/fortalezatv/fortalezatv/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="1806" tvg-logo="https://cdn.m3u.cl/logo/1806_Horeb_Television.png" group-title="Región: Los Lagos",Horeb Television
+https://multistream.comunikados.cl/live/horebtv/playlist.m3u8?PlaylistM3UCL

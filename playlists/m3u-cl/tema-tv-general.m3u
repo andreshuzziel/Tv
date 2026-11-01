@@ -1,0 +1,53 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="1692" tvg-logo="https://cdn.m3u.cl/logo/1692_PRIDEtv_Latam.png" group-title="Tema: TV general",PRIDEtv Latam
+https://stream.pridetvlatam.cl/iptv/channel/2.m3u8?mode=segmenter&PlaylistM3UCL
+#EXTINF:-1 tvg-id="1805" tvg-logo="https://cdn.m3u.cl/logo/1805_Ruta_215_TV.png" group-title="Tema: TV general",Ruta 215 TV
+https://multistream.comunikados.cl/live/ruta215/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="1798" tvg-logo="https://cdn.m3u.cl/logo/1798_LCR_Television.png" group-title="Tema: TV general",LCR Televisión
+https://stream.blserver.cl/hls/expresiontv/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="1796" tvg-logo="https://cdn.m3u.cl/logo/1796_ShowtimeTV.png" group-title="Tema: TV general",ShowtimeTV
+https://stmv7.voxtvhd.com.br/showtimetv/showtimetv/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="1787" tvg-logo="https://cdn.m3u.cl/logo/1787_Voces_del_Fuego.png" group-title="Tema: TV general",Voces del Fuego
+https://stmv2.voxtvhd.com.br/vocesdelfuego/vocesdelfuego/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="1746" tvg-logo="https://cdn.m3u.cl/logo/1746_Turismo_Travel_TV.png" group-title="Tema: TV general",Turismo Travel TV
+https://stmv3.voxtvhd.com.br/turismotraveltv/turismotraveltv/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="1717" tvg-logo="https://cdn.m3u.cl/logo/1717_Cadena_RTV.png" group-title="Tema: TV general",Cadena-RTV
+https://stmv4.voxtvhd.com.br/cadenartv/cadenartv/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="1649" tvg-logo="https://cdn.m3u.cl/logo/1649_EPA__TV.png" group-title="Tema: TV general",EPA! TV
+https://v4.tustreaming.cl/edusauriotv/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="432" tvg-logo="https://cdn.m3u.cl/logo/432_HiperTV.png" group-title="Tema: TV general",HiperTV
+https://hipertvserver.cl/hls/live/main/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="1617" tvg-logo="https://cdn.m3u.cl/logo/1617_Zoom_Tecnologico_Plus.png" group-title="Tema: TV general",Zoom Tecnologico Plus
+https://vivo.cdnvid.com/zoomtecnologico.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="1733" tvg-logo="https://cdn.m3u.cl/logo/1733_Canal_13.png" group-title="Tema: TV general",Canal 13
+https://redirector.dps.live/hls/13cl/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="1683" tvg-logo="https://cdn.m3u.cl/logo/1683_13_Cocina.png" group-title="Tema: TV general",13 Cocina
+https://redirector.dps.live/hls/13cocina/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="1020" tvg-logo="https://cdn.m3u.cl/logo/1020_Caracola_TV.png" group-title="Tema: TV general",Caracola TV
+https://wifispeed.trapemn.tv:1936/comunales/caracola-tv/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="1022" tvg-logo="https://cdn.m3u.cl/logo/1022_EGM_TV.png" group-title="Tema: TV general",EGM TV
+https://vdochile.com:3922/live/egm20live.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="895" tvg-logo="https://cdn.m3u.cl/logo/895_RLOTV.png" group-title="Tema: TV general",RLOTV
+https://stmv7.voxtvhd.com.br/catto5860/catto5860/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="910" tvg-logo="https://cdn.m3u.cl/logo/910_Raices_Arabes_TV.png" group-title="Tema: TV general",Raices Arabes TV
+https://tv.arkeo.cl:1936/raicesarabestv/raicesarabestv/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="438" tvg-logo="https://cdn.m3u.cl/logo/438_Tevex.png" group-title="Tema: TV general",Tevex
+https://v2.tustreaming.cl/tevex/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="436" tvg-logo="https://cdn.m3u.cl/logo/436_TV_Salud.png" group-title="Tema: TV general",TV Salud
+https://stmv4.voxtvhd.com.br/rodrigo9120/rodrigo9120/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="435" tvg-logo="https://cdn.m3u.cl/logo/435_Chile_Channel.png" group-title="Tema: TV general",Chile Channel
+https://v2.tustreaming.cl/chilechannel/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="437" tvg-logo="https://cdn.m3u.cl/logo/437_Campo_Abierto_TV.png" group-title="Tema: TV general",Campo Abierto TV
+https://v2.tustreaming.cl:443/catvlive/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="1666" tvg-logo="https://cdn.m3u.cl/logo/1666_TurnoEnVivo.png" group-title="Tema: TV general",TurnoEnVivo
+https://redirector.dps.live/hls/turno/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="1626" tvg-logo="https://cdn.m3u.cl/logo/1626_C_y_G_TV.png" group-title="Tema: TV general",C y G TV
+https://stream.cygtv.cl/live/cygtv/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="1622" tvg-logo="https://cdn.m3u.cl/logo/1622_Dodo_TV.png" group-title="Tema: TV general",Dodo TV
+https://cloud5.streaminglivehd.com:3651/hybrid/play.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="1615" tvg-logo="https://cdn.m3u.cl/logo/1615_Bombi_TV.png" group-title="Tema: TV general",Bombi TV
+https://tv.arkeo.cl:1936/bombitv/bombitv/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="1779" tvg-logo="https://cdn.m3u.cl/logo/1779_La_Tercera_TV.png" group-title="Tema: TV general",La Tercera TV
+https://mdstrm.com/live-stream-playlist/67eae6c131b63199bfc77253.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="1780" tvg-logo="https://cdn.m3u.cl/logo/1780_Gobierno_de_Chile.png" group-title="Tema: TV general",Gobierno de Chile
+https://mdstrm.com/live-stream-playlist/6239f6d008e7ac488826f237.m3u8?PlaylistM3UCL

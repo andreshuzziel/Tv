@@ -1,0 +1,1109 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="canal-2-tcs-sd" group-title="General",Canal 2 TCS SD
+https://signal.teleon.live/play/0ovixKuZzOTGRRxCwa_ABQhsugeFdXFpCvtA19dpt-tZ8gPAxrJ15aqAsAon_EoLkncMzLuBVGLc1uKPcd2BzLq5ophNY_jwgwJvAWal.m3u8?token=test
+#EXTINF:-1 tvg-id="canal-4-tcs-sd" group-title="General",Canal 4 TCS SD
+https://signal.teleon.live/play/rP9_TAOqGedqe0XHS4ZRgYZBI9V78fDojJfie5Ph5WuMlJ_XA_TDw0mimsmUS9v6VgHDGGg6UyM5QuQOztz59w6e_WwQI3YXBVVIPh7zAQ.m3u8?token=test
+#EXTINF:-1 tvg-id="canal-6-tcs-sd" group-title="General",Canal 6 TCS SD
+https://signal.teleon.live/play/M-SFF5mIPhehGo_D8i6uMR6Bd-27NSk1CyGcC_RH3IU9KPSyUtE_LcTwpMg5b-Tf8SItAtfc-wgEZ3ikZvLWoUTNvdURyOyD.m3u8?token=test
+#EXTINF:-1 tvg-id="sv-sd" group-title="General",SV+ SD
+https://signal.teleon.live/play/mZVS9wM6kHbL3OlEyPnCwt6gF2314LegOk91sT6waf-R3KbUWMkrtvuPXkbEyhYQyHTrPWB7Cx8S9rnDsl8-ANQ-1CPExwggchQ.m3u8?token=test
+#EXTINF:-1 tvg-id="canal-9-no-24-7" group-title="General",Canal 9 [No 24/7]
+https://optitelsm.samnetsv.com/play/a0r5/index.m3u8
+#EXTINF:-1 tvg-id="canal-10-tves-no-24-7" group-title="General",Canal 10 TVES [No 24/7]
+https://streamingcws30.com/tves/videotves/playlist.m3u8
+#EXTINF:-1 tvg-id="canal-58-hd-no-24-7" group-title="General",Canal 58 HD [No 24/7]
+https://183.bozztv.com/giatv/giatv-canal58elsalvador/canal58elsalvador/playlist.m3u8
+#EXTINF:-1 tvg-id="tl-hd-santa-ana-no-24-7" group-title="General",TL+ HD Santa Ana [No 24/7]
+https://cdn.global.elektamedia.com/live/c7eds/TLMasSV_SantaAna/SA_LIVE_hls_enc/master.m3u8
+#EXTINF:-1 tvg-id="wow-tv-hd" group-title="General",WOW TV HD
+https://service.cdn-stream.com/wow/wow_tv/playlist.m3u8
+#EXTINF:-1 tvg-id="canal-9-coatevision-twitch" group-title="General",Canal 9 Coatevision [Twitch]
+https://www.twitch.tv/canal__9
+#EXTINF:-1 tvg-id="tn23-sd-nacional" group-title="General",TN23 SD  (Nacional)
+https://ddycmnicl95kp.cloudfront.net/live/by1ualyjwslr/master.m3u8
+#EXTINF:-1 tvg-id="guatevision-hd" group-title="General",Guatevisión HD
+https://mdstrm.com/live-stream-playlist/69f8df22a762c9b1ab3eabca.m3u8
+#EXTINF:-1 tvg-id="teveglobo-xela-hd-no-24-7-quetzaltenango" group-title="General",TeveGlobo Xela HD [No 24/7] (Quetzaltenango)
+https://giatv.bozztv.com/giatv/giatv-tevegloboxela/tevegloboxela/chunks.m3u8
+#EXTINF:-1 tvg-id="como-antes-tv-hd" group-title="General",Como Antes TV HD
+https://tvstream.alojawebgt.net:3358/live/comoantestvlive.m3u8
+#EXTINF:-1 tvg-id="tv-doble-c-hd-escuintla" group-title="General",TV Doble C HD (Escuintla)
+https://cdn.streamhispanatv.net:3080/live/tvdobleclive.m3u8
+#EXTINF:-1 tvg-id="toto-vision-hd-no-24-7" group-title="General",Toto Visión HD [No 24/7]
+https://cdn.streamhispanatv.net:3652/stream/play.m3u8
+#EXTINF:-1 tvg-id="mas-tv-hd-totonicapan" group-title="General",Más TV HD (Totonicapan)
+https://cdn.streamhispanatv.net:3953/live/mastvtotolive.m3u8
+#EXTINF:-1 tvg-id="imagen-tv-hd-totonicapan" group-title="General",Imagen TV HD (Totonicapan)
+https://cdn.streamhispanatv.net:3587/live/imagentvlive.m3u8
+#EXTINF:-1 tvg-id="luna-tv-hd-no-24-7-quetzaltenango" group-title="General",Luna TV HD [No 24/7] (Quetzaltenango)
+https://cdn.streamhispanatv.net:3670/live/lunavisionlive.m3u8
+#EXTINF:-1 tvg-id="tvo-no-24-7-quetzaltenango" group-title="General",TVO [No 24/7] (Quetzaltenango)
+https://cdn.streamhispanatv.net:3989/live/tvolive.m3u8
+#EXTINF:-1 tvg-id="canal-3-regional-no-24-7-quetzaltenango" group-title="General",Canal 3 Regional [No 24/7] (Quetzaltenango)
+https://cdn.streamhispanatv.net:3833/live/canal3regionallive.m3u8
+#EXTINF:-1 tvg-id="gtv-hd-no-24-7-guatemala" group-title="General",GTV HD [No 24/7] (Guatemala)
+https://live.teve.pro/live/propetario-josue-montoya/index.m3u8?cookieCheck=1
+#EXTINF:-1 tvg-id="verapaz-tv-hd-no-24-7-inestable" group-title="General",Verapaz TV HD [No 24/7] (Inestable)
+https://tvstream.alojawebgt.net:3960/live/verapaztvlive.m3u8
+#EXTINF:-1 tvg-id="canal-26-quezada-tv-hd-no-24-jutiapa" group-title="General",Canal 26 Quezada TV HD [No 24/](Jutiapa)
+https://cdn.streamhispanatv.net:3059/live/canal26quezadalive.m3u8
+#EXTINF:-1 tvg-id="canal-26-cono-sur-tv-hd-no-24-jutiapa" group-title="General",Canal 26 Cono Sur TV HD [No 24/](Jutiapa)
+https://cdn.streamhispanatv.net:3831/live/conosurlive.m3u8
+#EXTINF:-1 tvg-id="canal-4-ixil-hd-no-24-quiche" group-title="General",Canal 4 Ixíl HD [No 24/](Quiche)
+https://cdn.streamhispanatv.net:3622/live/canalixillive.m3u8
+#EXTINF:-1 tvg-id="canal-tvq-live-hd" group-title="General",Canal TVQ LIVE HD
+https://cdn-us-east-prod-ingest-infra-dacast-com.akamaized.net/f84e45d42c07da1e7f6bf863d9447b7d/index.m3u8
+#EXTINF:-1 tvg-id="canal-5-el-lider-hd-nacional" group-title="General",Canal 5 El Líder HD (Nacional)
+https://mdstrm.com/live-stream-playlist/6287fdc9303e3008289ab711.m3u8
+#EXTINF:-1 tvg-id="tsi-hd-nacional" group-title="General",TSi HD(Nacional)
+https://mdstrm.com/live-stream-playlist/6287fda8ea3b8b397d1ca2ed.m3u8
+#EXTINF:-1 tvg-id="teleceiba-hd-nacional" group-title="General",Teleceiba HD (Nacional)
+https://teleceiba.com/stream/tlcb720.m3u8
+#EXTINF:-1 tvg-id="q-hubo-tv-hd-nacional" group-title="General",Q'Hubo TV HD (Nacional)
+https://amixtv.com:8081/qhubotv/index.fmp4.m3u8
+#EXTINF:-1 tvg-id="canal-stve-telebasica-1-hd" group-title="General",Canal STVE Telebásica 1 HD
+https://5ca9af4645e15.streamlock.net/suyapa/videosuyapa/playlist.m3u8
+#EXTINF:-1 tvg-id="television-creativa" group-title="General",Television creativa
+https://live20.bozztv.com/akamaissh101/ssh101/tctvhn/playlist.m3u8
+#EXTINF:-1 tvg-id="television-comayagua-canal-40" group-title="General",Television Comayagua Canal 40
+https://live20.bozztv.com/akamaissh101/ssh101/canal40/playlist.m3u8
+#EXTINF:-1 tvg-id="canal-1-hd-nacional" group-title="General",Canal 1 HD (Nacional)
+https://vid.canal1cr.com:3424/multi_live/play.m3u8
+#EXTINF:-1 tvg-id="opa-hd-nacional" group-title="General",¡OPA! HD (Nacional)
+https://5fe2654d6127d.streamlock.net/genteopabackup/videogenteopabackup/playlist.m3u8
+#EXTINF:-1 tvg-id="super-canal" group-title="General",Super Canal
+https://video20.klm99.com:3107/live/supercanallive.m3u8
+#EXTINF:-1 tvg-id="super-canal-opc-2" group-title="General",Super Canal [Opc.2]
+https://183.bozztv.com/giatv/giatv-Supercanal/Supercanal/playlist.m3u8
+#EXTINF:-1 tvg-id="los-santos-tv-zona-de-los-santos-no-24-7" group-title="General",Los Santos TV (Zona de los Santos)[No 24/7]
+https://lstv.duckdns.org:449/hls/lstv.m3u8
+#EXTINF:-1 tvg-id="imagen-tv-plus-hd-nacional" group-title="General",Imagen TV Plus HD (Nacional)
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=13917&device_os=html5&livestream=1&custom_targeting=html5
+#EXTINF:-1 tvg-id="canal-once-hd-ipn-nacional" group-title="General",Canal Once HD (IPN) (Nacional)
+https://vivo.canaloncelive.tv/oncedos/ngrp:pruebachunks_all/.m3u8
+#EXTINF:-1 tvg-id="clic-tv-hd-tv-azteca-nacional" group-title="General",Clic TV HD (TV Azteca) (Nacional)
+https://amg00658-amg00658c59-canelatv-international-5440.playouts.now.amagi.tv/playlist/amg00658-canelamediafast-clictvaztecaappta-canelatvinternational/playlist.m3u8
+#EXTINF:-1 tvg-id="estrella-tv-games-hd-nacional" group-title="General",Estrella TV Games HD (Nacional)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00567-estrellamedia-estrellagames-estrellamedia/playlist.m3u8
+#EXTINF:-1 tvg-id="tv-mas-hd-veracruz" group-title="General",TV Más HD (Veracruz)
+https://5ca9af4645e15.streamlock.net/rtv/videortv/.m3u8
+#EXTINF:-1 tvg-id="tv-cuatro-4-2-hd-guanajuato" group-title="General",TV Cuatro 4.2 HD (Guanajuato)
+https://5f2c1b0d880e5.streamlock.net/tv42/tv42.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="tv-guanajuato-hd-guanajuato" group-title="General",TV Guanajuato HD (Guanajuato)
+https://183.bozztv.com/giatv/giatv-TvGuanajuato/TvGuanajuato/playlist.m3u8
+#EXTINF:-1 tvg-id="rtq-queretaro-sd-queretaro-no-24-7" group-title="General",RTQ Queretaro SD (Querétaro)[No 24/7]
+https://59d39900ebfb8.streamlock.net/rytqrolive/rytqrolive/playlist.m3u8
+#EXTINF:-1 tvg-id="vibe-tv-hd-no-24-7-guanajuato" group-title="General",Vibe TV HD [No 24/7] (Guanajuato)
+https://5ca9af4645e15.streamlock.net/vibetv/videovibetv/playlist.m3u8
+#EXTINF:-1 tvg-id="telepacifico-opc2" group-title="General",Telepacifico [Opc2]
+https://play.cdn.enetres.net/6E5C615AA5FF4123ACAF0DAB57B7B8DC021/022/playlist.m3u8
+#EXTINF:-1 tvg-id="senal-colombia-no-24-7-nacional" group-title="General",Señal Colombia [No 24/7] (Nacional)
+https://streaming.rtvc.gov.co/TV_Senal_Colombia_live/smil:live.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="canal-institucional-no-24-7-nacional" group-title="General",Canal Institucional [No 24/7] (Nacional)
+https://streaming.rtvc.gov.co/TV_CanalInstitucional_live/smil:live.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="colombia-extremo-television" group-title="General",Colombia Extremo Televisión
+https://players.intermediahost.co/api/hls-proxy/?channel=colombia-extremo
+#EXTINF:-1 tvg-id="canal-capital" group-title="General",Canal Capital
+https://mdstrm.com/live-stream-playlist/6952dc88cb62083467eb6ab4.m3u8
+#EXTINF:-1 tvg-id="teleantioquia-hd-antioquia-regional" group-title="General",Teleantioquia HD (Antioquia / Regional)
+https://liveingesta118.cdnmedia.tv/teleantioquialive/smil:dvrlive.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="telecaribe-hd-region-caribe-regional" group-title="General",Telecaribe HD (Región Caribe / Regional)
+https://liveingesta118.cdnmedia.tv/telecaribetvlive/smil:rtmp01.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="telecafe-no-24-7-eje-cafetero-regional" group-title="General",Telecafé [No 24/7] (Eje Cafetero / Regional)
+https://liveingesta118.cdnmedia.tv/telecafelive/rtmp01-1500/chunklist.m3u8?DVR
+#EXTINF:-1 tvg-id="telemedellin-hd-medellin-antioquia" group-title="General",Telemedellín HD (Medellín - Antioquia)
+https://liveingesta118.cdnmedia.tv/tvtelemedellinlive/smil:rtmp01.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="teleislas-sd-no-24-7-san-andres-regional" group-title="General",Teleislas SD [No 24/7] (San Andrés / Regional)
+https://5ab772334c39c.streamlock.net/live-teleislas/teleislas/playlist.m3u8
+#EXTINF:-1 tvg-id="canal-calima-tv-hd-urestv-no-24-7-cali-valle" group-title="General",Canal Calima TV HD (URESTV)[No 24/7] (Cali / Valle del Cauca)
+https://movil.ejeserver.com/live/urestv.m3u8
+#EXTINF:-1 tvg-id="ondambiental-tv-sd-bogota" group-title="General",Ondambiental TV SD (Bogotá)
+https://stmv3.voxtvhd.com.br/ondastereotv/ondastereotv/playlist.m3u8
+#EXTINF:-1 tvg-id="vive-tv-colombia-hd-no-24-7-nacional" group-title="General",Vive TV Colombia HD [No 24/7](Nacional)
+https://stream.vivetvcolombia.com/vivetv/index.m3u8
+#EXTINF:-1 tvg-id="ecuavisa-nacional" group-title="General",Ecuavisa (Nacional)
+https://redirector.rudo.video/hls-video/c54ac2799874375c81c1672abb700870537c5223/ecuavisa/ecuavisa/.m3u8
+#EXTINF:-1 tvg-id="ecuavisa-quito-no-24-7-pichincha" group-title="General",Ecuavisa Quito [No 24/7] (Pichincha)
+https://redirector.dps.live/hls-video/c54ac2799874375c81c1672abb700870537c5223/ecuavisa/ecuavisa.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="ecuador-tv-hd-nacional" group-title="General",Ecuador TV HD (Nacional)
+https://video-eu1.streamerr.co/hls/s64029a8fdf/live.m3u8
+#EXTINF:-1 tvg-id="teleamazonas-hd" group-title="General",Teleamazonas HD
+https://teleamazonas-live.cdn.vustreams.com/live/fd4ab346-b4e3-4628-abf0-b5a1bc192428/live.isml/playlist.m3u8
+#EXTINF:-1 tvg-id="majestad-television-santo-domingo" group-title="General",Majestad Televisión (Santo Domingo)
+https://revo2.discovr.now/majestadtv.m3u8
+#EXTINF:-1 tvg-id="uniandes-tv-hd-no-24-7-tungurahua" group-title="General",UNIANDES TV HD [No 24/7] (Tungurahua)
+https://video.compuwebecuador.com:3323/stream/play.m3u8
+#EXTINF:-1 tvg-id="curiquingue-tv-hd-pichincha" group-title="General",Curiquingue TV HD (Pichincha)
+https://stream.ovalcast.com:5443/LiveApp/streams/wIZDyk6GTPuIpifQ868504716815490.m3u8
+#EXTINF:-1 tvg-id="multicanal-no-24-7-ecuador-loja" group-title="General",Multicanal [No 24/7](Ecuador - Loja)
+https://stmv1.novacasthd.in/multicanalec/multicanalec/playlist.m3u8
+#EXTINF:-1 tvg-id="tv-peru-hd-nacional" group-title="General",TV Perú HD (Nacional)
+https://cdnhd.iblups.net/hls/777b4d4cc0984575a7d14f6ee57dbcaf7.m3u8
+#EXTINF:-1 tvg-id="tv-peru-noticias" group-title="General",TV Perú Noticias
+https://cdnhd.iblups.net/hls/902c1a0395264f269f1160efa00660e47.m3u8
+#EXTINF:-1 tvg-id="tv-peru-internacional" group-title="General",TV Perú Internacional
+https://cdnhd.iblups.net/hls/ee2450c81e554f4cae0e6292106993c27.m3u8
+#EXTINF:-1 tvg-id="global-tv-hd-nacional" group-title="General",Global TV HD (Nacional)
+https://live-evg7.tv360.bitel.com.pe/bitel/global_abr/playlist.m3u8
+#EXTINF:-1 tvg-id="a1-tv-hd-no-24-7" group-title="General",A1 TV HD [No 24/7]
+https://vivatv.juanjuiserver.com:3251/live/a1televisionlive.m3u8
+#EXTINF:-1 tvg-id="antena-1-hd" group-title="General",Antena 1 HD
+https://tv.canala1.com:8081/web/video.m3u8
+#EXTINF:-1 tvg-id="antena-1-hd-opc-2" group-title="General",Antena 1 HD [Opc.2]
+https://live-evg8.tv360.bitel.com.pe/bitel/aunoSRT/playlist.m3u8
+#EXTINF:-1 tvg-id="mega-tv-hd-arequipa" group-title="General",Mega TV HD (Arequipa)
+https://183.bozztv.com/giatv/giatv-megatv/megatv/playlist.m3u8
+#EXTINF:-1 tvg-id="lo-nuestro-tv" group-title="General",Lo Nuestro TV
+https://vivatv.juanjuiserver.com:3733/live/lonuestrotvlive.m3u8
+#EXTINF:-1 tvg-id="latina-clasicos-hd-nacional" group-title="General",Latina Clasicos HD (Nacional)
+https://redirector.rudo.video/hls-video/plus226/latina2/latina2.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="onda-digital-hd-lima-nacional" group-title="General",Onda Digital HD (Lima / Nacional)
+https://live.ondadigitaltv.com/ODTV/index.fmp4.m3u8
+#EXTINF:-1 tvg-id="onda-digital-2-hd-lima-nacional" group-title="General",Onda Digital 2 HD (Lima / Nacional)
+https://live.ondadigitaltv.com/ODTV2/index.fmp4.m3u8
+#EXTINF:-1 tvg-id="onda-digital-3-hd-no-24-7-lima-nacional" group-title="General",Onda Digital 3 HD [No 24/7](Lima / Nacional)
+https://live.ondadigitaltv.com/ODTV3/index.fmp4.m3u8
+#EXTINF:-1 tvg-id="radio-onda-digital-hd-lima-nacional" group-title="General",Radio Onda Digital HD (Lima / Nacional)
+https://live.ondadigitaltv.com/RADIOODTV/index.fmp4.m3u8
+#EXTINF:-1 tvg-id="usmptv-hd-lima-nacional" group-title="General",USMPTV HD (Lima / Nacional)
+https://streamusmptv.ddns.net/live/stream.m3u8
+#EXTINF:-1 tvg-id="canal-21-huancayo-hd-junin" group-title="General",Canal 21 Huancayo HD (Junín)
+https://play.agenciastreaming.com:8081/tvwanka/playlist.m3u8
+#EXTINF:-1 tvg-id="impacto-tv-digital-sd" group-title="General",Impacto TV Digital SD
+https://live.obslivestream.com/reddigital/index.m3u8
+#EXTINF:-1 tvg-id="eco-television-ica" group-title="General",ECO Television (Ica)
+https://stream.ecoperu.tv/ECOTV/index.m3u8
+#EXTINF:-1 tvg-id="like-tv-hd-nacional" group-title="General",Like TV HD (Nacional)
+https://live-evg5.tv360.bitel.com.pe/bitel/fuegotv/playlist.m3u8
+#EXTINF:-1 tvg-id="bhtv-hd-lima" group-title="General",BHTV HD (Lima)
+https://5949aa132c8fb.streamlock.net:1963/iptvbhtv/livebhtvtv/playlist.m3u8
+#EXTINF:-1 tvg-id="nativa-tv-hd-santiago" group-title="General",Nativa TV HD (Santiago)
+https://live-evg5.tv360.bitel.com.pe/bitel/nativa/playlist.m3u8
+#EXTINF:-1 tvg-id="nativa-tv-hd-santiago-opc-2" group-title="General",Nativa TV HD (Santiago) [Opc.2]
+https://oneplay.iptvperu.tv:1936/static/nativa1.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="once-tv-digital" group-title="General",Once TV Digital
+https://live-evg10.tv360.bitel.com.pe/bitel/canal11/playlist.m3u8
+#EXTINF:-1 tvg-id="once-tv-digital-opc-2" group-title="General",Once TV Digital [Opc.2]
+https://183.bozztv.com/giatv/giatv-ojodigital/ojodigital/playlist.m3u8
+#EXTINF:-1 tvg-id="canal-39-tv-hd-ica-no-24-7" group-title="General",Canal 39 TV HD (Ica) [No 24/7]
+https://vivatv.juanjuiserver.com:3282/live/canal39live.m3u8
+#EXTINF:-1 tvg-id="television-tarapoto-hd-no-24-7-san-martin" group-title="General",Televisión Tarapoto HD [No 24/7] (San Martín)
+https://ott1.hdlatam.tv/live_abr/webtvTarapotoPe/playlist.m3u8
+#EXTINF:-1 tvg-id="vision-sur-tv-hd-no-24-7-arequipa" group-title="General",Visión Sur TV HD [No 24/7] (Arequipa)
+https://ott1.hdlatam.tv/live_abr/webtvVisionSur/playlist.m3u8
+#EXTINF:-1 tvg-id="mega-tv-jaen-hd-no-24-7-cajamarca" group-title="General",Mega TV Jaén HD [No 24/7] (Cajamarca)
+https://7.innovatestream.pe:19360/megatvjaen/megatvjaen.m3u8
+#EXTINF:-1 tvg-id="uranio-tv-yurimaguas-hd-no-24-7-loreto" group-title="General",Uranio TV (Yurimaguas) HD [No 24/7] (Loreto)
+https://live.obslivestream.com/uraniotv/index.m3u8
+#EXTINF:-1 tvg-id="trivu-hd-no-24-7-lima" group-title="General",Trivu HD [No 24/7] (Lima)
+https://stream2.trivutv.com/memfs/1bc8358a-665e-4bc1-a580-e4fcb54b5103.m3u8
+#EXTINF:-1 tvg-id="agro-tv-hd-no-24-7-cusco" group-title="General",Agro TV HD [No 24/7] (Cusco)
+https://play.agenciastreaming.com:8081/agrotv/index.m3u8
+#EXTINF:-1 tvg-id="miel-tv-hd-satipo" group-title="General",Miel TV HD (Satipo)
+https://7.innovatestream.pe:19360/mieltv/mieltv.m3u8
+#EXTINF:-1 tvg-id="la-red-hd-nacional" group-title="General",La Red HD (Nacional)
+https://clbpktstvhls-1.clarovideo.com/bpk-tv/LAREDHD/hls_fk/index.m3u8
+#EXTINF:-1 tvg-id="canal-13-hd-nacional-geo-blocked" group-title="General",Canal 13 HD (Nacional)(Geo-Blocked)
+https://redirector.dps.live/hls/13cl/playlist.m3u8?ChileTv
+#EXTINF:-1 tvg-id="13-internacional-hd-nacional" group-title="General",13 Internacional HD (Nacional)
+https://redirector.dps.live/hls/13intav/playlist.m3u8
+#EXTINF:-1 tvg-id="13-pop-hd-nacional" group-title="General",13 POP HD (Nacional)
+https://redirector.dps.live/hls/13pop/playlist.m3u8
+#EXTINF:-1 tvg-id="tvn-hd-nacional" group-title="General",TVN HD (Nacional)
+https://clbpktstvhls-3.clarovideo.com/bpk-tv/TVNHD/hls_fk/index.m3u8
+#EXTINF:-1 tvg-id="tevex-tv-hd-santiago-nacional" group-title="General",Tevex TV HD (Santiago / Nacional)
+https://v4.tustreaming.cl/tevexinter/index.m3u8
+#EXTINF:-1 tvg-id="thema-tv-coquimbo-hd-coquimbo-opc-2" group-title="General",Thema TV Coquimbo HD (Coquimbo)[Opc. 2]
+https://pantera1-100gb-cl-movistar.dps.live/thema/thema.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="girovisual-tv-hd-el-quisco-san-antonio-valpa" group-title="General",Girovisual TV HD (El Quisco / San Antonio - Valparaíso) [No 24/7]
+https://panel.tvstream.cl:1936/puekxmssxt/puekxmssxt/playlist.m3u8
+#EXTINF:-1 tvg-id="clicktv-no24-7-coronel-biobio-opc-2" group-title="General",ClickTV [No24/7](Coronel - Biobío) [Opc.2]
+https://andromeda2.cd-latam.com:1936/Monitoreo_ClickTV/clicktv.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="egm-channel-hd-rancagua" group-title="General",EGM Channel HD (Rancagua)
+https://vdochile.com:3922/live/egm20live.m3u8
+#EXTINF:-1 tvg-id="u-los-lagos-tv-hd-osorno-los-lagos" group-title="General",U Los Lagos TV HD (Osorno - Los Lagos)
+https://tv.ulagos.cl/web/live.m3u8
+#EXTINF:-1 tvg-id="telefe-hd" group-title="General",Telefe HD
+https://telefe.argtelemax.workers.dev/
+#EXTINF:-1 tvg-id="telefe-sd-opc-2" group-title="General",Telefe SD [Opc.2]
+https://m3u.tvcluboficial.com/free/ReachBot/Kip/874.m3u8
+#EXTINF:-1 tvg-id="telefe-tucuman-hd-no-24-7-argentina" group-title="General",Telefe Tucuman HD [No 24/7] (Argentina)
+https://g5.vxral-slo.transport.edge-access.net/a05/ngrp:elochotv-100168_all/Playlist.m3u8?sense=true
+#EXTINF:-1 tvg-id="tn-hd-buenos-aires-no-24-7-opc-2" group-title="General",TN HD (Buenos Aires) No 24/7][Opc.2]
+https://live-01-01-tn.vodgc.net/TN_DAI_Beta/index.m3u8
+#EXTINF:-1 tvg-id="canal-12-puerto-madryn-chubut" group-title="General",Canal 12 Puerto Madryn (Chubut)
+https://nd106.republicaservers.com:4433/hls/c7827/index.m3u8
+#EXTINF:-1 tvg-id="canal-9-tele-vida-mendoza-hd" group-title="General",Canal 9 Tele Vida Mendoza HD
+https://unlimited1-saopaulo.dps.live/televidaar/livestream1/chunks.m3u8
+#EXTINF:-1 tvg-id="canal-9-tele-vida-mendoza-sd" group-title="General",Canal 9 Tele Vida Mendoza SD
+https://unlimited1-saopaulo.dps.live/televidaar/livestream2/chunks.m3u8
+#EXTINF:-1 tvg-id="canal-9-chabas" group-title="General",Canal 9 Chabas
+https://kick.com/canal9chabas
+#EXTINF:-1 tvg-id="ciudad-magazine-hd-web-no-24-7" group-title="General",Ciudad Magazine HD (WEB) [No 24/7]
+https://livetrx01.vodgc.net/live-01-07-ciudad.vodgc.net/index.m3u8
+#EXTINF:-1 tvg-id="telecreativa-lanus-no-24-7" group-title="General",Telecreativa Lanus [No 24/7]
+https://panel.host-live.com:19360/8012/8012.m3u8
+#EXTINF:-1 tvg-id="lapacho-canal-11-formosa-formosa-no-24-7" group-title="General",Lapacho Canal 11 Formosa (Formosa) [No 24/7]
+https://stmvideo6.livecastv.com/oncestream/oncestream/playlist.m3u8
+#EXTINF:-1 tvg-id="canal-11-de-la-costa-no-24-7-mar-de-ajo-buen" group-title="General",Canal 11 de la Costa [No 24/7](Mar de Ajó - Buenos Aires)
+https://vivo.solumedia.com:19360/dadaproductora/dadaproductora.m3u8
+#EXTINF:-1 tvg-id="canal-5-pico-truncado-no-24-7-santa-cruz" group-title="General",Canal 5 Pico Truncado [No 24/7](Santa Cruz)
+https://stream.arcast.com.ar/canal5picotruncado/canal5picotruncado/playlist.m3u8
+#EXTINF:-1 tvg-id="tele-posadas-no-24-7" group-title="General",Tele Posadas [No 24/7]
+https://183.bozztv.com/giatv/giatv-teleposadastv/teleposadastv/playlist.m3u8
+#EXTINF:-1 tvg-id="telefuturo-paraguay-hd" group-title="General",Telefuturo Paraguay HD
+https://zn1tf.desdeparaguay.net/telefuturo/telefuturo_py_alta/playlist.m3u8?admin=tvaccion
+#EXTINF:-1 tvg-id="telefuturo-paraguay-hd-2" group-title="General",Telefuturo Paraguay HD
+https://rds3tf.desdeparaguay.net/telefuturo/telefuturo_py_alta/chunks.m3u8?admin=tvaccion
+#EXTINF:-1 tvg-id="gen-paraguay-hd-opc-2" group-title="General",GEN Paraguay HD][Opc.2]
+https://no.gendigi.net/origin-proxy/chunklist.m3u8
+#EXTINF:-1 tvg-id="latele-sd-opc-2" group-title="General",Latele SD [Opc.2]
+https://rds3tf.desdeparaguay.net/latele/latele_py_baja/playlist.m3u8?admin=tvaccion
+#EXTINF:-1 tvg-id="monumental-tv-hd" group-title="General",Monumental TV HD
+https://copacogen.desdeparaguay.net/monumentaltv/monumentaltv_med/playlist.m3u8?admin=tvaccion
+#EXTINF:-1 tvg-id="monumental-tv-hd-opc-2" group-title="General",Monumental TV HD [Opc.2]
+https://rds3tf.desdeparaguay.net/monumentaltv/monumentaltv_int_baja/playlist.m3u8?admin=tvaccion
+#EXTINF:-1 tvg-id="nanduti-hd" group-title="General",Nanduti HD
+https://nanduti.b-cdn.net/nandutiam.m3u8
+#EXTINF:-1 tvg-id="npy-hd-opc-2" group-title="General",NPY HD [Opc.2]
+https://rds3tf.desdeparaguay.net/npy/npy_int_alta/playlist.m3u8?admin=tvaccion
+#EXTINF:-1 tvg-id="tv-aire-hd" group-title="General",TV Aire HD
+https://video.hostingcaaguazu.com:19360/tvairepy/tvairepy.m3u8
+#EXTINF:-1 tvg-id="c9n-hd" group-title="General",C9N HD
+https://d174axghh54kh0.cloudfront.net/ts:abr.m3u8
+#EXTINF:-1 tvg-id="red-informativa" group-title="General",Red Informativa
+https://live20.bozztv.com/akamaissh101/ssh101/redinformativa/playlist.m3u8
+#EXTINF:-1 tvg-id="rio-tv" group-title="General",RIO TV
+https://183.bozztv.com/giatv/giatv-fmriotv/fmriotv/playlist.m3u8
+#EXTINF:-1 tvg-id="next-hd-no-24-7" group-title="General",Next HD [No 24/7]
+https://live.enhdtv.com:19360/nexthd/nexthd.m3u8
+#EXTINF:-1 tvg-id="en-lengua-de-senas-tv-hd-no-24-7" group-title="General",En Lengua de Senas TV HD [No 24/7]
+https://cloudtv.streaming.com.py/lenguasdesenas/lenguasdesenas/chunklist.m3u8
+#EXTINF:-1 tvg-id="productiva-tv-hd-no-24-7" group-title="General",Productiva TV HD [ No 24/7]
+https://copacoradios.desdeparaguay.net/productivatv/productivatv_baja/playlist.m3u8?admin=nacion
+#EXTINF:-1 tvg-id="telequince-hd-no-24-7" group-title="General",Telequince HD (No 24/7)
+https://video.hostingcaaguazu.com:19360/telequince/telequince.m3u8
+#EXTINF:-1 tvg-id="boca-chica-tv-3-hd" group-title="General",Boca Chica TV 3 HD
+https://cdnfox.hostlagarto.com/bocachicatv/index.m3u8
+#EXTINF:-1 tvg-id="boca-chica-tv-3-hd-opc-2" group-title="General",Boca Chica TV 3 HD [Opc.2]
+https://fox.hostlagarto.com:8081/bocachicatv/index.m3u8
+#EXTINF:-1 tvg-id="telemicro-5-sd" group-title="General",Telemicro 5 SD
+https://ds.tvabierta.net/memfs/efab0d97-68d8-414e-8cdc-23d539b09944.m3u8
+#EXTINF:-1 tvg-id="antena-7-sd" group-title="General",Antena 7 SD
+https://d3gie3ig6argu.cloudfront.net/ts:abr.m3u8
+#EXTINF:-1 tvg-id="color-vision-9-hd" group-title="General",Color Vision 9 HD
+https://ds.tvabierta.net/memfs/2493e646-b24d-489b-8603-0879abb93123.m3u8
+#EXTINF:-1 tvg-id="telesistemas-11-sd" group-title="General",Telesistemas 11 SD
+https://hls.tvabierta.net/hls/011.m3u8
+#EXTINF:-1 tvg-id="canal-digital-15-hd" group-title="General",Canal Digital 15 HD
+https://live4.telemicro.com.do/live/digital15cast_1080p/playlist.m3u8
+#EXTINF:-1 tvg-id="telecanal-28-hd" group-title="General",Telecanal 28 HD
+https://edge.essastream.com/telecanal28/index.m3u8
+#EXTINF:-1 tvg-id="tele-antillas-sd" group-title="General",Tele Antillas SD
+https://hls.tvabierta.net/hls/010.m3u8
+#EXTINF:-1 tvg-id="canal-del-sol-hd" group-title="General",Canal del Sol HD
+https://stream.canaldelsol.com/sol26/master.m3u8
+#EXTINF:-1 tvg-id="orbit-tv-hd-no-24-7-opc-2" group-title="General",Orbit TV HD [No 24/7][Opc.2]
+https://cnn.hostlagarto.com/orbittv/index.m3u8
+#EXTINF:-1 tvg-id="canal-8-telenord-hd-no-24-7" group-title="General",Canal 8 Telenord HD [No 24/7]
+https://fox.hostlagarto.com:8081/telenord8/index.m3u8
+#EXTINF:-1 tvg-id="canal-10-telenord-hd-no-24-7" group-title="General",Canal 10 Telenord HD [No 24/7]
+https://cdnfox.hostlagarto.com/telenord10/index.m3u8
+#EXTINF:-1 tvg-id="canal-12-telenord-hd-no-24-7" group-title="General",Canal 12 Telenord HD [No 24/7]
+https://cdnfox.hostlagarto.com/telenord12/index.m3u8
+#EXTINF:-1 tvg-id="canal-14-telenord-hd-no-24-7" group-title="General",Canal 14 Telenord HD [No 24/7]
+https://cdnfox.hostlagarto.com/telenord14/index.m3u8
+#EXTINF:-1 tvg-id="canal-digital-32-hd-no-24-7" group-title="General",Canal Digital 32 HD [No 24/7]
+https://edge.livestreaminggroup.info/vtv32live/index.m3u8
+#EXTINF:-1 tvg-id="venevision-v3" group-title="General",Venevisión [V3]
+https://jmp2.uk/rok-cc04d77fd589a818cd036c850b6be867.m3u8
+#EXTINF:-1 tvg-id="ve-plus" group-title="General",VE Plus
+https://veplus-ioriver-cdn.encoders.immergo.tv/master.m3u8
+#EXTINF:-1 tvg-id="torococo-tv" group-title="General",Torococo TV
+https://scl.edge.grupoz.cl/torococotv/live/playlist.m3u8
+#EXTINF:-1 tvg-id="canal-grande-television-no-24-7-opc-2" group-title="General",Canal Grande Television [No 24/7][Opc.2]
+https://lbgo.bozztv.com/ssh101/ssh101/grandetv2240/playlist.m3u8
+#EXTINF:-1 tvg-id="telecolor-no-24-7" group-title="General",Telecolor [No 24/7]
+https://cloud.livescast.com:19360/telecolor/telecolor.m3u8
+#EXTINF:-1 tvg-id="tv-oasis" group-title="General",TV Oasis
+https://servilive.com:3562/live/vav4c8z38live.m3u8
+#EXTINF:-1 tvg-id="globo-vision" group-title="General",Globo Vision
+https://59d39900ebfb8.streamlock.net/globo-720p/globo-720p/playlist.m3u8
+#EXTINF:-1 tvg-id="televen-tv" group-title="General",TeleVen TV
+https://televen.streampool.net/10255/dvr/hls/televentrx/playlist.m3u8
+#EXTINF:-1 tvg-id="canal-once-del-zulia" group-title="General",Canal Once Del Zulia
+https://streaming5.globalhostla.com/rtplive/canalzulia/playlist.m3u8
+#EXTINF:-1 tvg-id="f10-hd-el-alto-la-paz" group-title="General",F10 HD (El Alto / La Paz)
+https://tv2.bitstreaming.net:3235/multi_live/play.m3u8
+#EXTINF:-1 tvg-id="gigavision-la-paz-no-24-7" group-title="General",GigaVision (La Paz) [No 24/7]
+https://tv2.bitstreaming.net:3576/multi_live/play.m3u8
+#EXTINF:-1 tvg-id="ctv-la-paz" group-title="General",CTV (La Paz)
+https://streaming.ctvbolivia.com/app/ctv/ts:master.m3u8
+#EXTINF:-1 tvg-id="spc-canal-15" group-title="General",SPC Canal 15
+https://183.bozztv.com/giatv/giatv-1762252013SPC/1762252013SPC/playlist.m3u8
+#EXTINF:-1 tvg-id="gigavision-santa-cruz-no-24-7" group-title="General",GigaVision (Santa Cruz) [No 24/7]
+https://tv.bitstreaming.net:3348/multi_live/play.m3u8
+#EXTINF:-1 tvg-id="rtp-la-paz" group-title="General",RTP (La Paz)
+https://rtp.noxun.net/hls/stream.m3u8
+#EXTINF:-1 tvg-id="mix-bolivia-tve-no-24-7" group-title="General",Mix Bolivia TVE [No 24.7]
+https://183.bozztv.com/giatv/giatv-neogogoplaymix/neogogoplaymix/playlist.m3u8
+#EXTINF:-1 tvg-id="mix-bolivia-sd-no-24-7-opc-2" group-title="General",Mix Bolivia SD [No 24.7][Opc.2]
+https://lbgo.bozztv.com/ssh101/ssh101/mixboliviatvhd/playlist.m3u8
+#EXTINF:-1 tvg-id="mix-bolivia-hd-no-24-7-opc-3" group-title="General",Mix Bolivia HD [No 24.7][Opc.3]
+https://183.bozztv.com/giatv/giatv-NEOMIXHD/NEOMIXHD/playlist.m3u8
+#EXTINF:-1 tvg-id="gogoplay-max-no-24-7" group-title="General",GoGoPlay Max [No 24/7]
+https://183.bozztv.com/giatv/giatv-NEOGOGOPLAY/NEOGOGOPLAY/playlist.m3u8
+#EXTINF:-1 tvg-id="gogoplay-sd-no-24-7-opc-2" group-title="General",GoGoPlay SD [no 24/7][Opc.2]
+https://lbgo.bozztv.com/ssh101/ssh101/gogoplay/playlist.m3u8
+#EXTINF:-1 tvg-id="gogoplay-tve-no-24-7-opc-2" group-title="General",GoGoPlay TVE [no 24/7][Opc.2]
+https://183.bozztv.com/giatv/giatv-NEOGOGOPLAYTVE/NEOGOGOPLAYTVE/playlist.m3u8
+#EXTINF:-1 tvg-id="red-tv-shop-no-24-7" group-title="General",Red TV Shop [No 24/7]
+https://master.tucableip.com/redtvshop/index.m3u8
+#EXTINF:-1 tvg-id="unifranz-no-24-7" group-title="General",Unifranz [No 24/7]
+https://live.enhdtv.com:8081/8192/index.m3u8
+#EXTINF:-1 tvg-id="red-chuquisaquena" group-title="General",Red Chuquisaqueña
+https://live20.bozztv.com/akamaissh101/ssh101/bolivianews/playlist.m3u8
+#EXTINF:-1 tvg-id="la-1-de-tve-nacional" group-title="General",La 1 de TVE (Nacional)
+https://rtvelivestream.rtve.es/rtvesec/la1/la1_main.m3u8
+#EXTINF:-1 tvg-id="la-1-de-tve-nacional-opc-2" group-title="General",La 1 de TVE (Nacional)[Opc.2]
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=15619
+#EXTINF:-1 tvg-id="la-1-canarias-canarias" group-title="General",La 1 Canarias (Canarias)
+https://rtvelivestream.rtve.es/rtvesec/can/la1_can_main.m3u8
+#EXTINF:-1 tvg-id="la-1-cataluya-cataluna" group-title="General",La 1 Cataluya (Cataluña)
+https://rtvelivestream.rtve.es/rtvesec/cat/la1_cat_main.m3u8
+#EXTINF:-1 tvg-id="la-2-nacional-opc-2" group-title="General",La 2 (Nacional)[Opc.2]
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=15618
+#EXTINF:-1 tvg-id="la-2-canarias-canarias" group-title="General",La 2 Canarias (Canarias)
+https://rtvelivestream.rtve.es/rtvesec/can/la2_can_main.m3u8
+#EXTINF:-1 tvg-id="la-2-catalunya-cataluna" group-title="General",La 2 Catalunya (Cataluña)
+https://rtvelivestream.rtve.es/rtvesec/cat/la2_cat_main.m3u8
+#EXTINF:-1 tvg-id="trece" group-title="General",TRECE
+https://play.cdn.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/021/playlist.m3u8
+#EXTINF:-1 tvg-id="rne-para-todos" group-title="General",RNE para todos
+https://ztnr.rtve.es/ztnr/6688753.m3u8
+#EXTINF:-1 tvg-id="24h-opc-2" group-title="General",24h [Opc.2]
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=15621
+#EXTINF:-1 tvg-id="24h-canarias" group-title="General",24h Canarias
+https://ztnr.rtve.es/ztnr/5473142.m3u8
+#EXTINF:-1 tvg-id="teledeporte-opc-2" group-title="General",Teledeporte [Opc.2]
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=15601
+#EXTINF:-1 tvg-id="24" group-title="General",+24
+https://ztnr.rtve.es/ztnr/6108696.m3u8
+#EXTINF:-1 tvg-id="24-opc-2" group-title="General",+24 [Opc.2]
+https://ztnr.rtve.es/ztnr/6108704.m3u8
+#EXTINF:-1 tvg-id="tdp" group-title="General",+tdp
+https://ztnr.rtve.es/ztnr/6712456.m3u8
+#EXTINF:-1 tvg-id="infantil-canal-extremadura" group-title="General",Infantil (Canal Extremadura)
+https://cdn-canalextremadura.watchity.net/fast2/master.m3u8
+#EXTINF:-1 tvg-id="canal-sur-andalucia" group-title="General",Canal Sur Andalucía
+https://live-24-canalsur.interactvty.pro/9bb0f4edcb8946e79f5017ddca6c02b0/26af5488cda642ed2eddd27a6328c93b9c03e9181b9d0a825147a7d978e69202.m3u8
+#EXTINF:-1 tvg-id="conciertos-radio-3-rtve" group-title="General",Conciertos Radio 3 (RTVE)
+https://ztnr.rtve.es/ztnr/6924117.m3u8
+#EXTINF:-1 tvg-id="cuentame-rtve" group-title="General",Cuéntame (RTVE)
+https://ztnr.rtve.es/ztnr/6909843.m3u8
+#EXTINF:-1 tvg-id="la-promesa-rtve" group-title="General",La promesa (RTVE)
+https://ztnr.rtve.es/ztnr/2472039.m3u8
+#EXTINF:-1 tvg-id="la-revuelta-rtve" group-title="General",La Revuelta (RTVE)
+https://ztnr.rtve.es/ztnr/16464388.m3u8
+#EXTINF:-1 tvg-id="somos-cine-rtve" group-title="General",Somos Cine (RTVE)
+https://ztnr.rtve.es/ztnr/6909845.m3u8
+#EXTINF:-1 tvg-id="cocina-rtve" group-title="General",Cocina (RTVE)
+https://ztnr.rtve.es/ztnr/16656232.m3u8
+#EXTINF:-1 tvg-id="al-cielo-con-ella-rtve" group-title="General",Al cielo con ella (RTVE)
+https://ztnr.rtve.es/ztnr/16862827.m3u8
+#EXTINF:-1 tvg-id="san-fermin-rtve" group-title="General",San Fermín (RTVE)
+https://ztnr.rtve.es/ztnr/16641913.m3u8
+#EXTINF:-1 tvg-id="en-play-rtve" group-title="General",En Play (RTVE)
+https://ztnr.rtve.es/ztnr/17017351.m3u8
+#EXTINF:-1 tvg-id="radio-nacional" group-title="General",Radio Nacional
+https://ztnr.rtve.es/ztnr/6982891.m3u8
+#EXTINF:-1 tvg-id="radio-3" group-title="General",Radio 3
+https://ztnr.rtve.es/ztnr/6982918.m3u8
+#EXTINF:-1 tvg-id="radio-4" group-title="General",Ràdio 4
+https://ztnr.rtve.es/ztnr/6982935.m3u8
+#EXTINF:-1 tvg-id="radio-5" group-title="General",Radio 5
+https://ztnr.rtve.es/ztnr/6982917.m3u8
+#EXTINF:-1 tvg-id="cuentame-como-paso-nacional" group-title="General",Cuéntame cómo pasó (Nacional)
+https://d20rtuj9lomnbi.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-j8rzuh15ncdea/Cuentamecomopaso_GB.m3u8
+#EXTINF:-1 tvg-id="moconomy-economia-y-finanzas-nacional" group-title="General",Moconomy Economía y Finanzas (Nacional)
+https://05121b0bfc74401283b3f3848ab06336.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/LG-es_MoconomyEconomiayFinanzas/playlist.m3u8
+#EXTINF:-1 tvg-id="infast-nacional" group-title="General",INFAST (Nacional)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00861-terninternation-lifestylelatam-lges/playlist.m3u8
+#EXTINF:-1 tvg-id="dejate-de-historias-tv-nacional" group-title="General",Déjate de Historias TV (Nacional)
+https://limited44.todostreaming.es/live/dejatedeh-livestream.m3u8
+#EXTINF:-1 tvg-id="ribera-tv-valencia-alzira-valencia" group-title="General",Ribera TV Valencia (Alzira - Valencia)
+https://video3.lhdserver.es/teleribera/live.m3u8
+#EXTINF:-1 tvg-id="12tv-alicante-alicante" group-title="General",12TV Alicante (Alicante)
+https://stream-us-east-1.getpublica.com/playlist.m3u8?cb=[CACHEBUSTER]&network_id=16126&live=1&avod=0&hls_marker=1&position=preroll&pod_duration=120&app_bundle=com.streamingconnect.viva&ssai_enabled=1&content_channel=12tv&app_domain=mirametv.live&app_category=linear_tv&content_cat=IAB1&content_genre=tv_broadcaster&content_network=streamingconnect&content_rating=TV-G&us_privacy=[US_PRIVACY]&gdpr=[GDPR]&ifa_type=[IFA_TYPE]&min_ad_duration=6&max_ad_duration=120&content_id=mirametv_live
+#EXTINF:-1 tvg-id="canal-3-tv-biar-hd-biar-alicante" group-title="General",Canal 3 TV Biar HD (Biar - Alicante)
+https://avantstreaming.es/hls/canal3.m3u8
+#EXTINF:-1 tvg-id="onda-cadiz" group-title="General",Onda Cádiz
+https://liveingesta318.cdnmedia.tv/ondacadizlive/smil:ondacadiztv.smil/playlist.m3u8?DVR
+#EXTINF:-1 tvg-id="condavision-huelva-la-palma-del-condado-huel" group-title="General",Condavisión Huelva (La Palma del Condado - Huelva)
+https://5f71743aa95e4.streamlock.net:1936/Condavision/_definst_/endirecto/playlist.m3u8
+#EXTINF:-1 tvg-id="teleonuba-huelva-huelva" group-title="General",Teleonuba Huelva (Huelva)
+https://5f71743aa95e4.streamlock.net:1936/Teleonuba/_definst_/endirecto/playlist.m3u8
+#EXTINF:-1 tvg-id="canal-reus-tv-reus-tarragona" group-title="General",Canal Reus TV (Reus - Tarragona)
+https://eu1.servers10.com:8081/8166/index.m3u8
+#EXTINF:-1 tvg-id="televigo-galicia-vigo-pontevedra" group-title="General",TeleVigo Galicia (Vigo - Pontevedra)
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=12687
+#EXTINF:-1 tvg-id="tv-ferrol-galicia-ferrol-a-coruna" group-title="General",TV Ferrol Galicia (Ferrol - A Coruña)
+https://directo.tvferrol.es/tv.m3u8
+#EXTINF:-1 tvg-id="tele-7-vizcaya-barakaldo-vizcaya" group-title="General",Tele 7 Vizcaya (Barakaldo - Vizcaya)
+https://ingest2-video.streaming-pro.com/tele7_ABR/stream/playlist.m3u8
+#EXTINF:-1 tvg-id="durangaldeko-telebista-dotb-durango-vizcaya" group-title="General",Durangaldeko Telebista dotb (Durango - Vizcaya)
+https://nlb2-live.emitstream.com/hls/5f9asjsehd7gmyxsdpzu/master.m3u8
+#EXTINF:-1 tvg-id="durangaldeko-telebista-dotb-durango-vizcaya-" group-title="General",Durangaldeko Telebista dotb (Durango - Vizcaya)[Opc.2]
+https://live.emitstream.com/hls/5f9asjsehd7gmyxsdpzu/master.m3u8
+#EXTINF:-1 tvg-id="stz-telebista-santurtzi-vizcaya" group-title="General",STZ Telebista (Santurtzi - Vizcaya)
+https://cloudvideo.servers10.com:8081/stztelebista/index.m3u8
+#EXTINF:-1 tvg-id="popular-tv-murcia-murcia" group-title="General",Popular TV Murcia (Múrcia)
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=12690&live=1
+#EXTINF:-1 tvg-id="arabi-tv-yecla-yecla-murcia-opc-2" group-title="General",Arabí TV Yecla (Yecla - Murcia)[Opc.2]
+https://servidor.islahostingla.com:3548/live/arabitvlive.m3u8
+#EXTINF:-1 tvg-id="popular-tv-cantabria-cantabria" group-title="General",Popular TV Cantabria (Cantabria)
+https://limited12.todostreaming.es/live/ptvcantabria-livestream.m3u8
+#EXTINF:-1 tvg-id="alcarria-tv-guadalajara" group-title="General",Alcarria TV (Guadalajara)
+https://cls.alcarria.tv/alcarriatv/livestream/playlist.m3u8
+#EXTINF:-1 tvg-id="guada-tv-guadalajara-guadalajara" group-title="General",Guada TV Guadalajara (Guadalajara)
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=12689
+#EXTINF:-1 tvg-id="television-alhaurin" group-title="General",Televisión Alhaurín
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=13354&live=1
+#EXTINF:-1 tvg-id="almeria-tv" group-title="General",Almería TV
+https://broadcast1.radioponiente.org/atv/index.m3u8
+#EXTINF:-1 tvg-id="torremolinos-tv" group-title="General",Torremolinos TV
+https://cdnlivevlc.codev8.net/canaltorremolinoslive/smil:channel1.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="diez-tv-andujar" group-title="General",Diez TV Andújar
+https://streamtv2.elitecomunicacion.cloud:3305/live/10tvandujarlive.m3u8
+#EXTINF:-1 tvg-id="tvm-cordoba" group-title="General",TVM Córdoba
+https://d16pwlnz9msuji.cloudfront.net/wct-dad9c712-1c61-4a61-aeee-8be9f5c9e6e9/continuous/8fbfd2f5-30c2-4d48-a24e-73f5d35ba491/index.m3u8
+#EXTINF:-1 tvg-id="telegranada" group-title="General",TeleGranada
+https://telegranada.es/hls/stream.m3u8
+#EXTINF:-1 tvg-id="tv-canaria-rtvc" group-title="General",TV Canaria (RTVC)
+https://d1oyt3v08gcy18.cloudfront.net/index-events.m3u8
+#EXTINF:-1 tvg-id="tv-canaria-rtvc-opc-2" group-title="General",TV Canaria (RTVC)[Opc.2]
+https://d2q93scm3qt8zp.cloudfront.net/index-events.m3u8
+#EXTINF:-1 tvg-id="mirame-tv" group-title="General",Mírame TV
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=13696&live=1
+#EXTINF:-1 tvg-id="tenerife-plus-tv" group-title="General",Tenerife Plus TV
+https://k20.usastreams.com:8081/tenerifeplus/index.m3u8
+#EXTINF:-1 tvg-id="radio-calima-tv" group-title="General",Radio Calima TV
+https://nrvideo1.newradio.it:443/calimafm/calimafm/playlist.m3u8
+#EXTINF:-1 tvg-id="castilla-la-mancha-media" group-title="General",Castilla-La Mancha Media
+https://cdnapisec.kaltura.com/p/2288691/sp/228869100/playManifest/entryId/1_gnz6ity9/protocol/https/format/applehttp/a.m3u8
+#EXTINF:-1 tvg-id="castilla-la-mancha-radio" group-title="General",Castilla-La Mancha Radio
+https://cdnapisec.kaltura.com/p/2288691/sp/228869100/playManifest/entryId/1_fmx3e3sd/protocol/https/format/applehttp/a.m3u8
+#EXTINF:-1 tvg-id="guada-tv-media" group-title="General",Guada TV Media
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=12689&live=1
+#EXTINF:-1 tvg-id="alcarria-tv" group-title="General",Alcarria TV
+https://cls.alcarria.tv/live/alcarriatv-livestream.m3u8
+#EXTINF:-1 tvg-id="teletoledo" group-title="General",TeleToledo
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=12688&live=1
+#EXTINF:-1 tvg-id="tv-aranda" group-title="General",TV Aranda
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=12686&live=1
+#EXTINF:-1 tvg-id="distrito-tv" group-title="General",Distrito TV
+https://live.emitstream.com/hls/3mn7wpcv7hbmxmdzaxap/master.m3u8
+#EXTINF:-1 tvg-id="canal-33-madrid" group-title="General",Canal 33 Madrid
+https://media2.streambrothers.com:1936/8140/8140/.m3u8
+#EXTINF:-1 tvg-id="iprotv" group-title="General",iPROtv
+https://59ec5453559f0.streamlock.net/iprotv/iprotv/playlist.m3u8
+#EXTINF:-1 tvg-id="lira-tv" group-title="General",LIRA TV
+https://cloud2.streaminglivehd.com:1936/liratv/liratv/playlist.m3u8
+#EXTINF:-1 tvg-id="tv-almassora-c-valenciana" group-title="General",TV Almassora (C. Valenciana)
+https://play.turesportmedia.com/hls/abr_tvalmassora/index.m3u8
+#EXTINF:-1 tvg-id="33tv-c-valenciana" group-title="General",33TV (C. Valenciana)
+https://limited43.todostreaming.es/live/simbana-livestream.m3u8
+#EXTINF:-1 tvg-id="semos-asina-canal-extremadura-extremadura" group-title="General",Semos asina (Canal Extremadura)(Extremadura)
+https://cdn-canalextremadura.watchity.net/fast3/master.m3u8
+#EXTINF:-1 tvg-id="tvg-galicia" group-title="General",TVG (Galicia)
+https://crtvg-europa.flumotion.cloud/playlist.m3u8
+#EXTINF:-1 tvg-id="tvg-xabarin-galicia" group-title="General",TVG Xabarin (Galicia)
+https://crtvg-infantil-schlive.flumotion.cloud/crtvglive/smil:channel5PRG.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="tvg-eventos-1-no-24-7-galicia" group-title="General",TVG Eventos 1 [No 24/7] (Galicia)
+https://crtvg-events1.flumotion.cloud/playlist.m3u8
+#EXTINF:-1 tvg-id="tvg-eventos-2-no-24-7-galicia" group-title="General",TVG Eventos 2 [No 24/7] (Galicia)
+https://crtvg-events2.flumotion.cloud/playlist.m3u8
+#EXTINF:-1 tvg-id="tvg-eventos-3-no-24-7-galicia" group-title="General",TVG Eventos 3 [No 24/7] (Galicia)
+https://crtvg-events3.flumotion.cloud/playlist.m3u8
+#EXTINF:-1 tvg-id="tvg-mira-radio-galega-galicia" group-title="General",TVG Mira Radio Galega (Galicia)
+https://crtvg-mirarg-schlive.flumotion.cloud/crtvglive/smil:channel1PRG.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="tvg-universo-castelao-galicia" group-title="General",TVG Universo Castelao (Galicia)
+https://crtvg-universo-castelao-schlive.flumotion.cloud/playlist.m3u8
+#EXTINF:-1 tvg-id="telemino-galicia" group-title="General",Telemiño (Galicia)
+https://laregionlive.flumotion.cloud/laregionlive/smil:channel1.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="anove-tv-galicia" group-title="General",Anove TV (Galicia)
+https://cloud.streamingconnect.tv/hls/anove/anove.m3u8
+#EXTINF:-1 tvg-id="canal-4-tv-mallorca-illes-balears" group-title="General",Canal 4 TV Mallorca (Illes Balears)
+https://5caf24a595d94.streamlock.net:1937/8110/8110/playlist.m3u8
+#EXTINF:-1 tvg-id="cocina-familiar-la-rioja" group-title="General",Cocina Familiar (La Rioja)
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=16114
+#EXTINF:-1 tvg-id="etb-1-pais-vasco" group-title="General",ETB 1 (País Vasco)
+https://cdn1.etbon.eus/etb1/index.m3u8
+#EXTINF:-1 tvg-id="etb1-on-pais-vasco" group-title="General",ETB1 ON (País Vasco)
+https://cdn1.etbon.eus/etb1on/index.m3u8
+#EXTINF:-1 tvg-id="etb2-on-pais-vasco" group-title="General",ETB2 ON (País Vasco)
+https://cdn1.etbon.eus/etb2on/index.m3u8
+#EXTINF:-1 tvg-id="etb-eventos-2-pais-vasco" group-title="General",ETB Eventos 2 (País Vasco)
+https://cdn1.etbon.eus/oc2/index.m3u8
+#EXTINF:-1 tvg-id="guka-tb-pais-vasco" group-title="General",GUKA TB (País Vasco)
+https://streaming.ukt.eus/hls/test.m3u8
+#EXTINF:-1 tvg-id="goierri-irrati-tv-pais-vasco" group-title="General",Goierri Irrati TV (País Vasco)
+https://streaming.gitb.eus/hls/z.m3u8
+#EXTINF:-1 tvg-id="28-kanala-pais-vasco" group-title="General",28 Kanala (País Vasco)
+https://streaming.28kanala.eus/hls/z.m3u8
+#EXTINF:-1 tvg-id="urola-tb-pais-vasco" group-title="General",Urola TB (País Vasco)
+https://5940924978228.streamlock.net/j_Directo2/j_Directo2/playlist.m3u8
+#EXTINF:-1 tvg-id="tve-int-europa-opc-2" group-title="General",TVE Int. Europa [Opc.2]
+https://rtvelivestream.rtve.es/rtvesec/int/tvei_eu_main_dvr.m3u8
+#EXTINF:-1 tvg-id="islas-canarias-tv-int-europa" group-title="General",Islas Canarias TV (Int. Europa)
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=17089&live=1
+#EXTINF:-1 tvg-id="atv-andorra-no-24-7-int-europa" group-title="General",ATV Andorra [No 24/7] (Int. Europa)
+https://livesg1.rtva.hiway.media/11a6d6f4-ee13-47c7-9c27-7313cf5424e2/manifest.m3u8
+#EXTINF:-1 tvg-id="tg7-no-24-7-andalucia" group-title="General",TG7 [No 24/7](Andalucía)
+https://flu-01.hucame.es/TG7/index.fmp4.m3u8
+#EXTINF:-1 tvg-id="sal-tv-no-24-7" group-title="General",Sal TV [No 24/7]
+https://nimble.tuyapro.es/saltv/tv/playlist.m3u8
+#EXTINF:-1 tvg-id="popular-tv-melilla-no-24-7-melilla" group-title="General",Popular TV Melilla [No 24/7](Melilla)
+https://5940924978228.streamlock.net/8009/ngrp:8009_all/playlist.m3u8
+#EXTINF:-1 tvg-id="energeek-retro-america-latina" group-title="General",EnerGeek Retro (América Latina)
+https://cl-2.backend.energeek.cl/bkp/egretroweb/index.m3u8?token=W3bEnerG33k2026
+#EXTINF:-1 tvg-id="energeek-retro-america-latina-opc-2" group-title="General",EnerGeek Retro (América Latina)[Opc.2]
+https://cl-2.backend.energeek.cl/bkp/egretro/mobile/index.m3u8?token=W3bEnerG33k2026
+#EXTINF:-1 tvg-id="delmi-tv" group-title="General",Delmi TV
+https://live20.bozztv.com/giatvplayout7/giatv-210634/playlist.m3u8
+#EXTINF:-1 tvg-id="taltal-tv" group-title="General",TALTAL TV
+https://183.bozztv.com/giatv/giatv-TALTALTVANIMACION/TALTALTVANIMACION/playlist.m3u8
+#EXTINF:-1 tvg-id="taltal-tv-2" group-title="General",TALTAL TV 2
+https://183.bozztv.com/giatv/giatv-TALTALTVANIMACION2/TALTALTVANIMACION2/playlist.m3u8
+#EXTINF:-1 tvg-id="tl-el-salvador" group-title="General",TL+ (El Salvador)
+https://cdn.global.elektamedia.com/live/c7eds/TLMasSV/SA_LIVE_hls_enc/master.m3u8
+#EXTINF:-1 tvg-id="primired-anime-america-latina" group-title="General",Primired Anime (América Latina)
+https://cdn.global.elektamedia.com/live/c7eds/Primired/SA_LIVE_hls_enc/master.m3u8
+#EXTINF:-1 tvg-id="max-anime-america-latina" group-title="General",Max Anime (América Latina)
+https://cdnlive.klicgo.net/maxanime/live/playlist_dvr.m3u8
+#EXTINF:-1 tvg-id="anime-station-america-latina-no-24-7" group-title="General",Anime Station (América Latina) [No 24/7]
+https://live20.bozztv.com/akamaissh101/ssh101/livestreamingtv/playlist.m3u8
+#EXTINF:-1 tvg-id="canal-locomotion-segunda-senal-no-24-7" group-title="General",Canal Locomotion - Segunda señal [No 24/7]
+https://live20.bozztv.com/akamaissh101/ssh101/myevent2025/playlist.m3u8
+#EXTINF:-1 tvg-id="canal-locomotion-segunda-senal-opc-2-no-24-7" group-title="General",Canal Locomotion - Segunda señal [Opc.2][No 24/7]
+https://live20.bozztv.com/giatvplayout7/giatv-210075/playlist.m3u8
+#EXTINF:-1 tvg-id="anime-presente" group-title="General",Anime Presente
+https://live20.bozztv.com/giatvplayout7/giatv-209624/playlist.m3u8
+#EXTINF:-1 tvg-id="zyoon-tv-hd-chile" group-title="General",Zyoon TV HD (Chile)
+https://live20.bozztv.com/giatv/giatv-ZYOONTV/ZYOONTV/playlist.m3u8
+#EXTINF:-1 tvg-id="zyoon-tv-sd-chile" group-title="General",Zyoon TV SD (Chile)
+https://live20.bozztv.com/akamaissh101/ssh101/onlinezyoontv/playlist.m3u8
+#EXTINF:-1 tvg-id="tv-grupo-medios-mendoza-anime" group-title="General",TV Grupo Medios Mendoza Anime
+https://live20.bozztv.com/giatvplayout7/giatv-211565/playlist.m3u8
+#EXTINF:-1 tvg-id="energeek-fan-america-latina" group-title="General",EnerGeek Fan (América Latina)
+https://cl-2.backend.energeek.cl/bkp/egfanweb/index.m3u8?token=W3bEnerG33k2026
+#EXTINF:-1 tvg-id="macross-tv" group-title="General",Macross TV
+https://live20.bozztv.com/giatvplayout7/giatv-210686/playlist.m3u8
+#EXTINF:-1 tvg-id="dragon-ball-dragon-ball-z-america-latina" group-title="General",Dragon Ball / Dragon Ball Z (América Latina)
+https://183.bozztv.com/giatv/giatv-dball/dball/playlist.m3u8
+#EXTINF:-1 tvg-id="dragon-ball-super-america-latina" group-title="General",Dragon Ball Super (América Latina)
+https://lbgo.bozztv.com/ssh101/ssh101/dbsuperlat/playlist.m3u8
+#EXTINF:-1 tvg-id="dragon-ball-peliculas-america-latina" group-title="General",Dragon Ball Peliculas (América Latina)
+https://live20.bozztv.com/akamaissh101/ssh101/gokupelis/playlist.m3u8
+#EXTINF:-1 tvg-id="naruto-peliculas-america-latina" group-title="General",Naruto (Peliculas) (América Latina)
+https://live20.bozztv.com/giatvplayout7/giatv-211970/playlist.m3u8
+#EXTINF:-1 tvg-id="death-note-elfen-lied" group-title="General",Death Note - Elfen Lied
+https://live20.bozztv.com/giatvplayout7/giatv-212089/playlist.m3u8
+#EXTINF:-1 tvg-id="anime-vision-espana-opc-1" group-title="General",Anime Visión (España)[Opc.1]
+https://jmp2.uk/stvp-ES300029LP
+#EXTINF:-1 tvg-id="anime-vision-classics-espana-opc-1" group-title="General",Anime Visión Classics (España)[Opc.1]
+https://jmp2.uk/stvp-ES3000288I
+#EXTINF:-1 tvg-id="yu-gi-oh-espana" group-title="General",Yu-Gi-Oh! (España)
+https://amg01796-amg01796c18-rakuten-es-7491.playouts.now.amagi.tv/playlist/amg01796-fastmediafast-yugiohees-rakutenes/playlist.m3u8
+#EXTINF:-1 tvg-id="beyblade-espana" group-title="General",Beyblade (España)
+https://amg01796-amg01796c8-rakuten-es-5333.playouts.now.amagi.tv/playlist/amg01796-fastmediafast-beybladees-rakutenes/playlist.m3u8
+#EXTINF:-1 tvg-id="shinchan-espana" group-title="General",Shinchan (España)
+https://www.twitch.tv/shinchan_oficial
+#EXTINF:-1 tvg-id="k-drama-rakuten" group-title="General",K-Drama+ (Rakuten)
+https://ca7c8b78.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWVzX0tEcmFtYV9ITFM/manifest.m3u8
+#EXTINF:-1 tvg-id="series-k-drama" group-title="General",Series K-Drama
+https://jmp2.uk/stvp-ES200040YF
+#EXTINF:-1 tvg-id="new-kpop" group-title="General",NEW KPOP
+https://jmp2.uk/stvp-ES1700005ME
+#EXTINF:-1 tvg-id="k-drama" group-title="General",K-Drama+
+https://jmp2.uk/stvp-ESBD4100001DU
+#EXTINF:-1 tvg-id="series-k-comedia-romantica" group-title="General",Series K-Comedia Romántica
+https://jmp2.uk/stvp-ES200041FT
+#EXTINF:-1 tvg-id="kpop-tv-play" group-title="General",KPOP TV Play
+https://183.bozztv.com/giatv/giatv-kpoptvplay/kpoptvplay/playlist.m3u8
+#EXTINF:-1 tvg-id="coreano-by-cj-enm" group-title="General",Coreano by CJ ENM
+https://jmp2.uk/stvp-ES1700003C6
+#EXTINF:-1 tvg-id="mundo-series" group-title="General",Mundo Series
+https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/e3189902-0967-48a7-9d32-9401e34471c6/manifest.m3u8
+#EXTINF:-1 tvg-id="k-pop-by-cj-enm" group-title="General",K-POP by CJ ENM
+https://jmp2.uk/stvp-ES3900001QG
+#EXTINF:-1 tvg-id="new-k-movies-sub" group-title="General",NEW K-MOVIES (SUB)
+https://jmp2.uk/stvp-ES170000433
+#EXTINF:-1 tvg-id="rakuten-viki-sub" group-title="General",Rakuten VIKI (SUB)
+https://b8ee598f.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWVzX1Jha3V0ZW5WaWtpX0hMUw/manifest.m3u8
+#EXTINF:-1 tvg-id="b4u-music-apac" group-title="General",B4U Music APAC
+https://streams.tangotv.in/B4UMUSIC/ORIGIN/index.m3u8
+#EXTINF:-1 tvg-id="navez-mix-tv" group-title="General",Navez Mix TV
+https://livefta.malimarcdn.com/ftaedge00/ohmuanglao.stream/chunklist.m3u8
+#EXTINF:-1 tvg-id="fashion-tv" group-title="General",Fashion TV
+https://amg01546-amg01546c1-rakuten-gb-9592.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg01546-fashiontv-fashiontv-rakutengb/playlist.m3u8
+#EXTINF:-1 tvg-id="energytv-fashion" group-title="General",EnergyTV Fashion
+https://59ec5453559f0.streamlock.net/energytvfashion/smil:WEB/playlist.m3u8
+#EXTINF:-1 tvg-id="miamitv-models" group-title="General",MiamiTV Models
+https://158c4a71a80948ceb6c3c0696f90f164.mediatailor.us-east-2.amazonaws.com/v1/master/c3d3fd1c31fa281b88eab2cd253e2ca576b6628b/fast-models/playlist.m3u8
+#EXTINF:-1 tvg-id="miamitv-fashion" group-title="General",MiamiTV Fashion
+https://cd3ab99e1e2247709dfc4c19848e7915.mediatailor.us-east-2.amazonaws.com/v1/master/c3d3fd1c31fa281b88eab2cd253e2ca576b6628b/fast-fashion/playlist.m3u8
+#EXTINF:-1 tvg-id="chicas-guapas-tv" group-title="General",Chicas Guapas TV
+https://chg-chgtv.otteravision.com/chg/chgtv/chgtv.m3u8
+#EXTINF:-1 tvg-id="telemundo-accion" group-title="General",Telemundo Acción
+https://xumo-drct-ch835-ekq0p.fast.nbcuni.com/live/master.m3u8
+#EXTINF:-1 tvg-id="azteca-internacional-hd" group-title="General",Azteca Internacional HD
+https://amg00658-amg00658c54-canelatv-international-5364.playouts.now.amagi.tv/playlist/amg00658-canelamediafast-mundotvaztecaappta-canelatvinternational/playlist.m3u8
+#EXTINF:-1 tvg-id="rcn-mas-hd-colombia" group-title="General",RCN Mas + HD (Colombia)
+https://rcntv-rcnmas-1-us.plex.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="tve-star-hd" group-title="General",TVE Star HD
+https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/star_main_dvr_1080.m3u8
+#EXTINF:-1 tvg-id="tve-star-hd-2" group-title="General",TVE Star HD
+https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/star_main_dvr_720.m3u8
+#EXTINF:-1 tvg-id="tve-star-hd-auto" group-title="General",TVE Star HD (Auto)
+https://rtvelivestream.rtve.es/rtvesec/int/star_main_dvr.m3u8
+#EXTINF:-1 tvg-id="bbc-series-espana" group-title="General",BBC Series (España)
+https://amg00793-amg00793c40-rakuten-es-5444.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="telemundo-noticias-texas-opc-1" group-title="General",Telemundo Noticias Texas [Opc.1]
+https://d368vp0qqzvkid.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_nbc-direct/c645024e-07d4-4cb0-8dae-4e7111774f4f/3.m3u8
+#EXTINF:-1 tvg-id="telemundo-noticias-texas-opc-2" group-title="General",Telemundo Noticias Texas [Opc.2]
+https://d368vp0qqzvkid.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_nbc-direct/c645024e-07d4-4cb0-8dae-4e7111774f4f/4.m3u8
+#EXTINF:-1 tvg-id="telemundo-noticias-noreste-opc-1" group-title="General",Telemundo Noticias Noreste [Opc.1]
+https://d368vp0qqzvkid.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_nbc-direct/66161901-7eb2-48dc-a4a0-cfedd504324d/3.m3u8
+#EXTINF:-1 tvg-id="telemundo-noticias-noreste-opc-2" group-title="General",Telemundo Noticias Noreste [Opc.2]
+https://d368vp0qqzvkid.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_nbc-direct/66161901-7eb2-48dc-a4a0-cfedd504324d/4.m3u8
+#EXTINF:-1 tvg-id="telemundo-noticias-california-opc-1" group-title="General",Telemundo Noticias California [Opc.1]
+https://d368vp0qqzvkid.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_nbc-direct/243d5ec1-ceba-4f97-a361-53317e949324/3.m3u8
+#EXTINF:-1 tvg-id="telemundo-noticias-california-opc-2" group-title="General",Telemundo Noticias California [Opc.2]
+https://d368vp0qqzvkid.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_nbc-direct/243d5ec1-ceba-4f97-a361-53317e949324/4.m3u8
+#EXTINF:-1 tvg-id="telemundo-noticias-florida-opc-1" group-title="General",Telemundo Noticias Florida [Opc.1]
+https://d368vp0qqzvkid.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_nbc-direct/32d83610-b3ed-4e0c-bc1a-9cf4055cc405/3.m3u8
+#EXTINF:-1 tvg-id="telemundo-noticias-florida-opc-2" group-title="General",Telemundo Noticias Florida [Opc.2]
+https://d368vp0qqzvkid.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_nbc-direct/32d83610-b3ed-4e0c-bc1a-9cf4055cc405/4.m3u8
+#EXTINF:-1 tvg-id="telemundo-noticias-ahora-2" group-title="General",Telemundo Noticias Ahora
+https://d3rciv7av2te5a.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-plex/master.m3u8?ads.xumo_channelId=88889467
+#EXTINF:-1 tvg-id="telemundo-noticias-al-dia" group-title="General",Telemundo Noticias Al dia
+https://d3rciv7av2te5a.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-plex/master.m3u8?ads.xumo_channelId=88889469
+#EXTINF:-1 tvg-id="xphere-one" group-title="General",Xphere One
+https://stmv2.voxtvhd.com.br/xphereone/xphereone/playlist.m3u8
+#EXTINF:-1 tvg-id="xphere-cosmos" group-title="General",Xphere Cosmos
+https://stmv2.voxtvhd.com.br/xpherecosmos/xpherecosmos/playlist.m3u8
+#EXTINF:-1 tvg-id="xphere-science" group-title="General",Xphere Science
+https://stmv2.voxtvhd.com.br/xpherescience/xpherescience/playlist.m3u8
+#EXTINF:-1 tvg-id="xphere-wild-nature" group-title="General",Xphere Wild (Nature)
+https://stmv2.voxtvhd.com.br/xpherewild/xpherewild/playlist.m3u8
+#EXTINF:-1 tvg-id="xphere-aventura" group-title="General",Xphere Aventura
+https://stmv3.voxtvhd.com.br/aventurastv/aventurastv/playlist.m3u8
+#EXTINF:-1 tvg-id="rt-noticias" group-title="Noticias",RT Noticias
+https://rt-esp.rttv.com/dvr/rtesp/playlist_4500Kb.m3u8
+#EXTINF:-1 tvg-id="rt-noticias-2" group-title="Noticias",RT Noticias
+https://rt-esp.rttv.com/dvr/rtesp/playlist_1600Kb.m3u8
+#EXTINF:-1 tvg-id="english-tv-usa-internacional" group-title="Noticias",English TV (USA / Internacional)
+https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/a5e9aebd-1df4-4e56-be4f-33a891756f9b/manifest.m3u8
+#EXTINF:-1 tvg-id="n-nacional" group-title="Noticias",N+ (Nacional)
+https://nomvauth.univision.com/api/v3/akamai-auth/token-auth?url=https://channel07secure.akamaized.net/hls/live/2036971-b/event01/index.m3u8&redirect=true
+#EXTINF:-1 tvg-id="n-foro-televisa-nacional" group-title="Noticias",N+ Foro (Televisa) (Nacional)
+https://notusaauth.univision.com/api/v3/akamai-auth/token-auth?url=https://channel02secure-notusa.akamaized.net/hls/live/2023914-b/event01/index.m3u8&redirect=true
+#EXTINF:-1 tvg-id="canal-catorce-spr-nacional" group-title="Noticias",Canal Catorce SPR (Nacional)
+https://s5.mexside.net:1936/canal14/canal14/playlist.m3u8
+#EXTINF:-1 tvg-id="tvp-culiacan-sinaloa" group-title="Noticias",TVP Culiacán (Sinaloa)
+https://5ca3e84a76d30.streamlock.net/gpacifico1/gpculiacan.smil/.m3u8
+#EXTINF:-1 tvg-id="tvp-los-mochis-sinaloa" group-title="Noticias",TVP Los Mochis (Sinaloa)
+https://5ca3e84a76d30.streamlock.net/gpacifico2/mochis.smil/.m3u8
+#EXTINF:-1 tvg-id="tvp-mazatlan-sinaloa" group-title="Noticias",TVP Mazatlán (Sinaloa)
+https://5ca3e84a76d30.streamlock.net/gpacifico4/mazatlan.smil/.m3u8
+#EXTINF:-1 tvg-id="tvp-ciudad-obregon-sonora" group-title="Noticias",TVP Ciudad Obregón (Sonora)
+https://5ca3e84a76d30.streamlock.net/gpacifico3/obregon.smil/.m3u8
+#EXTINF:-1 tvg-id="n-monterrey-nuevo-leon" group-title="Noticias",N+ Monterrey (Nuevo León)
+https://notusaauth.univision.com/api/v3/akamai-auth/token-auth?url=https://channel09secure-notusa.akamaized.net/hls/live/2094418-b/event01/index.m3u8&redirect=true
+#EXTINF:-1 tvg-id="n-guadalajara-jalisco" group-title="Noticias",N+ Guadalajara (Jalisco)
+https://notusaauth.univision.com/api/v3/akamai-auth/token-auth?url=https://channel08secure-notusa.akamaized.net/hls/live/2037034-b/event01/index.m3u8&redirect=true
+#EXTINF:-1 tvg-id="telesur-latinoamerica" group-title="Noticias",Telesur (Latinoamérica)
+https://mblesmain01.telesur.ultrabase.net/mbliveMain/480p/playlist.m3u8
+#EXTINF:-1 tvg-id="venevision-noticias-venezuela" group-title="Noticias",Venevision Noticias (Venezuela)
+https://dai.google.com/linear/hls/pa/event/q2LqrJ2ZRP6UuyzA6X0VsA/stream/ed51ab5e-9432-4fb3-92d5-6603d4671e51:CHS/master.m3u8
+#EXTINF:-1 tvg-id="exitosa-tv-peru-nacional" group-title="Noticias",Exitosa TV (Perú - Nacional)
+https://live-evg5.tv360.bitel.com.pe/bitel/exitosa_abr/playlist.m3u8
+#EXTINF:-1 tvg-id="rpp-tv-peru-nacional" group-title="Noticias",RPP TV (Perú - Nacional)
+https://cdn-ssai.smartbit.co/rpp/index.m3u8
+#EXTINF:-1 tvg-id="tvpe-noticias-peru" group-title="Noticias",TVPE Noticias (Perú)
+https://cdnhd.iblups.com/hls/902c1a0395264f269f1160efa00660e47.m3u8
+#EXTINF:-1 tvg-id="canal-22-argentina-nacional" group-title="Noticias",Canal 22 (Argentina - Nacional)
+https://media.cdnvid.com/public/7c3g8h159tip.m3u8
+#EXTINF:-1 tvg-id="ng-federal-tv-resistencia-chaco" group-title="Noticias",NG Federal TV (Resistencia - Chaco)
+https://617c5175c970b.streamlock.net:4444/tvlink/live/playlist.m3u8
+#EXTINF:-1 tvg-id="aire-de-santa-fe-santa-fe" group-title="Noticias",Aire de Santa Fe (Santa Fe)
+https://mdstrm.com/live-stream-playlist/6931a0eb06778645348008e0.m3u8
+#EXTINF:-1 tvg-id="san-luis-san-luis" group-title="Noticias",San Luis + (San Luis)
+https://stream.condoristream.com/live/gFNNZzfsW2e8VsnfRnqP2oHtOMK9V8GO/index.m3u8
+#EXTINF:-1 tvg-id="umsa-tvu-lp-la-paz" group-title="Noticias",UMSA TVU LP (La Paz)
+https://live.enhdtv.com:8081/8190/playlist.m3u8
+#EXTINF:-1 tvg-id="dw-espanol-alemania-internacional" group-title="Noticias",DW Español (Alemania / Internacional)
+https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
+#EXTINF:-1 tvg-id="ftv-fuengirola-malaga-andalucia" group-title="Noticias",FTV Fuengirola (Málaga - Andalucía)
+https://streaming004.gestec-video.com/hls/FTV.m3u8
+#EXTINF:-1 tvg-id="canal-2000-la-solana-hd-ciudad-real-castilla" group-title="Noticias",Canal 2000 La Solana HD (Ciudad Real - Castilla-La Mancha)
+https://signal.teleon.live/play/8GxSpgH4ZmGhHm5KtRaCT5xGUuc3leeyAAQN2LY945nSSRSGbXfHrxylkbU97jCTUHhtQTPevPXvM-xREasgYRvuBPHRhCvIyYlHb1Ykk0z3-K1oXlir4mE97qcweVEAHg.m3u8?token=test
+#EXTINF:-1 tvg-id="canal-28-nuevo-leon-no-24-7-monterrey" group-title="Noticias",Canal 28 Nuevo León [No 24/7] (Monterrey)
+https://s5.mexside.net:1936/canal28/canal28/playlist.m3u8
+#EXTINF:-1 tvg-id="moonbug-kids-latam-en" group-title="General",Moonbug Kids (Latam) [EN]
+https://moonbug-rokuus.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="canal-ipe-peru" group-title="General",Canal IPE (Peru)
+https://cdnhd.iblups.net/hls/3f2cb1658d114f2693eff18d83199e677.m3u8
+#EXTINF:-1 tvg-id="ducktv-es" group-title="General",duckTV (ES)
+https://jmp2.uk/stvp-ESBC4700001GR
+#EXTINF:-1 tvg-id="baby-shark-tv-es" group-title="General",BABY SHARK TV (ES)
+https://jmp2.uk/stvp-ES17000065P
+#EXTINF:-1 tvg-id="baby-shark-tv-en" group-title="General",BABY SHARK TV (EN)
+https://newidco-babysharktv-1-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="looloo-kids-es" group-title="General",LooLoo Kids (ES)
+https://jmp2.uk/stvp-ES5000001CS
+#EXTINF:-1 tvg-id="pequeradio-tv-es" group-title="General",Pequeradio TV (ES)
+https://live20.bozztv.com/akamaissh101/ssh101/pequeradiotv/playlist.m3u8
+#EXTINF:-1 tvg-id="caillou-es" group-title="General",Caillou (ES)
+https://jmp2.uk/stvp-ES4800002OZ
+#EXTINF:-1 tvg-id="cry-babies-es" group-title="General",Cry Babies (ES)
+https://jmp2.uk/stvp-ES4400005EJ
+#EXTINF:-1 tvg-id="pocoyo-es" group-title="General",Pocoyó (ES)
+https://jmp2.uk/stvp-ESBC3900004ED
+#EXTINF:-1 tvg-id="toon-goggles-en-espanol-latam" group-title="General",Toon Goggles en Español (Latam)
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=514
+#EXTINF:-1 tvg-id="canal-lms" group-title="General",Canal LMS
+https://live20.bozztv.com/akamaissh101/ssh101/canallms/playlist.m3u8
+#EXTINF:-1 tvg-id="retromagico" group-title="General",RetroMagico
+https://183.bozztv.com/giatv/giatv-retromagicochnl/retromagicochnl/playlist.m3u8
+#EXTINF:-1 tvg-id="retromagico-opc-2" group-title="General",RetroMagico [Opc.2]
+https://live20.bozztv.com/akamaissh101/ssh101/retromagicocnl/playlist.m3u8
+#EXTINF:-1 tvg-id="magic-kids-no-24-7" group-title="General",Magic Kids [No 24/7]
+https://183.bozztv.com/giatv/giatv-magicplus/magicplus/playlist.m3u8
+#EXTINF:-1 tvg-id="maxc-kids-tv" group-title="General",MAXC KIDS TV
+https://live20.bozztv.com/giatvplayout7/giatv-209909/playlist.m3u8
+#EXTINF:-1 tvg-id="moni-tv-hd" group-title="General",Moni TV HD
+https://lbgo.bozztv.com/ssh101/ssh101/monitvhd/playlist.m3u8
+#EXTINF:-1 tvg-id="rabbids-la-invasion-es" group-title="General",Rabbids: La invasión (ES)
+https://jmp2.uk/stvp-ESBD2300003S5
+#EXTINF:-1 tvg-id="pitufo-tv-es" group-title="General",Pitufo TV (ES)
+https://jmp2.uk/stvp-ESBD130000205
+#EXTINF:-1 tvg-id="supertoons-tv-es" group-title="General",SuperToons TV (ES)
+https://jmp2.uk/stvp-ESBD5100001G0
+#EXTINF:-1 tvg-id="laika-channel-es" group-title="General",Laika Channel (ES)
+https://live20.bozztv.com/giatvplayout7/giatv-209474/playlist.m3u8
+#EXTINF:-1 tvg-id="la-abeja-maya-es" group-title="General",La Abeja Maya (ES)
+https://jmp2.uk/stvp-ESBD3200002V5
+#EXTINF:-1 tvg-id="las-3-mellizas-es" group-title="General",Las 3 Mellizas (ES)
+https://jmp2.uk/stvp-ES4400001N3
+#EXTINF:-1 tvg-id="box-playlist-internacional" group-title="Música",Box Playlist (Internacional)
+https://e46fa4a445464f8a9150fa7d510eb85c.mediatailor.us-west-2.amazonaws.com/v1/master/2d2d0d97b0e548f025b2598a69b55bf30337aa0e/npp/BKFNLVLBL20NVRK6FYE0/hls3/now,-1m/playlist.m3u8
+#EXTINF:-1 tvg-id="trace-latina-internacional" group-title="Música",Trace Latina (Internacional)
+https://amg01131-tracetv-tracelatina-klowdtv-v10em.amagi.tv/playlist/amg01131-tracetv-tracelatina-klowdtv/playlist.m3u8
+#EXTINF:-1 tvg-id="trace-urban-internacional" group-title="Música",Trace Urban (Internacional)
+https://amg01131-tracetv-traceurban-klowdtv-utiqd.amagi.tv/playlist/amg01131-tracetv-traceurban-klowdtv/playlist.m3u8
+#EXTINF:-1 tvg-id="vevo-latino-internacional" group-title="Música",VEVO Latino (Internacional)
+https://d2xijrr4wx5ch6.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-6t0qpfdg3pp0p/playlist.m3u8
+#EXTINF:-1 tvg-id="vevo-pop-internacional" group-title="Música",VEVO Pop (Internacional)
+https://d3e0llp20n59j5.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-fs5u02h1uaofy/playlist.m3u8
+#EXTINF:-1 tvg-id="vevo-retro-internacional" group-title="Música",VEVO Retro (Internacional)
+https://dh732bpen9wqx.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-xpcm3pisx9sj8/VevoRetro_ES.m3u8
+#EXTINF:-1 tvg-id="oldies-hits-sd-en-no-24-7" group-title="Música",Oldies Hits SD (EN) [No 24/7]
+https://video07.logicahost.com.br/oldieshits/oldieshits/playlist.m3u8
+#EXTINF:-1 tvg-id="oldies-hits-sd-es-no-24-7" group-title="Música",Oldies Hits SD (ES) [No 24/7]
+https://video03.logicahost.com.br/oldieshits_esp/oldieshits_esp/playlist.m3u8
+#EXTINF:-1 tvg-id="vorterix-sd" group-title="Música",Vorterix SD
+https://prepublish.f.qaotic.net/a08/ngrp:vorterix_video1-20057_all/vorterix_video1-20057_540p.m3u8
+#EXTINF:-1 tvg-id="vorterix-hd" group-title="Música",Vorterix HD
+https://prepublish.f.qaotic.net/a08/ngrp:vorterix_video1-20057_all/vorterix_video1-20057_720p.m3u8
+#EXTINF:-1 tvg-id="vorterix-mendoza" group-title="Música",Vorterix (Mendoza)
+https://vivo.solumedia.com:19360/vorterixmza/vorterixmza.m3u8
+#EXTINF:-1 tvg-id="vorterix-san-luis" group-title="Música",Vorterix (San Luis)
+https://streamyes.alsolnet.com/vorterixvillademerlo/live/playlist.m3u8
+#EXTINF:-1 tvg-id="urban-tv" group-title="Música",Urban TV
+https://sistemastr.tropicalmoonmedia.com/live/D8E123ACA054EF85B153C354A481A406/4.m3u8
+#EXTINF:-1 tvg-id="salsa-tv" group-title="Música",Salsa TV
+https://sistemastr.tropicalmoonmedia.com:443/live/219197C7B6902B1A4D33D19600E9BE7A/1.m3u8
+#EXTINF:-1 tvg-id="mundo-de-la-musica-tv" group-title="Música",Mundo de la Música TV
+https://tv.arkeo.cl:1936/mundodelamusica/mundodelamusica/playlist.m3u8
+#EXTINF:-1 tvg-id="vision-musica-tv" group-title="Música",Vision Musica TV
+https://videoserver.tmcreativos.com:19360/visionmusica/visionmusica.m3u8
+#EXTINF:-1 tvg-id="vevo-latino" group-title="Música",VEVO LATINO
+https://amg00056-amg00056c13-rakuten-es-3246.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="concert-channel-internacional" group-title="Música",Concert Channel (Internacional)
+https://d1bl6tskrpq9ze.cloudfront.net/hls/master.m3u8?ads.xumo_channelId=99992075
+#EXTINF:-1 tvg-id="hits-mexicanos-mexico" group-title="Música",Hits Mexicanos (México)
+https://e46fa4a445464f8a9150fa7d510eb85c.mediatailor.us-west-2.amazonaws.com/v1/manifest/2d2d0d97b0e548f025b2598a69b55bf30337aa0e/npp/7ad7548f-cc44-4a1b-9aff-34610417fe1b/4.m3u8
+#EXTINF:-1 tvg-id="la-kalle-colombia" group-title="Música",La Kalle (Colombia)
+https://mdstrm.com/live-stream-playlist/58d191f07290fbb058025843.m3u8
+#EXTINF:-1 tvg-id="retro-plus-tv-ingles-chile" group-title="Música",Retro Plus TV (Inglés) (Chile)
+https://srt01.logicahost.com.br/senal1/index.m3u8?ChileTv
+#EXTINF:-1 tvg-id="retro-plus-tv-espanol-chile" group-title="Música",Retro Plus TV (Español) (Chile)
+https://srt01.logicahost.com.br/senal2/index.m3u8?ChileTv
+#EXTINF:-1 tvg-id="portalfoxmix-chile" group-title="Música",PortalFoxMix (Chile)
+https://panel.tvstream.cl:1936/8040/8040/playlist.m3u8
+#EXTINF:-1 tvg-id="parentesis-tv-chile" group-title="Música",Paréntesis TV (Chile)
+https://freya.mivideo.pro/parentesistv/index.m3u8
+#EXTINF:-1 tvg-id="flashback-mix-argentina" group-title="Música",FlashBack Mix (Argentina)
+https://cloud.tvomix.com/FLASHBACKMIX/index.m3u8
+#EXTINF:-1 tvg-id="mass-musica-argentina" group-title="Música",Mass Musica (Argentina)
+https://stmv3.voxtvhd.com.br/masmusik/masmusik/playlist.m3u8
+#EXTINF:-1 tvg-id="chamame-tv-argentina" group-title="Música",Chamame TV (Argentina)
+https://stmv1.voxtvhd.com.br/chamametv/chamametv/playlist.m3u8
+#EXTINF:-1 tvg-id="tropi-tv-argentina" group-title="Música",Tropi TV (Argentina)
+https://stmv3.voxtvhd.com.br/tropixtrema/tropixtrema/playlist.m3u8
+#EXTINF:-1 tvg-id="xpectra-groove-top-hits-argentina" group-title="Música",Xpectra Groove Top Hits (Argentina)
+https://stmv6.voxtvhd.com.br/spectratophits/spectratophits/playlist.m3u8
+#EXTINF:-1 tvg-id="cool-summer-channel-espana" group-title="Música",Cool Summer Channel (España)
+https://jmp2.uk/stvp-ES2500001F9
+#EXTINF:-1 tvg-id="molahits-tv-espana" group-title="Música",Molahits TV (España)
+https://ventdelnord.tv:8080/mola/directe.m3u8
+#EXTINF:-1 tvg-id="pop-world-tv-espana" group-title="Música",POP World TV (España)
+https://janus.xpbroadcasting.com:8443/hls/popworld.m3u8
+#EXTINF:-1 tvg-id="verbena-tv-no-24-7-espana" group-title="Música",Verbena TV [No 24/7] (España)
+https://streamtv2.elitecomunicacion.cloud:3144/live/verbenatvlive.m3u8
+#EXTINF:-1 tvg-id="planeta-tv-no-24-7-chile" group-title="Música",Planeta TV [No 24/7](Chile)
+https://tls-cl.cdnz.cl/planetatv/live/playlist.m3u8
+#EXTINF:-1 tvg-id="latinos-tv-no-24-7" group-title="Música",Latinos TV [No 24/7]
+https://v4.tustreaming.cl/latinostv/index.m3u8
+#EXTINF:-1 tvg-id="vm-latino-no-24-7-costa-rica" group-title="Música",VM Latino [No 24/7](Costa Rica)
+https://59ef525c24caa.streamlock.net/vmtv/vmlatino/playlist.m3u8
+#EXTINF:-1 tvg-id="turbo-mix-radio-tv-peru" group-title="Música",Turbo Mix Radio TV (Perú)
+https://7.innovatestream.pe:19360/turbomixoficial/turbomixoficial.m3u8
+#EXTINF:-1 tvg-id="fifa-es-internacional-opc-2" group-title="General",FIFA+ (ES) (Internacional)[Opc.2]
+https://87bb29fc.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctZXNfRklGQVBsdXNTcGFuaXNoX0hMUw/playlist.m3u8
+#EXTINF:-1 tvg-id="fifa-en-internacional" group-title="General",FIFA+ (EN) (Internacional)
+https://a62dad94.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0ZJRkFQbHVzRW5nbGlzaF9ITFM/playlist.m3u8
+#EXTINF:-1 tvg-id="fifa-pt-internacional" group-title="General",FIFA+ (PT) (Internacional)
+https://c2657533.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UGxleC1icl9GSUZBUGx1c1BvcnR1Z3Vlc2VfSExT/playlist.m3u8
+#EXTINF:-1 tvg-id="fifa-de-internacional" group-title="General",FIFA+ (DE) (Internacional)
+https://d94238f5.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctZGVfRklGQVBsdXNHZXJtYW5fSExT/playlist.m3u8
+#EXTINF:-1 tvg-id="fifa-fr-internacional" group-title="General",FIFA+ (FR) (Internacional)
+https://becfa822.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctZnJfRklGQVBsdXNGcmVuY2hfSExT/playlist.m3u8
+#EXTINF:-1 tvg-id="fifa-it-internacional" group-title="General",FIFA+ (IT) (Internacional)
+https://af7e4455.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctaXRfRklGQVBsdXNJdGFsaWFuX0hMUw/playlist.m3u8
+#EXTINF:-1 tvg-id="fox-tubi-ceam" group-title="General",FOX (TUBI CEAM)
+https://b.tubi1.apollo.adrise.io/live/fox-2-j8fvmx.m3u8
+#EXTINF:-1 tvg-id="fox-en-tubi-xtra-internacional-no-24-7" group-title="General",Fox en tubi Xtra (Internacional) [No 24/7]
+https://live-manifest.production-public.tubi.io/live/13a764a8-a91d-4a17-a7f7-ee99250598b5/playlist.m3u8
+#EXTINF:-1 tvg-id="fox-tubi-internacional" group-title="General",Fox (TUBI Internacional)
+https://live-manifest.production-public.tubi.io/live/d906efca-1302-4e29-b0d9-9a1d7a305d69/playlist.m3u8
+#EXTINF:-1 tvg-id="cazetv-br" group-title="Deportes",CazéTV (BR)
+https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/Caze_TV.m3u8
+#EXTINF:-1 tvg-id="sbt-br" group-title="Deportes",SBT (BR)
+https://sbt.cdnsimba.com.br/bpk-tv/SBTrj/default/index.m3u8
+#EXTINF:-1 tvg-id="tvq-sports-no-24-7-guatemala" group-title="Deportes",TVQ Sports [No 24/7 ] (Guatemala)
+https://cdn-us-east-prod-ingest-infra-dacast-com.akamaized.net/b08022c8-994e-468a-9d55-6e8450b4f397/index.m3u8
+#EXTINF:-1 tvg-id="sportmax-news" group-title="Deportes",SportMax News
+https://cdnlive.klicgo.net/sportsmaxnews/live/playlist_dvr.m3u8
+#EXTINF:-1 tvg-id="telemundo-deportes-ahora-internacional-1080p" group-title="Deportes",Telemundo Deportes Ahora (Internacional)[1080p]
+https://d1rqgw5gocwo9i.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-nbcu-stitched/6a4c908e-7980-4fcb-93e3-584472a5f9a3/4.m3u8
+#EXTINF:-1 tvg-id="telemundo-deportes-ahora-internacional-720p" group-title="Deportes",Telemundo Deportes Ahora (Internacional)[720p]
+https://d1rqgw5gocwo9i.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-nbcu-stitched/6a4c908e-7980-4fcb-93e3-584472a5f9a3/3.m3u8
+#EXTINF:-1 tvg-id="telemundo-deportes-ahora-internacional" group-title="Deportes",Telemundo Deportes Ahora (Internacional)
+https://d1rqgw5gocwo9i.cloudfront.net/10009/99951459/hls/master.m3u8?ads.xumo_channelId=99951459
+#EXTINF:-1 tvg-id="azteca-deportes-network-3-hd" group-title="Deportes",Azteca Deportes Network 3 HD
+https://live-manifest.production-public.tubi.io/live/6bf131c3-d664-424c-93c9-49188a788980/playlist.m3u8
+#EXTINF:-1 tvg-id="itv-deportes-internacional" group-title="Deportes",ITV Deportes (Internacional)
+https://amg01602-amg01602c3-canelatv-international-8324.playouts.now.amagi.tv/playlist/amg01602-themahqfrancefast-itvdeportes-canelatvinternational/playlist.m3u8
+#EXTINF:-1 tvg-id="combatv-internacional" group-title="Deportes",CombaTV (Internacional)
+https://aym-cbtv.otteravision.com/aym/cbtv/cbtv.m3u8
+#EXTINF:-1 tvg-id="lucha-plus-internacional" group-title="Deportes",Lucha Plus (Internacional)
+https://amg17334-amg17334c1-plex-us-6729.playouts.now.amagi.tv/playlist/amg17334-luchalibrefast-luchalibre-plexus/playlist.m3u8
+#EXTINF:-1 tvg-id="sft-combat-br" group-title="Deportes",SFT Combat (BR)
+https://hrm-sftc.otteravision.com/hrm/sftc/sftc.m3u8
+#EXTINF:-1 tvg-id="ufc-ee-uu-en" group-title="Deportes",UFC (EE.UU.) [EN]
+https://linear-893.frequency.stream/dist/xumo/893/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-id="glory-kickboxing-ee-uu-en" group-title="Deportes",Glory Kickboxing (EE.UU.) [EN]
+https://9baf5bf3.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctZXNfR2xvcnlLaWNrYm94aW5nX0hMUw/playlist.m3u8
+#EXTINF:-1 tvg-id="pfl-mma-ee-uu-en" group-title="Deportes",PFL MMA (EE.UU.) [EN]
+https://32528224.wurl.com/TEctZXNfUEZMTU1BX0hMUw/playlist.m3u8
+#EXTINF:-1 tvg-id="hard-knocks-mma-ee-uu-en" group-title="Deportes",Hard Knocks MMA (EE.UU.) [EN]
+https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883037
+#EXTINF:-1 tvg-id="top-barca-es" group-title="Deportes",TOP Barça [ES]
+https://amg17560-fcb-amg17560c2-rakuten-es-4889.playouts.now.amagi.tv/playlist/amg17560-fcbarcelona-topbarcaspanish-rakutenes/playlist.m3u8
+#EXTINF:-1 tvg-id="top-barca-en" group-title="Deportes",TOP Barça [EN]
+https://amg17560-fcb-amg17560c1-rakuten-uk-4891.playouts.now.amagi.tv/playlist/amg17560-fcbarcelona-topbarcaenglish-rakutenuk/playlist.m3u8
+#EXTINF:-1 tvg-id="deportes13-chile" group-title="Deportes",Deportes13 (Chile)
+https://origin.dpsgo.com/ssai/event/uFiYkh4CQPCPgbs7WPKhXw/master.m3u8
+#EXTINF:-1 tvg-id="teletrak-tv-chile" group-title="Deportes",Teletrak TV (Chile)
+https://unlimited6-cl.dps.live/sportinghd/sportinghd.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="turf-movil-chile" group-title="Deportes",Turf Móvil (Chile)
+https://tvturf4.janus.cl/playlist/stream.m3u8
+#EXTINF:-1 tvg-id="monterrico-tv-peru" group-title="Deportes",Monterrico TV (Perú)
+https://www.opencaster.com/resources/hls_stream/hipodromojcp2.m3u8
+#EXTINF:-1 tvg-id="sportmax-2" group-title="Deportes",SportMax 2
+https://cdnlive.klicgo.net/hrmax/live/playlist_dvr.m3u8
+#EXTINF:-1 tvg-id="box-gamers-espana" group-title="Deportes",Box Gamers (España)
+https://e46fa4a445464f8a9150fa7d510eb85c.mediatailor.us-west-2.amazonaws.com/v1/master/2d2d0d97b0e548f025b2598a69b55bf30337aa0e/npp/JMKV30GS3UVOVY5SEZIG/hls3/now,-1m/playlist.m3u8
+#EXTINF:-1 tvg-id="powernation-internacional" group-title="Deportes",PowerNation (Internacional)
+https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c3b76-69814bbff871095eafc65925.m3u8?x-plex-token=aodMBFfiWQ9a_wrQtBsJ
+#EXTINF:-1 tvg-id="motorvision-tv-internacional" group-title="Deportes",Motorvision TV (Internacional)
+https://d23obwy8cjdxix.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-w27b5ewgr6d28/mv_es.m3u8
+#EXTINF:-1 tvg-id="world-poker-tour-internacional" group-title="Deportes",World Poker Tour (Internacional)
+https://amg00218-wptenterprisesi-wptespanol-samsungspain-9s2tf.amagi.tv/ts-eu-w1-n2/playlist/amg00218-wptenterprisesi-wptespanol-samsungspain/playlist.m3u8
+#EXTINF:-1 tvg-id="red-bull-tv-es-internacional" group-title="Deportes",Red Bull TV (ES) (Internacional)
+https://73554b8d.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWVzX1JlZEJ1bGxUVl9ITFM/playlist.m3u8
+#EXTINF:-1 tvg-id="fuel-tv-internacional-sub" group-title="Deportes",FUEL TV (Internacional) [SUB]
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01074-fueltv-fueltvuses-lgmx/playlist.m3u8
+#EXTINF:-1 tvg-id="tennis-ee-uu-en" group-title="Deportes",Tennis + (EE.UU.) [EN]
+https://amg01935-amg01935c1-amgplt0165.playout.now3.amagi.tv/playlist/amg01935-amg01935c1-amgplt0165/playlist.m3u8
+#EXTINF:-1 tvg-id="women-s-sports-network-ee-uu-en" group-title="Deportes",Women's Sports Network (EE.UU.) [EN]
+https://aegis-cloudfront-1.tubi.video/e974981b-bbcd-42a3-a6c1-6c25e14f10bd/playlist.m3u8
+#EXTINF:-1 tvg-id="mtrspt1-ee-uu-en" group-title="Deportes",MTRSPT1 (EE.UU.) [EN]
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg02873-kravemedia-mtrspt1-lges/playlist.m3u8
+#EXTINF:-1 tvg-id="racer-international-ee-uu-en" group-title="Deportes",Racer International (EE.UU.) [EN]
+https://amg00378-mavtv-amg00378c2-rakuten-us-1048.playouts.now.amagi.tv/playlist/amg00378-mavtvfast-motorsportsnetwork-rakutenus/playlist.m3u8
+#EXTINF:-1 tvg-id="rally-tv-fast-ee-uu-en" group-title="Deportes",Rally TV FAST (EE.UU.) [EN]
+https://d6a3f626.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X1JhbGx5VFZGQVNUUGx1c19ITFM/playlist.m3u8
+#EXTINF:-1 tvg-id="redbull-tv-ee-uu-en" group-title="Deportes",RedBull TV (EE.UU.) [EN]
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
+#EXTINF:-1 tvg-id="world-billiards-tv-ee-uu-en" group-title="Deportes",World Billiards TV (EE.UU.) [EN]
+https://ads.its-newid.net/api/manifest.m3u8?tp=lg_channels&channel_name=worldbilliardstv&channel_id=newid_003&mpf=57b62c7c-39af1962-091438e3&apikey=48230e6b-1cea0097-15975f93-39af1962&auth=db7212dd-0d889b7d-fbfb03c7-7af801d1
+#EXTINF:-1 tvg-id="enlace-tbn-internacional" group-title="Religioso",Enlace TBN (Internacional)
+https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="cbn-espanol-internacional" group-title="Religioso",CBN Español (Internacional)
+https://teleon.tv/stream/cG5wODQ4NzY5MXBucDg0.m3u8
+#EXTINF:-1 tvg-id="spirit-tv-hd-en" group-title="Religioso",Spirit TV HD (EN)
+https://cdnlive.myspirit.tv/LS-ATL-43240-2/index.m3u8
+#EXTINF:-1 tvg-id="vive-musica-hd-en" group-title="Religioso",Vive Musica HD (EN)
+https://183.bozztv.com/giatv/giatv-vivemusica/vivemusica/playlist.m3u8
+#EXTINF:-1 tvg-id="tabertv-el-salvador" group-title="Religioso",TaberTV (El Salvador)
+https://5fc584f3f19c9.streamlock.net/tabertv/videotabertv/playlist.m3u8
+#EXTINF:-1 tvg-id="ministerios-ebenezer-guatemala" group-title="Religioso",Ministerios Ebenezer (Guatemala)
+https://5e85d90130e77.streamlock.net/6018/6018/playlist.m3u8
+#EXTINF:-1 tvg-id="vida-al-maximo-tv" group-title="Religioso",Vida al Maximo TV
+https://lbgo.bozztv.com/ssh101/ssh101/vidaalmaximo11/playlist.m3u8
+#EXTINF:-1 tvg-id="tele-amiga-colombia" group-title="Religioso",Tele Amiga (Colombia)
+https://liveingesta118.cdnmedia.tv/teleamigatvlive/smil:dvrlive.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="frecuencia-f-tv-colombia" group-title="Religioso",Frecuencia F TV (Colombia)
+https://tv.frecuenciaf.com/live/envivo.m3u8
+#EXTINF:-1 tvg-id="gracia-tv-chile" group-title="Religioso",Gracia TV (Chile)
+https://v4.tustreaming.cl/graciatv/index.m3u8
+#EXTINF:-1 tvg-id="vc-online-chile" group-title="Religioso",VC Online (Chile)
+https://panel.tvstream.cl:1936/8024/8024/playlist.m3u8
+#EXTINF:-1 tvg-id="telefides-no-24-7-costa-rica" group-title="Religioso",Telefides [No 24/7](Costa Rica)
+https://s2.cwebtv.net:4433/telefides/telefides/playlist.m3u8
+#EXTINF:-1 tvg-id="reforma-tv-venezuela" group-title="Religioso",Reforma TV (Venezuela)
+https://5bf8041cb3fed.streamlock.net/ReformaTV/ReformaTV/index.m3u8
+#EXTINF:-1 tvg-id="jn19-peru" group-title="Religioso",JN19 (Perú)
+https://servilive.com:3028/live/jntv19live.m3u8
+#EXTINF:-1 tvg-id="umvirtual-montemorelos-mexico" group-title="Religioso",UMVirtual Montemorelos (México)
+https://60417ddeaf0d9.streamlock.net/montemorelos/videomontemorelos/playlist.m3u8
+#EXTINF:-1 tvg-id="zoe-vision-no-24-7-puerto-rico" group-title="Religioso",Zoe Visión [No 24/7](Puerto Rico)
+https://tvdatta.com:3508/live/zoevisiontvlive.m3u8
+#EXTINF:-1 tvg-id="canal-uruguay-uruguay" group-title="Religioso",Canal+ Uruguay (Uruguay)
+https://tv.canalmasuruguay.com/hls/canalmas.m3u8
+#EXTINF:-1 tvg-id="canal-diocesano-toledo-espana" group-title="Religioso",Canal Diocesano Toledo (España)
+https://nlb2-live.emitstream.com/hls/5i3pxfuz4az356yu22ij/fragments/live-1000/index.m3u8
+#EXTINF:-1 tvg-id="canela-tv-latinoamerica" group-title="General",Canela TV Latinoamérica
+https://amg00658-amg00658c108-canelatv-international-7664.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="canela-tv-2" group-title="General",Canela TV 2
+https://amg00658-amg00658c12-canelatv-international-7977.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="canela-cine-picante" group-title="General",Canela Cine Picante
+https://amg00658-amg00658c106-canelatv-international-7979.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="canela-cine-romantico" group-title="General",Canela Cine Romántico
+https://amg00658-amg00658c66-canelatv-international-5554.playouts.now.amagi.tv/playlist/amg00658-canelamediafast-cineromanticoappta-canelatvinternational/playlist.m3u8
+#EXTINF:-1 tvg-id="canela-accion-mexicana" group-title="General",Canela Acción Mexicana
+https://amg00658-amg00658c104-canelatv-international-7980.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="canela-peli-mex" group-title="General",Canela Peli Mex
+https://amg00658-amg00658c95-canelatv-international-6696.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="canela-seasonal" group-title="General",Canela Seasonal
+https://amg00658-amg00658c49-canelatv-international-7982.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="canela-narco-drama" group-title="General",Canela Narco Drama
+https://amg00658-amg00658c13-canelatv-international-7229.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="canela-clasicos" group-title="General",Canela Clásicos
+https://amg00658-amg00658c9-canelatv-international-7219.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="freetv-estelar" group-title="General",FreeTV Estelar
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=16197
+#EXTINF:-1 tvg-id="freetv-accion" group-title="General",FreeTV Acción
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=16200
+#EXTINF:-1 tvg-id="freetv-familia" group-title="General",FreeTV Familia
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=16196
+#EXTINF:-1 tvg-id="freetv-sureno" group-title="General",FreeTV Sureño
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=16201
+#EXTINF:-1 tvg-id="freetv-drama" group-title="General",FreeTV Drama
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=16198&content_channel=FreeTV&content_language=es&livestream=1&id=19353&override_expiration=1500&sign=YCYIcagQbCkvVJbr48HsjqfQvh9LtKC3pmb%2BY9xhhSU%3D
+#EXTINF:-1 tvg-id="freetv-terror" group-title="General",FreeTV Terror
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=16194
+#EXTINF:-1 tvg-id="freetv-live" group-title="General",FreeTV Live
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=16195
+#EXTINF:-1 tvg-id="freetv-clasico" group-title="General",FreeTV Clásico
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=16199
+#EXTINF:-1 tvg-id="freetv-hits" group-title="General",FreeTV Hits
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=16370
+#EXTINF:-1 tvg-id="freetv-banda" group-title="General",FreeTV Banda
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=16465
+#EXTINF:-1 tvg-id="mi-raza-canal" group-title="General",Mi Raza Canal
+https://ssai.aniview.com/api/v1/hls/stream.m3u8?AV_PUBLISHERID=669e9bb2aaf074dd9e077ec4&AVS_SSAIID=682cf5926174da110b0a33bc&AV_CHANNELID=682cf3cdef36408d490324be&AV_IS_LIVE=1
+#EXTINF:-1 tvg-id="mi-raza-canal-plus" group-title="General",Mi Raza Canal Plus
+https://ssai.aniview.com/api/v1/hls/stream.m3u8?AV_PUBLISHERID=669e9bb2aaf074dd9e077ec4&AVS_SSAIID=682cf5bc383518db880b103b&AV_CHANNELID=682cf3fbeff04d2be407a5f6&AV_IS_LIVE=1
+#EXTINF:-1 tvg-id="mi-miedo-canal" group-title="General",Mi Miedo Canal
+https://ssai.aniview.com/api/v1/hls/stream.m3u8?AV_PUBLISHERID=669e9bb2aaf074dd9e077ec4&AVS_SSAIID=68633d4ac3302588b109f253&AV_CHANNELID=68633d1213887c7ac20827fb&AV_IS_LIVE=1
+#EXTINF:-1 tvg-id="gritos-tv" group-title="General",Gritos TV
+https://ssai.aniview.com/api/v1/hls/stream.m3u8?AV_PUBLISHERID=669e9bb2aaf074dd9e077ec4&AVS_SSAIID=68633b4d4ce63892fb061068&AV_CHANNELID=68633b1e76e6443e4209778e&AV_IS_LIVE=1
+#EXTINF:-1 tvg-id="sony-one-cinema" group-title="General",Sony One Cinema
+https://55a8e146e2a14a0288735149357b44c0.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/LG-mx_SonyOneCinema/playlist.m3u8
+#EXTINF:-1 tvg-id="sony-one-novelas" group-title="General",Sony One Novelas
+https://8d4a17fe54c04f04bb010a8d291c7d41.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/LG-mx_SonyOneNovelas/playlist.m3u8
+#EXTINF:-1 tvg-id="sony-one-exitos" group-title="General",Sony One Exitos
+https://240d7025e5434cb687148fff33611a9c.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-832-ES-SONYONEXITOS-LG_ES/playlist.m3u8
+#EXTINF:-1 tvg-id="sony-one-hits-accion" group-title="General",Sony One Hits Acción
+https://375132e20edd4ed0bbddadeefa5b652d.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-829-ES-SONYONEHITSACCIN-LG_ES/playlist.m3u8
+#EXTINF:-1 tvg-id="sony-one-hits-comedia" group-title="General",Sony One Hits Comedia
+https://7bb2f486b8cd470296181dff19a115d0.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-830-ES-SONYONEHITSCOMEDIA-LG_ES/playlist.m3u8
+#EXTINF:-1 tvg-id="sony-one-series-comedia" group-title="General",Sony One Series Comedia
+https://bb5d0cf0f2fa4dbea91b1eebfdd144b9.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-831-ES-SONYONESERIESCOMEDIA-LG_ES/playlist.m3u8
+#EXTINF:-1 tvg-id="sony-one-the-blacklist" group-title="General",Sony One The Blacklist
+https://db57ce9cb585443b89cc08f6e6d00a61.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-834-ES-SONYONETHEBLACKLIST-LG_ES/playlist.m3u8
+#EXTINF:-1 tvg-id="pelis-top" group-title="General",Pelis Top
+https://top-movies-rakuten-tv-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-5983/master.m3u8
+#EXTINF:-1 tvg-id="accion" group-title="General",Acción
+https://action-rakuten-tv-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6069/master.m3u8
+#EXTINF:-1 tvg-id="comedia" group-title="General",Comedia
+https://comedy-rakuten-tv-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6180/master.m3u8
+#EXTINF:-1 tvg-id="drama" group-title="General",Drama
+https://drama-rakuten-tv-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6092/master.m3u8
+#EXTINF:-1 tvg-id="romance" group-title="General",Romance
+https://romance-rakuten-tv-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6105/master.m3u8
+#EXTINF:-1 tvg-id="cine-espanol" group-title="General",Cine Español
+https://spanish-cinema-rakuten-tv-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6196/master.m3u8
+#EXTINF:-1 tvg-id="sci-fi" group-title="General",Sci-Fi
+https://sci-fi-rakuten-tv-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6740/master.m3u8
+#EXTINF:-1 tvg-id="thrillers" group-title="General",Thrillers
+https://thriller-rakuten-tv-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6480/master.m3u8
+#EXTINF:-1 tvg-id="crimen" group-title="General",Crimen
+https://crime-rakuten-tv-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6220/master.m3u8
+#EXTINF:-1 tvg-id="grjngo-western" group-title="General",Grjngo Western
+https://86ebcafef90e449fbb9439c196e7d149.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/RakutenTV-es_GrjngoPeliculasDelOeste-1/playlist.m3u8
+#EXTINF:-1 tvg-id="cine-friki" group-title="General",Cine Friki
+https://zylo-cinefriki-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-zylo-cinefriki-rakuten/CDN/master.m3u8?ads_amagi_channel_id=851
+#EXTINF:-1 tvg-id="lg-1" group-title="General",LG 1
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=12783
+#EXTINF:-1 tvg-id="lg-1-1" group-title="General",LG 1+1
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=12781
+#EXTINF:-1 tvg-id="lg-1-films" group-title="General",LG 1:FILMS
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=13953
+#EXTINF:-1 tvg-id="lg-1-spotlight" group-title="General",LG 1: SPOTLIGHT
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=13958
+#EXTINF:-1 tvg-id="run-time-cine-y-series" group-title="General",RUN:TIME Cine y Series
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=12857
+#EXTINF:-1 tvg-id="run-time-accion" group-title="General",RUN:TIME Accion
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=12858
+#EXTINF:-1 tvg-id="run-time-clasicos" group-title="General",RUN:TIME Clasicos
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=12859
+#EXTINF:-1 tvg-id="run-time-comedia" group-title="General",RUN:TIME Comedia
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=12860
+#EXTINF:-1 tvg-id="run-time-crimen" group-title="General",RUN:TIME Crimen
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=12861
+#EXTINF:-1 tvg-id="run-time-familia" group-title="General",RUN:TIME Familia
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=13228
+#EXTINF:-1 tvg-id="run-time-romance" group-title="General",RUN:TIME Romance
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=12862
+#EXTINF:-1 tvg-id="run-time-series" group-title="General",RUN:TIME Series
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=12863
+#EXTINF:-1 tvg-id="run-time-thriller" group-title="General",RUN:TIME Thriller
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=12864
+#EXTINF:-1 tvg-id="aguila-roja" group-title="General",Águila Roja
+https://djpkijcsi04ot.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-534sg92d7s442/aguro.m3u8
