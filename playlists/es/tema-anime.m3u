@@ -1,0 +1,93 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="anime-presente" tvg-name="Anime Presente" tvg-chno="937" tvg-country="ES" group-title="Anime",Anime Presente
+https://live20.bozztv.com/giatvplayout7/giatv-209624/playlist.m3u8
+#EXTINF:-1 tvg-id="anime-station-america-latina-no-24-7" tvg-name="Anime Station (América Latina) [No 24/7]" tvg-chno="938" tvg-country="ES" group-title="Anime",Anime Station (América Latina) [No 24/7]
+https://live20.bozztv.com/akamaissh101/ssh101/livestreamingtv/playlist.m3u8
+#EXTINF:-1 tvg-id="animevision-es-sd" tvg-name="Anime Vision" tvg-chno="939" tvg-country="ES" group-title="Anime",Anime Vision
+https://d1ujfw1zyymzyd.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-a6fukwkbxmex8/live/fast-channel-animevision-64527ec0/fast-channel-animevision-64527ec0.m3u8
+#EXTINF:-1 tvg-id="anime-vision-espana-opc-1" tvg-name="Anime Visión (España)[Opc.1]" tvg-chno="940" tvg-country="ES" group-title="Anime",Anime Visión (España)[Opc.1]
+https://jmp2.uk/stvp-ES300029LP
+#EXTINF:-1 tvg-id="animevisionclassics-es-sd" tvg-name="Anime Vision Classics" tvg-chno="941" tvg-country="ES" group-title="Anime",Anime Vision Classics
+https://d82pyvmcw2kdc.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-swfivzrzwamaq/live/fast-channel-animevisionclassics-efc8dc6d/fast-channel-animevisionclassics-efc8dc6d.m3u8
+#EXTINF:-1 tvg-id="anime-vision-classics-espana-opc-1" tvg-name="Anime Visión Classics (España)[Opc.1]" tvg-chno="942" tvg-country="ES" group-title="Anime",Anime Visión Classics (España)[Opc.1]
+https://jmp2.uk/stvp-ES3000288I
+#EXTINF:-1 tvg-id="b4u-music-apac" tvg-name="B4U Music APAC" tvg-chno="943" tvg-country="ES" group-title="Anime",B4U Music APAC
+https://streams.tangotv.in/B4UMUSIC/ORIGIN/index.m3u8
+#EXTINF:-1 tvg-id="beyblade-espana" tvg-name="Beyblade (España)" tvg-chno="944" tvg-country="ES" group-title="Anime",Beyblade (España)
+https://amg01796-amg01796c8-rakuten-es-5333.playouts.now.amagi.tv/playlist/amg01796-fastmediafast-beybladees-rakutenes/playlist.m3u8
+#EXTINF:-1 tvg-id="canal-locomotion-segunda-senal-no-24-7" tvg-name="Canal Locomotion - Segunda señal [No 24/7]" tvg-chno="945" tvg-country="ES" group-title="Anime",Canal Locomotion - Segunda señal [No 24/7]
+https://live20.bozztv.com/akamaissh101/ssh101/myevent2025/playlist.m3u8
+#EXTINF:-1 tvg-id="canal-locomotion-segunda-senal-opc-2-no-24-7" tvg-name="Canal Locomotion - Segunda señal [Opc.2][No 24/7]" tvg-chno="946" tvg-country="ES" group-title="Anime",Canal Locomotion - Segunda señal [Opc.2][No 24/7]
+https://live20.bozztv.com/giatvplayout7/giatv-210075/playlist.m3u8
+#EXTINF:-1 tvg-id="coreano-by-cj-enm" tvg-name="Coreano by CJ ENM" tvg-chno="947" tvg-country="ES" group-title="Anime",Coreano by CJ ENM
+https://jmp2.uk/stvp-ES1700003C6
+#EXTINF:-1 tvg-id="death-note-elfen-lied" tvg-name="Death Note - Elfen Lied" tvg-chno="948" tvg-country="ES" group-title="Anime",Death Note - Elfen Lied
+https://live20.bozztv.com/giatvplayout7/giatv-212089/playlist.m3u8
+#EXTINF:-1 tvg-id="delmi-tv" tvg-name="Delmi TV" tvg-chno="949" tvg-country="ES" group-title="Anime",Delmi TV
+https://live20.bozztv.com/giatvplayout7/giatv-210634/playlist.m3u8
+#EXTINF:-1 tvg-id="dragon-ball-dragon-ball-z-america-latina" tvg-name="Dragon Ball / Dragon Ball Z (América Latina)" tvg-chno="950" tvg-country="ES" group-title="Anime",Dragon Ball / Dragon Ball Z (América Latina)
+https://183.bozztv.com/giatv/giatv-dball/dball/playlist.m3u8
+#EXTINF:-1 tvg-id="dragon-ball-peliculas-america-latina" tvg-name="Dragon Ball Peliculas (América Latina)" tvg-chno="951" tvg-country="ES" group-title="Anime",Dragon Ball Peliculas (América Latina)
+https://live20.bozztv.com/akamaissh101/ssh101/gokupelis/playlist.m3u8
+#EXTINF:-1 tvg-id="dragon-ball-super-america-latina" tvg-name="Dragon Ball Super (América Latina)" tvg-chno="952" tvg-country="ES" group-title="Anime",Dragon Ball Super (América Latina)
+https://lbgo.bozztv.com/ssh101/ssh101/dbsuperlat/playlist.m3u8
+#EXTINF:-1 tvg-id="energeek-fan-america-latina" tvg-name="EnerGeek Fan (América Latina)" tvg-chno="953" tvg-country="ES" group-title="Anime",EnerGeek Fan (América Latina)
+https://cl-2.backend.energeek.cl/bkp/egfanweb/index.m3u8?token=W3bEnerG33k2026
+#EXTINF:-1 tvg-id="energeek-retro-america-latina" tvg-name="EnerGeek Retro (América Latina)" tvg-chno="954" tvg-country="ES" group-title="Anime",EnerGeek Retro (América Latina)
+https://cl-2.backend.energeek.cl/bkp/egretroweb/index.m3u8?token=W3bEnerG33k2026
+#EXTINF:-1 tvg-id="energeek-retro-america-latina-opc-2" tvg-name="EnerGeek Retro (América Latina)[Opc.2]" tvg-chno="955" tvg-country="ES" group-title="Anime",EnerGeek Retro (América Latina)[Opc.2]
+https://cl-2.backend.energeek.cl/bkp/egretro/mobile/index.m3u8?token=W3bEnerG33k2026
+#EXTINF:-1 tvg-id="k-drama" tvg-name="K-Drama+" tvg-chno="956" tvg-country="ES" group-title="Anime",K-Drama+
+https://jmp2.uk/stvp-ESBD4100001DU
+#EXTINF:-1 tvg-id="k-drama-rakuten" tvg-name="K-Drama+ (Rakuten)" tvg-chno="957" tvg-country="ES" group-title="Anime",K-Drama+ (Rakuten)
+https://ca7c8b78.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWVzX0tEcmFtYV9ITFM/manifest.m3u8
+#EXTINF:-1 tvg-id="k-pop-by-cj-enm" tvg-name="K-POP by CJ ENM" tvg-chno="958" tvg-country="ES" group-title="Anime",K-POP by CJ ENM
+https://jmp2.uk/stvp-ES3900001QG
+#EXTINF:-1 tvg-id="kpopmix-ar-sd" tvg-name="Kpop Mix" tvg-chno="959" tvg-country="AR" group-title="Anime",Kpop Mix
+https://cloud.tvomix.com/KPOPMIX/index.m3u8
+#EXTINF:-1 tvg-id="kpop-tv-play" tvg-name="KPOP TV Play" tvg-chno="960" tvg-country="ES" group-title="Anime",KPOP TV Play
+https://183.bozztv.com/giatv/giatv-kpoptvplay/kpoptvplay/playlist.m3u8
+#EXTINF:-1 tvg-id="macross-tv" tvg-name="Macross TV" tvg-chno="961" tvg-country="ES" group-title="Anime",Macross TV
+https://live20.bozztv.com/giatvplayout7/giatv-210686/playlist.m3u8
+#EXTINF:-1 tvg-id="maxanime-ve-sd" tvg-name="MAX Anime" tvg-chno="962" tvg-country="VE" group-title="Anime",MAX Anime
+https://cdnlive.klicgo.net/maxanime/live/playlist.m3u8
+#EXTINF:-1 tvg-id="max-anime-america-latina" tvg-name="Max Anime (América Latina)" tvg-chno="963" tvg-country="ES" group-title="Anime",Max Anime (América Latina)
+https://cdnlive.klicgo.net/maxanime/live/playlist_dvr.m3u8
+#EXTINF:-1 tvg-id="mundo-series" tvg-name="Mundo Series" tvg-chno="964" tvg-country="ES" group-title="Anime",Mundo Series
+https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/e3189902-0967-48a7-9d32-9401e34471c6/manifest.m3u8
+#EXTINF:-1 tvg-id="naruto-peliculas-america-latina" tvg-name="Naruto (Peliculas) (América Latina)" tvg-chno="965" tvg-country="ES" group-title="Anime",Naruto (Peliculas) (América Latina)
+https://live20.bozztv.com/giatvplayout7/giatv-211970/playlist.m3u8
+#EXTINF:-1 tvg-id="navez-mix-tv" tvg-name="Navez Mix TV" tvg-chno="966" tvg-country="ES" group-title="Anime",Navez Mix TV
+https://livefta.malimarcdn.com/ftaedge00/ohmuanglao.stream/chunklist.m3u8
+#EXTINF:-1 tvg-id="new-k-movies-sub" tvg-name="NEW K-MOVIES (SUB)" tvg-chno="967" tvg-country="ES" group-title="Anime",NEW K-MOVIES (SUB)
+https://jmp2.uk/stvp-ES170000433
+#EXTINF:-1 tvg-id="new-kpop" tvg-name="NEW KPOP" tvg-chno="968" tvg-country="ES" group-title="Anime",NEW KPOP
+https://jmp2.uk/stvp-ES1700005ME
+#EXTINF:-1 tvg-id="plutotvanime-de-es" tvg-name="Pluto TV Anime" tvg-chno="969" tvg-country="DE" group-title="Anime",Pluto TV Anime
+https://jmp2.uk/plu-608035b8d8705f0007260287.m3u8
+#EXTINF:-1 tvg-id="plutotvanime-us-latam" tvg-name="Pluto TV Anime LatAm" tvg-chno="970" tvg-country="US" group-title="Anime",Pluto TV Anime LatAm
+https://jmp2.uk/plu-5dcde17bf6591d0009839e02.m3u8
+#EXTINF:-1 tvg-id="primired-anime-america-latina" tvg-name="Primired Anime (América Latina)" tvg-chno="971" tvg-country="ES" group-title="Anime",Primired Anime (América Latina)
+https://cdn.global.elektamedia.com/live/c7eds/Primired/SA_LIVE_hls_enc/master.m3u8
+#EXTINF:-1 tvg-id="rakuten-viki-sub" tvg-name="Rakuten VIKI (SUB)" tvg-chno="972" tvg-country="ES" group-title="Anime",Rakuten VIKI (SUB)
+https://b8ee598f.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWVzX1Jha3V0ZW5WaWtpX0hMUw/manifest.m3u8
+#EXTINF:-1 tvg-id="series-k-comedia-romantica" tvg-name="Series K-Comedia Romántica" tvg-chno="973" tvg-country="ES" group-title="Anime",Series K-Comedia Romántica
+https://jmp2.uk/stvp-ES200041FT
+#EXTINF:-1 tvg-id="series-k-drama" tvg-name="Series K-Drama" tvg-chno="974" tvg-country="ES" group-title="Anime",Series K-Drama
+https://jmp2.uk/stvp-ES200040YF
+#EXTINF:-1 tvg-id="shinchan-espana" tvg-name="Shinchan (España)" tvg-chno="975" tvg-country="ES" group-title="Anime",Shinchan (España)
+https://www.twitch.tv/shinchan_oficial
+#EXTINF:-1 tvg-id="taltal-tv" tvg-name="TALTAL TV" tvg-chno="976" tvg-country="ES" group-title="Anime",TALTAL TV
+https://183.bozztv.com/giatv/giatv-TALTALTVANIMACION/TALTALTVANIMACION/playlist.m3u8
+#EXTINF:-1 tvg-id="taltal-tv-2" tvg-name="TALTAL TV 2" tvg-chno="977" tvg-country="ES" group-title="Anime",TALTAL TV 2
+https://183.bozztv.com/giatv/giatv-TALTALTVANIMACION2/TALTALTVANIMACION2/playlist.m3u8
+#EXTINF:-1 tvg-id="tl-el-salvador" tvg-name="TL+ (El Salvador)" tvg-chno="978" tvg-country="ES" group-title="Anime",TL+ (El Salvador)
+https://cdn.global.elektamedia.com/live/c7eds/TLMasSV/SA_LIVE_hls_enc/master.m3u8
+#EXTINF:-1 tvg-id="tv-grupo-medios-mendoza-anime" tvg-name="TV Grupo Medios Mendoza Anime" tvg-chno="979" tvg-country="ES" group-title="Anime",TV Grupo Medios Mendoza Anime
+https://live20.bozztv.com/giatvplayout7/giatv-211565/playlist.m3u8
+#EXTINF:-1 tvg-id="yu-gi-oh-espana" tvg-name="Yu-Gi-Oh! (España)" tvg-chno="980" tvg-country="ES" group-title="Anime",Yu-Gi-Oh! (España)
+https://amg01796-amg01796c18-rakuten-es-7491.playouts.now.amagi.tv/playlist/amg01796-fastmediafast-yugiohees-rakutenes/playlist.m3u8
+#EXTINF:-1 tvg-id="zyoon-tv-hd-chile" tvg-name="Zyoon TV HD (Chile)" tvg-chno="981" tvg-country="ES" group-title="Anime",Zyoon TV HD (Chile)
+https://live20.bozztv.com/giatv/giatv-ZYOONTV/ZYOONTV/playlist.m3u8
+#EXTINF:-1 tvg-id="zyoon-tv-sd-chile" tvg-name="Zyoon TV SD (Chile)" tvg-chno="982" tvg-country="ES" group-title="Anime",Zyoon TV SD (Chile)
+https://live20.bozztv.com/akamaissh101/ssh101/onlinezyoontv/playlist.m3u8

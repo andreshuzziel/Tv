@@ -1,0 +1,37 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="1193-13-cultura" tvg-name="13 Cultura" tvg-chno="1" tvg-country="CL" group-title="Nacional",13 Cultura
+https://redirector.dps.live/hls/13cultura/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="1446-13-festival" tvg-name="13 Festival" tvg-chno="2" tvg-country="CL" group-title="Nacional",13 Festival
+https://redirector.dps.live/hls/13festival/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="1033-13-pop" tvg-name="13 Pop" tvg-chno="3" tvg-country="CL" group-title="Nacional",13 Pop
+https://redirector.dps.live/hls/13pop/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="1448-13-realities" tvg-name="13 Realities" tvg-chno="4" tvg-country="CL" group-title="Nacional",13 Realities
+https://redirector.dps.live/hls/13realities/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="1032-13-teleseries" tvg-name="13 Teleseries" tvg-chno="5" tvg-country="CL" group-title="Nacional",13 Teleseries
+https://redirector.dps.live/hls/13t/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="1684-13-viajes" tvg-name="13 Viajes" tvg-chno="6" tvg-country="CL" group-title="Nacional",13 Viajes
+https://redirector.dps.live/hls/13viajes/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="c13" tvg-name="Canal 13" tvg-chno="7" tvg-country="CL" group-title="Nacional",Canal 13
+https://redirector.dps.live/hls/13cl/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="chv" tvg-name="Chilevisión" tvg-chno="9" tvg-country="CL" group-title="Nacional",Chilevisión
+https://redirector.rudo.video/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/chv/chv.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="1569-chv" tvg-name="CHV" tvg-chno="10" tvg-country="CL" group-title="Nacional",CHV
+https://redirector.rudo.video/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/chv/chv.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="lared" tvg-name="La Red" tvg-chno="11" tvg-country="CL" group-title="Nacional",La Red
+https://alba-cl-lared-lared.stream.mediatiquestream.com/index.m3u8
+#EXTINF:-1 tvg-id="mega" tvg-name="Mega" tvg-chno="13" tvg-country="CL" group-title="Nacional",Mega
+https://unlimited2-cl-isp.dps.live/mega/mega.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="rewind" tvg-name="Rewind TV" tvg-chno="15" tvg-country="CL" group-title="Nacional",Rewind TV
+https://tls-cl.cdnz.cl/rewindtv/live/playlist.m3u8
+#EXTINF:-1 tvg-id="telecanal" tvg-name="Telecanal" tvg-chno="16" tvg-country="CL" group-title="Nacional",Telecanal
+https://origin-us.streaminghd.cl/telecanal/telecanal/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="458-tv" tvg-name="TV+" tvg-chno="18" tvg-country="CL" group-title="Nacional",TV+
+https://redirector.rudo.video/hls-video/ey6283je82983je9823je8jowowiekldk9838274/tvmas/tvmas.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="1243-tvmas2" tvg-name="TVMas2" tvg-chno="19" tvg-country="CL" group-title="Nacional",TVMas2
+https://marine2.miplay.cl/tateti/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="tvn" tvg-name="TVN" tvg-chno="20" tvg-country="CL" group-title="Nacional",TVN
+https://iptv2.intersurtv.cl/TVN/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="tvn3" tvg-name="TVN 3 / NTV" tvg-chno="22" tvg-country="CL" group-title="Nacional",TVN 3 / NTV
+https://mdstrm.com/live-stream-playlist/5653641561b4eba30a7e4929.m3u8
+#EXTINF:-1 tvg-id="1437-tvn3" tvg-name="TVN3" tvg-chno="23" tvg-country="CL" group-title="Nacional",TVN3
+https://mdstrm.com/live-stream-playlist/5653641561b4eba30a7e4929.m3u8?PlaylistM3UCL

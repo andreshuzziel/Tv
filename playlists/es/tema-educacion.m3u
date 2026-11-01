@@ -1,49 +1,57 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="CampusTV.hn@SD" tvg-logo="https://i.imgur.com/E1TmADM.png" group-title="Educación",Campus TV
+#EXTINF:-1 tvg-id="gvision-cl-sd" tvg-name="GVision" tvg-chno="441" tvg-country="CL" group-title="Educación",GVision
+https://videostream.chileservidores.com:8081/tome/index.m3u8
+#EXTINF:-1 tvg-id="umagtv-cl-sd" tvg-name="UMAGTV" tvg-chno="443" tvg-country="CL" group-title="Educación",UMAGTV
+https://tls-cl.cdnz.cl/umag1/ngrp:live_all/playlist.m3u8
+#EXTINF:-1 tvg-id="utalcatv-cl-sd" tvg-name="UTalca TV" tvg-chno="444" tvg-country="CL" group-title="Educación",UTalca TV
+https://unlimited1-us.dps.live/campustv/campustv.smil/campustv/livestream1/chunks.m3u8
+#EXTINF:-1 tvg-id="campustv-hn-sd" tvg-name="Campus TV" tvg-chno="1376" tvg-country="HN" group-title="Educación",Campus TV
 https://5e85d90130e77.streamlock.net/6052/6052/playlist.m3u8
-#EXTINF:-1 tvg-id="Canal15.ni@SD" tvg-logo="https://i.imgur.com/DGBMuEs.png" group-title="Educación",Canal 15
+#EXTINF:-1 tvg-id="canal15-ni-sd" tvg-name="Canal 15" tvg-chno="1377" tvg-country="NI" group-title="Educación",Canal 15
 https://cootv.cootel.com.ni:8095/Canal15_CooTel/playlist.m3u8
-#EXTINF:-1 tvg-id="CanalUniversidad.ar@SD" tvg-logo="https://i.imgur.com/trmPKYw.png" group-title="Educación",Canal Universidad
+#EXTINF:-1 tvg-id="canaluniversidad-ar-sd" tvg-name="Canal Universidad" tvg-chno="1378" tvg-country="AR" group-title="Educación",Canal Universidad
 https://videostream.shockmedia.com.ar/hls/canaluniversidadmdp/canaluniversidadmdp.m3u8
-#EXTINF:-1 tvg-id="EducaTV.ec@SD" tvg-logo="https://i.imgur.com/nDRVsIc.png" group-title="Educación",Educa TV
+#EXTINF:-1 tvg-id="educatv-ec-sd" tvg-name="Educa TV" tvg-chno="1379" tvg-country="EC" group-title="Educación",Educa TV
 https://avm.ecuamedia.net/educatv/live/playlist.m3u8
-#EXTINF:-1 tvg-id="Eduvision.co@SD" tvg-logo="https://i.imgur.com/ppBdqel.png" group-title="Educación",Eduvision
+#EXTINF:-1 tvg-id="eduvision-co-sd" tvg-name="Eduvision" tvg-chno="1380" tvg-country="CO" group-title="Educación",Eduvision
 https://stmv3.voxtvhd.com.br/conex2/conex2/playlist.m3u8
-#EXTINF:-1 tvg-id="ILCECanal15SummaSaberes.mx@SD" tvg-logo="https://i.imgur.com/r7czgOc.png" group-title="Educación",ILCE Canal 15 Summa Saberes
+#EXTINF:-1 tvg-id="ilcecanal15summasaberes-mx-sd" tvg-name="ILCE Canal 15 Summa Saberes" tvg-chno="1381" tvg-country="MX" group-title="Educación",ILCE Canal 15 Summa Saberes
 https://live-ilce.ovp-vivaro.digital/ovp-origin-abr/ngrp:6359ef999f3fb_all/playlist.m3u8
-#EXTINF:-1 tvg-id="IntiTV.ec@SD" tvg-logo="https://i.imgur.com/2WirGqb.png" group-title="Educación",Inti TV
+#EXTINF:-1 tvg-id="intitv-ec-sd" tvg-name="Inti TV" tvg-chno="1382" tvg-country="EC" group-title="Educación",Inti TV
 https://5e2f36bc1c433.streamlock.net/inti/inti-network.stream/.m3u8
-#EXTINF:-1 tvg-id="KBEV.us@SD" tvg-logo="https://i.imgur.com/YFVrphZ.png" group-title="Educación",KBEV
+#EXTINF:-1 tvg-id="kbev-us-sd" tvg-name="KBEV" tvg-chno="1383" tvg-country="US" group-title="Educación",KBEV
 https://s3-us-west-2.amazonaws.com/beverly-hills-high-school.castus-vod/live/ch1/video.m3u8
-#EXTINF:-1 tvg-id="PlatziTV.es@SD" tvg-logo="https://i.imgur.com/vEzeqHP.png" group-title="Educación",Platzi TV
+#EXTINF:-1 tvg-id="platzitv-es-sd" tvg-name="Platzi TV" tvg-chno="1384" tvg-country="ES" group-title="Educación",Platzi TV
 https://mdstrm.com/live-stream-playlist/629a63ae8df27c082901f78b.m3u8
-#EXTINF:-1 tvg-id="PlutoTVMisterios.us@LatAm" tvg-logo="https://images.pluto.tv/channels/5fac52f142044f00078e2a51/colorLogoPNG.png" group-title="Educación",Pluto TV Misterios LatAm
+#EXTINF:-1 tvg-id="plutotvmisterios-us-latam" tvg-name="Pluto TV Misterios LatAm" tvg-chno="1385" tvg-country="US" group-title="Educación",Pluto TV Misterios LatAm
 https://jmp2.uk/plu-5dcde2f53449c50009b2b4dc.m3u8
-#EXTINF:-1 tvg-id="PlutoTVVidaReal.us@LatAm" tvg-logo="https://images.pluto.tv/channels/5f32d4d9ec194100070c7449/colorLogoPNG_1732044921019.png" group-title="Educación",Pluto TV Vida Real LatAm
+#EXTINF:-1 tvg-id="plutotvvidareal-us-latam" tvg-name="Pluto TV Vida Real LatAm" tvg-chno="1386" tvg-country="US" group-title="Educación",Pluto TV Vida Real LatAm
 https://jmp2.uk/plu-5df265697ec3510009df1ef0.m3u8
-#EXTINF:-1 tvg-id="STVETelebasica.hn@SD" tvg-logo="https://i.imgur.com/nUsq67m.png" group-title="Educación",STVE Telebasica
+#EXTINF:-1 tvg-id="stvetelebasica-hn-sd" tvg-name="STVE Telebasica" tvg-chno="1387" tvg-country="HN" group-title="Educación",STVE Telebasica
 https://streamingcws30.com/suyapa/videosuyapa/playlist.m3u8
-#EXTINF:-1 tvg-id="TeleUV.mx@SD" tvg-logo="https://i.imgur.com/8MdUH69.jpeg" group-title="Educación",Tele UV
+#EXTINF:-1 tvg-id="teleuv-mx-sd" tvg-name="Tele UV" tvg-chno="1388" tvg-country="MX" group-title="Educación",Tele UV
 https://58fe359775f31.streamlock.net/tvuv/myStream/playlist.m3u8
-#EXTINF:-1 tvg-id="TVBUAP.mx@SD" tvg-logo="https://i.imgur.com/hHrIn0r.png" group-title="Educación",TV BUAP
+#EXTINF:-1 tvg-id="tvbuap-mx-sd" tvg-name="TV BUAP" tvg-chno="1389" tvg-country="MX" group-title="Educación",TV BUAP
 https://tvenvivo.buap.mx/livestream/stream/index.m3u8
-#EXTINF:-1 tvg-id="TVCuatro44.mx@SD" tvg-logo="https://i.imgur.com/Of044Jx.png" group-title="Educación",TV Cuatro 4.4
+#EXTINF:-1 tvg-id="tvcuatro44-mx-sd" tvg-name="TV Cuatro 4.4" tvg-chno="1390" tvg-country="MX" group-title="Educación",TV Cuatro 4.4
 https://5ca3e84a76d30.streamlock.net/tv44gto/tv44gto.smil/.m3u8
-#EXTINF:-1 tvg-id="TVUG.mx@SD" tvg-logo="https://i.imgur.com/pxkDpTU.jpeg" group-title="Educación",TV UG
+#EXTINF:-1 tvg-id="tvmaya-gt-sd" tvg-name="TV Maya" tvg-chno="1391" tvg-country="GT" group-title="Educación",TV Maya
+https://5ca9af4645e15.streamlock.net/mayas/videomayas/playlist.m3u8
+#EXTINF:-1 tvg-id="tvug-mx-sd" tvg-name="TV UG" tvg-chno="1392" tvg-country="MX" group-title="Educación",TV UG
 https://5ca3e84a76d30.streamlock.net/universidadgto/videouniversidadgto/playlist.m3u8
-#EXTINF:-1 tvg-id="TVUJAT.mx@SD" tvg-logo="https://i.imgur.com/4demWOi.png" group-title="Educación",TV UJAT
+#EXTINF:-1 tvg-id="tvujat-mx-sd" tvg-name="TV UJAT" tvg-chno="1393" tvg-country="MX" group-title="Educación",TV UJAT
 https://5e50264bd6766.streamlock.net/ujat/videoujat/playlist.m3u8
-#EXTINF:-1 tvg-id="TVUniversidad.ar@SD" tvg-logo="https://i.imgur.com/0MXsQ25.png" group-title="Educación",TV Universidad
+#EXTINF:-1 tvg-id="tvuniversidad-ar-sd" tvg-name="TV Universidad" tvg-chno="1394" tvg-country="AR" group-title="Educación",TV Universidad
 https://stratus.stream.cespi.unlp.edu.ar/hls/tvunlp.m3u8
-#EXTINF:-1 tvg-id="UACJTV.mx@SD" tvg-logo="https://i.imgur.com/a1WaGTQ.jpeg" group-title="Educación",UACJ-TV
+#EXTINF:-1 tvg-id="uacjtv-mx-sd" tvg-name="UACJ-TV" tvg-chno="1395" tvg-country="MX" group-title="Educación",UACJ-TV
 https://5ca3e84a76d30.streamlock.net/uacj/videouacj/playlist.m3u8
-#EXTINF:-1 tvg-id="UEBITVOnline.ec@SD" tvg-logo="https://i.imgur.com/Tf0BF2q.jpg" group-title="Educación",UEBI TV Online
+#EXTINF:-1 tvg-id="uebitvonline-ec-sd" tvg-name="UEBI TV Online" tvg-chno="1396" tvg-country="EC" group-title="Educación",UEBI TV Online
 https://ventaxtv.com:3575/live/uebilive.m3u8
-#EXTINF:-1 tvg-id="UNIANDESTV.ec@SD" tvg-logo="https://i.imgur.com/1rluyB7.png" group-title="Educación",UNIANDES TV
+#EXTINF:-1 tvg-id="uniandestv-ec-sd" tvg-name="UNIANDES TV" tvg-chno="1397" tvg-country="EC" group-title="Educación",UNIANDES TV
 https://video.compuwebecuador.com:3323/live/uniandeslive.m3u8
-#EXTINF:-1 tvg-id="Unifranz.bo@HD" tvg-logo="https://unifranz.edu.bo/wp-content/themes/unifranz-web/public/images/logos/logo-light-min.442cee.svg" group-title="Educación",Unifranz
+#EXTINF:-1 tvg-id="unifranz-bo-hd" tvg-name="Unifranz" tvg-chno="1398" tvg-country="BO" group-title="Educación",Unifranz
 https://edge.enhdtv.com/8192/index.m3u8
-#EXTINF:-1 tvg-id="UnisonTV.mx@SD" tvg-logo="https://i.imgur.com/7ixWRId.png" group-title="Educación",Unison TV
+#EXTINF:-1 tvg-id="unisontv-mx-sd" tvg-name="Unison TV" tvg-chno="1399" tvg-country="MX" group-title="Educación",Unison TV
 https://stream.unison.mx/hls/unisontvatem.m3u8
-#EXTINF:-1 tvg-id="XHUNESTDT.mx@SD" tvg-logo="https://i.imgur.com/LbZkdca.png" group-title="Educación",XHUNES-TDT
+#EXTINF:-1 tvg-id="xhunestdt-mx-sd" tvg-name="XHUNES-TDT" tvg-chno="1400" tvg-country="MX" group-title="Educación",XHUNES-TDT
 https://tv91.hostingnuclear.com:19360/xhunestv/xhunestv.m3u8
