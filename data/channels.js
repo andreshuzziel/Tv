@@ -200,7 +200,7 @@ window.CHANNELS = [
  {
   "id": "senado",
   "name": "TV Senado",
-  "group": "Noticias",
+  "group": "Legislativo",
   "region": "Nacional",
   "color": "#374151",
   "abbr": "TS",
@@ -4319,7 +4319,7 @@ window.CHANNELS = [
  {
   "id": "445-camara-de-diputados",
   "name": "Camara de Diputados",
-  "group": "Culturales",
+  "group": "Legislativo",
   "region": "Nacional",
   "color": "hsl(17,58%,42%)",
   "abbr": "CDD",
@@ -4332,7 +4332,7 @@ window.CHANNELS = [
  {
   "id": "444-tv-senado",
   "name": "TV Senado",
-  "group": "Culturales",
+  "group": "Legislativo",
   "region": "Nacional",
   "color": "hsl(54,58%,42%)",
   "abbr": "TS",
@@ -7309,7 +7309,7 @@ window.CHANNELS = [
  {
   "id": "1780-gobierno-de-chile",
   "name": "Gobierno de Chile",
-  "group": "General",
+  "group": "Legislativo",
   "region": "Nacional",
   "color": "hsl(41,58%,42%)",
   "abbr": "GDC",

@@ -71,7 +71,7 @@ Cada canal lleva su número en `tvg-chno` dentro de `playlists/tv-chile-todo.m3u
 | 48 | 🇨🇱 | T13 En Vivo | Noticias | Nacional |
 | 49 | 🇨🇱 | TeleCauquenes | Noticias | Nacional |
 | 50 | 🇨🇱 | Turno | Noticias | Nacional |
-| 51 | 🇨🇱 | TV Senado | Noticias | Nacional |
+| 51 | 🇨🇱 | TV Senado | Legislativo| Nacional |
 | 52 | 🇨🇱 | TVN 24 Horas | Noticias | Nacional |
 | 53 | 🇨🇱 | Ritmo Top Latino | Música | Biobío |
 | 54 | 🇨🇱 | Top New Radio | Música | Biobío |
@@ -458,7 +458,7 @@ Cada canal lleva su número en `tvg-chno` dentro de `playlists/tv-chile-todo.m3u
 | 435 | 🇨🇱 | Holvoet TV | Cultura | Nacional |  ⚠️ *(baja: duplicado — usar el canal principal)*
 | 436 | 🇨🇱 | Verso TV | Cultura | Nacional |
 | 437 | 🇨🇱 | Arab TV | Culturales | Nacional |
-| 438 | 🇨🇱 | Camara de Diputados | Culturales | Nacional |
+| 438 | 🇨🇱 | Camara de Diputados | Legislativo| Nacional |
 | 439 | 🇨🇱 | Suyai TV | Culturales | Nacional |
 | 440 | 🇨🇱 | TV Senado | Culturales | Nacional |  ⚠️ *(baja: duplicado — usar el canal principal)*
 | 441 | 🇨🇱 | GVision | Educación | Nacional |
@@ -575,7 +575,7 @@ Cada canal lleva su número en `tvg-chno` dentro de `playlists/tv-chile-todo.m3u
 | 552 | 🇨🇱 | Frecuencia 7 | General | Nacional |
 | 553 | 🇨🇱 | Frecuencia 7 TV | General | Nacional |
 | 554 | 🇨🇱 | Girovisual TV HD (El Quisco / San Antonio - Valparaíso) [No 24/7] | General | Nacional |
-| 555 | 🇨🇱 | Gobierno de Chile | General | Nacional |
+| 555 | 🇨🇱 | Gobierno de Chile | Legislativo| Nacional |
 | 556 | 🇨🇱 | HiperTV | General | Nacional |
 | 557 | 🇨🇱 | Holvoet TV | General | Nacional |  ⚠️ *(baja: duplicado — usar el canal principal)*
 | 558 | 🇨🇱 | Iquique TV | General | Nacional |  ⚠️ *(baja: duplicado — usar el canal principal)*

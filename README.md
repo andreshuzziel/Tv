@@ -133,3 +133,6 @@ Nueva temática **🌐 Servicios OTT** en el panel izquierdo: 8 entradas (Max/HB
 La temática **🌐 Servicios OTT** quedó solo con servicios **gratuitos** (Pluto TV, Vix tier gratis, Tubi, Samsung TV Plus, LG Channels, Plex gratis, YouTube en vivo, RTVE Play, Twitch, Dailymotion) — los de pago (Max/HBO, TNT Sports en Max, Disney+, Prime, Paramount+, Fanatiz de pago) **no** están como OTT; los deportes de pago siguen solo como referencia en la sección ✔ legales. Además se agregaron 2 canales FAST gratis con stream oficial verificado vivo: **#3111 Clan RTVE** 🇪🇸 y **#3112 La 2 de TVE** 🇪🇸. Total: 3.125 entradas, 2.886 con stream.
 
 - La temática **🌐 Servicios OTT** también figura como bloque propio en `GUIA-ORDEN.md` y en los afiches (`afiches/`, bloque final 🌐).
+
+## 🏛️ Temática Gobierno = SOLO Chile
+La temática **🏛️ Gobierno de Chile (solo 🇨🇱)** muestra únicamente canales del Estado chileno (TV Senado #51, Cámara de Diputados #438, Gobierno de Chile #555 — reasignados al grupo `Legislativo`). Los legislativos extranjeros (Congreso de España, canales ciudad USA, etc.) quedan fuera de esta temática (siguen en General/Español otros países).

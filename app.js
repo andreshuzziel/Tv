@@ -64,7 +64,7 @@
     { k: 'musica',   name: 'Música',                 icon: '🎵', color: '#9333ea', groups: ['Música'] },
     { k: 'radio',    name: 'Radios en video',        icon: '📻', color: '#ea580c', groups: ['Radio'] },
     { k: 'estilo',   name: 'Estilo de vida y viajes', icon: '🌿', color: '#65a30d', groups: ['Estilo de vida', 'Viajes', 'Cocina', 'Autos', 'Aire libre', 'Negocios'] },
-    { k: 'gob',      name: 'Gobierno y legislativo', icon: '🏛️', color: '#475569', groups: ['Legislativo'] },
+    { k: 'gob',      name: '🏛️ Gobierno de Chile (solo 🇨🇱)', icon: '🏛️', color: '#475569', groups: ['Legislativo'] },
     { k: 'religion', name: 'Religiosos',             icon: '⛪', color: '#a16207', groups: ['Religioso', 'Religiosos'] },
     { k: 'comunit',  name: 'Comunitarios',           icon: '🤝', color: '#0d9488', groups: ['Comunitarios'] },
     { k: 'inter',    name: 'Internacionales',        icon: '🌐', color: '#4f46e5', groups: ['Internacionales'] },
@@ -177,7 +177,7 @@
         groupBy: c => c._origin, groupLabel: k => (k === 'cl' ? '🇨🇱 Chile' : '🌎 Internacionales'), groupOrder: ['cl', 'es']
       };
       return [legal, ...THEMES.map(t => {
-        const all = temChans.filter(c => c._theme === t.k);
+        const all = temChans.filter(c => c._theme === t.k && (t.k !== 'gob' || c._origin === 'cl'));
         const items = all.filter(c => (state.temOrigin === 'all' || c._origin === state.temOrigin) && matches(c));
         const cl = all.filter(c => c._origin === 'cl').length, es = all.length - cl;
         const sec = {
@@ -256,7 +256,7 @@
   function renderThemes() {
     // filtro de origen (CL / ES) aplicado a las temáticas
     const items = THEMES.map(t => {
-      const all = temChans.filter(c => c._theme === t.k);
+      const all = temChans.filter(c => c._theme === t.k && (t.k !== 'gob' || c._origin === 'cl'));
       const cl = all.filter(c => c._origin === 'cl').length;
       const es = all.length - cl;
       let n = all.length;
