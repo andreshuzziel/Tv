@@ -203,7 +203,7 @@ Cada canal lleva su número en `tvg-chno` dentro de `playlists/tv-chile-todo.m3u
 | 814 | 🇦🇷 | VIVE TV | Noticias | Español (Latam/ES) |
 | 815 | 🇵🇪 | VNP | Noticias | Español (Latam/ES) |
 
-### 📍 Regiones de Chile (Biobío y norte→sur) — 259 canales
+### 📍 Regiones de Chile (norte → sur) — 259 canales
 
 | # | Bandera | Canal | Grupo | Región/País |
 |---:|---|---|---|---|

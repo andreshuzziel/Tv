@@ -35,7 +35,7 @@ const regionOf = c => {
 const noticiasIdx = THEMES.findIndex(t => t.k === 'noticias');
 const REG_TORD = noticiasIdx + 0.5;
 const themeSec = THEMES.map((t, i) => ({ tord: i, label: t.name.startsWith(t.icon) ? t.name : `${t.icon} ${t.name}`, color: t.color, big: t.k === 'deportes', key: t.k }));
-const regSec = { tord: REG_TORD, label: '📍 Regiones de Chile (Biobío y norte→sur)', color: '#0891b2', big: false, key: 'regiones' };
+const regSec = { tord: REG_TORD, label: '📍 Regiones de Chile (norte → sur)', color: '#0891b2', big: false, key: 'regiones' };
 const ALL_SECS = [...themeSec.slice(0, noticiasIdx + 1), regSec, ...themeSec.slice(noticiasIdx + 1)];
 
 const rows = chans.map(c => {

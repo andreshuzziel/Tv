@@ -87,7 +87,7 @@ def svg_doc(title, subtitle, items, fname):
         REGIONS_META = json.load(open('/tmp/regions.json'))
     except Exception:
         REGIONS_META = []
-    reg_order = ['Biobío'] + [r['k'] for r in REGIONS_META if r['k'] != 'Biobío']
+    reg_order = [r['k'] for r in REGIONS_META]  # norte → sur estricto
     def is_regiones(s): return s[2].startswith('📍')
     def segments(s, grp):
         if not is_regiones(s): return [('all', grp)]
@@ -111,7 +111,7 @@ def svg_doc(title, subtitle, items, fname):
          f'<text x="{M}" y="46" font-size="34" font-weight="700" fill="#f8fafc">{esc(title)}</text>',
          f'<text x="{M}" y="76" font-size="15" fill="#94a3b8">{esc(subtitle)}</text>',
          f'<text x="{M}" y="102" font-size="13" fill="#64748b">Cada celda:  #número  🚩 bandera real + emote 🏳️ del país de origen (flagcdn, ISO 3166-1)  Nombre   ·   tooltip: país + temática</text>',
-         f'<text x="{M}" y="126" font-size="13" fill="#64748b">Orden: POR TEMÁTICA (igual que la app) y dentro de cada tema # cronológico ascendente · CADA TEMA EN SU PROPIO PANEL · el panel 📍 Regiones va subdividido POR REGIÓN (Biobío primero, luego norte→sur) · deportes con ✔ legales</text>',
+         f'<text x="{M}" y="126" font-size="13" fill="#64748b">Orden: POR TEMÁTICA (igual que la app) y dentro de cada tema # cronológico ascendente · CADA TEMA EN SU PROPIO PANEL · el panel 📍 Regiones va subdividido POR REGIÓN de norte a sur (Arica → Magallanes) · deportes con ✔ legales</text>',
          f'<text x="{M}" y="148" font-size="13" fill="#64748b">Generado 01-nov-2026 · v3.103 · ordenado por temática + # ascendente · sanitizado (https, sin TV de pago/piratería)</text>']
     y = head_h
     for s, grp in blocks:
