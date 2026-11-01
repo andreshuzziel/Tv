@@ -28,27 +28,27 @@ Cada canal lleva su número en `tvg-chno` dentro de `playlists/tv-chile-todo.m3u
 | 5 | 🇨🇱 | 13 Teleseries | Nacional | Nacional |
 | 6 | 🇨🇱 | 13 Viajes | Nacional | Nacional |
 | 7 | 🇨🇱 | Canal 13 | Nacional | Nacional |
-| 8 | 🇨🇱 | Canal 13 | Nacional | Nacional |
+| 8 | 🇨🇱 | Canal 13 | Nacional | Nacional |  ⚠️ *(baja: duplicado — usar el canal principal)*
 | 9 | 🇨🇱 | Chilevisión | Nacional | Nacional |
 | 10 | 🇨🇱 | CHV | Nacional | Nacional |
 | 11 | 🇨🇱 | La Red | Nacional | Nacional |
-| 12 | 🇨🇱 | La Red | Nacional | Nacional |
+| 12 | 🇨🇱 | La Red | Nacional | Nacional |  ⚠️ *(baja: duplicado — usar el canal principal)*
 | 13 | 🇨🇱 | Mega | Nacional | Nacional |
-| 14 | 🇨🇱 | Mega | Nacional | Nacional |
+| 14 | 🇨🇱 | Mega | Nacional | Nacional |  ⚠️ *(baja: duplicado — usar el canal principal)*
 | 15 | 🇨🇱 | Rewind TV | Nacional | Nacional |
 | 16 | 🇨🇱 | Telecanal | Nacional | Nacional |
 | 17 | 🇨🇱 | TV Chile | Nacional | Internacional |
 | 18 | 🇨🇱 | TV+ | Nacional | Nacional |
 | 19 | 🇨🇱 | TVMas2 | Nacional | Nacional |
 | 20 | 🇨🇱 | TVN | Nacional | Nacional |
-| 21 | 🇨🇱 | TVN | Nacional | Nacional |
+| 21 | 🇨🇱 | TVN | Nacional | Nacional |  ⚠️ *(baja: duplicado — usar el canal principal)*
 | 22 | 🇨🇱 | TVN 3 / NTV | Nacional | Nacional |
 | 23 | 🇨🇱 | TVN3 | Nacional | Nacional |
 | 24 | 🇨🇱 | UCV TV / TV+ | Nacional | Valparaíso |
-| 25 | 🇨🇱 | 13 Festival | 13 FAST | Nacional |
+| 25 | 🇨🇱 | 13 Festival | 13 FAST | Nacional |  ⚠️ *(baja: duplicado — usar el canal principal)*
 | 26 | 🇨🇱 | 13 Humor | 13 FAST | Nacional |
 | 27 | 🇨🇱 | 13 Kids | 13 FAST | Nacional |
-| 28 | 🇨🇱 | 13 Realities | 13 FAST | Nacional |
+| 28 | 🇨🇱 | 13 Realities | 13 FAST | Nacional |  ⚠️ *(baja: duplicado — usar el canal principal)*
 | 29 | 🇨🇱 | 13C | 13 FAST | Nacional |
 | 30 | 🇨🇱 | 13E | 13 FAST | Nacional |
 | 31 | 🇨🇱 | 13P | 13 FAST | Nacional |
@@ -100,11 +100,11 @@ Cada canal lleva su número en `tvg-chno` dentro de `playlists/tv-chile-todo.m3u
 | 77 | 🇨🇱 | Supersonika TV | Regionales | Biobío |
 | 78 | 🇨🇱 | LCR Televisión | General | Biobío |
 | 79 | 🇨🇱 | Radio Contemporanea Coihueco | General | Biobío |
-| 80 | 🇨🇱 | Bío Bío TV | Biobío | Biobío |
+| 80 | 🇨🇱 | Bío Bío TV | Biobío | Biobío |  ⚠️ *(baja: duplicado — usar el canal principal)*
 | 81 | 🇨🇱 | Canal 9 Bío-Bío TV | Biobío | Biobío |
-| 82 | 🇨🇱 | Concepción TV | Biobío | Biobío |
-| 83 | 🇨🇱 | El 3 de Conce | Biobío | Biobío |
-| 84 | 🇨🇱 | Juntos TV | Biobío | Biobío |
+| 82 | 🇨🇱 | Concepción TV | Biobío | Biobío |  ⚠️ *(baja: duplicado — usar el canal principal)*
+| 83 | 🇨🇱 | El 3 de Conce | Biobío | Biobío |  ⚠️ *(baja: duplicado — usar el canal principal)*
+| 84 | 🇨🇱 | Juntos TV | Biobío | Biobío |  ⚠️ *(baja: duplicado — usar el canal principal)*
 | 85 | 🇨🇱 | NCTV | Biobío | Biobío |
 | 86 | 🇨🇱 | Arica TV | Regionales | Arica y Parinacota |
 | 87 | 🇨🇱 | Cappissima Multimedial TV | Regionales | Arica y Parinacota |
@@ -180,7 +180,7 @@ Cada canal lleva su número en `tvg-chno` dentro de `playlists/tv-chile-todo.m3u
 | 157 | 🇨🇱 | La Granja FM | Comunitarios | Metropolitana |
 | 158 | 🇨🇱 | La Granja TV | Comunitarios | Metropolitana |
 | 159 | 🇨🇱 | La Metro | Radio | Metropolitana |
-| 160 | 🇨🇱 | NCTV | Religiosos | Metropolitana |
+| 160 | 🇨🇱 | NCTV | Religiosos | Metropolitana |  ⚠️ *(baja: duplicado — usar el canal principal)*
 | 161 | 🇨🇱 | Nina TV | Radio | Metropolitana |
 | 162 | 🇨🇱 | Providencia Television | Regionales | Metropolitana |
 | 163 | 🇨🇱 | Radio Fantasia | Radio | Metropolitana |
@@ -223,7 +223,7 @@ Cada canal lleva su número en `tvg-chno` dentro de `playlists/tv-chile-todo.m3u
 | 200 | 🇨🇱 | Canal 30 Loncomilla | Regionales | Maule |
 | 201 | 🇨🇱 | Central TV | Regionales | Maule |
 | 202 | 🇨🇱 | Contivision | Regionales | Maule |
-| 203 | 🇨🇱 | El Centro TV | Regionales | Maule |
+| 203 | 🇨🇱 | El Centro TV | Regionales | Maule |  ⚠️ *(baja: duplicado — usar el canal principal)*
 | 204 | 🇨🇱 | En Linea Maule | Regionales | Maule |
 | 205 | 🇨🇱 | LaMix TV | Regionales | Maule |
 | 206 | 🇨🇱 | Lila TV Pencahue | Regionales | Maule |
@@ -239,7 +239,7 @@ Cada canal lleva su número en `tvg-chno` dentro de `playlists/tv-chile-todo.m3u
 | 216 | 🇨🇱 | Radio Via 7 TV | Radio | Maule |
 | 217 | 🇨🇱 | Radio Vida Curico | Religiosos | Maule |
 | 218 | 🇨🇱 | Sabor TV | Radio | Maule |
-| 219 | 🇨🇱 | Telecauquenes | Regionales | Maule |
+| 219 | 🇨🇱 | Telecauquenes | Regionales | Maule |  ⚠️ *(baja: duplicado — usar el canal principal)*
 | 220 | 🇨🇱 | TV 5 Linares | Regionales | Maule |
 | 221 | 🇨🇱 | UTalcaTV | Universitarios | Maule |
 | 222 | 🇨🇱 | UTV San Clemente | Regionales | Maule |
@@ -253,7 +253,7 @@ Cada canal lleva su número en `tvg-chno` dentro de `playlists/tv-chile-todo.m3u
 | 230 | 🇨🇱 | Plenitud Juvenil | Religiosos | Ñuble |
 | 231 | 🇨🇱 | Plenitud TV | Religiosos | Ñuble |
 | 232 | 🇨🇱 | Plenitud TV 2 | Religiosos | Ñuble |
-| 233 | 🇨🇱 | Radio Contemporanea Coihueco | Radio | Ñuble |
+| 233 | 🇨🇱 | Radio Contemporanea Coihueco | Radio | Ñuble |  ⚠️ *(baja: duplicado — usar el canal principal)*
 | 234 | 🇨🇱 | Radio Magistral Coihueco | Radio | Ñuble |
 | 235 | 🇨🇱 | Radio Ñuble | Radio | Ñuble |
 | 236 | 🇨🇱 | Radio Popular Coihueco | Radio | Ñuble |
@@ -269,7 +269,7 @@ Cada canal lleva su número en `tvg-chno` dentro de `playlists/tv-chile-todo.m3u
 | 246 | 🇨🇱 | Teleangol Radio | Regionales | Araucanía |
 | 247 | 🇨🇱 | Temuco TV | Regionales | Araucanía |
 | 248 | 🇨🇱 | TV UCT | Biobío | Araucanía |
-| 249 | 🇨🇱 | TV UCT | Universitarios | Araucanía |
+| 249 | 🇨🇱 | TV UCT | Universitarios | Araucanía |  ⚠️ *(baja: duplicado — usar el canal principal)*
 | 250 | 🇨🇱 | UFROTV | Universitarios | Araucanía |
 | 251 | 🇨🇱 | ATV Valdivia | Regionales | Los Ríos |
 | 252 | 🇨🇱 | Canal Latino 54 | Regionales | Los Ríos |
@@ -344,16 +344,16 @@ Cada canal lleva su número en `tvg-chno` dentro de `playlists/tv-chile-todo.m3u
 | 321 | 🇨🇱 | EnerGeek Radio | Animación | Nacional |
 | 322 | 🇨🇱 | NTV | Animación | Nacional |
 | 323 | 🇨🇱 | AE Radio TV | Música | Nacional |
-| 324 | 🇨🇱 | AGRICULTURA TV | Música | Nacional |
+| 324 | 🇨🇱 | AGRICULTURA TV | Música | Nacional |  ⚠️ *(baja: duplicado — usar el canal principal)*
 | 325 | 🇨🇱 | Carolina TV | Música | Nacional |
 | 326 | 🇨🇱 | Carolina TV 2 | Música | Nacional |
 | 327 | 🇨🇱 | Chocolate FM | Música | Nacional |
 | 328 | 🇨🇱 | Dance FM | Música | Nacional |
 | 329 | 🇨🇱 | DJ Loncho TV | Música | Nacional |
 | 330 | 🇨🇱 | El Galpon 80 | Música | Nacional |
-| 331 | 🇨🇱 | EnerGeek Radio | Música | Nacional |
-| 332 | 🇨🇱 | EnerGeek Radio | Música | Nacional |
-| 333 | 🇨🇱 | EnerGeek Radio | Música | Nacional |
+| 331 | 🇨🇱 | EnerGeek Radio | Música | Nacional |  ⚠️ *(baja: duplicado — usar el canal principal)*
+| 332 | 🇨🇱 | EnerGeek Radio | Música | Nacional |  ⚠️ *(baja: duplicado — usar el canal principal)*
+| 333 | 🇨🇱 | EnerGeek Radio | Música | Nacional |  ⚠️ *(baja: duplicado — usar el canal principal)*
 | 334 | 🇨🇱 | Eternal Metal | Música | Nacional |
 | 335 | 🇨🇱 | FM Plus TV | Música | Nacional |
 | 336 | 🇨🇱 | Genial TV | Música | Nacional |
@@ -361,44 +361,44 @@ Cada canal lleva su número en `tvg-chno` dentro de `playlists/tv-chile-todo.m3u
 | 338 | 🇨🇱 | La Chilena TV | Música | Nacional |
 | 339 | 🇨🇱 | La Clave | Música | Nacional |
 | 340 | 🇨🇱 | La MetroFM | Música | Nacional |
-| 341 | 🇨🇱 | La MetroFM | Música | Nacional |
+| 341 | 🇨🇱 | La MetroFM | Música | Nacional |  ⚠️ *(baja: duplicado — usar el canal principal)*
 | 342 | 🇨🇱 | Latinos TV | Música | Nacional |
 | 343 | 🇨🇱 | M Music TV | Música | Nacional |
 | 344 | 🇨🇱 | Mundo de la Musica TV | Música | Nacional |
 | 345 | 🇨🇱 | Onda Fiesta | Música | Nacional |
 | 346 | 🇨🇱 | Parentesis TV | Música | Nacional |
 | 347 | 🇨🇱 | Pasion Ranchera | Música | Nacional |
-| 348 | 🇨🇱 | Patagonia Radio TV | Música | Nacional |
+| 348 | 🇨🇱 | Patagonia Radio TV | Música | Nacional |  ⚠️ *(baja: duplicado — usar el canal principal)*
 | 349 | 🇨🇱 | Pauta | Música | Nacional |
 | 350 | 🇨🇱 | PlanetaTV | Música | Nacional |
 | 351 | 🇨🇱 | Portal FoxMix | Música | Nacional |
 | 352 | 🇨🇱 | Radio Alternativa FM (Huasco) | Música | Nacional |
 | 353 | 🇨🇱 | Radio Duna | Música | Nacional |
-| 354 | 🇨🇱 | Radio Edelweiss | Música | Nacional |
+| 354 | 🇨🇱 | Radio Edelweiss | Música | Nacional |  ⚠️ *(baja: duplicado — usar el canal principal)*
 | 355 | 🇨🇱 | Radio El Conquistador FM | Música | Nacional |
-| 356 | 🇨🇱 | Radio El Conquistador FM | Música | Nacional |
+| 356 | 🇨🇱 | Radio El Conquistador FM | Música | Nacional |  ⚠️ *(baja: duplicado — usar el canal principal)*
 | 357 | 🇨🇱 | Radio Graneros TV | Música | Nacional |
-| 358 | 🇨🇱 | Radio Graneros TV | Música | Nacional |
-| 359 | 🇨🇱 | Radio Graneros TV | Música | Nacional |
+| 358 | 🇨🇱 | Radio Graneros TV | Música | Nacional |  ⚠️ *(baja: duplicado — usar el canal principal)*
+| 359 | 🇨🇱 | Radio Graneros TV | Música | Nacional |  ⚠️ *(baja: duplicado — usar el canal principal)*
 | 360 | 🇨🇱 | Radio La Clave | Música | Nacional |
 | 361 | 🇨🇱 | Radio La Serena TV | Música | Nacional |
 | 362 | 🇨🇱 | Radio Pudahuel | Música | Nacional |
-| 363 | 🇨🇱 | Radio Zona 90.3 | Música | Nacional |
+| 363 | 🇨🇱 | Radio Zona 90.3 | Música | Nacional |  ⚠️ *(baja: duplicado — usar el canal principal)*
 | 364 | 🇨🇱 | Recuerdos Retro Radio TV | Música | Nacional |
 | 365 | 🇨🇱 | Retro Plus TV | Música | Nacional |
 | 366 | 🇨🇱 | Retro Plus TV Señal 2 | Música | Nacional |
 | 367 | 🇨🇱 | Retromusica Television | Música | Nacional |
-| 368 | 🇨🇱 | Retromusica Television | Música | Nacional |
+| 368 | 🇨🇱 | Retromusica Television | Música | Nacional |  ⚠️ *(baja: duplicado — usar el canal principal)*
 | 369 | 🇨🇱 | Rewind | Música | Nacional |
 | 370 | 🇨🇱 | Ritoque TV | Música | Nacional |
 | 371 | 🇨🇱 | Ruidos TV | Música | Nacional |
-| 372 | 🇨🇱 | Sabor TV | Música | Nacional |
+| 372 | 🇨🇱 | Sabor TV | Música | Nacional |  ⚠️ *(baja: duplicado — usar el canal principal)*
 | 373 | 🇨🇱 | Sensacion Costa | Música | Nacional |
-| 374 | 🇨🇱 | Sensacion Costa | Música | Nacional |
+| 374 | 🇨🇱 | Sensacion Costa | Música | Nacional |  ⚠️ *(baja: duplicado — usar el canal principal)*
 | 375 | 🇨🇱 | Solo Bailalo | Música | Nacional |
 | 376 | 🇨🇱 | Tele13 Radio | Música | Nacional |
-| 377 | 🇨🇱 | Tele13 Radio | Música | Nacional |
-| 378 | 🇨🇱 | Teleangol Radio | Música | Nacional |
+| 377 | 🇨🇱 | Tele13 Radio | Música | Nacional |  ⚠️ *(baja: duplicado — usar el canal principal)*
+| 378 | 🇨🇱 | Teleangol Radio | Música | Nacional |  ⚠️ *(baja: duplicado — usar el canal principal)*
 | 379 | 🇨🇱 | TeleZeta Tropical | Música | Nacional |
 | 380 | 🇨🇱 | Tropical Ranchero | Música | Nacional |
 | 381 | 🇨🇱 | TV vconline.cl | Música | Nacional |
@@ -409,11 +409,11 @@ Cada canal lleva su número en `tvg-chno` dentro de `playlists/tv-chile-todo.m3u
 | 386 | 🇨🇱 | Centaury Radio HD | Radio | Nacional |
 | 387 | 🇨🇱 | Cooperativa | Radio | Nacional |
 | 388 | 🇨🇱 | Cooperativa Ciencia | Radio | Nacional |
-| 389 | 🇨🇱 | Dance FM | Radio | Nacional |
+| 389 | 🇨🇱 | Dance FM | Radio | Nacional |  ⚠️ *(baja: duplicado — usar el canal principal)*
 | 390 | 🇨🇱 | El Radar | Radio | Nacional |
 | 391 | 🇨🇱 | EstacionRadiotv | Radio | Nacional |
 | 392 | 🇨🇱 | HD Radio | Radio | Nacional |
-| 393 | 🇨🇱 | La Clave | Radio | Nacional |
+| 393 | 🇨🇱 | La Clave | Radio | Nacional |  ⚠️ *(baja: duplicado — usar el canal principal)*
 | 394 | 🇨🇱 | La Nuestra | Radio | Nacional |
 | 395 | 🇨🇱 | PalMundo FM | Radio | Nacional |
 | 396 | 🇨🇱 | Pauta TV | Radio | Nacional |
@@ -421,7 +421,7 @@ Cada canal lleva su número en `tvg-chno` dentro de `playlists/tv-chile-todo.m3u
 | 398 | 🇨🇱 | Radio 7 Tazas de Molina | Radio | Nacional |
 | 399 | 🇨🇱 | Radio Agricultura | Radio | Nacional |
 | 400 | 🇨🇱 | Radio Agricultura 2 | Radio | Nacional |
-| 401 | 🇨🇱 | Radio Duna | Radio | Nacional |
+| 401 | 🇨🇱 | Radio Duna | Radio | Nacional |  ⚠️ *(baja: duplicado — usar el canal principal)*
 | 402 | 🇨🇱 | Radio Fin Del Mundo TV | Radio | Nacional |
 | 403 | 🇨🇱 | Radio FM Dance | Radio | Nacional |
 | 404 | 🇨🇱 | Radio FM TOP | Radio | Nacional |
@@ -438,41 +438,41 @@ Cada canal lleva su número en `tvg-chno` dentro de `playlists/tv-chile-todo.m3u
 | 415 | 🇨🇱 | T13 Radio | Radio | Nacional |
 | 416 | 🇨🇱 | 15.1 BPB | Religioso | Nacional |
 | 417 | 🇨🇱 | ADA TV | Religioso | Nacional |
-| 418 | 🇨🇱 | Canal ISB | Religioso | Nacional |
+| 418 | 🇨🇱 | Canal ISB | Religioso | Nacional |  ⚠️ *(baja: duplicado — usar el canal principal)*
 | 419 | 🇨🇱 | Canal ISB (Iglesia San Bernardo) | Religioso | Nacional |
-| 420 | 🇨🇱 | Canal ISB (Iglesia San Bernardo) | Religioso | Nacional |
-| 421 | 🇨🇱 | Fortaleza TV | Religioso | Nacional |
+| 420 | 🇨🇱 | Canal ISB (Iglesia San Bernardo) | Religioso | Nacional |  ⚠️ *(baja: duplicado — usar el canal principal)*
+| 421 | 🇨🇱 | Fortaleza TV | Religioso | Nacional |  ⚠️ *(baja: duplicado — usar el canal principal)*
 | 422 | 🇨🇱 | ISA TV | Religioso | Nacional |
 | 423 | 🇨🇱 | MTNA TV | Religioso | Nacional |
 | 424 | 🇨🇱 | Nuevo Tiempo TV | Religioso | Nacional |
 | 425 | 🇨🇱 | Radio Armonia TV | Religioso | Nacional |
 | 426 | 🇨🇱 | Radio El Sembrador | Religioso | Nacional |
 | 427 | 🇨🇱 | Televida (Chile) | Religioso | Nacional |
-| 428 | 🇨🇱 | TNE | Religioso | Nacional |
-| 429 | 🇨🇱 | Vida Nueva TV | Religioso | Nacional |
-| 430 | 🇨🇱 | ADA TV | Religiosos | Nacional |
+| 428 | 🇨🇱 | TNE | Religioso | Nacional |  ⚠️ *(baja: duplicado — usar el canal principal)*
+| 429 | 🇨🇱 | Vida Nueva TV | Religioso | Nacional |  ⚠️ *(baja: duplicado — usar el canal principal)*
+| 430 | 🇨🇱 | ADA TV | Religiosos | Nacional |  ⚠️ *(baja: duplicado — usar el canal principal)*
 | 431 | 🇨🇱 | Cristo Razon De Vivir | Religiosos | Nacional |
 | 432 | 🇨🇱 | Restaurando Vidas TV | Religiosos | Nacional |
 | 433 | 🇨🇱 | Tv Catedral de la Florida | Religiosos | Nacional |
-| 434 | 🇨🇱 | Chiloe Red 25 | Cultura | Nacional |
-| 435 | 🇨🇱 | Holvoet TV | Cultura | Nacional |
+| 434 | 🇨🇱 | Chiloe Red 25 | Cultura | Nacional |  ⚠️ *(baja: duplicado — usar el canal principal)*
+| 435 | 🇨🇱 | Holvoet TV | Cultura | Nacional |  ⚠️ *(baja: duplicado — usar el canal principal)*
 | 436 | 🇨🇱 | Verso TV | Cultura | Nacional |
 | 437 | 🇨🇱 | Arab TV | Culturales | Nacional |
 | 438 | 🇨🇱 | Camara de Diputados | Culturales | Nacional |
 | 439 | 🇨🇱 | Suyai TV | Culturales | Nacional |
-| 440 | 🇨🇱 | TV Senado | Culturales | Nacional |
+| 440 | 🇨🇱 | TV Senado | Culturales | Nacional |  ⚠️ *(baja: duplicado — usar el canal principal)*
 | 441 | 🇨🇱 | GVision | Educación | Nacional |
-| 442 | 🇨🇱 | TV Usach | Educación | Nacional |
+| 442 | 🇨🇱 | TV Usach | Educación | Nacional |  ⚠️ *(baja: duplicado — usar el canal principal)*
 | 443 | 🇨🇱 | UMAGTV | Educación | Nacional |
 | 444 | 🇨🇱 | UTalca TV | Educación | Nacional |
 | 445 | 🇨🇱 | ClickRadio.cl | Comunitarios | Nacional |
 | 446 | 🇨🇱 | Pudahuel TV | Comunitarios | Nacional |
-| 447 | 🇨🇱 | Canal Chilote | Entretenimiento | Nacional |
+| 447 | 🇨🇱 | Canal Chilote | Entretenimiento | Nacional |  ⚠️ *(baja: duplicado — usar el canal principal)*
 | 448 | 🇨🇱 | Chile Channel | Entretenimiento | Nacional |
-| 449 | 🇨🇱 | Emocion TV | Entretenimiento | Nacional |
-| 450 | 🇨🇱 | Estacion Limache TV | Entretenimiento | Nacional |
-| 451 | 🇨🇱 | La Melinkana TV | Entretenimiento | Nacional |
-| 452 | 🇨🇱 | La Nuestra | Entretenimiento | Nacional |
+| 449 | 🇨🇱 | Emocion TV | Entretenimiento | Nacional |  ⚠️ *(baja: duplicado — usar el canal principal)*
+| 450 | 🇨🇱 | Estacion Limache TV | Entretenimiento | Nacional |  ⚠️ *(baja: duplicado — usar el canal principal)*
+| 451 | 🇨🇱 | La Melinkana TV | Entretenimiento | Nacional |  ⚠️ *(baja: duplicado — usar el canal principal)*
+| 452 | 🇨🇱 | La Nuestra | Entretenimiento | Nacional |  ⚠️ *(baja: duplicado — usar el canal principal)*
 | 453 | 🇨🇱 | Nada Es Imposible TV | Entretenimiento | Nacional |
 | 454 | 🇨🇱 | Zona Play TV | Entretenimiento | Nacional |
 | 455 | 🇺🇸 | Comedy Central Latin America | Comedia | Nacional |
@@ -482,230 +482,230 @@ Cada canal lleva su número en `tvg-chno` dentro de `playlists/tv-chile-todo.m3u
 | 459 | 🇨🇱 | Docevision | Regionales | Nacional |
 | 460 | 🇨🇱 | Girovisual TV | Regionales | Nacional |
 | 461 | 🇨🇱 | Pirque TV | Regionales | Nacional |
-| 462 | 🇨🇱 | Verso TV | Regionales | Nacional |
+| 462 | 🇨🇱 | Verso TV | Regionales | Nacional |  ⚠️ *(baja: duplicado — usar el canal principal)*
 | 463 | 🇨🇱 | 13 Internacional | Internacionales | Nacional |
 | 464 | 🇨🇳 | China Channel | Internacionales | Nacional |
-| 465 | 🇨🇱 | TV Chile | Internacionales | Nacional |
+| 465 | 🇨🇱 | TV Chile | Internacionales | Nacional |  ⚠️ *(baja: duplicado — usar el canal principal)*
 | 466 | 🇨🇱 | 13 Cocina | General | Nacional |
 | 467 | 🇨🇱 | 13 Internacional HD (Nacional) | General | Nacional |
 | 468 | 🇨🇱 | 13 POP HD (Nacional) | General | Nacional |
 | 469 | 🇨🇱 | 24 horas | General | Nacional |
-| 470 | 🇨🇱 | Alternativa TV | General | Nacional |
+| 470 | 🇨🇱 | Alternativa TV | General | Nacional |  ⚠️ *(baja: duplicado — usar el canal principal)*
 | 471 | 🇨🇱 | AM Canal | General | Nacional |
-| 472 | 🇨🇱 | Antofagasta TV | General | Nacional |
-| 473 | 🇨🇱 | Antofagasta TV | General | Nacional |
-| 474 | 🇨🇱 | Arica TV | General | Nacional |
-| 475 | 🇨🇱 | Atacama TV | General | Nacional |
-| 476 | 🇨🇱 | Atacama TV | General | Nacional |
-| 477 | 🇨🇱 | Atacama TV | General | Nacional |
-| 478 | 🇨🇱 | Aysen TV | General | Nacional |
-| 479 | 🇨🇱 | Aysen TV | General | Nacional |
-| 480 | 🇨🇱 | Aysen TV | General | Nacional |
+| 472 | 🇨🇱 | Antofagasta TV | General | Nacional |  ⚠️ *(baja: duplicado — usar el canal principal)*
+| 473 | 🇨🇱 | Antofagasta TV | General | Nacional |  ⚠️ *(baja: duplicado — usar el canal principal)*
+| 474 | 🇨🇱 | Arica TV | General | Nacional |  ⚠️ *(baja: duplicado — usar el canal principal)*
+| 475 | 🇨🇱 | Atacama TV | General | Nacional |  ⚠️ *(baja: duplicado — usar el canal principal)*
+| 476 | 🇨🇱 | Atacama TV | General | Nacional |  ⚠️ *(baja: duplicado — usar el canal principal)*
+| 477 | 🇨🇱 | Atacama TV | General | Nacional |  ⚠️ *(baja: duplicado — usar el canal principal)*
+| 478 | 🇨🇱 | Aysen TV | General | Nacional |  ⚠️ *(baja: duplicado — usar el canal principal)*
+| 479 | 🇨🇱 | Aysen TV | General | Nacional |  ⚠️ *(baja: duplicado — usar el canal principal)*
+| 480 | 🇨🇱 | Aysen TV | General | Nacional |  ⚠️ *(baja: duplicado — usar el canal principal)*
 | 481 | 🇨🇱 | Bombi TV | General | Nacional |
 | 482 | 🇨🇱 | Buin Somos Todos | General | Nacional |
 | 483 | 🇨🇱 | C y G TV | General | Nacional |
 | 484 | 🇨🇱 | Cadena-RTV | General | Nacional |
 | 485 | 🇨🇱 | Caldera Vision | General | Nacional |
 | 486 | 🇨🇱 | Campo Abierto TV | General | Nacional |
-| 487 | 🇨🇱 | Campo Abierto TV | General | Nacional |
+| 487 | 🇨🇱 | Campo Abierto TV | General | Nacional |  ⚠️ *(baja: duplicado — usar el canal principal)*
 | 488 | 🇨🇱 | CampusTV | General | Nacional |
 | 489 | 🇨🇱 | Canal 1 Nuble | General | Nacional |
-| 490 | 🇨🇱 | Canal 13 | General | Nacional |
-| 491 | 🇨🇱 | Canal 13 | General | Nacional |
+| 490 | 🇨🇱 | Canal 13 | General | Nacional |  ⚠️ *(baja: duplicado — usar el canal principal)*
+| 491 | 🇨🇱 | Canal 13 | General | Nacional |  ⚠️ *(baja: duplicado — usar el canal principal)*
 | 492 | 🇨🇱 | Canal 13 HD (Nacional)(Geo-Blocked) | General | Nacional |
-| 493 | 🇨🇱 | Canal 2 Quellon | General | Nacional |
-| 494 | 🇨🇱 | Canal 2 Quellón | General | Nacional |
-| 495 | 🇨🇱 | Canal 2 Quellón | General | Nacional |
-| 496 | 🇨🇱 | Canal 2 Quellón | General | Nacional |
-| 497 | 🇨🇱 | Canal 2 Quellón | General | Nacional |
-| 498 | 🇨🇱 | Canal 2 Quellón | General | Nacional |
+| 493 | 🇨🇱 | Canal 2 Quellon | General | Nacional |  ⚠️ *(baja: duplicado — usar el canal principal)*
+| 494 | 🇨🇱 | Canal 2 Quellón | General | Nacional |  ⚠️ *(baja: duplicado — usar el canal principal)*
+| 495 | 🇨🇱 | Canal 2 Quellón | General | Nacional |  ⚠️ *(baja: duplicado — usar el canal principal)*
+| 496 | 🇨🇱 | Canal 2 Quellón | General | Nacional |  ⚠️ *(baja: duplicado — usar el canal principal)*
+| 497 | 🇨🇱 | Canal 2 Quellón | General | Nacional |  ⚠️ *(baja: duplicado — usar el canal principal)*
+| 498 | 🇨🇱 | Canal 2 Quellón | General | Nacional |  ⚠️ *(baja: duplicado — usar el canal principal)*
 | 499 | 🇨🇱 | Canal 2 San Antonio | General | Nacional |
-| 500 | 🇨🇱 | Canal 2 San Antonio | General | Nacional |
-| 501 | 🇨🇱 | Canal 2 San Antonio | General | Nacional |
-| 502 | 🇨🇱 | Canal 30 Loncomilla | General | Nacional |
+| 500 | 🇨🇱 | Canal 2 San Antonio | General | Nacional |  ⚠️ *(baja: duplicado — usar el canal principal)*
+| 501 | 🇨🇱 | Canal 2 San Antonio | General | Nacional |  ⚠️ *(baja: duplicado — usar el canal principal)*
+| 502 | 🇨🇱 | Canal 30 Loncomilla | General | Nacional |  ⚠️ *(baja: duplicado — usar el canal principal)*
 | 503 | 🇨🇱 | Canal 5 Pto. Montt | General | Nacional |
-| 504 | 🇨🇱 | Canal 5 Puerto Montt | General | Nacional |
+| 504 | 🇨🇱 | Canal 5 Puerto Montt | General | Nacional |  ⚠️ *(baja: duplicado — usar el canal principal)*
 | 505 | 🇨🇱 | Canal 9 | General | Nacional |
-| 506 | 🇨🇱 | Canal 9 | General | Nacional |
+| 506 | 🇨🇱 | Canal 9 | General | Nacional |  ⚠️ *(baja: duplicado — usar el canal principal)*
 | 507 | 🇨🇱 | Canal Claro | General | Nacional |
-| 508 | 🇨🇱 | Canal Latino 54 | General | Nacional |
-| 509 | 🇨🇱 | Canal Local | General | Nacional |
+| 508 | 🇨🇱 | Canal Latino 54 | General | Nacional |  ⚠️ *(baja: duplicado — usar el canal principal)*
+| 509 | 🇨🇱 | Canal Local | General | Nacional |  ⚠️ *(baja: duplicado — usar el canal principal)*
 | 510 | 🇨🇱 | Canal Local Quillota | General | Nacional |
-| 511 | 🇨🇱 | Canal Local Quillota | General | Nacional |
-| 512 | 🇨🇱 | Canal Sur Patagonia | General | Nacional |
-| 513 | 🇨🇱 | Canal Sur Patagonia | General | Nacional |
-| 514 | 🇨🇱 | Canal Sur Patagonia | General | Nacional |
+| 511 | 🇨🇱 | Canal Local Quillota | General | Nacional |  ⚠️ *(baja: duplicado — usar el canal principal)*
+| 512 | 🇨🇱 | Canal Sur Patagonia | General | Nacional |  ⚠️ *(baja: duplicado — usar el canal principal)*
+| 513 | 🇨🇱 | Canal Sur Patagonia | General | Nacional |  ⚠️ *(baja: duplicado — usar el canal principal)*
+| 514 | 🇨🇱 | Canal Sur Patagonia | General | Nacional |  ⚠️ *(baja: duplicado — usar el canal principal)*
 | 515 | 🇨🇱 | Canal Survision Alerce | General | Nacional |
 | 516 | 🇨🇱 | Caracola TV | General | Nacional |
-| 517 | 🇨🇱 | Caracola TV | General | Nacional |
+| 517 | 🇨🇱 | Caracola TV | General | Nacional |  ⚠️ *(baja: duplicado — usar el canal principal)*
 | 518 | 🇨🇱 | Central TV (Chile) | General | Nacional |
-| 519 | 🇨🇱 | Chile Channel | General | Nacional |
+| 519 | 🇨🇱 | Chile Channel | General | Nacional |  ⚠️ *(baja: duplicado — usar el canal principal)*
 | 520 | 🇨🇱 | Chilevisión Deportes Ⓖ | General | Nacional |
-| 521 | 🇨🇱 | Chilevisión Ⓖ | General | Nacional |
+| 521 | 🇨🇱 | Chilevisión Ⓖ | General | Nacional |  ⚠️ *(baja: duplicado — usar el canal principal)*
 | 522 | 🇨🇱 | Chilevisión Noticias | General | Nacional |
 | 523 | 🇨🇱 | Chilevisual Classic | General | Nacional |
-| 524 | 🇨🇳 | China Channel | General | Nacional |
+| 524 | 🇨🇳 | China Channel | General | Nacional |  ⚠️ *(baja: duplicado — usar el canal principal)*
 | 525 | 🇨🇱 | ClickTV [No24/7](Coronel - Biobío) [Opc.2] | General | Nacional |
 | 526 | 🇨🇱 | ClickTv Chile (Coronel) | General | Nacional |
-| 527 | 🇨🇱 | ClickTv Chile (Coronel) | General | Nacional |
-| 528 | 🇨🇱 | Club TV | General | Nacional |
-| 529 | 🇨🇱 | Contivision | General | Nacional |
-| 530 | 🇨🇱 | Contivision | General | Nacional |
-| 531 | 🇨🇱 | Coyhaique TV | General | Nacional |
+| 527 | 🇨🇱 | ClickTv Chile (Coronel) | General | Nacional |  ⚠️ *(baja: duplicado — usar el canal principal)*
+| 528 | 🇨🇱 | Club TV | General | Nacional |  ⚠️ *(baja: duplicado — usar el canal principal)*
+| 529 | 🇨🇱 | Contivision | General | Nacional |  ⚠️ *(baja: duplicado — usar el canal principal)*
+| 530 | 🇨🇱 | Contivision | General | Nacional |  ⚠️ *(baja: duplicado — usar el canal principal)*
+| 531 | 🇨🇱 | Coyhaique TV | General | Nacional |  ⚠️ *(baja: duplicado — usar el canal principal)*
 | 532 | 🇨🇱 | DCH TV | General | Nacional |
-| 533 | 🇨🇱 | Decima TV | General | Nacional |
+| 533 | 🇨🇱 | Decima TV | General | Nacional |  ⚠️ *(baja: duplicado — usar el canal principal)*
 | 534 | 🇨🇱 | Décima TV (Ancud) | General | Nacional |
 | 535 | 🇨🇱 | Deportes13 Ⓖ | General | Nacional |
-| 536 | 🇨🇱 | Docevision | General | Nacional |
+| 536 | 🇨🇱 | Docevision | General | Nacional |  ⚠️ *(baja: duplicado — usar el canal principal)*
 | 537 | 🇨🇱 | Dodo TV | General | Nacional |
 | 538 | 🇨🇱 | EGM Channel HD (Rancagua) | General | Nacional |
 | 539 | 🇨🇱 | EGM TV | General | Nacional |
-| 540 | 🇨🇱 | El Radar | General | Nacional |
-| 541 | 🇨🇱 | En Linea Maule | General | Nacional |
-| 542 | 🇨🇱 | EnerGeek Fan | General | Nacional |
-| 543 | 🇨🇱 | EnerGeek Fan | General | Nacional |
+| 540 | 🇨🇱 | El Radar | General | Nacional |  ⚠️ *(baja: duplicado — usar el canal principal)*
+| 541 | 🇨🇱 | En Linea Maule | General | Nacional |  ⚠️ *(baja: duplicado — usar el canal principal)*
+| 542 | 🇨🇱 | EnerGeek Fan | General | Nacional |  ⚠️ *(baja: duplicado — usar el canal principal)*
+| 543 | 🇨🇱 | EnerGeek Fan | General | Nacional |  ⚠️ *(baja: duplicado — usar el canal principal)*
 | 544 | 🇨🇱 | EnerGeek Retro | General | Nacional |
-| 545 | 🇨🇱 | EnerGeek Retro | General | Nacional |
-| 546 | 🇨🇱 | EnerGeek Retro | General | Nacional |
-| 547 | 🇨🇱 | EnerGeek Retro | General | Nacional |
-| 548 | 🇨🇱 | Enfoque Digital TV | General | Nacional |
+| 545 | 🇨🇱 | EnerGeek Retro | General | Nacional |  ⚠️ *(baja: duplicado — usar el canal principal)*
+| 546 | 🇨🇱 | EnerGeek Retro | General | Nacional |  ⚠️ *(baja: duplicado — usar el canal principal)*
+| 547 | 🇨🇱 | EnerGeek Retro | General | Nacional |  ⚠️ *(baja: duplicado — usar el canal principal)*
+| 548 | 🇨🇱 | Enfoque Digital TV | General | Nacional |  ⚠️ *(baja: duplicado — usar el canal principal)*
 | 549 | 🇨🇱 | EPA! TV | General | Nacional |
-| 550 | 🇨🇱 | EPA! TV | General | Nacional |
+| 550 | 🇨🇱 | EPA! TV | General | Nacional |  ⚠️ *(baja: duplicado — usar el canal principal)*
 | 551 | 🇨🇱 | Estacion TV | General | Nacional |
 | 552 | 🇨🇱 | Frecuencia 7 | General | Nacional |
 | 553 | 🇨🇱 | Frecuencia 7 TV | General | Nacional |
 | 554 | 🇨🇱 | Girovisual TV HD (El Quisco / San Antonio - Valparaíso) [No 24/7] | General | Nacional |
 | 555 | 🇨🇱 | Gobierno de Chile | General | Nacional |
 | 556 | 🇨🇱 | HiperTV | General | Nacional |
-| 557 | 🇨🇱 | Holvoet TV | General | Nacional |
-| 558 | 🇨🇱 | Iquique TV | General | Nacional |
+| 557 | 🇨🇱 | Holvoet TV | General | Nacional |  ⚠️ *(baja: duplicado — usar el canal principal)*
+| 558 | 🇨🇱 | Iquique TV | General | Nacional |  ⚠️ *(baja: duplicado — usar el canal principal)*
 | 559 | 🇨🇱 | Islita TV | General | Nacional |
-| 560 | 🇨🇱 | ITV Patagonia | General | Nacional |
-| 561 | 🇨🇱 | ITV Patagonia | General | Nacional |
-| 562 | 🇨🇱 | ITV Patagonia | General | Nacional |
-| 563 | 🇨🇱 | ITV Patagonia | General | Nacional |
-| 564 | 🇨🇱 | La Chilena TV | General | Nacional |
-| 565 | 🇨🇱 | La Comarca TV | General | Nacional |
+| 560 | 🇨🇱 | ITV Patagonia | General | Nacional |  ⚠️ *(baja: duplicado — usar el canal principal)*
+| 561 | 🇨🇱 | ITV Patagonia | General | Nacional |  ⚠️ *(baja: duplicado — usar el canal principal)*
+| 562 | 🇨🇱 | ITV Patagonia | General | Nacional |  ⚠️ *(baja: duplicado — usar el canal principal)*
+| 563 | 🇨🇱 | ITV Patagonia | General | Nacional |  ⚠️ *(baja: duplicado — usar el canal principal)*
+| 564 | 🇨🇱 | La Chilena TV | General | Nacional |  ⚠️ *(baja: duplicado — usar el canal principal)*
+| 565 | 🇨🇱 | La Comarca TV | General | Nacional |  ⚠️ *(baja: duplicado — usar el canal principal)*
 | 566 | 🇨🇱 | La Metro TV | General | Nacional |
-| 567 | 🇨🇱 | La Popular TV | General | Nacional |
+| 567 | 🇨🇱 | La Popular TV | General | Nacional |  ⚠️ *(baja: duplicado — usar el canal principal)*
 | 568 | 🇨🇱 | La Red HD (Nacional) | General | Nacional |
 | 569 | 🇨🇱 | La Tercera TV | General | Nacional |
-| 570 | 🇨🇱 | Lila TV Pencahue | General | Nacional |
-| 571 | 🇨🇱 | Maray TV | General | Nacional |
-| 572 | 🇨🇱 | Marga Marga TV | General | Nacional |
-| 573 | 🇨🇱 | Marga Marga TV | General | Nacional |
-| 574 | 🇨🇱 | Mega | General | Nacional |
-| 575 | 🇨🇱 | Mega | General | Nacional |
-| 576 | 🇨🇱 | Mi Radio TV | General | Nacional |
+| 570 | 🇨🇱 | Lila TV Pencahue | General | Nacional |  ⚠️ *(baja: duplicado — usar el canal principal)*
+| 571 | 🇨🇱 | Maray TV | General | Nacional |  ⚠️ *(baja: duplicado — usar el canal principal)*
+| 572 | 🇨🇱 | Marga Marga TV | General | Nacional |  ⚠️ *(baja: duplicado — usar el canal principal)*
+| 573 | 🇨🇱 | Marga Marga TV | General | Nacional |  ⚠️ *(baja: duplicado — usar el canal principal)*
+| 574 | 🇨🇱 | Mega | General | Nacional |  ⚠️ *(baja: duplicado — usar el canal principal)*
+| 575 | 🇨🇱 | Mega | General | Nacional |  ⚠️ *(baja: duplicado — usar el canal principal)*
+| 576 | 🇨🇱 | Mi Radio TV | General | Nacional |  ⚠️ *(baja: duplicado — usar el canal principal)*
 | 577 | 🇨🇱 | Mundos Lacustres TV | General | Nacional |
-| 578 | 🇨🇱 | Nina TV | General | Nacional |
-| 579 | 🇨🇱 | NTV Ⓖ | General | Nacional |
+| 578 | 🇨🇱 | Nina TV | General | Nacional |  ⚠️ *(baja: duplicado — usar el canal principal)*
+| 579 | 🇨🇱 | NTV Ⓖ | General | Nacional |  ⚠️ *(baja: duplicado — usar el canal principal)*
 | 580 | 🇨🇱 | Ñuble RVT | General | Nacional |
 | 581 | 🇨🇱 | Odisea TV | General | Nacional |
 | 582 | 🇨🇱 | Oli TV (Chile) | General | Nacional |
 | 583 | 🇨🇱 | Panoramica Informativa | General | Nacional |
-| 584 | 🇨🇱 | Pichilemu TV | General | Nacional |
-| 585 | 🇨🇱 | Pichilemu TV | General | Nacional |
+| 584 | 🇨🇱 | Pichilemu TV | General | Nacional |  ⚠️ *(baja: duplicado — usar el canal principal)*
+| 585 | 🇨🇱 | Pichilemu TV | General | Nacional |  ⚠️ *(baja: duplicado — usar el canal principal)*
 | 586 | 🇨🇱 | Pingüino TV | General | Nacional |
-| 587 | 🇨🇱 | Pingüino TV | General | Nacional |
+| 587 | 🇨🇱 | Pingüino TV | General | Nacional |  ⚠️ *(baja: duplicado — usar el canal principal)*
 | 588 | 🇨🇱 | Polar TV (Chile) | General | Nacional |
 | 589 | 🇨🇱 | PRIDEtv Latam | General | Nacional |
 | 590 | 🇨🇱 | Primitivos TV | General | Nacional |
-| 591 | 🇨🇱 | Pucon TV | General | Nacional |
-| 592 | 🇨🇱 | Pucón TV | General | Nacional |
-| 593 | 🇨🇱 | Pucón TV | General | Nacional |
-| 594 | 🇨🇱 | Pucón TV | General | Nacional |
-| 595 | 🇨🇱 | Puranoticia TV | General | Nacional |
+| 591 | 🇨🇱 | Pucon TV | General | Nacional |  ⚠️ *(baja: duplicado — usar el canal principal)*
+| 592 | 🇨🇱 | Pucón TV | General | Nacional |  ⚠️ *(baja: duplicado — usar el canal principal)*
+| 593 | 🇨🇱 | Pucón TV | General | Nacional |  ⚠️ *(baja: duplicado — usar el canal principal)*
+| 594 | 🇨🇱 | Pucón TV | General | Nacional |  ⚠️ *(baja: duplicado — usar el canal principal)*
+| 595 | 🇨🇱 | Puranoticia TV | General | Nacional |  ⚠️ *(baja: duplicado — usar el canal principal)*
 | 596 | 🇨🇱 | Radio America TV | General | Nacional |
-| 597 | 🇨🇱 | Radio Ancoa TV | General | Nacional |
-| 598 | 🇨🇱 | Radio Chiloe | General | Nacional |
-| 599 | 🇨🇱 | Radio Fantasia TV | General | Nacional |
-| 600 | 🇨🇱 | Radio Frecuencia Uno | General | Nacional |
-| 601 | 🇨🇱 | Radio Nuble | General | Nacional |
+| 597 | 🇨🇱 | Radio Ancoa TV | General | Nacional |  ⚠️ *(baja: duplicado — usar el canal principal)*
+| 598 | 🇨🇱 | Radio Chiloe | General | Nacional |  ⚠️ *(baja: duplicado — usar el canal principal)*
+| 599 | 🇨🇱 | Radio Fantasia TV | General | Nacional |  ⚠️ *(baja: duplicado — usar el canal principal)*
+| 600 | 🇨🇱 | Radio Frecuencia Uno | General | Nacional |  ⚠️ *(baja: duplicado — usar el canal principal)*
+| 601 | 🇨🇱 | Radio Nuble | General | Nacional |  ⚠️ *(baja: duplicado — usar el canal principal)*
 | 602 | 🇨🇱 | Radio Panoramica | General | Nacional |
 | 603 | 🇨🇱 | Radio Popular TV | General | Nacional |
 | 604 | 🇨🇱 | Radio Rancagua FM | General | Nacional |
-| 605 | 🇨🇱 | Radio Ritmo FM | General | Nacional |
-| 606 | 🇨🇱 | Radio UNIACC | General | Nacional |
+| 605 | 🇨🇱 | Radio Ritmo FM | General | Nacional |  ⚠️ *(baja: duplicado — usar el canal principal)*
+| 606 | 🇨🇱 | Radio UNIACC | General | Nacional |  ⚠️ *(baja: duplicado — usar el canal principal)*
 | 607 | 🇨🇱 | Radio USACH | General | Nacional |
-| 608 | 🇨🇱 | Radio Via Libre | General | Nacional |
-| 609 | 🇨🇱 | Radio Vida Curico | General | Nacional |
+| 608 | 🇨🇱 | Radio Via Libre | General | Nacional |  ⚠️ *(baja: duplicado — usar el canal principal)*
+| 609 | 🇨🇱 | Radio Vida Curico | General | Nacional |  ⚠️ *(baja: duplicado — usar el canal principal)*
 | 610 | 🇨🇱 | Raices Arabes TV | General | Nacional |
 | 611 | 🇨🇱 | Rial TV | General | Nacional |
 | 612 | 🇨🇱 | RLOTV | General | Nacional |
 | 613 | 🇨🇱 | Rocco TV | General | Nacional |
-| 614 | 🇨🇱 | RTC Television | General | Nacional |
+| 614 | 🇨🇱 | RTC Television | General | Nacional |  ⚠️ *(baja: duplicado — usar el canal principal)*
 | 615 | 🇨🇱 | RTV Nuble | General | Nacional |
-| 616 | 🇨🇱 | San Nicolas TV | General | Nacional |
+| 616 | 🇨🇱 | San Nicolas TV | General | Nacional |  ⚠️ *(baja: duplicado — usar el canal principal)*
 | 617 | 🇨🇱 | Santa Maria Television | General | Nacional |
-| 618 | 🇨🇱 | Sextavision | General | Nacional |
-| 619 | 🇨🇱 | Sextavision | General | Nacional |
-| 620 | 🇨🇱 | Sextavision | General | Nacional |
+| 618 | 🇨🇱 | Sextavision | General | Nacional |  ⚠️ *(baja: duplicado — usar el canal principal)*
+| 619 | 🇨🇱 | Sextavision | General | Nacional |  ⚠️ *(baja: duplicado — usar el canal principal)*
+| 620 | 🇨🇱 | Sextavision | General | Nacional |  ⚠️ *(baja: duplicado — usar el canal principal)*
 | 621 | 🇨🇱 | Solo TV | General | Nacional |
-| 622 | 🇨🇱 | SoloTV | General | Nacional |
+| 622 | 🇨🇱 | SoloTV | General | Nacional |  ⚠️ *(baja: duplicado — usar el canal principal)*
 | 623 | 🇨🇱 | SUR TV | General | Nacional |
 | 624 | 🇨🇱 | Surena TV | General | Nacional |
-| 625 | 🇨🇱 | T-Vinet | General | Nacional |
+| 625 | 🇨🇱 | T-Vinet | General | Nacional |  ⚠️ *(baja: duplicado — usar el canal principal)*
 | 626 | 🇨🇱 | T-Vinet Digital | General | Nacional |
-| 627 | 🇨🇱 | T-Vinet Digital | General | Nacional |
-| 628 | 🇨🇱 | T13 en vivo | General | Nacional |
+| 627 | 🇨🇱 | T-Vinet Digital | General | Nacional |  ⚠️ *(baja: duplicado — usar el canal principal)*
+| 628 | 🇨🇱 | T13 en vivo | General | Nacional |  ⚠️ *(baja: duplicado — usar el canal principal)*
 | 629 | 🇺🇸 | TCM Latin America Chile | General | Nacional |
 | 630 | 🇨🇱 | Teleangol | General | Nacional |
-| 631 | 🇨🇱 | TeleAngol | General | Nacional |
-| 632 | 🇨🇱 | TeleAngol | General | Nacional |
-| 633 | 🇨🇱 | Tendencias Prime | General | Nacional |
-| 634 | 🇨🇱 | Tevex | General | Nacional |
+| 631 | 🇨🇱 | TeleAngol | General | Nacional |  ⚠️ *(baja: duplicado — usar el canal principal)*
+| 632 | 🇨🇱 | TeleAngol | General | Nacional |  ⚠️ *(baja: duplicado — usar el canal principal)*
+| 633 | 🇨🇱 | Tendencias Prime | General | Nacional |  ⚠️ *(baja: duplicado — usar el canal principal)*
+| 634 | 🇨🇱 | Tevex | General | Nacional |  ⚠️ *(baja: duplicado — usar el canal principal)*
 | 635 | 🇨🇱 | Tevex TV HD (Santiago / Nacional) | General | Nacional |
 | 636 | 🇨🇱 | Thema Television | General | Nacional |
 | 637 | 🇨🇱 | Thema TV Coquimbo HD (Coquimbo)[Opc. 2] | General | Nacional |
-| 638 | 🇨🇱 | Turismo Travel TV | General | Nacional |
+| 638 | 🇨🇱 | Turismo Travel TV | General | Nacional |  ⚠️ *(baja: duplicado — usar el canal principal)*
 | 639 | 🇨🇱 | TurnoEnVivo | General | Nacional |
-| 640 | 🇨🇱 | TV Chile Ⓖ | General | Nacional |
+| 640 | 🇨🇱 | TV Chile Ⓖ | General | Nacional |  ⚠️ *(baja: duplicado — usar el canal principal)*
 | 641 | 🇨🇱 | TV Salud | General | Nacional |
 | 642 | 🇧🇷 | TV Show Fortaleza | General | Nacional |
 | 643 | 🇨🇱 | TV UCT (U. Católica de Temuco) | General | Nacional |
-| 644 | 🇨🇱 | TV UCT (U. Católica de Temuco) | General | Nacional |
-| 645 | 🇨🇱 | TV+ | General | Nacional |
+| 644 | 🇨🇱 | TV UCT (U. Católica de Temuco) | General | Nacional |  ⚠️ *(baja: duplicado — usar el canal principal)*
+| 645 | 🇨🇱 | TV+ | General | Nacional |  ⚠️ *(baja: duplicado — usar el canal principal)*
 | 646 | 🇨🇱 | TV5 Linares | General | Nacional |
-| 647 | 🇨🇱 | TV5 Linares | General | Nacional |
-| 648 | 🇨🇱 | TVN Ⓖ | General | Nacional |
+| 647 | 🇨🇱 | TV5 Linares | General | Nacional |  ⚠️ *(baja: duplicado — usar el canal principal)*
+| 648 | 🇨🇱 | TVN Ⓖ | General | Nacional |  ⚠️ *(baja: duplicado — usar el canal principal)*
 | 649 | 🇨🇱 | TVN HD (Nacional) | General | Nacional |
-| 650 | 🇨🇱 | TVO San Vicente | General | Nacional |
-| 651 | 🇨🇱 | TVO San Vicente | General | Nacional |
-| 652 | 🇨🇱 | TVO San Vicente | General | Nacional |
+| 650 | 🇨🇱 | TVO San Vicente | General | Nacional |  ⚠️ *(baja: duplicado — usar el canal principal)*
+| 651 | 🇨🇱 | TVO San Vicente | General | Nacional |  ⚠️ *(baja: duplicado — usar el canal principal)*
+| 652 | 🇨🇱 | TVO San Vicente | General | Nacional |  ⚠️ *(baja: duplicado — usar el canal principal)*
 | 653 | 🇨🇱 | TVR (Chile) | General | Nacional |
 | 654 | 🇨🇱 | TVR Television Regional | General | Nacional |
-| 655 | 🇨🇱 | TVR Television Regional | General | Nacional |
-| 656 | 🇨🇱 | TVU | General | Nacional |
-| 657 | 🇨🇱 | TVU | General | Nacional |
-| 658 | 🇨🇱 | TVU | General | Nacional |
+| 655 | 🇨🇱 | TVR Television Regional | General | Nacional |  ⚠️ *(baja: duplicado — usar el canal principal)*
+| 656 | 🇨🇱 | TVU | General | Nacional |  ⚠️ *(baja: duplicado — usar el canal principal)*
+| 657 | 🇨🇱 | TVU | General | Nacional |  ⚠️ *(baja: duplicado — usar el canal principal)*
+| 658 | 🇨🇱 | TVU | General | Nacional |  ⚠️ *(baja: duplicado — usar el canal principal)*
 | 659 | 🇨🇱 | U de Chile TV | General | Nacional |
-| 660 | 🇨🇱 | U de Chile TV | General | Nacional |
+| 660 | 🇨🇱 | U de Chile TV | General | Nacional |  ⚠️ *(baja: duplicado — usar el canal principal)*
 | 661 | 🇨🇱 | U Los Lagos TV HD (Osorno - Los Lagos) | General | Nacional |
 | 662 | 🇨🇱 | UA TV (U. Autonoma) | General | Nacional |
-| 663 | 🇨🇱 | UA TV (U. Autonoma) | General | Nacional |
+| 663 | 🇨🇱 | UA TV (U. Autonoma) | General | Nacional |  ⚠️ *(baja: duplicado — usar el canal principal)*
 | 664 | 🇨🇱 | UATV | General | Nacional |
 | 665 | 🇨🇱 | UChile TV | General | Nacional |
 | 666 | 🇨🇱 | UCV Televisión | General | Nacional |
 | 667 | 🇨🇱 | UCV TV | General | Nacional |
 | 668 | 🇨🇱 | UCV TV Eventos | General | Nacional |
-| 669 | 🇨🇱 | UCV TV Eventos | General | Nacional |
-| 670 | 🇨🇱 | Uniregion TV | General | Nacional |
+| 669 | 🇨🇱 | UCV TV Eventos | General | Nacional |  ⚠️ *(baja: duplicado — usar el canal principal)*
+| 670 | 🇨🇱 | Uniregion TV | General | Nacional |  ⚠️ *(baja: duplicado — usar el canal principal)*
 | 671 | 🇨🇱 | UTalcaTV (U. de Talca) - Campus TV | General | Nacional |
 | 672 | 🇨🇱 | UTV (Chile) | General | Nacional |
 | 673 | 🇨🇱 | Vision Plus TV (1080i) | General | Nacional |
 | 674 | 🇨🇱 | Vision Plus TV Melipilla | General | Nacional |
-| 675 | 🇨🇱 | Vision Plus TV Melipilla | General | Nacional |
+| 675 | 🇨🇱 | Vision Plus TV Melipilla | General | Nacional |  ⚠️ *(baja: duplicado — usar el canal principal)*
 | 676 | 🇨🇱 | Voces del Fuego | General | Nacional |
-| 677 | 🇨🇱 | VTV | General | Nacional |
-| 678 | 🇨🇱 | VTV | General | Nacional |
-| 679 | 🇨🇱 | VTV Quillota | General | Nacional |
-| 680 | 🇨🇱 | VTV Quillota | General | Nacional |
+| 677 | 🇨🇱 | VTV | General | Nacional |  ⚠️ *(baja: duplicado — usar el canal principal)*
+| 678 | 🇨🇱 | VTV | General | Nacional |  ⚠️ *(baja: duplicado — usar el canal principal)*
+| 679 | 🇨🇱 | VTV Quillota | General | Nacional |  ⚠️ *(baja: duplicado — usar el canal principal)*
+| 680 | 🇨🇱 | VTV Quillota | General | Nacional |  ⚠️ *(baja: duplicado — usar el canal principal)*
 | 681 | 🇨🇱 | VTV Valle de Aconcagua | General | Nacional |
 | 682 | 🇨🇱 | Zoom Tecnologico Plus | General | Nacional |
-| 683 | 🇨🇱 | Contivisión | Biobío | Nacional |
+| 683 | 🇨🇱 | Contivisión | Biobío | Nacional |  ⚠️ *(baja: duplicado — usar el canal principal)*
 | 684 | 🇪🇸 | 101tv Malaga | Noticias | ES |
-| 685 | 🇪🇸 | 24 Horas | Noticias | ES |
+| 685 | 🇪🇸 | 24 Horas | Noticias | ES |  ⚠️ *(baja: duplicado — usar el canal principal)*
 | 686 | 🇪🇸 | 24 Horas Catalunya | Noticias | ES |
 | 687 | 🇦🇷 | 24/7 Canal de Noticias | Noticias | AR |
 | 688 | 🇵🇾 | 4Dmas Noticias TV | Noticias | PY |
@@ -743,7 +743,7 @@ Cada canal lleva su número en `tvg-chno` dentro de `playlists/tv-chile-todo.m3u
 | 720 | 🇪🇸 | DW Español (Alemania / Internacional) | Noticias | ES |
 | 721 | 🇪🇨 | Ecotel TV | Noticias | EC |
 | 722 | 🇪🇨 | Ecuavisa | Noticias | EC |
-| 723 | 🇪🇨 | Ecuavisa | Noticias | EC |
+| 723 | 🇪🇨 | Ecuavisa | Noticias | EC |  ⚠️ *(baja: duplicado — usar el canal principal)*
 | 724 | 🇩🇴 | El Nuevo Diario TV | Noticias | DO |
 | 725 | 🇹🇳 | Elyssa TV | Noticias | TN |
 | 726 | 🇪🇸 | English TV (USA / Internacional) | Noticias | ES |
@@ -781,9 +781,9 @@ Cada canal lleva su número en `tvg-chno` dentro de `playlists/tv-chile-todo.m3u
 | 758 | 🇪🇸 | N+ Monterrey (Nuevo León) | Noticias | ES |
 | 759 | 🇵🇾 | Nanduti | Noticias | PY |
 | 760 | 🇦🇷 | Net TV | Noticias | AR |
-| 761 | 🇦🇷 | Net TV | Noticias | AR |
-| 762 | 🇦🇷 | Net TV | Noticias | AR |
-| 763 | 🇦🇷 | Net TV | Noticias | AR |
+| 761 | 🇦🇷 | Net TV | Noticias | AR |  ⚠️ *(baja: duplicado — usar el canal principal)*
+| 762 | 🇦🇷 | Net TV | Noticias | AR |  ⚠️ *(baja: duplicado — usar el canal principal)*
+| 763 | 🇦🇷 | Net TV | Noticias | AR |  ⚠️ *(baja: duplicado — usar el canal principal)*
 | 764 | 🇺🇸 | News of the World | Noticias | US |
 | 765 | 🇺🇸 | News of the World Spanish | Noticias | US |
 | 766 | 🇺🇸 | Newsmax Spanish | Noticias | US |
@@ -809,7 +809,7 @@ Cada canal lleva su número en `tvg-chno` dentro de `playlists/tv-chile-todo.m3u
 | 786 | 🇪🇸 | RPP TV (Perú - Nacional) | Noticias | ES |
 | 787 | 🇵🇪 | RSelvaTV | Noticias | PE |
 | 788 | 🇪🇸 | RT Noticias | Noticias | ES |
-| 789 | 🇪🇸 | RT Noticias | Noticias | ES |
+| 789 | 🇪🇸 | RT Noticias | Noticias | ES |  ⚠️ *(baja: duplicado — usar el canal principal)*
 | 790 | 🇪🇸 | San Luis + (San Luis) | Noticias | ES |
 | 791 | 🇺🇸 | SC Currents | Noticias | US |
 | 792 | 🇵🇾 | Suceso TV | Noticias | PY |
@@ -938,8 +938,8 @@ Cada canal lleva su número en `tvg-chno` dentro de `playlists/tv-chile-todo.m3u
 | 915 | 🇺🇸 | Comedy Central South Park LatAm | Animación | US |
 | 916 | 🇺🇸 | Detective Conan | Animación | US |
 | 917 | 🇵🇦 | Dreiko TV | Animación | PA |
-| 918 | 🇨🇱 | EnerGeek | Animación | CL |
-| 919 | 🇨🇱 | EnerGeek FAN | Animación | CL |
+| 918 | 🇨🇱 | EnerGeek | Animación | CL |  ⚠️ *(baja: duplicado — usar el canal principal)*
+| 919 | 🇨🇱 | EnerGeek FAN | Animación | CL |  ⚠️ *(baja: duplicado — usar el canal principal)*
 | 920 | 🇻🇪 | eSports Max TV | Animación | VE |
 | 921 | 🇨🇷 | Extrema Kids TV | Animación | CR |
 | 922 | 🇲🇽 | GikTVMX | Animación | MX |
@@ -1029,8 +1029,8 @@ Cada canal lleva su número en `tvg-chno` dentro de `playlists/tv-chile-todo.m3u
 | 1006 | 🇵🇾 | E40 | Música | PY |
 | 1007 | 🇪🇨 | EcuaMundo Radio TV | Música | EC |
 | 1008 | 🇪🇨 | El Sol Network TV | Música | EC |
-| 1009 | 🇨🇱 | EnerGeek Radio | Música | CL |
-| 1010 | 🇲🇽 | Eternal Metal | Música | MX |
+| 1009 | 🇨🇱 | EnerGeek Radio | Música | CL |  ⚠️ *(baja: duplicado — usar el canal principal)*
+| 1010 | 🇲🇽 | Eternal Metal | Música | MX |  ⚠️ *(baja: duplicado — usar el canal principal)*
 | 1011 | 🇵🇦 | Fabulosa Estereo 100.5 FM | Música | PA |
 | 1012 | 🇵🇾 | Farra Play | Música | PY |
 | 1013 | 🇨🇴 | Fiesta TV | Música | CO |
@@ -1080,7 +1080,7 @@ Cada canal lleva su número en `tvg-chno` dentro de `playlists/tv-chile-todo.m3u
 | 1057 | 🇵🇪 | Millenium 109 FM | Música | PE |
 | 1058 | 🇪🇸 | Molahits TV (España) | Música | ES |
 | 1059 | 🇩🇴 | Montones TV | Música | DO |
-| 1060 | 🇪🇸 | Mundo de la Música TV | Música | ES |
+| 1060 | 🇪🇸 | Mundo de la Música TV | Música | ES |  ⚠️ *(baja: duplicado — usar el canal principal)*
 | 1061 | 🇪🇸 | Music TV Granada | Música | ES |
 | 1062 | 🇦🇷 | MusicTop | Música | AR |
 | 1063 | 🇵🇾 | Nande Portetepe TV | Música | PY |
@@ -1300,7 +1300,7 @@ Cada canal lleva su número en `tvg-chno` dentro de `playlists/tv-chile-todo.m3u
 | 1277 | 🇬🇹 | Peniel K&Y | Religioso | GT |
 | 1278 | 🇬🇹 | Peniel Musical | Religioso | GT |
 | 1279 | 🇬🇹 | Peniel TV Biblia Abierta | Religioso | GT |
-| 1280 | 🇬🇹 | Plenitud TV | Religioso | GT |
+| 1280 | 🇬🇹 | Plenitud TV | Religioso | GT |  ⚠️ *(baja: duplicado — usar el canal principal)*
 | 1281 | 🇬🇹 | Presencia Television | Religioso | GT |
 | 1282 | 🇻🇪 | Proclamacion TV | Religioso | VE |
 | 1283 | 🇭🇳 | Radio Fiesta de Milagros TV | Religioso | HN |
@@ -1391,7 +1391,7 @@ Cada canal lleva su número en `tvg-chno` dentro de `playlists/tv-chile-todo.m3u
 | 1368 | 🇦🇷 | Senal U | Cultura | AR |
 | 1369 | 🇻🇪 | ShowVen TV | Cultura | VE |
 | 1370 | 🇦🇷 | Somos Entre Rios | Cultura | AR |
-| 1371 | 🇨🇱 | Suyai TV | Cultura | CL |
+| 1371 | 🇨🇱 | Suyai TV | Cultura | CL |  ⚠️ *(baja: duplicado — usar el canal principal)*
 | 1372 | 🇲🇽 | TV Cuatro 4.2 | Cultura | MX |
 | 1373 | 🇲🇽 | UAA TV | Cultura | MX |
 | 1374 | 🇺🇾 | UCL | Cultura | UY |
@@ -1457,7 +1457,7 @@ Cada canal lleva su número en `tvg-chno` dentro de `playlists/tv-chile-todo.m3u
 | 1434 | 🇪🇸 | Corts Valencianes | Legislativo | ES |
 | 1435 | 🇺🇸 | Cruz TV | Legislativo | US |
 | 1436 | 🇧🇪 | EbS | Legislativo | BE |
-| 1437 | 🇧🇪 | EbS+ | Legislativo | BE |
+| 1437 | 🇧🇪 | EbS+ | Legislativo | BE |  ⚠️ *(baja: duplicado — usar el canal principal)*
 | 1438 | 🇲🇽 | Icrtv Colima | Legislativo | MX |
 | 1439 | 🇵🇪 | JNE TV | Legislativo | PE |
 | 1440 | 🇲🇽 | Justicia TV (Mexico) | Legislativo | MX |
@@ -1692,7 +1692,7 @@ Cada canal lleva su número en `tvg-chno` dentro de `playlists/tv-chile-todo.m3u
 | 1669 | 🇪🇸 | À Punt TV | General | ES |
 | 1670 | 🇵🇪 | A1 TV HD [No 24/7] | General | PE |
 | 1671 | 🇦🇷 | A24 | General | AR |
-| 1672 | 🇦🇷 | A24 Ⓨ | General | AR |
+| 1672 | 🇦🇷 | A24 Ⓨ | General | AR |  ⚠️ *(baja: duplicado — usar el canal principal)*
 | 1673 | 🇩🇴 | A7 TV | General | DO |
 | 1674 | 🇵🇪 | ABC Teleshow | General | PE |
 | 1675 | 🇵🇾 | ABC TV Ⓨ | General | PY |
@@ -1702,9 +1702,9 @@ Cada canal lleva su número en `tvg-chno` dentro de `playlists/tv-chile-todo.m3u
 | 1679 | 🇲🇽 | Adrenalina Pura TV | General | MX |
 | 1680 | 🇵🇾 | AGR FM TV | General | PY |
 | 1681 | 🇵🇪 | Agro TV HD [No 24/7] (Cusco) | General | PE |
-| 1682 | 🇻🇪 | Aguacate TV | General | VE |
+| 1682 | 🇻🇪 | Aguacate TV | General | VE |  ⚠️ *(baja: duplicado — usar el canal principal)*
 | 1683 | 🇪🇸 | Águila Roja | General | ES |
-| 1684 | 🇪🇸 | Águila Roja | General | ES |
+| 1684 | 🇪🇸 | Águila Roja | General | ES |  ⚠️ *(baja: duplicado — usar el canal principal)*
 | 1685 | 🇩🇴 | Aguila TV | General | DO |
 | 1686 | 🇩🇴 | Ahora TV | General | DO |
 | 1687 | 🇩🇴 | AION TV | General | DO |
@@ -1753,7 +1753,7 @@ Cada canal lleva su número en `tvg-chno` dentro de `playlists/tv-chile-todo.m3u
 | 1730 | 🇪🇸 | Arabí TV Yecla (Yecla - Murcia)[Opc.2] | General | ES |
 | 1731 | 🇪🇸 | Aragon TV Internacional | General | ES |
 | 1732 | 🇲🇽 | Archivos Extraterrestres | General | MX |
-| 1733 | 🇲🇽 | Archivos Forenses | General | MX |
+| 1733 | 🇲🇽 | Archivos Forenses | General | MX |  ⚠️ *(baja: duplicado — usar el canal principal)*
 | 1734 | 🇦🇷 | Argentina 12 Ⓨ | General | AR |
 | 1735 | 🇦🇷 | Argentinisima Satelital | General | AR |
 | 1736 | 🇦🇲 | Armenia 1 Sattelite | General | AM |
@@ -1887,7 +1887,7 @@ Cada canal lleva su número en `tvg-chno` dentro de `playlists/tv-chile-todo.m3u
 | 1864 | 🇲🇽 | Canal 30 Cintalapa | General | MX |
 | 1865 | 🇭🇳 | Canal 32 STO | General | HN |
 | 1866 | 🇪🇸 | Canal 33 Madrid | General | ES |
-| 1867 | 🇪🇸 | Canal 33 Madrid | General | ES |
+| 1867 | 🇪🇸 | Canal 33 Madrid | General | ES |  ⚠️ *(baja: duplicado — usar el canal principal)*
 | 1868 | 🇲🇽 | Canal 33 Tijuana | General | MX |
 | 1869 | 🇦🇷 | Canal 34 San Juan | General | AR |
 | 1870 | 🇵🇪 | Canal 39 TV HD (Ica) [No 24/7] | General | PE |
@@ -1970,7 +1970,7 @@ Cada canal lleva su número en `tvg-chno` dentro de `playlists/tv-chile-todo.m3u
 | 1947 | 🇩🇴 | Canal DTV | General | DO |
 | 1948 | 🇦🇷 | Canal E | General | AR |
 | 1949 | 🇪🇸 | Canal Extremadura | General | ES |
-| 1950 | 🇪🇸 | Canal Extremadura | General | ES |
+| 1950 | 🇪🇸 | Canal Extremadura | General | ES |  ⚠️ *(baja: duplicado — usar el canal principal)*
 | 1951 | 🇪🇸 | Canal Grande Television [No 24/7][Opc.2] | General | ES |
 | 1952 | 🇨🇴 | Canal Institucional [No 24/7] (Nacional) | General | CO |
 | 1953 | 🇪🇸 | Canal IPE (Peru) | General | ES |
@@ -1983,7 +1983,7 @@ Cada canal lleva su número en `tvg-chno` dentro de `playlists/tv-chile-todo.m3u
 | 1960 | 🇩🇴 | Canal Multivision | General | DO |
 | 1961 | 🇨🇴 | Canal Mundo Vision | General | CO |
 | 1962 | 🇲🇽 | Canal Once | General | MX |
-| 1963 | 🇲🇽 | Canal Once | General | MX |
+| 1963 | 🇲🇽 | Canal Once | General | MX |  ⚠️ *(baja: duplicado — usar el canal principal)*
 | 1964 | 🇪🇸 | Canal Once Del Zulia | General | ES |
 | 1965 | 🇲🇽 | Canal Once HD (IPN) (Nacional) | General | MX |
 | 1966 | 🇺🇾 | Canal Once Plus | General | UY |
@@ -1994,9 +1994,9 @@ Cada canal lleva su número en `tvg-chno` dentro de `playlists/tv-chile-todo.m3u
 | 1971 | 🇭🇳 | Canal STVE Telebásica 1 HD | General | HN |
 | 1972 | 🇪🇸 | Canal Sur 2 | General | ES |
 | 1973 | 🇪🇸 | Canal Sur Andalucia | General | ES |
-| 1974 | 🇪🇸 | Canal Sur Andalucía | General | ES |
-| 1975 | 🇪🇸 | Canal Sur Andalucía | General | ES |
-| 1976 | 🇨🇴 | Canal TRO | General | CO |
+| 1974 | 🇪🇸 | Canal Sur Andalucía | General | ES |  ⚠️ *(baja: duplicado — usar el canal principal)*
+| 1975 | 🇪🇸 | Canal Sur Andalucía | General | ES |  ⚠️ *(baja: duplicado — usar el canal principal)*
+| 1976 | 🇨🇴 | Canal TRO | General | CO |  ⚠️ *(baja: duplicado — usar el canal principal)*
 | 1977 | 🇸🇻 | Canal TRV | General | SV |
 | 1978 | 🇨🇴 | Canal TV3 | General | CO |
 | 1979 | 🇬🇹 | Canal TVQ LIVE HD | General | GT |
@@ -2032,7 +2032,7 @@ Cada canal lleva su número en `tvg-chno` dentro de `playlists/tv-chile-todo.m3u
 | 2009 | 🇦🇷 | Celta TV | General | AR |
 | 2010 | 🇩🇴 | Cenovision HD | General | DO |
 | 2011 | 🇺🇸 | Cerritos TV3 | General | US |
-| 2012 | 🇨🇳 | CGTN Spanish | General | CN |
+| 2012 | 🇨🇳 | CGTN Spanish | General | CN |  ⚠️ *(baja: duplicado — usar el canal principal)*
 | 2013 | 🇵🇪 | Charapa TV | General | PE |
 | 2014 | 🇪🇸 | Cherif | General | ES |
 | 2015 | 🇪🇸 | Chicas Guapas TV | General | ES |
@@ -2052,7 +2052,7 @@ Cada canal lleva su número en `tvg-chno` dentro de `playlists/tv-chile-todo.m3u
 | 2029 | 🇦🇷 | Ciudad Magazine HD (WEB) [No 24/7] | General | AR |
 | 2030 | 🇦🇷 | Ciudad TV Resistencia | General | AR |
 | 2031 | 🇪🇸 | Ciudadanos por el mundo | General | ES |
-| 2032 | 🇪🇸 | clan | General | ES |
+| 2032 | 🇪🇸 | clan | General | ES |  ⚠️ *(baja: duplicado — usar el canal principal)*
 | 2033 | 🇩🇴 | Claro Television Dominicana | General | DO |
 | 2034 | 🇲🇽 | Clic TV HD (TV Azteca) (Nacional) | General | MX |
 | 2035 | 🇪🇸 | CMM TV HD | General | ES |
@@ -2082,7 +2082,7 @@ Cada canal lleva su número en `tvg-chno` dentro de `playlists/tv-chile-todo.m3u
 | 2059 | 🇧🇴 | Coral TV | General | BO |
 | 2060 | 🇦🇷 | Correa Radiovision | General | AR |
 | 2061 | 🇦🇷 | Corrientes TV | General | AR |
-| 2062 | 🇲🇽 | Cosmos TV | General | MX |
+| 2062 | 🇲🇽 | Cosmos TV | General | MX |  ⚠️ *(baja: duplicado — usar el canal principal)*
 | 2063 | 🇨🇴 | Cosmovision | General | CO |
 | 2064 | 🇪🇸 | Costa Noroeste TV | General | ES |
 | 2065 | 🇨🇷 | Coto Brus TV | General | CR |
@@ -2121,7 +2121,7 @@ Cada canal lleva su número en `tvg-chno` dentro de `playlists/tv-chile-todo.m3u
 | 2098 | 🇩🇴 | Digital 15 | General | DO |
 | 2099 | 🇩🇴 | Digital Vision 63 | General | DO |
 | 2100 | 🇪🇸 | Distrito TV | General | ES |
-| 2101 | 🇪🇸 | Distrito TV | General | ES |
+| 2101 | 🇪🇸 | Distrito TV | General | ES |  ⚠️ *(baja: duplicado — usar el canal principal)*
 | 2102 | 🇪🇸 | Divinity Ⓖ | General | ES |
 | 2103 | 🇧🇴 | Dmoda Channel | General | BO |
 | 2104 | 🇵🇪 | Doble C Television | General | PE |
@@ -2173,7 +2173,7 @@ Cada canal lleva su número en `tvg-chno` dentro de `playlists/tv-chile-todo.m3u
 | 2150 | 🇪🇸 | Érase una vez... | General | ES |
 | 2151 | 🇪🇸 | Esport3 Ⓖ | General | ES |
 | 2152 | 🇪🇸 | Estepona Television | General | ES |
-| 2153 | 🇲🇽 | Estrella TV | General | MX |
+| 2153 | 🇲🇽 | Estrella TV | General | MX |  ⚠️ *(baja: duplicado — usar el canal principal)*
 | 2154 | 🇲🇽 | Estrella TV Games HD (Nacional) | General | MX |
 | 2155 | 🇪🇸 | EsTuTele | General | ES |
 | 2156 | 🇪🇸 | ETB 1 (País Vasco) | General | ES |
@@ -2185,7 +2185,7 @@ Cada canal lleva su número en `tvg-chno` dentro de `playlists/tv-chile-todo.m3u
 | 2162 | 🇪🇸 | ETB2 | General | ES |
 | 2163 | 🇪🇸 | ETB2 ON (País Vasco) | General | ES |
 | 2164 | 🇪🇸 | euronews | General | ES |
-| 2165 | 🇫🇷 | Euronews Spanish | General | FR |
+| 2165 | 🇫🇷 | Euronews Spanish | General | FR |  ⚠️ *(baja: duplicado — usar el canal principal)*
 | 2166 | 🇵🇪 | Evolucion TV | General | PE |
 | 2167 | 🇲🇽 | Expresa TV | General | MX |
 | 2168 | 🇩🇴 | Extra 86 TV | General | DO |
@@ -2299,22 +2299,22 @@ Cada canal lleva su número en `tvg-chno` dentro de `playlists/tv-chile-todo.m3u
 | 2276 | 🇰🇵 | Korean Central Television | General | KP |
 | 2277 | 🇰🇵 | Korean Central Television SD | General | KP |
 | 2278 | 🇪🇸 | La 1 | General | ES |
-| 2279 | 🇪🇸 | La 1 | General | ES |
+| 2279 | 🇪🇸 | La 1 | General | ES |  ⚠️ *(baja: duplicado — usar el canal principal)*
 | 2280 | 🇪🇸 | La 1 (Canarias) | General | ES |
 | 2281 | 🇪🇸 | La 1 (Catalunya) | General | ES |
-| 2282 | 🇪🇸 | La 1 Canarias | General | ES |
+| 2282 | 🇪🇸 | La 1 Canarias | General | ES |  ⚠️ *(baja: duplicado — usar el canal principal)*
 | 2283 | 🇪🇸 | La 1 Canarias (Canarias) | General | ES |
-| 2284 | 🇪🇸 | La 1 Catalunya | General | ES |
+| 2284 | 🇪🇸 | La 1 Catalunya | General | ES |  ⚠️ *(baja: duplicado — usar el canal principal)*
 | 2285 | 🇪🇸 | La 1 Cataluya (Cataluña) | General | ES |
 | 2286 | 🇪🇸 | La 1 de TVE (Nacional) | General | ES |
 | 2287 | 🇪🇸 | La 1 de TVE (Nacional)[Opc.2] | General | ES |
 | 2288 | 🇪🇸 | La 2 | General | ES |
-| 2289 | 🇪🇸 | La 2 | General | ES |
+| 2289 | 🇪🇸 | La 2 | General | ES |  ⚠️ *(baja: duplicado — usar el canal principal)*
 | 2290 | 🇪🇸 | La 2 (Catalunya) | General | ES |
 | 2291 | 🇪🇸 | La 2 (Nacional)[Opc.2] | General | ES |
 | 2292 | 🇪🇸 | La 2 Canarias | General | ES |
 | 2293 | 🇪🇸 | La 2 Canarias (Canarias) | General | ES |
-| 2294 | 🇪🇸 | La 2 Catalunya | General | ES |
+| 2294 | 🇪🇸 | La 2 Catalunya | General | ES |  ⚠️ *(baja: duplicado — usar el canal principal)*
 | 2295 | 🇪🇸 | La 2 Catalunya (Cataluña) | General | ES |
 | 2296 | 🇪🇸 | La 8 Mediterraneo | General | ES |
 | 2297 | 🇪🇸 | La Abeja Maya (ES) | General | ES |
@@ -2335,7 +2335,7 @@ Cada canal lleva su número en `tvg-chno` dentro de `playlists/tv-chile-todo.m3u
 | 2312 | 🇩🇴 | Larivision TV | General | DO |
 | 2313 | 🇪🇸 | Las 3 Mellizas (ES) | General | ES |
 | 2314 | 🇲🇽 | Las Estrellas | General | MX |
-| 2315 | 🇩🇪 | Las Tortugas Ninja | General | DE |
+| 2315 | 🇩🇪 | Las Tortugas Ninja | General | DE |  ⚠️ *(baja: duplicado — usar el canal principal)*
 | 2316 | 🇵🇾 | Latele | General | PY |
 | 2317 | 🇵🇾 | Latele SD [Opc.2] | General | PY |
 | 2318 | 🇵🇪 | Latina | General | PE |
@@ -2416,8 +2416,8 @@ Cada canal lleva su número en `tvg-chno` dentro de `playlists/tv-chile-todo.m3u
 | 2393 | 🇵🇪 | Miel TV HD (Satipo) | General | PE |
 | 2394 | 🇪🇸 | Mijas 3.40TV | General | ES |
 | 2395 | 🇵🇪 | Milenial TV | General | PE |
-| 2396 | 🇲🇽 | Milenio Television | General | MX |
-| 2397 | 🇪🇸 | Mírame TV | General | ES |
+| 2396 | 🇲🇽 | Milenio Television | General | MX |  ⚠️ *(baja: duplicado — usar el canal principal)*
+| 2397 | 🇪🇸 | Mírame TV | General | ES |  ⚠️ *(baja: duplicado — usar el canal principal)*
 | 2398 | 🇦🇷 | Misiones Cuatro | General | AR |
 | 2399 | 🇪🇸 | Mix Bolivia HD [No 24.7][Opc.3] | General | ES |
 | 2400 | 🇪🇸 | Mix Bolivia SD [No 24.7][Opc.2] | General | ES |
@@ -2455,14 +2455,14 @@ Cada canal lleva su número en `tvg-chno` dentro de `playlists/tv-chile-todo.m3u
 | 2432 | 🇵🇪 | Nativa TV HD (Santiago) | General | PE |
 | 2433 | 🇵🇪 | Nativa TV HD (Santiago) [Opc.2] | General | PE |
 | 2434 | 🇵🇪 | Nativa TV Satipo | General | PE |
-| 2435 | 🇵🇪 | Nativa TV Satipo | General | PE |
+| 2435 | 🇵🇪 | Nativa TV Satipo | General | PE |  ⚠️ *(baja: duplicado — usar el canal principal)*
 | 2436 | 🇨🇦 | Nature Time | General | CA |
 | 2437 | 🇩🇴 | Navarrete Television | General | DO |
 | 2438 | 🇲🇽 | Nayarit Comunica | General | MX |
 | 2439 | 🇹🇭 | NBT World | General | TH |
 | 2440 | 🇦🇷 | Neo TV (Argentina) | General | AR |
 | 2441 | 🇦🇷 | Neox TV | General | AR |
-| 2442 | 🇲🇽 | Net TV | General | MX |
+| 2442 | 🇲🇽 | Net TV | General | MX |  ⚠️ *(baja: duplicado — usar el canal principal)*
 | 2443 | 🇵🇦 | Nex TV Canal 21 | General | PA |
 | 2444 | 🇨🇴 | Nexo TV | General | CO |
 | 2445 | 🇵🇾 | Next HD [No 24/7] | General | PY |
@@ -2484,7 +2484,7 @@ Cada canal lleva su número en `tvg-chno` dentro de `playlists/tv-chile-todo.m3u
 | 2461 | 🇵🇪 | Once TV Digital [Opc.2] | General | PE |
 | 2462 | 🇪🇸 | Onda Algeciras | General | ES |
 | 2463 | 🇪🇸 | Onda Cadiz | General | ES |
-| 2464 | 🇪🇸 | Onda Cádiz | General | ES |
+| 2464 | 🇪🇸 | Onda Cádiz | General | ES |  ⚠️ *(baja: duplicado — usar el canal principal)*
 | 2465 | 🇵🇪 | ONDA DIGITAL | General | PE |
 | 2466 | 🇵🇪 | Onda Digital 2 HD (Lima / Nacional) | General | PE |
 | 2467 | 🇵🇪 | Onda Digital 3 HD [No 24/7](Lima / Nacional) | General | PE |
@@ -2584,7 +2584,7 @@ Cada canal lleva su número en `tvg-chno` dentro de `playlists/tv-chile-todo.m3u
 | 2561 | 🇲🇽 | Quiero TV | General | MX |
 | 2562 | 🇩🇴 | R Television | General | DO |
 | 2563 | 🇪🇸 | Rabbids: La invasión (ES) | General | ES |
-| 2564 | 🇪🇸 | Radio 3 | General | ES |
+| 2564 | 🇪🇸 | Radio 3 | General | ES |  ⚠️ *(baja: duplicado — usar el canal principal)*
 | 2565 | 🇪🇸 | Ràdio 4 | General | ES |
 | 2566 | 🇪🇸 | Radio 5 | General | ES |
 | 2567 | 🇪🇸 | Radio Calima TV | General | ES |
@@ -2640,7 +2640,7 @@ Cada canal lleva su número en `tvg-chno` dentro de `playlists/tv-chile-todo.m3u
 | 2617 | 🇵🇾 | RIO TV | General | PY |
 | 2618 | 🇵🇪 | RN Television | General | PE |
 | 2619 | 🇪🇸 | RNE para todos | General | ES |
-| 2620 | 🇪🇸 | RNE para todos | General | ES |
+| 2620 | 🇪🇸 | RNE para todos | General | ES |  ⚠️ *(baja: duplicado — usar el canal principal)*
 | 2621 | 🇩🇴 | Rocavision TV | General | DO |
 | 2622 | 🇩🇴 | Romana TV Canal 42 | General | DO |
 | 2623 | 🇪🇸 | Romance | General | ES |
@@ -2720,7 +2720,7 @@ Cada canal lleva su número en `tvg-chno` dentro de `playlists/tv-chile-todo.m3u
 | 2697 | 🇦🇷 | Space South | General | AR |
 | 2698 | 🇲🇽 | Spark TV Luz & Amor | General | MX |
 | 2699 | 🇧🇴 | SPC Canal 15 | General | BO |
-| 2700 | 🇪🇸 | SPC Canal 15 | General | ES |
+| 2700 | 🇪🇸 | SPC Canal 15 | General | ES |  ⚠️ *(baja: duplicado — usar el canal principal)*
 | 2701 | 🇲🇽 | SQCS Canal 4 | General | MX |
 | 2702 | 🇪🇸 | Squirrel | General | ES |
 | 2703 | 🇩🇪 | Star Trek: Voyager | General | DE |
@@ -2740,7 +2740,7 @@ Cada canal lleva su número en `tvg-chno` dentro de `playlists/tv-chile-todo.m3u
 | 2717 | 🇲🇽 | Super9 TV | General | MX |
 | 2718 | 🇪🇸 | SuperToons TV (ES) | General | ES |
 | 2719 | 🇩🇴 | Supremateve | General | DO |
-| 2720 | 🇩🇴 | Sur TV | General | DO |
+| 2720 | 🇩🇴 | Sur TV | General | DO |  ⚠️ *(baja: duplicado — usar el canal principal)*
 | 2721 | 🇨🇴 | Suram TV | General | CO |
 | 2722 | 🇸🇻 | SV+ SD | General | SV |
 | 2723 | 🇪🇸 | SX3 Ⓖ | General | ES |
@@ -2750,7 +2750,7 @@ Cada canal lleva su número en `tvg-chno` dentro de `playlists/tv-chile-todo.m3u
 | 2727 | 🇺🇸 | TBS West | General | US |
 | 2728 | 🇸🇻 | TCS+ | General | SV |
 | 2729 | 🇩🇴 | TDN Medios | General | DO |
-| 2730 | 🇪🇸 | tdp | General | ES |
+| 2730 | 🇪🇸 | tdp | General | ES |  ⚠️ *(baja: duplicado — usar el canal principal)*
 | 2731 | 🇧🇴 | TDT Multimedia | General | BO |
 | 2732 | 🇨🇷 | TDtv | General | CR |
 | 2733 | 🇦🇷 | Tec TV | General | AR |
@@ -2789,7 +2789,7 @@ Cada canal lleva su número en `tvg-chno` dentro de `playlists/tv-chile-todo.m3u
 | 2766 | 🇻🇪 | Telecentro (Venezuela) | General | VE |
 | 2767 | 🇩🇴 | TeleCibaoHD | General | DO |
 | 2768 | 🇦🇷 | Telecinco | General | AR |
-| 2769 | 🇪🇸 | Telecinco | General | ES |
+| 2769 | 🇪🇸 | Telecinco | General | ES |  ⚠️ *(baja: duplicado — usar el canal principal)*
 | 2770 | 🇪🇸 | Telecolor [No 24/7] | General | ES |
 | 2771 | 🇵🇪 | Telecolor Yurimaguas | General | PE |
 | 2772 | 🇩🇴 | Telecomercio TV | General | DO |
@@ -2808,7 +2808,7 @@ Cada canal lleva su número en `tvg-chno` dentro de `playlists/tv-chile-todo.m3u
 | 2785 | 🇲🇽 | TeleFormula | General | MX |
 | 2786 | 🇵🇾 | Telefuturo (Paraguay) | General | PY |
 | 2787 | 🇵🇾 | Telefuturo Paraguay HD | General | PY |
-| 2788 | 🇵🇾 | Telefuturo Paraguay HD | General | PY |
+| 2788 | 🇵🇾 | Telefuturo Paraguay HD | General | PY |  ⚠️ *(baja: duplicado — usar el canal principal)*
 | 2789 | 🇪🇸 | Teleganes | General | ES |
 | 2790 | 🇪🇸 | TeleGranada | General | ES |
 | 2791 | 🇩🇴 | Teleimpacto | General | DO |
@@ -2816,7 +2816,7 @@ Cada canal lleva su número en `tvg-chno` dentro de `playlists/tv-chile-todo.m3u
 | 2793 | 🇪🇸 | Telemadrid | General | ES |
 | 2794 | 🇪🇸 | Telemadrid HD | General | ES |
 | 2795 | 🇪🇨 | Telemar | General | EC |
-| 2796 | 🇭🇳 | Telemas | General | HN |
+| 2796 | 🇭🇳 | Telemas | General | HN |  ⚠️ *(baja: duplicado — usar el canal principal)*
 | 2797 | 🇦🇷 | Telemax (Argentina) | General | AR |
 | 2798 | 🇬🇹 | Telemax (Guatemala) | General | GT |
 | 2799 | 🇲🇽 | Telemax (Mexico) XEWH-TDT | General | MX |
@@ -2830,7 +2830,7 @@ Cada canal lleva su número en `tvg-chno` dentro de `playlists/tv-chile-todo.m3u
 | 2807 | 🇪🇸 | Telemundo Acción | General | ES |
 | 2808 | 🇺🇸 | Telemundo Al Dia | General | US |
 | 2809 | 🇲🇽 | Telemundo Noticias Ahora | General | MX |
-| 2810 | 🇪🇸 | Telemundo Noticias Ahora | General | ES |
+| 2810 | 🇪🇸 | Telemundo Noticias Ahora | General | ES |  ⚠️ *(baja: duplicado — usar el canal principal)*
 | 2811 | 🇪🇸 | Telemundo Noticias Al dia | General | ES |
 | 2812 | 🇪🇸 | Telemundo Noticias California [Opc.1] | General | ES |
 | 2813 | 🇪🇸 | Telemundo Noticias California [Opc.2] | General | ES |
@@ -2880,7 +2880,7 @@ Cada canal lleva su número en `tvg-chno` dentro de `playlists/tv-chile-todo.m3u
 | 2857 | 🇪🇸 | Television Aranda | General | ES |
 | 2858 | 🇪🇸 | Television Canaria | General | ES |
 | 2859 | 🇭🇳 | Television Comayagua Canal 40 | General | HN |
-| 2860 | 🇭🇳 | Television Comayagua Canal 40 | General | HN |
+| 2860 | 🇭🇳 | Television Comayagua Canal 40 | General | HN |  ⚠️ *(baja: duplicado — usar el canal principal)*
 | 2861 | 🇭🇳 | Television creativa | General | HN |
 | 2862 | 🇪🇸 | Television de San Vicente | General | ES |
 | 2863 | 🇭🇳 | Television Metropolis 19.1 | General | HN |
@@ -2921,7 +2921,7 @@ Cada canal lleva su número en `tvg-chno` dentro de `playlists/tv-chile-todo.m3u
 | 2898 | 🇵🇪 | Top TV (Peru) | General | PE |
 | 2899 | 🇩🇴 | Tora Canal 69 | General | DO |
 | 2900 | 🇻🇪 | Torococo TV | General | VE |
-| 2901 | 🇪🇸 | Torococo TV | General | ES |
+| 2901 | 🇪🇸 | Torococo TV | General | ES |  ⚠️ *(baja: duplicado — usar el canal principal)*
 | 2902 | 🇪🇸 | Torremolinos TV | General | ES |
 | 2903 | 🇬🇹 | Toto Visión HD [No 24/7] | General | GT |
 | 2904 | 🇧🇴 | TransMedia | General | BO |
@@ -2999,7 +2999,7 @@ Cada canal lleva su número en `tvg-chno` dentro de `playlists/tv-chile-todo.m3u
 | 2976 | 🇪🇸 | TVE Internacional Europe HD | General | ES |
 | 2977 | 🇪🇸 | TVE Internacional Europe-Asia | General | ES |
 | 2978 | 🇪🇸 | TVE Star HD | General | ES |
-| 2979 | 🇪🇸 | TVE Star HD | General | ES |
+| 2979 | 🇪🇸 | TVE Star HD | General | ES |  ⚠️ *(baja: duplicado — usar el canal principal)*
 | 2980 | 🇪🇸 | TVE Star HD (Auto) | General | ES |
 | 2981 | 🇵🇪 | TVenLinea | General | PE |
 | 2982 | 🇻🇪 | TVes | General | VE |
@@ -3077,7 +3077,7 @@ Cada canal lleva su número en `tvg-chno` dentro de `playlists/tv-chile-todo.m3u
 | 3054 | 🇺🇸 | Vision Latina Network | General | US |
 | 3055 | 🇵🇪 | Vision Sur | General | PE |
 | 3056 | 🇵🇪 | Visión Sur TV HD [No 24/7] (Arequipa) | General | PE |
-| 3057 | 🇬🇹 | Vision TV | General | GT |
+| 3057 | 🇬🇹 | Vision TV | General | GT |  ⚠️ *(baja: duplicado — usar el canal principal)*
 | 3058 | 🇳🇮 | Viva Nicaragua Canal 13 | General | NI |
 | 3059 | 🇳🇮 | Viva TV | General | NI |
 | 3060 | 🇵🇪 | Viva TV Yurimaguas | General | PE |

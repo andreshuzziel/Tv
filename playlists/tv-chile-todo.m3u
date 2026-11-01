@@ -13,19 +13,13 @@ https://redirector.dps.live/hls/13t/playlist.m3u8?PlaylistM3UCL
 https://redirector.dps.live/hls/13viajes/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="c13" tvg-name="Canal 13" tvg-chno="7" tvg-country="CL" group-title="Nacional",Canal 13
 https://redirector.dps.live/hls/13cl/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="457-canal-13" tvg-name="Canal 13" tvg-chno="8" tvg-country="CL" group-title="Nacional",Canal 13
-https://redirector.rudo.video/hls-video/ey6283je82983je9823je8jowowiekldk9838274/13popup/13popup.smil/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="chv" tvg-name="Chilevisión" tvg-chno="9" tvg-country="CL" group-title="Nacional",Chilevisión
 https://redirector.rudo.video/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/chv/chv.smil/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="1569-chv" tvg-name="CHV" tvg-chno="10" tvg-country="CL" group-title="Nacional",CHV
 https://redirector.rudo.video/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/chv/chv.smil/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="lared" tvg-name="La Red" tvg-chno="11" tvg-country="CL" group-title="Nacional",La Red
 https://alba-cl-lared-lared.stream.mediatiquestream.com/index.m3u8
-#EXTINF:-1 tvg-id="790-la-red" tvg-name="La Red" tvg-chno="12" tvg-country="CL" group-title="Nacional",La Red
-https://live.getcirca.run/3969875408/ts:abr.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="mega" tvg-name="Mega" tvg-chno="13" tvg-country="CL" group-title="Nacional",Mega
-https://unlimited2-cl-isp.dps.live/mega/mega.smil/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="455-mega" tvg-name="Mega" tvg-chno="14" tvg-country="CL" group-title="Nacional",Mega
 https://unlimited2-cl-isp.dps.live/mega/mega.smil/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="rewind" tvg-name="Rewind TV" tvg-chno="15" tvg-country="CL" group-title="Nacional",Rewind TV
 https://tls-cl.cdnz.cl/rewindtv/live/playlist.m3u8
@@ -39,22 +33,16 @@ https://redirector.rudo.video/hls-video/ey6283je82983je9823je8jowowiekldk9838274
 https://marine2.miplay.cl/tateti/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="tvn" tvg-name="TVN" tvg-chno="20" tvg-country="CL" group-title="Nacional",TVN
 https://iptv2.intersurtv.cl/TVN/index.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="452-tvn" tvg-name="TVN" tvg-chno="21" tvg-country="CL" group-title="Nacional",TVN
-https://iptv2.intersurtv.cl/TVN/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="tvn3" tvg-name="TVN 3 / NTV" tvg-chno="22" tvg-country="CL" group-title="Nacional",TVN 3 / NTV
 https://mdstrm.com/live-stream-playlist/5653641561b4eba30a7e4929.m3u8
 #EXTINF:-1 tvg-id="1437-tvn3" tvg-name="TVN3" tvg-chno="23" tvg-country="CL" group-title="Nacional",TVN3
 https://mdstrm.com/live-stream-playlist/5653641561b4eba30a7e4929.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="ucv" tvg-name="UCV TV / TV+" tvg-chno="24" tvg-country="CL" group-title="Nacional",UCV TV / TV+
 https://unlimited2-cl-isp.dps.live/ucvtv2/ucvtv2.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="13f" tvg-name="13 Festival" tvg-chno="25" tvg-country="CL" group-title="13 FAST",13 Festival
-https://origin.dpsgo.com/ssai/event/Nftd0fM2SXasfDlRphvUsg/master.m3u8
 #EXTINF:-1 tvg-id="13h" tvg-name="13 Humor" tvg-chno="26" tvg-country="CL" group-title="13 FAST",13 Humor
 https://origin.dpsgo.com/ssai/event/cKWySXKgSK-SzlJmESkOWw/master.m3u8
 #EXTINF:-1 tvg-id="13k" tvg-name="13 Kids" tvg-chno="27" tvg-country="CL" group-title="13 FAST",13 Kids
 https://origin.dpsgo.com/ssai/event/LhHrVtyeQkKZ-Ye_xEU75g/master.m3u8
-#EXTINF:-1 tvg-id="13r" tvg-name="13 Realities" tvg-chno="28" tvg-country="CL" group-title="13 FAST",13 Realities
-https://origin.dpsgo.com/ssai/event/g7_JOM0ORki9SR5RKHe-Kw/master.m3u8
 #EXTINF:-1 tvg-id="13c" tvg-name="13C" tvg-chno="29" tvg-country="CL" group-title="13 FAST",13C
 https://origin.dpsgo.com/ssai/event/GI-9cp_bT8KcerLpZwkuhw/master.m3u8
 #EXTINF:-1 tvg-id="13e" tvg-name="13E" tvg-chno="30" tvg-country="CL" group-title="13 FAST",13E
@@ -157,16 +145,8 @@ https://unlimited1-cl-isp.dps.live/supersonikatv/supersonikatv.smil/playlist.m3u
 https://stream.blserver.cl/hls/expresiontv/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="radiocontemporaneacoihueco-cl-sd" tvg-name="Radio Contemporanea Coihueco" tvg-chno="79" tvg-country="CL" group-title="General",Radio Contemporanea Coihueco
 https://tv.arkeo.cl:19360/8046/8046.m3u8
-#EXTINF:-1 tvg-id="bbtv" tvg-name="Bío Bío TV" tvg-chno="80" tvg-country="CL" group-title="Biobío",Bío Bío TV
-https://redirector.rudo.video/hls-video/339f69c6122f6d8f4574732c235f09b7683e31a5/bbtv/bbtv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="c9" tvg-name="Canal 9 Bío-Bío TV" tvg-chno="81" tvg-country="CL" group-title="Biobío",Canal 9 Bío-Bío TV
 https://unlimited6-cl.dps.live/c9/c9.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="ctv" tvg-name="Concepción TV" tvg-chno="82" tvg-country="CL" group-title="Biobío",Concepción TV
-https://stream.blserver.cl/hls/ctv/index.m3u8
-#EXTINF:-1 tvg-id="el3" tvg-name="El 3 de Conce" tvg-chno="83" tvg-country="CL" group-title="Biobío",El 3 de Conce
-https://5ff3d9babae13.streamlock.net/xedkektnqj/xedkektnqj/playlist.m3u8
-#EXTINF:-1 tvg-id="juntos" tvg-name="Juntos TV" tvg-chno="84" tvg-country="CL" group-title="Biobío",Juntos TV
-https://video.juntostvchile.cl:8879/hls/web-jntv.m3u8
 #EXTINF:-1 tvg-id="nctv" tvg-name="NCTV" tvg-chno="85" tvg-country="CL" group-title="Biobío",NCTV
 https://pantera1-100gb-cl-movistar.dps.live/nctv/nctv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="311-arica-tv" tvg-name="Arica TV" tvg-chno="86" tvg-country="CL" group-title="Regionales",Arica TV
@@ -317,8 +297,6 @@ https://oracle.streaminghd.cl/lagranjafm/lagranjafm/chunklist_w2090181849.m3u8?P
 https://oracle.streaminghd.cl/8126/8126/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="1534-la-metro" tvg-name="La Metro" tvg-chno="159" tvg-country="CL" group-title="Radio",La Metro
 https://redirector.rudo.video/hls-video/931b584451fa6dd1313ee66efbfd5802e3f3bcea/metropolitanatv/metropolitanatv.smil/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="164-nctv" tvg-name="NCTV" tvg-chno="160" tvg-country="CL" group-title="Religiosos",NCTV
-https://pantera1-100gb-cl-movistar.dps.live/nctv/nctv.smil/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="1552-nina-tv" tvg-name="Nina TV" tvg-chno="161" tvg-country="CL" group-title="Radio",Nina TV
 https://tv1.ninatv.cl/hls/stream.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="1553-providencia-television" tvg-name="Providencia Television" tvg-chno="162" tvg-country="CL" group-title="Regionales",Providencia Television
@@ -403,8 +381,6 @@ https://v1.tustreaming.cl:443/canal30loncomilla/index.m3u8?PlaylistM3UCL
 https://freya.mivideo.pro/centraltv/video.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="81-contivision" tvg-name="Contivision" tvg-chno="202" tvg-country="CL" group-title="Regionales",Contivision
 https://unlimited2-cl-isp.dps.live/cm/cm.smil/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="1432-el-centro-tv" tvg-name="El Centro TV" tvg-chno="203" tvg-country="CL" group-title="Regionales",El Centro TV
-https://v1.tustreaming.cl:443/diarioelcentrotv/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="79-en-linea-maule" tvg-name="En Linea Maule" tvg-chno="204" tvg-country="CL" group-title="Regionales",En Linea Maule
 https://v1.tustreaming.cl/enlineamauletv/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="1775-lamix-tv" tvg-name="LaMix TV" tvg-chno="205" tvg-country="CL" group-title="Regionales",LaMix TV
@@ -435,8 +411,6 @@ https://tv.arkeo.cl:1936/radiovia7tv/radiovia7tv/playlist.m3u8?PlaylistM3UCL
 https://v2.tustreaming.cl/radiovidacurico/rewind-999999.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="416-sabor-tv" tvg-name="Sabor TV" tvg-chno="218" tvg-country="CL" group-title="Radio",Sabor TV
 https://v1.tustreaming.cl/sabortv/index.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="1302-telecauquenes" tvg-name="Telecauquenes" tvg-chno="219" tvg-country="CL" group-title="Regionales",Telecauquenes
-https://live20.bozztv.com/akamaissh101/ssh101/telecauquenestv/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="80-tv-5-linares" tvg-name="TV 5 Linares" tvg-chno="220" tvg-country="CL" group-title="Regionales",TV 5 Linares
 https://v1.tustreaming.cl/tv5linares/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="55-utalcatv" tvg-name="UTalcaTV" tvg-chno="221" tvg-country="CL" group-title="Universitarios",UTalcaTV
@@ -463,8 +437,6 @@ https://live20.bozztv.com/giatvplayout7/giatv-209259/tracks-v1a1/mono.ts.m3u8?Pl
 https://live20.bozztv.com/giatvplayout7/giatv-208727/tracks-v1a1/mono.ts.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="1789-plenitud-tv-2" tvg-name="Plenitud TV 2" tvg-chno="232" tvg-country="CL" group-title="Religiosos",Plenitud TV 2
 https://live20.bozztv.com/giatvplayout7/giatv-212033/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="1493-radio-contemporanea-coihueco" tvg-name="Radio Contemporanea Coihueco" tvg-chno="233" tvg-country="CL" group-title="Radio",Radio Contemporanea Coihueco
-https://tv.arkeo.cl:19360/8046/8046.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="1757-radio-magistral-coihueco" tvg-name="Radio Magistral Coihueco" tvg-chno="234" tvg-country="CL" group-title="Radio",Radio Magistral Coihueco
 https://tv.arkeo.cl:19360/8056/8056.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="870-radio-nuble" tvg-name="Radio Ñuble" tvg-chno="235" tvg-country="CL" group-title="Radio",Radio Ñuble
@@ -495,8 +467,6 @@ https://pantera1-100gb-cl-movistar.dps.live/teleangol/teleangol.smil/playlist.m3
 https://mediacp.nnw.cl:19360/temucotelevision/temucotelevision.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="uct" tvg-name="TV UCT" tvg-chno="248" tvg-country="CL" group-title="Biobío",TV UCT
 https://unlimited1-us.dps.live/uct/uct.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="802-tv-uct" tvg-name="TV UCT" tvg-chno="249" tvg-country="CL" group-title="Universitarios",TV UCT
-https://unlimited2-cl-isp.dps.live/uct/uct.smil/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="57-ufrotv" tvg-name="UFROTV" tvg-chno="250" tvg-country="CL" group-title="Universitarios",UFROTV
 https://mdstrm.com/live-stream-playlist/580a80b827de0ae2086ea6d8.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="1383-atv-valdivia" tvg-name="ATV Valdivia" tvg-chno="251" tvg-country="CL" group-title="Regionales",ATV Valdivia
@@ -645,8 +615,6 @@ https://cl-2.backend.energeek.cl/bkp/egradioweb/index.m3u8?token=D3m0M3UCLWeb&Pl
 https://mdstrm.com/live-stream-playlist/5aaabe9e2c56420918184c6d.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="aeradiotv-cl-sd" tvg-name="AE Radio TV" tvg-chno="323" tvg-country="CL" group-title="Música",AE Radio TV
 https://tls-cl.cdnz.cl/aeradio/live/playlist.m3u8
-#EXTINF:-1 tvg-id="agricultura-tv" tvg-name="AGRICULTURA TV" tvg-chno="324" tvg-country="CL" group-title="Música",AGRICULTURA TV
-https://unlimited2-cl-isp.dps.live/921tv/921tv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="27-carolina-tv" tvg-name="Carolina TV" tvg-chno="325" tvg-country="CL" group-title="Música",Carolina TV
 https://mdstrm.com/live-stream-playlist/63a06468117f42713374addd.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="1127-carolina-tv-2" tvg-name="Carolina TV 2" tvg-chno="326" tvg-country="CL" group-title="Música",Carolina TV 2
@@ -659,12 +627,6 @@ https://5eaccbab48461.streamlock.net:1936/dancefm_1/dancefm_1/playlist.m3u8
 https://lbgo.bozztv.com/ssh101/ssh101/djlonchotv/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="324-el-galpon-80" tvg-name="El Galpon 80" tvg-chno="330" tvg-country="CL" group-title="Música",El Galpon 80
 https://fernando.tail5b5e1d.ts.net/live/index.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="energeek-radio" tvg-name="EnerGeek Radio" tvg-chno="331" tvg-country="CL" group-title="Música",EnerGeek Radio
-https://backend.energeek.cl/webtv/egradioweb/index.m3u8?token=ZZDemoIPTVGH
-#EXTINF:-1 tvg-id="energeek-radio-2" tvg-name="EnerGeek Radio" tvg-chno="332" tvg-country="CL" group-title="Música",EnerGeek Radio
-https://backend.energeek.cl/webtv/egradioweb/index.m3u8?token=D3m0M3UCLWeb
-#EXTINF:-1 tvg-id="energeek-radio-3" tvg-name="EnerGeek Radio" tvg-chno="333" tvg-country="CL" group-title="Música",EnerGeek Radio
-https://backend.energeek.cl/webtv/egradioweb/index.m3u8?token=dEmoweBeneRGEek2025
 #EXTINF:-1 tvg-id="1312-eternal-metal" tvg-name="Eternal Metal" tvg-chno="334" tvg-country="CL" group-title="Música",Eternal Metal
 https://stmv7.voxtvhd.com.br/eternaltv/eternaltv/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="fmplustv-cl-sd" tvg-name="FM Plus TV" tvg-chno="335" tvg-country="CL" group-title="Música",FM Plus TV
@@ -679,8 +641,6 @@ https://vdochile.com:3134/hybrid/play.m3u8?PlaylistM3UCL
 https://unlimited1-cl-isp.dps.live/laclavetv/laclavetv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="la-metrofm" tvg-name="La MetroFM" tvg-chno="340" tvg-country="CL" group-title="Música",La MetroFM
 https://jireh-3-hls-video-cl-movistar.dps.live/hls-video/931b584451fa6dd1313ee66efbfd5802e3f3bcea/metropolitanatv/metropolitanatv.smil/metropolitanatv/livestream1/chunks.m3u8
-#EXTINF:-1 tvg-id="la-metrofm-2" tvg-name="La MetroFM" tvg-chno="341" tvg-country="CL" group-title="Música",La MetroFM
-https://redirector.rudo.video/hls-video/931b584451fa6dd1313ee66efbfd5802e3f3bcea/metropolitanatv/metropolitanatv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="996-latinos-tv" tvg-name="Latinos TV" tvg-chno="342" tvg-country="CL" group-title="Música",Latinos TV
 https://lbgo.bozztv.com/ssh101/ssh101/latinos2026/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="1550-m-music-tv" tvg-name="M Music TV" tvg-chno="343" tvg-country="CL" group-title="Música",M Music TV
@@ -693,8 +653,6 @@ https://5ff3d9babae13.streamlock.net:443/8000/8000/playlist.m3u8?PlaylistM3UCL
 https://freya.mivideo.pro/parentesistv/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="1722-pasion-ranchera" tvg-name="Pasion Ranchera" tvg-chno="347" tvg-country="CL" group-title="Música",Pasion Ranchera
 https://tv.arkeo.cl:19360/8068/8068.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="patagoniaradiotv-cl-sd" tvg-name="Patagonia Radio TV" tvg-chno="348" tvg-country="CL" group-title="Música",Patagonia Radio TV
-https://video01.logicahost.com.br/grupomedia/grupomedia/playlist.m3u8
 #EXTINF:-1 tvg-id="pauta-cl-sd" tvg-name="Pauta" tvg-chno="349" tvg-country="CL" group-title="Música",Pauta
 https://redirector.rudo.video/hls-video/ey6283je82983je9823je8jowowiekldk9838274/pautatv/pautatv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="1014-planetatv" tvg-name="PlanetaTV" tvg-chno="350" tvg-country="CL" group-title="Música",PlanetaTV
@@ -705,26 +663,16 @@ https://panel.tvstream.cl:1936/8040/8040/playlist.m3u8?PlaylistM3UCL
 https://vs20.live.opencaster.com/alternativatv_859ab4a0/index.m3u8
 #EXTINF:-1 tvg-id="radioduna-cl-sd" tvg-name="Radio Duna" tvg-chno="353" tvg-country="CL" group-title="Música",Radio Duna
 https://mdstrm.com/live-stream-playlist/67ed8a8d6db4af9a0188555c.m3u8
-#EXTINF:-1 tvg-id="radioedelweiss-cl-sd" tvg-name="Radio Edelweiss" tvg-chno="354" tvg-country="CL" group-title="Música",Radio Edelweiss
-https://vmix.dyndns.biz/Edelweiss/index.m3u8
 #EXTINF:-1 tvg-id="radio-el-conquistador-fm" tvg-name="Radio El Conquistador FM" tvg-chno="355" tvg-country="CL" group-title="Música",Radio El Conquistador FM
 https://redirector.rudo.video/hls-video/931b584451fa6dd1313ee66efbfd5802e3f3bcea/elconquistadortv/elconquistadortv.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="radio-el-conquistador-fm-2" tvg-name="Radio El Conquistador FM" tvg-chno="356" tvg-country="CL" group-title="Música",Radio El Conquistador FM
-https://v1.tustreaming.cl/conquistadorconcepcion/index.m3u8
 #EXTINF:-1 tvg-id="radio-graneros-tv" tvg-name="Radio Graneros TV" tvg-chno="357" tvg-country="CL" group-title="Música",Radio Graneros TV
 https://5ff3d9babae13.streamlock.net/rravdcnywy/rravdcnywy/playlist.m3u8
-#EXTINF:-1 tvg-id="radio-graneros-tv-2" tvg-name="Radio Graneros TV" tvg-chno="358" tvg-country="CL" group-title="Música",Radio Graneros TV
-https://5ff3d9babae13.streamlock.net:443/rravdcnywy/rravdcnywy/playlist.m3u8
-#EXTINF:-1 tvg-id="radio-graneros-tv-3" tvg-name="Radio Graneros TV" tvg-chno="359" tvg-country="CL" group-title="Música",Radio Graneros TV
-https://5ff3d9babae13.streamlock.net:1936/rravdcnywy/rravdcnywy/playlist.m3u8
 #EXTINF:-1 tvg-id="radio-la-clave" tvg-name="Radio La Clave" tvg-chno="360" tvg-country="CL" group-title="Música",Radio La Clave
 https://pantera1-100gb-cl-movistar.dps.live/laclavetv/laclavetv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="radiolaserenatv-cl-sd" tvg-name="Radio La Serena TV" tvg-chno="361" tvg-country="CL" group-title="Música",Radio La Serena TV
 https://5ff3d9babae13.streamlock.net/chrgkqgkyb/chrgkqgkyb/playlist.m3u8
 #EXTINF:-1 tvg-id="radiopudahuel-cl-sd" tvg-name="Radio Pudahuel" tvg-chno="362" tvg-country="CL" group-title="Música",Radio Pudahuel
 https://unlimited2-cl-isp.dps.live/pudahueltv/pudahueltv.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="radiozona903-cl-sd" tvg-name="Radio Zona 90.3" tvg-chno="363" tvg-country="CL" group-title="Música",Radio Zona 90.3
-https://live.tvcontrolcp.com:8081/radiozona/index.m3u8
 #EXTINF:-1 tvg-id="521-recuerdos-retro-radio-tv" tvg-name="Recuerdos Retro Radio TV" tvg-chno="364" tvg-country="CL" group-title="Música",Recuerdos Retro Radio TV
 https://panel.tvstream.cl:1936/8034/8034/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="4-retro-plus-tv" tvg-name="Retro Plus TV" tvg-chno="365" tvg-country="CL" group-title="Música",Retro Plus TV
@@ -733,28 +681,18 @@ https://srt01.logicahost.com.br/senal1/index.m3u8?PlaylistM3UCL
 https://srt01.logicahost.com.br/senal2/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="retromusicatelevision-cl-sd" tvg-name="Retromusica Television" tvg-chno="367" tvg-country="CL" group-title="Música",Retromusica Television
 https://vdochile.com:3864/stream/play.m3u8
-#EXTINF:-1 tvg-id="1765-retromusica-television" tvg-name="Retromusica Television" tvg-chno="368" tvg-country="CL" group-title="Música",Retromusica Television
-https://vdochile.com:3864/hybrid/play.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="156-rewind" tvg-name="Rewind" tvg-chno="369" tvg-country="CL" group-title="Música",Rewind
 https://tls-cl.cdnz.cl/rewindtv/live/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="ritoquetv-cl-sd" tvg-name="Ritoque TV" tvg-chno="370" tvg-country="CL" group-title="Música",Ritoque TV
 https://streaming.purum.cl/ritoquetv/index.m3u8
 #EXTINF:-1 tvg-id="13-ruidos-tv" tvg-name="Ruidos TV" tvg-chno="371" tvg-country="CL" group-title="Música",Ruidos TV
 https://tv1.ruidosfm.cl/ruidostv/stream.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="sabortv-cl-sd" tvg-name="Sabor TV" tvg-chno="372" tvg-country="CL" group-title="Música",Sabor TV
-https://v1.tustreaming.cl/sabortv/index.m3u8
 #EXTINF:-1 tvg-id="sensacioncosta-cl-sd" tvg-name="Sensacion Costa" tvg-chno="373" tvg-country="CL" group-title="Música",Sensacion Costa
 https://tvcosta.gleeze.com/memfs/4d48db09-0b1e-4803-8da7-22be388bdd7e.m3u8
-#EXTINF:-1 tvg-id="849-sensacion-costa" tvg-name="Sensacion Costa" tvg-chno="374" tvg-country="CL" group-title="Música",Sensacion Costa
-https://tvcosta.gleeze.com/memfs/4d48db09-0b1e-4803-8da7-22be388bdd7e.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="solobailalo-cl-sd" tvg-name="Solo Bailalo" tvg-chno="375" tvg-country="CL" group-title="Música",Solo Bailalo
 https://5ff3d9babae13.streamlock.net/8000/8000/playlist.m3u8
 #EXTINF:-1 tvg-id="tele13-radio" tvg-name="Tele13 Radio" tvg-chno="376" tvg-country="CL" group-title="Música",Tele13 Radio
 https://mdstrm.com/audio/5c915613519bce27671c4caa/live.m3u8
-#EXTINF:-1 tvg-id="tele13-radio-2" tvg-name="Tele13 Radio" tvg-chno="377" tvg-country="CL" group-title="Música",Tele13 Radio
-https://unlimited1-cl-isp.dps.live/t13radio/t13radio.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="teleangolradio-cl-sd" tvg-name="Teleangol Radio" tvg-chno="378" tvg-country="CL" group-title="Música",Teleangol Radio
-https://pantera1-100gb-cl-movistar.dps.live/teleangolradio/teleangolradio.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="1651-telezeta-tropical" tvg-name="TeleZeta Tropical" tvg-chno="379" tvg-country="CL" group-title="Música",TeleZeta Tropical
 https://stream.telezeta.cl/live/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="1660-tropical-ranchero" tvg-name="Tropical Ranchero" tvg-chno="380" tvg-country="CL" group-title="Música",Tropical Ranchero
@@ -775,16 +713,12 @@ https://ccp.centaurychile.com/centaury/stream.m3u8?PlaylistM3UCL
 https://unlimited1-cl-isp.dps.live/coopetv/coopetv.smil/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="1773-cooperativa-ciencia" tvg-name="Cooperativa Ciencia" tvg-chno="388" tvg-country="CL" group-title="Radio",Cooperativa Ciencia
 https://unlimited2-cl-isp.dps.live/cooperativaciencia/cooperativaciencia.smil/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="1166-dance-fm" tvg-name="Dance FM" tvg-chno="389" tvg-country="CL" group-title="Radio",Dance FM
-https://5eaccbab48461.streamlock.net:1936/dancefm_1/dancefm_1/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="1743-el-radar" tvg-name="El Radar" tvg-chno="390" tvg-country="CL" group-title="Radio",El Radar
 https://video.ipstream.cl:3459/hybrid/play.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="1693-estacionradiotv" tvg-name="EstacionRadiotv" tvg-chno="391" tvg-country="CL" group-title="Radio",EstacionRadiotv
 https://paneltv.stream:19360/estacion/estacion.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="1677-hd-radio" tvg-name="HD Radio" tvg-chno="392" tvg-country="CL" group-title="Radio",HD Radio
 https://streaming.bitsur.cl:3029/live/hdradiolive.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="1270-la-clave" tvg-name="La Clave" tvg-chno="393" tvg-country="CL" group-title="Radio",La Clave
-https://unlimited1-cl-isp.dps.live/laclavetv/laclavetv.smil/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="1472-la-nuestra" tvg-name="La Nuestra" tvg-chno="394" tvg-country="CL" group-title="Radio",La Nuestra
 https://redirector.rudo.video/hls-video/339f69c6122f6d8f4574732c235f09b7683e31a5/ln/ln.smil/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="1803-palmundo-fm" tvg-name="PalMundo FM" tvg-chno="395" tvg-country="CL" group-title="Radio",PalMundo FM
@@ -799,8 +733,6 @@ https://5ff3d9babae13.streamlock.net:443/krjrtsstzv/krjrtsstzv/playlist.m3u8?Pla
 https://redirector.rudo.video/hls-video/ey6283je82983je9823je8jowowiekldk9838274/921tv/921tv.smil/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="1673-radio-agricultura-2" tvg-name="Radio Agricultura 2" tvg-chno="400" tvg-country="CL" group-title="Radio",Radio Agricultura 2
 https://redirector.rudo.video/hls-video/931b584451fa6dd1313ee66efbfd5802e3f3bcea/agceventos/agceventos.smil/playlist.m3u8?&PlaylistM3UCL
-#EXTINF:-1 tvg-id="427-radio-duna" tvg-name="Radio Duna" tvg-chno="401" tvg-country="CL" group-title="Radio",Radio Duna
-https://mdstrm.com/live-stream-playlist/67ed8a8d6db4af9a0188555c.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="1605-radio-fin-del-mundo-tv" tvg-name="Radio Fin Del Mundo TV" tvg-chno="402" tvg-country="CL" group-title="Radio",Radio Fin Del Mundo TV
 https://live20.bozztv.com/akamaissh101/ssh101/rfdmtv/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="1801-radio-fm-dance" tvg-name="Radio FM Dance" tvg-chno="403" tvg-country="CL" group-title="Radio",Radio FM Dance
@@ -833,14 +765,8 @@ https://unlimited1-cl-isp.dps.live/t13radio/t13radio.smil/playlist.m3u8?Playlist
 https://v2.tustreaming.cl/enlacebpbtv/index.m3u8
 #EXTINF:-1 tvg-id="adatv-cl-sd" tvg-name="ADA TV" tvg-chno="417" tvg-country="CL" group-title="Religioso",ADA TV
 https://live-evg10.tv360.bitel.com.pe/bitel/alasdeaguilaSRT/playlist.m3u8
-#EXTINF:-1 tvg-id="canalisb-cl-sd" tvg-name="Canal ISB" tvg-chno="418" tvg-country="CL" group-title="Religioso",Canal ISB
-https://unlimited1-us.dps.live/isb/isb.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="canal-isb-iglesia-san-bernardo" tvg-name="Canal ISB (Iglesia San Bernardo)" tvg-chno="419" tvg-country="CL" group-title="Religioso",Canal ISB (Iglesia San Bernardo)
 https://unlimited1-cl-isp.dps.live/isb/isb.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="canal-isb-iglesia-san-bernardo-2" tvg-name="Canal ISB (Iglesia San Bernardo)" tvg-chno="420" tvg-country="CL" group-title="Religioso",Canal ISB (Iglesia San Bernardo)
-https://pantera1-100gb-cl-movistar.dps.live/isb/isb.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="fortalezatv-cl-sd" tvg-name="Fortaleza TV" tvg-chno="421" tvg-country="CL" group-title="Religioso",Fortaleza TV
-https://multimedia.fortalezatv.cl/video/video.m3u8
 #EXTINF:-1 tvg-id="isatv-cl-sd" tvg-name="ISA TV" tvg-chno="422" tvg-country="CL" group-title="Religioso",ISA TV
 https://scl.edge.grupoz.cl/isatv/live/playlist.m3u8
 #EXTINF:-1 tvg-id="mtnatv-cl-sd" tvg-name="MTNA TV" tvg-chno="423" tvg-country="CL" group-title="Religioso",MTNA TV
@@ -853,22 +779,12 @@ https://v2.tustreaming.cl/armoniamovil/index.m3u8
 https://tv.arkeo.cl:1936/elsembrador/elsembrador/playlist.m3u8
 #EXTINF:-1 tvg-id="televida-cl-sd" tvg-name="Televida (Chile)" tvg-chno="427" tvg-country="CL" group-title="Religioso",Televida (Chile)
 https://tls-cl.cdnz.cl/televida/live/playlist.m3u8
-#EXTINF:-1 tvg-id="tne-cl-sd" tvg-name="TNE" tvg-chno="428" tvg-country="CL" group-title="Religioso",TNE
-https://v2.tustreaming.cl/tnetv/index.m3u8
-#EXTINF:-1 tvg-id="vidanuevatv-cl-sd" tvg-name="Vida Nueva TV" tvg-chno="429" tvg-country="CL" group-title="Religioso",Vida Nueva TV
-https://mc.servidor.stream:19360/8240/8240.m3u8
-#EXTINF:-1 tvg-id="1638-ada-tv" tvg-name="ADA TV" tvg-chno="430" tvg-country="CL" group-title="Religiosos",ADA TV
-https://v4.tustreaming.cl/adatvchile/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="1756-cristo-razon-de-vivir" tvg-name="Cristo Razon De Vivir" tvg-chno="431" tvg-country="CL" group-title="Religiosos",Cristo Razon De Vivir
 https://tv.arkeo.cl:19360/8058/8058.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="351-restaurando-vidas-tv" tvg-name="Restaurando Vidas TV" tvg-chno="432" tvg-country="CL" group-title="Religiosos",Restaurando Vidas TV
 https://v4.tustreaming.cl/restaurandovida/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="1714-tv-catedral-de-la-florida" tvg-name="Tv Catedral de la Florida" tvg-chno="433" tvg-country="CL" group-title="Religiosos",Tv Catedral de la Florida
 https://live20.bozztv.com/akamaissh101/ssh101/asjdksa/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="chiloered25-cl-sd" tvg-name="Chiloe Red 25" tvg-chno="434" tvg-country="CL" group-title="Cultura",Chiloe Red 25
-https://v2.tustreaming.cl/chiloered/index.m3u8
-#EXTINF:-1 tvg-id="holvoettv-cl-sd" tvg-name="Holvoet TV" tvg-chno="435" tvg-country="CL" group-title="Cultura",Holvoet TV
-https://unlimited1-us.dps.live/holvoettv/holvoettv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="versotv-cl-sd" tvg-name="Verso TV" tvg-chno="436" tvg-country="CL" group-title="Cultura",Verso TV
 https://verso.coopcom.cl/live/SHf6GLCpn4hDSpWdzaDzgX0ciU82/index.m3u8
 #EXTINF:-1 tvg-id="443-arab-tv" tvg-name="Arab TV" tvg-chno="437" tvg-country="CL" group-title="Culturales",Arab TV
@@ -877,12 +793,8 @@ https://video03.logicahost.com.br/arabtvchile/arabtvchile/playlist.m3u8?Playlist
 https://tls-cl.cdnz.cl/streamdiptudadosa/live/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="1288-suyai-tv" tvg-name="Suyai TV" tvg-chno="439" tvg-country="CL" group-title="Culturales",Suyai TV
 https://trun.suyaitv.cl/memfs/1255a743-cd41-40a8-86c4-d264ee16ebf3.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="444-tv-senado" tvg-name="TV Senado" tvg-chno="440" tvg-country="CL" group-title="Culturales",TV Senado
-https://janus-tv-ply.senado.cl/playlist/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="gvision-cl-sd" tvg-name="GVision" tvg-chno="441" tvg-country="CL" group-title="Educación",GVision
 https://videostream.chileservidores.com:8081/tome/index.m3u8
-#EXTINF:-1 tvg-id="tvusach-cl-sd" tvg-name="TV Usach" tvg-chno="442" tvg-country="CL" group-title="Educación",TV Usach
-https://stv4.janus.cl/playlist/stream.m3u8
 #EXTINF:-1 tvg-id="umagtv-cl-sd" tvg-name="UMAGTV" tvg-chno="443" tvg-country="CL" group-title="Educación",UMAGTV
 https://tls-cl.cdnz.cl/umag1/ngrp:live_all/playlist.m3u8
 #EXTINF:-1 tvg-id="utalcatv-cl-sd" tvg-name="UTalca TV" tvg-chno="444" tvg-country="CL" group-title="Educación",UTalca TV
@@ -891,18 +803,8 @@ https://unlimited1-us.dps.live/campustv/campustv.smil/campustv/livestream1/chunk
 https://live20.bozztv.com/akamaissh101/ssh101/clickradiolive/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="1754-pudahuel-tv" tvg-name="Pudahuel TV" tvg-chno="446" tvg-country="CL" group-title="Comunitarios",Pudahuel TV
 https://panel.tvstream.cl:1936/8000/8000/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="canalchilote-cl-sd" tvg-name="Canal Chilote" tvg-chno="447" tvg-country="CL" group-title="Entretenimiento",Canal Chilote
-https://videostream.chileservidores.com:8081/chiloe2/index.m3u8
 #EXTINF:-1 tvg-id="chilechannel-cl-sd" tvg-name="Chile Channel" tvg-chno="448" tvg-country="CL" group-title="Entretenimiento",Chile Channel
 https://v2.tustreaming.cl/chilechannel/index.m3u8
-#EXTINF:-1 tvg-id="emociontv-cl-sd" tvg-name="Emocion TV" tvg-chno="449" tvg-country="CL" group-title="Entretenimiento",Emocion TV
-https://v1.tustreaming.cl/emociontv/index.m3u8
-#EXTINF:-1 tvg-id="estacionlimachetv-cl-sd" tvg-name="Estacion Limache TV" tvg-chno="450" tvg-country="CL" group-title="Entretenimiento",Estacion Limache TV
-https://v4.tustreaming.cl/limachemovil/index.m3u8
-#EXTINF:-1 tvg-id="lamelinkanatv-cl-sd" tvg-name="La Melinkana TV" tvg-chno="451" tvg-country="CL" group-title="Entretenimiento",La Melinkana TV
-https://v1.tustreaming.cl/melinkana/index.m3u8
-#EXTINF:-1 tvg-id="lanuestra-cl-sd" tvg-name="La Nuestra" tvg-chno="452" tvg-country="CL" group-title="Entretenimiento",La Nuestra
-https://redirector.rudo.video/hls-video/339f69c6122f6d8f4574732c235f09b7683e31a5/ln/ln.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="nadaesimposibletv-cl-sd" tvg-name="Nada Es Imposible TV" tvg-chno="453" tvg-country="CL" group-title="Entretenimiento",Nada Es Imposible TV
 https://vdochile.com:3194/live/mvqutymylive.m3u8
 #EXTINF:-1 tvg-id="zonaplaytv-cl-sd" tvg-name="Zona Play TV" tvg-chno="454" tvg-country="CL" group-title="Entretenimiento",Zona Play TV
@@ -921,14 +823,10 @@ https://live20.bozztv.com/giatvplayout7/giatv-208729/playlist.m3u8?PlaylistM3UCL
 https://unlimited1-cl-isp.dps.live/girovisual2/girovisual2.smil/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="1792-pirque-tv" tvg-name="Pirque TV" tvg-chno="461" tvg-country="CL" group-title="Regionales",Pirque TV
 https://eu1.servers10.com:8081/laureltv/index.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="1668-verso-tv" tvg-name="Verso TV" tvg-chno="462" tvg-country="CL" group-title="Regionales",Verso TV
-https://verso.coopcom.cl/live/SHf6GLCpn4hDSpWdzaDzgX0ciU82/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="1685-13-internacional" tvg-name="13 Internacional" tvg-chno="463" tvg-country="CL" group-title="Internacionales",13 Internacional
 https://redirector.dps.live/hls/13intav/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="1769-china-channel" tvg-name="China Channel" tvg-chno="464" tvg-country="CN" group-title="Internacionales",China Channel
 https://v2.tustreaming.cl/chinachannel/index.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="491-tv-chile" tvg-name="TV Chile" tvg-chno="465" tvg-country="CL" group-title="Internacionales",TV Chile
-https://mdstrm.com/live-stream-playlist/533adcc949386ce765657d7c.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="1683-13-cocina" tvg-name="13 Cocina" tvg-chno="466" tvg-country="CL" group-title="General",13 Cocina
 https://redirector.dps.live/hls/13cocina/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="13-internacional-hd-nacional" tvg-name="13 Internacional HD (Nacional)" tvg-chno="467" tvg-country="CL" group-title="General",13 Internacional HD (Nacional)
@@ -937,28 +835,8 @@ https://redirector.dps.live/hls/13intav/playlist.m3u8
 https://redirector.dps.live/hls/13pop/playlist.m3u8
 #EXTINF:-1 tvg-id="24horas-cl" tvg-name="24 horas" tvg-chno="469" tvg-country="CL" group-title="General",24 horas
 https://mdstrm.com/live-stream-playlist/689ba606ecfe7915e1f8f741.m3u8
-#EXTINF:-1 tvg-id="alternativatv-cl-sd" tvg-name="Alternativa TV" tvg-chno="470" tvg-country="CL" group-title="General",Alternativa TV
-https://live20.bozztv.com/giatv/giatv-alternativatv/alternativatv/playlist.m3u8
 #EXTINF:-1 tvg-id="amcanal-cl-sd" tvg-name="AM Canal" tvg-chno="471" tvg-country="CL" group-title="General",AM Canal
 https://streaming.bitsur.cl:3534/live/vdo1102live.m3u8
-#EXTINF:-1 tvg-id="antofagastatv-cl-sd" tvg-name="Antofagasta TV" tvg-chno="472" tvg-country="CL" group-title="General",Antofagasta TV
-https://unlimited6-cl.dps.live/atv/atv.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="antofagasta-tv" tvg-name="Antofagasta TV" tvg-chno="473" tvg-country="CL" group-title="General",Antofagasta TV
-https://unlimited1-cl-isp.dps.live/atv/atv.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="aricatv-cl-sd" tvg-name="Arica TV" tvg-chno="474" tvg-country="CL" group-title="General",Arica TV
-https://5eff35271151c.streamlock.net:1936/8002/8002/playlist.m3u8
-#EXTINF:-1 tvg-id="atacamatv-cl-sd" tvg-name="Atacama TV" tvg-chno="475" tvg-country="CL" group-title="General",Atacama TV
-https://v2.tustreaming.cl/atacamatv/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="atacama-tv" tvg-name="Atacama TV" tvg-chno="476" tvg-country="CL" group-title="General",Atacama TV
-https://v2.tustreaming.cl/atacamatv/index.m3u8
-#EXTINF:-1 tvg-id="atacama-tv-2" tvg-name="Atacama TV" tvg-chno="477" tvg-country="CL" group-title="General",Atacama TV
-https://v2.tustreaming.cl/atacamatv/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="aysentv-cl-sd" tvg-name="Aysen TV" tvg-chno="478" tvg-country="CL" group-title="General",Aysen TV
-https://v1.tustreaming.cl/aysentv/index.m3u8
-#EXTINF:-1 tvg-id="aysen-tv" tvg-name="Aysen TV" tvg-chno="479" tvg-country="CL" group-title="General",Aysen TV
-https://v1.tustreaming.cl/aysentv/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="aysen-tv-2" tvg-name="Aysen TV" tvg-chno="480" tvg-country="CL" group-title="General",Aysen TV
-https://v1.tustreaming.cl:443/aysentv/index.m3u8
 #EXTINF:-1 tvg-id="1615-bombi-tv" tvg-name="Bombi TV" tvg-chno="481" tvg-country="CL" group-title="General",Bombi TV
 https://tv.arkeo.cl:1936/bombitv/bombitv/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="buinsomostodos-cl-sd" tvg-name="Buin Somos Todos" tvg-chno="482" tvg-country="CL" group-title="General",Buin Somos Todos
@@ -971,134 +849,54 @@ https://stmv4.voxtvhd.com.br/cadenartv/cadenartv/playlist.m3u8?PlaylistM3UCL
 https://tv.arkeo.cl:1936/kymczwbrge/kymczwbrge/playlist.m3u8
 #EXTINF:-1 tvg-id="campoabiertotv-cl-sd" tvg-name="Campo Abierto TV" tvg-chno="486" tvg-country="CL" group-title="General",Campo Abierto TV
 https://v2.tustreaming.cl/catvlive/index.m3u8
-#EXTINF:-1 tvg-id="437-campo-abierto-tv" tvg-name="Campo Abierto TV" tvg-chno="487" tvg-country="CL" group-title="General",Campo Abierto TV
-https://v2.tustreaming.cl:443/catvlive/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="campustv-cl-sd" tvg-name="CampusTV" tvg-chno="488" tvg-country="CL" group-title="General",CampusTV
 https://pantera1-100gb-cl-movistar.dps.live/campustv/campustv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="canal1nuble-cl-sd" tvg-name="Canal 1 Nuble" tvg-chno="489" tvg-country="CL" group-title="General",Canal 1 Nuble
 https://tls-cl.cdnz.cl/canal21tv/live/playlist.m3u8
-#EXTINF:-1 tvg-id="1733-canal-13" tvg-name="Canal 13" tvg-chno="490" tvg-country="CL" group-title="General",Canal 13
-https://redirector.dps.live/hls/13cl/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="canal13-cl" tvg-name="Canal 13" tvg-chno="491" tvg-country="CL" group-title="General",Canal 13
-https://redirector.dps.live/hls/13cl/playlist.m3u8
 #EXTINF:-1 tvg-id="canal-13-hd-nacional-geo-blocked" tvg-name="Canal 13 HD (Nacional)(Geo-Blocked)" tvg-chno="492" tvg-country="CL" group-title="General",Canal 13 HD (Nacional)(Geo-Blocked)
 https://redirector.dps.live/hls/13cl/playlist.m3u8?ChileTv
-#EXTINF:-1 tvg-id="canal2quellon-cl-sd" tvg-name="Canal 2 Quellon" tvg-chno="493" tvg-country="CL" group-title="General",Canal 2 Quellon
-https://pantera1-100gb-cl-movistar.dps.live/tvquellon/tvquellon.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="canal-2-quellon" tvg-name="Canal 2 Quellón" tvg-chno="494" tvg-country="CL" group-title="General",Canal 2 Quellón
-https://unlimited2-cl-isp.dps.live/tvquellon/tvquellon.smil/tvquellon/livestream1/chunks.m3u8
-#EXTINF:-1 tvg-id="canal-2-quellon-2" tvg-name="Canal 2 Quellón" tvg-chno="495" tvg-country="CL" group-title="General",Canal 2 Quellón
-https://redirector.dps.live/hls/tvquellon/playlist.m3u8
-#EXTINF:-1 tvg-id="canal-2-quellon-3" tvg-name="Canal 2 Quellón" tvg-chno="496" tvg-country="CL" group-title="General",Canal 2 Quellón
-https://unlimited6-cl.dps.live/tvquellon/tvquellon.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="canal-2-quellon-4" tvg-name="Canal 2 Quellón" tvg-chno="497" tvg-country="CL" group-title="General",Canal 2 Quellón
-https://unlimited1-cl-isp.dps.live/tvquellon/tvquellon.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="canal-2-quellon-5" tvg-name="Canal 2 Quellón" tvg-chno="498" tvg-country="CL" group-title="General",Canal 2 Quellón
-https://unlimited2-cl-isp.dps.live/tvquellon/tvquellon.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="canal-2-san-antonio" tvg-name="Canal 2 San Antonio" tvg-chno="499" tvg-country="CL" group-title="General",Canal 2 San Antonio
 https://unlimited1-us.dps.live/canal2/canal2.smil/canal2/livestream1/chunks.m3u8
-#EXTINF:-1 tvg-id="canal-2-san-antonio-2" tvg-name="Canal 2 San Antonio" tvg-chno="500" tvg-country="CL" group-title="General",Canal 2 San Antonio
-https://pantera1-100gb-cl-movistar.dps.live/canal2/canal2.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="canal-2-san-antonio-3" tvg-name="Canal 2 San Antonio" tvg-chno="501" tvg-country="CL" group-title="General",Canal 2 San Antonio
-https://unlimited1-cl-isp.dps.live/canal2/canal2.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="canal30loncomilla-cl-sd" tvg-name="Canal 30 Loncomilla" tvg-chno="502" tvg-country="CL" group-title="General",Canal 30 Loncomilla
-https://v1.tustreaming.cl/canal30loncomilla/index.m3u8
 #EXTINF:-1 tvg-id="canal-5-pto-montt" tvg-name="Canal 5 Pto. Montt" tvg-chno="503" tvg-country="CL" group-title="General",Canal 5 Pto. Montt
 https://5ff3d9babae13.streamlock.net:443/aufymdjpjf/aufymdjpjf/playlist.m3u8
-#EXTINF:-1 tvg-id="canal5puertomontt-cl-sd" tvg-name="Canal 5 Puerto Montt" tvg-chno="504" tvg-country="CL" group-title="General",Canal 5 Puerto Montt
-https://5ff3d9babae13.streamlock.net/aufymdjpjf/aufymdjpjf/playlist.m3u8
 #EXTINF:-1 tvg-id="canal-9" tvg-name="Canal 9" tvg-chno="505" tvg-country="CL" group-title="General",Canal 9
 https://unlimited6-cl.dps.live/c9/c9.smil/c9/livestream1/chunks.m3u8
-#EXTINF:-1 tvg-id="canal-9-2" tvg-name="Canal 9" tvg-chno="506" tvg-country="CL" group-title="General",Canal 9
-https://unlimited1-cl-isp.dps.live/c9/c9.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="canalclaro-cl-sd" tvg-name="Canal Claro" tvg-chno="507" tvg-country="CL" group-title="General",Canal Claro
 https://jmp2.uk/plu-68224482c5d53e1351aaf2f2.m3u8
-#EXTINF:-1 tvg-id="canallatino54-cl-sd" tvg-name="Canal Latino 54" tvg-chno="508" tvg-country="CL" group-title="General",Canal Latino 54
-https://videostream.chileservidores.com:8081/latina/index.m3u8
-#EXTINF:-1 tvg-id="canallocal-cl-sd" tvg-name="Canal Local" tvg-chno="509" tvg-country="CL" group-title="General",Canal Local
-https://v2.tustreaming.cl/canallocalcl/index.m3u8
 #EXTINF:-1 tvg-id="canal-local-quillota" tvg-name="Canal Local Quillota" tvg-chno="510" tvg-country="CL" group-title="General",Canal Local Quillota
 https://v2.tustreaming.cl/canallocalcl/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="canal-local-quillota-2" tvg-name="Canal Local Quillota" tvg-chno="511" tvg-country="CL" group-title="General",Canal Local Quillota
-https://v2.tustreaming.cl:443/canallocalcl/index.m3u8
-#EXTINF:-1 tvg-id="canal-sur-patagonia" tvg-name="Canal Sur Patagonia" tvg-chno="512" tvg-country="CL" group-title="General",Canal Sur Patagonia
-https://v2.tustreaming.cl/fmarcoirirs/index.m3u8
-#EXTINF:-1 tvg-id="canal-sur-patagonia-2" tvg-name="Canal Sur Patagonia" tvg-chno="513" tvg-country="CL" group-title="General",Canal Sur Patagonia
-https://v2.tustreaming.cl/fmarcoirirs/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="canal-sur-patagonia-3" tvg-name="Canal Sur Patagonia" tvg-chno="514" tvg-country="CL" group-title="General",Canal Sur Patagonia
-https://v2.tustreaming.cl:443/fmarcoirirs/index.m3u8
 #EXTINF:-1 tvg-id="canalsurvisionalerce-cl-sd" tvg-name="Canal Survision Alerce" tvg-chno="515" tvg-country="CL" group-title="General",Canal Survision Alerce
 https://s1.tvdatta.com:3384/live/canal20tvlive.m3u8
 #EXTINF:-1 tvg-id="caracolatv-cl-sd" tvg-name="Caracola TV" tvg-chno="516" tvg-country="CL" group-title="General",Caracola TV
 https://wifispeed.trapemn.tv:1936/comunales/caracola-tv/chunks.m3u8
-#EXTINF:-1 tvg-id="1020-caracola-tv" tvg-name="Caracola TV" tvg-chno="517" tvg-country="CL" group-title="General",Caracola TV
-https://wifispeed.trapemn.tv:1936/comunales/caracola-tv/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="centraltv-cl-sd" tvg-name="Central TV (Chile)" tvg-chno="518" tvg-country="CL" group-title="General",Central TV (Chile)
 https://freya.mivideo.pro/centraltv/video.m3u8
-#EXTINF:-1 tvg-id="435-chile-channel" tvg-name="Chile Channel" tvg-chno="519" tvg-country="CL" group-title="General",Chile Channel
-https://v2.tustreaming.cl/chilechannel/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="chilevision-deportes-2" tvg-name="Chilevisión Deportes Ⓖ" tvg-chno="520" tvg-country="CL" group-title="General",Chilevisión Deportes Ⓖ
 https://redirector.rudo.video/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/chvdeportes/chvdeportes.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="chilevision-cl" tvg-name="Chilevisión Ⓖ" tvg-chno="521" tvg-country="CL" group-title="General",Chilevisión Ⓖ
-https://redirector.rudo.video/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/chv/chv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="chvnoticias-cl" tvg-name="Chilevisión Noticias" tvg-chno="522" tvg-country="CL" group-title="General",Chilevisión Noticias
 https://redirector.rudo.video/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/chvn/chvn.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="1418-chilevisual-classic" tvg-name="Chilevisual Classic" tvg-chno="523" tvg-country="CL" group-title="General",Chilevisual Classic
 https://paneltv.stream:19360/chilevisual/chilevisual.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="chinachannel-cl-sd" tvg-name="China Channel" tvg-chno="524" tvg-country="CN" group-title="General",China Channel
-https://v2.tustreaming.cl/chinachannel/index.m3u8
 #EXTINF:-1 tvg-id="clicktv-no24-7-coronel-biobio-opc-2" tvg-name="ClickTV [No24/7](Coronel - Biobío) [Opc.2]" tvg-chno="525" tvg-country="CL" group-title="General",ClickTV [No24/7](Coronel - Biobío) [Opc.2]
 https://andromeda2.cd-latam.com:1936/Monitoreo_ClickTV/clicktv.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="clicktv-chile-coronel" tvg-name="ClickTv Chile (Coronel)" tvg-chno="526" tvg-country="CL" group-title="General",ClickTv Chile (Coronel)
 https://v2.tustreaming.cl/clicktv/playlist.m3u8
-#EXTINF:-1 tvg-id="clicktv-chile-coronel-2" tvg-name="ClickTv Chile (Coronel)" tvg-chno="527" tvg-country="CL" group-title="General",ClickTv Chile (Coronel)
-https://v2.tustreaming.cl/clicktv/index.m3u8
-#EXTINF:-1 tvg-id="clubtv-cl-sd" tvg-name="Club TV" tvg-chno="528" tvg-country="CL" group-title="General",Club TV
-https://tv.arkeo.cl:1936/clubtv/clubtv/playlist.m3u8
-#EXTINF:-1 tvg-id="contivision" tvg-name="Contivision" tvg-chno="529" tvg-country="CL" group-title="General",Contivision
-https://unlimited1-cl-isp.dps.live/cm/cm.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="contivision-2" tvg-name="Contivision" tvg-chno="530" tvg-country="CL" group-title="General",Contivision
-https://unlimited2-cl-isp.dps.live/cm/cm.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="coyhaiquetv-cl-sd" tvg-name="Coyhaique TV" tvg-chno="531" tvg-country="CL" group-title="General",Coyhaique TV
-https://v2.tustreaming.cl/coyhaiquetv/index.m3u8
 #EXTINF:-1 tvg-id="dchtv-cl-sd" tvg-name="DCH TV" tvg-chno="532" tvg-country="CL" group-title="General",DCH TV
 https://v2.tustreaming.cl/dchtv/index.m3u8
-#EXTINF:-1 tvg-id="decimatv-cl-sd" tvg-name="Decima TV" tvg-chno="533" tvg-country="CL" group-title="General",Decima TV
-https://unlimited2-cl-isp.dps.live/decimatv/decimatv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="decima-tv-ancud" tvg-name="Décima TV (Ancud)" tvg-chno="534" tvg-country="CL" group-title="General",Décima TV (Ancud)
 https://unlimited6-cl.dps.live/decimatv/decimatv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="d13-cl" tvg-name="Deportes13 Ⓖ" tvg-chno="535" tvg-country="CL" group-title="General",Deportes13 Ⓖ
 https://redirector.rudo.video/hls-video/ey6283je82983je9823je8jowowiekldk9838274/13d/13d.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="docevision-cl-sd" tvg-name="Docevision" tvg-chno="536" tvg-country="CL" group-title="General",Docevision
-https://live20.bozztv.com/giatvplayout7/giatv-208729/playlist.m3u8
 #EXTINF:-1 tvg-id="1622-dodo-tv" tvg-name="Dodo TV" tvg-chno="537" tvg-country="CL" group-title="General",Dodo TV
 https://cloud5.streaminglivehd.com:3651/hybrid/play.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="egm-channel-hd-rancagua" tvg-name="EGM Channel HD (Rancagua)" tvg-chno="538" tvg-country="CL" group-title="General",EGM Channel HD (Rancagua)
 https://vdochile.com:3922/live/egm20live.m3u8
 #EXTINF:-1 tvg-id="1022-egm-tv" tvg-name="EGM TV" tvg-chno="539" tvg-country="CL" group-title="General",EGM TV
 https://vdochile.com:3922/live/egm20live.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="elradar-cl-sd" tvg-name="El Radar" tvg-chno="540" tvg-country="CL" group-title="General",El Radar
-https://video.ipstream.cl:3459/hybrid/play.m3u8
-#EXTINF:-1 tvg-id="enlineamaule-cl-sd" tvg-name="En Linea Maule" tvg-chno="541" tvg-country="CL" group-title="General",En Linea Maule
-https://v2.tustreaming.cl/enlineamauletv/index.m3u8
-#EXTINF:-1 tvg-id="energeek-fan" tvg-name="EnerGeek Fan" tvg-chno="542" tvg-country="CL" group-title="General",EnerGeek Fan
-https://backend.energeek.cl/webtv/egfanweb/index.m3u8?token=ZZDemoIPTVGH
-#EXTINF:-1 tvg-id="energeek-fan-2" tvg-name="EnerGeek Fan" tvg-chno="543" tvg-country="CL" group-title="General",EnerGeek Fan
-https://backend.energeek.cl/webtv/egfanweb/index.m3u8?token=D3m0M3UCLWeb
 #EXTINF:-1 tvg-id="energeek-retro" tvg-name="EnerGeek Retro" tvg-chno="544" tvg-country="CL" group-title="General",EnerGeek Retro
 https://backend.energeek.cl/webtv/egretroweb/index.m3u8?token=ZZDemoIPTVGH
-#EXTINF:-1 tvg-id="energeek-retro-2" tvg-name="EnerGeek Retro" tvg-chno="545" tvg-country="CL" group-title="General",EnerGeek Retro
-https://backend.energeek.cl/webtv/egretroweb/index.m3u8?token=D3m0M3UCLWeb
-#EXTINF:-1 tvg-id="energeek-retro-3" tvg-name="EnerGeek Retro" tvg-chno="546" tvg-country="CL" group-title="General",EnerGeek Retro
-https://backend.energeek.cl/webtv/egretroweb/index.m3u8?token=dEmoweBeneRGEek2025
-#EXTINF:-1 tvg-id="energeek-retro-4" tvg-name="EnerGeek Retro" tvg-chno="547" tvg-country="CL" group-title="General",EnerGeek Retro
-https://backend.energeek.cl/webtv/egretro/mobile/index.m3u8?token=dEmoweBeneRGEek2025
-#EXTINF:-1 tvg-id="enfoquedigitaltv-cl-sd" tvg-name="Enfoque Digital TV" tvg-chno="548" tvg-country="CL" group-title="General",Enfoque Digital TV
-https://5eaccbab48461.streamlock.net:1936/8074/8074/playlist.m3u8
 #EXTINF:-1 tvg-id="epatv-cl-sd" tvg-name="EPA! TV" tvg-chno="549" tvg-country="CL" group-title="General",EPA! TV
 https://live-evg10.tv360.bitel.com.pe/bitel/epatv/playlist.m3u8
-#EXTINF:-1 tvg-id="1649-epa-tv" tvg-name="EPA! TV" tvg-chno="550" tvg-country="CL" group-title="General",EPA! TV
-https://v4.tustreaming.cl/edusauriotv/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="estaciontv-cl-sd" tvg-name="Estacion TV" tvg-chno="551" tvg-country="CL" group-title="General",Estacion TV
 https://unlimited1-cl-isp.dps.live/supersonikatv/supersonikatv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="frecuencia-7" tvg-name="Frecuencia 7" tvg-chno="552" tvg-country="CL" group-title="General",Frecuencia 7
@@ -1111,52 +909,16 @@ https://panel.tvstream.cl:1936/puekxmssxt/puekxmssxt/playlist.m3u8
 https://mdstrm.com/live-stream-playlist/6239f6d008e7ac488826f237.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="432-hipertv" tvg-name="HiperTV" tvg-chno="556" tvg-country="CL" group-title="General",HiperTV
 https://hipertvserver.cl/hls/live/main/index.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="holvoet-tv" tvg-name="Holvoet TV" tvg-chno="557" tvg-country="CL" group-title="General",Holvoet TV
-https://unlimited1-cl-isp.dps.live/holvoettv/holvoettv.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="iquiquetv-cl-sd" tvg-name="Iquique TV" tvg-chno="558" tvg-country="CL" group-title="General",Iquique TV
-https://origin.skarnetchile.com:8081/iquiquetv-hd/index.m3u8
 #EXTINF:-1 tvg-id="islitatv-cl-sd" tvg-name="Islita TV" tvg-chno="559" tvg-country="CL" group-title="General",Islita TV
 https://tv.arkeo.cl:1936/unetev/unetev/playlist.m3u8
-#EXTINF:-1 tvg-id="itvpatagonia-cl-sd" tvg-name="ITV Patagonia" tvg-chno="560" tvg-country="CL" group-title="General",ITV Patagonia
-https://redirector.dps.live/hls/itv/playlist.m3u8
-#EXTINF:-1 tvg-id="itv-patagonia" tvg-name="ITV Patagonia" tvg-chno="561" tvg-country="CL" group-title="General",ITV Patagonia
-https://unlimited1-cl-isp.dps.live/itv/itv.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="itv-patagonia-2" tvg-name="ITV Patagonia" tvg-chno="562" tvg-country="CL" group-title="General",ITV Patagonia
-https://pantera1-100gb-cl-movistar.dps.live/itv/itv.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="itv-patagonia-3" tvg-name="ITV Patagonia" tvg-chno="563" tvg-country="CL" group-title="General",ITV Patagonia
-https://unlimited1-us.dps.live/itv/itv.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="lachilenatv-cl-sd" tvg-name="La Chilena TV" tvg-chno="564" tvg-country="CL" group-title="General",La Chilena TV
-https://vdochile.com:3134/stream/play.m3u8
-#EXTINF:-1 tvg-id="lacomarcatv-cl-sd" tvg-name="La Comarca TV" tvg-chno="565" tvg-country="CL" group-title="General",La Comarca TV
-https://v2.tustreaming.cl/lcomarcatv/index.m3u8
 #EXTINF:-1 tvg-id="lametrotv-cl-sd" tvg-name="La Metro TV" tvg-chno="566" tvg-country="CL" group-title="General",La Metro TV
 https://jireh-8-hls-video-us-isp.dps.live/hls-video/931b584451fa6dd1313ee66efbfd5802e3f3bcea/metropolitanatv/metropolitanatv.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="lapopulartv-cl-sd" tvg-name="La Popular TV" tvg-chno="567" tvg-country="CL" group-title="General",La Popular TV
-https://tv.arkeo.cl:1936/enlacetv1/enlacetv1/playlist.m3u8
 #EXTINF:-1 tvg-id="la-red-hd-nacional" tvg-name="La Red HD (Nacional)" tvg-chno="568" tvg-country="CL" group-title="General",La Red HD (Nacional)
 https://clbpktstvhls-1.clarovideo.com/bpk-tv/LAREDHD/hls_fk/index.m3u8
 #EXTINF:-1 tvg-id="1779-la-tercera-tv" tvg-name="La Tercera TV" tvg-chno="569" tvg-country="CL" group-title="General",La Tercera TV
 https://mdstrm.com/live-stream-playlist/67eae6c131b63199bfc77253.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="lilatvpencahue-cl-sd" tvg-name="Lila TV Pencahue" tvg-chno="570" tvg-country="CL" group-title="General",Lila TV Pencahue
-https://tv.arkeo.cl:1936/radiolila/radiolila/playlist.m3u8
-#EXTINF:-1 tvg-id="maraytv-cl-sd" tvg-name="Maray TV" tvg-chno="571" tvg-country="CL" group-title="General",Maray TV
-https://5eaccbab48461.streamlock.net:1936/8242/ngrp:8242_all/playlist.m3u8
-#EXTINF:-1 tvg-id="margamargatv-cl-sd" tvg-name="Marga Marga TV" tvg-chno="572" tvg-country="CL" group-title="General",Marga Marga TV
-https://v1.tustreaming.cl/margamargatv/index.m3u8
-#EXTINF:-1 tvg-id="marga-marga-tv" tvg-name="Marga Marga TV" tvg-chno="573" tvg-country="CL" group-title="General",Marga Marga TV
-https://v1.tustreaming.cl/margamargatv/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="mega-2" tvg-name="Mega" tvg-chno="574" tvg-country="CL" group-title="General",Mega
-https://unlimited1-cl-isp.dps.live/mega/mega.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="mega-3" tvg-name="Mega" tvg-chno="575" tvg-country="CL" group-title="General",Mega
-https://unlimited2-cl-isp.dps.live/mega/mega.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="miradiotv-cl-sd" tvg-name="Mi Radio TV" tvg-chno="576" tvg-country="CL" group-title="General",Mi Radio TV
-https://scl.edge.grupoz.cl/miradio2/live/playlist.m3u8
 #EXTINF:-1 tvg-id="mundoslacustrestv-cl-sd" tvg-name="Mundos Lacustres TV" tvg-chno="577" tvg-country="CL" group-title="General",Mundos Lacustres TV
 https://video.ipstream.cl:3710/hybrid/play.m3u8
-#EXTINF:-1 tvg-id="ninatv-cl-sd" tvg-name="Nina TV" tvg-chno="578" tvg-country="CL" group-title="General",Nina TV
-https://tv1.ninatv.cl/hls/stream.m3u8
-#EXTINF:-1 tvg-id="ntv-cl" tvg-name="NTV Ⓖ" tvg-chno="579" tvg-country="CL" group-title="General",NTV Ⓖ
-https://cdn1tlinkgo.tlink.cl/ntvhd/mono.m3u8
 #EXTINF:-1 tvg-id="nuble-rvt" tvg-name="Ñuble RVT" tvg-chno="580" tvg-country="CL" group-title="General",Ñuble RVT
 https://tv.arkeo.cl:1936/canalrtv/canalrtv/chunklist.m3u8
 #EXTINF:-1 tvg-id="odiseatv-cl-sd" tvg-name="Odisea TV" tvg-chno="581" tvg-country="CL" group-title="General",Odisea TV
@@ -1165,58 +927,24 @@ https://v2.tustreaming.cl/odiseatv/index.m3u8
 https://v4.tustreaming.cl/retroplaytv/index.m3u8
 #EXTINF:-1 tvg-id="panoramica-informativa" tvg-name="Panoramica Informativa" tvg-chno="583" tvg-country="CL" group-title="General",Panoramica Informativa
 https://v2.tustreaming.cl:443/alingeproducciones/index.m3u8
-#EXTINF:-1 tvg-id="pichilemutv-cl-sd" tvg-name="Pichilemu TV" tvg-chno="584" tvg-country="CL" group-title="General",Pichilemu TV
-https://5ff3d9babae13.streamlock.net/8028/8028/playlist.m3u8
-#EXTINF:-1 tvg-id="pichilemu-tv" tvg-name="Pichilemu TV" tvg-chno="585" tvg-country="CL" group-title="General",Pichilemu TV
-https://5ff3d9babae13.streamlock.net:443/8028/8028/playlist.m3u8
 #EXTINF:-1 tvg-id="pinguino-tv" tvg-name="Pingüino TV" tvg-chno="586" tvg-country="CL" group-title="General",Pingüino TV
 https://streaming.elpinguino.com:5391/live/EP.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="pinguino-tv-2" tvg-name="Pingüino TV" tvg-chno="587" tvg-country="CL" group-title="General",Pingüino TV
-https://redirector.rudo.video/hls-video/339f69c6122f6d8f4574732c235f09b7683e31a5/pinguinotv/pinguinotv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="polartv-cl-sd" tvg-name="Polar TV (Chile)" tvg-chno="588" tvg-country="CL" group-title="General",Polar TV (Chile)
 https://polartv.webredirect.org/memfs/319ac83c-e602-4e91-8104-2b5501380b5e.m3u8
 #EXTINF:-1 tvg-id="1692-pridetv-latam" tvg-name="PRIDEtv Latam" tvg-chno="589" tvg-country="CL" group-title="General",PRIDEtv Latam
 https://stream.pridetvlatam.cl/iptv/channel/2.m3u8?mode=segmenter&PlaylistM3UCL
 #EXTINF:-1 tvg-id="primitivostv-cl-sd" tvg-name="Primitivos TV" tvg-chno="590" tvg-country="CL" group-title="General",Primitivos TV
 https://5eaccbab48461.streamlock.net:1936/heqhvtgebg/heqhvtgebg/playlist.m3u8
-#EXTINF:-1 tvg-id="pucontv-cl-sd" tvg-name="Pucon TV" tvg-chno="591" tvg-country="CL" group-title="General",Pucon TV
-https://redirector.dps.live/hls/pucontv/playlist.m3u8
-#EXTINF:-1 tvg-id="pucon-tv" tvg-name="Pucón TV" tvg-chno="592" tvg-country="CL" group-title="General",Pucón TV
-https://unlimited1-cl-isp.dps.live/pucontv/pucontv.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="pucon-tv-2" tvg-name="Pucón TV" tvg-chno="593" tvg-country="CL" group-title="General",Pucón TV
-https://pantera1-100gb-cl-movistar.dps.live/pucontv/pucontv.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="pucon-tv-3" tvg-name="Pucón TV" tvg-chno="594" tvg-country="CL" group-title="General",Pucón TV
-https://unlimited6-cl.dps.live/pucontv/pucontv.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="puranoticia-tv" tvg-name="Puranoticia TV" tvg-chno="595" tvg-country="CL" group-title="General",Puranoticia TV
-https://pnt.janus.cl/playlist/stream.m3u8
 #EXTINF:-1 tvg-id="radioamericatv-cl-sd" tvg-name="Radio America TV" tvg-chno="596" tvg-country="CL" group-title="General",Radio America TV
 https://v2.tustreaming.cl/americamovil/index.m3u8
-#EXTINF:-1 tvg-id="radioancoatv-cl-sd" tvg-name="Radio Ancoa TV" tvg-chno="597" tvg-country="CL" group-title="General",Radio Ancoa TV
-https://v2.tustreaming.cl/radioancoatv/index.m3u8
-#EXTINF:-1 tvg-id="radiochiloe-cl-sd" tvg-name="Radio Chiloe" tvg-chno="598" tvg-country="CL" group-title="General",Radio Chiloe
-https://videostream.chileservidores.com:8081/chiloe1/index.m3u8
-#EXTINF:-1 tvg-id="radiofantasiatv-cl-sd" tvg-name="Radio Fantasia TV" tvg-chno="599" tvg-country="CL" group-title="General",Radio Fantasia TV
-https://v2.tustreaming.cl/fantasiatv/index.m3u8
-#EXTINF:-1 tvg-id="radiofrecuenciauno-cl-sd" tvg-name="Radio Frecuencia Uno" tvg-chno="600" tvg-country="CL" group-title="General",Radio Frecuencia Uno
-https://v1.tustreaming.cl/frecuencia1tv/index.m3u8
-#EXTINF:-1 tvg-id="radionuble-cl-sd" tvg-name="Radio Nuble" tvg-chno="601" tvg-country="CL" group-title="General",Radio Nuble
-https://tv.telselec.cl:3376/live/nublefmlive.m3u8
 #EXTINF:-1 tvg-id="radiopanoramica-cl-sd" tvg-name="Radio Panoramica" tvg-chno="602" tvg-country="CL" group-title="General",Radio Panoramica
 https://v2.tustreaming.cl/alingeproducciones/index.m3u8
 #EXTINF:-1 tvg-id="radiopopulartv-cl-sd" tvg-name="Radio Popular TV" tvg-chno="603" tvg-country="CL" group-title="General",Radio Popular TV
 https://tv.arkeo.cl:19360/8052/8052.m3u8
 #EXTINF:-1 tvg-id="radiorancaguafm-cl-sd" tvg-name="Radio Rancagua FM" tvg-chno="604" tvg-country="CL" group-title="General",Radio Rancagua FM
 https://tv.arkeo.cl:1936/radiorancagua/radiorancagua/playlist.m3u8
-#EXTINF:-1 tvg-id="radioritmofm-cl-sd" tvg-name="Radio Ritmo FM" tvg-chno="605" tvg-country="CL" group-title="General",Radio Ritmo FM
-https://panel.tvstream.cl:1936/8046/8046/playlist.m3u8
-#EXTINF:-1 tvg-id="radiouniacc-cl-sd" tvg-name="Radio UNIACC" tvg-chno="606" tvg-country="CL" group-title="General",Radio UNIACC
-https://scl.edge.grupoz.cl/uniaccastream/live/playlist.m3u8
 #EXTINF:-1 tvg-id="radiousach-cl-sd" tvg-name="Radio USACH" tvg-chno="607" tvg-country="CL" group-title="General",Radio USACH
 https://rusach2.janus.cl/playlist/stream.m3u8
-#EXTINF:-1 tvg-id="radiovialibre-cl-sd" tvg-name="Radio Via Libre" tvg-chno="608" tvg-country="CL" group-title="General",Radio Via Libre
-https://live20.bozztv.com/akamaissh101/ssh101/vialibretv/playlist.m3u8
-#EXTINF:-1 tvg-id="radiovidacurico-cl-sd" tvg-name="Radio Vida Curico" tvg-chno="609" tvg-country="CL" group-title="General",Radio Vida Curico
-https://v2.tustreaming.cl/radiovidacurico/index.m3u8
 #EXTINF:-1 tvg-id="910-raices-arabes-tv" tvg-name="Raices Arabes TV" tvg-chno="610" tvg-country="CL" group-title="General",Raices Arabes TV
 https://tv.arkeo.cl:1936/raicesarabestv/raicesarabestv/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="rialtv-cl-sd" tvg-name="Rial TV" tvg-chno="611" tvg-country="CL" group-title="General",Rial TV
@@ -1225,106 +953,50 @@ https://5eaccbab48461.streamlock.net:1936/8124/8124/playlist.m3u8
 https://stmv7.voxtvhd.com.br/catto5860/catto5860/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="roccotv-cl-sd" tvg-name="Rocco TV" tvg-chno="613" tvg-country="CL" group-title="General",Rocco TV
 https://5ff3d9babae13.streamlock.net/wympnqeqts/wympnqeqts/playlist.m3u8
-#EXTINF:-1 tvg-id="rtctelevision-cl-sd" tvg-name="RTC Television" tvg-chno="614" tvg-country="CL" group-title="General",RTC Television
-https://scl.edge.grupoz.cl/rtcstreaming/live/playlist.m3u8
 #EXTINF:-1 tvg-id="rtvnuble-cl-sd" tvg-name="RTV Nuble" tvg-chno="615" tvg-country="CL" group-title="General",RTV Nuble
 https://tv.arkeo.cl:1936/canalrtv/canalrtv/playlist.m3u8
-#EXTINF:-1 tvg-id="sannicolastv-cl-sd" tvg-name="San Nicolas TV" tvg-chno="616" tvg-country="CL" group-title="General",San Nicolas TV
-https://v4.tustreaming.cl/sannicolastv/index.m3u8
 #EXTINF:-1 tvg-id="santamariatelevision-cl-sd" tvg-name="Santa Maria Television" tvg-chno="617" tvg-country="CL" group-title="General",Santa Maria Television
 https://pantera1-100gb-cl-movistar.dps.live/smtv/smtv.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="sextavision-cl-sd" tvg-name="Sextavision" tvg-chno="618" tvg-country="CL" group-title="General",Sextavision
-https://5ff3d9babae13.streamlock.net/fzkqsdfray/fzkqsdfray/playlist.m3u8
-#EXTINF:-1 tvg-id="sextavision" tvg-name="Sextavision" tvg-chno="619" tvg-country="CL" group-title="General",Sextavision
-https://5ff3d9babae13.streamlock.net:443/fzkqsdfray/fzkqsdfray/playlist.m3u8
-#EXTINF:-1 tvg-id="sextavision-2" tvg-name="Sextavision" tvg-chno="620" tvg-country="CL" group-title="General",Sextavision
-https://5ff3d9babae13.streamlock.net:1936/fzkqsdfray/fzkqsdfray/playlist.m3u8
 #EXTINF:-1 tvg-id="solotv-cl-hd" tvg-name="Solo TV" tvg-chno="621" tvg-country="CL" group-title="General",Solo TV
 https://sproxy.solotv.cl/hls/live/fhd.m3u8
-#EXTINF:-1 tvg-id="solotv-cl" tvg-name="SoloTV" tvg-chno="622" tvg-country="CL" group-title="General",SoloTV
-https://stream.making.cl/memfs/ee909361-73e9-4e74-8391-5f1b0b8006c2.m3u8
 #EXTINF:-1 tvg-id="surtv-cl-sd" tvg-name="SUR TV" tvg-chno="623" tvg-country="CL" group-title="General",SUR TV
 https://surtv-2.mddsoluciones.cl/play/ZZZ-WEB-001:ULpj2JxXM9/live/surtvweb/playlist.m3u8
 #EXTINF:-1 tvg-id="surenatv-cl-sd" tvg-name="Surena TV" tvg-chno="624" tvg-country="CL" group-title="General",Surena TV
 https://vs20.live.opencaster.com/surenatv_187f915a/index.m3u8
-#EXTINF:-1 tvg-id="tvinet-cl-sd" tvg-name="T-Vinet" tvg-chno="625" tvg-country="CL" group-title="General",T-Vinet
-https://unlimited1-us.dps.live/inet2/inet2.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="t-vinet-digital" tvg-name="T-Vinet Digital" tvg-chno="626" tvg-country="CL" group-title="General",T-Vinet Digital
 https://unlimited6-cl.dps.live/inet2/inet2.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="t-vinet-digital-2" tvg-name="T-Vinet Digital" tvg-chno="627" tvg-country="CL" group-title="General",T-Vinet Digital
-https://pantera1-100gb-cl-movistar.dps.live/inet2/inet2.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="t13-cl" tvg-name="T13 en vivo" tvg-chno="628" tvg-country="CL" group-title="General",T13 en vivo
-https://redirector.rudo.video/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/t13/t13.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="tcmlatinamerica-us-chile" tvg-name="TCM Latin America Chile" tvg-chno="629" tvg-country="US" group-title="General",TCM Latin America Chile
 https://streaming.onnethn.com/TCM_HD/playlist.m3u8
 #EXTINF:-1 tvg-id="teleangol-cl-sd" tvg-name="Teleangol" tvg-chno="630" tvg-country="CL" group-title="General",Teleangol
 https://pantera1-100gb-cl-movistar.dps.live/teleangol/teleangol.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="teleangol" tvg-name="TeleAngol" tvg-chno="631" tvg-country="CL" group-title="General",TeleAngol
-https://unlimited1-cl-isp.dps.live/teleangol/teleangol.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="teleangol-2" tvg-name="TeleAngol" tvg-chno="632" tvg-country="CL" group-title="General",TeleAngol
-https://unlimited6-cl.dps.live/teleangol/teleangol.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="tendenciasprime-cl-sd" tvg-name="Tendencias Prime" tvg-chno="633" tvg-country="CL" group-title="General",Tendencias Prime
-https://v4.tustreaming.cl/tendenciastv/index.m3u8
-#EXTINF:-1 tvg-id="438-tevex" tvg-name="Tevex" tvg-chno="634" tvg-country="CL" group-title="General",Tevex
-https://v2.tustreaming.cl/tevex/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="tevex-tv-hd-santiago-nacional" tvg-name="Tevex TV HD (Santiago / Nacional)" tvg-chno="635" tvg-country="CL" group-title="General",Tevex TV HD (Santiago / Nacional)
 https://v4.tustreaming.cl/tevexinter/index.m3u8
 #EXTINF:-1 tvg-id="thematelevision-cl-sd" tvg-name="Thema Television" tvg-chno="636" tvg-country="CL" group-title="General",Thema Television
 https://unlimited1-us.dps.live/thema/thema.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="thema-tv-coquimbo-hd-coquimbo-opc-2" tvg-name="Thema TV Coquimbo HD (Coquimbo)[Opc. 2]" tvg-chno="637" tvg-country="CL" group-title="General",Thema TV Coquimbo HD (Coquimbo)[Opc. 2]
 https://pantera1-100gb-cl-movistar.dps.live/thema/thema.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="1746-turismo-travel-tv" tvg-name="Turismo Travel TV" tvg-chno="638" tvg-country="CL" group-title="General",Turismo Travel TV
-https://stmv3.voxtvhd.com.br/turismotraveltv/turismotraveltv/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="1666-turnoenvivo" tvg-name="TurnoEnVivo" tvg-chno="639" tvg-country="CL" group-title="General",TurnoEnVivo
 https://redirector.dps.live/hls/turno/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="tvchile-cl" tvg-name="TV Chile Ⓖ" tvg-chno="640" tvg-country="CL" group-title="General",TV Chile Ⓖ
-https://mdstrm.com/live-stream-playlist/533adcc949386ce765657d7c.m3u8
 #EXTINF:-1 tvg-id="436-tv-salud" tvg-name="TV Salud" tvg-chno="641" tvg-country="CL" group-title="General",TV Salud
 https://stmv4.voxtvhd.com.br/rodrigo9120/rodrigo9120/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="tvshowfortaleza-br-sd" tvg-name="TV Show Fortaleza" tvg-chno="642" tvg-country="BR" group-title="General",TV Show Fortaleza
 https://stmv8.samcast.com.br/raimundoanselmolimamororo1908/raimundoanselmolimamororo1908/playlist.m3u8
 #EXTINF:-1 tvg-id="tv-uct-u-catolica-de-temuco" tvg-name="TV UCT (U. Católica de Temuco)" tvg-chno="643" tvg-country="CL" group-title="General",TV UCT (U. Católica de Temuco)
 https://unlimited1-cl-isp.dps.live/uct/uct.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="tv-uct-u-catolica-de-temuco-2" tvg-name="TV UCT (U. Católica de Temuco)" tvg-chno="644" tvg-country="CL" group-title="General",TV UCT (U. Católica de Temuco)
-https://unlimited2-cl-isp.dps.live/uct/uct.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="tvplus-cl-sd" tvg-name="TV+" tvg-chno="645" tvg-country="CL" group-title="General",TV+
-https://jireh-8-hls-video-us-isp.dps.live/hls-video/ey6283je82983je9823je8jowowiekldk9838274/tvmas/tvmas.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="tv5linares-cl-sd" tvg-name="TV5 Linares" tvg-chno="646" tvg-country="CL" group-title="General",TV5 Linares
 https://v1.tustreaming.cl/tv5linares/index.m3u8
-#EXTINF:-1 tvg-id="tv5-linares" tvg-name="TV5 Linares" tvg-chno="647" tvg-country="CL" group-title="General",TV5 Linares
-https://v1.tustreaming.cl/tv5linares/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="tvn-cl" tvg-name="TVN Ⓖ" tvg-chno="648" tvg-country="CL" group-title="General",TVN Ⓖ
-https://iptv2.intersurtv.cl/TVN/index.m3u8
 #EXTINF:-1 tvg-id="tvn-hd-nacional" tvg-name="TVN HD (Nacional)" tvg-chno="649" tvg-country="CL" group-title="General",TVN HD (Nacional)
 https://clbpktstvhls-3.clarovideo.com/bpk-tv/TVNHD/hls_fk/index.m3u8
-#EXTINF:-1 tvg-id="tvosanvicente-cl-sd" tvg-name="TVO San Vicente" tvg-chno="650" tvg-country="CL" group-title="General",TVO San Vicente
-https://5ff3d9babae13.streamlock.net/8014/8014/playlist.m3u8
-#EXTINF:-1 tvg-id="tvo-san-vicente" tvg-name="TVO San Vicente" tvg-chno="651" tvg-country="CL" group-title="General",TVO San Vicente
-https://5ff3d9babae13.streamlock.net:443/8014/8014/playlist.m3u8
-#EXTINF:-1 tvg-id="tvo-san-vicente-2" tvg-name="TVO San Vicente" tvg-chno="652" tvg-country="CL" group-title="General",TVO San Vicente
-https://5ff3d9babae13.streamlock.net:1936/8014/8014/playlist.m3u8
 #EXTINF:-1 tvg-id="tvr-cl-sd" tvg-name="TVR (Chile)" tvg-chno="653" tvg-country="CL" group-title="General",TVR (Chile)
 https://unlimited1-us.dps.live/tvr/tvr.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="tvr-television-regional" tvg-name="TVR Television Regional" tvg-chno="654" tvg-country="CL" group-title="General",TVR Television Regional
 https://redirector.dps.live/hls/tvr/playlist.m3u8
-#EXTINF:-1 tvg-id="tvr-television-regional-2" tvg-name="TVR Television Regional" tvg-chno="655" tvg-country="CL" group-title="General",TVR Television Regional
-https://unlimited1-cl-isp.dps.live/tvr/tvr.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="tvu-cl-sd" tvg-name="TVU" tvg-chno="656" tvg-country="CL" group-title="General",TVU
-https://unlimited1-cl-isp.dps.live/tvu/tvu.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="tvu" tvg-name="TVU" tvg-chno="657" tvg-country="CL" group-title="General",TVU
-https://unlimited6-cl.dps.live/tvu/tvu.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="tvu-2" tvg-name="TVU" tvg-chno="658" tvg-country="CL" group-title="General",TVU
-https://pantera1-100gb-cl-movistar.dps.live/tvu/tvu.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="u-de-chile-tv" tvg-name="U de Chile TV" tvg-chno="659" tvg-country="CL" group-title="General",U de Chile TV
 https://unlimited2-cl-isp.dps.live/uchiletv/uchiletv.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="u-de-chile-tv-2" tvg-name="U de Chile TV" tvg-chno="660" tvg-country="CL" group-title="General",U de Chile TV
-https://pantera1-100gb-cl-movistar.dps.live/uchiletv/uchiletv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="u-los-lagos-tv-hd-osorno-los-lagos" tvg-name="U Los Lagos TV HD (Osorno - Los Lagos)" tvg-chno="661" tvg-country="CL" group-title="General",U Los Lagos TV HD (Osorno - Los Lagos)
 https://tv.ulagos.cl/web/live.m3u8
 #EXTINF:-1 tvg-id="ua-tv-u-autonoma" tvg-name="UA TV (U. Autonoma)" tvg-chno="662" tvg-country="CL" group-title="General",UA TV (U. Autonoma)
 https://unlimited2-cl-isp.dps.live/uatv/uatv.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="ua-tv-u-autonoma-2" tvg-name="UA TV (U. Autonoma)" tvg-chno="663" tvg-country="CL" group-title="General",UA TV (U. Autonoma)
-https://unlimited1-cl-isp.dps.live/uatv/uatv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="uatv-cl-sd" tvg-name="UATV" tvg-chno="664" tvg-country="CL" group-title="General",UATV
 https://unlimited1-us.dps.live/uatv/uatv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="uchiletv-cl" tvg-name="UChile TV" tvg-chno="665" tvg-country="CL" group-title="General",UChile TV
@@ -1335,10 +1007,6 @@ https://unlimited1-cl-isp.dps.live/ucvtv2/ucvtv2.smil/playlist.m3u8
 https://pantera1-100gb-cl-movistar.dps.live/ucvtv2/ucvtv2.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="ucv-tv-eventos" tvg-name="UCV TV Eventos" tvg-chno="668" tvg-country="CL" group-title="General",UCV TV Eventos
 https://pantera1-100gb-cl-movistar.dps.live/ucvtveventos/ucvtveventos.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="ucv-tv-eventos-2" tvg-name="UCV TV Eventos" tvg-chno="669" tvg-country="CL" group-title="General",UCV TV Eventos
-https://unlimited1-cl-isp.dps.live/ucvtveventos/ucvtveventos.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="uniregiontv-cl-sd" tvg-name="Uniregion TV" tvg-chno="670" tvg-country="CL" group-title="General",Uniregion TV
-https://5ff3d9babae13.streamlock.net/ubyecbxnfd/ubyecbxnfd/playlist.m3u8
 #EXTINF:-1 tvg-id="utalcatv-u-de-talca-campus-tv" tvg-name="UTalcaTV (U. de Talca) - Campus TV" tvg-chno="671" tvg-country="CL" group-title="General",UTalcaTV (U. de Talca) - Campus TV
 https://unlimited1-cl-isp.dps.live/campustv/campustv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="utv-cl-sd" tvg-name="UTV (Chile)" tvg-chno="672" tvg-country="CL" group-title="General",UTV (Chile)
@@ -1347,28 +1015,14 @@ https://v2.tustreaming.cl/utv/index.m3u8
 https://5ff3d9babae13.streamlock.net/jwagpqxehu/jwagpqxehu/playlist.m3u8
 #EXTINF:-1 tvg-id="vision-plus-tv-melipilla" tvg-name="Vision Plus TV Melipilla" tvg-chno="674" tvg-country="CL" group-title="General",Vision Plus TV Melipilla
 https://5ff3d9babae13.streamlock.net:443/jwagpqxehu/jwagpqxehu/playlist.m3u8
-#EXTINF:-1 tvg-id="vision-plus-tv-melipilla-2" tvg-name="Vision Plus TV Melipilla" tvg-chno="675" tvg-country="CL" group-title="General",Vision Plus TV Melipilla
-https://5ff3d9babae13.streamlock.net:1936/jwagpqxehu/jwagpqxehu/playlist.m3u8
 #EXTINF:-1 tvg-id="1787-voces-del-fuego" tvg-name="Voces del Fuego" tvg-chno="676" tvg-country="CL" group-title="General",Voces del Fuego
 https://stmv2.voxtvhd.com.br/vocesdelfuego/vocesdelfuego/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="vtv" tvg-name="VTV" tvg-chno="677" tvg-country="CL" group-title="General",VTV
-https://unlimited2-cl-isp.dps.live/vtv/vtv.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="vtv-2" tvg-name="VTV" tvg-chno="678" tvg-country="CL" group-title="General",VTV
-https://unlimited6-cl.dps.live/vtv/vtv.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="vtv-quillota" tvg-name="VTV Quillota" tvg-chno="679" tvg-country="CL" group-title="General",VTV Quillota
-https://pantera1-100gb-cl-movistar.dps.live/vtvquillota/vtvquillota.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="vtv-quillota-2" tvg-name="VTV Quillota" tvg-chno="680" tvg-country="CL" group-title="General",VTV Quillota
-https://unlimited1-cl-isp.dps.live/vtvquillota/vtvquillota.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="vtvvalledeaconcagua-cl-sd" tvg-name="VTV Valle de Aconcagua" tvg-chno="681" tvg-country="CL" group-title="General",VTV Valle de Aconcagua
 https://unlimited1-us.dps.live/vtv/vtv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="1617-zoom-tecnologico-plus" tvg-name="Zoom Tecnologico Plus" tvg-chno="682" tvg-country="CL" group-title="General",Zoom Tecnologico Plus
 https://vivo.cdnvid.com/zoomtecnologico.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="conti" tvg-name="Contivisión" tvg-chno="683" tvg-country="CL" group-title="Biobío",Contivisión
-https://unlimited6-cl.dps.live/cm/cm.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="101tvmalaga-es-sd" tvg-name="101tv Malaga" tvg-chno="684" tvg-country="ES" group-title="Noticias",101tv Malaga
 https://liveingesta318.cdnmedia.tv/101weblive/smil:malaga.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="24horas-es-sd" tvg-name="24 Horas" tvg-chno="685" tvg-country="ES" group-title="Noticias",24 Horas
-https://ztnr.rtve.es/ztnr/1694255.m3u8
 #EXTINF:-1 tvg-id="24horascatalunya-es-sd" tvg-name="24 Horas Catalunya" tvg-chno="686" tvg-country="ES" group-title="Noticias",24 Horas Catalunya
 https://ztnr.rtve.es/ztnr/4952053.m3u8
 #EXTINF:-1 tvg-id="247canaldenoticias-ar-sd" tvg-name="24/7 Canal de Noticias" tvg-chno="687" tvg-country="AR" group-title="Noticias",24/7 Canal de Noticias
@@ -1443,8 +1097,6 @@ https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 https://ecoteltv.streamseguro.com:5443/LiveApp/streams/streaming.m3u8
 #EXTINF:-1 tvg-id="ecuavisa" tvg-name="Ecuavisa" tvg-chno="722" tvg-country="EC" group-title="Noticias",Ecuavisa
 https://redirector.rudo.video/hls-video/c54ac2799874375c81c1672abb700870537c5223/ecuavisaqo/ecuavisaqo/.m3u8
-#EXTINF:-1 tvg-id="ecuavisa-2" tvg-name="Ecuavisa" tvg-chno="723" tvg-country="EC" group-title="Noticias",Ecuavisa
-https://jireh-6-hls-video-cl-isp.dps.live/hls-video/c54ac2799874375c81c1672abb700870537c5223/ecuavisa/ecuavisa.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="elnuevodiariotv-do-sd" tvg-name="El Nuevo Diario TV" tvg-chno="724" tvg-country="DO" group-title="Noticias",El Nuevo Diario TV
 https://nuevodiario01.streamprolive.com/hls/live.m3u8
 #EXTINF:-1 tvg-id="elyssatv-tn-hd" tvg-name="Elyssa TV" tvg-chno="725" tvg-country="TN" group-title="Noticias",Elyssa TV
@@ -1519,12 +1171,6 @@ https://notusaauth.univision.com/api/v3/akamai-auth/token-auth?url=https://chann
 https://nanduti.b-cdn.net/Source.m3u8
 #EXTINF:-1 tvg-id="net-tv" tvg-name="Net TV" tvg-chno="760" tvg-country="AR" group-title="Noticias",Net TV
 https://unlimited1-us.dps.live/nettv/nettv.smil/nettv/livestream1/chunks.m3u8
-#EXTINF:-1 tvg-id="net-tv-2" tvg-name="Net TV" tvg-chno="761" tvg-country="AR" group-title="Noticias",Net TV
-https://unlimited1-us.dps.live/nettv/nettv.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="net-tv-3" tvg-name="Net TV" tvg-chno="762" tvg-country="AR" group-title="Noticias",Net TV
-https://unlimited6-cl.dps.live/nettv/nettv.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="net-tv-4" tvg-name="Net TV" tvg-chno="763" tvg-country="AR" group-title="Noticias",Net TV
-https://unlimited1-us.dps.live/nettv/nettv.smil/nettv/livestream2/chunks.m3u8
 #EXTINF:-1 tvg-id="newsoftheworld-us-global" tvg-name="News of the World" tvg-chno="764" tvg-country="US" group-title="Noticias",News of the World
 https://nowhls.wns.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="newsoftheworld-us-spanish" tvg-name="News of the World Spanish" tvg-chno="765" tvg-country="US" group-title="Noticias",News of the World Spanish
@@ -1575,8 +1221,6 @@ https://cdn-ssai.smartbit.co/rpp/index.m3u8
 https://live-evg11.tv360.bitel.com.pe/bitel/selvaticaSRT/playlist.m3u8
 #EXTINF:-1 tvg-id="rt-noticias" tvg-name="RT Noticias" tvg-chno="788" tvg-country="ES" group-title="Noticias",RT Noticias
 https://rt-esp.rttv.com/dvr/rtesp/playlist_4500Kb.m3u8
-#EXTINF:-1 tvg-id="rt-noticias-2" tvg-name="RT Noticias" tvg-chno="789" tvg-country="ES" group-title="Noticias",RT Noticias
-https://rt-esp.rttv.com/dvr/rtesp/playlist_1600Kb.m3u8
 #EXTINF:-1 tvg-id="san-luis-san-luis" tvg-name="San Luis + (San Luis)" tvg-chno="790" tvg-country="ES" group-title="Noticias",San Luis + (San Luis)
 https://stream.condoristream.com/live/gFNNZzfsW2e8VsnfRnqP2oHtOMK9V8GO/index.m3u8
 #EXTINF:-1 tvg-id="sccurrents-us-sd" tvg-name="SC Currents" tvg-chno="791" tvg-country="US" group-title="Noticias",SC Currents
@@ -1833,10 +1477,6 @@ https://jmp2.uk/plu-609ae5cd48d3200007b0a98e.m3u8
 https://jmp2.uk/plu-629a066860ef810008267b70.m3u8
 #EXTINF:-1 tvg-id="dreikotv-pa-sd" tvg-name="Dreiko TV" tvg-chno="917" tvg-country="PA" group-title="Animación",Dreiko TV
 https://cloudvideo.servers10.com:8081/8020/index.m3u8
-#EXTINF:-1 tvg-id="energeek-cl-hd" tvg-name="EnerGeek" tvg-chno="918" tvg-country="CL" group-title="Animación",EnerGeek
-https://cl-2.backend.energeek.cl/bkp/egretroweb/index.m3u8?token=IPTVgh26
-#EXTINF:-1 tvg-id="energeekfan-cl-sd" tvg-name="EnerGeek FAN" tvg-chno="919" tvg-country="CL" group-title="Animación",EnerGeek FAN
-https://cl-2.backend.energeek.cl/bkp/egfan/mobile/index.m3u8?token=IPTVgh26
 #EXTINF:-1 tvg-id="esportsmaxtv-ve-sd" tvg-name="eSports Max TV" tvg-chno="920" tvg-country="VE" group-title="Animación",eSports Max TV
 https://cdnlive.klicgo.net/esportsmax/live/playlist_dvr.m3u8
 #EXTINF:-1 tvg-id="extremakidstv-cr-hd" tvg-name="Extrema Kids TV" tvg-chno="921" tvg-country="CR" group-title="Animación",Extrema Kids TV
@@ -2015,10 +1655,6 @@ https://copacotf.desdeparaguay.net/e40tv/e40tv_py_alta/playlist.m3u8?admin=tvacc
 https://pacific.direcnode.com:3353/live/ecuamundotvlive.m3u8
 #EXTINF:-1 tvg-id="elsolnetworktv-ec-sd" tvg-name="El Sol Network TV" tvg-chno="1008" tvg-country="EC" group-title="Música",El Sol Network TV
 https://tv.wracanal10.com:3025/live/elsoltvlive.m3u8
-#EXTINF:-1 tvg-id="energeekradio-cl-sd" tvg-name="EnerGeek Radio" tvg-chno="1009" tvg-country="CL" group-title="Música",EnerGeek Radio
-https://cl-2.backend.energeek.cl/bkp/egradio/mobile/index.m3u8?token=IPTVgh26
-#EXTINF:-1 tvg-id="1312" tvg-name="Eternal Metal" tvg-chno="1010" tvg-country="MX" group-title="Música",Eternal Metal
-https://stmv7.voxtvhd.com.br/eternaltv/eternaltv/playlist.m3u8
 #EXTINF:-1 tvg-id="fabulosaestereo1005fm-pa-sd" tvg-name="Fabulosa Estereo 100.5 FM" tvg-chno="1011" tvg-country="PA" group-title="Música",Fabulosa Estereo 100.5 FM
 https://www.streaming507.net:19360/videofabulosa/videofabulosa.m3u8
 #EXTINF:-1 tvg-id="farraplay-py-sd" tvg-name="Farra Play" tvg-chno="1012" tvg-country="PY" group-title="Música",Farra Play
@@ -2117,8 +1753,6 @@ https://videoserver.tmcreativos.com:19360/nqvnhujhrx/nqvnhujhrx.m3u8
 https://ventdelnord.tv:8080/mola/directe.m3u8
 #EXTINF:-1 tvg-id="montonestv-do-hd" tvg-name="Montones TV" tvg-chno="1059" tvg-country="DO" group-title="Música",Montones TV
 https://lbgo.bozztv.com/ssh101/ssh101/montonestv1/playlist.m3u8
-#EXTINF:-1 tvg-id="mundo-de-la-musica-tv" tvg-name="Mundo de la Música TV" tvg-chno="1060" tvg-country="ES" group-title="Música",Mundo de la Música TV
-https://tv.arkeo.cl:1936/mundodelamusica/mundodelamusica/playlist.m3u8
 #EXTINF:-1 tvg-id="musictvgranada-es-sd" tvg-name="Music TV Granada" tvg-chno="1061" tvg-country="ES" group-title="Música",Music TV Granada
 https://cloudvideo.servers10.com:8081/8032/index.m3u8
 #EXTINF:-1 tvg-id="musictop-ar-sd" tvg-name="MusicTop" tvg-chno="1062" tvg-country="AR" group-title="Música",MusicTop
@@ -2557,8 +2191,6 @@ https://s.emisoras.tv:8081/penielkids/index.m3u8
 https://s.emisoras.tv:8081/penielmusical/index.m3u8
 #EXTINF:-1 tvg-id="penieltvbibliaabierta-gt-sd" tvg-name="Peniel TV Biblia Abierta" tvg-chno="1279" tvg-country="GT" group-title="Religioso",Peniel TV Biblia Abierta
 https://s.emisoras.tv:8081/penielbibliaabierta/index.m3u8
-#EXTINF:-1 tvg-id="plenitudtv-gt-sd" tvg-name="Plenitud TV" tvg-chno="1280" tvg-country="GT" group-title="Religioso",Plenitud TV
-https://stream.oursnetworktv.com/latin/PlenitudGtm/playlist.m3u8
 #EXTINF:-1 tvg-id="presenciatelevision-gt-sd" tvg-name="Presencia Television" tvg-chno="1281" tvg-country="GT" group-title="Religioso",Presencia Television
 https://stream.oursnetworktv.com/latin/remaPresencia/playlist.m3u8
 #EXTINF:-1 tvg-id="proclamaciontv-ve-sd" tvg-name="Proclamacion TV" tvg-chno="1282" tvg-country="VE" group-title="Religioso",Proclamacion TV
@@ -2739,8 +2371,6 @@ https://live20.bozztv.com/giatv/giatv-canal30tda/canal30tda/chunks.m3u8
 https://cdnbarinas.tvzamora.com/showven/index.m3u8
 #EXTINF:-1 tvg-id="somosentrerios-ar-sd" tvg-name="Somos Entre Rios" tvg-chno="1370" tvg-country="AR" group-title="Cultura",Somos Entre Rios
 https://live20.bozztv.com/akamaissh101/ssh101/somosentrerios/playlist.m3u8
-#EXTINF:-1 tvg-id="suyaitv-cl-hd" tvg-name="Suyai TV" tvg-chno="1371" tvg-country="CL" group-title="Cultura",Suyai TV
-https://trun.suyaitv.cl/memfs/1255a743-cd41-40a8-86c4-d264ee16ebf3.m3u8
 #EXTINF:-1 tvg-id="tvcuatro42-mx-sd" tvg-name="TV Cuatro 4.2" tvg-chno="1372" tvg-country="MX" group-title="Cultura",TV Cuatro 4.2
 https://5f2c1b0d880e5.streamlock.net/tv42/tv42.smil/.m3u8
 #EXTINF:-1 tvg-id="uaatv-mx-sd" tvg-name="UAA TV" tvg-chno="1373" tvg-country="MX" group-title="Cultura",UAA TV
@@ -2871,8 +2501,6 @@ https://streamserver3.seneca.tv/cval_live/cdn_enc_3/master.m3u8
 https://reflect-communitytv.cablecast.tv/live-4/live/stream-2/live.m3u8
 #EXTINF:-1 tvg-id="ebs-be-sd" tvg-name="EbS" tvg-chno="1436" tvg-country="BE" group-title="Legislativo",EbS
 https://streams.prd.commavservices.eu/live/ebs/index.m3u8
-#EXTINF:-1 tvg-id="ebsplus-be-sd" tvg-name="EbS+" tvg-chno="1437" tvg-country="BE" group-title="Legislativo",EbS+
-https://streams.prd.commavservices.eu/live/ebsplus/index.m3u8
 #EXTINF:-1 tvg-id="icrtvcolima-mx-sd" tvg-name="Icrtv Colima" tvg-chno="1438" tvg-country="MX" group-title="Legislativo",Icrtv Colima
 https://5fc584f3f19c9.streamlock.net/icrtvcolima/smil:icrtvcolima.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="jnetv-pe-sd" tvg-name="JNE TV" tvg-chno="1439" tvg-country="PE" group-title="Legislativo",JNE TV
@@ -3341,8 +2969,6 @@ https://bcovlive-a.akamaihd.net/8499d938ef904e39b58a4adec2ddeada/eu-west-1/60579
 https://vivatv.juanjuiserver.com:3251/live/a1televisionlive.m3u8
 #EXTINF:-1 tvg-id="a24-ar-sd" tvg-name="A24" tvg-chno="1671" tvg-country="AR" group-title="General",A24
 https://g5.vxral-slo.transport.edge-access.net/a12/ngrp:a24-100056_all/playlist.m3u8?sense=true
-#EXTINF:-1 tvg-id="a24-ar" tvg-name="A24 Ⓨ" tvg-chno="1672" tvg-country="AR" group-title="General",A24 Ⓨ
-https://www.youtube.com/c/A24com/live
 #EXTINF:-1 tvg-id="a7tv-do-hd" tvg-name="A7 TV" tvg-chno="1673" tvg-country="DO" group-title="General",A7 TV
 https://183.bozztv.com/ssh101/ssh101/a7tvjarabacoa/playlist.m3u8
 #EXTINF:-1 tvg-id="abcteleshow-pe-sd" tvg-name="ABC Teleshow" tvg-chno="1674" tvg-country="PE" group-title="General",ABC Teleshow
@@ -3361,12 +2987,8 @@ https://jmp2.uk/plu-61b793ccf571b80007b7a610.m3u8
 https://tigocloud.desdeparaguay.net/agrtv/agrtv/playlist.m3u8
 #EXTINF:-1 tvg-id="agro-tv-hd-no-24-7-cusco" tvg-name="Agro TV HD [No 24/7] (Cusco)" tvg-chno="1681" tvg-country="PE" group-title="General",Agro TV HD [No 24/7] (Cusco)
 https://play.agenciastreaming.com:8081/agrotv/index.m3u8
-#EXTINF:-1 tvg-id="aguacatetv-ve" tvg-name="Aguacate TV" tvg-chno="1682" tvg-country="VE" group-title="General",Aguacate TV
-https://streamtv.intervenhosting.net:3040/hybrid/play.m3u8
 #EXTINF:-1 tvg-id="aguila-roja" tvg-name="Águila Roja" tvg-chno="1683" tvg-country="ES" group-title="General",Águila Roja
 https://djpkijcsi04ot.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-534sg92d7s442/aguro.m3u8
-#EXTINF:-1 tvg-id="aguila-roja-2" tvg-name="Águila Roja" tvg-chno="1684" tvg-country="ES" group-title="General",Águila Roja
-https://jmp2.uk/plu-6812206e1b3e3be031a5c363.m3u8
 #EXTINF:-1 tvg-id="aguilatv-do-hd" tvg-name="Aguila TV" tvg-chno="1685" tvg-country="DO" group-title="General",Aguila TV
 https://fox.hostlagarto.com:8081/aguilatv/playlist.m3u8
 #EXTINF:-1 tvg-id="ahoratv-do-sd" tvg-name="Ahora TV" tvg-chno="1686" tvg-country="DO" group-title="General",Ahora TV
@@ -3463,8 +3085,6 @@ https://servidor.islahostingla.com:3548/live/arabitvlive.m3u8
 https://cartv.streaming.aranova.es/hls/live/aragontv_canal1.m3u8
 #EXTINF:-1 tvg-id="archivos-extraterrestres" tvg-name="Archivos Extraterrestres" tvg-chno="1732" tvg-country="MX" group-title="General",Archivos Extraterrestres
 https://jmp2.uk/plu-645d1abbe1979c0008779d5a.m3u8
-#EXTINF:-1 tvg-id="archivos-forenses" tvg-name="Archivos Forenses" tvg-chno="1733" tvg-country="MX" group-title="General",Archivos Forenses
-https://jmp2.uk/plu-5efb8c19b2678b000780d032.m3u8
 #EXTINF:-1 tvg-id="argentina12-ar" tvg-name="Argentina 12 Ⓨ" tvg-chno="1734" tvg-country="AR" group-title="General",Argentina 12 Ⓨ
 https://www.youtube.com/c/IPNoticiasEnVivo/live
 #EXTINF:-1 tvg-id="argentinisimasatelital-ar-sd" tvg-name="Argentinisima Satelital" tvg-chno="1735" tvg-country="AR" group-title="General",Argentinisima Satelital
@@ -3731,8 +3351,6 @@ https://rpn3.bozztv.com/ssh101/ssh101/canal30mx/playlist.m3u8
 https://s.emisoras.tv:8081/stocanal32hn/playlist.m3u8
 #EXTINF:-1 tvg-id="canal33madrid-es-sd" tvg-name="Canal 33 Madrid" tvg-chno="1866" tvg-country="ES" group-title="General",Canal 33 Madrid
 https://media2.streambrothers.com:1936/8140/8140/playlist.m3u8
-#EXTINF:-1 tvg-id="canal-33-madrid" tvg-name="Canal 33 Madrid" tvg-chno="1867" tvg-country="ES" group-title="General",Canal 33 Madrid
-https://media2.streambrothers.com:1936/8140/8140/.m3u8
 #EXTINF:-1 tvg-id="canal33tijuana-mx-sd" tvg-name="Canal 33 Tijuana" tvg-chno="1868" tvg-country="MX" group-title="General",Canal 33 Tijuana
 https://5f2c1b0d880e5.streamlock.net/canal33tijuana/videocanal33tijuana/playlist.m3u8
 #EXTINF:-1 tvg-id="canal34sanjuan-ar-sd" tvg-name="Canal 34 San Juan" tvg-chno="1869" tvg-country="AR" group-title="General",Canal 34 San Juan
@@ -3897,8 +3515,6 @@ https://s.emisoras.tv:8081/dtv/index.m3u8
 https://unlimited1-us.dps.live/perfiltv/perfiltv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="canalextremadura-es-sd" tvg-name="Canal Extremadura" tvg-chno="1949" tvg-country="ES" group-title="General",Canal Extremadura
 https://cdnlive.codev8.net/canalextremaduralive/smil:channel1DVR.smil/playlist.m3u8?DVR=
-#EXTINF:-1 tvg-id="canalextremadura-es" tvg-name="Canal Extremadura" tvg-chno="1950" tvg-country="ES" group-title="General",Canal Extremadura
-https://d2ymuyhevki1a1.cloudfront.net/wct-ddd2992e-86fc-4611-a491-7f392259e9ba/continuous/9be76611-d2cd-474d-bf19-ef702ba31b02/index.m3u8
 #EXTINF:-1 tvg-id="canal-grande-television-no-24-7-opc-2" tvg-name="Canal Grande Television [No 24/7][Opc.2]" tvg-chno="1951" tvg-country="ES" group-title="General",Canal Grande Television [No 24/7][Opc.2]
 https://lbgo.bozztv.com/ssh101/ssh101/grandetv2240/playlist.m3u8
 #EXTINF:-1 tvg-id="canal-institucional-no-24-7-nacional" tvg-name="Canal Institucional [No 24/7] (Nacional)" tvg-chno="1952" tvg-country="CO" group-title="General",Canal Institucional [No 24/7] (Nacional)
@@ -3923,8 +3539,6 @@ https://live20.bozztv.com/akamaissh101/ssh101/canalmulti24/playlist.m3u8
 https://movil.ejeserver.com/live/mundovisiontv.m3u8
 #EXTINF:-1 tvg-id="canalonce-mx-hd" tvg-name="Canal Once" tvg-chno="1962" tvg-country="MX" group-title="General",Canal Once
 https://vivo.canaloncelive.tv/securepkgr3/oncemexico/playlist.m3u8
-#EXTINF:-1 tvg-id="canalonce-mx" tvg-name="Canal Once" tvg-chno="1963" tvg-country="MX" group-title="General",Canal Once
-https://vivo.canaloncelive.tv/secureoncedos/oncedigital/playlist.m3u8
 #EXTINF:-1 tvg-id="canal-once-del-zulia" tvg-name="Canal Once Del Zulia" tvg-chno="1964" tvg-country="ES" group-title="General",Canal Once Del Zulia
 https://streaming5.globalhostla.com/rtplive/canalzulia/playlist.m3u8
 #EXTINF:-1 tvg-id="canal-once-hd-ipn-nacional" tvg-name="Canal Once HD (IPN) (Nacional)" tvg-chno="1965" tvg-country="MX" group-title="General",Canal Once HD (IPN) (Nacional)
@@ -3945,12 +3559,6 @@ https://5ca9af4645e15.streamlock.net/suyapa/videosuyapa/playlist.m3u8
 https://cdnlive.codev8.net/rtvalive/smil:channel22.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="canalsurandalucia-es-sd" tvg-name="Canal Sur Andalucia" tvg-chno="1973" tvg-country="ES" group-title="General",Canal Sur Andalucia
 https://dfk2a268yviz9.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ddiii1m6jt6of/CanalSurAndaluciaES.m3u8
-#EXTINF:-1 tvg-id="canalsurandalucia-es" tvg-name="Canal Sur Andalucía" tvg-chno="1974" tvg-country="ES" group-title="General",Canal Sur Andalucía
-https://d4oe4cnrgi9c9.cloudfront.net/master.m3u8
-#EXTINF:-1 tvg-id="canal-sur-andalucia" tvg-name="Canal Sur Andalucía" tvg-chno="1975" tvg-country="ES" group-title="General",Canal Sur Andalucía
-https://live-24-canalsur.interactvty.pro/9bb0f4edcb8946e79f5017ddca6c02b0/26af5488cda642ed2eddd27a6328c93b9c03e9181b9d0a825147a7d978e69202.m3u8
-#EXTINF:-1 tvg-id="canaltro-co-sd" tvg-name="Canal TRO" tvg-chno="1976" tvg-country="CO" group-title="General",Canal TRO
-https://liveingesta118.cdnmedia.tv/canaltro2live/smil:live.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="canaltrv-sv-sd" tvg-name="Canal TRV" tvg-chno="1977" tvg-country="SV" group-title="General",Canal TRV
 https://stream.ontvmx.com/ontv/CNMLXR0Z6FPtGdjcI4/playlist.m3u8
 #EXTINF:-1 tvg-id="canaltv3-co-sd" tvg-name="Canal TV3" tvg-chno="1978" tvg-country="CO" group-title="General",Canal TV3
@@ -4021,8 +3629,6 @@ https://vivo.solumedia.com:19360/celta/celta.m3u8
 https://5790d294af2dc.streamlock.net/cenovision/cenovision/playlist.m3u8
 #EXTINF:-1 tvg-id="cerritostv3-us-sd" tvg-name="Cerritos TV3" tvg-chno="2011" tvg-country="US" group-title="General",Cerritos TV3
 https://cdn3.wowza.com/5/UWpORHhLSEs5SkJs/cerritos/G0010_002/playlist.m3u8
-#EXTINF:-1 tvg-id="cgtn-spanish-2" tvg-name="CGTN Spanish" tvg-chno="2012" tvg-country="CN" group-title="General",CGTN Spanish
-https://dash4.antik.sk/live/test_cgtn_esp_tizen/playlist.m3u8
 #EXTINF:-1 tvg-id="charapatv-pe-sd" tvg-name="Charapa TV" tvg-chno="2013" tvg-country="PE" group-title="General",Charapa TV
 https://live-evg10.tv360.bitel.com.pe/bitel/charapatvSRT/playlist.m3u8
 #EXTINF:-1 tvg-id="cherif" tvg-name="Cherif" tvg-chno="2014" tvg-country="ES" group-title="General",Cherif
@@ -4061,8 +3667,6 @@ https://livetrx01.vodgc.net/live-01-07-ciudad.vodgc.net/index.m3u8
 https://617c5175c970b.streamlock.net:4444/chacodxdtv/livenew/playlist.m3u8
 #EXTINF:-1 tvg-id="ciudadanos-por-el-mundo" tvg-name="Ciudadanos por el mundo" tvg-chno="2031" tvg-country="ES" group-title="General",Ciudadanos por el mundo
 https://jmp2.uk/plu-622f42b831233300078658cc.m3u8
-#EXTINF:-1 tvg-id="clan-es" tvg-name="clan" tvg-chno="2032" tvg-country="ES" group-title="General",clan
-https://rtvelivestream.rtve.es/rtvesec/clan/clan_main_dvr.m3u8
 #EXTINF:-1 tvg-id="clarotelevisiondominicana-do-sd" tvg-name="Claro Television Dominicana" tvg-chno="2033" tvg-country="DO" group-title="General",Claro Television Dominicana
 https://streamunoapp.com:3960/live/claroteledomlive.m3u8
 #EXTINF:-1 tvg-id="clic-tv-hd-tv-azteca-nacional" tvg-name="Clic TV HD (TV Azteca) (Nacional)" tvg-chno="2034" tvg-country="MX" group-title="General",Clic TV HD (TV Azteca) (Nacional)
@@ -4121,8 +3725,6 @@ https://tv.mediacp.eu:8081/coraltv/index.m3u8
 https://stream.arcast.net:4443/correadigital/canal12/playlist.m3u8
 #EXTINF:-1 tvg-id="corrientestv-ar-sd" tvg-name="Corrientes TV" tvg-chno="2061" tvg-country="AR" group-title="General",Corrientes TV
 https://617c5175c970b.streamlock.net:4444/13max2/live13maxtv2026/playlist.m3u8
-#EXTINF:-1 tvg-id="cosmostv-ar" tvg-name="Cosmos TV" tvg-chno="2062" tvg-country="MX" group-title="General",Cosmos TV
-https://tv.mediacp.eu:19360/cosmos/cosmos.m3u8
 #EXTINF:-1 tvg-id="cosmovision-co-sd" tvg-name="Cosmovision" tvg-chno="2063" tvg-country="CO" group-title="General",Cosmovision
 https://lbgo.bozztv.com/ssh101/ssh101/Cosmovisión/playlist.m3u8
 #EXTINF:-1 tvg-id="costanoroestetv-es-sd" tvg-name="Costa Noroeste TV" tvg-chno="2064" tvg-country="ES" group-title="General",Costa Noroeste TV
@@ -4199,8 +3801,6 @@ https://live2.telemicro.com.do/live/digital15cast_1080p/playlist.m3u8
 https://ss2.tvrdomi.com:1936/digitalvision/digitalvision/playlist.m3u8
 #EXTINF:-1 tvg-id="distritotv-es-sd" tvg-name="Distrito TV" tvg-chno="2100" tvg-country="ES" group-title="General",Distrito TV
 https://nlb2-live.emitstream.com/hls/3mn7wpcv7hbmxmdzaxap/master.m3u8
-#EXTINF:-1 tvg-id="distrito-tv" tvg-name="Distrito TV" tvg-chno="2101" tvg-country="ES" group-title="General",Distrito TV
-https://live.emitstream.com/hls/3mn7wpcv7hbmxmdzaxap/master.m3u8
 #EXTINF:-1 tvg-id="divinity-es" tvg-name="Divinity Ⓖ" tvg-chno="2102" tvg-country="ES" group-title="General",Divinity Ⓖ
 https://directos.divinity.es/orilinear04/live/linear04/main/main.isml/main-audio_spa=128000-video=1500000.m3u8
 #EXTINF:-1 tvg-id="dmodachannel-bo-sd" tvg-name="Dmoda Channel" tvg-chno="2103" tvg-country="BO" group-title="General",Dmoda Channel
@@ -4303,8 +3903,6 @@ https://jmp2.uk/plu-63c69c87808b740007599fe1.m3u8
 https://directes-tv-es.3catdirectes.cat/live-origin/esport3-hls/master.m3u8
 #EXTINF:-1 tvg-id="esteponatelevision-es-sd" tvg-name="Estepona Television" tvg-chno="2152" tvg-country="ES" group-title="General",Estepona Television
 https://cloudvideo.servers10.com:8081/8022/index.m3u8
-#EXTINF:-1 tvg-id="estrellatv-mx" tvg-name="Estrella TV" tvg-chno="2153" tvg-country="MX" group-title="General",Estrella TV
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00567-estrellamedia-estrellatv-estrellamedia/playlist.m3u8
 #EXTINF:-1 tvg-id="estrella-tv-games-hd-nacional" tvg-name="Estrella TV Games HD (Nacional)" tvg-chno="2154" tvg-country="MX" group-title="General",Estrella TV Games HD (Nacional)
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00567-estrellamedia-estrellagames-estrellamedia/playlist.m3u8
 #EXTINF:-1 tvg-id="estutele-es-sd" tvg-name="EsTuTele" tvg-chno="2155" tvg-country="ES" group-title="General",EsTuTele
@@ -4327,8 +3925,6 @@ https://multimedia.eitb.eus/live-content/etb2hd-hls/master.m3u8
 https://cdn1.etbon.eus/etb2on/index.m3u8
 #EXTINF:-1 tvg-id="euronews-es" tvg-name="euronews" tvg-chno="2164" tvg-country="ES" group-title="General",euronews
 https://euronews-live-spa-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6571/bitok/eyJzdGlkIjoiMDA0YjY0NTMtYjY2MC00ZTZkLTlkNzEtMTk3YTM3ZDZhZWIxIiwibWt0IjoiZXMiLCJjaCI6NjU3MSwicHRmIjoxfQ==/26034/euronews-es.m3u8
-#EXTINF:-1 tvg-id="euronews-spanish-2" tvg-name="Euronews Spanish" tvg-chno="2165" tvg-country="FR" group-title="General",Euronews Spanish
-https://jmp2.uk/plu-60d3583ef310610007fb02b1.m3u8
 #EXTINF:-1 tvg-id="evoluciontv-pe-sd" tvg-name="Evolucion TV" tvg-chno="2166" tvg-country="PE" group-title="General",Evolucion TV
 https://edgectc.com/CTC_SAN_RAFAEL/index.m3u8
 #EXTINF:-1 tvg-id="expresatv-mx-sd" tvg-name="Expresa TV" tvg-chno="2167" tvg-country="MX" group-title="General",Expresa TV
@@ -4555,18 +4151,12 @@ https://live.koryocdn.org/kctv/index.m3u8
 https://streamer.nknews.org/tvdash/stream.mpd
 #EXTINF:-1 tvg-id="la1-es-sd" tvg-name="La 1" tvg-chno="2278" tvg-country="ES" group-title="General",La 1
 https://cdn.stmify.com/zapitv/stream/LA_1/la1_4k.mpd
-#EXTINF:-1 tvg-id="la1-es" tvg-name="La 1" tvg-chno="2279" tvg-country="ES" group-title="General",La 1
-https://rtvelivestream.rtve.es/rtvesec/la1/la1_main_dvr.m3u8
 #EXTINF:-1 tvg-id="la1canarias-es" tvg-name="La 1 (Canarias)" tvg-chno="2280" tvg-country="ES" group-title="General",La 1 (Canarias)
 https://rtvelivestream.rtve.es/rtvesec/can/la1_can_main_dvr.m3u8
 #EXTINF:-1 tvg-id="la1catalunya-es" tvg-name="La 1 (Catalunya)" tvg-chno="2281" tvg-country="ES" group-title="General",La 1 (Catalunya)
 https://rtvelivestream.rtve.es/rtvesec/cat/la1_cat_main_dvr.m3u8
-#EXTINF:-1 tvg-id="la1canarias-es-sd" tvg-name="La 1 Canarias" tvg-chno="2282" tvg-country="ES" group-title="General",La 1 Canarias
-https://ztnr.rtve.es/ztnr/5190066.m3u8
 #EXTINF:-1 tvg-id="la-1-canarias-canarias" tvg-name="La 1 Canarias (Canarias)" tvg-chno="2283" tvg-country="ES" group-title="General",La 1 Canarias (Canarias)
 https://rtvelivestream.rtve.es/rtvesec/can/la1_can_main.m3u8
-#EXTINF:-1 tvg-id="la1catalunya-es-sd" tvg-name="La 1 Catalunya" tvg-chno="2284" tvg-country="ES" group-title="General",La 1 Catalunya
-https://ztnr.rtve.es/ztnr/3293681.m3u8
 #EXTINF:-1 tvg-id="la-1-cataluya-cataluna" tvg-name="La 1 Cataluya (Cataluña)" tvg-chno="2285" tvg-country="ES" group-title="General",La 1 Cataluya (Cataluña)
 https://rtvelivestream.rtve.es/rtvesec/cat/la1_cat_main.m3u8
 #EXTINF:-1 tvg-id="la-1-de-tve-nacional" tvg-name="La 1 de TVE (Nacional)" tvg-chno="2286" tvg-country="ES" group-title="General",La 1 de TVE (Nacional)
@@ -4575,8 +4165,6 @@ https://rtvelivestream.rtve.es/rtvesec/la1/la1_main.m3u8
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=15619
 #EXTINF:-1 tvg-id="la2-es-sd" tvg-name="La 2" tvg-chno="2288" tvg-country="ES" group-title="General",La 2
 https://rtvelivestream.rtve.es/rtvesec/la2/la2_main.m3u8
-#EXTINF:-1 tvg-id="la2-es" tvg-name="La 2" tvg-chno="2289" tvg-country="ES" group-title="General",La 2
-https://rtvelivestream.rtve.es/rtvesec/la2/la2_main_dvr.m3u8
 #EXTINF:-1 tvg-id="la2catalunya-es" tvg-name="La 2 (Catalunya)" tvg-chno="2290" tvg-country="ES" group-title="General",La 2 (Catalunya)
 https://rtvelivestream.rtve.es/rtvesec/cat/la2_cat_main_dvr.m3u8
 #EXTINF:-1 tvg-id="la-2-nacional-opc-2" tvg-name="La 2 (Nacional)[Opc.2]" tvg-chno="2291" tvg-country="ES" group-title="General",La 2 (Nacional)[Opc.2]
@@ -4585,8 +4173,6 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=15618
 https://ztnr.rtve.es/ztnr/5468585.m3u8
 #EXTINF:-1 tvg-id="la-2-canarias-canarias" tvg-name="La 2 Canarias (Canarias)" tvg-chno="2293" tvg-country="ES" group-title="General",La 2 Canarias (Canarias)
 https://rtvelivestream.rtve.es/rtvesec/can/la2_can_main.m3u8
-#EXTINF:-1 tvg-id="la2catalunya-es-sd" tvg-name="La 2 Catalunya" tvg-chno="2294" tvg-country="ES" group-title="General",La 2 Catalunya
-https://ztnr.rtve.es/ztnr/3987218.m3u8
 #EXTINF:-1 tvg-id="la-2-catalunya-cataluna" tvg-name="La 2 Catalunya (Cataluña)" tvg-chno="2295" tvg-country="ES" group-title="General",La 2 Catalunya (Cataluña)
 https://rtvelivestream.rtve.es/rtvesec/cat/la2_cat_main.m3u8
 #EXTINF:-1 tvg-id="la8mediterraneo-es-sd" tvg-name="La 8 Mediterraneo" tvg-chno="2296" tvg-country="ES" group-title="General",La 8 Mediterraneo
@@ -4627,8 +4213,6 @@ https://cloud5.larivision.net/hls/live.m3u8
 https://jmp2.uk/stvp-ES4400001N3
 #EXTINF:-1 tvg-id="lasestrellas-mx-sd" tvg-name="Las Estrellas" tvg-chno="2314" tvg-country="MX" group-title="General",Las Estrellas
 https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
-#EXTINF:-1 tvg-id="lastortugasninja-de-es" tvg-name="Las Tortugas Ninja" tvg-chno="2315" tvg-country="DE" group-title="General",Las Tortugas Ninja
-https://jmp2.uk/plu-61373f1a12dd9f00077dcd6f.m3u8
 #EXTINF:-1 tvg-id="latele-py-sd" tvg-name="Latele" tvg-chno="2316" tvg-country="PY" group-title="General",Latele
 https://copacotf.desdeparaguay.net/latele/latele_py_alta/playlist.m3u8?admin=tvaccion
 #EXTINF:-1 tvg-id="latele-sd-opc-2" tvg-name="Latele SD [Opc.2]" tvg-chno="2317" tvg-country="PY" group-title="General",Latele SD [Opc.2]
@@ -4789,10 +4373,6 @@ https://7.innovatestream.pe:19360/mieltv/mieltv.m3u8
 https://streaming004.gestec-video.com/hls/MIJAS.m3u8
 #EXTINF:-1 tvg-id="milenialtv-pe-sd" tvg-name="Milenial TV" tvg-chno="2395" tvg-country="PE" group-title="General",Milenial TV
 https://www.milenial.news/salida/milenial.m3u8
-#EXTINF:-1 tvg-id="mileniotelevision-mx" tvg-name="Milenio Television" tvg-chno="2396" tvg-country="MX" group-title="General",Milenio Television
-https://mdstrm.com/live-stream-playlist/610178c7db32a4112d994650.m3u8
-#EXTINF:-1 tvg-id="mirame-tv" tvg-name="Mírame TV" tvg-chno="2397" tvg-country="ES" group-title="General",Mírame TV
-https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=13696&live=1
 #EXTINF:-1 tvg-id="misionescuatro-ar-sd" tvg-name="Misiones Cuatro" tvg-chno="2398" tvg-country="AR" group-title="General",Misiones Cuatro
 https://iptv.ixfo.com.ar:30443/live-HD/MISIONES4/playlist.m3u8
 #EXTINF:-1 tvg-id="mix-bolivia-hd-no-24-7-opc-3" tvg-name="Mix Bolivia HD [No 24.7][Opc.3]" tvg-chno="2399" tvg-country="ES" group-title="General",Mix Bolivia HD [No 24.7][Opc.3]
@@ -4867,8 +4447,6 @@ https://live-evg5.tv360.bitel.com.pe/bitel/nativa/playlist.m3u8
 https://oneplay.iptvperu.tv:1936/static/nativa1.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="nativatvsatipo-pe-sd" tvg-name="Nativa TV Satipo" tvg-chno="2434" tvg-country="PE" group-title="General",Nativa TV Satipo
 https://live-evg7.tv360.bitel.com.pe/bitel/nativachanchamayoSRT/playlist.m3u8
-#EXTINF:-1 tvg-id="nativa-tv-satipo-2" tvg-name="Nativa TV Satipo" tvg-chno="2435" tvg-country="PE" group-title="General",Nativa TV Satipo
-https://7.innovatestream.pe:19360/nativatv/nativatv.m3u8
 #EXTINF:-1 tvg-id="nature-time-2" tvg-name="Nature Time" tvg-chno="2436" tvg-country="CA" group-title="General",Nature Time
 https://jmp2.uk/plu-60dd6b1da79e4d0007309455.m3u8
 #EXTINF:-1 tvg-id="navarretetelevision-do-hd" tvg-name="Navarrete Television" tvg-chno="2437" tvg-country="DO" group-title="General",Navarrete Television
@@ -4881,8 +4459,6 @@ https://cdn-edge.iiptvcdn.com/live_event/smil:d36f-93c1-9c58-fdcc-427f.smil/play
 https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
 #EXTINF:-1 tvg-id="neoxtv-ar-sd" tvg-name="Neox TV" tvg-chno="2441" tvg-country="AR" group-title="General",Neox TV
 https://tv.streamcasthd.com:3031/live/neoxtvlive.m3u8
-#EXTINF:-1 tvg-id="285" tvg-name="Net TV" tvg-chno="2442" tvg-country="MX" group-title="General",Net TV
-https://unlimited1-cl-isp.dps.live/nettv/nettv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="nextvcanal21-pa-sd" tvg-name="Nex TV Canal 21" tvg-chno="2443" tvg-country="PA" group-title="General",Nex TV Canal 21
 https://movil.ejeserver.com/live/nextv.m3u8
 #EXTINF:-1 tvg-id="nexotv-co-sd" tvg-name="Nexo TV" tvg-chno="2444" tvg-country="CO" group-title="General",Nexo TV
@@ -4925,8 +4501,6 @@ https://183.bozztv.com/giatv/giatv-ojodigital/ojodigital/playlist.m3u8
 https://cloudtv.provideo.es/live/algecirastv-livestream.m3u8
 #EXTINF:-1 tvg-id="ondacadiz-es-sd" tvg-name="Onda Cadiz" tvg-chno="2463" tvg-country="ES" group-title="General",Onda Cadiz
 https://ondacadiztv.es:30443/octv/24h/playlist.m3u8
-#EXTINF:-1 tvg-id="onda-cadiz" tvg-name="Onda Cádiz" tvg-chno="2464" tvg-country="ES" group-title="General",Onda Cádiz
-https://liveingesta318.cdnmedia.tv/ondacadizlive/smil:ondacadiztv.smil/playlist.m3u8?DVR
 #EXTINF:-1 tvg-id="ondadigital-pe-sd" tvg-name="ONDA DIGITAL" tvg-chno="2465" tvg-country="PE" group-title="General",ONDA DIGITAL
 https://tv.ondadigital.pe/ondadigital/index.m3u8
 #EXTINF:-1 tvg-id="onda-digital-2-hd-lima-nacional" tvg-name="Onda Digital 2 HD (Lima / Nacional)" tvg-chno="2466" tvg-country="PE" group-title="General",Onda Digital 2 HD (Lima / Nacional)
@@ -5125,8 +4699,6 @@ https://stream.ontvmx.com/ontv/ghxTYEQmKkB2UJyVuW/playlist.m3u8
 https://vdopanel.jlahozconsulting.com/p/3142/hybrid/play.m3u8
 #EXTINF:-1 tvg-id="rabbids-la-invasion-es" tvg-name="Rabbids: La invasión (ES)" tvg-chno="2563" tvg-country="ES" group-title="General",Rabbids: La invasión (ES)
 https://jmp2.uk/stvp-ESBD2300003S5
-#EXTINF:-1 tvg-id="radio-3" tvg-name="Radio 3" tvg-chno="2564" tvg-country="ES" group-title="General",Radio 3
-https://ztnr.rtve.es/ztnr/6982918.m3u8
 #EXTINF:-1 tvg-id="radio-4" tvg-name="Ràdio 4" tvg-chno="2565" tvg-country="ES" group-title="General",Ràdio 4
 https://ztnr.rtve.es/ztnr/6982935.m3u8
 #EXTINF:-1 tvg-id="radio-5" tvg-name="Radio 5" tvg-chno="2566" tvg-country="ES" group-title="General",Radio 5
@@ -5237,8 +4809,6 @@ https://183.bozztv.com/giatv/giatv-fmriotv/fmriotv/playlist.m3u8
 https://videoserver.tmcreativos.com:19360/rnyurimaguas/rnyurimaguas.m3u8
 #EXTINF:-1 tvg-id="rneparatodos-es-sd" tvg-name="RNE para todos" tvg-chno="2619" tvg-country="ES" group-title="General",RNE para todos
 https://rtvelivestream.rtve.es/rtvesec/rne/rne_para_todos_main.m3u8
-#EXTINF:-1 tvg-id="rne-para-todos" tvg-name="RNE para todos" tvg-chno="2620" tvg-country="ES" group-title="General",RNE para todos
-https://ztnr.rtve.es/ztnr/6688753.m3u8
 #EXTINF:-1 tvg-id="rocavisiontv-do-sd" tvg-name="Rocavision TV" tvg-chno="2621" tvg-country="DO" group-title="General",Rocavision TV
 https://streamunoapp.com:3331/live/rocavisiontvlive.m3u8
 #EXTINF:-1 tvg-id="romanatvcanal42-do-sd" tvg-name="Romana TV Canal 42" tvg-chno="2622" tvg-country="DO" group-title="General",Romana TV Canal 42
@@ -5397,8 +4967,6 @@ https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/space.stream/playlist.m3u8
 https://candlelightmedia-sparklightlove-6-us.roku.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="spccanal15-bo-sd" tvg-name="SPC Canal 15" tvg-chno="2699" tvg-country="BO" group-title="General",SPC Canal 15
 https://tv.centaurychile.com/magicatv/streams/22AdscM3Y6Un17Zo4747081346569358.m3u8
-#EXTINF:-1 tvg-id="spc-canal-15" tvg-name="SPC Canal 15" tvg-chno="2700" tvg-country="ES" group-title="General",SPC Canal 15
-https://183.bozztv.com/giatv/giatv-1762252013SPC/1762252013SPC/playlist.m3u8
 #EXTINF:-1 tvg-id="sqcscanal4-mx-sd" tvg-name="SQCS Canal 4" tvg-chno="2701" tvg-country="MX" group-title="General",SQCS Canal 4
 https://video0.rogohosting.com:19360/4982/4982.m3u8
 #EXTINF:-1 tvg-id="squirrel-es" tvg-name="Squirrel" tvg-chno="2702" tvg-country="ES" group-title="General",Squirrel
@@ -5437,8 +5005,6 @@ https://tv.radiohosting.online:1936/TV344/TV344/playlist.m3u8
 https://jmp2.uk/stvp-ESBD5100001G0
 #EXTINF:-1 tvg-id="supremateve-do-hd" tvg-name="Supremateve" tvg-chno="2719" tvg-country="DO" group-title="General",Supremateve
 https://ss2.tvrdomi.com:1936/supremateve/supremateve/playlist.m3u8
-#EXTINF:-1 tvg-id="surtv-do-sd" tvg-name="Sur TV" tvg-chno="2720" tvg-country="DO" group-title="General",Sur TV
-https://ss2.tvrdomi.com:1936/eradiofonicas/eradiofonicas/playlist.m3u8
 #EXTINF:-1 tvg-id="suramtv-co-sd" tvg-name="Suram TV" tvg-chno="2721" tvg-country="CO" group-title="General",Suram TV
 https://us.streaminghd.cl/suramtv/index.m3u8
 #EXTINF:-1 tvg-id="sv-sd" tvg-name="SV+ SD" tvg-chno="2722" tvg-country="SV" group-title="General",SV+ SD
@@ -5457,8 +5023,6 @@ https://turnerlive.warnermediacdn.com/hls/live/2023174/tbswest/slate/VIDEO_0_356
 https://telecorporacion.cdn.vustreams.com/live/19b307cf-3f2d-44cb-bce6-0fd65365c56a/live.isml/live.m3u8
 #EXTINF:-1 tvg-id="tdnmedios-do-sd" tvg-name="TDN Medios" tvg-chno="2729" tvg-country="DO" group-title="General",TDN Medios
 https://castv10.plugstreaming.com:19360/tdntv/tdntv.m3u8
-#EXTINF:-1 tvg-id="tdp-es" tvg-name="tdp" tvg-chno="2730" tvg-country="ES" group-title="General",tdp
-https://rtvelivestream.rtve.es/rtvesec/tdp/tdp_main.m3u8
 #EXTINF:-1 tvg-id="tdtmultimedia-bo-sd" tvg-name="TDT Multimedia" tvg-chno="2731" tvg-country="BO" group-title="General",TDT Multimedia
 https://video01.brascast.com/juan6318/juan6318/playlist.m3u8
 #EXTINF:-1 tvg-id="tdtv-cr-sd" tvg-name="TDtv" tvg-chno="2732" tvg-country="CR" group-title="General",TDtv
@@ -5535,8 +5099,6 @@ https://streamtv.intervenhosting.net:3531/live/telecentrovelive.m3u8
 https://edge.essastream.com/telecibaotv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="telecinco-ar-sd" tvg-name="Telecinco" tvg-chno="2768" tvg-country="AR" group-title="General",Telecinco
 https://videohd.live:19360/8016/8016.m3u8
-#EXTINF:-1 tvg-id="telecinco-es" tvg-name="Telecinco" tvg-chno="2769" tvg-country="ES" group-title="General",Telecinco
-https://livehlsdai-i.akamaihd.net/hls/live/571640/telecinco/bitrate_1.m3u8
 #EXTINF:-1 tvg-id="telecolor-no-24-7" tvg-name="Telecolor [No 24/7]" tvg-chno="2770" tvg-country="ES" group-title="General",Telecolor [No 24/7]
 https://cloud.livescast.com:19360/telecolor/telecolor.m3u8
 #EXTINF:-1 tvg-id="telecoloryurimaguas-pe-sd" tvg-name="Telecolor Yurimaguas" tvg-chno="2771" tvg-country="PE" group-title="General",Telecolor Yurimaguas
@@ -5573,8 +5135,6 @@ https://mdstrm.com/live-stream-playlist/62f2c855f7981b5a5a2d8763.m3u8
 https://copacotf.desdeparaguay.net/telefuturo/telefuturo_py_alta/playlist.m3u8
 #EXTINF:-1 tvg-id="telefuturo-paraguay-hd" tvg-name="Telefuturo Paraguay HD" tvg-chno="2787" tvg-country="PY" group-title="General",Telefuturo Paraguay HD
 https://zn1tf.desdeparaguay.net/telefuturo/telefuturo_py_alta/playlist.m3u8?admin=tvaccion
-#EXTINF:-1 tvg-id="telefuturo-paraguay-hd-2" tvg-name="Telefuturo Paraguay HD" tvg-chno="2788" tvg-country="PY" group-title="General",Telefuturo Paraguay HD
-https://rds3tf.desdeparaguay.net/telefuturo/telefuturo_py_alta/chunks.m3u8?admin=tvaccion
 #EXTINF:-1 tvg-id="teleganes-es-sd" tvg-name="Teleganes" tvg-chno="2789" tvg-country="ES" group-title="General",Teleganes
 https://nlb2-live.emitstream.com/hls/5z6oj7ziwxzfnj78vg2m/master.m3u8
 #EXTINF:-1 tvg-id="telegranada" tvg-name="TeleGranada" tvg-chno="2790" tvg-country="ES" group-title="General",TeleGranada
@@ -5589,8 +5149,6 @@ https://telemadrid-23-secure2.akamaized.net/master.m3u8
 https://live.telemadrid.cross-media.es/6389770581112/eu-central-1/6416060453001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoiajI5YjgyLmVncmVzcy5haGc3NmwiLCJhY2NvdW50X2lkIjoiNjQxNjA2MDQ1MzAwMSIsImVobiI6ImxpdmUudGVsZW1hZHJpZC5jcm9zcy1tZWRpYS5lcyIsImlzcyI6ImJsaXZlLXBsYXliYWNrLXNvdXJjZS1hcGkiLCJzdWIiOiJwYXRobWFwdG9rZW4iLCJhdWQiOlsiNjQxNjA2MDQ1MzAwMSJdLCJqdGkiOiI2Mzg5NzcwNTgxMTEyIn0.kqriAMUkHT6m0V6wkCHJum_EUyL4PAi1zJMKlfmYHEU/playlist-hls.m3u8
 #EXTINF:-1 tvg-id="telemar-ec-sd" tvg-name="Telemar" tvg-chno="2795" tvg-country="EC" group-title="General",Telemar
 https://cloudpro.servidoresdestream.com:8081/8020/index.m3u8
-#EXTINF:-1 tvg-id="telemas-hn-sd" tvg-name="Telemas" tvg-chno="2796" tvg-country="HN" group-title="General",Telemas
-https://s.emisoras.tv:8081/telemas/index.m3u8
 #EXTINF:-1 tvg-id="telemax-ar-sd" tvg-name="Telemax (Argentina)" tvg-chno="2797" tvg-country="AR" group-title="General",Telemax (Argentina)
 https://stream-gtlc.telecentro.net.ar/hls/telemaxhls/main.m3u8
 #EXTINF:-1 tvg-id="telemax-gt-sd" tvg-name="Telemax (Guatemala)" tvg-chno="2798" tvg-country="GT" group-title="General",Telemax (Guatemala)
@@ -5617,8 +5175,6 @@ https://xumo-drct-ch835-ekq0p.fast.nbcuni.com/live/master.m3u8
 https://d3f4oii5n0oeqi.cloudfront.net/11701/88814573/hls/master.m3u8?ads.xumo_channelId=88814573
 #EXTINF:-1 tvg-id="telemundo-noticias-ahora" tvg-name="Telemundo Noticias Ahora" tvg-chno="2809" tvg-country="MX" group-title="General",Telemundo Noticias Ahora
 https://xumo-xumoent-ch827-uj0ch.fast.nbcuni.com/live/master.m3u8
-#EXTINF:-1 tvg-id="telemundo-noticias-ahora-2" tvg-name="Telemundo Noticias Ahora" tvg-chno="2810" tvg-country="ES" group-title="General",Telemundo Noticias Ahora
-https://d3rciv7av2te5a.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-plex/master.m3u8?ads.xumo_channelId=88889467
 #EXTINF:-1 tvg-id="telemundo-noticias-al-dia" tvg-name="Telemundo Noticias Al dia" tvg-chno="2811" tvg-country="ES" group-title="General",Telemundo Noticias Al dia
 https://d3rciv7av2te5a.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-plex/master.m3u8?ads.xumo_channelId=88889469
 #EXTINF:-1 tvg-id="telemundo-noticias-california-opc-1" tvg-name="Telemundo Noticias California [Opc.1]" tvg-chno="2812" tvg-country="ES" group-title="General",Telemundo Noticias California [Opc.1]
@@ -5717,8 +5273,6 @@ https://cloud.streamingconnect.tv/hls/telearanda/telearanda.m3u8
 https://rtvclive.flumotion.cloud/rtvc1live/smil:channel1PRG.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="televisioncomayaguacanal40-hn-sd" tvg-name="Television Comayagua Canal 40" tvg-chno="2859" tvg-country="HN" group-title="General",Television Comayagua Canal 40
 https://mediacp.us:8081/8034/index.m3u8
-#EXTINF:-1 tvg-id="television-comayagua-canal-40" tvg-name="Television Comayagua Canal 40" tvg-chno="2860" tvg-country="HN" group-title="General",Television Comayagua Canal 40
-https://live20.bozztv.com/akamaissh101/ssh101/canal40/playlist.m3u8
 #EXTINF:-1 tvg-id="television-creativa" tvg-name="Television creativa" tvg-chno="2861" tvg-country="HN" group-title="General",Television creativa
 https://live20.bozztv.com/akamaissh101/ssh101/tctvhn/playlist.m3u8
 #EXTINF:-1 tvg-id="televisiondesanvicente-es-sd" tvg-name="Television de San Vicente" tvg-chno="2862" tvg-country="ES" group-title="General",Television de San Vicente
@@ -5799,8 +5353,6 @@ https://tvdatta.com:3084/live/toptvaguaytialive.m3u8
 https://tv.wracanal10.com:3012/live/latoratvlive.m3u8
 #EXTINF:-1 tvg-id="torococotv-ve-sd" tvg-name="Torococo TV" tvg-chno="2900" tvg-country="VE" group-title="General",Torococo TV
 https://us.streaminghd.cl/torococotelevision/video.m3u8
-#EXTINF:-1 tvg-id="torococo-tv" tvg-name="Torococo TV" tvg-chno="2901" tvg-country="ES" group-title="General",Torococo TV
-https://scl.edge.grupoz.cl/torococotv/live/playlist.m3u8
 #EXTINF:-1 tvg-id="torremolinos-tv" tvg-name="Torremolinos TV" tvg-chno="2902" tvg-country="ES" group-title="General",Torremolinos TV
 https://cdnlivevlc.codev8.net/canaltorremolinoslive/smil:channel1.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="toto-vision-hd-no-24-7" tvg-name="Toto Visión HD [No 24/7]" tvg-chno="2903" tvg-country="GT" group-title="General",Toto Visión HD [No 24/7]
@@ -5955,8 +5507,6 @@ https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/tvei_eu_main_1080.m3u8
 https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/tvei_eu_main_dvr_1080.m3u8
 #EXTINF:-1 tvg-id="tve-star-hd" tvg-name="TVE Star HD" tvg-chno="2978" tvg-country="ES" group-title="General",TVE Star HD
 https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/star_main_dvr_1080.m3u8
-#EXTINF:-1 tvg-id="tve-star-hd-2" tvg-name="TVE Star HD" tvg-chno="2979" tvg-country="ES" group-title="General",TVE Star HD
-https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/star_main_dvr_720.m3u8
 #EXTINF:-1 tvg-id="tve-star-hd-auto" tvg-name="TVE Star HD (Auto)" tvg-chno="2980" tvg-country="ES" group-title="General",TVE Star HD (Auto)
 https://rtvelivestream.rtve.es/rtvesec/int/star_main_dvr.m3u8
 #EXTINF:-1 tvg-id="tvenlinea-pe-sd" tvg-name="TVenLinea" tvg-chno="2981" tvg-country="PE" group-title="General",TVenLinea
@@ -6111,8 +5661,6 @@ https://cdn-cloudfront.us-east-1.prod.ingest.aws-infra.dacast.com/live/c1804a4c-
 https://live-evg8.tv360.bitel.com.pe/bitel/visionsur/playlist.m3u8
 #EXTINF:-1 tvg-id="vision-sur-tv-hd-no-24-7-arequipa" tvg-name="Visión Sur TV HD [No 24/7] (Arequipa)" tvg-chno="3056" tvg-country="PE" group-title="General",Visión Sur TV HD [No 24/7] (Arequipa)
 https://ott1.hdlatam.tv/live_abr/webtvVisionSur/playlist.m3u8
-#EXTINF:-1 tvg-id="visiontv-gt-sd" tvg-name="Vision TV" tvg-chno="3057" tvg-country="GT" group-title="General",Vision TV
-https://cdn.streamhispanatv.net:3076/live/visiontvlive.m3u8
 #EXTINF:-1 tvg-id="vivanicaraguacanal13-ni-sd" tvg-name="Viva Nicaragua Canal 13" tvg-chno="3058" tvg-country="NI" group-title="General",Viva Nicaragua Canal 13
 https://cdn.vivamediosni.com/viva_720p/index.m3u8
 #EXTINF:-1 tvg-id="vivatv-ni-sd" tvg-name="Viva TV" tvg-chno="3059" tvg-country="NI" group-title="General",Viva TV

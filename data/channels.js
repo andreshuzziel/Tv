@@ -217,9 +217,9 @@ window.CHANNELS = [
   "region": "Biobío",
   "color": "#ea580c",
   "abbr": "BB",
-  "url": "https://redirector.rudo.video/hls-video/339f69c6122f6d8f4574732c235f09b7683e31a5/bbtv/bbtv.smil/playlist.m3u8",
+  "url": "",
   "web": "https://www.biobiochile.cl/tv/",
-  "note": "1080p · Radio Bío Bío",
+  "note": "1080p · Radio Bío Bío · ⚠️ duplicado desactivado (mejor señal: #36)",
   "cc": "cl",
   "chno": 80
  },
@@ -230,9 +230,9 @@ window.CHANNELS = [
   "region": "Biobío",
   "color": "#0369a1",
   "abbr": "CTV",
-  "url": "https://stream.blserver.cl/hls/ctv/index.m3u8",
+  "url": "",
   "web": "https://www.concepciontv.cl/",
-  "note": "Canal local · 720p",
+  "note": "Canal local · 720p · ⚠️ duplicado desactivado (mejor señal: #70)",
   "cc": "cl",
   "chno": 82
  },
@@ -256,9 +256,9 @@ window.CHANNELS = [
   "region": "Biobío",
   "color": "#7e22ce",
   "abbr": "E3",
-  "url": "https://5ff3d9babae13.streamlock.net/xedkektnqj/xedkektnqj/playlist.m3u8",
+  "url": "",
   "web": "https://el3deconce.cl/",
-  "note": "Canal local",
+  "note": "Canal local · ⚠️ duplicado desactivado (mejor señal: #63)",
   "cc": "cl",
   "chno": 83
  },
@@ -269,9 +269,9 @@ window.CHANNELS = [
   "region": "Biobío",
   "color": "#0891b2",
   "abbr": "JT",
-  "url": "https://video.juntostvchile.cl:8879/hls/web-jntv.m3u8",
+  "url": "",
   "web": "https://juntostvchile.cl/",
-  "note": "720p",
+  "note": "720p · ⚠️ duplicado desactivado (mejor señal: #74)",
   "cc": "cl",
   "chno": 84
  },
@@ -282,9 +282,9 @@ window.CHANNELS = [
   "region": "Nacional",
   "color": "#4d7c0f",
   "abbr": "CV",
-  "url": "https://unlimited6-cl.dps.live/cm/cm.smil/playlist.m3u8",
+  "url": "",
   "web": "https://contivision.cl/",
-  "note": "720p",
+  "note": "720p · ⚠️ duplicado desactivado (mejor señal: #202)",
   "cc": "cl",
   "chno": 683
  },
@@ -347,9 +347,9 @@ window.CHANNELS = [
   "region": "Nacional",
   "color": "#c026d3",
   "abbr": "13F",
-  "url": "https://origin.dpsgo.com/ssai/event/Nftd0fM2SXasfDlRphvUsg/master.m3u8",
+  "url": "",
   "web": "https://www.13.cl/",
-  "note": "Festival de Viña 24/7 · 1080p",
+  "note": "Festival de Viña 24/7 · 1080p · ⚠️ duplicado desactivado (mejor señal: #2)",
   "cc": "cl",
   "chno": 25
  },
@@ -386,9 +386,9 @@ window.CHANNELS = [
   "region": "Nacional",
   "color": "#ef4444",
   "abbr": "13R",
-  "url": "https://origin.dpsgo.com/ssai/event/g7_JOM0ORki9SR5RKHe-Kw/master.m3u8",
+  "url": "",
   "web": "https://www.13.cl/",
-  "note": "1080p",
+  "note": "1080p · ⚠️ duplicado desactivado (mejor señal: #4)",
   "cc": "cl",
   "chno": 28
  },
@@ -488,9 +488,9 @@ window.CHANNELS = [
   "region": "Nacional",
   "color": "hsl(89, 58%, 42%)",
   "abbr": "AT",
-  "url": "https://live20.bozztv.com/giatv/giatv-alternativatv/alternativatv/playlist.m3u8",
+  "url": "",
   "web": "",
-  "note": "720p · vía iptv-org (lista sanitizada)",
+  "note": "720p · vía iptv-org (lista sanitizada) · ⚠️ duplicado desactivado (mejor señal: #97)",
   "cc": "cl",
   "chno": 470
  },
@@ -514,9 +514,9 @@ window.CHANNELS = [
   "region": "Nacional",
   "color": "hsl(311, 58%, 42%)",
   "abbr": "AT",
-  "url": "https://unlimited6-cl.dps.live/atv/atv.smil/playlist.m3u8",
+  "url": "",
   "web": "",
-  "note": "1080p · vía iptv-org (lista sanitizada)",
+  "note": "1080p · vía iptv-org (lista sanitizada) · ⚠️ duplicado desactivado (mejor señal: #93)",
   "cc": "cl",
   "chno": 472
  },
@@ -527,9 +527,9 @@ window.CHANNELS = [
   "region": "Nacional",
   "color": "hsl(52, 58%, 42%)",
   "abbr": "AT",
-  "url": "https://5eff35271151c.streamlock.net:1936/8002/8002/playlist.m3u8",
+  "url": "",
   "web": "",
-  "note": " not 24/7 · 480p · vía iptv-org (lista sanitizada)",
+  "note": " not 24/7 · 480p · vía iptv-org (lista sanitizada) · ⚠️ duplicado desactivado (mejor señal: #86)",
   "cc": "cl",
   "chno": 474
  },
@@ -553,9 +553,9 @@ window.CHANNELS = [
   "region": "Nacional",
   "color": "hsl(162, 58%, 42%)",
   "abbr": "AT",
-  "url": "https://v2.tustreaming.cl/atacamatv/tracks-v1a1/mono.ts.m3u8",
+  "url": "",
   "web": "",
-  "note": "vía iptv-org (lista sanitizada)",
+  "note": "vía iptv-org (lista sanitizada) · ⚠️ duplicado desactivado (mejor señal: #99)",
   "cc": "cl",
   "chno": 475
  },
@@ -566,9 +566,9 @@ window.CHANNELS = [
   "region": "Nacional",
   "color": "hsl(294, 58%, 42%)",
   "abbr": "AT",
-  "url": "https://v1.tustreaming.cl/aysentv/index.m3u8",
+  "url": "",
   "web": "",
-  "note": "720p · vía iptv-org (lista sanitizada)",
+  "note": "720p · vía iptv-org (lista sanitizada) · ⚠️ duplicado desactivado (mejor señal: #282)",
   "cc": "cl",
   "chno": 478
  },
@@ -644,9 +644,9 @@ window.CHANNELS = [
   "region": "Nacional",
   "color": "hsl(189, 58%, 42%)",
   "abbr": "C2Q",
-  "url": "https://pantera1-100gb-cl-movistar.dps.live/tvquellon/tvquellon.smil/playlist.m3u8",
+  "url": "",
   "web": "",
-  "note": " not 24/7 · 1080p · vía iptv-org (lista sanitizada)",
+  "note": " not 24/7 · 1080p · vía iptv-org (lista sanitizada) · ⚠️ duplicado desactivado (mejor señal: #261)",
   "cc": "cl",
   "chno": 493
  },
@@ -657,9 +657,9 @@ window.CHANNELS = [
   "region": "Nacional",
   "color": "hsl(177, 58%, 42%)",
   "abbr": "C5P",
-  "url": "https://5ff3d9babae13.streamlock.net/aufymdjpjf/aufymdjpjf/playlist.m3u8",
+  "url": "",
   "web": "",
-  "note": "vía iptv-org (lista sanitizada)",
+  "note": "vía iptv-org (lista sanitizada) · ⚠️ duplicado desactivado (mejor señal: #263)",
   "cc": "cl",
   "chno": 504
  },
@@ -670,9 +670,9 @@ window.CHANNELS = [
   "region": "Nacional",
   "color": "hsl(116, 58%, 42%)",
   "abbr": "C3L",
-  "url": "https://v1.tustreaming.cl/canal30loncomilla/index.m3u8",
+  "url": "",
   "web": "",
-  "note": "720p · vía iptv-org (lista sanitizada)",
+  "note": "720p · vía iptv-org (lista sanitizada) · ⚠️ duplicado desactivado (mejor señal: #200)",
   "cc": "cl",
   "chno": 502
  },
@@ -683,9 +683,9 @@ window.CHANNELS = [
   "region": "Nacional",
   "color": "hsl(323, 58%, 42%)",
   "abbr": "CC",
-  "url": "https://videostream.chileservidores.com:8081/chiloe2/index.m3u8",
+  "url": "",
   "web": "",
-  "note": "720p · vía iptv-org (lista sanitizada)",
+  "note": "720p · vía iptv-org (lista sanitizada) · ⚠️ duplicado desactivado (mejor señal: #264)",
   "cc": "cl",
   "chno": 447
  },
@@ -709,9 +709,9 @@ window.CHANNELS = [
   "region": "Nacional",
   "color": "hsl(283, 58%, 42%)",
   "abbr": "CI",
-  "url": "https://unlimited1-us.dps.live/isb/isb.smil/playlist.m3u8",
+  "url": "",
   "web": "",
-  "note": "720p · vía iptv-org (lista sanitizada)",
+  "note": "720p · vía iptv-org (lista sanitizada) · ⚠️ duplicado desactivado (mejor señal: #150)",
   "cc": "cl",
   "chno": 418
  },
@@ -722,9 +722,9 @@ window.CHANNELS = [
   "region": "Nacional",
   "color": "hsl(303, 58%, 42%)",
   "abbr": "CL5",
-  "url": "https://videostream.chileservidores.com:8081/latina/index.m3u8",
+  "url": "",
   "web": "",
-  "note": "360p · vía iptv-org (lista sanitizada)",
+  "note": "360p · vía iptv-org (lista sanitizada) · ⚠️ duplicado desactivado (mejor señal: #252)",
   "cc": "cl",
   "chno": 508
  },
@@ -735,9 +735,9 @@ window.CHANNELS = [
   "region": "Nacional",
   "color": "hsl(102, 58%, 42%)",
   "abbr": "CL",
-  "url": "https://v2.tustreaming.cl/canallocalcl/index.m3u8",
+  "url": "",
   "web": "",
-  "note": "720p · vía iptv-org (lista sanitizada)",
+  "note": "720p · vía iptv-org (lista sanitizada) · ⚠️ duplicado desactivado (mejor señal: #121)",
   "cc": "cl",
   "chno": 509
  },
@@ -800,9 +800,9 @@ window.CHANNELS = [
   "region": "Nacional",
   "color": "hsl(356, 58%, 42%)",
   "abbr": "CR2",
-  "url": "https://v2.tustreaming.cl/chiloered/index.m3u8",
+  "url": "",
   "web": "",
-  "note": "720p · vía iptv-org (lista sanitizada)",
+  "note": "720p · vía iptv-org (lista sanitizada) · ⚠️ duplicado desactivado (mejor señal: #266)",
   "cc": "cl",
   "chno": 434
  },
@@ -813,9 +813,9 @@ window.CHANNELS = [
   "region": "Nacional",
   "color": "hsl(162, 58%, 42%)",
   "abbr": "CC",
-  "url": "https://v2.tustreaming.cl/chinachannel/index.m3u8",
+  "url": "",
   "web": "",
-  "note": "720p · vía iptv-org (lista sanitizada)",
+  "note": "720p · vía iptv-org (lista sanitizada) · ⚠️ duplicado desactivado (mejor señal: #464)",
   "cc": "cn",
   "chno": 524
  },
@@ -839,9 +839,9 @@ window.CHANNELS = [
   "region": "Nacional",
   "color": "hsl(172, 58%, 42%)",
   "abbr": "CT",
-  "url": "https://tv.arkeo.cl:1936/clubtv/clubtv/playlist.m3u8",
+  "url": "",
   "web": "",
-  "note": "vía iptv-org (lista sanitizada)",
+  "note": "vía iptv-org (lista sanitizada) · ⚠️ duplicado desactivado (mejor señal: #69)",
   "cc": "cl",
   "chno": 528
  },
@@ -865,9 +865,9 @@ window.CHANNELS = [
   "region": "Nacional",
   "color": "hsl(148, 58%, 42%)",
   "abbr": "CT",
-  "url": "https://v2.tustreaming.cl/coyhaiquetv/index.m3u8",
+  "url": "",
   "web": "",
-  "note": "720p · vía iptv-org (lista sanitizada)",
+  "note": "720p · vía iptv-org (lista sanitizada) · ⚠️ duplicado desactivado (mejor señal: #285)",
   "cc": "cl",
   "chno": 531
  },
@@ -917,9 +917,9 @@ window.CHANNELS = [
   "region": "Nacional",
   "color": "hsl(31, 58%, 42%)",
   "abbr": "DT",
-  "url": "https://unlimited2-cl-isp.dps.live/decimatv/decimatv.smil/playlist.m3u8",
+  "url": "",
   "web": "",
-  "note": "720p · vía iptv-org (lista sanitizada)",
+  "note": "720p · vía iptv-org (lista sanitizada) · ⚠️ duplicado desactivado (mejor señal: #267)",
   "cc": "cl",
   "chno": 533
  },
@@ -930,9 +930,9 @@ window.CHANNELS = [
   "region": "Nacional",
   "color": "hsl(293, 58%, 42%)",
   "abbr": "D",
-  "url": "https://live20.bozztv.com/giatvplayout7/giatv-208729/playlist.m3u8",
+  "url": "",
   "web": "",
-  "note": "720p · vía iptv-org (lista sanitizada)",
+  "note": "720p · vía iptv-org (lista sanitizada) · ⚠️ duplicado desactivado (mejor señal: #459)",
   "cc": "cl",
   "chno": 536
  },
@@ -969,9 +969,9 @@ window.CHANNELS = [
   "region": "Nacional",
   "color": "hsl(309, 58%, 42%)",
   "abbr": "ER",
-  "url": "https://video.ipstream.cl:3459/hybrid/play.m3u8",
+  "url": "",
   "web": "",
-  "note": "720p · vía iptv-org (lista sanitizada)",
+  "note": "720p · vía iptv-org (lista sanitizada) · ⚠️ duplicado desactivado (mejor señal: #390)",
   "cc": "cl",
   "chno": 540
  },
@@ -982,9 +982,9 @@ window.CHANNELS = [
   "region": "Nacional",
   "color": "hsl(286, 58%, 42%)",
   "abbr": "ET",
-  "url": "https://v1.tustreaming.cl/emociontv/index.m3u8",
+  "url": "",
   "web": "",
-  "note": "720p · vía iptv-org (lista sanitizada)",
+  "note": "720p · vía iptv-org (lista sanitizada) · ⚠️ duplicado desactivado (mejor señal: #153)",
   "cc": "cl",
   "chno": 449
  },
@@ -995,9 +995,9 @@ window.CHANNELS = [
   "region": "Nacional",
   "color": "hsl(32, 58%, 42%)",
   "abbr": "ELM",
-  "url": "https://v2.tustreaming.cl/enlineamauletv/index.m3u8",
+  "url": "",
   "web": "",
-  "note": "720p · vía iptv-org (lista sanitizada)",
+  "note": "720p · vía iptv-org (lista sanitizada) · ⚠️ duplicado desactivado (mejor señal: #204)",
   "cc": "cl",
   "chno": 541
  },
@@ -1008,9 +1008,9 @@ window.CHANNELS = [
   "region": "Nacional",
   "color": "hsl(99, 58%, 42%)",
   "abbr": "EDT",
-  "url": "https://5eaccbab48461.streamlock.net:1936/8074/8074/playlist.m3u8",
+  "url": "",
   "web": "",
-  "note": "vía iptv-org (lista sanitizada)",
+  "note": "vía iptv-org (lista sanitizada) · ⚠️ duplicado desactivado (mejor señal: #100)",
   "cc": "cl",
   "chno": 548
  },
@@ -1034,9 +1034,9 @@ window.CHANNELS = [
   "region": "Nacional",
   "color": "hsl(187, 58%, 42%)",
   "abbr": "ELT",
-  "url": "https://v4.tustreaming.cl/limachemovil/index.m3u8",
+  "url": "",
   "web": "",
-  "note": "720p · vía iptv-org (lista sanitizada)",
+  "note": "720p · vía iptv-org (lista sanitizada) · ⚠️ duplicado desactivado (mejor señal: #122)",
   "cc": "cl",
   "chno": 450
  },
@@ -1073,9 +1073,9 @@ window.CHANNELS = [
   "region": "Nacional",
   "color": "hsl(28, 58%, 42%)",
   "abbr": "FT",
-  "url": "https://multimedia.fortalezatv.cl/video/video.m3u8",
+  "url": "",
   "web": "",
-  "note": "1080p · vía iptv-org (lista sanitizada)",
+  "note": "1080p · vía iptv-org (lista sanitizada) · ⚠️ duplicado desactivado (mejor señal: #155)",
   "cc": "cl",
   "chno": 421
  },
@@ -1125,9 +1125,9 @@ window.CHANNELS = [
   "region": "Nacional",
   "color": "hsl(309, 58%, 42%)",
   "abbr": "HT",
-  "url": "https://unlimited1-us.dps.live/holvoettv/holvoettv.smil/playlist.m3u8",
+  "url": "",
   "web": "",
-  "note": " not 24/7 · 720p · vía iptv-org (lista sanitizada)",
+  "note": " not 24/7 · 720p · vía iptv-org (lista sanitizada) · ⚠️ duplicado desactivado (mejor señal: #102)",
   "cc": "cl",
   "chno": 435
  },
@@ -1138,9 +1138,9 @@ window.CHANNELS = [
   "region": "Nacional",
   "color": "hsl(221, 58%, 42%)",
   "abbr": "IT",
-  "url": "https://origin.skarnetchile.com:8081/iquiquetv-hd/index.m3u8",
+  "url": "",
   "web": "",
-  "note": "1080p · vía iptv-org (lista sanitizada)",
+  "note": "1080p · vía iptv-org (lista sanitizada) · ⚠️ duplicado desactivado (mejor señal: #90)",
   "cc": "cl",
   "chno": 558
  },
@@ -1177,9 +1177,9 @@ window.CHANNELS = [
   "region": "Nacional",
   "color": "hsl(171, 58%, 42%)",
   "abbr": "IP",
-  "url": "https://redirector.dps.live/hls/itv/playlist.m3u8",
+  "url": "",
   "web": "",
-  "note": "720p · vía iptv-org (lista sanitizada)",
+  "note": "720p · vía iptv-org (lista sanitizada) · ⚠️ duplicado desactivado (mejor señal: #294)",
   "cc": "cl",
   "chno": 560
  },
@@ -1190,9 +1190,9 @@ window.CHANNELS = [
   "region": "Nacional",
   "color": "hsl(109, 58%, 42%)",
   "abbr": "LCT",
-  "url": "https://vdochile.com:3134/stream/play.m3u8",
+  "url": "",
   "web": "",
-  "note": "vía iptv-org (lista sanitizada)",
+  "note": "vía iptv-org (lista sanitizada) · ⚠️ duplicado desactivado (mejor señal: #338)",
   "cc": "cl",
   "chno": 564
  },
@@ -1216,9 +1216,9 @@ window.CHANNELS = [
   "region": "Nacional",
   "color": "hsl(21, 58%, 42%)",
   "abbr": "LCT",
-  "url": "https://v2.tustreaming.cl/lcomarcatv/index.m3u8",
+  "url": "",
   "web": "",
-  "note": "720p · vía iptv-org (lista sanitizada)",
+  "note": "720p · vía iptv-org (lista sanitizada) · ⚠️ duplicado desactivado (mejor señal: #185)",
   "cc": "cl",
   "chno": 565
  },
@@ -1229,9 +1229,9 @@ window.CHANNELS = [
   "region": "Nacional",
   "color": "hsl(179, 58%, 42%)",
   "abbr": "LMT",
-  "url": "https://v1.tustreaming.cl/melinkana/index.m3u8",
+  "url": "",
   "web": "",
-  "note": "720p · vía iptv-org (lista sanitizada)",
+  "note": "720p · vía iptv-org (lista sanitizada) · ⚠️ duplicado desactivado (mejor señal: #286)",
   "cc": "cl",
   "chno": 451
  },
@@ -1255,9 +1255,9 @@ window.CHANNELS = [
   "region": "Nacional",
   "color": "hsl(163, 58%, 42%)",
   "abbr": "LN",
-  "url": "https://redirector.rudo.video/hls-video/339f69c6122f6d8f4574732c235f09b7683e31a5/ln/ln.smil/playlist.m3u8",
+  "url": "",
   "web": "",
-  "note": "1080p · vía iptv-org (lista sanitizada)",
+  "note": "1080p · vía iptv-org (lista sanitizada) · ⚠️ duplicado desactivado (mejor señal: #394)",
   "cc": "cl",
   "chno": 452
  },
@@ -1268,9 +1268,9 @@ window.CHANNELS = [
   "region": "Nacional",
   "color": "hsl(276, 58%, 42%)",
   "abbr": "LPT",
-  "url": "https://tv.arkeo.cl:1936/enlacetv1/enlacetv1/playlist.m3u8",
+  "url": "",
   "web": "",
-  "note": "vía iptv-org (lista sanitizada)",
+  "note": "vía iptv-org (lista sanitizada) · ⚠️ duplicado desactivado (mejor señal: #112)",
   "cc": "cl",
   "chno": 567
  },
@@ -1281,9 +1281,9 @@ window.CHANNELS = [
   "region": "Nacional",
   "color": "hsl(169, 58%, 42%)",
   "abbr": "LTP",
-  "url": "https://tv.arkeo.cl:1936/radiolila/radiolila/playlist.m3u8",
+  "url": "",
   "web": "",
-  "note": "vía iptv-org (lista sanitizada)",
+  "note": "vía iptv-org (lista sanitizada) · ⚠️ duplicado desactivado (mejor señal: #206)",
   "cc": "cl",
   "chno": 570
  },
@@ -1294,9 +1294,9 @@ window.CHANNELS = [
   "region": "Nacional",
   "color": "hsl(108, 58%, 42%)",
   "abbr": "MT",
-  "url": "https://5eaccbab48461.streamlock.net:1936/8242/ngrp:8242_all/playlist.m3u8",
+  "url": "",
   "web": "",
-  "note": "vía iptv-org (lista sanitizada)",
+  "note": "vía iptv-org (lista sanitizada) · ⚠️ duplicado desactivado (mejor señal: #105)",
   "cc": "cl",
   "chno": 571
  },
@@ -1307,9 +1307,9 @@ window.CHANNELS = [
   "region": "Nacional",
   "color": "hsl(10, 58%, 42%)",
   "abbr": "MMT",
-  "url": "https://v1.tustreaming.cl/margamargatv/index.m3u8",
+  "url": "",
   "web": "",
-  "note": "720p · vía iptv-org (lista sanitizada)",
+  "note": "720p · vía iptv-org (lista sanitizada) · ⚠️ duplicado desactivado (mejor señal: #128)",
   "cc": "cl",
   "chno": 572
  },
@@ -1320,9 +1320,9 @@ window.CHANNELS = [
   "region": "Nacional",
   "color": "hsl(131, 58%, 42%)",
   "abbr": "MRT",
-  "url": "https://scl.edge.grupoz.cl/miradio2/live/playlist.m3u8",
+  "url": "",
   "web": "",
-  "note": "vía iptv-org (lista sanitizada)",
+  "note": "vía iptv-org (lista sanitizada) · ⚠️ duplicado desactivado (mejor señal: #113)",
   "cc": "cl",
   "chno": 576
  },
@@ -1385,9 +1385,9 @@ window.CHANNELS = [
   "region": "Nacional",
   "color": "hsl(52, 58%, 42%)",
   "abbr": "NT",
-  "url": "https://tv1.ninatv.cl/hls/stream.m3u8",
+  "url": "",
   "web": "",
-  "note": "720p · vía iptv-org (lista sanitizada)",
+  "note": "720p · vía iptv-org (lista sanitizada) · ⚠️ duplicado desactivado (mejor señal: #161)",
   "cc": "cl",
   "chno": 578
  },
@@ -1450,9 +1450,9 @@ window.CHANNELS = [
   "region": "Nacional",
   "color": "hsl(175, 58%, 42%)",
   "abbr": "PRT",
-  "url": "https://video01.logicahost.com.br/grupomedia/grupomedia/playlist.m3u8",
+  "url": "",
   "web": "",
-  "note": "720p · vía iptv-org (lista sanitizada)",
+  "note": "720p · vía iptv-org (lista sanitizada) · ⚠️ duplicado desactivado (mejor señal: #274)",
   "cc": "cl",
   "chno": 348
  },
@@ -1476,9 +1476,9 @@ window.CHANNELS = [
   "region": "Nacional",
   "color": "hsl(110, 58%, 42%)",
   "abbr": "PT",
-  "url": "https://5ff3d9babae13.streamlock.net/8028/8028/playlist.m3u8",
+  "url": "",
   "web": "",
-  "note": "1080p · vía iptv-org (lista sanitizada)",
+  "note": "1080p · vía iptv-org (lista sanitizada) · ⚠️ duplicado desactivado (mejor señal: #186)",
   "cc": "cl",
   "chno": 584
  },
@@ -1515,9 +1515,9 @@ window.CHANNELS = [
   "region": "Nacional",
   "color": "hsl(269, 58%, 42%)",
   "abbr": "PT",
-  "url": "https://redirector.dps.live/hls/pucontv/playlist.m3u8",
+  "url": "",
   "web": "",
-  "note": "1080p · vía iptv-org (lista sanitizada)",
+  "note": "1080p · vía iptv-org (lista sanitizada) · ⚠️ duplicado desactivado (mejor señal: #244)",
   "cc": "cl",
   "chno": 591
  },
@@ -1554,9 +1554,9 @@ window.CHANNELS = [
   "region": "Nacional",
   "color": "hsl(71, 58%, 42%)",
   "abbr": "RAT",
-  "url": "https://v2.tustreaming.cl/radioancoatv/index.m3u8",
+  "url": "",
   "web": "",
-  "note": "720p · vía iptv-org (lista sanitizada)",
+  "note": "720p · vía iptv-org (lista sanitizada) · ⚠️ duplicado desactivado (mejor señal: #213)",
   "cc": "cl",
   "chno": 597
  },
@@ -1580,9 +1580,9 @@ window.CHANNELS = [
   "region": "Nacional",
   "color": "hsl(163, 58%, 42%)",
   "abbr": "RC",
-  "url": "https://videostream.chileservidores.com:8081/chiloe1/index.m3u8",
+  "url": "",
   "web": "",
-  "note": "720p · vía iptv-org (lista sanitizada)",
+  "note": "720p · vía iptv-org (lista sanitizada) · ⚠️ duplicado desactivado (mejor señal: #275)",
   "cc": "cl",
   "chno": 598
  },
@@ -1619,9 +1619,9 @@ window.CHANNELS = [
   "region": "Nacional",
   "color": "hsl(320, 58%, 42%)",
   "abbr": "RE",
-  "url": "https://vmix.dyndns.biz/Edelweiss/index.m3u8",
+  "url": "",
   "web": "",
-  "note": "720p · vía iptv-org (lista sanitizada)",
+  "note": "720p · vía iptv-org (lista sanitizada) · ⚠️ duplicado desactivado (mejor señal: #245)",
   "cc": "cl",
   "chno": 354
  },
@@ -1645,9 +1645,9 @@ window.CHANNELS = [
   "region": "Nacional",
   "color": "hsl(66, 58%, 42%)",
   "abbr": "RFT",
-  "url": "https://v2.tustreaming.cl/fantasiatv/index.m3u8",
+  "url": "",
   "web": "",
-  "note": "720p · vía iptv-org (lista sanitizada)",
+  "note": "720p · vía iptv-org (lista sanitizada) · ⚠️ duplicado desactivado (mejor señal: #164)",
   "cc": "cl",
   "chno": 599
  },
@@ -1658,9 +1658,9 @@ window.CHANNELS = [
   "region": "Nacional",
   "color": "hsl(138, 58%, 42%)",
   "abbr": "RFU",
-  "url": "https://v1.tustreaming.cl/frecuencia1tv/index.m3u8",
+  "url": "",
   "web": "",
-  "note": "720p · vía iptv-org (lista sanitizada)",
+  "note": "720p · vía iptv-org (lista sanitizada) · ⚠️ duplicado desactivado (mejor señal: #215)",
   "cc": "cl",
   "chno": 600
  },
@@ -1684,9 +1684,9 @@ window.CHANNELS = [
   "region": "Nacional",
   "color": "hsl(279, 58%, 42%)",
   "abbr": "RN",
-  "url": "https://tv.telselec.cl:3376/live/nublefmlive.m3u8",
+  "url": "",
   "web": "",
-  "note": "720p · vía iptv-org (lista sanitizada)",
+  "note": "720p · vía iptv-org (lista sanitizada) · ⚠️ duplicado desactivado (mejor señal: #235)",
   "cc": "cl",
   "chno": 601
  },
@@ -1749,9 +1749,9 @@ window.CHANNELS = [
   "region": "Nacional",
   "color": "hsl(149, 58%, 42%)",
   "abbr": "RRF",
-  "url": "https://panel.tvstream.cl:1936/8046/8046/playlist.m3u8",
+  "url": "",
   "web": "",
-  "note": " not 24/7 · 1080p · vía iptv-org (lista sanitizada)",
+  "note": " not 24/7 · 1080p · vía iptv-org (lista sanitizada) · ⚠️ duplicado desactivado (mejor señal: #190)",
   "cc": "cl",
   "chno": 605
  },
@@ -1762,9 +1762,9 @@ window.CHANNELS = [
   "region": "Nacional",
   "color": "hsl(182, 58%, 42%)",
   "abbr": "RU",
-  "url": "https://scl.edge.grupoz.cl/uniaccastream/live/playlist.m3u8",
+  "url": "",
   "web": "",
-  "note": "720p · vía iptv-org (lista sanitizada)",
+  "note": "720p · vía iptv-org (lista sanitizada) · ⚠️ duplicado desactivado (mejor señal: #409)",
   "cc": "cl",
   "chno": 606
  },
@@ -1788,9 +1788,9 @@ window.CHANNELS = [
   "region": "Nacional",
   "color": "hsl(201, 58%, 42%)",
   "abbr": "RVL",
-  "url": "https://live20.bozztv.com/akamaissh101/ssh101/vialibretv/playlist.m3u8",
+  "url": "",
   "web": "",
-  "note": "720p · vía iptv-org (lista sanitizada)",
+  "note": "720p · vía iptv-org (lista sanitizada) · ⚠️ duplicado desactivado (mejor señal: #60)",
   "cc": "cl",
   "chno": 608
  },
@@ -1801,9 +1801,9 @@ window.CHANNELS = [
   "region": "Nacional",
   "color": "hsl(0, 58%, 42%)",
   "abbr": "RVC",
-  "url": "https://v2.tustreaming.cl/radiovidacurico/index.m3u8",
+  "url": "",
   "web": "",
-  "note": "720p · vía iptv-org (lista sanitizada)",
+  "note": "720p · vía iptv-org (lista sanitizada) · ⚠️ duplicado desactivado (mejor señal: #217)",
   "cc": "cl",
   "chno": 609
  },
@@ -1814,9 +1814,9 @@ window.CHANNELS = [
   "region": "Nacional",
   "color": "hsl(239, 58%, 42%)",
   "abbr": "RZ9",
-  "url": "https://live.tvcontrolcp.com:8081/radiozona/index.m3u8",
+  "url": "",
   "web": "",
-  "note": "720p · vía iptv-org (lista sanitizada)",
+  "note": "720p · vía iptv-org (lista sanitizada) · ⚠️ duplicado desactivado (mejor señal: #302)",
   "cc": "cl",
   "chno": 363
  },
@@ -1879,9 +1879,9 @@ window.CHANNELS = [
   "region": "Nacional",
   "color": "hsl(33, 58%, 42%)",
   "abbr": "RT",
-  "url": "https://scl.edge.grupoz.cl/rtcstreaming/live/playlist.m3u8",
+  "url": "",
   "web": "",
-  "note": "vía iptv-org (lista sanitizada)",
+  "note": "vía iptv-org (lista sanitizada) · ⚠️ duplicado desactivado (mejor señal: #92)",
   "cc": "cl",
   "chno": 614
  },
@@ -1905,9 +1905,9 @@ window.CHANNELS = [
   "region": "Nacional",
   "color": "hsl(195, 58%, 42%)",
   "abbr": "ST",
-  "url": "https://v1.tustreaming.cl/sabortv/index.m3u8",
+  "url": "",
   "web": "",
-  "note": "720p · vía iptv-org (lista sanitizada)",
+  "note": "720p · vía iptv-org (lista sanitizada) · ⚠️ duplicado desactivado (mejor señal: #218)",
   "cc": "cl",
   "chno": 372
  },
@@ -1918,9 +1918,9 @@ window.CHANNELS = [
   "region": "Nacional",
   "color": "hsl(187, 58%, 42%)",
   "abbr": "SNT",
-  "url": "https://v4.tustreaming.cl/sannicolastv/index.m3u8",
+  "url": "",
   "web": "",
-  "note": "720p · vía iptv-org (lista sanitizada)",
+  "note": "720p · vía iptv-org (lista sanitizada) · ⚠️ duplicado desactivado (mejor señal: #239)",
   "cc": "cl",
   "chno": 616
  },
@@ -1957,9 +1957,9 @@ window.CHANNELS = [
   "region": "Nacional",
   "color": "hsl(11, 58%, 42%)",
   "abbr": "S",
-  "url": "https://5ff3d9babae13.streamlock.net/fzkqsdfray/fzkqsdfray/playlist.m3u8",
+  "url": "",
   "web": "",
-  "note": "1080p · vía iptv-org (lista sanitizada)",
+  "note": "1080p · vía iptv-org (lista sanitizada) · ⚠️ duplicado desactivado (mejor señal: #194)",
   "cc": "cl",
   "chno": 618
  },
@@ -2022,9 +2022,9 @@ window.CHANNELS = [
   "region": "Nacional",
   "color": "hsl(257, 58%, 42%)",
   "abbr": "TV",
-  "url": "https://unlimited1-us.dps.live/inet2/inet2.smil/playlist.m3u8",
+  "url": "",
   "web": "",
-  "note": "480p · vía iptv-org (lista sanitizada)",
+  "note": "480p · vía iptv-org (lista sanitizada) · ⚠️ duplicado desactivado (mejor señal: #277)",
   "cc": "cl",
   "chno": 625
  },
@@ -2061,9 +2061,9 @@ window.CHANNELS = [
   "region": "Nacional",
   "color": "hsl(40, 58%, 42%)",
   "abbr": "TR",
-  "url": "https://pantera1-100gb-cl-movistar.dps.live/teleangolradio/teleangolradio.smil/playlist.m3u8",
+  "url": "",
   "web": "",
-  "note": "720p · vía iptv-org (lista sanitizada)",
+  "note": "720p · vía iptv-org (lista sanitizada) · ⚠️ duplicado desactivado (mejor señal: #246)",
   "cc": "cl",
   "chno": 378
  },
@@ -2100,9 +2100,9 @@ window.CHANNELS = [
   "region": "Nacional",
   "color": "hsl(183, 58%, 42%)",
   "abbr": "TP",
-  "url": "https://v4.tustreaming.cl/tendenciastv/index.m3u8",
+  "url": "",
   "web": "",
-  "note": "720p · vía iptv-org (lista sanitizada)",
+  "note": "720p · vía iptv-org (lista sanitizada) · ⚠️ duplicado desactivado (mejor señal: #173)",
   "cc": "cl",
   "chno": 633
  },
@@ -2139,9 +2139,9 @@ window.CHANNELS = [
   "region": "Nacional",
   "color": "hsl(51, 58%, 42%)",
   "abbr": "T",
-  "url": "https://v2.tustreaming.cl/tnetv/index.m3u8",
+  "url": "",
   "web": "",
-  "note": " not 24/7 · 720p · vía iptv-org (lista sanitizada)",
+  "note": " not 24/7 · 720p · vía iptv-org (lista sanitizada) · ⚠️ duplicado desactivado (mejor señal: #174)",
   "cc": "cl",
   "chno": 428
  },
@@ -2217,9 +2217,9 @@ window.CHANNELS = [
   "region": "Nacional",
   "color": "hsl(282, 58%, 42%)",
   "abbr": "TU",
-  "url": "https://stv4.janus.cl/playlist/stream.m3u8",
+  "url": "",
   "web": "",
-  "note": "720p · vía iptv-org (lista sanitizada)",
+  "note": "720p · vía iptv-org (lista sanitizada) · ⚠️ duplicado desactivado (mejor señal: #175)",
   "cc": "cl",
   "chno": 442
  },
@@ -2230,9 +2230,9 @@ window.CHANNELS = [
   "region": "Nacional",
   "color": "hsl(273, 58%, 42%)",
   "abbr": "T",
-  "url": "https://jireh-8-hls-video-us-isp.dps.live/hls-video/ey6283je82983je9823je8jowowiekldk9838274/tvmas/tvmas.smil/playlist.m3u8",
+  "url": "",
   "web": "",
-  "note": "1080p · vía iptv-org (lista sanitizada)",
+  "note": "1080p · vía iptv-org (lista sanitizada) · ⚠️ duplicado desactivado (mejor señal: #18)",
   "cc": "cl",
   "chno": 645
  },
@@ -2243,9 +2243,9 @@ window.CHANNELS = [
   "region": "Nacional",
   "color": "hsl(31, 58%, 42%)",
   "abbr": "TSV",
-  "url": "https://5ff3d9babae13.streamlock.net/8014/8014/playlist.m3u8",
+  "url": "",
   "web": "",
-  "note": "720p · vía iptv-org (lista sanitizada)",
+  "note": "720p · vía iptv-org (lista sanitizada) · ⚠️ duplicado desactivado (mejor señal: #197)",
   "cc": "cl",
   "chno": 650
  },
@@ -2269,9 +2269,9 @@ window.CHANNELS = [
   "region": "Nacional",
   "color": "hsl(315, 58%, 42%)",
   "abbr": "T",
-  "url": "https://unlimited1-cl-isp.dps.live/tvu/tvu.smil/playlist.m3u8",
+  "url": "",
   "web": "",
-  "note": "1080p · vía iptv-org (lista sanitizada)",
+  "note": "1080p · vía iptv-org (lista sanitizada) · ⚠️ duplicado desactivado (mejor señal: #62)",
   "cc": "cl",
   "chno": 656
  },
@@ -2308,9 +2308,9 @@ window.CHANNELS = [
   "region": "Nacional",
   "color": "hsl(6, 58%, 42%)",
   "abbr": "UT",
-  "url": "https://5ff3d9babae13.streamlock.net/ubyecbxnfd/ubyecbxnfd/playlist.m3u8",
+  "url": "",
   "web": "",
-  "note": "vía iptv-org (lista sanitizada)",
+  "note": "vía iptv-org (lista sanitizada) · ⚠️ duplicado desactivado (mejor señal: #198)",
   "cc": "cl",
   "chno": 670
  },
@@ -2360,9 +2360,9 @@ window.CHANNELS = [
   "region": "Nacional",
   "color": "hsl(113, 58%, 42%)",
   "abbr": "VNT",
-  "url": "https://mc.servidor.stream:19360/8240/8240.m3u8",
+  "url": "",
   "web": "",
-  "note": "vía iptv-org (lista sanitizada)",
+  "note": "vía iptv-org (lista sanitizada) · ⚠️ duplicado desactivado (mejor señal: #145)",
   "cc": "cl",
   "chno": 429
  },
@@ -3023,9 +3023,9 @@ window.CHANNELS = [
   "region": "Nacional",
   "color": "hsl(216,58%,42%)",
   "abbr": "RT",
-  "url": "https://vdochile.com:3864/hybrid/play.m3u8?PlaylistM3UCL",
+  "url": "",
   "web": "https://www.retromusica.cl/",
-  "note": "vía m3u.cl (lista sanitizada)",
+  "note": "vía m3u.cl (lista sanitizada) · ⚠️ duplicado desactivado (mejor señal: #367)",
   "cc": "cl",
   "chno": 368
  },
@@ -3153,9 +3153,9 @@ window.CHANNELS = [
   "region": "Nacional",
   "color": "hsl(21,58%,42%)",
   "abbr": "TTT",
-  "url": "https://stmv3.voxtvhd.com.br/turismotraveltv/turismotraveltv/playlist.m3u8?PlaylistM3UCL",
+  "url": "",
   "web": "https://turismotraveltv.cl/",
-  "note": "vía m3u.cl (lista sanitizada)",
+  "note": "vía m3u.cl (lista sanitizada) · ⚠️ duplicado desactivado (mejor señal: #457)",
   "cc": "cl",
   "chno": 638
  },
@@ -3491,9 +3491,9 @@ window.CHANNELS = [
   "region": "Nacional",
   "color": "hsl(219,58%,42%)",
   "abbr": "VT",
-  "url": "https://verso.coopcom.cl/live/SHf6GLCpn4hDSpWdzaDzgX0ciU82/index.m3u8?PlaylistM3UCL",
+  "url": "",
   "web": "https://www.verso.cl/",
-  "note": "vía m3u.cl (lista sanitizada)",
+  "note": "vía m3u.cl (lista sanitizada) · ⚠️ duplicado desactivado (mejor señal: #436)",
   "cc": "cl",
   "chno": 462
  },
@@ -3556,9 +3556,9 @@ window.CHANNELS = [
   "region": "Nacional",
   "color": "hsl(119,58%,42%)",
   "abbr": "ET",
-  "url": "https://v4.tustreaming.cl/edusauriotv/index.m3u8?PlaylistM3UCL",
+  "url": "",
   "web": "https://www.elclubdeedusaurio.cl",
-  "note": "vía m3u.cl (lista sanitizada)",
+  "note": "vía m3u.cl (lista sanitizada) · ⚠️ duplicado desactivado (mejor señal: #549)",
   "cc": "cl",
   "chno": 550
  },
@@ -3686,9 +3686,9 @@ window.CHANNELS = [
   "region": "Nacional",
   "color": "hsl(158,58%,42%)",
   "abbr": "LR",
-  "url": "https://live.getcirca.run/3969875408/ts:abr.m3u8?PlaylistM3UCL",
+  "url": "",
   "web": "",
-  "note": "vía m3u.cl (lista sanitizada)",
+  "note": "vía m3u.cl (lista sanitizada) · ⚠️ duplicado desactivado (mejor señal: #11)",
   "cc": "cl",
   "chno": 12
  },
@@ -3712,9 +3712,9 @@ window.CHANNELS = [
   "region": "Nacional",
   "color": "hsl(207,58%,42%)",
   "abbr": "TC",
-  "url": "https://mdstrm.com/live-stream-playlist/533adcc949386ce765657d7c.m3u8?PlaylistM3UCL",
+  "url": "",
   "web": "",
-  "note": "vía m3u.cl (lista sanitizada)",
+  "note": "vía m3u.cl (lista sanitizada) · ⚠️ duplicado desactivado (mejor señal: #17)",
   "cc": "cl",
   "chno": 465
  },
@@ -3725,9 +3725,9 @@ window.CHANNELS = [
   "region": "Nacional",
   "color": "hsl(308,58%,42%)",
   "abbr": "T",
-  "url": "https://iptv2.intersurtv.cl/TVN/index.m3u8?PlaylistM3UCL",
+  "url": "",
   "web": "",
-  "note": "vía m3u.cl (lista sanitizada)",
+  "note": "vía m3u.cl (lista sanitizada) · ⚠️ duplicado desactivado (mejor señal: #20)",
   "cc": "cl",
   "chno": 21
  },
@@ -3777,9 +3777,9 @@ window.CHANNELS = [
   "region": "Nacional",
   "color": "hsl(258,58%,42%)",
   "abbr": "M",
-  "url": "https://unlimited2-cl-isp.dps.live/mega/mega.smil/playlist.m3u8?PlaylistM3UCL",
+  "url": "",
   "web": "",
-  "note": "vía m3u.cl (lista sanitizada)",
+  "note": "vía m3u.cl (lista sanitizada) · ⚠️ duplicado desactivado (mejor señal: #13)",
   "cc": "cl",
   "chno": 14
  },
@@ -3842,9 +3842,9 @@ window.CHANNELS = [
   "region": "Nacional",
   "color": "hsl(311,58%,42%)",
   "abbr": "C1",
-  "url": "https://redirector.dps.live/hls/13cl/playlist.m3u8?PlaylistM3UCL",
+  "url": "",
   "web": "",
-  "note": "vía m3u.cl (lista sanitizada)",
+  "note": "vía m3u.cl (lista sanitizada) · ⚠️ duplicado desactivado (mejor señal: #7)",
   "cc": "cl",
   "chno": 490
  },
@@ -3868,9 +3868,9 @@ window.CHANNELS = [
   "region": "Nacional",
   "color": "hsl(311,58%,42%)",
   "abbr": "C1",
-  "url": "https://redirector.rudo.video/hls-video/ey6283je82983je9823je8jowowiekldk9838274/13popup/13popup.smil/playlist.m3u8?PlaylistM3UCL",
+  "url": "",
   "web": "",
-  "note": "vía m3u.cl (lista sanitizada)",
+  "note": "vía m3u.cl (lista sanitizada) · ⚠️ duplicado desactivado (mejor señal: #7)",
   "cc": "cl",
   "chno": 8
  },
@@ -4232,9 +4232,9 @@ window.CHANNELS = [
   "region": "Araucanía",
   "color": "hsl(48,58%,42%)",
   "abbr": "TU",
-  "url": "https://unlimited2-cl-isp.dps.live/uct/uct.smil/playlist.m3u8?PlaylistM3UCL",
+  "url": "",
   "web": "https://www.tvuct.cl/",
-  "note": "vía m3u.cl (lista sanitizada)",
+  "note": "vía m3u.cl (lista sanitizada) · ⚠️ duplicado desactivado (mejor señal: #248)",
   "cc": "cl",
   "chno": 249
  },
@@ -4336,9 +4336,9 @@ window.CHANNELS = [
   "region": "Nacional",
   "color": "hsl(54,58%,42%)",
   "abbr": "TS",
-  "url": "https://janus-tv-ply.senado.cl/playlist/playlist.m3u8?PlaylistM3UCL",
+  "url": "",
   "web": "",
-  "note": "vía m3u.cl (lista sanitizada)",
+  "note": "vía m3u.cl (lista sanitizada) · ⚠️ duplicado desactivado (mejor señal: #51)",
   "cc": "cl",
   "chno": 440
  },
@@ -4375,9 +4375,9 @@ window.CHANNELS = [
   "region": "Nacional",
   "color": "hsl(92,58%,42%)",
   "abbr": "CT",
-  "url": "https://wifispeed.trapemn.tv:1936/comunales/caracola-tv/playlist.m3u8?PlaylistM3UCL",
+  "url": "",
   "web": "https://www.caracolatv.cl/",
-  "note": "vía m3u.cl (lista sanitizada)",
+  "note": "vía m3u.cl (lista sanitizada) · ⚠️ duplicado desactivado (mejor señal: #516)",
   "cc": "cl",
   "chno": 517
  },
@@ -4427,9 +4427,9 @@ window.CHANNELS = [
   "region": "Nacional",
   "color": "hsl(104,58%,42%)",
   "abbr": "T",
-  "url": "https://v2.tustreaming.cl/tevex/index.m3u8?PlaylistM3UCL",
+  "url": "",
   "web": "https://tevex.cl",
-  "note": "vía m3u.cl (lista sanitizada)",
+  "note": "vía m3u.cl (lista sanitizada) · ⚠️ duplicado desactivado (mejor señal: #458)",
   "cc": "cl",
   "chno": 634
  },
@@ -4453,9 +4453,9 @@ window.CHANNELS = [
   "region": "Nacional",
   "color": "hsl(224,58%,42%)",
   "abbr": "CC",
-  "url": "https://v2.tustreaming.cl/chilechannel/index.m3u8?PlaylistM3UCL",
+  "url": "",
   "web": "",
-  "note": "vía m3u.cl (lista sanitizada)",
+  "note": "vía m3u.cl (lista sanitizada) · ⚠️ duplicado desactivado (mejor señal: #448)",
   "cc": "cl",
   "chno": 519
  },
@@ -4466,9 +4466,9 @@ window.CHANNELS = [
   "region": "Nacional",
   "color": "hsl(180,58%,42%)",
   "abbr": "CAT",
-  "url": "https://v2.tustreaming.cl:443/catvlive/index.m3u8?PlaylistM3UCL",
+  "url": "",
   "web": "",
-  "note": "vía m3u.cl (lista sanitizada)",
+  "note": "vía m3u.cl (lista sanitizada) · ⚠️ duplicado desactivado (mejor señal: #486)",
   "cc": "cl",
   "chno": 487
  },
@@ -5220,9 +5220,9 @@ window.CHANNELS = [
   "region": "Maule",
   "color": "hsl(220,58%,42%)",
   "abbr": "ECT",
-  "url": "https://v1.tustreaming.cl:443/diarioelcentrotv/index.m3u8?PlaylistM3UCL",
+  "url": "",
   "web": "https://www.diarioelcentro.cl/",
-  "note": "vía m3u.cl (lista sanitizada)",
+  "note": "vía m3u.cl (lista sanitizada) · ⚠️ duplicado desactivado (mejor señal: #39)",
   "cc": "cl",
   "chno": 203
  },
@@ -5324,9 +5324,9 @@ window.CHANNELS = [
   "region": "Maule",
   "color": "hsl(104,58%,42%)",
   "abbr": "T",
-  "url": "https://live20.bozztv.com/akamaissh101/ssh101/telecauquenestv/playlist.m3u8?PlaylistM3UCL",
+  "url": "",
   "web": "https://www.telecauquenes.cl/",
-  "note": "vía m3u.cl (lista sanitizada)",
+  "note": "vía m3u.cl (lista sanitizada) · ⚠️ duplicado desactivado (mejor señal: #49)",
   "cc": "cl",
   "chno": 219
  },
@@ -6000,9 +6000,9 @@ window.CHANNELS = [
   "region": "Nacional",
   "color": "hsl(299,58%,42%)",
   "abbr": "SC",
-  "url": "https://tvcosta.gleeze.com/memfs/4d48db09-0b1e-4803-8da7-22be388bdd7e.m3u8?PlaylistM3UCL",
+  "url": "",
   "web": "https://sensacioncosta.cl/",
-  "note": "vía m3u.cl (lista sanitizada)",
+  "note": "vía m3u.cl (lista sanitizada) · ⚠️ duplicado desactivado (mejor señal: #373)",
   "cc": "cl",
   "chno": 374
  },
@@ -6715,9 +6715,9 @@ window.CHANNELS = [
   "region": "Ñuble",
   "color": "hsl(90,58%,42%)",
   "abbr": "RCC",
-  "url": "https://tv.arkeo.cl:19360/8046/8046.m3u8?PlaylistM3UCL",
+  "url": "",
   "web": "https://radiocontemporaneacoihueco.cl/",
-  "note": "vía m3u.cl (lista sanitizada)",
+  "note": "vía m3u.cl (lista sanitizada) · ⚠️ duplicado desactivado (mejor señal: #79)",
   "cc": "cl",
   "chno": 233
  },
@@ -6845,9 +6845,9 @@ window.CHANNELS = [
   "region": "Nacional",
   "color": "hsl(156,58%,42%)",
   "abbr": "LC",
-  "url": "https://unlimited1-cl-isp.dps.live/laclavetv/laclavetv.smil/playlist.m3u8?PlaylistM3UCL",
+  "url": "",
   "web": "https://www.radiolaclave.cl/",
-  "note": "vía m3u.cl (lista sanitizada)",
+  "note": "vía m3u.cl (lista sanitizada) · ⚠️ duplicado desactivado (mejor señal: #339)",
   "cc": "cl",
   "chno": 393
  },
@@ -6858,9 +6858,9 @@ window.CHANNELS = [
   "region": "Nacional",
   "color": "hsl(84,58%,42%)",
   "abbr": "DF",
-  "url": "https://5eaccbab48461.streamlock.net:1936/dancefm_1/dancefm_1/playlist.m3u8?PlaylistM3UCL",
+  "url": "",
   "web": "",
-  "note": "vía m3u.cl (lista sanitizada)",
+  "note": "vía m3u.cl (lista sanitizada) · ⚠️ duplicado desactivado (mejor señal: #328)",
   "cc": "cl",
   "chno": 389
  },
@@ -6923,9 +6923,9 @@ window.CHANNELS = [
   "region": "Nacional",
   "color": "hsl(49,58%,42%)",
   "abbr": "RD",
-  "url": "https://mdstrm.com/live-stream-playlist/67ed8a8d6db4af9a0188555c.m3u8?PlaylistM3UCL",
+  "url": "",
   "web": "https://www.duna.cl/",
-  "note": "vía m3u.cl (lista sanitizada)",
+  "note": "vía m3u.cl (lista sanitizada) · ⚠️ duplicado desactivado (mejor señal: #353)",
   "cc": "cl",
   "chno": 401
  },
@@ -7066,9 +7066,9 @@ window.CHANNELS = [
   "region": "Metropolitana",
   "color": "hsl(15,58%,42%)",
   "abbr": "N",
-  "url": "https://pantera1-100gb-cl-movistar.dps.live/nctv/nctv.smil/playlist.m3u8?PlaylistM3UCL",
+  "url": "",
   "web": "https://nctv.cl/",
-  "note": "vía m3u.cl (lista sanitizada)",
+  "note": "vía m3u.cl (lista sanitizada) · ⚠️ duplicado desactivado (mejor señal: #85)",
   "cc": "cl",
   "chno": 160
  },
@@ -7183,9 +7183,9 @@ window.CHANNELS = [
   "region": "Nacional",
   "color": "hsl(340,58%,42%)",
   "abbr": "AT",
-  "url": "https://v4.tustreaming.cl/adatvchile/index.m3u8?PlaylistM3UCL",
+  "url": "",
   "web": "",
-  "note": "vía m3u.cl (lista sanitizada)",
+  "note": "vía m3u.cl (lista sanitizada) · ⚠️ duplicado desactivado (mejor señal: #417)",
   "cc": "cl",
   "chno": 430
  },
@@ -7560,9 +7560,9 @@ window.CHANNELS = [
   "region": "Español (Latam/ES)",
   "color": "hsl(223,58%,42%)",
   "abbr": "2H",
-  "url": "https://ztnr.rtve.es/ztnr/1694255.m3u8",
+  "url": "",
   "web": "",
-  "note": "720p · vía iptv-org · lista spa (sanitizada)",
+  "note": "720p · vía iptv-org · lista spa (sanitizada) · ⚠️ duplicado desactivado (mejor señal: #469)",
   "cc": "es",
   "chno": 685
  },
@@ -11642,9 +11642,9 @@ window.CHANNELS = [
   "region": "Español (Latam/ES)",
   "color": "hsl(36,58%,42%)",
   "abbr": "CT",
-  "url": "https://liveingesta118.cdnmedia.tv/canaltro2live/smil:live.smil/playlist.m3u8",
+  "url": "",
   "web": "",
-  "note": "1080p · vía iptv-org · lista spa (sanitizada)",
+  "note": "1080p · vía iptv-org · lista spa (sanitizada) · ⚠️ duplicado desactivado (mejor señal: #1474)",
   "cc": "co",
   "chno": 1976
  },
@@ -13657,9 +13657,9 @@ window.CHANNELS = [
   "region": "Español (Latam/ES)",
   "color": "hsl(293,58%,42%)",
   "abbr": "E",
-  "url": "https://streams.prd.commavservices.eu/live/ebsplus/index.m3u8",
+  "url": "",
   "web": "",
-  "note": "1080p · vía iptv-org · lista spa (sanitizada)",
+  "note": "1080p · vía iptv-org · lista spa (sanitizada) · ⚠️ duplicado desactivado (mejor señal: #1436)",
   "cc": "be",
   "chno": 1437
  },
@@ -14086,9 +14086,9 @@ window.CHANNELS = [
   "region": "Español (Latam/ES)",
   "color": "hsl(354,58%,42%)",
   "abbr": "E",
-  "url": "https://cl-2.backend.energeek.cl/bkp/egretroweb/index.m3u8?token=IPTVgh26",
+  "url": "",
   "web": "",
-  "note": " geo-blocked · 1080p · vía iptv-org · lista spa (sanitizada)",
+  "note": " geo-blocked · 1080p · vía iptv-org · lista spa (sanitizada) · ⚠️ duplicado desactivado (mejor señal: #319)",
   "cc": "cl",
   "chno": 918
  },
@@ -14099,9 +14099,9 @@ window.CHANNELS = [
   "region": "Español (Latam/ES)",
   "color": "hsl(269,58%,42%)",
   "abbr": "EF",
-  "url": "https://cl-2.backend.energeek.cl/bkp/egfan/mobile/index.m3u8?token=IPTVgh26",
+  "url": "",
   "web": "",
-  "note": " geo-blocked · 720p · vía iptv-org · lista spa (sanitizada)",
+  "note": " geo-blocked · 720p · vía iptv-org · lista spa (sanitizada) · ⚠️ duplicado desactivado (mejor señal: #320)",
   "cc": "cl",
   "chno": 919
  },
@@ -14112,9 +14112,9 @@ window.CHANNELS = [
   "region": "Español (Latam/ES)",
   "color": "hsl(101,58%,42%)",
   "abbr": "ER",
-  "url": "https://cl-2.backend.energeek.cl/bkp/egradio/mobile/index.m3u8?token=IPTVgh26",
+  "url": "",
   "web": "",
-  "note": " geo-blocked · 720p · vía iptv-org · lista spa (sanitizada)",
+  "note": " geo-blocked · 720p · vía iptv-org · lista spa (sanitizada) · ⚠️ duplicado desactivado (mejor señal: #321)",
   "cc": "cl",
   "chno": 1009
  },
@@ -16218,9 +16218,9 @@ window.CHANNELS = [
   "region": "Español (Latam/ES)",
   "color": "hsl(188,58%,42%)",
   "abbr": "L1C",
-  "url": "https://ztnr.rtve.es/ztnr/5190066.m3u8",
+  "url": "",
   "web": "",
-  "note": "720p · vía iptv-org · lista spa (sanitizada)",
+  "note": "720p · vía iptv-org · lista spa (sanitizada) · ⚠️ duplicado desactivado (mejor señal: #2280)",
   "cc": "es",
   "chno": 2282
  },
@@ -16231,9 +16231,9 @@ window.CHANNELS = [
   "region": "Español (Latam/ES)",
   "color": "hsl(256,58%,42%)",
   "abbr": "L1C",
-  "url": "https://ztnr.rtve.es/ztnr/3293681.m3u8",
+  "url": "",
   "web": "",
-  "note": "720p · vía iptv-org · lista spa (sanitizada)",
+  "note": "720p · vía iptv-org · lista spa (sanitizada) · ⚠️ duplicado desactivado (mejor señal: #2281)",
   "cc": "es",
   "chno": 2284
  },
@@ -16270,9 +16270,9 @@ window.CHANNELS = [
   "region": "Español (Latam/ES)",
   "color": "hsl(17,58%,42%)",
   "abbr": "L2C",
-  "url": "https://ztnr.rtve.es/ztnr/3987218.m3u8",
+  "url": "",
   "web": "",
-  "note": "720p · vía iptv-org · lista spa (sanitizada)",
+  "note": "720p · vía iptv-org · lista spa (sanitizada) · ⚠️ duplicado desactivado (mejor señal: #2290)",
   "cc": "es",
   "chno": 2294
  },
@@ -18168,9 +18168,9 @@ window.CHANNELS = [
   "region": "Español (Latam/ES)",
   "color": "hsl(275,58%,42%)",
   "abbr": "ST",
-  "url": "https://trun.suyaitv.cl/memfs/1255a743-cd41-40a8-86c4-d264ee16ebf3.m3u8",
+  "url": "",
   "web": "",
-  "note": "vía iptv-org · spa (sanitizada)",
+  "note": "vía iptv-org · spa (sanitizada) · ⚠️ duplicado desactivado (mejor señal: #439)",
   "cc": "cl",
   "chno": 1371
  },
@@ -21327,9 +21327,9 @@ window.CHANNELS = [
   "region": "Español (Latam/ES)",
   "color": "hsl(306,58%,42%)",
   "abbr": "ST",
-  "url": "https://ss2.tvrdomi.com:1936/eradiofonicas/eradiofonicas/playlist.m3u8",
+  "url": "",
   "web": "",
-  "note": "vía iptv-org · spa (sanitizada)",
+  "note": "vía iptv-org · spa (sanitizada) · ⚠️ duplicado desactivado (mejor señal: #623)",
   "cc": "do",
   "chno": 2720
  },
@@ -21808,9 +21808,9 @@ window.CHANNELS = [
   "region": "Español (Latam/ES)",
   "color": "hsl(205,58%,42%)",
   "abbr": "T",
-  "url": "https://s.emisoras.tv:8081/telemas/index.m3u8",
+  "url": "",
   "web": "",
-  "note": "vía iptv-org · spa (sanitizada)",
+  "note": "vía iptv-org · spa (sanitizada) · ⚠️ duplicado desactivado (mejor señal: #1555)",
   "cc": "hn",
   "chno": 2796
  },
@@ -25591,9 +25591,9 @@ window.CHANNELS = [
   "region": "Español (Latam/ES)",
   "color": "hsl(259,58%,42%)",
   "abbr": "PT",
-  "url": "https://stream.oursnetworktv.com/latin/PlenitudGtm/playlist.m3u8",
+  "url": "",
   "web": "",
-  "note": "vía iptv-org · spa (sanitizada)",
+  "note": "vía iptv-org · spa (sanitizada) · ⚠️ duplicado desactivado (mejor señal: #231)",
   "cc": "gt",
   "chno": 1280
  },
@@ -27762,9 +27762,9 @@ window.CHANNELS = [
   "region": "Español (Latam/ES)",
   "color": "hsl(354,58%,42%)",
   "abbr": "VT",
-  "url": "https://cdn.streamhispanatv.net:3076/live/visiontvlive.m3u8",
+  "url": "",
   "web": "",
-  "note": "vía iptv-org · spa (sanitizada)",
+  "note": "vía iptv-org · spa (sanitizada) · ⚠️ duplicado desactivado (mejor señal: #280)",
   "cc": "gt",
   "chno": 3057
  },
@@ -27970,10 +27970,10 @@ window.CHANNELS = [
   "region": "Español (Latam/ES)",
   "color": "hsl(317,58%,42%)",
   "abbr": "NT",
-  "url": "https://unlimited1-us.dps.live/nettv/nettv.smil/playlist.m3u8",
+  "url": "",
   "web": "https://www.canalnet.tv/page/senal-en-vivo",
   "cc": "ar",
-  "note": "vía alplox (sanitizada)",
+  "note": "vía alplox (sanitizada) · ⚠️ duplicado desactivado (mejor señal: #760)",
   "chno": 761
  },
  {
@@ -27983,10 +27983,10 @@ window.CHANNELS = [
   "region": "Español (Latam/ES)",
   "color": "hsl(317,58%,42%)",
   "abbr": "NT",
-  "url": "https://unlimited6-cl.dps.live/nettv/nettv.smil/playlist.m3u8",
+  "url": "",
   "web": "https://www.canalnet.tv/page/senal-en-vivo",
   "cc": "ar",
-  "note": "vía alplox (sanitizada)",
+  "note": "vía alplox (sanitizada) · ⚠️ duplicado desactivado (mejor señal: #760)",
   "chno": 762
  },
  {
@@ -27996,10 +27996,10 @@ window.CHANNELS = [
   "region": "Español (Latam/ES)",
   "color": "hsl(317,58%,42%)",
   "abbr": "NT",
-  "url": "https://unlimited1-us.dps.live/nettv/nettv.smil/nettv/livestream2/chunks.m3u8",
+  "url": "",
   "web": "https://www.canalnet.tv/page/senal-en-vivo",
   "cc": "ar",
-  "note": "vía alplox (sanitizada)",
+  "note": "vía alplox (sanitizada) · ⚠️ duplicado desactivado (mejor señal: #760)",
   "chno": 763
  },
  {
@@ -28009,10 +28009,10 @@ window.CHANNELS = [
   "region": "Nacional",
   "color": "hsl(317,58%,42%)",
   "abbr": "AT",
-  "url": "https://unlimited2-cl-isp.dps.live/921tv/921tv.smil/playlist.m3u8",
+  "url": "",
   "web": "https://www.radioagricultura.cl/en-vivo-3/",
   "cc": "cl",
-  "note": "vía alplox (sanitizada)",
+  "note": "vía alplox (sanitizada) · ⚠️ duplicado desactivado (mejor señal: #34)",
   "chno": 324
  },
  {
@@ -28035,10 +28035,10 @@ window.CHANNELS = [
   "region": "Nacional",
   "color": "hsl(311,58%,42%)",
   "abbr": "AT",
-  "url": "https://unlimited1-cl-isp.dps.live/atv/atv.smil/playlist.m3u8",
+  "url": "",
   "web": "https://www.antofagasta.tv/",
   "cc": "cl",
-  "note": "vía alplox (sanitizada)",
+  "note": "vía alplox (sanitizada) · ⚠️ duplicado desactivado (mejor señal: #93)",
   "chno": 473
  },
  {
@@ -28048,10 +28048,10 @@ window.CHANNELS = [
   "region": "Nacional",
   "color": "hsl(162,58%,42%)",
   "abbr": "AT",
-  "url": "https://v2.tustreaming.cl/atacamatv/index.m3u8",
+  "url": "",
   "web": "https://atacamatelevision.com/",
   "cc": "cl",
-  "note": "vía alplox (sanitizada)",
+  "note": "vía alplox (sanitizada) · ⚠️ duplicado desactivado (mejor señal: #99)",
   "chno": 476
  },
  {
@@ -28061,10 +28061,10 @@ window.CHANNELS = [
   "region": "Nacional",
   "color": "hsl(162,58%,42%)",
   "abbr": "AT",
-  "url": "https://v2.tustreaming.cl/atacamatv/tracks-v1a1/mono.m3u8",
+  "url": "",
   "web": "https://atacamatelevision.com/",
   "cc": "cl",
-  "note": "vía alplox (sanitizada)",
+  "note": "vía alplox (sanitizada) · ⚠️ duplicado desactivado (mejor señal: #99)",
   "chno": 477
  },
  {
@@ -28074,10 +28074,10 @@ window.CHANNELS = [
   "region": "Nacional",
   "color": "hsl(294,58%,42%)",
   "abbr": "AT",
-  "url": "https://v1.tustreaming.cl/aysentv/tracks-v1a1/mono.m3u8",
+  "url": "",
   "web": "https://www.aysen.tv/",
   "cc": "cl",
-  "note": "vía alplox (sanitizada)",
+  "note": "vía alplox (sanitizada) · ⚠️ duplicado desactivado (mejor señal: #282)",
   "chno": 479
  },
  {
@@ -28087,10 +28087,10 @@ window.CHANNELS = [
   "region": "Nacional",
   "color": "hsl(294,58%,42%)",
   "abbr": "AT",
-  "url": "https://v1.tustreaming.cl:443/aysentv/index.m3u8",
+  "url": "",
   "web": "https://www.aysen.tv/",
   "cc": "cl",
-  "note": "vía alplox (sanitizada)",
+  "note": "vía alplox (sanitizada) · ⚠️ duplicado desactivado (mejor señal: #282)",
   "chno": 480
  },
  {
@@ -28100,10 +28100,10 @@ window.CHANNELS = [
   "region": "Nacional",
   "color": "hsl(321,58%,42%)",
   "abbr": "C2Q",
-  "url": "https://unlimited2-cl-isp.dps.live/tvquellon/tvquellon.smil/tvquellon/livestream1/chunks.m3u8",
+  "url": "",
   "web": "https://www.canal2quellon.cl/",
   "cc": "cl",
-  "note": "vía alplox (sanitizada)",
+  "note": "vía alplox (sanitizada) · ⚠️ duplicado desactivado (mejor señal: #261)",
   "chno": 494
  },
  {
@@ -28113,10 +28113,10 @@ window.CHANNELS = [
   "region": "Nacional",
   "color": "hsl(321,58%,42%)",
   "abbr": "C2Q",
-  "url": "https://redirector.dps.live/hls/tvquellon/playlist.m3u8",
+  "url": "",
   "web": "https://www.canal2quellon.cl/",
   "cc": "cl",
-  "note": "vía alplox (sanitizada)",
+  "note": "vía alplox (sanitizada) · ⚠️ duplicado desactivado (mejor señal: #261)",
   "chno": 495
  },
  {
@@ -28126,10 +28126,10 @@ window.CHANNELS = [
   "region": "Nacional",
   "color": "hsl(321,58%,42%)",
   "abbr": "C2Q",
-  "url": "https://unlimited6-cl.dps.live/tvquellon/tvquellon.smil/playlist.m3u8",
+  "url": "",
   "web": "https://www.canal2quellon.cl/",
   "cc": "cl",
-  "note": "vía alplox (sanitizada)",
+  "note": "vía alplox (sanitizada) · ⚠️ duplicado desactivado (mejor señal: #261)",
   "chno": 496
  },
  {
@@ -28139,10 +28139,10 @@ window.CHANNELS = [
   "region": "Nacional",
   "color": "hsl(321,58%,42%)",
   "abbr": "C2Q",
-  "url": "https://unlimited1-cl-isp.dps.live/tvquellon/tvquellon.smil/playlist.m3u8",
+  "url": "",
   "web": "https://www.canal2quellon.cl/",
   "cc": "cl",
-  "note": "vía alplox (sanitizada)",
+  "note": "vía alplox (sanitizada) · ⚠️ duplicado desactivado (mejor señal: #261)",
   "chno": 497
  },
  {
@@ -28152,10 +28152,10 @@ window.CHANNELS = [
   "region": "Nacional",
   "color": "hsl(321,58%,42%)",
   "abbr": "C2Q",
-  "url": "https://unlimited2-cl-isp.dps.live/tvquellon/tvquellon.smil/playlist.m3u8",
+  "url": "",
   "web": "https://www.canal2quellon.cl/",
   "cc": "cl",
-  "note": "vía alplox (sanitizada)",
+  "note": "vía alplox (sanitizada) · ⚠️ duplicado desactivado (mejor señal: #261)",
   "chno": 498
  },
  {
@@ -28178,10 +28178,10 @@ window.CHANNELS = [
   "region": "Nacional",
   "color": "hsl(233,58%,42%)",
   "abbr": "C2S",
-  "url": "https://pantera1-100gb-cl-movistar.dps.live/canal2/canal2.smil/playlist.m3u8",
+  "url": "",
   "web": "https://cablenoticias.cl/san-antonio-en-vivo",
   "cc": "cl",
-  "note": "vía alplox (sanitizada)",
+  "note": "vía alplox (sanitizada) · ⚠️ duplicado desactivado (mejor señal: #499)",
   "chno": 500
  },
  {
@@ -28191,10 +28191,10 @@ window.CHANNELS = [
   "region": "Nacional",
   "color": "hsl(233,58%,42%)",
   "abbr": "C2S",
-  "url": "https://unlimited1-cl-isp.dps.live/canal2/canal2.smil/playlist.m3u8",
+  "url": "",
   "web": "https://cablenoticias.cl/san-antonio-en-vivo",
   "cc": "cl",
-  "note": "vía alplox (sanitizada)",
+  "note": "vía alplox (sanitizada) · ⚠️ duplicado desactivado (mejor señal: #499)",
   "chno": 501
  },
  {
@@ -28230,10 +28230,10 @@ window.CHANNELS = [
   "region": "Nacional",
   "color": "hsl(28,58%,42%)",
   "abbr": "C9",
-  "url": "https://unlimited1-cl-isp.dps.live/c9/c9.smil/playlist.m3u8",
+  "url": "",
   "web": "https://www.canal9.cl/en-vivo/",
   "cc": "cl",
-  "note": "vía alplox (sanitizada)",
+  "note": "vía alplox (sanitizada) · ⚠️ duplicado desactivado (mejor señal: #505)",
   "chno": 506
  },
  {
@@ -28256,10 +28256,10 @@ window.CHANNELS = [
   "region": "Nacional",
   "color": "hsl(257,58%,42%)",
   "abbr": "CLQ",
-  "url": "https://v2.tustreaming.cl:443/canallocalcl/index.m3u8",
+  "url": "",
   "web": "https://www.canallocal.cl",
   "cc": "cl",
-  "note": "vía alplox (sanitizada)",
+  "note": "vía alplox (sanitizada) · ⚠️ duplicado desactivado (mejor señal: #510)",
   "chno": 511
  },
  {
@@ -28269,10 +28269,10 @@ window.CHANNELS = [
   "region": "Nacional",
   "color": "hsl(243,58%,42%)",
   "abbr": "CSP",
-  "url": "https://v2.tustreaming.cl/fmarcoirirs/index.m3u8",
+  "url": "",
   "web": "https://www.canalsurpatagonia.cl/",
   "cc": "cl",
-  "note": "vía alplox (sanitizada)",
+  "note": "vía alplox (sanitizada) · ⚠️ duplicado desactivado (mejor señal: #291)",
   "chno": 512
  },
  {
@@ -28282,10 +28282,10 @@ window.CHANNELS = [
   "region": "Nacional",
   "color": "hsl(243,58%,42%)",
   "abbr": "CSP",
-  "url": "https://v2.tustreaming.cl/fmarcoirirs/tracks-v1a1/mono.m3u8",
+  "url": "",
   "web": "https://www.canalsurpatagonia.cl/",
   "cc": "cl",
-  "note": "vía alplox (sanitizada)",
+  "note": "vía alplox (sanitizada) · ⚠️ duplicado desactivado (mejor señal: #291)",
   "chno": 513
  },
  {
@@ -28295,10 +28295,10 @@ window.CHANNELS = [
   "region": "Nacional",
   "color": "hsl(243,58%,42%)",
   "abbr": "CSP",
-  "url": "https://v2.tustreaming.cl:443/fmarcoirirs/index.m3u8",
+  "url": "",
   "web": "https://www.canalsurpatagonia.cl/",
   "cc": "cl",
-  "note": "vía alplox (sanitizada)",
+  "note": "vía alplox (sanitizada) · ⚠️ duplicado desactivado (mejor señal: #291)",
   "chno": 514
  },
  {
@@ -28321,10 +28321,10 @@ window.CHANNELS = [
   "region": "Nacional",
   "color": "hsl(60,58%,42%)",
   "abbr": "CCC",
-  "url": "https://v2.tustreaming.cl/clicktv/index.m3u8",
+  "url": "",
   "web": "https://clicktvchile.cl",
   "cc": "cl",
-  "note": "vía alplox (sanitizada)",
+  "note": "vía alplox (sanitizada) · ⚠️ duplicado desactivado (mejor señal: #526)",
   "chno": 527
  },
  {
@@ -28334,10 +28334,10 @@ window.CHANNELS = [
   "region": "Nacional",
   "color": "hsl(183,58%,42%)",
   "abbr": "C",
-  "url": "https://unlimited1-cl-isp.dps.live/cm/cm.smil/playlist.m3u8",
+  "url": "",
   "web": "https://contivision.cl/",
   "cc": "cl",
-  "note": "vía alplox (sanitizada)",
+  "note": "vía alplox (sanitizada) · ⚠️ duplicado desactivado (mejor señal: #202)",
   "chno": 529
  },
  {
@@ -28347,10 +28347,10 @@ window.CHANNELS = [
   "region": "Nacional",
   "color": "hsl(183,58%,42%)",
   "abbr": "C",
-  "url": "https://unlimited2-cl-isp.dps.live/cm/cm.smil/playlist.m3u8",
+  "url": "",
   "web": "https://contivision.cl/",
   "cc": "cl",
-  "note": "vía alplox (sanitizada)",
+  "note": "vía alplox (sanitizada) · ⚠️ duplicado desactivado (mejor señal: #202)",
   "chno": 530
  },
  {
@@ -28373,10 +28373,10 @@ window.CHANNELS = [
   "region": "Nacional",
   "color": "hsl(213,58%,42%)",
   "abbr": "EF",
-  "url": "https://backend.energeek.cl/webtv/egfanweb/index.m3u8?token=ZZDemoIPTVGH",
+  "url": "",
   "web": "https://neotv.energeek.cl/canal?slug=energeek-fan",
   "cc": "cl",
-  "note": "vía alplox (sanitizada)",
+  "note": "vía alplox (sanitizada) · ⚠️ duplicado desactivado (mejor señal: #320)",
   "chno": 542
  },
  {
@@ -28386,10 +28386,10 @@ window.CHANNELS = [
   "region": "Nacional",
   "color": "hsl(213,58%,42%)",
   "abbr": "EF",
-  "url": "https://backend.energeek.cl/webtv/egfanweb/index.m3u8?token=D3m0M3UCLWeb",
+  "url": "",
   "web": "https://neotv.energeek.cl/canal?slug=energeek-fan",
   "cc": "cl",
-  "note": "vía alplox (sanitizada)",
+  "note": "vía alplox (sanitizada) · ⚠️ duplicado desactivado (mejor señal: #320)",
   "chno": 543
  },
  {
@@ -28399,10 +28399,10 @@ window.CHANNELS = [
   "region": "Nacional",
   "color": "hsl(101,58%,42%)",
   "abbr": "ER",
-  "url": "https://backend.energeek.cl/webtv/egradioweb/index.m3u8?token=ZZDemoIPTVGH",
+  "url": "",
   "web": "https://energeek.cl/radio-en-vivo/",
   "cc": "cl",
-  "note": "vía alplox (sanitizada)",
+  "note": "vía alplox (sanitizada) · ⚠️ duplicado desactivado (mejor señal: #321)",
   "chno": 331
  },
  {
@@ -28412,10 +28412,10 @@ window.CHANNELS = [
   "region": "Nacional",
   "color": "hsl(101,58%,42%)",
   "abbr": "ER",
-  "url": "https://backend.energeek.cl/webtv/egradioweb/index.m3u8?token=D3m0M3UCLWeb",
+  "url": "",
   "web": "https://energeek.cl/radio-en-vivo/",
   "cc": "cl",
-  "note": "vía alplox (sanitizada)",
+  "note": "vía alplox (sanitizada) · ⚠️ duplicado desactivado (mejor señal: #321)",
   "chno": 332
  },
  {
@@ -28425,10 +28425,10 @@ window.CHANNELS = [
   "region": "Nacional",
   "color": "hsl(101,58%,42%)",
   "abbr": "ER",
-  "url": "https://backend.energeek.cl/webtv/egradioweb/index.m3u8?token=dEmoweBeneRGEek2025",
+  "url": "",
   "web": "https://energeek.cl/radio-en-vivo/",
   "cc": "cl",
-  "note": "vía alplox (sanitizada)",
+  "note": "vía alplox (sanitizada) · ⚠️ duplicado desactivado (mejor señal: #321)",
   "chno": 333
  },
  {
@@ -28451,10 +28451,10 @@ window.CHANNELS = [
   "region": "Nacional",
   "color": "hsl(280,58%,42%)",
   "abbr": "ER",
-  "url": "https://backend.energeek.cl/webtv/egretroweb/index.m3u8?token=D3m0M3UCLWeb",
+  "url": "",
   "web": "https://energeek.cl/",
   "cc": "cl",
-  "note": "vía alplox (sanitizada)",
+  "note": "vía alplox (sanitizada) · ⚠️ duplicado desactivado (mejor señal: #544)",
   "chno": 545
  },
  {
@@ -28464,10 +28464,10 @@ window.CHANNELS = [
   "region": "Nacional",
   "color": "hsl(280,58%,42%)",
   "abbr": "ER",
-  "url": "https://backend.energeek.cl/webtv/egretroweb/index.m3u8?token=dEmoweBeneRGEek2025",
+  "url": "",
   "web": "https://energeek.cl/",
   "cc": "cl",
-  "note": "vía alplox (sanitizada)",
+  "note": "vía alplox (sanitizada) · ⚠️ duplicado desactivado (mejor señal: #544)",
   "chno": 546
  },
  {
@@ -28477,10 +28477,10 @@ window.CHANNELS = [
   "region": "Nacional",
   "color": "hsl(280,58%,42%)",
   "abbr": "ER",
-  "url": "https://backend.energeek.cl/webtv/egretro/mobile/index.m3u8?token=dEmoweBeneRGEek2025",
+  "url": "",
   "web": "https://energeek.cl/",
   "cc": "cl",
-  "note": "vía alplox (sanitizada)",
+  "note": "vía alplox (sanitizada) · ⚠️ duplicado desactivado (mejor señal: #544)",
   "chno": 547
  },
  {
@@ -28503,10 +28503,10 @@ window.CHANNELS = [
   "region": "Nacional",
   "color": "hsl(309,58%,42%)",
   "abbr": "HT",
-  "url": "https://unlimited1-cl-isp.dps.live/holvoettv/holvoettv.smil/playlist.m3u8",
+  "url": "",
   "web": "https://holvoet.cl/en-vivo/",
   "cc": "cl",
-  "note": "vía alplox (sanitizada)",
+  "note": "vía alplox (sanitizada) · ⚠️ duplicado desactivado (mejor señal: #102)",
   "chno": 557
  },
  {
@@ -28529,10 +28529,10 @@ window.CHANNELS = [
   "region": "Nacional",
   "color": "hsl(255,58%,42%)",
   "abbr": "CII",
-  "url": "https://pantera1-100gb-cl-movistar.dps.live/isb/isb.smil/playlist.m3u8",
+  "url": "",
   "web": "https://www.canalisb.cl",
   "cc": "cl",
-  "note": "vía alplox (sanitizada)",
+  "note": "vía alplox (sanitizada) · ⚠️ duplicado desactivado (mejor señal: #419)",
   "chno": 420
  },
  {
@@ -28542,10 +28542,10 @@ window.CHANNELS = [
   "region": "Nacional",
   "color": "hsl(171,58%,42%)",
   "abbr": "IP",
-  "url": "https://unlimited1-cl-isp.dps.live/itv/itv.smil/playlist.m3u8",
+  "url": "",
   "web": "https://www.itvpatagonia.com/",
   "cc": "cl",
-  "note": "vía alplox (sanitizada)",
+  "note": "vía alplox (sanitizada) · ⚠️ duplicado desactivado (mejor señal: #294)",
   "chno": 561
  },
  {
@@ -28555,10 +28555,10 @@ window.CHANNELS = [
   "region": "Nacional",
   "color": "hsl(171,58%,42%)",
   "abbr": "IP",
-  "url": "https://pantera1-100gb-cl-movistar.dps.live/itv/itv.smil/playlist.m3u8",
+  "url": "",
   "web": "https://www.itvpatagonia.com/",
   "cc": "cl",
-  "note": "vía alplox (sanitizada)",
+  "note": "vía alplox (sanitizada) · ⚠️ duplicado desactivado (mejor señal: #294)",
   "chno": 562
  },
  {
@@ -28568,10 +28568,10 @@ window.CHANNELS = [
   "region": "Nacional",
   "color": "hsl(171,58%,42%)",
   "abbr": "IP",
-  "url": "https://unlimited1-us.dps.live/itv/itv.smil/playlist.m3u8",
+  "url": "",
   "web": "https://www.itvpatagonia.com/",
   "cc": "cl",
-  "note": "vía alplox (sanitizada)",
+  "note": "vía alplox (sanitizada) · ⚠️ duplicado desactivado (mejor señal: #294)",
   "chno": 563
  },
  {
@@ -28594,10 +28594,10 @@ window.CHANNELS = [
   "region": "Nacional",
   "color": "hsl(301,58%,42%)",
   "abbr": "LM",
-  "url": "https://redirector.rudo.video/hls-video/931b584451fa6dd1313ee66efbfd5802e3f3bcea/metropolitanatv/metropolitanatv.smil/playlist.m3u8",
+  "url": "",
   "web": "https://lametrofm.cl/",
   "cc": "cl",
-  "note": "vía alplox (sanitizada)",
+  "note": "vía alplox (sanitizada) · ⚠️ duplicado desactivado (mejor señal: #340)",
   "chno": 341
  },
  {
@@ -28607,10 +28607,10 @@ window.CHANNELS = [
   "region": "Nacional",
   "color": "hsl(10,58%,42%)",
   "abbr": "MMT",
-  "url": "https://v1.tustreaming.cl/margamargatv/tracks-v1a1/mono.m3u8",
+  "url": "",
   "web": "https://margamargatv.cl",
   "cc": "cl",
-  "note": "vía alplox (sanitizada)",
+  "note": "vía alplox (sanitizada) · ⚠️ duplicado desactivado (mejor señal: #128)",
   "chno": 573
  },
  {
@@ -28620,10 +28620,10 @@ window.CHANNELS = [
   "region": "Nacional",
   "color": "hsl(258,58%,42%)",
   "abbr": "M",
-  "url": "https://unlimited1-cl-isp.dps.live/mega/mega.smil/playlist.m3u8",
+  "url": "",
   "web": "https://www.mega.cl/",
   "cc": "cl",
-  "note": "vía alplox (sanitizada)",
+  "note": "vía alplox (sanitizada) · ⚠️ duplicado desactivado (mejor señal: #13)",
   "chno": 574
  },
  {
@@ -28633,10 +28633,10 @@ window.CHANNELS = [
   "region": "Nacional",
   "color": "hsl(258,58%,42%)",
   "abbr": "M",
-  "url": "https://unlimited2-cl-isp.dps.live/mega/mega.smil/playlist.m3u8",
+  "url": "",
   "web": "https://www.mega.cl/",
   "cc": "cl",
-  "note": "vía alplox (sanitizada)",
+  "note": "vía alplox (sanitizada) · ⚠️ duplicado desactivado (mejor señal: #13)",
   "chno": 575
  },
  {
@@ -28672,10 +28672,10 @@ window.CHANNELS = [
   "region": "Nacional",
   "color": "hsl(110,58%,42%)",
   "abbr": "PT",
-  "url": "https://5ff3d9babae13.streamlock.net:443/8028/8028/playlist.m3u8",
+  "url": "",
   "web": "https://pichilemutv.org",
   "cc": "cl",
-  "note": "vía alplox (sanitizada)",
+  "note": "vía alplox (sanitizada) · ⚠️ duplicado desactivado (mejor señal: #186)",
   "chno": 585
  },
  {
@@ -28698,10 +28698,10 @@ window.CHANNELS = [
   "region": "Nacional",
   "color": "hsl(218,58%,42%)",
   "abbr": "PT",
-  "url": "https://redirector.rudo.video/hls-video/339f69c6122f6d8f4574732c235f09b7683e31a5/pinguinotv/pinguinotv.smil/playlist.m3u8",
+  "url": "",
   "web": "https://elpinguino.com/reproductor/",
   "cc": "cl",
-  "note": "vía alplox (sanitizada)",
+  "note": "vía alplox (sanitizada) · ⚠️ duplicado desactivado (mejor señal: #586)",
   "chno": 587
  },
  {
@@ -28711,10 +28711,10 @@ window.CHANNELS = [
   "region": "Nacional",
   "color": "hsl(41,58%,42%)",
   "abbr": "PT",
-  "url": "https://unlimited1-cl-isp.dps.live/pucontv/pucontv.smil/playlist.m3u8",
+  "url": "",
   "web": "https://www.pucontv.com/",
   "cc": "cl",
-  "note": "vía alplox (sanitizada)",
+  "note": "vía alplox (sanitizada) · ⚠️ duplicado desactivado (mejor señal: #244)",
   "chno": 592
  },
  {
@@ -28724,10 +28724,10 @@ window.CHANNELS = [
   "region": "Nacional",
   "color": "hsl(41,58%,42%)",
   "abbr": "PT",
-  "url": "https://pantera1-100gb-cl-movistar.dps.live/pucontv/pucontv.smil/playlist.m3u8",
+  "url": "",
   "web": "https://www.pucontv.com/",
   "cc": "cl",
-  "note": "vía alplox (sanitizada)",
+  "note": "vía alplox (sanitizada) · ⚠️ duplicado desactivado (mejor señal: #244)",
   "chno": 593
  },
  {
@@ -28737,10 +28737,10 @@ window.CHANNELS = [
   "region": "Nacional",
   "color": "hsl(41,58%,42%)",
   "abbr": "PT",
-  "url": "https://unlimited6-cl.dps.live/pucontv/pucontv.smil/playlist.m3u8",
+  "url": "",
   "web": "https://www.pucontv.com/",
   "cc": "cl",
-  "note": "vía alplox (sanitizada)",
+  "note": "vía alplox (sanitizada) · ⚠️ duplicado desactivado (mejor señal: #244)",
   "chno": 594
  },
  {
@@ -28750,10 +28750,10 @@ window.CHANNELS = [
   "region": "Nacional",
   "color": "hsl(273,58%,42%)",
   "abbr": "PT",
-  "url": "https://pnt.janus.cl/playlist/stream.m3u8",
+  "url": "",
   "web": "https://puranoticia.pnt.cl/",
   "cc": "cl",
-  "note": "vía alplox (sanitizada)",
+  "note": "vía alplox (sanitizada) · ⚠️ duplicado desactivado (mejor señal: #45)",
   "chno": 595
  },
  {
@@ -28776,10 +28776,10 @@ window.CHANNELS = [
   "region": "Nacional",
   "color": "hsl(1,58%,42%)",
   "abbr": "REC",
-  "url": "https://v1.tustreaming.cl/conquistadorconcepcion/index.m3u8",
+  "url": "",
   "web": "https://www.elconquistadorfm.net/",
   "cc": "cl",
-  "note": "vía alplox (sanitizada)",
+  "note": "vía alplox (sanitizada) · ⚠️ duplicado desactivado (mejor señal: #355)",
   "chno": 356
  },
  {
@@ -28802,10 +28802,10 @@ window.CHANNELS = [
   "region": "Nacional",
   "color": "hsl(92,58%,42%)",
   "abbr": "RGT",
-  "url": "https://5ff3d9babae13.streamlock.net:443/rravdcnywy/rravdcnywy/playlist.m3u8",
+  "url": "",
   "web": "https://www.radiograneros.cl",
   "cc": "cl",
-  "note": "vía alplox (sanitizada)",
+  "note": "vía alplox (sanitizada) · ⚠️ duplicado desactivado (mejor señal: #357)",
   "chno": 358
  },
  {
@@ -28815,10 +28815,10 @@ window.CHANNELS = [
   "region": "Nacional",
   "color": "hsl(92,58%,42%)",
   "abbr": "RGT",
-  "url": "https://5ff3d9babae13.streamlock.net:1936/rravdcnywy/rravdcnywy/playlist.m3u8",
+  "url": "",
   "web": "https://www.radiograneros.cl",
   "cc": "cl",
-  "note": "vía alplox (sanitizada)",
+  "note": "vía alplox (sanitizada) · ⚠️ duplicado desactivado (mejor señal: #357)",
   "chno": 359
  },
  {
@@ -28841,10 +28841,10 @@ window.CHANNELS = [
   "region": "Nacional",
   "color": "hsl(11,58%,42%)",
   "abbr": "S",
-  "url": "https://5ff3d9babae13.streamlock.net:443/fzkqsdfray/fzkqsdfray/playlist.m3u8",
+  "url": "",
   "web": "https://sextavision.cl",
   "cc": "cl",
-  "note": "vía alplox (sanitizada)",
+  "note": "vía alplox (sanitizada) · ⚠️ duplicado desactivado (mejor señal: #194)",
   "chno": 619
  },
  {
@@ -28854,10 +28854,10 @@ window.CHANNELS = [
   "region": "Nacional",
   "color": "hsl(11,58%,42%)",
   "abbr": "S",
-  "url": "https://5ff3d9babae13.streamlock.net:1936/fzkqsdfray/fzkqsdfray/playlist.m3u8",
+  "url": "",
   "web": "https://sextavision.cl",
   "cc": "cl",
-  "note": "vía alplox (sanitizada)",
+  "note": "vía alplox (sanitizada) · ⚠️ duplicado desactivado (mejor señal: #194)",
   "chno": 620
  },
  {
@@ -28880,10 +28880,10 @@ window.CHANNELS = [
   "region": "Nacional",
   "color": "hsl(271,58%,42%)",
   "abbr": "TR",
-  "url": "https://unlimited1-cl-isp.dps.live/t13radio/t13radio.smil/playlist.m3u8",
+  "url": "",
   "web": "https://tele13radio.cl/",
   "cc": "cl",
-  "note": "vía alplox (sanitizada)",
+  "note": "vía alplox (sanitizada) · ⚠️ duplicado desactivado (mejor señal: #376)",
   "chno": 377
  },
  {
@@ -28893,10 +28893,10 @@ window.CHANNELS = [
   "region": "Nacional",
   "color": "hsl(21,58%,42%)",
   "abbr": "T",
-  "url": "https://unlimited1-cl-isp.dps.live/teleangol/teleangol.smil/playlist.m3u8",
+  "url": "",
   "web": "https://www.teleangol.cl/",
   "cc": "cl",
-  "note": "vía alplox (sanitizada)",
+  "note": "vía alplox (sanitizada) · ⚠️ duplicado desactivado (mejor señal: #630)",
   "chno": 631
  },
  {
@@ -28906,10 +28906,10 @@ window.CHANNELS = [
   "region": "Nacional",
   "color": "hsl(21,58%,42%)",
   "abbr": "T",
-  "url": "https://unlimited6-cl.dps.live/teleangol/teleangol.smil/playlist.m3u8",
+  "url": "",
   "web": "https://www.teleangol.cl/",
   "cc": "cl",
-  "note": "vía alplox (sanitizada)",
+  "note": "vía alplox (sanitizada) · ⚠️ duplicado desactivado (mejor señal: #630)",
   "chno": 632
  },
  {
@@ -28932,10 +28932,10 @@ window.CHANNELS = [
   "region": "Nacional",
   "color": "hsl(1,58%,42%)",
   "abbr": "TVD",
-  "url": "https://pantera1-100gb-cl-movistar.dps.live/inet2/inet2.smil/playlist.m3u8",
+  "url": "",
   "web": "https://tvinet.cl/",
   "cc": "cl",
-  "note": "vía alplox (sanitizada)",
+  "note": "vía alplox (sanitizada) · ⚠️ duplicado desactivado (mejor señal: #626)",
   "chno": 627
  },
  {
@@ -28958,10 +28958,10 @@ window.CHANNELS = [
   "region": "Nacional",
   "color": "hsl(102,58%,42%)",
   "abbr": "TUU",
-  "url": "https://unlimited2-cl-isp.dps.live/uct/uct.smil/playlist.m3u8",
+  "url": "",
   "web": "https://www.tvuct.cl/",
   "cc": "cl",
-  "note": "vía alplox (sanitizada)",
+  "note": "vía alplox (sanitizada) · ⚠️ duplicado desactivado (mejor señal: #643)",
   "chno": 644
  },
  {
@@ -28971,10 +28971,10 @@ window.CHANNELS = [
   "region": "Nacional",
   "color": "hsl(283,58%,42%)",
   "abbr": "TL",
-  "url": "https://v1.tustreaming.cl/tv5linares/tracks-v1a1/mono.m3u8",
+  "url": "",
   "web": "https://www.tv5.cl/",
   "cc": "cl",
-  "note": "vía alplox (sanitizada)",
+  "note": "vía alplox (sanitizada) · ⚠️ duplicado desactivado (mejor señal: #646)",
   "chno": 647
  },
  {
@@ -28984,10 +28984,10 @@ window.CHANNELS = [
   "region": "Nacional",
   "color": "hsl(31,58%,42%)",
   "abbr": "TSV",
-  "url": "https://5ff3d9babae13.streamlock.net:443/8014/8014/playlist.m3u8",
+  "url": "",
   "web": "https://www.tvosanvicente.cl",
   "cc": "cl",
-  "note": "vía alplox (sanitizada)",
+  "note": "vía alplox (sanitizada) · ⚠️ duplicado desactivado (mejor señal: #197)",
   "chno": 651
  },
  {
@@ -28997,10 +28997,10 @@ window.CHANNELS = [
   "region": "Nacional",
   "color": "hsl(31,58%,42%)",
   "abbr": "TSV",
-  "url": "https://5ff3d9babae13.streamlock.net:1936/8014/8014/playlist.m3u8",
+  "url": "",
   "web": "https://www.tvosanvicente.cl",
   "cc": "cl",
-  "note": "vía alplox (sanitizada)",
+  "note": "vía alplox (sanitizada) · ⚠️ duplicado desactivado (mejor señal: #197)",
   "chno": 652
  },
  {
@@ -29023,10 +29023,10 @@ window.CHANNELS = [
   "region": "Nacional",
   "color": "hsl(61,58%,42%)",
   "abbr": "TTR",
-  "url": "https://unlimited1-cl-isp.dps.live/tvr/tvr.smil/playlist.m3u8",
+  "url": "",
   "web": "https://www.tvr.cl",
   "cc": "cl",
-  "note": "vía alplox (sanitizada)",
+  "note": "vía alplox (sanitizada) · ⚠️ duplicado desactivado (mejor señal: #654)",
   "chno": 655
  },
  {
@@ -29036,10 +29036,10 @@ window.CHANNELS = [
   "region": "Nacional",
   "color": "hsl(315,58%,42%)",
   "abbr": "T",
-  "url": "https://unlimited6-cl.dps.live/tvu/tvu.smil/playlist.m3u8",
+  "url": "",
   "web": "https://www.tvu.cl/",
   "cc": "cl",
-  "note": "vía alplox (sanitizada)",
+  "note": "vía alplox (sanitizada) · ⚠️ duplicado desactivado (mejor señal: #62)",
   "chno": 657
  },
  {
@@ -29049,10 +29049,10 @@ window.CHANNELS = [
   "region": "Nacional",
   "color": "hsl(315,58%,42%)",
   "abbr": "T",
-  "url": "https://pantera1-100gb-cl-movistar.dps.live/tvu/tvu.smil/playlist.m3u8",
+  "url": "",
   "web": "https://www.tvu.cl/",
   "cc": "cl",
-  "note": "vía alplox (sanitizada)",
+  "note": "vía alplox (sanitizada) · ⚠️ duplicado desactivado (mejor señal: #62)",
   "chno": 658
  },
  {
@@ -29075,10 +29075,10 @@ window.CHANNELS = [
   "region": "Nacional",
   "color": "hsl(17,58%,42%)",
   "abbr": "UDC",
-  "url": "https://pantera1-100gb-cl-movistar.dps.live/uchiletv/uchiletv.smil/playlist.m3u8",
+  "url": "",
   "web": "https://uchile.cl/uchiletv",
   "cc": "cl",
-  "note": "vía alplox (sanitizada)",
+  "note": "vía alplox (sanitizada) · ⚠️ duplicado desactivado (mejor señal: #659)",
   "chno": 660
  },
  {
@@ -29114,10 +29114,10 @@ window.CHANNELS = [
   "region": "Nacional",
   "color": "hsl(204,58%,42%)",
   "abbr": "UTU",
-  "url": "https://unlimited1-cl-isp.dps.live/uatv/uatv.smil/playlist.m3u8",
+  "url": "",
   "web": "https://uatv.cl/",
   "cc": "cl",
-  "note": "vía alplox (sanitizada)",
+  "note": "vía alplox (sanitizada) · ⚠️ duplicado desactivado (mejor señal: #662)",
   "chno": 663
  },
  {
@@ -29153,10 +29153,10 @@ window.CHANNELS = [
   "region": "Nacional",
   "color": "hsl(312,58%,42%)",
   "abbr": "UTE",
-  "url": "https://unlimited1-cl-isp.dps.live/ucvtveventos/ucvtveventos.smil/playlist.m3u8",
+  "url": "",
   "web": "https://ucvtv.cl/home.php",
   "cc": "cl",
-  "note": "vía alplox (sanitizada)",
+  "note": "vía alplox (sanitizada) · ⚠️ duplicado desactivado (mejor señal: #668)",
   "chno": 669
  },
  {
@@ -29179,10 +29179,10 @@ window.CHANNELS = [
   "region": "Nacional",
   "color": "hsl(139,58%,42%)",
   "abbr": "VPT",
-  "url": "https://5ff3d9babae13.streamlock.net:1936/jwagpqxehu/jwagpqxehu/playlist.m3u8",
+  "url": "",
   "web": "https://www.visionplustv.cl",
   "cc": "cl",
-  "note": "vía alplox (sanitizada)",
+  "note": "vía alplox (sanitizada) · ⚠️ duplicado desactivado (mejor señal: #674)",
   "chno": 675
  },
  {
@@ -29192,10 +29192,10 @@ window.CHANNELS = [
   "region": "Nacional",
   "color": "hsl(16,58%,42%)",
   "abbr": "V",
-  "url": "https://unlimited2-cl-isp.dps.live/vtv/vtv.smil/playlist.m3u8",
+  "url": "",
   "web": "https://canalvtv.cl/vtv/",
   "cc": "cl",
-  "note": "vía alplox (sanitizada)",
+  "note": "vía alplox (sanitizada) · ⚠️ duplicado desactivado (mejor señal: #146)",
   "chno": 677
  },
  {
@@ -29205,10 +29205,10 @@ window.CHANNELS = [
   "region": "Nacional",
   "color": "hsl(16,58%,42%)",
   "abbr": "V",
-  "url": "https://unlimited6-cl.dps.live/vtv/vtv.smil/playlist.m3u8",
+  "url": "",
   "web": "https://canalvtv.cl/vtv/",
   "cc": "cl",
-  "note": "vía alplox (sanitizada)",
+  "note": "vía alplox (sanitizada) · ⚠️ duplicado desactivado (mejor señal: #146)",
   "chno": 678
  },
  {
@@ -29218,10 +29218,10 @@ window.CHANNELS = [
   "region": "Nacional",
   "color": "hsl(351,58%,42%)",
   "abbr": "VQ",
-  "url": "https://pantera1-100gb-cl-movistar.dps.live/vtvquillota/vtvquillota.smil/playlist.m3u8",
+  "url": "",
   "web": "https://www.diariovtv.cl/",
   "cc": "cl",
-  "note": "vía alplox (sanitizada)",
+  "note": "vía alplox (sanitizada) · ⚠️ duplicado desactivado (mejor señal: #147)",
   "chno": 679
  },
  {
@@ -29231,10 +29231,10 @@ window.CHANNELS = [
   "region": "Nacional",
   "color": "hsl(351,58%,42%)",
   "abbr": "VQ",
-  "url": "https://unlimited1-cl-isp.dps.live/vtvquillota/vtvquillota.smil/playlist.m3u8",
+  "url": "",
   "web": "https://www.diariovtv.cl/",
   "cc": "cl",
-  "note": "vía alplox (sanitizada)",
+  "note": "vía alplox (sanitizada) · ⚠️ duplicado desactivado (mejor señal: #147)",
   "chno": 680
  },
  {
@@ -29257,10 +29257,10 @@ window.CHANNELS = [
   "region": "Español (Latam/ES)",
   "color": "hsl(67,58%,42%)",
   "abbr": "E",
-  "url": "https://jireh-6-hls-video-cl-isp.dps.live/hls-video/c54ac2799874375c81c1672abb700870537c5223/ecuavisa/ecuavisa.smil/playlist.m3u8",
+  "url": "",
   "web": "https://www.ecuavisa.com/envivo",
   "cc": "ec",
-  "note": "vía alplox (sanitizada)",
+  "note": "vía alplox (sanitizada) · ⚠️ duplicado desactivado (mejor señal: #722)",
   "chno": 723
  },
  {
@@ -29491,10 +29491,10 @@ window.CHANNELS = [
   "region": "Español (Latam/ES)",
   "color": "hsl(81,58%,42%)",
   "abbr": "A",
-  "url": "https://www.youtube.com/c/A24com/live",
+  "url": "",
   "web": "",
   "cc": "ar",
-  "note": "vía freetv (sanitizada)",
+  "note": "vía freetv (sanitizada) · ⚠️ duplicado desactivado (mejor señal: #1671)",
   "chno": 1672
  },
  {
@@ -29530,10 +29530,10 @@ window.CHANNELS = [
   "region": "Nacional",
   "color": "hsl(73,58%,42%)",
   "abbr": "S",
-  "url": "https://stream.making.cl/memfs/ee909361-73e9-4e74-8391-5f1b0b8006c2.m3u8",
+  "url": "",
   "web": "",
   "cc": "cl",
-  "note": "vía freetv (sanitizada)",
+  "note": "vía freetv (sanitizada) · ⚠️ duplicado desactivado (mejor señal: #138)",
   "chno": 622
  },
  {
@@ -29543,10 +29543,10 @@ window.CHANNELS = [
   "region": "Nacional",
   "color": "hsl(24,58%,42%)",
   "abbr": "T",
-  "url": "https://iptv2.intersurtv.cl/TVN/index.m3u8",
+  "url": "",
   "web": "",
   "cc": "cl",
-  "note": "vía freetv (sanitizada)",
+  "note": "vía freetv (sanitizada) · ⚠️ duplicado desactivado (mejor señal: #20)",
   "chno": 648
  },
  {
@@ -29569,10 +29569,10 @@ window.CHANNELS = [
   "region": "Nacional",
   "color": "hsl(324,58%,42%)",
   "abbr": "N",
-  "url": "https://cdn1tlinkgo.tlink.cl/ntvhd/mono.m3u8",
+  "url": "",
   "web": "",
   "cc": "cl",
-  "note": "vía freetv (sanitizada)",
+  "note": "vía freetv (sanitizada) · ⚠️ duplicado desactivado (mejor señal: #322)",
   "chno": 579
  },
  {
@@ -29582,10 +29582,10 @@ window.CHANNELS = [
   "region": "Nacional",
   "color": "hsl(163,58%,42%)",
   "abbr": "TC",
-  "url": "https://mdstrm.com/live-stream-playlist/533adcc949386ce765657d7c.m3u8",
+  "url": "",
   "web": "",
   "cc": "cl",
-  "note": "vía freetv (sanitizada)",
+  "note": "vía freetv (sanitizada) · ⚠️ duplicado desactivado (mejor señal: #17)",
   "chno": 640
  },
  {
@@ -29595,10 +29595,10 @@ window.CHANNELS = [
   "region": "Nacional",
   "color": "hsl(157,58%,42%)",
   "abbr": "C",
-  "url": "https://redirector.rudo.video/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/chv/chv.smil/playlist.m3u8",
+  "url": "",
   "web": "",
   "cc": "cl",
-  "note": "vía freetv (sanitizada)",
+  "note": "vía freetv (sanitizada) · ⚠️ duplicado desactivado (mejor señal: #9)",
   "chno": 521
  },
  {
@@ -29634,10 +29634,10 @@ window.CHANNELS = [
   "region": "Nacional",
   "color": "hsl(311,58%,42%)",
   "abbr": "C1",
-  "url": "https://redirector.dps.live/hls/13cl/playlist.m3u8",
+  "url": "",
   "web": "",
   "cc": "cl",
-  "note": "vía freetv (sanitizada)",
+  "note": "vía freetv (sanitizada) · ⚠️ duplicado desactivado (mejor señal: #7)",
   "chno": 491
  },
  {
@@ -29647,10 +29647,10 @@ window.CHANNELS = [
   "region": "Nacional",
   "color": "hsl(281,58%,42%)",
   "abbr": "TEV",
-  "url": "https://redirector.rudo.video/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/t13/t13.smil/playlist.m3u8",
+  "url": "",
   "web": "",
   "cc": "cl",
-  "note": "vía freetv (sanitizada)",
+  "note": "vía freetv (sanitizada) · ⚠️ duplicado desactivado (mejor señal: #48)",
   "chno": 628
  },
  {
@@ -29699,10 +29699,10 @@ window.CHANNELS = [
   "region": "Español (Latam/ES)",
   "color": "hsl(30,58%,42%)",
   "abbr": "CO",
-  "url": "https://vivo.canaloncelive.tv/secureoncedos/oncedigital/playlist.m3u8",
+  "url": "",
   "web": "",
   "cc": "mx",
-  "note": "vía freetv (sanitizada)",
+  "note": "vía freetv (sanitizada) · ⚠️ duplicado desactivado (mejor señal: #1962)",
   "chno": 1963
  },
  {
@@ -29738,10 +29738,10 @@ window.CHANNELS = [
   "region": "Español (Latam/ES)",
   "color": "hsl(10,58%,42%)",
   "abbr": "ET",
-  "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00567-estrellamedia-estrellatv-estrellamedia/playlist.m3u8",
+  "url": "",
   "web": "",
   "cc": "mx",
-  "note": "vía freetv (sanitizada)",
+  "note": "vía freetv (sanitizada) · ⚠️ duplicado desactivado (mejor señal: #1491)",
   "chno": 2153
  },
  {
@@ -29803,10 +29803,10 @@ window.CHANNELS = [
   "region": "Español (Latam/ES)",
   "color": "hsl(14,58%,42%)",
   "abbr": "L1",
-  "url": "https://rtvelivestream.rtve.es/rtvesec/la1/la1_main_dvr.m3u8",
+  "url": "",
   "web": "",
   "cc": "es",
-  "note": "vía freetv (sanitizada)",
+  "note": "vía freetv (sanitizada) · ⚠️ duplicado desactivado (mejor señal: #2278)",
   "chno": 2279
  },
  {
@@ -29816,10 +29816,10 @@ window.CHANNELS = [
   "region": "Español (Latam/ES)",
   "color": "hsl(15,58%,42%)",
   "abbr": "L2",
-  "url": "https://rtvelivestream.rtve.es/rtvesec/la2/la2_main_dvr.m3u8",
+  "url": "",
   "web": "",
   "cc": "es",
-  "note": "vía freetv (sanitizada)",
+  "note": "vía freetv (sanitizada) · ⚠️ duplicado desactivado (mejor señal: #2288)",
   "chno": 2289
  },
  {
@@ -29842,10 +29842,10 @@ window.CHANNELS = [
   "region": "Español (Latam/ES)",
   "color": "hsl(208,58%,42%)",
   "abbr": "T",
-  "url": "https://rtvelivestream.rtve.es/rtvesec/tdp/tdp_main.m3u8",
+  "url": "",
   "web": "",
   "cc": "es",
-  "note": "vía freetv (sanitizada)",
+  "note": "vía freetv (sanitizada) · ⚠️ duplicado desactivado (mejor señal: #1642)",
   "chno": 2730
  },
  {
@@ -29855,10 +29855,10 @@ window.CHANNELS = [
   "region": "Español (Latam/ES)",
   "color": "hsl(174,58%,42%)",
   "abbr": "C",
-  "url": "https://rtvelivestream.rtve.es/rtvesec/clan/clan_main_dvr.m3u8",
+  "url": "",
   "web": "",
   "cc": "es",
-  "note": "vía freetv (sanitizada)",
+  "note": "vía freetv (sanitizada) · ⚠️ duplicado desactivado (mejor señal: #890)",
   "chno": 2032
  },
  {
@@ -29985,10 +29985,10 @@ window.CHANNELS = [
   "region": "Español (Latam/ES)",
   "color": "hsl(138,58%,42%)",
   "abbr": "T",
-  "url": "https://livehlsdai-i.akamaihd.net/hls/live/571640/telecinco/bitrate_1.m3u8",
+  "url": "",
   "web": "",
   "cc": "es",
-  "note": "vía freetv (sanitizada)",
+  "note": "vía freetv (sanitizada) · ⚠️ duplicado desactivado (mejor señal: #2768)",
   "chno": 2769
  },
  {
@@ -30050,10 +30050,10 @@ window.CHANNELS = [
   "region": "Español (Latam/ES)",
   "color": "hsl(327,58%,42%)",
   "abbr": "CSA",
-  "url": "https://d4oe4cnrgi9c9.cloudfront.net/master.m3u8",
+  "url": "",
   "web": "",
   "cc": "es",
-  "note": "vía freetv (sanitizada)",
+  "note": "vía freetv (sanitizada) · ⚠️ duplicado desactivado (mejor señal: #1973)",
   "chno": 1974
  },
  {
@@ -30076,10 +30076,10 @@ window.CHANNELS = [
   "region": "Español (Latam/ES)",
   "color": "hsl(195,58%,42%)",
   "abbr": "CE",
-  "url": "https://d2ymuyhevki1a1.cloudfront.net/wct-ddd2992e-86fc-4611-a491-7f392259e9ba/continuous/9be76611-d2cd-474d-bf19-ef702ba31b02/index.m3u8",
+  "url": "",
   "web": "",
   "cc": "es",
-  "note": "vía freetv (sanitizada)",
+  "note": "vía freetv (sanitizada) · ⚠️ duplicado desactivado (mejor señal: #1949)",
   "chno": 1950
  },
  {
@@ -30284,10 +30284,10 @@ window.CHANNELS = [
   "region": "Español (Latam/ES)",
   "color": "hsl(337,58%,42%)",
   "abbr": "AT",
-  "url": "https://streamtv.intervenhosting.net:3040/hybrid/play.m3u8",
+  "url": "",
   "web": "",
   "cc": "ve",
-  "note": "vía freetv (sanitizada)",
+  "note": "vía freetv (sanitizada) · ⚠️ duplicado desactivado (mejor señal: #1454)",
   "chno": 1682
  },
  {
@@ -30349,10 +30349,10 @@ window.CHANNELS = [
   "region": "Español (Latam/ES)",
   "color": "hsl(299,58%,42%)",
   "abbr": "NTS",
-  "url": "https://7.innovatestream.pe:19360/nativatv/nativatv.m3u8",
+  "url": "",
   "web": "",
   "cc": "pe",
-  "note": " not 24/7 · 720p · vía charlieii-mx-latam (sanitizada)",
+  "note": " not 24/7 · 720p · vía charlieii-mx-latam (sanitizada) · ⚠️ duplicado desactivado (mejor señal: #2434)",
   "chno": 2435
  },
  {
@@ -30375,10 +30375,10 @@ window.CHANNELS = [
   "region": "Español (Latam/ES)",
   "color": "hsl(187,58%,42%)",
   "abbr": "MT",
-  "url": "https://mdstrm.com/live-stream-playlist/610178c7db32a4112d994650.m3u8",
+  "url": "",
   "web": "",
   "cc": "mx",
-  "note": "vía charlieii-mx-latam (sanitizada)",
+  "note": "vía charlieii-mx-latam (sanitizada) · ⚠️ duplicado desactivado (mejor señal: #751)",
   "chno": 2396
  },
  {
@@ -30388,10 +30388,10 @@ window.CHANNELS = [
   "region": "Español (Latam/ES)",
   "color": "hsl(98,58%,42%)",
   "abbr": "CS",
-  "url": "https://dash4.antik.sk/live/test_cgtn_esp_tizen/playlist.m3u8",
+  "url": "",
   "web": "",
   "cc": "cn",
-  "note": "vía charlieii-mx-latam (sanitizada)",
+  "note": "vía charlieii-mx-latam (sanitizada) · ⚠️ duplicado desactivado (mejor señal: #715)",
   "chno": 2012
  },
  {
@@ -30869,10 +30869,10 @@ window.CHANNELS = [
   "region": "Español (Latam/ES)",
   "color": "hsl(320,58%,42%)",
   "abbr": "AF",
-  "url": "https://jmp2.uk/plu-5efb8c19b2678b000780d032.m3u8",
+  "url": "",
   "web": "",
   "cc": "mx",
-  "note": "vía charlieii-mx-latam (sanitizada)",
+  "note": "vía charlieii-mx-latam (sanitizada) · ⚠️ duplicado desactivado (mejor señal: #1401)",
   "chno": 1733
  },
  {
@@ -30895,10 +30895,10 @@ window.CHANNELS = [
   "region": "Español (Latam/ES)",
   "color": "hsl(317,58%,42%)",
   "abbr": "NT",
-  "url": "https://unlimited1-cl-isp.dps.live/nettv/nettv.smil/playlist.m3u8",
+  "url": "",
   "web": "",
   "cc": "mx",
-  "note": "vía charlieii-mx-latam (sanitizada)",
+  "note": "vía charlieii-mx-latam (sanitizada) · ⚠️ duplicado desactivado (mejor señal: #760)",
   "chno": 2442
  },
  {
@@ -30908,10 +30908,10 @@ window.CHANNELS = [
   "region": "Español (Latam/ES)",
   "color": "hsl(80,58%,42%)",
   "abbr": "CT",
-  "url": "https://tv.mediacp.eu:19360/cosmos/cosmos.m3u8",
+  "url": "",
   "web": "",
   "cc": "mx",
-  "note": "720p · vía charlieii-mx-latam (sanitizada)",
+  "note": "720p · vía charlieii-mx-latam (sanitizada) · ⚠️ duplicado desactivado (mejor señal: #1422)",
   "chno": 2062
  },
  {
@@ -31012,10 +31012,10 @@ window.CHANNELS = [
   "region": "Español (Latam/ES)",
   "color": "hsl(196,58%,42%)",
   "abbr": "EM",
-  "url": "https://stmv7.voxtvhd.com.br/eternaltv/eternaltv/playlist.m3u8",
+  "url": "",
   "web": "",
   "cc": "mx",
-  "note": "vía charlieii-mx-latam (sanitizada)",
+  "note": "vía charlieii-mx-latam (sanitizada) · ⚠️ duplicado desactivado (mejor señal: #334)",
   "chno": 1010
  },
  {
@@ -31467,10 +31467,10 @@ window.CHANNELS = [
   "region": "Español (Latam/ES)",
   "color": "hsl(132,58%,42%)",
   "abbr": "TCC",
-  "url": "https://live20.bozztv.com/akamaissh101/ssh101/canal40/playlist.m3u8",
+  "url": "",
   "web": "",
   "cc": "hn",
-  "note": "vía iptv-sv (sanitizada)",
+  "note": "vía iptv-sv (sanitizada) · ⚠️ duplicado desactivado (mejor señal: #2859)",
   "chno": 2860
  },
  {
@@ -32689,10 +32689,10 @@ window.CHANNELS = [
   "region": "Español (Latam/ES)",
   "color": "hsl(61,58%,42%)",
   "abbr": "TPH",
-  "url": "https://rds3tf.desdeparaguay.net/telefuturo/telefuturo_py_alta/chunks.m3u8?admin=tvaccion",
+  "url": "",
   "web": "",
   "cc": "py",
-  "note": "vía iptv-sv (sanitizada)",
+  "note": "vía iptv-sv (sanitizada) · ⚠️ duplicado desactivado (mejor señal: #2787)",
   "chno": 2788
  },
  {
@@ -33118,10 +33118,10 @@ window.CHANNELS = [
   "region": "Español (Latam/ES)",
   "color": "hsl(82,58%,42%)",
   "abbr": "TT",
-  "url": "https://scl.edge.grupoz.cl/torococotv/live/playlist.m3u8",
+  "url": "",
   "web": "",
   "cc": "es",
-  "note": "vía iptv-sv (sanitizada)",
+  "note": "vía iptv-sv (sanitizada) · ⚠️ duplicado desactivado (mejor señal: #2900)",
   "chno": 2901
  },
  {
@@ -33248,10 +33248,10 @@ window.CHANNELS = [
   "region": "Español (Latam/ES)",
   "color": "hsl(155,58%,42%)",
   "abbr": "SC1",
-  "url": "https://183.bozztv.com/giatv/giatv-1762252013SPC/1762252013SPC/playlist.m3u8",
+  "url": "",
   "web": "",
   "cc": "es",
-  "note": "vía iptv-sv (sanitizada)",
+  "note": "vía iptv-sv (sanitizada) · ⚠️ duplicado desactivado (mejor señal: #2699)",
   "chno": 2700
  },
  {
@@ -33508,10 +33508,10 @@ window.CHANNELS = [
   "region": "Español (Latam/ES)",
   "color": "hsl(36,58%,42%)",
   "abbr": "RPT",
-  "url": "https://ztnr.rtve.es/ztnr/6688753.m3u8",
+  "url": "",
   "web": "",
   "cc": "es",
-  "note": "vía iptv-sv (sanitizada)",
+  "note": "vía iptv-sv (sanitizada) · ⚠️ duplicado desactivado (mejor señal: #2619)",
   "chno": 2620
  },
  {
@@ -33612,10 +33612,10 @@ window.CHANNELS = [
   "region": "Español (Latam/ES)",
   "color": "hsl(327,58%,42%)",
   "abbr": "CSA",
-  "url": "https://live-24-canalsur.interactvty.pro/9bb0f4edcb8946e79f5017ddca6c02b0/26af5488cda642ed2eddd27a6328c93b9c03e9181b9d0a825147a7d978e69202.m3u8",
+  "url": "",
   "web": "",
   "cc": "es",
-  "note": "vía iptv-sv (sanitizada)",
+  "note": "vía iptv-sv (sanitizada) · ⚠️ duplicado desactivado (mejor señal: #1973)",
   "chno": 1975
  },
  {
@@ -33755,10 +33755,10 @@ window.CHANNELS = [
   "region": "Español (Latam/ES)",
   "color": "hsl(278,58%,42%)",
   "abbr": "R3",
-  "url": "https://ztnr.rtve.es/ztnr/6982918.m3u8",
+  "url": "",
   "web": "",
   "cc": "es",
-  "note": " geo-blocked · vía iptv-sv (sanitizada)",
+  "note": " geo-blocked · vía iptv-sv (sanitizada) · ⚠️ duplicado desactivado (mejor señal: #1365)",
   "chno": 2564
  },
  {
@@ -33885,10 +33885,10 @@ window.CHANNELS = [
   "region": "Español (Latam/ES)",
   "color": "hsl(227,58%,42%)",
   "abbr": "OC",
-  "url": "https://liveingesta318.cdnmedia.tv/ondacadizlive/smil:ondacadiztv.smil/playlist.m3u8?DVR",
+  "url": "",
   "web": "",
   "cc": "es",
-  "note": "vía iptv-sv (sanitizada)",
+  "note": "vía iptv-sv (sanitizada) · ⚠️ duplicado desactivado (mejor señal: #2463)",
   "chno": 2464
  },
  {
@@ -34184,10 +34184,10 @@ window.CHANNELS = [
   "region": "Español (Latam/ES)",
   "color": "hsl(187,58%,42%)",
   "abbr": "MT",
-  "url": "https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=13696&live=1",
+  "url": "",
   "web": "",
   "cc": "es",
-  "note": "vía iptv-sv (sanitizada)",
+  "note": "vía iptv-sv (sanitizada) · ⚠️ duplicado desactivado (mejor señal: #752)",
   "chno": 2397
  },
  {
@@ -34301,10 +34301,10 @@ window.CHANNELS = [
   "region": "Español (Latam/ES)",
   "color": "hsl(242,58%,42%)",
   "abbr": "DT",
-  "url": "https://live.emitstream.com/hls/3mn7wpcv7hbmxmdzaxap/master.m3u8",
+  "url": "",
   "web": "",
   "cc": "es",
-  "note": "vía iptv-sv (sanitizada)",
+  "note": "vía iptv-sv (sanitizada) · ⚠️ duplicado desactivado (mejor señal: #2100)",
   "chno": 2101
  },
  {
@@ -34314,10 +34314,10 @@ window.CHANNELS = [
   "region": "Español (Latam/ES)",
   "color": "hsl(8,58%,42%)",
   "abbr": "C3M",
-  "url": "https://media2.streambrothers.com:1936/8140/8140/.m3u8",
+  "url": "",
   "web": "",
   "cc": "es",
-  "note": "vía iptv-sv (sanitizada)",
+  "note": "vía iptv-sv (sanitizada) · ⚠️ duplicado desactivado (mejor señal: #1866)",
   "chno": 1867
  },
  {
@@ -35354,10 +35354,10 @@ window.CHANNELS = [
   "region": "Español (Latam/ES)",
   "color": "hsl(13,58%,42%)",
   "abbr": "TSH",
-  "url": "https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/star_main_dvr_720.m3u8",
+  "url": "",
   "web": "",
   "cc": "es",
-  "note": "720p · vía iptv-sv (sanitizada)",
+  "note": "720p · vía iptv-sv (sanitizada) · ⚠️ duplicado desactivado (mejor señal: #2978)",
   "chno": 2979
  },
  {
@@ -35497,10 +35497,10 @@ window.CHANNELS = [
   "region": "Español (Latam/ES)",
   "color": "hsl(342,58%,42%)",
   "abbr": "TNA",
-  "url": "https://d3rciv7av2te5a.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-plex/master.m3u8?ads.xumo_channelId=88889467",
+  "url": "",
   "web": "",
   "cc": "es",
-  "note": "vía iptv-sv (sanitizada)",
+  "note": "vía iptv-sv (sanitizada) · ⚠️ duplicado desactivado (mejor señal: #2809)",
   "chno": 2810
  },
  {
@@ -35601,10 +35601,10 @@ window.CHANNELS = [
   "region": "Español (Latam/ES)",
   "color": "hsl(244,58%,42%)",
   "abbr": "RN",
-  "url": "https://rt-esp.rttv.com/dvr/rtesp/playlist_1600Kb.m3u8",
+  "url": "",
   "web": "",
   "cc": "es",
-  "note": "sd · vía iptv-sv (sanitizada)",
+  "note": "sd · vía iptv-sv (sanitizada) · ⚠️ duplicado desactivado (mejor señal: #788)",
   "chno": 789
  },
  {
@@ -36407,10 +36407,10 @@ window.CHANNELS = [
   "region": "Español (Latam/ES)",
   "color": "hsl(222,58%,42%)",
   "abbr": "MDL",
-  "url": "https://tv.arkeo.cl:1936/mundodelamusica/mundodelamusica/playlist.m3u8",
+  "url": "",
   "web": "",
   "cc": "es",
-  "note": "vía iptv-sv (sanitizada)",
+  "note": "vía iptv-sv (sanitizada) · ⚠️ duplicado desactivado (mejor señal: #344)",
   "chno": 1060
  },
  {
@@ -38240,10 +38240,10 @@ window.CHANNELS = [
   "region": "Español (Latam/ES)",
   "color": "hsl(341,58%,42%)",
   "abbr": "R",
-  "url": "https://jmp2.uk/plu-6812206e1b3e3be031a5c363.m3u8",
+  "url": "",
   "web": "",
   "cc": "es",
-  "note": "vía pluto-es (sanitizada)",
+  "note": "vía pluto-es (sanitizada) · ⚠️ duplicado desactivado (mejor señal: #1683)",
   "chno": 1684
  },
  {
@@ -38565,10 +38565,10 @@ window.CHANNELS = [
   "region": "Español (Latam/ES)",
   "color": "hsl(324,58%,42%)",
   "abbr": "ES",
-  "url": "https://jmp2.uk/plu-60d3583ef310610007fb02b1.m3u8",
+  "url": "",
   "web": "",
   "cc": "fr",
-  "note": "720p · vía pluto-es (sanitizada)",
+  "note": "720p · vía pluto-es (sanitizada) · ⚠️ duplicado desactivado (mejor señal: #730)",
   "chno": 2165
  },
  {
@@ -38695,10 +38695,10 @@ window.CHANNELS = [
   "region": "Español (Latam/ES)",
   "color": "hsl(85,58%,42%)",
   "abbr": "LTN",
-  "url": "https://jmp2.uk/plu-61373f1a12dd9f00077dcd6f.m3u8",
+  "url": "",
   "web": "",
   "cc": "de",
-  "note": "720p · vía pluto-es (sanitizada)",
+  "note": "720p · vía pluto-es (sanitizada) · ⚠️ duplicado desactivado (mejor señal: #924)",
   "chno": 2315
  },
  {
