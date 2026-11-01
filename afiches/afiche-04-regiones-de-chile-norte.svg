@@ -62,1128 +62,1351 @@
 </defs>
 <rect width="1460" height="1572" fill="#0b1220"/>
 <rect x="0" y="0" width="1460" height="168" fill="#111a2e"/>
-<rect x="0" y="164" width="1460" height="4" fill="#d52b1e"/>
+<rect x="0" y="164" width="1460" height="4" fill="#16a34a"/>
 <text x="20" y="46" font-size="34" font-weight="700" fill="#f8fafc">📍 Regiones de Chile (norte → sur) — canales 86–308</text>
-<text x="20" y="76" font-size="15" fill="#94a3b8">223 canales · TV Chile v3.112 · 01-nov-2026</text>
-<text x="20" y="102" font-size="13" fill="#64748b">Cada celda:  #número   🚩 bandera real del país de origen (flagcdn, ISO 3166-1)   Nombre del canal   ·   tooltip: país + temática</text>
-<text x="20" y="126" font-size="13" fill="#64748b">Rangos: 1–32 señal abierta CL · 33–52 noticias · 53–85 Biobío · 86–308 regiones · 309–317 deportes · 318–322 infantil/anime · 323–415 música · 416–433 religiosos · 434–446 cultura · 447–683 resto CL · 684–3110 español otros países</text>
-<text x="20" y="148" font-size="13" fill="#64748b">Generado 01-nov-2026 · v3.112 · sanitizado (https, sin TV de pago)</text>
+<text x="20" y="76" font-size="15" fill="#94a3b8">223 filas · TV Chile v3.112 · 01-nov-2026</text>
+<text x="20" y="102" font-size="13" fill="#64748b">Cada celda:  #número  🚩 bandera real + emote 🏳️ del país de origen (flagcdn, ISO 3166-1)  Nombre   ·   tooltip: país + temática</text>
+<text x="20" y="126" font-size="13" fill="#64748b">Rangos: 1–32 señal abierta CL · 33–52 noticias · 53–85 Biobío · 86–308 regiones · 309–317 deportes (+ alternativas legales ✔) · 318–322 infantil/anime · 323–415 música · 416–433 religiosos · 434–446 cultura · 447–683 resto CL · 684–3110 español otros países</text>
+<text x="20" y="148" font-size="13" fill="#64748b">Generado 01-nov-2026 · v3.112 · sanitizado (https, sin TV de pago/piratería)</text>
 <rect x="20" y="168" width="1420" height="26" rx="6" fill="#0891b2"/>
 <text x="30" y="186" font-size="15" font-weight="600" fill="#fff">📍 Regiones de Chile (norte → sur)</text>
 <text x="1430" y="186" font-size="13" fill="#e2e8f0" text-anchor="end">canales 86–308 · 223</text>
-<rect x="20.0" y="202" width="349.0" height="22" rx="4" fill="#121b30"/>
+<rect x="20.0" y="202" width="349.0" height="22" rx="5" fill="#121b30"/>
 <title>#86 · 🇨🇱 CL — Arica TV (Regionales)</title>
-<text x="26.0" y="218" font-size="12.5" font-weight="700" fill="#0891b2" font-family="Consolas, Menlo, monospace">#86</text>
-<use href="#flag-cl" xlink:href="#flag-cl" x="66.0" y="207"/>
-<text x="92.0" y="218" font-size="12" fill="#e2e8f0">Arica TV</text>
-<rect x="377.0" y="202" width="349.0" height="22" rx="4" fill="#121b30"/>
+<text x="27.0" y="218" font-size="12.5" font-weight="700" fill="#0891b2" font-family="Consolas, Menlo, monospace">#86</text>
+<use href="#flag-cl" xlink:href="#flag-cl" x="64.0" y="207"/>
+<text x="84.0" y="218" font-size="10" opacity="0.95">🇨🇱</text>
+<text x="98.0" y="218" font-size="12" fill="#e2e8f0">Arica TV</text>
+<rect x="377.0" y="202" width="349.0" height="22" rx="5" fill="#121b30"/>
 <title>#87 · 🇨🇱 CL — Cappissima Multimedial TV (Regionales)</title>
-<text x="383.0" y="218" font-size="12.5" font-weight="700" fill="#0891b2" font-family="Consolas, Menlo, monospace">#87</text>
-<use href="#flag-cl" xlink:href="#flag-cl" x="423.0" y="207"/>
-<text x="449.0" y="218" font-size="12" fill="#e2e8f0">Cappissima Multimedial TV</text>
-<rect x="734.0" y="202" width="349.0" height="22" rx="4" fill="#121b30"/>
+<text x="384.0" y="218" font-size="12.5" font-weight="700" fill="#0891b2" font-family="Consolas, Menlo, monospace">#87</text>
+<use href="#flag-cl" xlink:href="#flag-cl" x="421.0" y="207"/>
+<text x="441.0" y="218" font-size="10" opacity="0.95">🇨🇱</text>
+<text x="455.0" y="218" font-size="12" fill="#e2e8f0">Cappissima Multimedial TV</text>
+<rect x="734.0" y="202" width="349.0" height="22" rx="5" fill="#121b30"/>
 <title>#88 · 🇨🇱 CL — Puerta Norte (Regionales)</title>
-<text x="740.0" y="218" font-size="12.5" font-weight="700" fill="#0891b2" font-family="Consolas, Menlo, monospace">#88</text>
-<use href="#flag-cl" xlink:href="#flag-cl" x="780.0" y="207"/>
-<text x="806.0" y="218" font-size="12" fill="#e2e8f0">Puerta Norte</text>
-<rect x="1091.0" y="202" width="349.0" height="22" rx="4" fill="#121b30"/>
+<text x="741.0" y="218" font-size="12.5" font-weight="700" fill="#0891b2" font-family="Consolas, Menlo, monospace">#88</text>
+<use href="#flag-cl" xlink:href="#flag-cl" x="778.0" y="207"/>
+<text x="798.0" y="218" font-size="10" opacity="0.95">🇨🇱</text>
+<text x="812.0" y="218" font-size="12" fill="#e2e8f0">Puerta Norte</text>
+<rect x="1091.0" y="202" width="349.0" height="22" rx="5" fill="#121b30"/>
 <title>#89 · 🇨🇱 CL — Radio Estacion Arica (Radio)</title>
-<text x="1097.0" y="218" font-size="12.5" font-weight="700" fill="#0891b2" font-family="Consolas, Menlo, monospace">#89</text>
-<use href="#flag-cl" xlink:href="#flag-cl" x="1137.0" y="207"/>
-<text x="1163.0" y="218" font-size="12" fill="#e2e8f0">Radio Estacion Arica</text>
-<rect x="20.0" y="226" width="349.0" height="22" rx="4" fill="#0f172a"/>
+<text x="1098.0" y="218" font-size="12.5" font-weight="700" fill="#0891b2" font-family="Consolas, Menlo, monospace">#89</text>
+<use href="#flag-cl" xlink:href="#flag-cl" x="1135.0" y="207"/>
+<text x="1155.0" y="218" font-size="10" opacity="0.95">🇨🇱</text>
+<text x="1169.0" y="218" font-size="12" fill="#e2e8f0">Radio Estacion Arica</text>
+<rect x="20.0" y="226" width="349.0" height="22" rx="5" fill="#0f172a"/>
 <title>#90 · 🇨🇱 CL — Iquique TV (Regionales)</title>
-<text x="26.0" y="242" font-size="12.5" font-weight="700" fill="#0891b2" font-family="Consolas, Menlo, monospace">#90</text>
-<use href="#flag-cl" xlink:href="#flag-cl" x="66.0" y="231"/>
-<text x="92.0" y="242" font-size="12" fill="#e2e8f0">Iquique TV</text>
-<rect x="377.0" y="226" width="349.0" height="22" rx="4" fill="#0f172a"/>
+<text x="27.0" y="242" font-size="12.5" font-weight="700" fill="#0891b2" font-family="Consolas, Menlo, monospace">#90</text>
+<use href="#flag-cl" xlink:href="#flag-cl" x="64.0" y="231"/>
+<text x="84.0" y="242" font-size="10" opacity="0.95">🇨🇱</text>
+<text x="98.0" y="242" font-size="12" fill="#e2e8f0">Iquique TV</text>
+<rect x="377.0" y="226" width="349.0" height="22" rx="5" fill="#0f172a"/>
 <title>#91 · 🇨🇱 CL — Longino TV (Regionales)</title>
-<text x="383.0" y="242" font-size="12.5" font-weight="700" fill="#0891b2" font-family="Consolas, Menlo, monospace">#91</text>
-<use href="#flag-cl" xlink:href="#flag-cl" x="423.0" y="231"/>
-<text x="449.0" y="242" font-size="12" fill="#e2e8f0">Longino TV</text>
-<rect x="734.0" y="226" width="349.0" height="22" rx="4" fill="#0f172a"/>
+<text x="384.0" y="242" font-size="12.5" font-weight="700" fill="#0891b2" font-family="Consolas, Menlo, monospace">#91</text>
+<use href="#flag-cl" xlink:href="#flag-cl" x="421.0" y="231"/>
+<text x="441.0" y="242" font-size="10" opacity="0.95">🇨🇱</text>
+<text x="455.0" y="242" font-size="12" fill="#e2e8f0">Longino TV</text>
+<rect x="734.0" y="226" width="349.0" height="22" rx="5" fill="#0f172a"/>
 <title>#92 · 🇨🇱 CL — RTC Television (Regionales)</title>
-<text x="740.0" y="242" font-size="12.5" font-weight="700" fill="#0891b2" font-family="Consolas, Menlo, monospace">#92</text>
-<use href="#flag-cl" xlink:href="#flag-cl" x="780.0" y="231"/>
-<text x="806.0" y="242" font-size="12" fill="#e2e8f0">RTC Television</text>
-<rect x="1091.0" y="226" width="349.0" height="22" rx="4" fill="#0f172a"/>
+<text x="741.0" y="242" font-size="12.5" font-weight="700" fill="#0891b2" font-family="Consolas, Menlo, monospace">#92</text>
+<use href="#flag-cl" xlink:href="#flag-cl" x="778.0" y="231"/>
+<text x="798.0" y="242" font-size="10" opacity="0.95">🇨🇱</text>
+<text x="812.0" y="242" font-size="12" fill="#e2e8f0">RTC Television</text>
+<rect x="1091.0" y="226" width="349.0" height="22" rx="5" fill="#0f172a"/>
 <title>#93 · 🇨🇱 CL — Antofagasta TV (Regionales)</title>
-<text x="1097.0" y="242" font-size="12.5" font-weight="700" fill="#0891b2" font-family="Consolas, Menlo, monospace">#93</text>
-<use href="#flag-cl" xlink:href="#flag-cl" x="1137.0" y="231"/>
-<text x="1163.0" y="242" font-size="12" fill="#e2e8f0">Antofagasta TV</text>
-<rect x="20.0" y="250" width="349.0" height="22" rx="4" fill="#121b30"/>
+<text x="1098.0" y="242" font-size="12.5" font-weight="700" fill="#0891b2" font-family="Consolas, Menlo, monospace">#93</text>
+<use href="#flag-cl" xlink:href="#flag-cl" x="1135.0" y="231"/>
+<text x="1155.0" y="242" font-size="10" opacity="0.95">🇨🇱</text>
+<text x="1169.0" y="242" font-size="12" fill="#e2e8f0">Antofagasta TV</text>
+<rect x="20.0" y="250" width="349.0" height="22" rx="5" fill="#121b30"/>
 <title>#94 · 🇨🇱 CL — DCH (Regionales)</title>
-<text x="26.0" y="266" font-size="12.5" font-weight="700" fill="#0891b2" font-family="Consolas, Menlo, monospace">#94</text>
-<use href="#flag-cl" xlink:href="#flag-cl" x="66.0" y="255"/>
-<text x="92.0" y="266" font-size="12" fill="#e2e8f0">DCH</text>
-<rect x="377.0" y="250" width="349.0" height="22" rx="4" fill="#121b30"/>
+<text x="27.0" y="266" font-size="12.5" font-weight="700" fill="#0891b2" font-family="Consolas, Menlo, monospace">#94</text>
+<use href="#flag-cl" xlink:href="#flag-cl" x="64.0" y="255"/>
+<text x="84.0" y="266" font-size="10" opacity="0.95">🇨🇱</text>
+<text x="98.0" y="266" font-size="12" fill="#e2e8f0">DCH</text>
+<rect x="377.0" y="250" width="349.0" height="22" rx="5" fill="#121b30"/>
 <title>#95 · 🇨🇱 CL — FM Plus (General)</title>
-<text x="383.0" y="266" font-size="12.5" font-weight="700" fill="#0891b2" font-family="Consolas, Menlo, monospace">#95</text>
-<use href="#flag-cl" xlink:href="#flag-cl" x="423.0" y="255"/>
-<text x="449.0" y="266" font-size="12" fill="#e2e8f0">FM Plus</text>
-<rect x="734.0" y="250" width="349.0" height="22" rx="4" fill="#121b30"/>
+<text x="384.0" y="266" font-size="12.5" font-weight="700" fill="#0891b2" font-family="Consolas, Menlo, monospace">#95</text>
+<use href="#flag-cl" xlink:href="#flag-cl" x="421.0" y="255"/>
+<text x="441.0" y="266" font-size="10" opacity="0.95">🇨🇱</text>
+<text x="455.0" y="266" font-size="12" fill="#e2e8f0">FM Plus</text>
+<rect x="734.0" y="250" width="349.0" height="22" rx="5" fill="#121b30"/>
 <title>#96 · 🇨🇱 CL — Omega Radio (Radio)</title>
-<text x="740.0" y="266" font-size="12.5" font-weight="700" fill="#0891b2" font-family="Consolas, Menlo, monospace">#96</text>
-<use href="#flag-cl" xlink:href="#flag-cl" x="780.0" y="255"/>
-<text x="806.0" y="266" font-size="12" fill="#e2e8f0">Omega Radio</text>
-<rect x="1091.0" y="250" width="349.0" height="22" rx="4" fill="#121b30"/>
+<text x="741.0" y="266" font-size="12.5" font-weight="700" fill="#0891b2" font-family="Consolas, Menlo, monospace">#96</text>
+<use href="#flag-cl" xlink:href="#flag-cl" x="778.0" y="255"/>
+<text x="798.0" y="266" font-size="10" opacity="0.95">🇨🇱</text>
+<text x="812.0" y="266" font-size="12" fill="#e2e8f0">Omega Radio</text>
+<rect x="1091.0" y="250" width="349.0" height="22" rx="5" fill="#121b30"/>
 <title>#97 · 🇨🇱 CL — Alternativa TV (Regionales)</title>
-<text x="1097.0" y="266" font-size="12.5" font-weight="700" fill="#0891b2" font-family="Consolas, Menlo, monospace">#97</text>
-<use href="#flag-cl" xlink:href="#flag-cl" x="1137.0" y="255"/>
-<text x="1163.0" y="266" font-size="12" fill="#e2e8f0">Alternativa TV</text>
-<rect x="20.0" y="274" width="349.0" height="22" rx="4" fill="#0f172a"/>
+<text x="1098.0" y="266" font-size="12.5" font-weight="700" fill="#0891b2" font-family="Consolas, Menlo, monospace">#97</text>
+<use href="#flag-cl" xlink:href="#flag-cl" x="1135.0" y="255"/>
+<text x="1155.0" y="266" font-size="10" opacity="0.95">🇨🇱</text>
+<text x="1169.0" y="266" font-size="12" fill="#e2e8f0">Alternativa TV</text>
+<rect x="20.0" y="274" width="349.0" height="22" rx="5" fill="#0f172a"/>
 <title>#98 · 🇨🇱 CL — Atacama Noticias TV (Regionales)</title>
-<text x="26.0" y="290" font-size="12.5" font-weight="700" fill="#0891b2" font-family="Consolas, Menlo, monospace">#98</text>
-<use href="#flag-cl" xlink:href="#flag-cl" x="66.0" y="279"/>
-<text x="92.0" y="290" font-size="12" fill="#e2e8f0">Atacama Noticias TV</text>
-<rect x="377.0" y="274" width="349.0" height="22" rx="4" fill="#0f172a"/>
+<text x="27.0" y="290" font-size="12.5" font-weight="700" fill="#0891b2" font-family="Consolas, Menlo, monospace">#98</text>
+<use href="#flag-cl" xlink:href="#flag-cl" x="64.0" y="279"/>
+<text x="84.0" y="290" font-size="10" opacity="0.95">🇨🇱</text>
+<text x="98.0" y="290" font-size="12" fill="#e2e8f0">Atacama Noticias TV</text>
+<rect x="377.0" y="274" width="349.0" height="22" rx="5" fill="#0f172a"/>
 <title>#99 · 🇨🇱 CL — Atacama TV (Regionales)</title>
-<text x="383.0" y="290" font-size="12.5" font-weight="700" fill="#0891b2" font-family="Consolas, Menlo, monospace">#99</text>
-<use href="#flag-cl" xlink:href="#flag-cl" x="423.0" y="279"/>
-<text x="449.0" y="290" font-size="12" fill="#e2e8f0">Atacama TV</text>
-<rect x="734.0" y="274" width="349.0" height="22" rx="4" fill="#0f172a"/>
+<text x="384.0" y="290" font-size="12.5" font-weight="700" fill="#0891b2" font-family="Consolas, Menlo, monospace">#99</text>
+<use href="#flag-cl" xlink:href="#flag-cl" x="421.0" y="279"/>
+<text x="441.0" y="290" font-size="10" opacity="0.95">🇨🇱</text>
+<text x="455.0" y="290" font-size="12" fill="#e2e8f0">Atacama TV</text>
+<rect x="734.0" y="274" width="349.0" height="22" rx="5" fill="#0f172a"/>
 <title>#100 · 🇨🇱 CL — Enfoque Digital TV (Regionales)</title>
-<text x="740.0" y="290" font-size="12.5" font-weight="700" fill="#0891b2" font-family="Consolas, Menlo, monospace">#100</text>
-<use href="#flag-cl" xlink:href="#flag-cl" x="780.0" y="279"/>
-<text x="806.0" y="290" font-size="12" fill="#e2e8f0">Enfoque Digital TV</text>
-<rect x="1091.0" y="274" width="349.0" height="22" rx="4" fill="#0f172a"/>
+<text x="741.0" y="290" font-size="12.5" font-weight="700" fill="#0891b2" font-family="Consolas, Menlo, monospace">#100</text>
+<use href="#flag-cl" xlink:href="#flag-cl" x="778.0" y="279"/>
+<text x="798.0" y="290" font-size="10" opacity="0.95">🇨🇱</text>
+<text x="812.0" y="290" font-size="12" fill="#e2e8f0">Enfoque Digital TV</text>
+<rect x="1091.0" y="274" width="349.0" height="22" rx="5" fill="#0f172a"/>
 <title>#101 · 🇨🇱 CL — Escuchame Radio (Religiosos)</title>
-<text x="1097.0" y="290" font-size="12.5" font-weight="700" fill="#0891b2" font-family="Consolas, Menlo, monospace">#101</text>
-<use href="#flag-cl" xlink:href="#flag-cl" x="1137.0" y="279"/>
-<text x="1163.0" y="290" font-size="12" fill="#e2e8f0">Escuchame Radio</text>
-<rect x="20.0" y="298" width="349.0" height="22" rx="4" fill="#121b30"/>
+<text x="1098.0" y="290" font-size="12.5" font-weight="700" fill="#0891b2" font-family="Consolas, Menlo, monospace">#101</text>
+<use href="#flag-cl" xlink:href="#flag-cl" x="1135.0" y="279"/>
+<text x="1155.0" y="290" font-size="10" opacity="0.95">🇨🇱</text>
+<text x="1169.0" y="290" font-size="12" fill="#e2e8f0">Escuchame Radio</text>
+<rect x="20.0" y="298" width="349.0" height="22" rx="5" fill="#121b30"/>
 <title>#102 · 🇨🇱 CL — Holvoet TV (Regionales)</title>
-<text x="26.0" y="314" font-size="12.5" font-weight="700" fill="#0891b2" font-family="Consolas, Menlo, monospace">#102</text>
-<use href="#flag-cl" xlink:href="#flag-cl" x="66.0" y="303"/>
-<text x="92.0" y="314" font-size="12" fill="#e2e8f0">Holvoet TV</text>
-<rect x="377.0" y="298" width="349.0" height="22" rx="4" fill="#121b30"/>
+<text x="27.0" y="314" font-size="12.5" font-weight="700" fill="#0891b2" font-family="Consolas, Menlo, monospace">#102</text>
+<use href="#flag-cl" xlink:href="#flag-cl" x="64.0" y="303"/>
+<text x="84.0" y="314" font-size="10" opacity="0.95">🇨🇱</text>
+<text x="98.0" y="314" font-size="12" fill="#e2e8f0">Holvoet TV</text>
+<rect x="377.0" y="298" width="349.0" height="22" rx="5" fill="#121b30"/>
 <title>#103 · 🇨🇱 CL — Huasco TV (Regionales)</title>
-<text x="383.0" y="314" font-size="12.5" font-weight="700" fill="#0891b2" font-family="Consolas, Menlo, monospace">#103</text>
-<use href="#flag-cl" xlink:href="#flag-cl" x="423.0" y="303"/>
-<text x="449.0" y="314" font-size="12" fill="#e2e8f0">Huasco TV</text>
-<rect x="734.0" y="298" width="349.0" height="22" rx="4" fill="#121b30"/>
+<text x="384.0" y="314" font-size="12.5" font-weight="700" fill="#0891b2" font-family="Consolas, Menlo, monospace">#103</text>
+<use href="#flag-cl" xlink:href="#flag-cl" x="421.0" y="303"/>
+<text x="441.0" y="314" font-size="10" opacity="0.95">🇨🇱</text>
+<text x="455.0" y="314" font-size="12" fill="#e2e8f0">Huasco TV</text>
+<rect x="734.0" y="298" width="349.0" height="22" rx="5" fill="#121b30"/>
 <title>#104 · 🇨🇱 CL — Madero TV (Regionales)</title>
-<text x="740.0" y="314" font-size="12.5" font-weight="700" fill="#0891b2" font-family="Consolas, Menlo, monospace">#104</text>
-<use href="#flag-cl" xlink:href="#flag-cl" x="780.0" y="303"/>
-<text x="806.0" y="314" font-size="12" fill="#e2e8f0">Madero TV</text>
-<rect x="1091.0" y="298" width="349.0" height="22" rx="4" fill="#121b30"/>
+<text x="741.0" y="314" font-size="12.5" font-weight="700" fill="#0891b2" font-family="Consolas, Menlo, monospace">#104</text>
+<use href="#flag-cl" xlink:href="#flag-cl" x="778.0" y="303"/>
+<text x="798.0" y="314" font-size="10" opacity="0.95">🇨🇱</text>
+<text x="812.0" y="314" font-size="12" fill="#e2e8f0">Madero TV</text>
+<rect x="1091.0" y="298" width="349.0" height="22" rx="5" fill="#121b30"/>
 <title>#105 · 🇨🇱 CL — Maray TV (Regionales)</title>
-<text x="1097.0" y="314" font-size="12.5" font-weight="700" fill="#0891b2" font-family="Consolas, Menlo, monospace">#105</text>
-<use href="#flag-cl" xlink:href="#flag-cl" x="1137.0" y="303"/>
-<text x="1163.0" y="314" font-size="12" fill="#e2e8f0">Maray TV</text>
-<rect x="20.0" y="322" width="349.0" height="22" rx="4" fill="#0f172a"/>
+<text x="1098.0" y="314" font-size="12.5" font-weight="700" fill="#0891b2" font-family="Consolas, Menlo, monospace">#105</text>
+<use href="#flag-cl" xlink:href="#flag-cl" x="1135.0" y="303"/>
+<text x="1155.0" y="314" font-size="10" opacity="0.95">🇨🇱</text>
+<text x="1169.0" y="314" font-size="12" fill="#e2e8f0">Maray TV</text>
+<rect x="20.0" y="322" width="349.0" height="22" rx="5" fill="#0f172a"/>
 <title>#106 · 🇨🇱 CL — Radio Amiga Vallenar (Radio)</title>
-<text x="26.0" y="338" font-size="12.5" font-weight="700" fill="#0891b2" font-family="Consolas, Menlo, monospace">#106</text>
-<use href="#flag-cl" xlink:href="#flag-cl" x="66.0" y="327"/>
-<text x="92.0" y="338" font-size="12" fill="#e2e8f0">Radio Amiga Vallenar</text>
-<rect x="377.0" y="322" width="349.0" height="22" rx="4" fill="#0f172a"/>
+<text x="27.0" y="338" font-size="12.5" font-weight="700" fill="#0891b2" font-family="Consolas, Menlo, monospace">#106</text>
+<use href="#flag-cl" xlink:href="#flag-cl" x="64.0" y="327"/>
+<text x="84.0" y="338" font-size="10" opacity="0.95">🇨🇱</text>
+<text x="98.0" y="338" font-size="12" fill="#e2e8f0">Radio Amiga Vallenar</text>
+<rect x="377.0" y="322" width="349.0" height="22" rx="5" fill="#0f172a"/>
 <title>#107 · 🇨🇱 CL — Radio Caldera Vision (Radio)</title>
-<text x="383.0" y="338" font-size="12.5" font-weight="700" fill="#0891b2" font-family="Consolas, Menlo, monospace">#107</text>
-<use href="#flag-cl" xlink:href="#flag-cl" x="423.0" y="327"/>
-<text x="449.0" y="338" font-size="12" fill="#e2e8f0">Radio Caldera Vision</text>
-<rect x="734.0" y="322" width="349.0" height="22" rx="4" fill="#0f172a"/>
+<text x="384.0" y="338" font-size="12.5" font-weight="700" fill="#0891b2" font-family="Consolas, Menlo, monospace">#107</text>
+<use href="#flag-cl" xlink:href="#flag-cl" x="421.0" y="327"/>
+<text x="441.0" y="338" font-size="10" opacity="0.95">🇨🇱</text>
+<text x="455.0" y="338" font-size="12" fill="#e2e8f0">Radio Caldera Vision</text>
+<rect x="734.0" y="322" width="349.0" height="22" rx="5" fill="#0f172a"/>
 <title>#108 · 🇨🇱 CL — Radio Labrar TV (Regionales)</title>
-<text x="740.0" y="338" font-size="12.5" font-weight="700" fill="#0891b2" font-family="Consolas, Menlo, monospace">#108</text>
-<use href="#flag-cl" xlink:href="#flag-cl" x="780.0" y="327"/>
-<text x="806.0" y="338" font-size="12" fill="#e2e8f0">Radio Labrar TV</text>
-<rect x="1091.0" y="322" width="349.0" height="22" rx="4" fill="#0f172a"/>
+<text x="741.0" y="338" font-size="12.5" font-weight="700" fill="#0891b2" font-family="Consolas, Menlo, monospace">#108</text>
+<use href="#flag-cl" xlink:href="#flag-cl" x="778.0" y="327"/>
+<text x="798.0" y="338" font-size="10" opacity="0.95">🇨🇱</text>
+<text x="812.0" y="338" font-size="12" fill="#e2e8f0">Radio Labrar TV</text>
+<rect x="1091.0" y="322" width="349.0" height="22" rx="5" fill="#0f172a"/>
 <title>#109 · 🇨🇱 CL — Radio RT (Radio)</title>
-<text x="1097.0" y="338" font-size="12.5" font-weight="700" fill="#0891b2" font-family="Consolas, Menlo, monospace">#109</text>
-<use href="#flag-cl" xlink:href="#flag-cl" x="1137.0" y="327"/>
-<text x="1163.0" y="338" font-size="12" fill="#e2e8f0">Radio RT</text>
-<rect x="20.0" y="346" width="349.0" height="22" rx="4" fill="#121b30"/>
+<text x="1098.0" y="338" font-size="12.5" font-weight="700" fill="#0891b2" font-family="Consolas, Menlo, monospace">#109</text>
+<use href="#flag-cl" xlink:href="#flag-cl" x="1135.0" y="327"/>
+<text x="1155.0" y="338" font-size="10" opacity="0.95">🇨🇱</text>
+<text x="1169.0" y="338" font-size="12" fill="#e2e8f0">Radio RT</text>
+<rect x="20.0" y="346" width="349.0" height="22" rx="5" fill="#121b30"/>
 <title>#110 · 🇨🇱 CL — WF9 (Regionales)</title>
-<text x="26.0" y="362" font-size="12.5" font-weight="700" fill="#0891b2" font-family="Consolas, Menlo, monospace">#110</text>
-<use href="#flag-cl" xlink:href="#flag-cl" x="66.0" y="351"/>
-<text x="92.0" y="362" font-size="12" fill="#e2e8f0">WF9</text>
-<rect x="377.0" y="346" width="349.0" height="22" rx="4" fill="#121b30"/>
+<text x="27.0" y="362" font-size="12.5" font-weight="700" fill="#0891b2" font-family="Consolas, Menlo, monospace">#110</text>
+<use href="#flag-cl" xlink:href="#flag-cl" x="64.0" y="351"/>
+<text x="84.0" y="362" font-size="10" opacity="0.95">🇨🇱</text>
+<text x="98.0" y="362" font-size="12" fill="#e2e8f0">WF9</text>
+<rect x="377.0" y="346" width="349.0" height="22" rx="5" fill="#121b30"/>
 <title>#111 · 🇨🇱 CL — El Conquistador La Serena (Radio)</title>
-<text x="383.0" y="362" font-size="12.5" font-weight="700" fill="#0891b2" font-family="Consolas, Menlo, monospace">#111</text>
-<use href="#flag-cl" xlink:href="#flag-cl" x="423.0" y="351"/>
-<text x="449.0" y="362" font-size="12" fill="#e2e8f0">El Conquistador La Serena</text>
-<rect x="734.0" y="346" width="349.0" height="22" rx="4" fill="#121b30"/>
+<text x="384.0" y="362" font-size="12.5" font-weight="700" fill="#0891b2" font-family="Consolas, Menlo, monospace">#111</text>
+<use href="#flag-cl" xlink:href="#flag-cl" x="421.0" y="351"/>
+<text x="441.0" y="362" font-size="10" opacity="0.95">🇨🇱</text>
+<text x="455.0" y="362" font-size="12" fill="#e2e8f0">El Conquistador La Serena</text>
+<rect x="734.0" y="346" width="349.0" height="22" rx="5" fill="#121b30"/>
 <title>#112 · 🇨🇱 CL — La Popular TV (Regionales)</title>
-<text x="740.0" y="362" font-size="12.5" font-weight="700" fill="#0891b2" font-family="Consolas, Menlo, monospace">#112</text>
-<use href="#flag-cl" xlink:href="#flag-cl" x="780.0" y="351"/>
-<text x="806.0" y="362" font-size="12" fill="#e2e8f0">La Popular TV</text>
-<rect x="1091.0" y="346" width="349.0" height="22" rx="4" fill="#121b30"/>
+<text x="741.0" y="362" font-size="12.5" font-weight="700" fill="#0891b2" font-family="Consolas, Menlo, monospace">#112</text>
+<use href="#flag-cl" xlink:href="#flag-cl" x="778.0" y="351"/>
+<text x="798.0" y="362" font-size="10" opacity="0.95">🇨🇱</text>
+<text x="812.0" y="362" font-size="12" fill="#e2e8f0">La Popular TV</text>
+<rect x="1091.0" y="346" width="349.0" height="22" rx="5" fill="#121b30"/>
 <title>#113 · 🇨🇱 CL — Mi Radio TV (Radio)</title>
-<text x="1097.0" y="362" font-size="12.5" font-weight="700" fill="#0891b2" font-family="Consolas, Menlo, monospace">#113</text>
-<use href="#flag-cl" xlink:href="#flag-cl" x="1137.0" y="351"/>
-<text x="1163.0" y="362" font-size="12" fill="#e2e8f0">Mi Radio TV</text>
-<rect x="20.0" y="370" width="349.0" height="22" rx="4" fill="#0f172a"/>
+<text x="1098.0" y="362" font-size="12.5" font-weight="700" fill="#0891b2" font-family="Consolas, Menlo, monospace">#113</text>
+<use href="#flag-cl" xlink:href="#flag-cl" x="1135.0" y="351"/>
+<text x="1155.0" y="362" font-size="10" opacity="0.95">🇨🇱</text>
+<text x="1169.0" y="362" font-size="12" fill="#e2e8f0">Mi Radio TV</text>
+<rect x="20.0" y="370" width="349.0" height="22" rx="5" fill="#0f172a"/>
 <title>#114 · 🇨🇱 CL — Nexovision (Regionales)</title>
-<text x="26.0" y="386" font-size="12.5" font-weight="700" fill="#0891b2" font-family="Consolas, Menlo, monospace">#114</text>
-<use href="#flag-cl" xlink:href="#flag-cl" x="66.0" y="375"/>
-<text x="92.0" y="386" font-size="12" fill="#e2e8f0">Nexovision</text>
-<rect x="377.0" y="370" width="349.0" height="22" rx="4" fill="#0f172a"/>
+<text x="27.0" y="386" font-size="12.5" font-weight="700" fill="#0891b2" font-family="Consolas, Menlo, monospace">#114</text>
+<use href="#flag-cl" xlink:href="#flag-cl" x="64.0" y="375"/>
+<text x="84.0" y="386" font-size="10" opacity="0.95">🇨🇱</text>
+<text x="98.0" y="386" font-size="12" fill="#e2e8f0">Nexovision</text>
+<rect x="377.0" y="370" width="349.0" height="22" rx="5" fill="#0f172a"/>
 <title>#115 · 🇨🇱 CL — Radio Riquelme TV (Radio)</title>
-<text x="383.0" y="386" font-size="12.5" font-weight="700" fill="#0891b2" font-family="Consolas, Menlo, monospace">#115</text>
-<use href="#flag-cl" xlink:href="#flag-cl" x="423.0" y="375"/>
-<text x="449.0" y="386" font-size="12" fill="#e2e8f0">Radio Riquelme TV</text>
-<rect x="734.0" y="370" width="349.0" height="22" rx="4" fill="#0f172a"/>
+<text x="384.0" y="386" font-size="12.5" font-weight="700" fill="#0891b2" font-family="Consolas, Menlo, monospace">#115</text>
+<use href="#flag-cl" xlink:href="#flag-cl" x="421.0" y="375"/>
+<text x="441.0" y="386" font-size="10" opacity="0.95">🇨🇱</text>
+<text x="455.0" y="386" font-size="12" fill="#e2e8f0">Radio Riquelme TV</text>
+<rect x="734.0" y="370" width="349.0" height="22" rx="5" fill="#0f172a"/>
 <title>#116 · 🇨🇱 CL — TeleOvalle (Regionales)</title>
-<text x="740.0" y="386" font-size="12.5" font-weight="700" fill="#0891b2" font-family="Consolas, Menlo, monospace">#116</text>
-<use href="#flag-cl" xlink:href="#flag-cl" x="780.0" y="375"/>
-<text x="806.0" y="386" font-size="12" fill="#e2e8f0">TeleOvalle</text>
-<rect x="1091.0" y="370" width="349.0" height="22" rx="4" fill="#0f172a"/>
+<text x="741.0" y="386" font-size="12.5" font-weight="700" fill="#0891b2" font-family="Consolas, Menlo, monospace">#116</text>
+<use href="#flag-cl" xlink:href="#flag-cl" x="778.0" y="375"/>
+<text x="798.0" y="386" font-size="10" opacity="0.95">🇨🇱</text>
+<text x="812.0" y="386" font-size="12" fill="#e2e8f0">TeleOvalle</text>
+<rect x="1091.0" y="370" width="349.0" height="22" rx="5" fill="#0f172a"/>
 <title>#117 · 🇨🇱 CL — ThemaTV (Regionales)</title>
-<text x="1097.0" y="386" font-size="12.5" font-weight="700" fill="#0891b2" font-family="Consolas, Menlo, monospace">#117</text>
-<use href="#flag-cl" xlink:href="#flag-cl" x="1137.0" y="375"/>
-<text x="1163.0" y="386" font-size="12" fill="#e2e8f0">ThemaTV</text>
-<rect x="20.0" y="394" width="349.0" height="22" rx="4" fill="#121b30"/>
+<text x="1098.0" y="386" font-size="12.5" font-weight="700" fill="#0891b2" font-family="Consolas, Menlo, monospace">#117</text>
+<use href="#flag-cl" xlink:href="#flag-cl" x="1135.0" y="375"/>
+<text x="1155.0" y="386" font-size="10" opacity="0.95">🇨🇱</text>
+<text x="1169.0" y="386" font-size="12" fill="#e2e8f0">ThemaTV</text>
+<rect x="20.0" y="394" width="349.0" height="22" rx="5" fill="#121b30"/>
 <title>#118 · 🇨🇱 CL — TV Elqui (Regionales)</title>
-<text x="26.0" y="410" font-size="12.5" font-weight="700" fill="#0891b2" font-family="Consolas, Menlo, monospace">#118</text>
-<use href="#flag-cl" xlink:href="#flag-cl" x="66.0" y="399"/>
-<text x="92.0" y="410" font-size="12" fill="#e2e8f0">TV Elqui</text>
-<rect x="377.0" y="394" width="349.0" height="22" rx="4" fill="#121b30"/>
+<text x="27.0" y="410" font-size="12.5" font-weight="700" fill="#0891b2" font-family="Consolas, Menlo, monospace">#118</text>
+<use href="#flag-cl" xlink:href="#flag-cl" x="64.0" y="399"/>
+<text x="84.0" y="410" font-size="10" opacity="0.95">🇨🇱</text>
+<text x="98.0" y="410" font-size="12" fill="#e2e8f0">TV Elqui</text>
+<rect x="377.0" y="394" width="349.0" height="22" rx="5" fill="#121b30"/>
 <title>#119 · 🇨🇱 CL — Canal 2 de San Antonio (Regionales)</title>
-<text x="383.0" y="410" font-size="12.5" font-weight="700" fill="#0891b2" font-family="Consolas, Menlo, monospace">#119</text>
-<use href="#flag-cl" xlink:href="#flag-cl" x="423.0" y="399"/>
-<text x="449.0" y="410" font-size="12" fill="#e2e8f0">Canal 2 de San Antonio</text>
-<rect x="734.0" y="394" width="349.0" height="22" rx="4" fill="#121b30"/>
+<text x="384.0" y="410" font-size="12.5" font-weight="700" fill="#0891b2" font-family="Consolas, Menlo, monospace">#119</text>
+<use href="#flag-cl" xlink:href="#flag-cl" x="421.0" y="399"/>
+<text x="441.0" y="410" font-size="10" opacity="0.95">🇨🇱</text>
+<text x="455.0" y="410" font-size="12" fill="#e2e8f0">Canal 2 de San Antonio</text>
+<rect x="734.0" y="394" width="349.0" height="22" rx="5" fill="#121b30"/>
 <title>#120 · 🇨🇱 CL — Canal 74 TeVe (Regionales)</title>
-<text x="740.0" y="410" font-size="12.5" font-weight="700" fill="#0891b2" font-family="Consolas, Menlo, monospace">#120</text>
-<use href="#flag-cl" xlink:href="#flag-cl" x="780.0" y="399"/>
-<text x="806.0" y="410" font-size="12" fill="#e2e8f0">Canal 74 TeVe</text>
-<rect x="1091.0" y="394" width="349.0" height="22" rx="4" fill="#121b30"/>
+<text x="741.0" y="410" font-size="12.5" font-weight="700" fill="#0891b2" font-family="Consolas, Menlo, monospace">#120</text>
+<use href="#flag-cl" xlink:href="#flag-cl" x="778.0" y="399"/>
+<text x="798.0" y="410" font-size="10" opacity="0.95">🇨🇱</text>
+<text x="812.0" y="410" font-size="12" fill="#e2e8f0">Canal 74 TeVe</text>
+<rect x="1091.0" y="394" width="349.0" height="22" rx="5" fill="#121b30"/>
 <title>#121 · 🇨🇱 CL — Canal Local (Regionales)</title>
-<text x="1097.0" y="410" font-size="12.5" font-weight="700" fill="#0891b2" font-family="Consolas, Menlo, monospace">#121</text>
-<use href="#flag-cl" xlink:href="#flag-cl" x="1137.0" y="399"/>
-<text x="1163.0" y="410" font-size="12" fill="#e2e8f0">Canal Local</text>
-<rect x="20.0" y="418" width="349.0" height="22" rx="4" fill="#0f172a"/>
+<text x="1098.0" y="410" font-size="12.5" font-weight="700" fill="#0891b2" font-family="Consolas, Menlo, monospace">#121</text>
+<use href="#flag-cl" xlink:href="#flag-cl" x="1135.0" y="399"/>
+<text x="1155.0" y="410" font-size="10" opacity="0.95">🇨🇱</text>
+<text x="1169.0" y="410" font-size="12" fill="#e2e8f0">Canal Local</text>
+<rect x="20.0" y="418" width="349.0" height="22" rx="5" fill="#0f172a"/>
 <title>#122 · 🇨🇱 CL — Estacion Limache TV (Regionales)</title>
-<text x="26.0" y="434" font-size="12.5" font-weight="700" fill="#0891b2" font-family="Consolas, Menlo, monospace">#122</text>
-<use href="#flag-cl" xlink:href="#flag-cl" x="66.0" y="423"/>
-<text x="92.0" y="434" font-size="12" fill="#e2e8f0">Estacion Limache TV</text>
-<rect x="377.0" y="418" width="349.0" height="22" rx="4" fill="#0f172a"/>
+<text x="27.0" y="434" font-size="12.5" font-weight="700" fill="#0891b2" font-family="Consolas, Menlo, monospace">#122</text>
+<use href="#flag-cl" xlink:href="#flag-cl" x="64.0" y="423"/>
+<text x="84.0" y="434" font-size="10" opacity="0.95">🇨🇱</text>
+<text x="98.0" y="434" font-size="12" fill="#e2e8f0">Estacion Limache TV</text>
+<rect x="377.0" y="418" width="349.0" height="22" rx="5" fill="#0f172a"/>
 <title>#123 · 🇨🇱 CL — Frecuencia 7 Aconcagua (Regionales)</title>
-<text x="383.0" y="434" font-size="12.5" font-weight="700" fill="#0891b2" font-family="Consolas, Menlo, monospace">#123</text>
-<use href="#flag-cl" xlink:href="#flag-cl" x="423.0" y="423"/>
-<text x="449.0" y="434" font-size="12" fill="#e2e8f0">Frecuencia 7 Aconcagua</text>
-<rect x="734.0" y="418" width="349.0" height="22" rx="4" fill="#0f172a"/>
+<text x="384.0" y="434" font-size="12.5" font-weight="700" fill="#0891b2" font-family="Consolas, Menlo, monospace">#123</text>
+<use href="#flag-cl" xlink:href="#flag-cl" x="421.0" y="423"/>
+<text x="441.0" y="434" font-size="10" opacity="0.95">🇨🇱</text>
+<text x="455.0" y="434" font-size="12" fill="#e2e8f0">Frecuencia 7 Aconcagua</text>
+<rect x="734.0" y="418" width="349.0" height="22" rx="5" fill="#0f172a"/>
 <title>#124 · 🇨🇱 CL — Frecuencia Cultural (Comunitarios)</title>
-<text x="740.0" y="434" font-size="12.5" font-weight="700" fill="#0891b2" font-family="Consolas, Menlo, monospace">#124</text>
-<use href="#flag-cl" xlink:href="#flag-cl" x="780.0" y="423"/>
-<text x="806.0" y="434" font-size="12" fill="#e2e8f0">Frecuencia Cultural</text>
-<rect x="1091.0" y="418" width="349.0" height="22" rx="4" fill="#0f172a"/>
+<text x="741.0" y="434" font-size="12.5" font-weight="700" fill="#0891b2" font-family="Consolas, Menlo, monospace">#124</text>
+<use href="#flag-cl" xlink:href="#flag-cl" x="778.0" y="423"/>
+<text x="798.0" y="434" font-size="10" opacity="0.95">🇨🇱</text>
+<text x="812.0" y="434" font-size="12" fill="#e2e8f0">Frecuencia Cultural</text>
+<rect x="1091.0" y="418" width="349.0" height="22" rx="5" fill="#0f172a"/>
 <title>#125 · 🇨🇱 CL — Galactika Media (Regionales)</title>
-<text x="1097.0" y="434" font-size="12.5" font-weight="700" fill="#0891b2" font-family="Consolas, Menlo, monospace">#125</text>
-<use href="#flag-cl" xlink:href="#flag-cl" x="1137.0" y="423"/>
-<text x="1163.0" y="434" font-size="12" fill="#e2e8f0">Galactika Media</text>
-<rect x="20.0" y="442" width="349.0" height="22" rx="4" fill="#121b30"/>
+<text x="1098.0" y="434" font-size="12.5" font-weight="700" fill="#0891b2" font-family="Consolas, Menlo, monospace">#125</text>
+<use href="#flag-cl" xlink:href="#flag-cl" x="1135.0" y="423"/>
+<text x="1155.0" y="434" font-size="10" opacity="0.95">🇨🇱</text>
+<text x="1169.0" y="434" font-size="12" fill="#e2e8f0">Galactika Media</text>
+<rect x="20.0" y="442" width="349.0" height="22" rx="5" fill="#121b30"/>
 <title>#126 · 🇨🇱 CL — Grupo Libra TV (Regionales)</title>
-<text x="26.0" y="458" font-size="12.5" font-weight="700" fill="#0891b2" font-family="Consolas, Menlo, monospace">#126</text>
-<use href="#flag-cl" xlink:href="#flag-cl" x="66.0" y="447"/>
-<text x="92.0" y="458" font-size="12" fill="#e2e8f0">Grupo Libra TV</text>
-<rect x="377.0" y="442" width="349.0" height="22" rx="4" fill="#121b30"/>
+<text x="27.0" y="458" font-size="12.5" font-weight="700" fill="#0891b2" font-family="Consolas, Menlo, monospace">#126</text>
+<use href="#flag-cl" xlink:href="#flag-cl" x="64.0" y="447"/>
+<text x="84.0" y="458" font-size="10" opacity="0.95">🇨🇱</text>
+<text x="98.0" y="458" font-size="12" fill="#e2e8f0">Grupo Libra TV</text>
+<rect x="377.0" y="442" width="349.0" height="22" rx="5" fill="#121b30"/>
 <title>#127 · 🇨🇱 CL — IPNA Medio (Religiosos)</title>
-<text x="383.0" y="458" font-size="12.5" font-weight="700" fill="#0891b2" font-family="Consolas, Menlo, monospace">#127</text>
-<use href="#flag-cl" xlink:href="#flag-cl" x="423.0" y="447"/>
-<text x="449.0" y="458" font-size="12" fill="#e2e8f0">IPNA Medio</text>
-<rect x="734.0" y="442" width="349.0" height="22" rx="4" fill="#121b30"/>
+<text x="384.0" y="458" font-size="12.5" font-weight="700" fill="#0891b2" font-family="Consolas, Menlo, monospace">#127</text>
+<use href="#flag-cl" xlink:href="#flag-cl" x="421.0" y="447"/>
+<text x="441.0" y="458" font-size="10" opacity="0.95">🇨🇱</text>
+<text x="455.0" y="458" font-size="12" fill="#e2e8f0">IPNA Medio</text>
+<rect x="734.0" y="442" width="349.0" height="22" rx="5" fill="#121b30"/>
 <title>#128 · 🇨🇱 CL — Marga Marga TV (Regionales)</title>
-<text x="740.0" y="458" font-size="12.5" font-weight="700" fill="#0891b2" font-family="Consolas, Menlo, monospace">#128</text>
-<use href="#flag-cl" xlink:href="#flag-cl" x="780.0" y="447"/>
-<text x="806.0" y="458" font-size="12" fill="#e2e8f0">Marga Marga TV</text>
-<rect x="1091.0" y="442" width="349.0" height="22" rx="4" fill="#121b30"/>
+<text x="741.0" y="458" font-size="12.5" font-weight="700" fill="#0891b2" font-family="Consolas, Menlo, monospace">#128</text>
+<use href="#flag-cl" xlink:href="#flag-cl" x="778.0" y="447"/>
+<text x="798.0" y="458" font-size="10" opacity="0.95">🇨🇱</text>
+<text x="812.0" y="458" font-size="12" fill="#e2e8f0">Marga Marga TV</text>
+<rect x="1091.0" y="442" width="349.0" height="22" rx="5" fill="#121b30"/>
 <title>#129 · 🇨🇱 CL — Plaza TV (Regionales)</title>
-<text x="1097.0" y="458" font-size="12.5" font-weight="700" fill="#0891b2" font-family="Consolas, Menlo, monospace">#129</text>
-<use href="#flag-cl" xlink:href="#flag-cl" x="1137.0" y="447"/>
-<text x="1163.0" y="458" font-size="12" fill="#e2e8f0">Plaza TV</text>
-<rect x="20.0" y="466" width="349.0" height="22" rx="4" fill="#0f172a"/>
+<text x="1098.0" y="458" font-size="12.5" font-weight="700" fill="#0891b2" font-family="Consolas, Menlo, monospace">#129</text>
+<use href="#flag-cl" xlink:href="#flag-cl" x="1135.0" y="447"/>
+<text x="1155.0" y="458" font-size="10" opacity="0.95">🇨🇱</text>
+<text x="1169.0" y="458" font-size="12" fill="#e2e8f0">Plaza TV</text>
+<rect x="20.0" y="466" width="349.0" height="22" rx="5" fill="#0f172a"/>
 <title>#130 · 🇨🇱 CL — Preludio TV (Radio)</title>
-<text x="26.0" y="482" font-size="12.5" font-weight="700" fill="#0891b2" font-family="Consolas, Menlo, monospace">#130</text>
-<use href="#flag-cl" xlink:href="#flag-cl" x="66.0" y="471"/>
-<text x="92.0" y="482" font-size="12" fill="#e2e8f0">Preludio TV</text>
-<rect x="377.0" y="466" width="349.0" height="22" rx="4" fill="#0f172a"/>
+<text x="27.0" y="482" font-size="12.5" font-weight="700" fill="#0891b2" font-family="Consolas, Menlo, monospace">#130</text>
+<use href="#flag-cl" xlink:href="#flag-cl" x="64.0" y="471"/>
+<text x="84.0" y="482" font-size="10" opacity="0.95">🇨🇱</text>
+<text x="98.0" y="482" font-size="12" fill="#e2e8f0">Preludio TV</text>
+<rect x="377.0" y="466" width="349.0" height="22" rx="5" fill="#0f172a"/>
 <title>#131 · 🇨🇱 CL — Preludio TV Señal 2 (Radio)</title>
-<text x="383.0" y="482" font-size="12.5" font-weight="700" fill="#0891b2" font-family="Consolas, Menlo, monospace">#131</text>
-<use href="#flag-cl" xlink:href="#flag-cl" x="423.0" y="471"/>
-<text x="449.0" y="482" font-size="12" fill="#e2e8f0">Preludio TV Señal 2</text>
-<rect x="734.0" y="466" width="349.0" height="22" rx="4" fill="#0f172a"/>
+<text x="384.0" y="482" font-size="12.5" font-weight="700" fill="#0891b2" font-family="Consolas, Menlo, monospace">#131</text>
+<use href="#flag-cl" xlink:href="#flag-cl" x="421.0" y="471"/>
+<text x="441.0" y="482" font-size="10" opacity="0.95">🇨🇱</text>
+<text x="455.0" y="482" font-size="12" fill="#e2e8f0">Preludio TV Señal 2</text>
+<rect x="734.0" y="466" width="349.0" height="22" rx="5" fill="#0f172a"/>
 <title>#132 · 🇨🇱 CL — Primicia Vida Television (Regionales)</title>
-<text x="740.0" y="482" font-size="12.5" font-weight="700" fill="#0891b2" font-family="Consolas, Menlo, monospace">#132</text>
-<use href="#flag-cl" xlink:href="#flag-cl" x="780.0" y="471"/>
-<text x="806.0" y="482" font-size="12" fill="#e2e8f0">Primicia Vida Television</text>
-<rect x="1091.0" y="466" width="349.0" height="22" rx="4" fill="#0f172a"/>
+<text x="741.0" y="482" font-size="12.5" font-weight="700" fill="#0891b2" font-family="Consolas, Menlo, monospace">#132</text>
+<use href="#flag-cl" xlink:href="#flag-cl" x="778.0" y="471"/>
+<text x="798.0" y="482" font-size="10" opacity="0.95">🇨🇱</text>
+<text x="812.0" y="482" font-size="12" fill="#e2e8f0">Primicia Vida Television</text>
+<rect x="1091.0" y="466" width="349.0" height="22" rx="5" fill="#0f172a"/>
 <title>#133 · 🇨🇱 CL — Qultura (Regionales)</title>
-<text x="1097.0" y="482" font-size="12.5" font-weight="700" fill="#0891b2" font-family="Consolas, Menlo, monospace">#133</text>
-<use href="#flag-cl" xlink:href="#flag-cl" x="1137.0" y="471"/>
-<text x="1163.0" y="482" font-size="12" fill="#e2e8f0">Qultura</text>
-<rect x="20.0" y="490" width="349.0" height="22" rx="4" fill="#121b30"/>
+<text x="1098.0" y="482" font-size="12.5" font-weight="700" fill="#0891b2" font-family="Consolas, Menlo, monospace">#133</text>
+<use href="#flag-cl" xlink:href="#flag-cl" x="1135.0" y="471"/>
+<text x="1155.0" y="482" font-size="10" opacity="0.95">🇨🇱</text>
+<text x="1169.0" y="482" font-size="12" fill="#e2e8f0">Qultura</text>
+<rect x="20.0" y="490" width="349.0" height="22" rx="5" fill="#121b30"/>
 <title>#134 · 🇨🇱 CL — Radio Bohemia TV (Radio)</title>
-<text x="26.0" y="506" font-size="12.5" font-weight="700" fill="#0891b2" font-family="Consolas, Menlo, monospace">#134</text>
-<use href="#flag-cl" xlink:href="#flag-cl" x="66.0" y="495"/>
-<text x="92.0" y="506" font-size="12" fill="#e2e8f0">Radio Bohemia TV</text>
-<rect x="377.0" y="490" width="349.0" height="22" rx="4" fill="#121b30"/>
+<text x="27.0" y="506" font-size="12.5" font-weight="700" fill="#0891b2" font-family="Consolas, Menlo, monospace">#134</text>
+<use href="#flag-cl" xlink:href="#flag-cl" x="64.0" y="495"/>
+<text x="84.0" y="506" font-size="10" opacity="0.95">🇨🇱</text>
+<text x="98.0" y="506" font-size="12" fill="#e2e8f0">Radio Bohemia TV</text>
+<rect x="377.0" y="490" width="349.0" height="22" rx="5" fill="#121b30"/>
 <title>#135 · 🇨🇱 CL — Radio Rosa FM (Radio)</title>
-<text x="383.0" y="506" font-size="12.5" font-weight="700" fill="#0891b2" font-family="Consolas, Menlo, monospace">#135</text>
-<use href="#flag-cl" xlink:href="#flag-cl" x="423.0" y="495"/>
-<text x="449.0" y="506" font-size="12" fill="#e2e8f0">Radio Rosa FM</text>
-<rect x="734.0" y="490" width="349.0" height="22" rx="4" fill="#121b30"/>
+<text x="384.0" y="506" font-size="12.5" font-weight="700" fill="#0891b2" font-family="Consolas, Menlo, monospace">#135</text>
+<use href="#flag-cl" xlink:href="#flag-cl" x="421.0" y="495"/>
+<text x="441.0" y="506" font-size="10" opacity="0.95">🇨🇱</text>
+<text x="455.0" y="506" font-size="12" fill="#e2e8f0">Radio Rosa FM</text>
+<rect x="734.0" y="490" width="349.0" height="22" rx="5" fill="#121b30"/>
 <title>#136 · 🇨🇱 CL — Revolviendola Radio (Radio)</title>
-<text x="740.0" y="506" font-size="12.5" font-weight="700" fill="#0891b2" font-family="Consolas, Menlo, monospace">#136</text>
-<use href="#flag-cl" xlink:href="#flag-cl" x="780.0" y="495"/>
-<text x="806.0" y="506" font-size="12" fill="#e2e8f0">Revolviendola Radio</text>
-<rect x="1091.0" y="490" width="349.0" height="22" rx="4" fill="#121b30"/>
+<text x="741.0" y="506" font-size="12.5" font-weight="700" fill="#0891b2" font-family="Consolas, Menlo, monospace">#136</text>
+<use href="#flag-cl" xlink:href="#flag-cl" x="778.0" y="495"/>
+<text x="798.0" y="506" font-size="10" opacity="0.95">🇨🇱</text>
+<text x="812.0" y="506" font-size="12" fill="#e2e8f0">Revolviendola Radio</text>
+<rect x="1091.0" y="490" width="349.0" height="22" rx="5" fill="#121b30"/>
 <title>#137 · 🇨🇱 CL — RitoqueFM TV (Radio)</title>
-<text x="1097.0" y="506" font-size="12.5" font-weight="700" fill="#0891b2" font-family="Consolas, Menlo, monospace">#137</text>
-<use href="#flag-cl" xlink:href="#flag-cl" x="1137.0" y="495"/>
-<text x="1163.0" y="506" font-size="12" fill="#e2e8f0">RitoqueFM TV</text>
-<rect x="20.0" y="514" width="349.0" height="22" rx="4" fill="#0f172a"/>
+<text x="1098.0" y="506" font-size="12.5" font-weight="700" fill="#0891b2" font-family="Consolas, Menlo, monospace">#137</text>
+<use href="#flag-cl" xlink:href="#flag-cl" x="1135.0" y="495"/>
+<text x="1155.0" y="506" font-size="10" opacity="0.95">🇨🇱</text>
+<text x="1169.0" y="506" font-size="12" fill="#e2e8f0">RitoqueFM TV</text>
+<rect x="20.0" y="514" width="349.0" height="22" rx="5" fill="#0f172a"/>
 <title>#138 · 🇨🇱 CL — SoloTV (Regionales)</title>
-<text x="26.0" y="530" font-size="12.5" font-weight="700" fill="#0891b2" font-family="Consolas, Menlo, monospace">#138</text>
-<use href="#flag-cl" xlink:href="#flag-cl" x="66.0" y="519"/>
-<text x="92.0" y="530" font-size="12" fill="#e2e8f0">SoloTV</text>
-<rect x="377.0" y="514" width="349.0" height="22" rx="4" fill="#0f172a"/>
+<text x="27.0" y="530" font-size="12.5" font-weight="700" fill="#0891b2" font-family="Consolas, Menlo, monospace">#138</text>
+<use href="#flag-cl" xlink:href="#flag-cl" x="64.0" y="519"/>
+<text x="84.0" y="530" font-size="10" opacity="0.95">🇨🇱</text>
+<text x="98.0" y="530" font-size="12" fill="#e2e8f0">SoloTV</text>
+<rect x="377.0" y="514" width="349.0" height="22" rx="5" fill="#0f172a"/>
 <title>#139 · 🇨🇱 CL — TuTV (Radio)</title>
-<text x="383.0" y="530" font-size="12.5" font-weight="700" fill="#0891b2" font-family="Consolas, Menlo, monospace">#139</text>
-<use href="#flag-cl" xlink:href="#flag-cl" x="423.0" y="519"/>
-<text x="449.0" y="530" font-size="12" fill="#e2e8f0">TuTV</text>
-<rect x="734.0" y="514" width="349.0" height="22" rx="4" fill="#0f172a"/>
+<text x="384.0" y="530" font-size="12.5" font-weight="700" fill="#0891b2" font-family="Consolas, Menlo, monospace">#139</text>
+<use href="#flag-cl" xlink:href="#flag-cl" x="421.0" y="519"/>
+<text x="441.0" y="530" font-size="10" opacity="0.95">🇨🇱</text>
+<text x="455.0" y="530" font-size="12" fill="#e2e8f0">TuTV</text>
+<rect x="734.0" y="514" width="349.0" height="22" rx="5" fill="#0f172a"/>
 <title>#140 · 🇨🇱 CL — TV Costa (Regionales)</title>
-<text x="740.0" y="530" font-size="12.5" font-weight="700" fill="#0891b2" font-family="Consolas, Menlo, monospace">#140</text>
-<use href="#flag-cl" xlink:href="#flag-cl" x="780.0" y="519"/>
-<text x="806.0" y="530" font-size="12" fill="#e2e8f0">TV Costa</text>
-<rect x="1091.0" y="514" width="349.0" height="22" rx="4" fill="#0f172a"/>
+<text x="741.0" y="530" font-size="12.5" font-weight="700" fill="#0891b2" font-family="Consolas, Menlo, monospace">#140</text>
+<use href="#flag-cl" xlink:href="#flag-cl" x="778.0" y="519"/>
+<text x="798.0" y="530" font-size="10" opacity="0.95">🇨🇱</text>
+<text x="812.0" y="530" font-size="12" fill="#e2e8f0">TV Costa</text>
+<rect x="1091.0" y="514" width="349.0" height="22" rx="5" fill="#0f172a"/>
 <title>#141 · 🇨🇱 CL — TV Quinta Region (Regionales)</title>
-<text x="1097.0" y="530" font-size="12.5" font-weight="700" fill="#0891b2" font-family="Consolas, Menlo, monospace">#141</text>
-<use href="#flag-cl" xlink:href="#flag-cl" x="1137.0" y="519"/>
-<text x="1163.0" y="530" font-size="12" fill="#e2e8f0">TV Quinta Region</text>
-<rect x="20.0" y="538" width="349.0" height="22" rx="4" fill="#121b30"/>
+<text x="1098.0" y="530" font-size="12.5" font-weight="700" fill="#0891b2" font-family="Consolas, Menlo, monospace">#141</text>
+<use href="#flag-cl" xlink:href="#flag-cl" x="1135.0" y="519"/>
+<text x="1155.0" y="530" font-size="10" opacity="0.95">🇨🇱</text>
+<text x="1169.0" y="530" font-size="12" fill="#e2e8f0">TV Quinta Region</text>
+<rect x="20.0" y="538" width="349.0" height="22" rx="5" fill="#121b30"/>
 <title>#142 · 🇨🇱 CL — UCV (Universitarios)</title>
-<text x="26.0" y="554" font-size="12.5" font-weight="700" fill="#0891b2" font-family="Consolas, Menlo, monospace">#142</text>
-<use href="#flag-cl" xlink:href="#flag-cl" x="66.0" y="543"/>
-<text x="92.0" y="554" font-size="12" fill="#e2e8f0">UCV</text>
-<rect x="377.0" y="538" width="349.0" height="22" rx="4" fill="#121b30"/>
+<text x="27.0" y="554" font-size="12.5" font-weight="700" fill="#0891b2" font-family="Consolas, Menlo, monospace">#142</text>
+<use href="#flag-cl" xlink:href="#flag-cl" x="64.0" y="543"/>
+<text x="84.0" y="554" font-size="10" opacity="0.95">🇨🇱</text>
+<text x="98.0" y="554" font-size="12" fill="#e2e8f0">UCV</text>
+<rect x="377.0" y="538" width="349.0" height="22" rx="5" fill="#121b30"/>
 <title>#143 · 🇨🇱 CL — UCV 2 (Universitarios)</title>
-<text x="383.0" y="554" font-size="12.5" font-weight="700" fill="#0891b2" font-family="Consolas, Menlo, monospace">#143</text>
-<use href="#flag-cl" xlink:href="#flag-cl" x="423.0" y="543"/>
-<text x="449.0" y="554" font-size="12" fill="#e2e8f0">UCV 2</text>
-<rect x="734.0" y="538" width="349.0" height="22" rx="4" fill="#121b30"/>
+<text x="384.0" y="554" font-size="12.5" font-weight="700" fill="#0891b2" font-family="Consolas, Menlo, monospace">#143</text>
+<use href="#flag-cl" xlink:href="#flag-cl" x="421.0" y="543"/>
+<text x="441.0" y="554" font-size="10" opacity="0.95">🇨🇱</text>
+<text x="455.0" y="554" font-size="12" fill="#e2e8f0">UCV 2</text>
+<rect x="734.0" y="538" width="349.0" height="22" rx="5" fill="#121b30"/>
 <title>#144 · 🇨🇱 CL — Valparaiso Sporting (Deportes)</title>
-<text x="740.0" y="554" font-size="12.5" font-weight="700" fill="#0891b2" font-family="Consolas, Menlo, monospace">#144</text>
-<use href="#flag-cl" xlink:href="#flag-cl" x="780.0" y="543"/>
-<text x="806.0" y="554" font-size="12" fill="#e2e8f0">Valparaiso Sporting</text>
-<rect x="1091.0" y="538" width="349.0" height="22" rx="4" fill="#121b30"/>
+<text x="741.0" y="554" font-size="12.5" font-weight="700" fill="#0891b2" font-family="Consolas, Menlo, monospace">#144</text>
+<use href="#flag-cl" xlink:href="#flag-cl" x="778.0" y="543"/>
+<text x="798.0" y="554" font-size="10" opacity="0.95">🇨🇱</text>
+<text x="812.0" y="554" font-size="12" fill="#e2e8f0">Valparaiso Sporting</text>
+<rect x="1091.0" y="538" width="349.0" height="22" rx="5" fill="#121b30"/>
 <title>#145 · 🇨🇱 CL — Vida Nueva TV (Regionales)</title>
-<text x="1097.0" y="554" font-size="12.5" font-weight="700" fill="#0891b2" font-family="Consolas, Menlo, monospace">#145</text>
-<use href="#flag-cl" xlink:href="#flag-cl" x="1137.0" y="543"/>
-<text x="1163.0" y="554" font-size="12" fill="#e2e8f0">Vida Nueva TV</text>
-<rect x="20.0" y="562" width="349.0" height="22" rx="4" fill="#0f172a"/>
+<text x="1098.0" y="554" font-size="12.5" font-weight="700" fill="#0891b2" font-family="Consolas, Menlo, monospace">#145</text>
+<use href="#flag-cl" xlink:href="#flag-cl" x="1135.0" y="543"/>
+<text x="1155.0" y="554" font-size="10" opacity="0.95">🇨🇱</text>
+<text x="1169.0" y="554" font-size="12" fill="#e2e8f0">Vida Nueva TV</text>
+<rect x="20.0" y="562" width="349.0" height="22" rx="5" fill="#0f172a"/>
 <title>#146 · 🇨🇱 CL — VTV (Regionales)</title>
-<text x="26.0" y="578" font-size="12.5" font-weight="700" fill="#0891b2" font-family="Consolas, Menlo, monospace">#146</text>
-<use href="#flag-cl" xlink:href="#flag-cl" x="66.0" y="567"/>
-<text x="92.0" y="578" font-size="12" fill="#e2e8f0">VTV</text>
-<rect x="377.0" y="562" width="349.0" height="22" rx="4" fill="#0f172a"/>
+<text x="27.0" y="578" font-size="12.5" font-weight="700" fill="#0891b2" font-family="Consolas, Menlo, monospace">#146</text>
+<use href="#flag-cl" xlink:href="#flag-cl" x="64.0" y="567"/>
+<text x="84.0" y="578" font-size="10" opacity="0.95">🇨🇱</text>
+<text x="98.0" y="578" font-size="12" fill="#e2e8f0">VTV</text>
+<rect x="377.0" y="562" width="349.0" height="22" rx="5" fill="#0f172a"/>
 <title>#147 · 🇨🇱 CL — VTV Quillota (Regionales)</title>
-<text x="383.0" y="578" font-size="12.5" font-weight="700" fill="#0891b2" font-family="Consolas, Menlo, monospace">#147</text>
-<use href="#flag-cl" xlink:href="#flag-cl" x="423.0" y="567"/>
-<text x="449.0" y="578" font-size="12" fill="#e2e8f0">VTV Quillota</text>
-<rect x="734.0" y="562" width="349.0" height="22" rx="4" fill="#0f172a"/>
+<text x="384.0" y="578" font-size="12.5" font-weight="700" fill="#0891b2" font-family="Consolas, Menlo, monospace">#147</text>
+<use href="#flag-cl" xlink:href="#flag-cl" x="421.0" y="567"/>
+<text x="441.0" y="578" font-size="10" opacity="0.95">🇨🇱</text>
+<text x="455.0" y="578" font-size="12" fill="#e2e8f0">VTV Quillota</text>
+<rect x="734.0" y="562" width="349.0" height="22" rx="5" fill="#0f172a"/>
 <title>#148 · 🇨🇱 CL — Autonoma Radio (Radio)</title>
-<text x="740.0" y="578" font-size="12.5" font-weight="700" fill="#0891b2" font-family="Consolas, Menlo, monospace">#148</text>
-<use href="#flag-cl" xlink:href="#flag-cl" x="780.0" y="567"/>
-<text x="806.0" y="578" font-size="12" fill="#e2e8f0">Autonoma Radio</text>
-<rect x="1091.0" y="562" width="349.0" height="22" rx="4" fill="#0f172a"/>
+<text x="741.0" y="578" font-size="12.5" font-weight="700" fill="#0891b2" font-family="Consolas, Menlo, monospace">#148</text>
+<use href="#flag-cl" xlink:href="#flag-cl" x="778.0" y="567"/>
+<text x="798.0" y="578" font-size="10" opacity="0.95">🇨🇱</text>
+<text x="812.0" y="578" font-size="12" fill="#e2e8f0">Autonoma Radio</text>
+<rect x="1091.0" y="562" width="349.0" height="22" rx="5" fill="#0f172a"/>
 <title>#149 · 🇨🇱 CL — Autonoma TV (Regionales)</title>
-<text x="1097.0" y="578" font-size="12.5" font-weight="700" fill="#0891b2" font-family="Consolas, Menlo, monospace">#149</text>
-<use href="#flag-cl" xlink:href="#flag-cl" x="1137.0" y="567"/>
-<text x="1163.0" y="578" font-size="12" fill="#e2e8f0">Autonoma TV</text>
-<rect x="20.0" y="586" width="349.0" height="22" rx="4" fill="#121b30"/>
+<text x="1098.0" y="578" font-size="12.5" font-weight="700" fill="#0891b2" font-family="Consolas, Menlo, monospace">#149</text>
+<use href="#flag-cl" xlink:href="#flag-cl" x="1135.0" y="567"/>
+<text x="1155.0" y="578" font-size="10" opacity="0.95">🇨🇱</text>
+<text x="1169.0" y="578" font-size="12" fill="#e2e8f0">Autonoma TV</text>
+<rect x="20.0" y="586" width="349.0" height="22" rx="5" fill="#121b30"/>
 <title>#150 · 🇨🇱 CL — Canal ISB (Religiosos)</title>
-<text x="26.0" y="602" font-size="12.5" font-weight="700" fill="#0891b2" font-family="Consolas, Menlo, monospace">#150</text>
-<use href="#flag-cl" xlink:href="#flag-cl" x="66.0" y="591"/>
-<text x="92.0" y="602" font-size="12" fill="#e2e8f0">Canal ISB</text>
-<rect x="377.0" y="586" width="349.0" height="22" rx="4" fill="#121b30"/>
+<text x="27.0" y="602" font-size="12.5" font-weight="700" fill="#0891b2" font-family="Consolas, Menlo, monospace">#150</text>
+<use href="#flag-cl" xlink:href="#flag-cl" x="64.0" y="591"/>
+<text x="84.0" y="602" font-size="10" opacity="0.95">🇨🇱</text>
+<text x="98.0" y="602" font-size="12" fill="#e2e8f0">Canal ISB</text>
+<rect x="377.0" y="586" width="349.0" height="22" rx="5" fill="#121b30"/>
 <title>#151 · 🇨🇱 CL — ChocolateFM (Radio)</title>
-<text x="383.0" y="602" font-size="12.5" font-weight="700" fill="#0891b2" font-family="Consolas, Menlo, monospace">#151</text>
-<use href="#flag-cl" xlink:href="#flag-cl" x="423.0" y="591"/>
-<text x="449.0" y="602" font-size="12" fill="#e2e8f0">ChocolateFM</text>
-<rect x="734.0" y="586" width="349.0" height="22" rx="4" fill="#121b30"/>
+<text x="384.0" y="602" font-size="12.5" font-weight="700" fill="#0891b2" font-family="Consolas, Menlo, monospace">#151</text>
+<use href="#flag-cl" xlink:href="#flag-cl" x="421.0" y="591"/>
+<text x="441.0" y="602" font-size="10" opacity="0.95">🇨🇱</text>
+<text x="455.0" y="602" font-size="12" fill="#e2e8f0">ChocolateFM</text>
+<rect x="734.0" y="586" width="349.0" height="22" rx="5" fill="#121b30"/>
 <title>#152 · 🇨🇱 CL — El Conquistador Santiago (Radio)</title>
-<text x="740.0" y="602" font-size="12.5" font-weight="700" fill="#0891b2" font-family="Consolas, Menlo, monospace">#152</text>
-<use href="#flag-cl" xlink:href="#flag-cl" x="780.0" y="591"/>
-<text x="806.0" y="602" font-size="12" fill="#e2e8f0">El Conquistador Santiago</text>
-<rect x="1091.0" y="586" width="349.0" height="22" rx="4" fill="#121b30"/>
+<text x="741.0" y="602" font-size="12.5" font-weight="700" fill="#0891b2" font-family="Consolas, Menlo, monospace">#152</text>
+<use href="#flag-cl" xlink:href="#flag-cl" x="778.0" y="591"/>
+<text x="798.0" y="602" font-size="10" opacity="0.95">🇨🇱</text>
+<text x="812.0" y="602" font-size="12" fill="#e2e8f0">El Conquistador Santiago</text>
+<rect x="1091.0" y="586" width="349.0" height="22" rx="5" fill="#121b30"/>
 <title>#153 · 🇨🇱 CL — Emocion TV (Radio)</title>
-<text x="1097.0" y="602" font-size="12.5" font-weight="700" fill="#0891b2" font-family="Consolas, Menlo, monospace">#153</text>
-<use href="#flag-cl" xlink:href="#flag-cl" x="1137.0" y="591"/>
-<text x="1163.0" y="602" font-size="12" fill="#e2e8f0">Emocion TV</text>
-<rect x="20.0" y="610" width="349.0" height="22" rx="4" fill="#0f172a"/>
+<text x="1098.0" y="602" font-size="12.5" font-weight="700" fill="#0891b2" font-family="Consolas, Menlo, monospace">#153</text>
+<use href="#flag-cl" xlink:href="#flag-cl" x="1135.0" y="591"/>
+<text x="1155.0" y="602" font-size="10" opacity="0.95">🇨🇱</text>
+<text x="1169.0" y="602" font-size="12" fill="#e2e8f0">Emocion TV</text>
+<rect x="20.0" y="610" width="349.0" height="22" rx="5" fill="#0f172a"/>
 <title>#154 · 🇨🇱 CL — Enlace BPB (Religiosos)</title>
-<text x="26.0" y="626" font-size="12.5" font-weight="700" fill="#0891b2" font-family="Consolas, Menlo, monospace">#154</text>
-<use href="#flag-cl" xlink:href="#flag-cl" x="66.0" y="615"/>
-<text x="92.0" y="626" font-size="12" fill="#e2e8f0">Enlace BPB</text>
-<rect x="377.0" y="610" width="349.0" height="22" rx="4" fill="#0f172a"/>
+<text x="27.0" y="626" font-size="12.5" font-weight="700" fill="#0891b2" font-family="Consolas, Menlo, monospace">#154</text>
+<use href="#flag-cl" xlink:href="#flag-cl" x="64.0" y="615"/>
+<text x="84.0" y="626" font-size="10" opacity="0.95">🇨🇱</text>
+<text x="98.0" y="626" font-size="12" fill="#e2e8f0">Enlace BPB</text>
+<rect x="377.0" y="610" width="349.0" height="22" rx="5" fill="#0f172a"/>
 <title>#155 · 🇨🇱 CL — Fortaleza TV (Religiosos)</title>
-<text x="383.0" y="626" font-size="12.5" font-weight="700" fill="#0891b2" font-family="Consolas, Menlo, monospace">#155</text>
-<use href="#flag-cl" xlink:href="#flag-cl" x="423.0" y="615"/>
-<text x="449.0" y="626" font-size="12" fill="#e2e8f0">Fortaleza TV</text>
-<rect x="734.0" y="610" width="349.0" height="22" rx="4" fill="#0f172a"/>
+<text x="384.0" y="626" font-size="12.5" font-weight="700" fill="#0891b2" font-family="Consolas, Menlo, monospace">#155</text>
+<use href="#flag-cl" xlink:href="#flag-cl" x="421.0" y="615"/>
+<text x="441.0" y="626" font-size="10" opacity="0.95">🇨🇱</text>
+<text x="455.0" y="626" font-size="12" fill="#e2e8f0">Fortaleza TV</text>
+<rect x="734.0" y="610" width="349.0" height="22" rx="5" fill="#0f172a"/>
 <title>#156 · 🇨🇱 CL — Gracia TV (Religiosos)</title>
-<text x="740.0" y="626" font-size="12.5" font-weight="700" fill="#0891b2" font-family="Consolas, Menlo, monospace">#156</text>
-<use href="#flag-cl" xlink:href="#flag-cl" x="780.0" y="615"/>
-<text x="806.0" y="626" font-size="12" fill="#e2e8f0">Gracia TV</text>
-<rect x="1091.0" y="610" width="349.0" height="22" rx="4" fill="#0f172a"/>
+<text x="741.0" y="626" font-size="12.5" font-weight="700" fill="#0891b2" font-family="Consolas, Menlo, monospace">#156</text>
+<use href="#flag-cl" xlink:href="#flag-cl" x="778.0" y="615"/>
+<text x="798.0" y="626" font-size="10" opacity="0.95">🇨🇱</text>
+<text x="812.0" y="626" font-size="12" fill="#e2e8f0">Gracia TV</text>
+<rect x="1091.0" y="610" width="349.0" height="22" rx="5" fill="#0f172a"/>
 <title>#157 · 🇨🇱 CL — La Granja FM (Comunitarios)</title>
-<text x="1097.0" y="626" font-size="12.5" font-weight="700" fill="#0891b2" font-family="Consolas, Menlo, monospace">#157</text>
-<use href="#flag-cl" xlink:href="#flag-cl" x="1137.0" y="615"/>
-<text x="1163.0" y="626" font-size="12" fill="#e2e8f0">La Granja FM</text>
-<rect x="20.0" y="634" width="349.0" height="22" rx="4" fill="#121b30"/>
+<text x="1098.0" y="626" font-size="12.5" font-weight="700" fill="#0891b2" font-family="Consolas, Menlo, monospace">#157</text>
+<use href="#flag-cl" xlink:href="#flag-cl" x="1135.0" y="615"/>
+<text x="1155.0" y="626" font-size="10" opacity="0.95">🇨🇱</text>
+<text x="1169.0" y="626" font-size="12" fill="#e2e8f0">La Granja FM</text>
+<rect x="20.0" y="634" width="349.0" height="22" rx="5" fill="#121b30"/>
 <title>#158 · 🇨🇱 CL — La Granja TV (Comunitarios)</title>
-<text x="26.0" y="650" font-size="12.5" font-weight="700" fill="#0891b2" font-family="Consolas, Menlo, monospace">#158</text>
-<use href="#flag-cl" xlink:href="#flag-cl" x="66.0" y="639"/>
-<text x="92.0" y="650" font-size="12" fill="#e2e8f0">La Granja TV</text>
-<rect x="377.0" y="634" width="349.0" height="22" rx="4" fill="#121b30"/>
+<text x="27.0" y="650" font-size="12.5" font-weight="700" fill="#0891b2" font-family="Consolas, Menlo, monospace">#158</text>
+<use href="#flag-cl" xlink:href="#flag-cl" x="64.0" y="639"/>
+<text x="84.0" y="650" font-size="10" opacity="0.95">🇨🇱</text>
+<text x="98.0" y="650" font-size="12" fill="#e2e8f0">La Granja TV</text>
+<rect x="377.0" y="634" width="349.0" height="22" rx="5" fill="#121b30"/>
 <title>#159 · 🇨🇱 CL — La Metro (Radio)</title>
-<text x="383.0" y="650" font-size="12.5" font-weight="700" fill="#0891b2" font-family="Consolas, Menlo, monospace">#159</text>
-<use href="#flag-cl" xlink:href="#flag-cl" x="423.0" y="639"/>
-<text x="449.0" y="650" font-size="12" fill="#e2e8f0">La Metro</text>
-<rect x="734.0" y="634" width="349.0" height="22" rx="4" fill="#121b30"/>
+<text x="384.0" y="650" font-size="12.5" font-weight="700" fill="#0891b2" font-family="Consolas, Menlo, monospace">#159</text>
+<use href="#flag-cl" xlink:href="#flag-cl" x="421.0" y="639"/>
+<text x="441.0" y="650" font-size="10" opacity="0.95">🇨🇱</text>
+<text x="455.0" y="650" font-size="12" fill="#e2e8f0">La Metro</text>
+<rect x="734.0" y="634" width="349.0" height="22" rx="5" fill="#121b30"/>
 <title>#160 · 🇨🇱 CL — NCTV (Religiosos)</title>
-<text x="740.0" y="650" font-size="12.5" font-weight="700" fill="#0891b2" font-family="Consolas, Menlo, monospace">#160</text>
-<use href="#flag-cl" xlink:href="#flag-cl" x="780.0" y="639"/>
-<text x="806.0" y="650" font-size="12" fill="#e2e8f0">NCTV</text>
-<rect x="1091.0" y="634" width="349.0" height="22" rx="4" fill="#121b30"/>
+<text x="741.0" y="650" font-size="12.5" font-weight="700" fill="#0891b2" font-family="Consolas, Menlo, monospace">#160</text>
+<use href="#flag-cl" xlink:href="#flag-cl" x="778.0" y="639"/>
+<text x="798.0" y="650" font-size="10" opacity="0.95">🇨🇱</text>
+<text x="812.0" y="650" font-size="12" fill="#e2e8f0">NCTV</text>
+<rect x="1091.0" y="634" width="349.0" height="22" rx="5" fill="#121b30"/>
 <title>#161 · 🇨🇱 CL — Nina TV (Radio)</title>
-<text x="1097.0" y="650" font-size="12.5" font-weight="700" fill="#0891b2" font-family="Consolas, Menlo, monospace">#161</text>
-<use href="#flag-cl" xlink:href="#flag-cl" x="1137.0" y="639"/>
-<text x="1163.0" y="650" font-size="12" fill="#e2e8f0">Nina TV</text>
-<rect x="20.0" y="658" width="349.0" height="22" rx="4" fill="#0f172a"/>
+<text x="1098.0" y="650" font-size="12.5" font-weight="700" fill="#0891b2" font-family="Consolas, Menlo, monospace">#161</text>
+<use href="#flag-cl" xlink:href="#flag-cl" x="1135.0" y="639"/>
+<text x="1155.0" y="650" font-size="10" opacity="0.95">🇨🇱</text>
+<text x="1169.0" y="650" font-size="12" fill="#e2e8f0">Nina TV</text>
+<rect x="20.0" y="658" width="349.0" height="22" rx="5" fill="#0f172a"/>
 <title>#162 · 🇨🇱 CL — Providencia Television (Regionales)</title>
-<text x="26.0" y="674" font-size="12.5" font-weight="700" fill="#0891b2" font-family="Consolas, Menlo, monospace">#162</text>
-<use href="#flag-cl" xlink:href="#flag-cl" x="66.0" y="663"/>
-<text x="92.0" y="674" font-size="12" fill="#e2e8f0">Providencia Television</text>
-<rect x="377.0" y="658" width="349.0" height="22" rx="4" fill="#0f172a"/>
+<text x="27.0" y="674" font-size="12.5" font-weight="700" fill="#0891b2" font-family="Consolas, Menlo, monospace">#162</text>
+<use href="#flag-cl" xlink:href="#flag-cl" x="64.0" y="663"/>
+<text x="84.0" y="674" font-size="10" opacity="0.95">🇨🇱</text>
+<text x="98.0" y="674" font-size="12" fill="#e2e8f0">Providencia Television</text>
+<rect x="377.0" y="658" width="349.0" height="22" rx="5" fill="#0f172a"/>
 <title>#163 · 🇨🇱 CL — Radio Fantasia (Radio)</title>
-<text x="383.0" y="674" font-size="12.5" font-weight="700" fill="#0891b2" font-family="Consolas, Menlo, monospace">#163</text>
-<use href="#flag-cl" xlink:href="#flag-cl" x="423.0" y="663"/>
-<text x="449.0" y="674" font-size="12" fill="#e2e8f0">Radio Fantasia</text>
-<rect x="734.0" y="658" width="349.0" height="22" rx="4" fill="#0f172a"/>
+<text x="384.0" y="674" font-size="12.5" font-weight="700" fill="#0891b2" font-family="Consolas, Menlo, monospace">#163</text>
+<use href="#flag-cl" xlink:href="#flag-cl" x="421.0" y="663"/>
+<text x="441.0" y="674" font-size="10" opacity="0.95">🇨🇱</text>
+<text x="455.0" y="674" font-size="12" fill="#e2e8f0">Radio Fantasia</text>
+<rect x="734.0" y="658" width="349.0" height="22" rx="5" fill="#0f172a"/>
 <title>#164 · 🇨🇱 CL — Radio Fantasia TV (Radio)</title>
-<text x="740.0" y="674" font-size="12.5" font-weight="700" fill="#0891b2" font-family="Consolas, Menlo, monospace">#164</text>
-<use href="#flag-cl" xlink:href="#flag-cl" x="780.0" y="663"/>
-<text x="806.0" y="674" font-size="12" fill="#e2e8f0">Radio Fantasia TV</text>
-<rect x="1091.0" y="658" width="349.0" height="22" rx="4" fill="#0f172a"/>
+<text x="741.0" y="674" font-size="12.5" font-weight="700" fill="#0891b2" font-family="Consolas, Menlo, monospace">#164</text>
+<use href="#flag-cl" xlink:href="#flag-cl" x="778.0" y="663"/>
+<text x="798.0" y="674" font-size="10" opacity="0.95">🇨🇱</text>
+<text x="812.0" y="674" font-size="12" fill="#e2e8f0">Radio Fantasia TV</text>
+<rect x="1091.0" y="658" width="349.0" height="22" rx="5" fill="#0f172a"/>
 <title>#165 · 🇨🇱 CL — Radio Hoy (Radio)</title>
-<text x="1097.0" y="674" font-size="12.5" font-weight="700" fill="#0891b2" font-family="Consolas, Menlo, monospace">#165</text>
-<use href="#flag-cl" xlink:href="#flag-cl" x="1137.0" y="663"/>
-<text x="1163.0" y="674" font-size="12" fill="#e2e8f0">Radio Hoy</text>
-<rect x="20.0" y="682" width="349.0" height="22" rx="4" fill="#121b30"/>
+<text x="1098.0" y="674" font-size="12.5" font-weight="700" fill="#0891b2" font-family="Consolas, Menlo, monospace">#165</text>
+<use href="#flag-cl" xlink:href="#flag-cl" x="1135.0" y="663"/>
+<text x="1155.0" y="674" font-size="10" opacity="0.95">🇨🇱</text>
+<text x="1169.0" y="674" font-size="12" fill="#e2e8f0">Radio Hoy</text>
+<rect x="20.0" y="682" width="349.0" height="22" rx="5" fill="#121b30"/>
 <title>#166 · 🇨🇱 CL — Radio La Señal (Radio)</title>
-<text x="26.0" y="698" font-size="12.5" font-weight="700" fill="#0891b2" font-family="Consolas, Menlo, monospace">#166</text>
-<use href="#flag-cl" xlink:href="#flag-cl" x="66.0" y="687"/>
-<text x="92.0" y="698" font-size="12" fill="#e2e8f0">Radio La Señal</text>
-<rect x="377.0" y="682" width="349.0" height="22" rx="4" fill="#121b30"/>
+<text x="27.0" y="698" font-size="12.5" font-weight="700" fill="#0891b2" font-family="Consolas, Menlo, monospace">#166</text>
+<use href="#flag-cl" xlink:href="#flag-cl" x="64.0" y="687"/>
+<text x="84.0" y="698" font-size="10" opacity="0.95">🇨🇱</text>
+<text x="98.0" y="698" font-size="12" fill="#e2e8f0">Radio La Señal</text>
+<rect x="377.0" y="682" width="349.0" height="22" rx="5" fill="#121b30"/>
 <title>#167 · 🇨🇱 CL — Radio Mágica TV (Radio)</title>
-<text x="383.0" y="698" font-size="12.5" font-weight="700" fill="#0891b2" font-family="Consolas, Menlo, monospace">#167</text>
-<use href="#flag-cl" xlink:href="#flag-cl" x="423.0" y="687"/>
-<text x="449.0" y="698" font-size="12" fill="#e2e8f0">Radio Mágica TV</text>
-<rect x="734.0" y="682" width="349.0" height="22" rx="4" fill="#121b30"/>
+<text x="384.0" y="698" font-size="12.5" font-weight="700" fill="#0891b2" font-family="Consolas, Menlo, monospace">#167</text>
+<use href="#flag-cl" xlink:href="#flag-cl" x="421.0" y="687"/>
+<text x="441.0" y="698" font-size="10" opacity="0.95">🇨🇱</text>
+<text x="455.0" y="698" font-size="12" fill="#e2e8f0">Radio Mágica TV</text>
+<rect x="734.0" y="682" width="349.0" height="22" rx="5" fill="#121b30"/>
 <title>#168 · 🇨🇱 CL — Radio Mágica TV Señal 2 (Radio)</title>
-<text x="740.0" y="698" font-size="12.5" font-weight="700" fill="#0891b2" font-family="Consolas, Menlo, monospace">#168</text>
-<use href="#flag-cl" xlink:href="#flag-cl" x="780.0" y="687"/>
-<text x="806.0" y="698" font-size="12" fill="#e2e8f0">Radio Mágica TV Señal 2</text>
-<rect x="1091.0" y="682" width="349.0" height="22" rx="4" fill="#121b30"/>
+<text x="741.0" y="698" font-size="12.5" font-weight="700" fill="#0891b2" font-family="Consolas, Menlo, monospace">#168</text>
+<use href="#flag-cl" xlink:href="#flag-cl" x="778.0" y="687"/>
+<text x="798.0" y="698" font-size="10" opacity="0.95">🇨🇱</text>
+<text x="812.0" y="698" font-size="12" fill="#e2e8f0">Radio Mágica TV Señal 2</text>
+<rect x="1091.0" y="682" width="349.0" height="22" rx="5" fill="#121b30"/>
 <title>#169 · 🇨🇱 CL — Radio Portales (Radio)</title>
-<text x="1097.0" y="698" font-size="12.5" font-weight="700" fill="#0891b2" font-family="Consolas, Menlo, monospace">#169</text>
-<use href="#flag-cl" xlink:href="#flag-cl" x="1137.0" y="687"/>
-<text x="1163.0" y="698" font-size="12" fill="#e2e8f0">Radio Portales</text>
-<rect x="20.0" y="706" width="349.0" height="22" rx="4" fill="#0f172a"/>
+<text x="1098.0" y="698" font-size="12.5" font-weight="700" fill="#0891b2" font-family="Consolas, Menlo, monospace">#169</text>
+<use href="#flag-cl" xlink:href="#flag-cl" x="1135.0" y="687"/>
+<text x="1155.0" y="698" font-size="10" opacity="0.95">🇨🇱</text>
+<text x="1169.0" y="698" font-size="12" fill="#e2e8f0">Radio Portales</text>
+<rect x="20.0" y="706" width="349.0" height="22" rx="5" fill="#0f172a"/>
 <title>#170 · 🇨🇱 CL — Radio UC (Radio)</title>
-<text x="26.0" y="722" font-size="12.5" font-weight="700" fill="#0891b2" font-family="Consolas, Menlo, monospace">#170</text>
-<use href="#flag-cl" xlink:href="#flag-cl" x="66.0" y="711"/>
-<text x="92.0" y="722" font-size="12" fill="#e2e8f0">Radio UC</text>
-<rect x="377.0" y="706" width="349.0" height="22" rx="4" fill="#0f172a"/>
+<text x="27.0" y="722" font-size="12.5" font-weight="700" fill="#0891b2" font-family="Consolas, Menlo, monospace">#170</text>
+<use href="#flag-cl" xlink:href="#flag-cl" x="64.0" y="711"/>
+<text x="84.0" y="722" font-size="10" opacity="0.95">🇨🇱</text>
+<text x="98.0" y="722" font-size="12" fill="#e2e8f0">Radio UC</text>
+<rect x="377.0" y="706" width="349.0" height="22" rx="5" fill="#0f172a"/>
 <title>#171 · 🇨🇱 CL — RialTv (Regionales)</title>
-<text x="383.0" y="722" font-size="12.5" font-weight="700" fill="#0891b2" font-family="Consolas, Menlo, monospace">#171</text>
-<use href="#flag-cl" xlink:href="#flag-cl" x="423.0" y="711"/>
-<text x="449.0" y="722" font-size="12" fill="#e2e8f0">RialTv</text>
-<rect x="734.0" y="706" width="349.0" height="22" rx="4" fill="#0f172a"/>
+<text x="384.0" y="722" font-size="12.5" font-weight="700" fill="#0891b2" font-family="Consolas, Menlo, monospace">#171</text>
+<use href="#flag-cl" xlink:href="#flag-cl" x="421.0" y="711"/>
+<text x="441.0" y="722" font-size="10" opacity="0.95">🇨🇱</text>
+<text x="455.0" y="722" font-size="12" fill="#e2e8f0">RialTv</text>
+<rect x="734.0" y="706" width="349.0" height="22" rx="5" fill="#0f172a"/>
 <title>#172 · 🇨🇱 CL — ShowtimeTV (General)</title>
-<text x="740.0" y="722" font-size="12.5" font-weight="700" fill="#0891b2" font-family="Consolas, Menlo, monospace">#172</text>
-<use href="#flag-cl" xlink:href="#flag-cl" x="780.0" y="711"/>
-<text x="806.0" y="722" font-size="12" fill="#e2e8f0">ShowtimeTV</text>
-<rect x="1091.0" y="706" width="349.0" height="22" rx="4" fill="#0f172a"/>
+<text x="741.0" y="722" font-size="12.5" font-weight="700" fill="#0891b2" font-family="Consolas, Menlo, monospace">#172</text>
+<use href="#flag-cl" xlink:href="#flag-cl" x="778.0" y="711"/>
+<text x="798.0" y="722" font-size="10" opacity="0.95">🇨🇱</text>
+<text x="812.0" y="722" font-size="12" fill="#e2e8f0">ShowtimeTV</text>
+<rect x="1091.0" y="706" width="349.0" height="22" rx="5" fill="#0f172a"/>
 <title>#173 · 🇨🇱 CL — Tendencias Prime (Regionales)</title>
-<text x="1097.0" y="722" font-size="12.5" font-weight="700" fill="#0891b2" font-family="Consolas, Menlo, monospace">#173</text>
-<use href="#flag-cl" xlink:href="#flag-cl" x="1137.0" y="711"/>
-<text x="1163.0" y="722" font-size="12" fill="#e2e8f0">Tendencias Prime</text>
-<rect x="20.0" y="730" width="349.0" height="22" rx="4" fill="#121b30"/>
+<text x="1098.0" y="722" font-size="12.5" font-weight="700" fill="#0891b2" font-family="Consolas, Menlo, monospace">#173</text>
+<use href="#flag-cl" xlink:href="#flag-cl" x="1135.0" y="711"/>
+<text x="1155.0" y="722" font-size="10" opacity="0.95">🇨🇱</text>
+<text x="1169.0" y="722" font-size="12" fill="#e2e8f0">Tendencias Prime</text>
+<rect x="20.0" y="730" width="349.0" height="22" rx="5" fill="#121b30"/>
 <title>#174 · 🇨🇱 CL — TNE (Religiosos)</title>
-<text x="26.0" y="746" font-size="12.5" font-weight="700" fill="#0891b2" font-family="Consolas, Menlo, monospace">#174</text>
-<use href="#flag-cl" xlink:href="#flag-cl" x="66.0" y="735"/>
-<text x="92.0" y="746" font-size="12" fill="#e2e8f0">TNE</text>
-<rect x="377.0" y="730" width="349.0" height="22" rx="4" fill="#121b30"/>
+<text x="27.0" y="746" font-size="12.5" font-weight="700" fill="#0891b2" font-family="Consolas, Menlo, monospace">#174</text>
+<use href="#flag-cl" xlink:href="#flag-cl" x="64.0" y="735"/>
+<text x="84.0" y="746" font-size="10" opacity="0.95">🇨🇱</text>
+<text x="98.0" y="746" font-size="12" fill="#e2e8f0">TNE</text>
+<rect x="377.0" y="730" width="349.0" height="22" rx="5" fill="#121b30"/>
 <title>#175 · 🇨🇱 CL — TV USACH (Universitarios)</title>
-<text x="383.0" y="746" font-size="12.5" font-weight="700" fill="#0891b2" font-family="Consolas, Menlo, monospace">#175</text>
-<use href="#flag-cl" xlink:href="#flag-cl" x="423.0" y="735"/>
-<text x="449.0" y="746" font-size="12" fill="#e2e8f0">TV USACH</text>
-<rect x="734.0" y="730" width="349.0" height="22" rx="4" fill="#121b30"/>
+<text x="384.0" y="746" font-size="12.5" font-weight="700" fill="#0891b2" font-family="Consolas, Menlo, monospace">#175</text>
+<use href="#flag-cl" xlink:href="#flag-cl" x="421.0" y="735"/>
+<text x="441.0" y="746" font-size="10" opacity="0.95">🇨🇱</text>
+<text x="455.0" y="746" font-size="12" fill="#e2e8f0">TV USACH</text>
+<rect x="734.0" y="730" width="349.0" height="22" rx="5" fill="#121b30"/>
 <title>#176 · 🇨🇱 CL — TVR (Regionales)</title>
-<text x="740.0" y="746" font-size="12.5" font-weight="700" fill="#0891b2" font-family="Consolas, Menlo, monospace">#176</text>
-<use href="#flag-cl" xlink:href="#flag-cl" x="780.0" y="735"/>
-<text x="806.0" y="746" font-size="12" fill="#e2e8f0">TVR</text>
-<rect x="1091.0" y="730" width="349.0" height="22" rx="4" fill="#121b30"/>
+<text x="741.0" y="746" font-size="12.5" font-weight="700" fill="#0891b2" font-family="Consolas, Menlo, monospace">#176</text>
+<use href="#flag-cl" xlink:href="#flag-cl" x="778.0" y="735"/>
+<text x="798.0" y="746" font-size="10" opacity="0.95">🇨🇱</text>
+<text x="812.0" y="746" font-size="12" fill="#e2e8f0">TVR</text>
+<rect x="1091.0" y="730" width="349.0" height="22" rx="5" fill="#121b30"/>
 <title>#177 · 🇨🇱 CL — U Chile TV (Universitarios)</title>
-<text x="1097.0" y="746" font-size="12.5" font-weight="700" fill="#0891b2" font-family="Consolas, Menlo, monospace">#177</text>
-<use href="#flag-cl" xlink:href="#flag-cl" x="1137.0" y="735"/>
-<text x="1163.0" y="746" font-size="12" fill="#e2e8f0">U Chile TV</text>
-<rect x="20.0" y="754" width="349.0" height="22" rx="4" fill="#0f172a"/>
+<text x="1098.0" y="746" font-size="12.5" font-weight="700" fill="#0891b2" font-family="Consolas, Menlo, monospace">#177</text>
+<use href="#flag-cl" xlink:href="#flag-cl" x="1135.0" y="735"/>
+<text x="1155.0" y="746" font-size="10" opacity="0.95">🇨🇱</text>
+<text x="1169.0" y="746" font-size="12" fill="#e2e8f0">U Chile TV</text>
+<rect x="20.0" y="754" width="349.0" height="22" rx="5" fill="#0f172a"/>
 <title>#178 · 🇨🇱 CL — UesTV (Universitarios)</title>
-<text x="26.0" y="770" font-size="12.5" font-weight="700" fill="#0891b2" font-family="Consolas, Menlo, monospace">#178</text>
-<use href="#flag-cl" xlink:href="#flag-cl" x="66.0" y="759"/>
-<text x="92.0" y="770" font-size="12" fill="#e2e8f0">UesTV</text>
-<rect x="377.0" y="754" width="349.0" height="22" rx="4" fill="#0f172a"/>
+<text x="27.0" y="770" font-size="12.5" font-weight="700" fill="#0891b2" font-family="Consolas, Menlo, monospace">#178</text>
+<use href="#flag-cl" xlink:href="#flag-cl" x="64.0" y="759"/>
+<text x="84.0" y="770" font-size="10" opacity="0.95">🇨🇱</text>
+<text x="98.0" y="770" font-size="12" fill="#e2e8f0">UesTV</text>
+<rect x="377.0" y="754" width="349.0" height="22" rx="5" fill="#0f172a"/>
 <title>#179 · 🇨🇱 CL — Unetev (Comunitarios)</title>
-<text x="383.0" y="770" font-size="12.5" font-weight="700" fill="#0891b2" font-family="Consolas, Menlo, monospace">#179</text>
-<use href="#flag-cl" xlink:href="#flag-cl" x="423.0" y="759"/>
-<text x="449.0" y="770" font-size="12" fill="#e2e8f0">Unetev</text>
-<rect x="734.0" y="754" width="349.0" height="22" rx="4" fill="#0f172a"/>
+<text x="384.0" y="770" font-size="12.5" font-weight="700" fill="#0891b2" font-family="Consolas, Menlo, monospace">#179</text>
+<use href="#flag-cl" xlink:href="#flag-cl" x="421.0" y="759"/>
+<text x="441.0" y="770" font-size="10" opacity="0.95">🇨🇱</text>
+<text x="455.0" y="770" font-size="12" fill="#e2e8f0">Unetev</text>
+<rect x="734.0" y="754" width="349.0" height="22" rx="5" fill="#0f172a"/>
 <title>#180 · 🇨🇱 CL — Vida TV (Religiosos)</title>
-<text x="740.0" y="770" font-size="12.5" font-weight="700" fill="#0891b2" font-family="Consolas, Menlo, monospace">#180</text>
-<use href="#flag-cl" xlink:href="#flag-cl" x="780.0" y="759"/>
-<text x="806.0" y="770" font-size="12" fill="#e2e8f0">Vida TV</text>
-<rect x="1091.0" y="754" width="349.0" height="22" rx="4" fill="#0f172a"/>
+<text x="741.0" y="770" font-size="12.5" font-weight="700" fill="#0891b2" font-family="Consolas, Menlo, monospace">#180</text>
+<use href="#flag-cl" xlink:href="#flag-cl" x="778.0" y="759"/>
+<text x="798.0" y="770" font-size="10" opacity="0.95">🇨🇱</text>
+<text x="812.0" y="770" font-size="12" fill="#e2e8f0">Vida TV</text>
+<rect x="1091.0" y="754" width="349.0" height="22" rx="5" fill="#0f172a"/>
 <title>#181 · 🇨🇱 CL — Vision Plus TV (Regionales)</title>
-<text x="1097.0" y="770" font-size="12.5" font-weight="700" fill="#0891b2" font-family="Consolas, Menlo, monospace">#181</text>
-<use href="#flag-cl" xlink:href="#flag-cl" x="1137.0" y="759"/>
-<text x="1163.0" y="770" font-size="12" fill="#e2e8f0">Vision Plus TV</text>
-<rect x="20.0" y="778" width="349.0" height="22" rx="4" fill="#121b30"/>
+<text x="1098.0" y="770" font-size="12.5" font-weight="700" fill="#0891b2" font-family="Consolas, Menlo, monospace">#181</text>
+<use href="#flag-cl" xlink:href="#flag-cl" x="1135.0" y="759"/>
+<text x="1155.0" y="770" font-size="10" opacity="0.95">🇨🇱</text>
+<text x="1169.0" y="770" font-size="12" fill="#e2e8f0">Vision Plus TV</text>
+<rect x="20.0" y="778" width="349.0" height="22" rx="5" fill="#121b30"/>
 <title>#182 · 🇨🇱 CL — WappTV (Regionales)</title>
-<text x="26.0" y="794" font-size="12.5" font-weight="700" fill="#0891b2" font-family="Consolas, Menlo, monospace">#182</text>
-<use href="#flag-cl" xlink:href="#flag-cl" x="66.0" y="783"/>
-<text x="92.0" y="794" font-size="12" fill="#e2e8f0">WappTV</text>
-<rect x="377.0" y="778" width="349.0" height="22" rx="4" fill="#121b30"/>
+<text x="27.0" y="794" font-size="12.5" font-weight="700" fill="#0891b2" font-family="Consolas, Menlo, monospace">#182</text>
+<use href="#flag-cl" xlink:href="#flag-cl" x="64.0" y="783"/>
+<text x="84.0" y="794" font-size="10" opacity="0.95">🇨🇱</text>
+<text x="98.0" y="794" font-size="12" fill="#e2e8f0">WappTV</text>
+<rect x="377.0" y="778" width="349.0" height="22" rx="5" fill="#121b30"/>
 <title>#183 · 🇨🇱 CL — Zona Sur TV (Regionales)</title>
-<text x="383.0" y="794" font-size="12.5" font-weight="700" fill="#0891b2" font-family="Consolas, Menlo, monospace">#183</text>
-<use href="#flag-cl" xlink:href="#flag-cl" x="423.0" y="783"/>
-<text x="449.0" y="794" font-size="12" fill="#e2e8f0">Zona Sur TV</text>
-<rect x="734.0" y="778" width="349.0" height="22" rx="4" fill="#121b30"/>
+<text x="384.0" y="794" font-size="12.5" font-weight="700" fill="#0891b2" font-family="Consolas, Menlo, monospace">#183</text>
+<use href="#flag-cl" xlink:href="#flag-cl" x="421.0" y="783"/>
+<text x="441.0" y="794" font-size="10" opacity="0.95">🇨🇱</text>
+<text x="455.0" y="794" font-size="12" fill="#e2e8f0">Zona Sur TV</text>
+<rect x="734.0" y="778" width="349.0" height="22" rx="5" fill="#121b30"/>
 <title>#184 · 🇨🇱 CL — Ekiz TV (Regionales)</title>
-<text x="740.0" y="794" font-size="12.5" font-weight="700" fill="#0891b2" font-family="Consolas, Menlo, monospace">#184</text>
-<use href="#flag-cl" xlink:href="#flag-cl" x="780.0" y="783"/>
-<text x="806.0" y="794" font-size="12" fill="#e2e8f0">Ekiz TV</text>
-<rect x="1091.0" y="778" width="349.0" height="22" rx="4" fill="#121b30"/>
+<text x="741.0" y="794" font-size="12.5" font-weight="700" fill="#0891b2" font-family="Consolas, Menlo, monospace">#184</text>
+<use href="#flag-cl" xlink:href="#flag-cl" x="778.0" y="783"/>
+<text x="798.0" y="794" font-size="10" opacity="0.95">🇨🇱</text>
+<text x="812.0" y="794" font-size="12" fill="#e2e8f0">Ekiz TV</text>
+<rect x="1091.0" y="778" width="349.0" height="22" rx="5" fill="#121b30"/>
 <title>#185 · 🇨🇱 CL — La Comarca TV (Regionales)</title>
-<text x="1097.0" y="794" font-size="12.5" font-weight="700" fill="#0891b2" font-family="Consolas, Menlo, monospace">#185</text>
-<use href="#flag-cl" xlink:href="#flag-cl" x="1137.0" y="783"/>
-<text x="1163.0" y="794" font-size="12" fill="#e2e8f0">La Comarca TV</text>
-<rect x="20.0" y="802" width="349.0" height="22" rx="4" fill="#0f172a"/>
+<text x="1098.0" y="794" font-size="12.5" font-weight="700" fill="#0891b2" font-family="Consolas, Menlo, monospace">#185</text>
+<use href="#flag-cl" xlink:href="#flag-cl" x="1135.0" y="783"/>
+<text x="1155.0" y="794" font-size="10" opacity="0.95">🇨🇱</text>
+<text x="1169.0" y="794" font-size="12" fill="#e2e8f0">La Comarca TV</text>
+<rect x="20.0" y="802" width="349.0" height="22" rx="5" fill="#0f172a"/>
 <title>#186 · 🇨🇱 CL — Pichilemu TV (Comunitarios)</title>
-<text x="26.0" y="818" font-size="12.5" font-weight="700" fill="#0891b2" font-family="Consolas, Menlo, monospace">#186</text>
-<use href="#flag-cl" xlink:href="#flag-cl" x="66.0" y="807"/>
-<text x="92.0" y="818" font-size="12" fill="#e2e8f0">Pichilemu TV</text>
-<rect x="377.0" y="802" width="349.0" height="22" rx="4" fill="#0f172a"/>
+<text x="27.0" y="818" font-size="12.5" font-weight="700" fill="#0891b2" font-family="Consolas, Menlo, monospace">#186</text>
+<use href="#flag-cl" xlink:href="#flag-cl" x="64.0" y="807"/>
+<text x="84.0" y="818" font-size="10" opacity="0.95">🇨🇱</text>
+<text x="98.0" y="818" font-size="12" fill="#e2e8f0">Pichilemu TV</text>
+<rect x="377.0" y="802" width="349.0" height="22" rx="5" fill="#0f172a"/>
 <title>#187 · 🇨🇱 CL — Radio Bienvenida FM (Radio)</title>
-<text x="383.0" y="818" font-size="12.5" font-weight="700" fill="#0891b2" font-family="Consolas, Menlo, monospace">#187</text>
-<use href="#flag-cl" xlink:href="#flag-cl" x="423.0" y="807"/>
-<text x="449.0" y="818" font-size="12" fill="#e2e8f0">Radio Bienvenida FM</text>
-<rect x="734.0" y="802" width="349.0" height="22" rx="4" fill="#0f172a"/>
+<text x="384.0" y="818" font-size="12.5" font-weight="700" fill="#0891b2" font-family="Consolas, Menlo, monospace">#187</text>
+<use href="#flag-cl" xlink:href="#flag-cl" x="421.0" y="807"/>
+<text x="441.0" y="818" font-size="10" opacity="0.95">🇨🇱</text>
+<text x="455.0" y="818" font-size="12" fill="#e2e8f0">Radio Bienvenida FM</text>
+<rect x="734.0" y="802" width="349.0" height="22" rx="5" fill="#0f172a"/>
 <title>#188 · 🇨🇱 CL — Radio Fiessta (Radio)</title>
-<text x="740.0" y="818" font-size="12.5" font-weight="700" fill="#0891b2" font-family="Consolas, Menlo, monospace">#188</text>
-<use href="#flag-cl" xlink:href="#flag-cl" x="780.0" y="807"/>
-<text x="806.0" y="818" font-size="12" fill="#e2e8f0">Radio Fiessta</text>
-<rect x="1091.0" y="802" width="349.0" height="22" rx="4" fill="#0f172a"/>
+<text x="741.0" y="818" font-size="12.5" font-weight="700" fill="#0891b2" font-family="Consolas, Menlo, monospace">#188</text>
+<use href="#flag-cl" xlink:href="#flag-cl" x="778.0" y="807"/>
+<text x="798.0" y="818" font-size="10" opacity="0.95">🇨🇱</text>
+<text x="812.0" y="818" font-size="12" fill="#e2e8f0">Radio Fiessta</text>
+<rect x="1091.0" y="802" width="349.0" height="22" rx="5" fill="#0f172a"/>
 <title>#189 · 🇨🇱 CL — Radio Rancagua (Radio)</title>
-<text x="1097.0" y="818" font-size="12.5" font-weight="700" fill="#0891b2" font-family="Consolas, Menlo, monospace">#189</text>
-<use href="#flag-cl" xlink:href="#flag-cl" x="1137.0" y="807"/>
-<text x="1163.0" y="818" font-size="12" fill="#e2e8f0">Radio Rancagua</text>
-<rect x="20.0" y="826" width="349.0" height="22" rx="4" fill="#121b30"/>
+<text x="1098.0" y="818" font-size="12.5" font-weight="700" fill="#0891b2" font-family="Consolas, Menlo, monospace">#189</text>
+<use href="#flag-cl" xlink:href="#flag-cl" x="1135.0" y="807"/>
+<text x="1155.0" y="818" font-size="10" opacity="0.95">🇨🇱</text>
+<text x="1169.0" y="818" font-size="12" fill="#e2e8f0">Radio Rancagua</text>
+<rect x="20.0" y="826" width="349.0" height="22" rx="5" fill="#121b30"/>
 <title>#190 · 🇨🇱 CL — Radio Ritmo FM (Radio)</title>
-<text x="26.0" y="842" font-size="12.5" font-weight="700" fill="#0891b2" font-family="Consolas, Menlo, monospace">#190</text>
-<use href="#flag-cl" xlink:href="#flag-cl" x="66.0" y="831"/>
-<text x="92.0" y="842" font-size="12" fill="#e2e8f0">Radio Ritmo FM</text>
-<rect x="377.0" y="826" width="349.0" height="22" rx="4" fill="#121b30"/>
+<text x="27.0" y="842" font-size="12.5" font-weight="700" fill="#0891b2" font-family="Consolas, Menlo, monospace">#190</text>
+<use href="#flag-cl" xlink:href="#flag-cl" x="64.0" y="831"/>
+<text x="84.0" y="842" font-size="10" opacity="0.95">🇨🇱</text>
+<text x="98.0" y="842" font-size="12" fill="#e2e8f0">Radio Ritmo FM</text>
+<rect x="377.0" y="826" width="349.0" height="22" rx="5" fill="#121b30"/>
 <title>#191 · 🇨🇱 CL — RTV (Regionales)</title>
-<text x="383.0" y="842" font-size="12.5" font-weight="700" fill="#0891b2" font-family="Consolas, Menlo, monospace">#191</text>
-<use href="#flag-cl" xlink:href="#flag-cl" x="423.0" y="831"/>
-<text x="449.0" y="842" font-size="12" fill="#e2e8f0">RTV</text>
-<rect x="734.0" y="826" width="349.0" height="22" rx="4" fill="#121b30"/>
+<text x="384.0" y="842" font-size="12.5" font-weight="700" fill="#0891b2" font-family="Consolas, Menlo, monospace">#191</text>
+<use href="#flag-cl" xlink:href="#flag-cl" x="421.0" y="831"/>
+<text x="441.0" y="842" font-size="10" opacity="0.95">🇨🇱</text>
+<text x="455.0" y="842" font-size="12" fill="#e2e8f0">RTV</text>
+<rect x="734.0" y="826" width="349.0" height="22" rx="5" fill="#121b30"/>
 <title>#192 · 🇨🇱 CL — Santa Cruz FM (Radio)</title>
-<text x="740.0" y="842" font-size="12.5" font-weight="700" fill="#0891b2" font-family="Consolas, Menlo, monospace">#192</text>
-<use href="#flag-cl" xlink:href="#flag-cl" x="780.0" y="831"/>
-<text x="806.0" y="842" font-size="12" fill="#e2e8f0">Santa Cruz FM</text>
-<rect x="1091.0" y="826" width="349.0" height="22" rx="4" fill="#121b30"/>
+<text x="741.0" y="842" font-size="12.5" font-weight="700" fill="#0891b2" font-family="Consolas, Menlo, monospace">#192</text>
+<use href="#flag-cl" xlink:href="#flag-cl" x="778.0" y="831"/>
+<text x="798.0" y="842" font-size="10" opacity="0.95">🇨🇱</text>
+<text x="812.0" y="842" font-size="12" fill="#e2e8f0">Santa Cruz FM</text>
+<rect x="1091.0" y="826" width="349.0" height="22" rx="5" fill="#121b30"/>
 <title>#193 · 🇨🇱 CL — Santa Cruz HD (Regionales)</title>
-<text x="1097.0" y="842" font-size="12.5" font-weight="700" fill="#0891b2" font-family="Consolas, Menlo, monospace">#193</text>
-<use href="#flag-cl" xlink:href="#flag-cl" x="1137.0" y="831"/>
-<text x="1163.0" y="842" font-size="12" fill="#e2e8f0">Santa Cruz HD</text>
-<rect x="20.0" y="850" width="349.0" height="22" rx="4" fill="#0f172a"/>
+<text x="1098.0" y="842" font-size="12.5" font-weight="700" fill="#0891b2" font-family="Consolas, Menlo, monospace">#193</text>
+<use href="#flag-cl" xlink:href="#flag-cl" x="1135.0" y="831"/>
+<text x="1155.0" y="842" font-size="10" opacity="0.95">🇨🇱</text>
+<text x="1169.0" y="842" font-size="12" fill="#e2e8f0">Santa Cruz HD</text>
+<rect x="20.0" y="850" width="349.0" height="22" rx="5" fill="#0f172a"/>
 <title>#194 · 🇨🇱 CL — Sextavision (Regionales)</title>
-<text x="26.0" y="866" font-size="12.5" font-weight="700" fill="#0891b2" font-family="Consolas, Menlo, monospace">#194</text>
-<use href="#flag-cl" xlink:href="#flag-cl" x="66.0" y="855"/>
-<text x="92.0" y="866" font-size="12" fill="#e2e8f0">Sextavision</text>
-<rect x="377.0" y="850" width="349.0" height="22" rx="4" fill="#0f172a"/>
+<text x="27.0" y="866" font-size="12.5" font-weight="700" fill="#0891b2" font-family="Consolas, Menlo, monospace">#194</text>
+<use href="#flag-cl" xlink:href="#flag-cl" x="64.0" y="855"/>
+<text x="84.0" y="866" font-size="10" opacity="0.95">🇨🇱</text>
+<text x="98.0" y="866" font-size="12" fill="#e2e8f0">Sextavision</text>
+<rect x="377.0" y="850" width="349.0" height="22" rx="5" fill="#0f172a"/>
 <title>#195 · 🇨🇱 CL — Telecanal Santa Cruz (Regionales)</title>
-<text x="383.0" y="866" font-size="12.5" font-weight="700" fill="#0891b2" font-family="Consolas, Menlo, monospace">#195</text>
-<use href="#flag-cl" xlink:href="#flag-cl" x="423.0" y="855"/>
-<text x="449.0" y="866" font-size="12" fill="#e2e8f0">Telecanal Santa Cruz</text>
-<rect x="734.0" y="850" width="349.0" height="22" rx="4" fill="#0f172a"/>
+<text x="384.0" y="866" font-size="12.5" font-weight="700" fill="#0891b2" font-family="Consolas, Menlo, monospace">#195</text>
+<use href="#flag-cl" xlink:href="#flag-cl" x="421.0" y="855"/>
+<text x="441.0" y="866" font-size="10" opacity="0.95">🇨🇱</text>
+<text x="455.0" y="866" font-size="12" fill="#e2e8f0">Telecanal Santa Cruz</text>
+<rect x="734.0" y="850" width="349.0" height="22" rx="5" fill="#0f172a"/>
 <title>#196 · 🇨🇱 CL — TV Lascabras.net (Regionales)</title>
-<text x="740.0" y="866" font-size="12.5" font-weight="700" fill="#0891b2" font-family="Consolas, Menlo, monospace">#196</text>
-<use href="#flag-cl" xlink:href="#flag-cl" x="780.0" y="855"/>
-<text x="806.0" y="866" font-size="12" fill="#e2e8f0">TV Lascabras.net</text>
-<rect x="1091.0" y="850" width="349.0" height="22" rx="4" fill="#0f172a"/>
+<text x="741.0" y="866" font-size="12.5" font-weight="700" fill="#0891b2" font-family="Consolas, Menlo, monospace">#196</text>
+<use href="#flag-cl" xlink:href="#flag-cl" x="778.0" y="855"/>
+<text x="798.0" y="866" font-size="10" opacity="0.95">🇨🇱</text>
+<text x="812.0" y="866" font-size="12" fill="#e2e8f0">TV Lascabras.net</text>
+<rect x="1091.0" y="850" width="349.0" height="22" rx="5" fill="#0f172a"/>
 <title>#197 · 🇨🇱 CL — TVO San Vicente (Regionales)</title>
-<text x="1097.0" y="866" font-size="12.5" font-weight="700" fill="#0891b2" font-family="Consolas, Menlo, monospace">#197</text>
-<use href="#flag-cl" xlink:href="#flag-cl" x="1137.0" y="855"/>
-<text x="1163.0" y="866" font-size="12" fill="#e2e8f0">TVO San Vicente</text>
-<rect x="20.0" y="874" width="349.0" height="22" rx="4" fill="#121b30"/>
+<text x="1098.0" y="866" font-size="12.5" font-weight="700" fill="#0891b2" font-family="Consolas, Menlo, monospace">#197</text>
+<use href="#flag-cl" xlink:href="#flag-cl" x="1135.0" y="855"/>
+<text x="1155.0" y="866" font-size="10" opacity="0.95">🇨🇱</text>
+<text x="1169.0" y="866" font-size="12" fill="#e2e8f0">TVO San Vicente</text>
+<rect x="20.0" y="874" width="349.0" height="22" rx="5" fill="#121b30"/>
 <title>#198 · 🇨🇱 CL — Uniregion TV (Regionales)</title>
-<text x="26.0" y="890" font-size="12.5" font-weight="700" fill="#0891b2" font-family="Consolas, Menlo, monospace">#198</text>
-<use href="#flag-cl" xlink:href="#flag-cl" x="66.0" y="879"/>
-<text x="92.0" y="890" font-size="12" fill="#e2e8f0">Uniregion TV</text>
-<rect x="377.0" y="874" width="349.0" height="22" rx="4" fill="#121b30"/>
+<text x="27.0" y="890" font-size="12.5" font-weight="700" fill="#0891b2" font-family="Consolas, Menlo, monospace">#198</text>
+<use href="#flag-cl" xlink:href="#flag-cl" x="64.0" y="879"/>
+<text x="84.0" y="890" font-size="10" opacity="0.95">🇨🇱</text>
+<text x="98.0" y="890" font-size="12" fill="#e2e8f0">Uniregion TV</text>
+<rect x="377.0" y="874" width="349.0" height="22" rx="5" fill="#121b30"/>
 <title>#199 · 🇨🇱 CL — Alegria Cristiana (Religiosos)</title>
-<text x="383.0" y="890" font-size="12.5" font-weight="700" fill="#0891b2" font-family="Consolas, Menlo, monospace">#199</text>
-<use href="#flag-cl" xlink:href="#flag-cl" x="423.0" y="879"/>
-<text x="449.0" y="890" font-size="12" fill="#e2e8f0">Alegria Cristiana</text>
-<rect x="734.0" y="874" width="349.0" height="22" rx="4" fill="#121b30"/>
+<text x="384.0" y="890" font-size="12.5" font-weight="700" fill="#0891b2" font-family="Consolas, Menlo, monospace">#199</text>
+<use href="#flag-cl" xlink:href="#flag-cl" x="421.0" y="879"/>
+<text x="441.0" y="890" font-size="10" opacity="0.95">🇨🇱</text>
+<text x="455.0" y="890" font-size="12" fill="#e2e8f0">Alegria Cristiana</text>
+<rect x="734.0" y="874" width="349.0" height="22" rx="5" fill="#121b30"/>
 <title>#200 · 🇨🇱 CL — Canal 30 Loncomilla (Regionales)</title>
-<text x="740.0" y="890" font-size="12.5" font-weight="700" fill="#0891b2" font-family="Consolas, Menlo, monospace">#200</text>
-<use href="#flag-cl" xlink:href="#flag-cl" x="780.0" y="879"/>
-<text x="806.0" y="890" font-size="12" fill="#e2e8f0">Canal 30 Loncomilla</text>
-<rect x="1091.0" y="874" width="349.0" height="22" rx="4" fill="#121b30"/>
+<text x="741.0" y="890" font-size="12.5" font-weight="700" fill="#0891b2" font-family="Consolas, Menlo, monospace">#200</text>
+<use href="#flag-cl" xlink:href="#flag-cl" x="778.0" y="879"/>
+<text x="798.0" y="890" font-size="10" opacity="0.95">🇨🇱</text>
+<text x="812.0" y="890" font-size="12" fill="#e2e8f0">Canal 30 Loncomilla</text>
+<rect x="1091.0" y="874" width="349.0" height="22" rx="5" fill="#121b30"/>
 <title>#201 · 🇨🇱 CL — Central TV (Regionales)</title>
-<text x="1097.0" y="890" font-size="12.5" font-weight="700" fill="#0891b2" font-family="Consolas, Menlo, monospace">#201</text>
-<use href="#flag-cl" xlink:href="#flag-cl" x="1137.0" y="879"/>
-<text x="1163.0" y="890" font-size="12" fill="#e2e8f0">Central TV</text>
-<rect x="20.0" y="898" width="349.0" height="22" rx="4" fill="#0f172a"/>
+<text x="1098.0" y="890" font-size="12.5" font-weight="700" fill="#0891b2" font-family="Consolas, Menlo, monospace">#201</text>
+<use href="#flag-cl" xlink:href="#flag-cl" x="1135.0" y="879"/>
+<text x="1155.0" y="890" font-size="10" opacity="0.95">🇨🇱</text>
+<text x="1169.0" y="890" font-size="12" fill="#e2e8f0">Central TV</text>
+<rect x="20.0" y="898" width="349.0" height="22" rx="5" fill="#0f172a"/>
 <title>#202 · 🇨🇱 CL — Contivision (Regionales)</title>
-<text x="26.0" y="914" font-size="12.5" font-weight="700" fill="#0891b2" font-family="Consolas, Menlo, monospace">#202</text>
-<use href="#flag-cl" xlink:href="#flag-cl" x="66.0" y="903"/>
-<text x="92.0" y="914" font-size="12" fill="#e2e8f0">Contivision</text>
-<rect x="377.0" y="898" width="349.0" height="22" rx="4" fill="#0f172a"/>
+<text x="27.0" y="914" font-size="12.5" font-weight="700" fill="#0891b2" font-family="Consolas, Menlo, monospace">#202</text>
+<use href="#flag-cl" xlink:href="#flag-cl" x="64.0" y="903"/>
+<text x="84.0" y="914" font-size="10" opacity="0.95">🇨🇱</text>
+<text x="98.0" y="914" font-size="12" fill="#e2e8f0">Contivision</text>
+<rect x="377.0" y="898" width="349.0" height="22" rx="5" fill="#0f172a"/>
 <title>#203 · 🇨🇱 CL — El Centro TV (Regionales)</title>
-<text x="383.0" y="914" font-size="12.5" font-weight="700" fill="#0891b2" font-family="Consolas, Menlo, monospace">#203</text>
-<use href="#flag-cl" xlink:href="#flag-cl" x="423.0" y="903"/>
-<text x="449.0" y="914" font-size="12" fill="#e2e8f0">El Centro TV</text>
-<rect x="734.0" y="898" width="349.0" height="22" rx="4" fill="#0f172a"/>
+<text x="384.0" y="914" font-size="12.5" font-weight="700" fill="#0891b2" font-family="Consolas, Menlo, monospace">#203</text>
+<use href="#flag-cl" xlink:href="#flag-cl" x="421.0" y="903"/>
+<text x="441.0" y="914" font-size="10" opacity="0.95">🇨🇱</text>
+<text x="455.0" y="914" font-size="12" fill="#e2e8f0">El Centro TV</text>
+<rect x="734.0" y="898" width="349.0" height="22" rx="5" fill="#0f172a"/>
 <title>#204 · 🇨🇱 CL — En Linea Maule (Regionales)</title>
-<text x="740.0" y="914" font-size="12.5" font-weight="700" fill="#0891b2" font-family="Consolas, Menlo, monospace">#204</text>
-<use href="#flag-cl" xlink:href="#flag-cl" x="780.0" y="903"/>
-<text x="806.0" y="914" font-size="12" fill="#e2e8f0">En Linea Maule</text>
-<rect x="1091.0" y="898" width="349.0" height="22" rx="4" fill="#0f172a"/>
+<text x="741.0" y="914" font-size="12.5" font-weight="700" fill="#0891b2" font-family="Consolas, Menlo, monospace">#204</text>
+<use href="#flag-cl" xlink:href="#flag-cl" x="778.0" y="903"/>
+<text x="798.0" y="914" font-size="10" opacity="0.95">🇨🇱</text>
+<text x="812.0" y="914" font-size="12" fill="#e2e8f0">En Linea Maule</text>
+<rect x="1091.0" y="898" width="349.0" height="22" rx="5" fill="#0f172a"/>
 <title>#205 · 🇨🇱 CL — LaMix TV (Regionales)</title>
-<text x="1097.0" y="914" font-size="12.5" font-weight="700" fill="#0891b2" font-family="Consolas, Menlo, monospace">#205</text>
-<use href="#flag-cl" xlink:href="#flag-cl" x="1137.0" y="903"/>
-<text x="1163.0" y="914" font-size="12" fill="#e2e8f0">LaMix TV</text>
-<rect x="20.0" y="922" width="349.0" height="22" rx="4" fill="#121b30"/>
+<text x="1098.0" y="914" font-size="12.5" font-weight="700" fill="#0891b2" font-family="Consolas, Menlo, monospace">#205</text>
+<use href="#flag-cl" xlink:href="#flag-cl" x="1135.0" y="903"/>
+<text x="1155.0" y="914" font-size="10" opacity="0.95">🇨🇱</text>
+<text x="1169.0" y="914" font-size="12" fill="#e2e8f0">LaMix TV</text>
+<rect x="20.0" y="922" width="349.0" height="22" rx="5" fill="#121b30"/>
 <title>#206 · 🇨🇱 CL — Lila TV Pencahue (Regionales)</title>
-<text x="26.0" y="938" font-size="12.5" font-weight="700" fill="#0891b2" font-family="Consolas, Menlo, monospace">#206</text>
-<use href="#flag-cl" xlink:href="#flag-cl" x="66.0" y="927"/>
-<text x="92.0" y="938" font-size="12" fill="#e2e8f0">Lila TV Pencahue</text>
-<rect x="377.0" y="922" width="349.0" height="22" rx="4" fill="#121b30"/>
+<text x="27.0" y="938" font-size="12.5" font-weight="700" fill="#0891b2" font-family="Consolas, Menlo, monospace">#206</text>
+<use href="#flag-cl" xlink:href="#flag-cl" x="64.0" y="927"/>
+<text x="84.0" y="938" font-size="10" opacity="0.95">🇨🇱</text>
+<text x="98.0" y="938" font-size="12" fill="#e2e8f0">Lila TV Pencahue</text>
+<rect x="377.0" y="922" width="349.0" height="22" rx="5" fill="#121b30"/>
 <title>#207 · 🇨🇱 CL — Mas Radio TV (Radio)</title>
-<text x="383.0" y="938" font-size="12.5" font-weight="700" fill="#0891b2" font-family="Consolas, Menlo, monospace">#207</text>
-<use href="#flag-cl" xlink:href="#flag-cl" x="423.0" y="927"/>
-<text x="449.0" y="938" font-size="12" fill="#e2e8f0">Mas Radio TV</text>
-<rect x="734.0" y="922" width="349.0" height="22" rx="4" fill="#121b30"/>
+<text x="384.0" y="938" font-size="12.5" font-weight="700" fill="#0891b2" font-family="Consolas, Menlo, monospace">#207</text>
+<use href="#flag-cl" xlink:href="#flag-cl" x="421.0" y="927"/>
+<text x="441.0" y="938" font-size="10" opacity="0.95">🇨🇱</text>
+<text x="455.0" y="938" font-size="12" fill="#e2e8f0">Mas Radio TV</text>
+<rect x="734.0" y="922" width="349.0" height="22" rx="5" fill="#121b30"/>
 <title>#208 · 🇨🇱 CL — Maule Vision (Regionales)</title>
-<text x="740.0" y="938" font-size="12.5" font-weight="700" fill="#0891b2" font-family="Consolas, Menlo, monospace">#208</text>
-<use href="#flag-cl" xlink:href="#flag-cl" x="780.0" y="927"/>
-<text x="806.0" y="938" font-size="12" fill="#e2e8f0">Maule Vision</text>
-<rect x="1091.0" y="922" width="349.0" height="22" rx="4" fill="#121b30"/>
+<text x="741.0" y="938" font-size="12.5" font-weight="700" fill="#0891b2" font-family="Consolas, Menlo, monospace">#208</text>
+<use href="#flag-cl" xlink:href="#flag-cl" x="778.0" y="927"/>
+<text x="798.0" y="938" font-size="10" opacity="0.95">🇨🇱</text>
+<text x="812.0" y="938" font-size="12" fill="#e2e8f0">Maule Vision</text>
+<rect x="1091.0" y="922" width="349.0" height="22" rx="5" fill="#121b30"/>
 <title>#209 · 🇨🇱 CL — Molina TV (Regionales)</title>
-<text x="1097.0" y="938" font-size="12.5" font-weight="700" fill="#0891b2" font-family="Consolas, Menlo, monospace">#209</text>
-<use href="#flag-cl" xlink:href="#flag-cl" x="1137.0" y="927"/>
-<text x="1163.0" y="938" font-size="12" fill="#e2e8f0">Molina TV</text>
-<rect x="20.0" y="946" width="349.0" height="22" rx="4" fill="#0f172a"/>
+<text x="1098.0" y="938" font-size="12.5" font-weight="700" fill="#0891b2" font-family="Consolas, Menlo, monospace">#209</text>
+<use href="#flag-cl" xlink:href="#flag-cl" x="1135.0" y="927"/>
+<text x="1155.0" y="938" font-size="10" opacity="0.95">🇨🇱</text>
+<text x="1169.0" y="938" font-size="12" fill="#e2e8f0">Molina TV</text>
+<rect x="20.0" y="946" width="349.0" height="22" rx="5" fill="#0f172a"/>
 <title>#210 · 🇨🇱 CL — Nativa TV (Regionales)</title>
-<text x="26.0" y="962" font-size="12.5" font-weight="700" fill="#0891b2" font-family="Consolas, Menlo, monospace">#210</text>
-<use href="#flag-cl" xlink:href="#flag-cl" x="66.0" y="951"/>
-<text x="92.0" y="962" font-size="12" fill="#e2e8f0">Nativa TV</text>
-<rect x="377.0" y="946" width="349.0" height="22" rx="4" fill="#0f172a"/>
+<text x="27.0" y="962" font-size="12.5" font-weight="700" fill="#0891b2" font-family="Consolas, Menlo, monospace">#210</text>
+<use href="#flag-cl" xlink:href="#flag-cl" x="64.0" y="951"/>
+<text x="84.0" y="962" font-size="10" opacity="0.95">🇨🇱</text>
+<text x="98.0" y="962" font-size="12" fill="#e2e8f0">Nativa TV</text>
+<rect x="377.0" y="946" width="349.0" height="22" rx="5" fill="#0f172a"/>
 <title>#211 · 🇨🇱 CL — Nova TV Canal 7 (Regionales)</title>
-<text x="383.0" y="962" font-size="12.5" font-weight="700" fill="#0891b2" font-family="Consolas, Menlo, monospace">#211</text>
-<use href="#flag-cl" xlink:href="#flag-cl" x="423.0" y="951"/>
-<text x="449.0" y="962" font-size="12" fill="#e2e8f0">Nova TV Canal 7</text>
-<rect x="734.0" y="946" width="349.0" height="22" rx="4" fill="#0f172a"/>
+<text x="384.0" y="962" font-size="12.5" font-weight="700" fill="#0891b2" font-family="Consolas, Menlo, monospace">#211</text>
+<use href="#flag-cl" xlink:href="#flag-cl" x="421.0" y="951"/>
+<text x="441.0" y="962" font-size="10" opacity="0.95">🇨🇱</text>
+<text x="455.0" y="962" font-size="12" fill="#e2e8f0">Nova TV Canal 7</text>
+<rect x="734.0" y="946" width="349.0" height="22" rx="5" fill="#0f172a"/>
 <title>#212 · 🇨🇱 CL — Poesia TV (Radio)</title>
-<text x="740.0" y="962" font-size="12.5" font-weight="700" fill="#0891b2" font-family="Consolas, Menlo, monospace">#212</text>
-<use href="#flag-cl" xlink:href="#flag-cl" x="780.0" y="951"/>
-<text x="806.0" y="962" font-size="12" fill="#e2e8f0">Poesia TV</text>
-<rect x="1091.0" y="946" width="349.0" height="22" rx="4" fill="#0f172a"/>
+<text x="741.0" y="962" font-size="12.5" font-weight="700" fill="#0891b2" font-family="Consolas, Menlo, monospace">#212</text>
+<use href="#flag-cl" xlink:href="#flag-cl" x="778.0" y="951"/>
+<text x="798.0" y="962" font-size="10" opacity="0.95">🇨🇱</text>
+<text x="812.0" y="962" font-size="12" fill="#e2e8f0">Poesia TV</text>
+<rect x="1091.0" y="946" width="349.0" height="22" rx="5" fill="#0f172a"/>
 <title>#213 · 🇨🇱 CL — Radio Ancoa TV (Radio)</title>
-<text x="1097.0" y="962" font-size="12.5" font-weight="700" fill="#0891b2" font-family="Consolas, Menlo, monospace">#213</text>
-<use href="#flag-cl" xlink:href="#flag-cl" x="1137.0" y="951"/>
-<text x="1163.0" y="962" font-size="12" fill="#e2e8f0">Radio Ancoa TV</text>
-<rect x="20.0" y="970" width="349.0" height="22" rx="4" fill="#121b30"/>
+<text x="1098.0" y="962" font-size="12.5" font-weight="700" fill="#0891b2" font-family="Consolas, Menlo, monospace">#213</text>
+<use href="#flag-cl" xlink:href="#flag-cl" x="1135.0" y="951"/>
+<text x="1155.0" y="962" font-size="10" opacity="0.95">🇨🇱</text>
+<text x="1169.0" y="962" font-size="12" fill="#e2e8f0">Radio Ancoa TV</text>
+<rect x="20.0" y="970" width="349.0" height="22" rx="5" fill="#121b30"/>
 <title>#214 · 🇨🇱 CL — Radio Favorita (Radio)</title>
-<text x="26.0" y="986" font-size="12.5" font-weight="700" fill="#0891b2" font-family="Consolas, Menlo, monospace">#214</text>
-<use href="#flag-cl" xlink:href="#flag-cl" x="66.0" y="975"/>
-<text x="92.0" y="986" font-size="12" fill="#e2e8f0">Radio Favorita</text>
-<rect x="377.0" y="970" width="349.0" height="22" rx="4" fill="#121b30"/>
+<text x="27.0" y="986" font-size="12.5" font-weight="700" fill="#0891b2" font-family="Consolas, Menlo, monospace">#214</text>
+<use href="#flag-cl" xlink:href="#flag-cl" x="64.0" y="975"/>
+<text x="84.0" y="986" font-size="10" opacity="0.95">🇨🇱</text>
+<text x="98.0" y="986" font-size="12" fill="#e2e8f0">Radio Favorita</text>
+<rect x="377.0" y="970" width="349.0" height="22" rx="5" fill="#121b30"/>
 <title>#215 · 🇨🇱 CL — Radio Frecuencia Uno (Radio)</title>
-<text x="383.0" y="986" font-size="12.5" font-weight="700" fill="#0891b2" font-family="Consolas, Menlo, monospace">#215</text>
-<use href="#flag-cl" xlink:href="#flag-cl" x="423.0" y="975"/>
-<text x="449.0" y="986" font-size="12" fill="#e2e8f0">Radio Frecuencia Uno</text>
-<rect x="734.0" y="970" width="349.0" height="22" rx="4" fill="#121b30"/>
+<text x="384.0" y="986" font-size="12.5" font-weight="700" fill="#0891b2" font-family="Consolas, Menlo, monospace">#215</text>
+<use href="#flag-cl" xlink:href="#flag-cl" x="421.0" y="975"/>
+<text x="441.0" y="986" font-size="10" opacity="0.95">🇨🇱</text>
+<text x="455.0" y="986" font-size="12" fill="#e2e8f0">Radio Frecuencia Uno</text>
+<rect x="734.0" y="970" width="349.0" height="22" rx="5" fill="#121b30"/>
 <title>#216 · 🇨🇱 CL — Radio Via 7 TV (Radio)</title>
-<text x="740.0" y="986" font-size="12.5" font-weight="700" fill="#0891b2" font-family="Consolas, Menlo, monospace">#216</text>
-<use href="#flag-cl" xlink:href="#flag-cl" x="780.0" y="975"/>
-<text x="806.0" y="986" font-size="12" fill="#e2e8f0">Radio Via 7 TV</text>
-<rect x="1091.0" y="970" width="349.0" height="22" rx="4" fill="#121b30"/>
+<text x="741.0" y="986" font-size="12.5" font-weight="700" fill="#0891b2" font-family="Consolas, Menlo, monospace">#216</text>
+<use href="#flag-cl" xlink:href="#flag-cl" x="778.0" y="975"/>
+<text x="798.0" y="986" font-size="10" opacity="0.95">🇨🇱</text>
+<text x="812.0" y="986" font-size="12" fill="#e2e8f0">Radio Via 7 TV</text>
+<rect x="1091.0" y="970" width="349.0" height="22" rx="5" fill="#121b30"/>
 <title>#217 · 🇨🇱 CL — Radio Vida Curico (Religiosos)</title>
-<text x="1097.0" y="986" font-size="12.5" font-weight="700" fill="#0891b2" font-family="Consolas, Menlo, monospace">#217</text>
-<use href="#flag-cl" xlink:href="#flag-cl" x="1137.0" y="975"/>
-<text x="1163.0" y="986" font-size="12" fill="#e2e8f0">Radio Vida Curico</text>
-<rect x="20.0" y="994" width="349.0" height="22" rx="4" fill="#0f172a"/>
+<text x="1098.0" y="986" font-size="12.5" font-weight="700" fill="#0891b2" font-family="Consolas, Menlo, monospace">#217</text>
+<use href="#flag-cl" xlink:href="#flag-cl" x="1135.0" y="975"/>
+<text x="1155.0" y="986" font-size="10" opacity="0.95">🇨🇱</text>
+<text x="1169.0" y="986" font-size="12" fill="#e2e8f0">Radio Vida Curico</text>
+<rect x="20.0" y="994" width="349.0" height="22" rx="5" fill="#0f172a"/>
 <title>#218 · 🇨🇱 CL — Sabor TV (Radio)</title>
-<text x="26.0" y="1010" font-size="12.5" font-weight="700" fill="#0891b2" font-family="Consolas, Menlo, monospace">#218</text>
-<use href="#flag-cl" xlink:href="#flag-cl" x="66.0" y="999"/>
-<text x="92.0" y="1010" font-size="12" fill="#e2e8f0">Sabor TV</text>
-<rect x="377.0" y="994" width="349.0" height="22" rx="4" fill="#0f172a"/>
+<text x="27.0" y="1010" font-size="12.5" font-weight="700" fill="#0891b2" font-family="Consolas, Menlo, monospace">#218</text>
+<use href="#flag-cl" xlink:href="#flag-cl" x="64.0" y="999"/>
+<text x="84.0" y="1010" font-size="10" opacity="0.95">🇨🇱</text>
+<text x="98.0" y="1010" font-size="12" fill="#e2e8f0">Sabor TV</text>
+<rect x="377.0" y="994" width="349.0" height="22" rx="5" fill="#0f172a"/>
 <title>#219 · 🇨🇱 CL — Telecauquenes (Regionales)</title>
-<text x="383.0" y="1010" font-size="12.5" font-weight="700" fill="#0891b2" font-family="Consolas, Menlo, monospace">#219</text>
-<use href="#flag-cl" xlink:href="#flag-cl" x="423.0" y="999"/>
-<text x="449.0" y="1010" font-size="12" fill="#e2e8f0">Telecauquenes</text>
-<rect x="734.0" y="994" width="349.0" height="22" rx="4" fill="#0f172a"/>
+<text x="384.0" y="1010" font-size="12.5" font-weight="700" fill="#0891b2" font-family="Consolas, Menlo, monospace">#219</text>
+<use href="#flag-cl" xlink:href="#flag-cl" x="421.0" y="999"/>
+<text x="441.0" y="1010" font-size="10" opacity="0.95">🇨🇱</text>
+<text x="455.0" y="1010" font-size="12" fill="#e2e8f0">Telecauquenes</text>
+<rect x="734.0" y="994" width="349.0" height="22" rx="5" fill="#0f172a"/>
 <title>#220 · 🇨🇱 CL — TV 5 Linares (Regionales)</title>
-<text x="740.0" y="1010" font-size="12.5" font-weight="700" fill="#0891b2" font-family="Consolas, Menlo, monospace">#220</text>
-<use href="#flag-cl" xlink:href="#flag-cl" x="780.0" y="999"/>
-<text x="806.0" y="1010" font-size="12" fill="#e2e8f0">TV 5 Linares</text>
-<rect x="1091.0" y="994" width="349.0" height="22" rx="4" fill="#0f172a"/>
+<text x="741.0" y="1010" font-size="12.5" font-weight="700" fill="#0891b2" font-family="Consolas, Menlo, monospace">#220</text>
+<use href="#flag-cl" xlink:href="#flag-cl" x="778.0" y="999"/>
+<text x="798.0" y="1010" font-size="10" opacity="0.95">🇨🇱</text>
+<text x="812.0" y="1010" font-size="12" fill="#e2e8f0">TV 5 Linares</text>
+<rect x="1091.0" y="994" width="349.0" height="22" rx="5" fill="#0f172a"/>
 <title>#221 · 🇨🇱 CL — UTalcaTV (Universitarios)</title>
-<text x="1097.0" y="1010" font-size="12.5" font-weight="700" fill="#0891b2" font-family="Consolas, Menlo, monospace">#221</text>
-<use href="#flag-cl" xlink:href="#flag-cl" x="1137.0" y="999"/>
-<text x="1163.0" y="1010" font-size="12" fill="#e2e8f0">UTalcaTV</text>
-<rect x="20.0" y="1018" width="349.0" height="22" rx="4" fill="#121b30"/>
+<text x="1098.0" y="1010" font-size="12.5" font-weight="700" fill="#0891b2" font-family="Consolas, Menlo, monospace">#221</text>
+<use href="#flag-cl" xlink:href="#flag-cl" x="1135.0" y="999"/>
+<text x="1155.0" y="1010" font-size="10" opacity="0.95">🇨🇱</text>
+<text x="1169.0" y="1010" font-size="12" fill="#e2e8f0">UTalcaTV</text>
+<rect x="20.0" y="1018" width="349.0" height="22" rx="5" fill="#121b30"/>
 <title>#222 · 🇨🇱 CL — UTV San Clemente (Regionales)</title>
-<text x="26.0" y="1034" font-size="12.5" font-weight="700" fill="#0891b2" font-family="Consolas, Menlo, monospace">#222</text>
-<use href="#flag-cl" xlink:href="#flag-cl" x="66.0" y="1023"/>
-<text x="92.0" y="1034" font-size="12" fill="#e2e8f0">UTV San Clemente</text>
-<rect x="377.0" y="1018" width="349.0" height="22" rx="4" fill="#121b30"/>
+<text x="27.0" y="1034" font-size="12.5" font-weight="700" fill="#0891b2" font-family="Consolas, Menlo, monospace">#222</text>
+<use href="#flag-cl" xlink:href="#flag-cl" x="64.0" y="1023"/>
+<text x="84.0" y="1034" font-size="10" opacity="0.95">🇨🇱</text>
+<text x="98.0" y="1034" font-size="12" fill="#e2e8f0">UTV San Clemente</text>
+<rect x="377.0" y="1018" width="349.0" height="22" rx="5" fill="#121b30"/>
 <title>#223 · 🇨🇱 CL — VLTV (Regionales)</title>
-<text x="383.0" y="1034" font-size="12.5" font-weight="700" fill="#0891b2" font-family="Consolas, Menlo, monospace">#223</text>
-<use href="#flag-cl" xlink:href="#flag-cl" x="423.0" y="1023"/>
-<text x="449.0" y="1034" font-size="12" fill="#e2e8f0">VLTV</text>
-<rect x="734.0" y="1018" width="349.0" height="22" rx="4" fill="#121b30"/>
+<text x="384.0" y="1034" font-size="12.5" font-weight="700" fill="#0891b2" font-family="Consolas, Menlo, monospace">#223</text>
+<use href="#flag-cl" xlink:href="#flag-cl" x="421.0" y="1023"/>
+<text x="441.0" y="1034" font-size="10" opacity="0.95">🇨🇱</text>
+<text x="455.0" y="1034" font-size="12" fill="#e2e8f0">VLTV</text>
+<rect x="734.0" y="1018" width="349.0" height="22" rx="5" fill="#121b30"/>
 <title>#224 · 🇨🇱 CL — Canal 1 (Regionales)</title>
-<text x="740.0" y="1034" font-size="12.5" font-weight="700" fill="#0891b2" font-family="Consolas, Menlo, monospace">#224</text>
-<use href="#flag-cl" xlink:href="#flag-cl" x="780.0" y="1023"/>
-<text x="806.0" y="1034" font-size="12" fill="#e2e8f0">Canal 1</text>
-<rect x="1091.0" y="1018" width="349.0" height="22" rx="4" fill="#121b30"/>
+<text x="741.0" y="1034" font-size="12.5" font-weight="700" fill="#0891b2" font-family="Consolas, Menlo, monospace">#224</text>
+<use href="#flag-cl" xlink:href="#flag-cl" x="778.0" y="1023"/>
+<text x="798.0" y="1034" font-size="10" opacity="0.95">🇨🇱</text>
+<text x="812.0" y="1034" font-size="12" fill="#e2e8f0">Canal 1</text>
+<rect x="1091.0" y="1018" width="349.0" height="22" rx="5" fill="#121b30"/>
 <title>#225 · 🇨🇱 CL — El Sembrador (Radio)</title>
-<text x="1097.0" y="1034" font-size="12.5" font-weight="700" fill="#0891b2" font-family="Consolas, Menlo, monospace">#225</text>
-<use href="#flag-cl" xlink:href="#flag-cl" x="1137.0" y="1023"/>
-<text x="1163.0" y="1034" font-size="12" fill="#e2e8f0">El Sembrador</text>
-<rect x="20.0" y="1042" width="349.0" height="22" rx="4" fill="#0f172a"/>
+<text x="1098.0" y="1034" font-size="12.5" font-weight="700" fill="#0891b2" font-family="Consolas, Menlo, monospace">#225</text>
+<use href="#flag-cl" xlink:href="#flag-cl" x="1135.0" y="1023"/>
+<text x="1155.0" y="1034" font-size="10" opacity="0.95">🇨🇱</text>
+<text x="1169.0" y="1034" font-size="12" fill="#e2e8f0">El Sembrador</text>
+<rect x="20.0" y="1042" width="349.0" height="22" rx="5" fill="#0f172a"/>
 <title>#226 · 🇨🇱 CL — EstaciónTV (Música)</title>
-<text x="26.0" y="1058" font-size="12.5" font-weight="700" fill="#0891b2" font-family="Consolas, Menlo, monospace">#226</text>
-<use href="#flag-cl" xlink:href="#flag-cl" x="66.0" y="1047"/>
-<text x="92.0" y="1058" font-size="12" fill="#e2e8f0">EstaciónTV</text>
-<rect x="377.0" y="1042" width="349.0" height="22" rx="4" fill="#0f172a"/>
+<text x="27.0" y="1058" font-size="12.5" font-weight="700" fill="#0891b2" font-family="Consolas, Menlo, monospace">#226</text>
+<use href="#flag-cl" xlink:href="#flag-cl" x="64.0" y="1047"/>
+<text x="84.0" y="1058" font-size="10" opacity="0.95">🇨🇱</text>
+<text x="98.0" y="1058" font-size="12" fill="#e2e8f0">EstaciónTV</text>
+<rect x="377.0" y="1042" width="349.0" height="22" rx="5" fill="#0f172a"/>
 <title>#227 · 🇨🇱 CL — Interactiva FM (Radio)</title>
-<text x="383.0" y="1058" font-size="12.5" font-weight="700" fill="#0891b2" font-family="Consolas, Menlo, monospace">#227</text>
-<use href="#flag-cl" xlink:href="#flag-cl" x="423.0" y="1047"/>
-<text x="449.0" y="1058" font-size="12" fill="#e2e8f0">Interactiva FM</text>
-<rect x="734.0" y="1042" width="349.0" height="22" rx="4" fill="#0f172a"/>
+<text x="384.0" y="1058" font-size="12.5" font-weight="700" fill="#0891b2" font-family="Consolas, Menlo, monospace">#227</text>
+<use href="#flag-cl" xlink:href="#flag-cl" x="421.0" y="1047"/>
+<text x="441.0" y="1058" font-size="10" opacity="0.95">🇨🇱</text>
+<text x="455.0" y="1058" font-size="12" fill="#e2e8f0">Interactiva FM</text>
+<rect x="734.0" y="1042" width="349.0" height="22" rx="5" fill="#0f172a"/>
 <title>#228 · 🇨🇱 CL — Interactiva TV Señal 2 (Regionales)</title>
-<text x="740.0" y="1058" font-size="12.5" font-weight="700" fill="#0891b2" font-family="Consolas, Menlo, monospace">#228</text>
-<use href="#flag-cl" xlink:href="#flag-cl" x="780.0" y="1047"/>
-<text x="806.0" y="1058" font-size="12" fill="#e2e8f0">Interactiva TV Señal 2</text>
-<rect x="1091.0" y="1042" width="349.0" height="22" rx="4" fill="#0f172a"/>
+<text x="741.0" y="1058" font-size="12.5" font-weight="700" fill="#0891b2" font-family="Consolas, Menlo, monospace">#228</text>
+<use href="#flag-cl" xlink:href="#flag-cl" x="778.0" y="1047"/>
+<text x="798.0" y="1058" font-size="10" opacity="0.95">🇨🇱</text>
+<text x="812.0" y="1058" font-size="12" fill="#e2e8f0">Interactiva TV Señal 2</text>
+<rect x="1091.0" y="1042" width="349.0" height="22" rx="5" fill="#0f172a"/>
 <title>#229 · 🇨🇱 CL — Ñublevision (Regionales)</title>
-<text x="1097.0" y="1058" font-size="12.5" font-weight="700" fill="#0891b2" font-family="Consolas, Menlo, monospace">#229</text>
-<use href="#flag-cl" xlink:href="#flag-cl" x="1137.0" y="1047"/>
-<text x="1163.0" y="1058" font-size="12" fill="#e2e8f0">Ñublevision</text>
-<rect x="20.0" y="1066" width="349.0" height="22" rx="4" fill="#121b30"/>
+<text x="1098.0" y="1058" font-size="12.5" font-weight="700" fill="#0891b2" font-family="Consolas, Menlo, monospace">#229</text>
+<use href="#flag-cl" xlink:href="#flag-cl" x="1135.0" y="1047"/>
+<text x="1155.0" y="1058" font-size="10" opacity="0.95">🇨🇱</text>
+<text x="1169.0" y="1058" font-size="12" fill="#e2e8f0">Ñublevision</text>
+<rect x="20.0" y="1066" width="349.0" height="22" rx="5" fill="#121b30"/>
 <title>#230 · 🇨🇱 CL — Plenitud Juvenil (Religiosos)</title>
-<text x="26.0" y="1082" font-size="12.5" font-weight="700" fill="#0891b2" font-family="Consolas, Menlo, monospace">#230</text>
-<use href="#flag-cl" xlink:href="#flag-cl" x="66.0" y="1071"/>
-<text x="92.0" y="1082" font-size="12" fill="#e2e8f0">Plenitud Juvenil</text>
-<rect x="377.0" y="1066" width="349.0" height="22" rx="4" fill="#121b30"/>
+<text x="27.0" y="1082" font-size="12.5" font-weight="700" fill="#0891b2" font-family="Consolas, Menlo, monospace">#230</text>
+<use href="#flag-cl" xlink:href="#flag-cl" x="64.0" y="1071"/>
+<text x="84.0" y="1082" font-size="10" opacity="0.95">🇨🇱</text>
+<text x="98.0" y="1082" font-size="12" fill="#e2e8f0">Plenitud Juvenil</text>
+<rect x="377.0" y="1066" width="349.0" height="22" rx="5" fill="#121b30"/>
 <title>#231 · 🇨🇱 CL — Plenitud TV (Religiosos)</title>
-<text x="383.0" y="1082" font-size="12.5" font-weight="700" fill="#0891b2" font-family="Consolas, Menlo, monospace">#231</text>
-<use href="#flag-cl" xlink:href="#flag-cl" x="423.0" y="1071"/>
-<text x="449.0" y="1082" font-size="12" fill="#e2e8f0">Plenitud TV</text>
-<rect x="734.0" y="1066" width="349.0" height="22" rx="4" fill="#121b30"/>
+<text x="384.0" y="1082" font-size="12.5" font-weight="700" fill="#0891b2" font-family="Consolas, Menlo, monospace">#231</text>
+<use href="#flag-cl" xlink:href="#flag-cl" x="421.0" y="1071"/>
+<text x="441.0" y="1082" font-size="10" opacity="0.95">🇨🇱</text>
+<text x="455.0" y="1082" font-size="12" fill="#e2e8f0">Plenitud TV</text>
+<rect x="734.0" y="1066" width="349.0" height="22" rx="5" fill="#121b30"/>
 <title>#232 · 🇨🇱 CL — Plenitud TV 2 (Religiosos)</title>
-<text x="740.0" y="1082" font-size="12.5" font-weight="700" fill="#0891b2" font-family="Consolas, Menlo, monospace">#232</text>
-<use href="#flag-cl" xlink:href="#flag-cl" x="780.0" y="1071"/>
-<text x="806.0" y="1082" font-size="12" fill="#e2e8f0">Plenitud TV 2</text>
-<rect x="1091.0" y="1066" width="349.0" height="22" rx="4" fill="#121b30"/>
+<text x="741.0" y="1082" font-size="12.5" font-weight="700" fill="#0891b2" font-family="Consolas, Menlo, monospace">#232</text>
+<use href="#flag-cl" xlink:href="#flag-cl" x="778.0" y="1071"/>
+<text x="798.0" y="1082" font-size="10" opacity="0.95">🇨🇱</text>
+<text x="812.0" y="1082" font-size="12" fill="#e2e8f0">Plenitud TV 2</text>
+<rect x="1091.0" y="1066" width="349.0" height="22" rx="5" fill="#121b30"/>
 <title>#233 · 🇨🇱 CL — Radio Contemporanea Coihueco (Radio)</title>
-<text x="1097.0" y="1082" font-size="12.5" font-weight="700" fill="#0891b2" font-family="Consolas, Menlo, monospace">#233</text>
-<use href="#flag-cl" xlink:href="#flag-cl" x="1137.0" y="1071"/>
-<text x="1163.0" y="1082" font-size="12" fill="#e2e8f0">Radio Contemporanea Coihueco</text>
-<rect x="20.0" y="1090" width="349.0" height="22" rx="4" fill="#0f172a"/>
+<text x="1098.0" y="1082" font-size="12.5" font-weight="700" fill="#0891b2" font-family="Consolas, Menlo, monospace">#233</text>
+<use href="#flag-cl" xlink:href="#flag-cl" x="1135.0" y="1071"/>
+<text x="1155.0" y="1082" font-size="10" opacity="0.95">🇨🇱</text>
+<text x="1169.0" y="1082" font-size="12" fill="#e2e8f0">Radio Contemporanea Coihueco</text>
+<rect x="20.0" y="1090" width="349.0" height="22" rx="5" fill="#0f172a"/>
 <title>#234 · 🇨🇱 CL — Radio Magistral Coihueco (Radio)</title>
-<text x="26.0" y="1106" font-size="12.5" font-weight="700" fill="#0891b2" font-family="Consolas, Menlo, monospace">#234</text>
-<use href="#flag-cl" xlink:href="#flag-cl" x="66.0" y="1095"/>
-<text x="92.0" y="1106" font-size="12" fill="#e2e8f0">Radio Magistral Coihueco</text>
-<rect x="377.0" y="1090" width="349.0" height="22" rx="4" fill="#0f172a"/>
+<text x="27.0" y="1106" font-size="12.5" font-weight="700" fill="#0891b2" font-family="Consolas, Menlo, monospace">#234</text>
+<use href="#flag-cl" xlink:href="#flag-cl" x="64.0" y="1095"/>
+<text x="84.0" y="1106" font-size="10" opacity="0.95">🇨🇱</text>
+<text x="98.0" y="1106" font-size="12" fill="#e2e8f0">Radio Magistral Coihueco</text>
+<rect x="377.0" y="1090" width="349.0" height="22" rx="5" fill="#0f172a"/>
 <title>#235 · 🇨🇱 CL — Radio Ñuble (Radio)</title>
-<text x="383.0" y="1106" font-size="12.5" font-weight="700" fill="#0891b2" font-family="Consolas, Menlo, monospace">#235</text>
-<use href="#flag-cl" xlink:href="#flag-cl" x="423.0" y="1095"/>
-<text x="449.0" y="1106" font-size="12" fill="#e2e8f0">Radio Ñuble</text>
-<rect x="734.0" y="1090" width="349.0" height="22" rx="4" fill="#0f172a"/>
+<text x="384.0" y="1106" font-size="12.5" font-weight="700" fill="#0891b2" font-family="Consolas, Menlo, monospace">#235</text>
+<use href="#flag-cl" xlink:href="#flag-cl" x="421.0" y="1095"/>
+<text x="441.0" y="1106" font-size="10" opacity="0.95">🇨🇱</text>
+<text x="455.0" y="1106" font-size="12" fill="#e2e8f0">Radio Ñuble</text>
+<rect x="734.0" y="1090" width="349.0" height="22" rx="5" fill="#0f172a"/>
 <title>#236 · 🇨🇱 CL — Radio Popular Coihueco (Radio)</title>
-<text x="740.0" y="1106" font-size="12.5" font-weight="700" fill="#0891b2" font-family="Consolas, Menlo, monospace">#236</text>
-<use href="#flag-cl" xlink:href="#flag-cl" x="780.0" y="1095"/>
-<text x="806.0" y="1106" font-size="12" fill="#e2e8f0">Radio Popular Coihueco</text>
-<rect x="1091.0" y="1090" width="349.0" height="22" rx="4" fill="#0f172a"/>
+<text x="741.0" y="1106" font-size="12.5" font-weight="700" fill="#0891b2" font-family="Consolas, Menlo, monospace">#236</text>
+<use href="#flag-cl" xlink:href="#flag-cl" x="778.0" y="1095"/>
+<text x="798.0" y="1106" font-size="10" opacity="0.95">🇨🇱</text>
+<text x="812.0" y="1106" font-size="12" fill="#e2e8f0">Radio Popular Coihueco</text>
+<rect x="1091.0" y="1090" width="349.0" height="22" rx="5" fill="#0f172a"/>
 <title>#237 · 🇨🇱 CL — Red Vision Television (Regionales)</title>
-<text x="1097.0" y="1106" font-size="12.5" font-weight="700" fill="#0891b2" font-family="Consolas, Menlo, monospace">#237</text>
-<use href="#flag-cl" xlink:href="#flag-cl" x="1137.0" y="1095"/>
-<text x="1163.0" y="1106" font-size="12" fill="#e2e8f0">Red Vision Television</text>
-<rect x="20.0" y="1114" width="349.0" height="22" rx="4" fill="#121b30"/>
+<text x="1098.0" y="1106" font-size="12.5" font-weight="700" fill="#0891b2" font-family="Consolas, Menlo, monospace">#237</text>
+<use href="#flag-cl" xlink:href="#flag-cl" x="1135.0" y="1095"/>
+<text x="1155.0" y="1106" font-size="10" opacity="0.95">🇨🇱</text>
+<text x="1169.0" y="1106" font-size="12" fill="#e2e8f0">Red Vision Television</text>
+<rect x="20.0" y="1114" width="349.0" height="22" rx="5" fill="#121b30"/>
 <title>#238 · 🇨🇱 CL — Región Televisión Ñuble (Regionales)</title>
-<text x="26.0" y="1130" font-size="12.5" font-weight="700" fill="#0891b2" font-family="Consolas, Menlo, monospace">#238</text>
-<use href="#flag-cl" xlink:href="#flag-cl" x="66.0" y="1119"/>
-<text x="92.0" y="1130" font-size="12" fill="#e2e8f0">Región Televisión Ñuble</text>
-<rect x="377.0" y="1114" width="349.0" height="22" rx="4" fill="#121b30"/>
+<text x="27.0" y="1130" font-size="12.5" font-weight="700" fill="#0891b2" font-family="Consolas, Menlo, monospace">#238</text>
+<use href="#flag-cl" xlink:href="#flag-cl" x="64.0" y="1119"/>
+<text x="84.0" y="1130" font-size="10" opacity="0.95">🇨🇱</text>
+<text x="98.0" y="1130" font-size="12" fill="#e2e8f0">Región Televisión Ñuble</text>
+<rect x="377.0" y="1114" width="349.0" height="22" rx="5" fill="#121b30"/>
 <title>#239 · 🇨🇱 CL — San Nicolas TV (Regionales)</title>
-<text x="383.0" y="1130" font-size="12.5" font-weight="700" fill="#0891b2" font-family="Consolas, Menlo, monospace">#239</text>
-<use href="#flag-cl" xlink:href="#flag-cl" x="423.0" y="1119"/>
-<text x="449.0" y="1130" font-size="12" fill="#e2e8f0">San Nicolas TV</text>
-<rect x="734.0" y="1114" width="349.0" height="22" rx="4" fill="#121b30"/>
+<text x="384.0" y="1130" font-size="12.5" font-weight="700" fill="#0891b2" font-family="Consolas, Menlo, monospace">#239</text>
+<use href="#flag-cl" xlink:href="#flag-cl" x="421.0" y="1119"/>
+<text x="441.0" y="1130" font-size="10" opacity="0.95">🇨🇱</text>
+<text x="455.0" y="1130" font-size="12" fill="#e2e8f0">San Nicolas TV</text>
+<rect x="734.0" y="1114" width="349.0" height="22" rx="5" fill="#121b30"/>
 <title>#240 · 🇨🇱 CL — Televida HD (Religiosos)</title>
-<text x="740.0" y="1130" font-size="12.5" font-weight="700" fill="#0891b2" font-family="Consolas, Menlo, monospace">#240</text>
-<use href="#flag-cl" xlink:href="#flag-cl" x="780.0" y="1119"/>
-<text x="806.0" y="1130" font-size="12" fill="#e2e8f0">Televida HD</text>
-<rect x="1091.0" y="1114" width="349.0" height="22" rx="4" fill="#121b30"/>
+<text x="741.0" y="1130" font-size="12.5" font-weight="700" fill="#0891b2" font-family="Consolas, Menlo, monospace">#240</text>
+<use href="#flag-cl" xlink:href="#flag-cl" x="778.0" y="1119"/>
+<text x="798.0" y="1130" font-size="10" opacity="0.95">🇨🇱</text>
+<text x="812.0" y="1130" font-size="12" fill="#e2e8f0">Televida HD</text>
+<rect x="1091.0" y="1114" width="349.0" height="22" rx="5" fill="#121b30"/>
 <title>#241 · 🇨🇱 CL — Abajo e la linea TV (Comunitarios)</title>
-<text x="1097.0" y="1130" font-size="12.5" font-weight="700" fill="#0891b2" font-family="Consolas, Menlo, monospace">#241</text>
-<use href="#flag-cl" xlink:href="#flag-cl" x="1137.0" y="1119"/>
-<text x="1163.0" y="1130" font-size="12" fill="#e2e8f0">Abajo e la linea TV</text>
-<rect x="20.0" y="1138" width="349.0" height="22" rx="4" fill="#0f172a"/>
+<text x="1098.0" y="1130" font-size="12.5" font-weight="700" fill="#0891b2" font-family="Consolas, Menlo, monospace">#241</text>
+<use href="#flag-cl" xlink:href="#flag-cl" x="1135.0" y="1119"/>
+<text x="1155.0" y="1130" font-size="10" opacity="0.95">🇨🇱</text>
+<text x="1169.0" y="1130" font-size="12" fill="#e2e8f0">Abajo e la linea TV</text>
+<rect x="20.0" y="1138" width="349.0" height="22" rx="5" fill="#0f172a"/>
 <title>#242 · 🇨🇱 CL — Apocalipsis TV (Regionales)</title>
-<text x="26.0" y="1154" font-size="12.5" font-weight="700" fill="#0891b2" font-family="Consolas, Menlo, monospace">#242</text>
-<use href="#flag-cl" xlink:href="#flag-cl" x="66.0" y="1143"/>
-<text x="92.0" y="1154" font-size="12" fill="#e2e8f0">Apocalipsis TV</text>
-<rect x="377.0" y="1138" width="349.0" height="22" rx="4" fill="#0f172a"/>
+<text x="27.0" y="1154" font-size="12.5" font-weight="700" fill="#0891b2" font-family="Consolas, Menlo, monospace">#242</text>
+<use href="#flag-cl" xlink:href="#flag-cl" x="64.0" y="1143"/>
+<text x="84.0" y="1154" font-size="10" opacity="0.95">🇨🇱</text>
+<text x="98.0" y="1154" font-size="12" fill="#e2e8f0">Apocalipsis TV</text>
+<rect x="377.0" y="1138" width="349.0" height="22" rx="5" fill="#0f172a"/>
 <title>#243 · 🇨🇱 CL — Factor 80 (Música)</title>
-<text x="383.0" y="1154" font-size="12.5" font-weight="700" fill="#0891b2" font-family="Consolas, Menlo, monospace">#243</text>
-<use href="#flag-cl" xlink:href="#flag-cl" x="423.0" y="1143"/>
-<text x="449.0" y="1154" font-size="12" fill="#e2e8f0">Factor 80</text>
-<rect x="734.0" y="1138" width="349.0" height="22" rx="4" fill="#0f172a"/>
+<text x="384.0" y="1154" font-size="12.5" font-weight="700" fill="#0891b2" font-family="Consolas, Menlo, monospace">#243</text>
+<use href="#flag-cl" xlink:href="#flag-cl" x="421.0" y="1143"/>
+<text x="441.0" y="1154" font-size="10" opacity="0.95">🇨🇱</text>
+<text x="455.0" y="1154" font-size="12" fill="#e2e8f0">Factor 80</text>
+<rect x="734.0" y="1138" width="349.0" height="22" rx="5" fill="#0f172a"/>
 <title>#244 · 🇨🇱 CL — Pucon TV (Regionales)</title>
-<text x="740.0" y="1154" font-size="12.5" font-weight="700" fill="#0891b2" font-family="Consolas, Menlo, monospace">#244</text>
-<use href="#flag-cl" xlink:href="#flag-cl" x="780.0" y="1143"/>
-<text x="806.0" y="1154" font-size="12" fill="#e2e8f0">Pucon TV</text>
-<rect x="1091.0" y="1138" width="349.0" height="22" rx="4" fill="#0f172a"/>
+<text x="741.0" y="1154" font-size="12.5" font-weight="700" fill="#0891b2" font-family="Consolas, Menlo, monospace">#244</text>
+<use href="#flag-cl" xlink:href="#flag-cl" x="778.0" y="1143"/>
+<text x="798.0" y="1154" font-size="10" opacity="0.95">🇨🇱</text>
+<text x="812.0" y="1154" font-size="12" fill="#e2e8f0">Pucon TV</text>
+<rect x="1091.0" y="1138" width="349.0" height="22" rx="5" fill="#0f172a"/>
 <title>#245 · 🇨🇱 CL — Radio Edelweiss (Radio)</title>
-<text x="1097.0" y="1154" font-size="12.5" font-weight="700" fill="#0891b2" font-family="Consolas, Menlo, monospace">#245</text>
-<use href="#flag-cl" xlink:href="#flag-cl" x="1137.0" y="1143"/>
-<text x="1163.0" y="1154" font-size="12" fill="#e2e8f0">Radio Edelweiss</text>
-<rect x="20.0" y="1162" width="349.0" height="22" rx="4" fill="#121b30"/>
+<text x="1098.0" y="1154" font-size="12.5" font-weight="700" fill="#0891b2" font-family="Consolas, Menlo, monospace">#245</text>
+<use href="#flag-cl" xlink:href="#flag-cl" x="1135.0" y="1143"/>
+<text x="1155.0" y="1154" font-size="10" opacity="0.95">🇨🇱</text>
+<text x="1169.0" y="1154" font-size="12" fill="#e2e8f0">Radio Edelweiss</text>
+<rect x="20.0" y="1162" width="349.0" height="22" rx="5" fill="#121b30"/>
 <title>#246 · 🇨🇱 CL — Teleangol Radio (Regionales)</title>
-<text x="26.0" y="1178" font-size="12.5" font-weight="700" fill="#0891b2" font-family="Consolas, Menlo, monospace">#246</text>
-<use href="#flag-cl" xlink:href="#flag-cl" x="66.0" y="1167"/>
-<text x="92.0" y="1178" font-size="12" fill="#e2e8f0">Teleangol Radio</text>
-<rect x="377.0" y="1162" width="349.0" height="22" rx="4" fill="#121b30"/>
+<text x="27.0" y="1178" font-size="12.5" font-weight="700" fill="#0891b2" font-family="Consolas, Menlo, monospace">#246</text>
+<use href="#flag-cl" xlink:href="#flag-cl" x="64.0" y="1167"/>
+<text x="84.0" y="1178" font-size="10" opacity="0.95">🇨🇱</text>
+<text x="98.0" y="1178" font-size="12" fill="#e2e8f0">Teleangol Radio</text>
+<rect x="377.0" y="1162" width="349.0" height="22" rx="5" fill="#121b30"/>
 <title>#247 · 🇨🇱 CL — Temuco TV (Regionales)</title>
-<text x="383.0" y="1178" font-size="12.5" font-weight="700" fill="#0891b2" font-family="Consolas, Menlo, monospace">#247</text>
-<use href="#flag-cl" xlink:href="#flag-cl" x="423.0" y="1167"/>
-<text x="449.0" y="1178" font-size="12" fill="#e2e8f0">Temuco TV</text>
-<rect x="734.0" y="1162" width="349.0" height="22" rx="4" fill="#121b30"/>
+<text x="384.0" y="1178" font-size="12.5" font-weight="700" fill="#0891b2" font-family="Consolas, Menlo, monospace">#247</text>
+<use href="#flag-cl" xlink:href="#flag-cl" x="421.0" y="1167"/>
+<text x="441.0" y="1178" font-size="10" opacity="0.95">🇨🇱</text>
+<text x="455.0" y="1178" font-size="12" fill="#e2e8f0">Temuco TV</text>
+<rect x="734.0" y="1162" width="349.0" height="22" rx="5" fill="#121b30"/>
 <title>#248 · 🇨🇱 CL — TV UCT (Biobío)</title>
-<text x="740.0" y="1178" font-size="12.5" font-weight="700" fill="#0891b2" font-family="Consolas, Menlo, monospace">#248</text>
-<use href="#flag-cl" xlink:href="#flag-cl" x="780.0" y="1167"/>
-<text x="806.0" y="1178" font-size="12" fill="#e2e8f0">TV UCT</text>
-<rect x="1091.0" y="1162" width="349.0" height="22" rx="4" fill="#121b30"/>
+<text x="741.0" y="1178" font-size="12.5" font-weight="700" fill="#0891b2" font-family="Consolas, Menlo, monospace">#248</text>
+<use href="#flag-cl" xlink:href="#flag-cl" x="778.0" y="1167"/>
+<text x="798.0" y="1178" font-size="10" opacity="0.95">🇨🇱</text>
+<text x="812.0" y="1178" font-size="12" fill="#e2e8f0">TV UCT</text>
+<rect x="1091.0" y="1162" width="349.0" height="22" rx="5" fill="#121b30"/>
 <title>#249 · 🇨🇱 CL — TV UCT (Universitarios)</title>
-<text x="1097.0" y="1178" font-size="12.5" font-weight="700" fill="#0891b2" font-family="Consolas, Menlo, monospace">#249</text>
-<use href="#flag-cl" xlink:href="#flag-cl" x="1137.0" y="1167"/>
-<text x="1163.0" y="1178" font-size="12" fill="#e2e8f0">TV UCT</text>
-<rect x="20.0" y="1186" width="349.0" height="22" rx="4" fill="#0f172a"/>
+<text x="1098.0" y="1178" font-size="12.5" font-weight="700" fill="#0891b2" font-family="Consolas, Menlo, monospace">#249</text>
+<use href="#flag-cl" xlink:href="#flag-cl" x="1135.0" y="1167"/>
+<text x="1155.0" y="1178" font-size="10" opacity="0.95">🇨🇱</text>
+<text x="1169.0" y="1178" font-size="12" fill="#e2e8f0">TV UCT</text>
+<rect x="20.0" y="1186" width="349.0" height="22" rx="5" fill="#0f172a"/>
 <title>#250 · 🇨🇱 CL — UFROTV (Universitarios)</title>
-<text x="26.0" y="1202" font-size="12.5" font-weight="700" fill="#0891b2" font-family="Consolas, Menlo, monospace">#250</text>
-<use href="#flag-cl" xlink:href="#flag-cl" x="66.0" y="1191"/>
-<text x="92.0" y="1202" font-size="12" fill="#e2e8f0">UFROTV</text>
-<rect x="377.0" y="1186" width="349.0" height="22" rx="4" fill="#0f172a"/>
+<text x="27.0" y="1202" font-size="12.5" font-weight="700" fill="#0891b2" font-family="Consolas, Menlo, monospace">#250</text>
+<use href="#flag-cl" xlink:href="#flag-cl" x="64.0" y="1191"/>
+<text x="84.0" y="1202" font-size="10" opacity="0.95">🇨🇱</text>
+<text x="98.0" y="1202" font-size="12" fill="#e2e8f0">UFROTV</text>
+<rect x="377.0" y="1186" width="349.0" height="22" rx="5" fill="#0f172a"/>
 <title>#251 · 🇨🇱 CL — ATV Valdivia (Regionales)</title>
-<text x="383.0" y="1202" font-size="12.5" font-weight="700" fill="#0891b2" font-family="Consolas, Menlo, monospace">#251</text>
-<use href="#flag-cl" xlink:href="#flag-cl" x="423.0" y="1191"/>
-<text x="449.0" y="1202" font-size="12" fill="#e2e8f0">ATV Valdivia</text>
-<rect x="734.0" y="1186" width="349.0" height="22" rx="4" fill="#0f172a"/>
+<text x="384.0" y="1202" font-size="12.5" font-weight="700" fill="#0891b2" font-family="Consolas, Menlo, monospace">#251</text>
+<use href="#flag-cl" xlink:href="#flag-cl" x="421.0" y="1191"/>
+<text x="441.0" y="1202" font-size="10" opacity="0.95">🇨🇱</text>
+<text x="455.0" y="1202" font-size="12" fill="#e2e8f0">ATV Valdivia</text>
+<rect x="734.0" y="1186" width="349.0" height="22" rx="5" fill="#0f172a"/>
 <title>#252 · 🇨🇱 CL — Canal Latino 54 (Regionales)</title>
-<text x="740.0" y="1202" font-size="12.5" font-weight="700" fill="#0891b2" font-family="Consolas, Menlo, monospace">#252</text>
-<use href="#flag-cl" xlink:href="#flag-cl" x="780.0" y="1191"/>
-<text x="806.0" y="1202" font-size="12" fill="#e2e8f0">Canal Latino 54</text>
-<rect x="1091.0" y="1186" width="349.0" height="22" rx="4" fill="#0f172a"/>
+<text x="741.0" y="1202" font-size="12.5" font-weight="700" fill="#0891b2" font-family="Consolas, Menlo, monospace">#252</text>
+<use href="#flag-cl" xlink:href="#flag-cl" x="778.0" y="1191"/>
+<text x="798.0" y="1202" font-size="10" opacity="0.95">🇨🇱</text>
+<text x="812.0" y="1202" font-size="12" fill="#e2e8f0">Canal Latino 54</text>
+<rect x="1091.0" y="1186" width="349.0" height="22" rx="5" fill="#0f172a"/>
 <title>#253 · 🇨🇱 CL — Lanco TV (Regionales)</title>
-<text x="1097.0" y="1202" font-size="12.5" font-weight="700" fill="#0891b2" font-family="Consolas, Menlo, monospace">#253</text>
-<use href="#flag-cl" xlink:href="#flag-cl" x="1137.0" y="1191"/>
-<text x="1163.0" y="1202" font-size="12" fill="#e2e8f0">Lanco TV</text>
-<rect x="20.0" y="1210" width="349.0" height="22" rx="4" fill="#121b30"/>
+<text x="1098.0" y="1202" font-size="12.5" font-weight="700" fill="#0891b2" font-family="Consolas, Menlo, monospace">#253</text>
+<use href="#flag-cl" xlink:href="#flag-cl" x="1135.0" y="1191"/>
+<text x="1155.0" y="1202" font-size="10" opacity="0.95">🇨🇱</text>
+<text x="1169.0" y="1202" font-size="12" fill="#e2e8f0">Lanco TV</text>
+<rect x="20.0" y="1210" width="349.0" height="22" rx="5" fill="#121b30"/>
 <title>#254 · 🇨🇱 CL — Metanoia TV (Religiosos)</title>
-<text x="26.0" y="1226" font-size="12.5" font-weight="700" fill="#0891b2" font-family="Consolas, Menlo, monospace">#254</text>
-<use href="#flag-cl" xlink:href="#flag-cl" x="66.0" y="1215"/>
-<text x="92.0" y="1226" font-size="12" fill="#e2e8f0">Metanoia TV</text>
-<rect x="377.0" y="1210" width="349.0" height="22" rx="4" fill="#121b30"/>
+<text x="27.0" y="1226" font-size="12.5" font-weight="700" fill="#0891b2" font-family="Consolas, Menlo, monospace">#254</text>
+<use href="#flag-cl" xlink:href="#flag-cl" x="64.0" y="1215"/>
+<text x="84.0" y="1226" font-size="10" opacity="0.95">🇨🇱</text>
+<text x="98.0" y="1226" font-size="12" fill="#e2e8f0">Metanoia TV</text>
+<rect x="377.0" y="1210" width="349.0" height="22" rx="5" fill="#121b30"/>
 <title>#255 · 🇨🇱 CL — Osorno TV+ (Regionales)</title>
-<text x="383.0" y="1226" font-size="12.5" font-weight="700" fill="#0891b2" font-family="Consolas, Menlo, monospace">#255</text>
-<use href="#flag-cl" xlink:href="#flag-cl" x="423.0" y="1215"/>
-<text x="449.0" y="1226" font-size="12" fill="#e2e8f0">Osorno TV+</text>
-<rect x="734.0" y="1210" width="349.0" height="22" rx="4" fill="#121b30"/>
+<text x="384.0" y="1226" font-size="12.5" font-weight="700" fill="#0891b2" font-family="Consolas, Menlo, monospace">#255</text>
+<use href="#flag-cl" xlink:href="#flag-cl" x="421.0" y="1215"/>
+<text x="441.0" y="1226" font-size="10" opacity="0.95">🇨🇱</text>
+<text x="455.0" y="1226" font-size="12" fill="#e2e8f0">Osorno TV+</text>
+<rect x="734.0" y="1210" width="349.0" height="22" rx="5" fill="#121b30"/>
 <title>#256 · 🇨🇱 CL — Radio Maqui (Radio)</title>
-<text x="740.0" y="1226" font-size="12.5" font-weight="700" fill="#0891b2" font-family="Consolas, Menlo, monospace">#256</text>
-<use href="#flag-cl" xlink:href="#flag-cl" x="780.0" y="1215"/>
-<text x="806.0" y="1226" font-size="12" fill="#e2e8f0">Radio Maqui</text>
-<rect x="1091.0" y="1210" width="349.0" height="22" rx="4" fill="#121b30"/>
+<text x="741.0" y="1226" font-size="12.5" font-weight="700" fill="#0891b2" font-family="Consolas, Menlo, monospace">#256</text>
+<use href="#flag-cl" xlink:href="#flag-cl" x="778.0" y="1215"/>
+<text x="798.0" y="1226" font-size="10" opacity="0.95">🇨🇱</text>
+<text x="812.0" y="1226" font-size="12" fill="#e2e8f0">Radio Maqui</text>
+<rect x="1091.0" y="1210" width="349.0" height="22" rx="5" fill="#121b30"/>
 <title>#257 · 🇨🇱 CL — Ritmo TV (Radio)</title>
-<text x="1097.0" y="1226" font-size="12.5" font-weight="700" fill="#0891b2" font-family="Consolas, Menlo, monospace">#257</text>
-<use href="#flag-cl" xlink:href="#flag-cl" x="1137.0" y="1215"/>
-<text x="1163.0" y="1226" font-size="12" fill="#e2e8f0">Ritmo TV</text>
-<rect x="20.0" y="1234" width="349.0" height="22" rx="4" fill="#0f172a"/>
+<text x="1098.0" y="1226" font-size="12.5" font-weight="700" fill="#0891b2" font-family="Consolas, Menlo, monospace">#257</text>
+<use href="#flag-cl" xlink:href="#flag-cl" x="1135.0" y="1215"/>
+<text x="1155.0" y="1226" font-size="10" opacity="0.95">🇨🇱</text>
+<text x="1169.0" y="1226" font-size="12" fill="#e2e8f0">Ritmo TV</text>
+<rect x="20.0" y="1234" width="349.0" height="22" rx="5" fill="#0f172a"/>
 <title>#258 · 🇨🇱 CL — TV Valdivia (Regionales)</title>
-<text x="26.0" y="1250" font-size="12.5" font-weight="700" fill="#0891b2" font-family="Consolas, Menlo, monospace">#258</text>
-<use href="#flag-cl" xlink:href="#flag-cl" x="66.0" y="1239"/>
-<text x="92.0" y="1250" font-size="12" fill="#e2e8f0">TV Valdivia</text>
-<rect x="377.0" y="1234" width="349.0" height="22" rx="4" fill="#0f172a"/>
+<text x="27.0" y="1250" font-size="12.5" font-weight="700" fill="#0891b2" font-family="Consolas, Menlo, monospace">#258</text>
+<use href="#flag-cl" xlink:href="#flag-cl" x="64.0" y="1239"/>
+<text x="84.0" y="1250" font-size="10" opacity="0.95">🇨🇱</text>
+<text x="98.0" y="1250" font-size="12" fill="#e2e8f0">TV Valdivia</text>
+<rect x="377.0" y="1234" width="349.0" height="22" rx="5" fill="#0f172a"/>
 <title>#259 · 🇨🇱 CL — Alerce TV (Regionales)</title>
-<text x="383.0" y="1250" font-size="12.5" font-weight="700" fill="#0891b2" font-family="Consolas, Menlo, monospace">#259</text>
-<use href="#flag-cl" xlink:href="#flag-cl" x="423.0" y="1239"/>
-<text x="449.0" y="1250" font-size="12" fill="#e2e8f0">Alerce TV</text>
-<rect x="734.0" y="1234" width="349.0" height="22" rx="4" fill="#0f172a"/>
+<text x="384.0" y="1250" font-size="12.5" font-weight="700" fill="#0891b2" font-family="Consolas, Menlo, monospace">#259</text>
+<use href="#flag-cl" xlink:href="#flag-cl" x="421.0" y="1239"/>
+<text x="441.0" y="1250" font-size="10" opacity="0.95">🇨🇱</text>
+<text x="455.0" y="1250" font-size="12" fill="#e2e8f0">Alerce TV</text>
+<rect x="734.0" y="1234" width="349.0" height="22" rx="5" fill="#0f172a"/>
 <title>#260 · 🇨🇱 CL — CalbucoNet (Regionales)</title>
-<text x="740.0" y="1250" font-size="12.5" font-weight="700" fill="#0891b2" font-family="Consolas, Menlo, monospace">#260</text>
-<use href="#flag-cl" xlink:href="#flag-cl" x="780.0" y="1239"/>
-<text x="806.0" y="1250" font-size="12" fill="#e2e8f0">CalbucoNet</text>
-<rect x="1091.0" y="1234" width="349.0" height="22" rx="4" fill="#0f172a"/>
+<text x="741.0" y="1250" font-size="12.5" font-weight="700" fill="#0891b2" font-family="Consolas, Menlo, monospace">#260</text>
+<use href="#flag-cl" xlink:href="#flag-cl" x="778.0" y="1239"/>
+<text x="798.0" y="1250" font-size="10" opacity="0.95">🇨🇱</text>
+<text x="812.0" y="1250" font-size="12" fill="#e2e8f0">CalbucoNet</text>
+<rect x="1091.0" y="1234" width="349.0" height="22" rx="5" fill="#0f172a"/>
 <title>#261 · 🇨🇱 CL — Canal 2 Quellon (Regionales)</title>
-<text x="1097.0" y="1250" font-size="12.5" font-weight="700" fill="#0891b2" font-family="Consolas, Menlo, monospace">#261</text>
-<use href="#flag-cl" xlink:href="#flag-cl" x="1137.0" y="1239"/>
-<text x="1163.0" y="1250" font-size="12" fill="#e2e8f0">Canal 2 Quellon</text>
-<rect x="20.0" y="1258" width="349.0" height="22" rx="4" fill="#121b30"/>
+<text x="1098.0" y="1250" font-size="12.5" font-weight="700" fill="#0891b2" font-family="Consolas, Menlo, monospace">#261</text>
+<use href="#flag-cl" xlink:href="#flag-cl" x="1135.0" y="1239"/>
+<text x="1155.0" y="1250" font-size="10" opacity="0.95">🇨🇱</text>
+<text x="1169.0" y="1250" font-size="12" fill="#e2e8f0">Canal 2 Quellon</text>
+<rect x="20.0" y="1258" width="349.0" height="22" rx="5" fill="#121b30"/>
 <title>#262 · 🇨🇱 CL — Canal 48HD Musica Calbuco DTV (Regionales)</title>
-<text x="26.0" y="1274" font-size="12.5" font-weight="700" fill="#0891b2" font-family="Consolas, Menlo, monospace">#262</text>
-<use href="#flag-cl" xlink:href="#flag-cl" x="66.0" y="1263"/>
-<text x="92.0" y="1274" font-size="12" fill="#e2e8f0">Canal 48HD Musica Calbuco DTV</text>
-<rect x="377.0" y="1258" width="349.0" height="22" rx="4" fill="#121b30"/>
+<text x="27.0" y="1274" font-size="12.5" font-weight="700" fill="#0891b2" font-family="Consolas, Menlo, monospace">#262</text>
+<use href="#flag-cl" xlink:href="#flag-cl" x="64.0" y="1263"/>
+<text x="84.0" y="1274" font-size="10" opacity="0.95">🇨🇱</text>
+<text x="98.0" y="1274" font-size="12" fill="#e2e8f0">Canal 48HD Musica Calbuco DTV</text>
+<rect x="377.0" y="1258" width="349.0" height="22" rx="5" fill="#121b30"/>
 <title>#263 · 🇨🇱 CL — Canal 5 Puerto Montt (Regionales)</title>
-<text x="383.0" y="1274" font-size="12.5" font-weight="700" fill="#0891b2" font-family="Consolas, Menlo, monospace">#263</text>
-<use href="#flag-cl" xlink:href="#flag-cl" x="423.0" y="1263"/>
-<text x="449.0" y="1274" font-size="12" fill="#e2e8f0">Canal 5 Puerto Montt</text>
-<rect x="734.0" y="1258" width="349.0" height="22" rx="4" fill="#121b30"/>
+<text x="384.0" y="1274" font-size="12.5" font-weight="700" fill="#0891b2" font-family="Consolas, Menlo, monospace">#263</text>
+<use href="#flag-cl" xlink:href="#flag-cl" x="421.0" y="1263"/>
+<text x="441.0" y="1274" font-size="10" opacity="0.95">🇨🇱</text>
+<text x="455.0" y="1274" font-size="12" fill="#e2e8f0">Canal 5 Puerto Montt</text>
+<rect x="734.0" y="1258" width="349.0" height="22" rx="5" fill="#121b30"/>
 <title>#264 · 🇨🇱 CL — Canal Chilote (Regionales)</title>
-<text x="740.0" y="1274" font-size="12.5" font-weight="700" fill="#0891b2" font-family="Consolas, Menlo, monospace">#264</text>
-<use href="#flag-cl" xlink:href="#flag-cl" x="780.0" y="1263"/>
-<text x="806.0" y="1274" font-size="12" fill="#e2e8f0">Canal Chilote</text>
-<rect x="1091.0" y="1258" width="349.0" height="22" rx="4" fill="#121b30"/>
+<text x="741.0" y="1274" font-size="12.5" font-weight="700" fill="#0891b2" font-family="Consolas, Menlo, monospace">#264</text>
+<use href="#flag-cl" xlink:href="#flag-cl" x="778.0" y="1263"/>
+<text x="798.0" y="1274" font-size="10" opacity="0.95">🇨🇱</text>
+<text x="812.0" y="1274" font-size="12" fill="#e2e8f0">Canal Chilote</text>
+<rect x="1091.0" y="1258" width="349.0" height="22" rx="5" fill="#121b30"/>
 <title>#265 · 🇨🇱 CL — Canal Del Sur (Regionales)</title>
-<text x="1097.0" y="1274" font-size="12.5" font-weight="700" fill="#0891b2" font-family="Consolas, Menlo, monospace">#265</text>
-<use href="#flag-cl" xlink:href="#flag-cl" x="1137.0" y="1263"/>
-<text x="1163.0" y="1274" font-size="12" fill="#e2e8f0">Canal Del Sur</text>
-<rect x="20.0" y="1282" width="349.0" height="22" rx="4" fill="#0f172a"/>
+<text x="1098.0" y="1274" font-size="12.5" font-weight="700" fill="#0891b2" font-family="Consolas, Menlo, monospace">#265</text>
+<use href="#flag-cl" xlink:href="#flag-cl" x="1135.0" y="1263"/>
+<text x="1155.0" y="1274" font-size="10" opacity="0.95">🇨🇱</text>
+<text x="1169.0" y="1274" font-size="12" fill="#e2e8f0">Canal Del Sur</text>
+<rect x="20.0" y="1282" width="349.0" height="22" rx="5" fill="#0f172a"/>
 <title>#266 · 🇨🇱 CL — Chiloe Red 25 (Regionales)</title>
-<text x="26.0" y="1298" font-size="12.5" font-weight="700" fill="#0891b2" font-family="Consolas, Menlo, monospace">#266</text>
-<use href="#flag-cl" xlink:href="#flag-cl" x="66.0" y="1287"/>
-<text x="92.0" y="1298" font-size="12" fill="#e2e8f0">Chiloe Red 25</text>
-<rect x="377.0" y="1282" width="349.0" height="22" rx="4" fill="#0f172a"/>
+<text x="27.0" y="1298" font-size="12.5" font-weight="700" fill="#0891b2" font-family="Consolas, Menlo, monospace">#266</text>
+<use href="#flag-cl" xlink:href="#flag-cl" x="64.0" y="1287"/>
+<text x="84.0" y="1298" font-size="10" opacity="0.95">🇨🇱</text>
+<text x="98.0" y="1298" font-size="12" fill="#e2e8f0">Chiloe Red 25</text>
+<rect x="377.0" y="1282" width="349.0" height="22" rx="5" fill="#0f172a"/>
 <title>#267 · 🇨🇱 CL — Decima TV (Regionales)</title>
-<text x="383.0" y="1298" font-size="12.5" font-weight="700" fill="#0891b2" font-family="Consolas, Menlo, monospace">#267</text>
-<use href="#flag-cl" xlink:href="#flag-cl" x="423.0" y="1287"/>
-<text x="449.0" y="1298" font-size="12" fill="#e2e8f0">Decima TV</text>
-<rect x="734.0" y="1282" width="349.0" height="22" rx="4" fill="#0f172a"/>
+<text x="384.0" y="1298" font-size="12.5" font-weight="700" fill="#0891b2" font-family="Consolas, Menlo, monospace">#267</text>
+<use href="#flag-cl" xlink:href="#flag-cl" x="421.0" y="1287"/>
+<text x="441.0" y="1298" font-size="10" opacity="0.95">🇨🇱</text>
+<text x="455.0" y="1298" font-size="12" fill="#e2e8f0">Decima TV</text>
+<rect x="734.0" y="1282" width="349.0" height="22" rx="5" fill="#0f172a"/>
 <title>#268 · 🇨🇱 CL — En la Noticia (Radio)</title>
-<text x="740.0" y="1298" font-size="12.5" font-weight="700" fill="#0891b2" font-family="Consolas, Menlo, monospace">#268</text>
-<use href="#flag-cl" xlink:href="#flag-cl" x="780.0" y="1287"/>
-<text x="806.0" y="1298" font-size="12" fill="#e2e8f0">En la Noticia</text>
-<rect x="1091.0" y="1282" width="349.0" height="22" rx="4" fill="#0f172a"/>
+<text x="741.0" y="1298" font-size="12.5" font-weight="700" fill="#0891b2" font-family="Consolas, Menlo, monospace">#268</text>
+<use href="#flag-cl" xlink:href="#flag-cl" x="778.0" y="1287"/>
+<text x="798.0" y="1298" font-size="10" opacity="0.95">🇨🇱</text>
+<text x="812.0" y="1298" font-size="12" fill="#e2e8f0">En la Noticia</text>
+<rect x="1091.0" y="1282" width="349.0" height="22" rx="5" fill="#0f172a"/>
 <title>#269 · 🇨🇱 CL — Fortaleza Radio (Religiosos)</title>
-<text x="1097.0" y="1298" font-size="12.5" font-weight="700" fill="#0891b2" font-family="Consolas, Menlo, monospace">#269</text>
-<use href="#flag-cl" xlink:href="#flag-cl" x="1137.0" y="1287"/>
-<text x="1163.0" y="1298" font-size="12" fill="#e2e8f0">Fortaleza Radio</text>
-<rect x="20.0" y="1306" width="349.0" height="22" rx="4" fill="#121b30"/>
+<text x="1098.0" y="1298" font-size="12.5" font-weight="700" fill="#0891b2" font-family="Consolas, Menlo, monospace">#269</text>
+<use href="#flag-cl" xlink:href="#flag-cl" x="1135.0" y="1287"/>
+<text x="1155.0" y="1298" font-size="10" opacity="0.95">🇨🇱</text>
+<text x="1169.0" y="1298" font-size="12" fill="#e2e8f0">Fortaleza Radio</text>
+<rect x="20.0" y="1306" width="349.0" height="22" rx="5" fill="#121b30"/>
 <title>#270 · 🇨🇱 CL — Hito Cero TV (Regionales)</title>
-<text x="26.0" y="1322" font-size="12.5" font-weight="700" fill="#0891b2" font-family="Consolas, Menlo, monospace">#270</text>
-<use href="#flag-cl" xlink:href="#flag-cl" x="66.0" y="1311"/>
-<text x="92.0" y="1322" font-size="12" fill="#e2e8f0">Hito Cero TV</text>
-<rect x="377.0" y="1306" width="349.0" height="22" rx="4" fill="#121b30"/>
+<text x="27.0" y="1322" font-size="12.5" font-weight="700" fill="#0891b2" font-family="Consolas, Menlo, monospace">#270</text>
+<use href="#flag-cl" xlink:href="#flag-cl" x="64.0" y="1311"/>
+<text x="84.0" y="1322" font-size="10" opacity="0.95">🇨🇱</text>
+<text x="98.0" y="1322" font-size="12" fill="#e2e8f0">Hito Cero TV</text>
+<rect x="377.0" y="1306" width="349.0" height="22" rx="5" fill="#121b30"/>
 <title>#271 · 🇨🇱 CL — Horeb Television (Religiosos)</title>
-<text x="383.0" y="1322" font-size="12.5" font-weight="700" fill="#0891b2" font-family="Consolas, Menlo, monospace">#271</text>
-<use href="#flag-cl" xlink:href="#flag-cl" x="423.0" y="1311"/>
-<text x="449.0" y="1322" font-size="12" fill="#e2e8f0">Horeb Television</text>
-<rect x="734.0" y="1306" width="349.0" height="22" rx="4" fill="#121b30"/>
+<text x="384.0" y="1322" font-size="12.5" font-weight="700" fill="#0891b2" font-family="Consolas, Menlo, monospace">#271</text>
+<use href="#flag-cl" xlink:href="#flag-cl" x="421.0" y="1311"/>
+<text x="441.0" y="1322" font-size="10" opacity="0.95">🇨🇱</text>
+<text x="455.0" y="1322" font-size="12" fill="#e2e8f0">Horeb Television</text>
+<rect x="734.0" y="1306" width="349.0" height="22" rx="5" fill="#121b30"/>
 <title>#272 · 🇨🇱 CL — Interradio TV (Radio)</title>
-<text x="740.0" y="1322" font-size="12.5" font-weight="700" fill="#0891b2" font-family="Consolas, Menlo, monospace">#272</text>
-<use href="#flag-cl" xlink:href="#flag-cl" x="780.0" y="1311"/>
-<text x="806.0" y="1322" font-size="12" fill="#e2e8f0">Interradio TV</text>
-<rect x="1091.0" y="1306" width="349.0" height="22" rx="4" fill="#121b30"/>
+<text x="741.0" y="1322" font-size="12.5" font-weight="700" fill="#0891b2" font-family="Consolas, Menlo, monospace">#272</text>
+<use href="#flag-cl" xlink:href="#flag-cl" x="778.0" y="1311"/>
+<text x="798.0" y="1322" font-size="10" opacity="0.95">🇨🇱</text>
+<text x="812.0" y="1322" font-size="12" fill="#e2e8f0">Interradio TV</text>
+<rect x="1091.0" y="1306" width="349.0" height="22" rx="5" fill="#121b30"/>
 <title>#273 · 🇨🇱 CL — Onda Radio TV (Radio)</title>
-<text x="1097.0" y="1322" font-size="12.5" font-weight="700" fill="#0891b2" font-family="Consolas, Menlo, monospace">#273</text>
-<use href="#flag-cl" xlink:href="#flag-cl" x="1137.0" y="1311"/>
-<text x="1163.0" y="1322" font-size="12" fill="#e2e8f0">Onda Radio TV</text>
-<rect x="20.0" y="1330" width="349.0" height="22" rx="4" fill="#0f172a"/>
+<text x="1098.0" y="1322" font-size="12.5" font-weight="700" fill="#0891b2" font-family="Consolas, Menlo, monospace">#273</text>
+<use href="#flag-cl" xlink:href="#flag-cl" x="1135.0" y="1311"/>
+<text x="1155.0" y="1322" font-size="10" opacity="0.95">🇨🇱</text>
+<text x="1169.0" y="1322" font-size="12" fill="#e2e8f0">Onda Radio TV</text>
+<rect x="20.0" y="1330" width="349.0" height="22" rx="5" fill="#0f172a"/>
 <title>#274 · 🇨🇱 CL — Patagonia Radio TV (Radio)</title>
-<text x="26.0" y="1346" font-size="12.5" font-weight="700" fill="#0891b2" font-family="Consolas, Menlo, monospace">#274</text>
-<use href="#flag-cl" xlink:href="#flag-cl" x="66.0" y="1335"/>
-<text x="92.0" y="1346" font-size="12" fill="#e2e8f0">Patagonia Radio TV</text>
-<rect x="377.0" y="1330" width="349.0" height="22" rx="4" fill="#0f172a"/>
+<text x="27.0" y="1346" font-size="12.5" font-weight="700" fill="#0891b2" font-family="Consolas, Menlo, monospace">#274</text>
+<use href="#flag-cl" xlink:href="#flag-cl" x="64.0" y="1335"/>
+<text x="84.0" y="1346" font-size="10" opacity="0.95">🇨🇱</text>
+<text x="98.0" y="1346" font-size="12" fill="#e2e8f0">Patagonia Radio TV</text>
+<rect x="377.0" y="1330" width="349.0" height="22" rx="5" fill="#0f172a"/>
 <title>#275 · 🇨🇱 CL — Radio Chiloe (Radio)</title>
-<text x="383.0" y="1346" font-size="12.5" font-weight="700" fill="#0891b2" font-family="Consolas, Menlo, monospace">#275</text>
-<use href="#flag-cl" xlink:href="#flag-cl" x="423.0" y="1335"/>
-<text x="449.0" y="1346" font-size="12" fill="#e2e8f0">Radio Chiloe</text>
-<rect x="734.0" y="1330" width="349.0" height="22" rx="4" fill="#0f172a"/>
+<text x="384.0" y="1346" font-size="12.5" font-weight="700" fill="#0891b2" font-family="Consolas, Menlo, monospace">#275</text>
+<use href="#flag-cl" xlink:href="#flag-cl" x="421.0" y="1335"/>
+<text x="441.0" y="1346" font-size="10" opacity="0.95">🇨🇱</text>
+<text x="455.0" y="1346" font-size="12" fill="#e2e8f0">Radio Chiloe</text>
+<rect x="734.0" y="1330" width="349.0" height="22" rx="5" fill="#0f172a"/>
 <title>#276 · 🇨🇱 CL — Ruta 215 TV (General)</title>
-<text x="740.0" y="1346" font-size="12.5" font-weight="700" fill="#0891b2" font-family="Consolas, Menlo, monospace">#276</text>
-<use href="#flag-cl" xlink:href="#flag-cl" x="780.0" y="1335"/>
-<text x="806.0" y="1346" font-size="12" fill="#e2e8f0">Ruta 215 TV</text>
-<rect x="1091.0" y="1330" width="349.0" height="22" rx="4" fill="#0f172a"/>
+<text x="741.0" y="1346" font-size="12.5" font-weight="700" fill="#0891b2" font-family="Consolas, Menlo, monospace">#276</text>
+<use href="#flag-cl" xlink:href="#flag-cl" x="778.0" y="1335"/>
+<text x="798.0" y="1346" font-size="10" opacity="0.95">🇨🇱</text>
+<text x="812.0" y="1346" font-size="12" fill="#e2e8f0">Ruta 215 TV</text>
+<rect x="1091.0" y="1330" width="349.0" height="22" rx="5" fill="#0f172a"/>
 <title>#277 · 🇨🇱 CL — T-Vinet (Regionales)</title>
-<text x="1097.0" y="1346" font-size="12.5" font-weight="700" fill="#0891b2" font-family="Consolas, Menlo, monospace">#277</text>
-<use href="#flag-cl" xlink:href="#flag-cl" x="1137.0" y="1335"/>
-<text x="1163.0" y="1346" font-size="12" fill="#e2e8f0">T-Vinet</text>
-<rect x="20.0" y="1354" width="349.0" height="22" rx="4" fill="#121b30"/>
+<text x="1098.0" y="1346" font-size="12.5" font-weight="700" fill="#0891b2" font-family="Consolas, Menlo, monospace">#277</text>
+<use href="#flag-cl" xlink:href="#flag-cl" x="1135.0" y="1335"/>
+<text x="1155.0" y="1346" font-size="10" opacity="0.95">🇨🇱</text>
+<text x="1169.0" y="1346" font-size="12" fill="#e2e8f0">T-Vinet</text>
+<rect x="20.0" y="1354" width="349.0" height="22" rx="5" fill="#121b30"/>
 <title>#278 · 🇨🇱 CL — TVM (Regionales)</title>
-<text x="26.0" y="1370" font-size="12.5" font-weight="700" fill="#0891b2" font-family="Consolas, Menlo, monospace">#278</text>
-<use href="#flag-cl" xlink:href="#flag-cl" x="66.0" y="1359"/>
-<text x="92.0" y="1370" font-size="12" fill="#e2e8f0">TVM</text>
-<rect x="377.0" y="1354" width="349.0" height="22" rx="4" fill="#121b30"/>
+<text x="27.0" y="1370" font-size="12.5" font-weight="700" fill="#0891b2" font-family="Consolas, Menlo, monospace">#278</text>
+<use href="#flag-cl" xlink:href="#flag-cl" x="64.0" y="1359"/>
+<text x="84.0" y="1370" font-size="10" opacity="0.95">🇨🇱</text>
+<text x="98.0" y="1370" font-size="12" fill="#e2e8f0">TVM</text>
+<rect x="377.0" y="1354" width="349.0" height="22" rx="5" fill="#121b30"/>
 <title>#279 · 🇨🇱 CL — ULagos TV (Universitarios)</title>
-<text x="383.0" y="1370" font-size="12.5" font-weight="700" fill="#0891b2" font-family="Consolas, Menlo, monospace">#279</text>
-<use href="#flag-cl" xlink:href="#flag-cl" x="423.0" y="1359"/>
-<text x="449.0" y="1370" font-size="12" fill="#e2e8f0">ULagos TV</text>
-<rect x="734.0" y="1354" width="349.0" height="22" rx="4" fill="#121b30"/>
+<text x="384.0" y="1370" font-size="12.5" font-weight="700" fill="#0891b2" font-family="Consolas, Menlo, monospace">#279</text>
+<use href="#flag-cl" xlink:href="#flag-cl" x="421.0" y="1359"/>
+<text x="441.0" y="1370" font-size="10" opacity="0.95">🇨🇱</text>
+<text x="455.0" y="1370" font-size="12" fill="#e2e8f0">ULagos TV</text>
+<rect x="734.0" y="1354" width="349.0" height="22" rx="5" fill="#121b30"/>
 <title>#280 · 🇨🇱 CL — Vision TV (Regionales)</title>
-<text x="740.0" y="1370" font-size="12.5" font-weight="700" fill="#0891b2" font-family="Consolas, Menlo, monospace">#280</text>
-<use href="#flag-cl" xlink:href="#flag-cl" x="780.0" y="1359"/>
-<text x="806.0" y="1370" font-size="12" fill="#e2e8f0">Vision TV</text>
-<rect x="1091.0" y="1354" width="349.0" height="22" rx="4" fill="#121b30"/>
+<text x="741.0" y="1370" font-size="12.5" font-weight="700" fill="#0891b2" font-family="Consolas, Menlo, monospace">#280</text>
+<use href="#flag-cl" xlink:href="#flag-cl" x="778.0" y="1359"/>
+<text x="798.0" y="1370" font-size="10" opacity="0.95">🇨🇱</text>
+<text x="812.0" y="1370" font-size="12" fill="#e2e8f0">Vision TV</text>
+<rect x="1091.0" y="1354" width="349.0" height="22" rx="5" fill="#121b30"/>
 <title>#281 · 🇨🇱 CL — Zona Play Radio (Radio)</title>
-<text x="1097.0" y="1370" font-size="12.5" font-weight="700" fill="#0891b2" font-family="Consolas, Menlo, monospace">#281</text>
-<use href="#flag-cl" xlink:href="#flag-cl" x="1137.0" y="1359"/>
-<text x="1163.0" y="1370" font-size="12" fill="#e2e8f0">Zona Play Radio</text>
-<rect x="20.0" y="1378" width="349.0" height="22" rx="4" fill="#0f172a"/>
+<text x="1098.0" y="1370" font-size="12.5" font-weight="700" fill="#0891b2" font-family="Consolas, Menlo, monospace">#281</text>
+<use href="#flag-cl" xlink:href="#flag-cl" x="1135.0" y="1359"/>
+<text x="1155.0" y="1370" font-size="10" opacity="0.95">🇨🇱</text>
+<text x="1169.0" y="1370" font-size="12" fill="#e2e8f0">Zona Play Radio</text>
+<rect x="20.0" y="1378" width="349.0" height="22" rx="5" fill="#0f172a"/>
 <title>#282 · 🇨🇱 CL — Aysen TV (Regionales)</title>
-<text x="26.0" y="1394" font-size="12.5" font-weight="700" fill="#0891b2" font-family="Consolas, Menlo, monospace">#282</text>
-<use href="#flag-cl" xlink:href="#flag-cl" x="66.0" y="1383"/>
-<text x="92.0" y="1394" font-size="12" fill="#e2e8f0">Aysen TV</text>
-<rect x="377.0" y="1378" width="349.0" height="22" rx="4" fill="#0f172a"/>
+<text x="27.0" y="1394" font-size="12.5" font-weight="700" fill="#0891b2" font-family="Consolas, Menlo, monospace">#282</text>
+<use href="#flag-cl" xlink:href="#flag-cl" x="64.0" y="1383"/>
+<text x="84.0" y="1394" font-size="10" opacity="0.95">🇨🇱</text>
+<text x="98.0" y="1394" font-size="12" fill="#e2e8f0">Aysen TV</text>
+<rect x="377.0" y="1378" width="349.0" height="22" rx="5" fill="#0f172a"/>
 <title>#283 · 🇨🇱 CL — Canal 11 TV Aysen (Regionales)</title>
-<text x="383.0" y="1394" font-size="12.5" font-weight="700" fill="#0891b2" font-family="Consolas, Menlo, monospace">#283</text>
-<use href="#flag-cl" xlink:href="#flag-cl" x="423.0" y="1383"/>
-<text x="449.0" y="1394" font-size="12" fill="#e2e8f0">Canal 11 TV Aysen</text>
-<rect x="734.0" y="1378" width="349.0" height="22" rx="4" fill="#0f172a"/>
+<text x="384.0" y="1394" font-size="12.5" font-weight="700" fill="#0891b2" font-family="Consolas, Menlo, monospace">#283</text>
+<use href="#flag-cl" xlink:href="#flag-cl" x="421.0" y="1383"/>
+<text x="441.0" y="1394" font-size="10" opacity="0.95">🇨🇱</text>
+<text x="455.0" y="1394" font-size="12" fill="#e2e8f0">Canal 11 TV Aysen</text>
+<rect x="734.0" y="1378" width="349.0" height="22" rx="5" fill="#0f172a"/>
 <title>#284 · 🇨🇱 CL — Ciudadano Radio (Radio)</title>
-<text x="740.0" y="1394" font-size="12.5" font-weight="700" fill="#0891b2" font-family="Consolas, Menlo, monospace">#284</text>
-<use href="#flag-cl" xlink:href="#flag-cl" x="780.0" y="1383"/>
-<text x="806.0" y="1394" font-size="12" fill="#e2e8f0">Ciudadano Radio</text>
-<rect x="1091.0" y="1378" width="349.0" height="22" rx="4" fill="#0f172a"/>
+<text x="741.0" y="1394" font-size="12.5" font-weight="700" fill="#0891b2" font-family="Consolas, Menlo, monospace">#284</text>
+<use href="#flag-cl" xlink:href="#flag-cl" x="778.0" y="1383"/>
+<text x="798.0" y="1394" font-size="10" opacity="0.95">🇨🇱</text>
+<text x="812.0" y="1394" font-size="12" fill="#e2e8f0">Ciudadano Radio</text>
+<rect x="1091.0" y="1378" width="349.0" height="22" rx="5" fill="#0f172a"/>
 <title>#285 · 🇨🇱 CL — Coyhaique TV (Regionales)</title>
-<text x="1097.0" y="1394" font-size="12.5" font-weight="700" fill="#0891b2" font-family="Consolas, Menlo, monospace">#285</text>
-<use href="#flag-cl" xlink:href="#flag-cl" x="1137.0" y="1383"/>
-<text x="1163.0" y="1394" font-size="12" fill="#e2e8f0">Coyhaique TV</text>
-<rect x="20.0" y="1402" width="349.0" height="22" rx="4" fill="#121b30"/>
+<text x="1098.0" y="1394" font-size="12.5" font-weight="700" fill="#0891b2" font-family="Consolas, Menlo, monospace">#285</text>
+<use href="#flag-cl" xlink:href="#flag-cl" x="1135.0" y="1383"/>
+<text x="1155.0" y="1394" font-size="10" opacity="0.95">🇨🇱</text>
+<text x="1169.0" y="1394" font-size="12" fill="#e2e8f0">Coyhaique TV</text>
+<rect x="20.0" y="1402" width="349.0" height="22" rx="5" fill="#121b30"/>
 <title>#286 · 🇨🇱 CL — La Melinkana TV (Regionales)</title>
-<text x="26.0" y="1418" font-size="12.5" font-weight="700" fill="#0891b2" font-family="Consolas, Menlo, monospace">#286</text>
-<use href="#flag-cl" xlink:href="#flag-cl" x="66.0" y="1407"/>
-<text x="92.0" y="1418" font-size="12" fill="#e2e8f0">La Melinkana TV</text>
-<rect x="377.0" y="1402" width="349.0" height="22" rx="4" fill="#121b30"/>
+<text x="27.0" y="1418" font-size="12.5" font-weight="700" fill="#0891b2" font-family="Consolas, Menlo, monospace">#286</text>
+<use href="#flag-cl" xlink:href="#flag-cl" x="64.0" y="1407"/>
+<text x="84.0" y="1418" font-size="10" opacity="0.95">🇨🇱</text>
+<text x="98.0" y="1418" font-size="12" fill="#e2e8f0">La Melinkana TV</text>
+<rect x="377.0" y="1402" width="349.0" height="22" rx="5" fill="#121b30"/>
 <title>#287 · 🇨🇱 CL — Radio Genial TV (Radio)</title>
-<text x="383.0" y="1418" font-size="12.5" font-weight="700" fill="#0891b2" font-family="Consolas, Menlo, monospace">#287</text>
-<use href="#flag-cl" xlink:href="#flag-cl" x="423.0" y="1407"/>
-<text x="449.0" y="1418" font-size="12" fill="#e2e8f0">Radio Genial TV</text>
-<rect x="734.0" y="1402" width="349.0" height="22" rx="4" fill="#121b30"/>
+<text x="384.0" y="1418" font-size="12.5" font-weight="700" fill="#0891b2" font-family="Consolas, Menlo, monospace">#287</text>
+<use href="#flag-cl" xlink:href="#flag-cl" x="421.0" y="1407"/>
+<text x="441.0" y="1418" font-size="10" opacity="0.95">🇨🇱</text>
+<text x="455.0" y="1418" font-size="12" fill="#e2e8f0">Radio Genial TV</text>
+<rect x="734.0" y="1402" width="349.0" height="22" rx="5" fill="#121b30"/>
 <title>#288 · 🇨🇱 CL — Radio Las Nieves (Radio)</title>
-<text x="740.0" y="1418" font-size="12.5" font-weight="700" fill="#0891b2" font-family="Consolas, Menlo, monospace">#288</text>
-<use href="#flag-cl" xlink:href="#flag-cl" x="780.0" y="1407"/>
-<text x="806.0" y="1418" font-size="12" fill="#e2e8f0">Radio Las Nieves</text>
-<rect x="1091.0" y="1402" width="349.0" height="22" rx="4" fill="#121b30"/>
+<text x="741.0" y="1418" font-size="12.5" font-weight="700" fill="#0891b2" font-family="Consolas, Menlo, monospace">#288</text>
+<use href="#flag-cl" xlink:href="#flag-cl" x="778.0" y="1407"/>
+<text x="798.0" y="1418" font-size="10" opacity="0.95">🇨🇱</text>
+<text x="812.0" y="1418" font-size="12" fill="#e2e8f0">Radio Las Nieves</text>
+<rect x="1091.0" y="1402" width="349.0" height="22" rx="5" fill="#121b30"/>
 <title>#289 · 🇨🇱 CL — Rocco TV 4 (Regionales)</title>
-<text x="1097.0" y="1418" font-size="12.5" font-weight="700" fill="#0891b2" font-family="Consolas, Menlo, monospace">#289</text>
-<use href="#flag-cl" xlink:href="#flag-cl" x="1137.0" y="1407"/>
-<text x="1163.0" y="1418" font-size="12" fill="#e2e8f0">Rocco TV 4</text>
-<rect x="20.0" y="1426" width="349.0" height="22" rx="4" fill="#0f172a"/>
+<text x="1098.0" y="1418" font-size="12.5" font-weight="700" fill="#0891b2" font-family="Consolas, Menlo, monospace">#289</text>
+<use href="#flag-cl" xlink:href="#flag-cl" x="1135.0" y="1407"/>
+<text x="1155.0" y="1418" font-size="10" opacity="0.95">🇨🇱</text>
+<text x="1169.0" y="1418" font-size="12" fill="#e2e8f0">Rocco TV 4</text>
+<rect x="20.0" y="1426" width="349.0" height="22" rx="5" fill="#0f172a"/>
 <title>#290 · 🇨🇱 CL — Santa Maria TV (Regionales)</title>
-<text x="26.0" y="1442" font-size="12.5" font-weight="700" fill="#0891b2" font-family="Consolas, Menlo, monospace">#290</text>
-<use href="#flag-cl" xlink:href="#flag-cl" x="66.0" y="1431"/>
-<text x="92.0" y="1442" font-size="12" fill="#e2e8f0">Santa Maria TV</text>
-<rect x="377.0" y="1426" width="349.0" height="22" rx="4" fill="#0f172a"/>
+<text x="27.0" y="1442" font-size="12.5" font-weight="700" fill="#0891b2" font-family="Consolas, Menlo, monospace">#290</text>
+<use href="#flag-cl" xlink:href="#flag-cl" x="64.0" y="1431"/>
+<text x="84.0" y="1442" font-size="10" opacity="0.95">🇨🇱</text>
+<text x="98.0" y="1442" font-size="12" fill="#e2e8f0">Santa Maria TV</text>
+<rect x="377.0" y="1426" width="349.0" height="22" rx="5" fill="#0f172a"/>
 <title>#291 · 🇨🇱 CL — Canal Sur Patagonia (Regionales)</title>
-<text x="383.0" y="1442" font-size="12.5" font-weight="700" fill="#0891b2" font-family="Consolas, Menlo, monospace">#291</text>
-<use href="#flag-cl" xlink:href="#flag-cl" x="423.0" y="1431"/>
-<text x="449.0" y="1442" font-size="12" fill="#e2e8f0">Canal Sur Patagonia</text>
-<rect x="734.0" y="1426" width="349.0" height="22" rx="4" fill="#0f172a"/>
+<text x="384.0" y="1442" font-size="12.5" font-weight="700" fill="#0891b2" font-family="Consolas, Menlo, monospace">#291</text>
+<use href="#flag-cl" xlink:href="#flag-cl" x="421.0" y="1431"/>
+<text x="441.0" y="1442" font-size="10" opacity="0.95">🇨🇱</text>
+<text x="455.0" y="1442" font-size="12" fill="#e2e8f0">Canal Sur Patagonia</text>
+<rect x="734.0" y="1426" width="349.0" height="22" rx="5" fill="#0f172a"/>
 <title>#292 · 🇨🇱 CL — CTV35 (Regionales)</title>
-<text x="740.0" y="1442" font-size="12.5" font-weight="700" fill="#0891b2" font-family="Consolas, Menlo, monospace">#292</text>
-<use href="#flag-cl" xlink:href="#flag-cl" x="780.0" y="1431"/>
-<text x="806.0" y="1442" font-size="12" fill="#e2e8f0">CTV35</text>
-<rect x="1091.0" y="1426" width="349.0" height="22" rx="4" fill="#0f172a"/>
+<text x="741.0" y="1442" font-size="12.5" font-weight="700" fill="#0891b2" font-family="Consolas, Menlo, monospace">#292</text>
+<use href="#flag-cl" xlink:href="#flag-cl" x="778.0" y="1431"/>
+<text x="798.0" y="1442" font-size="10" opacity="0.95">🇨🇱</text>
+<text x="812.0" y="1442" font-size="12" fill="#e2e8f0">CTV35</text>
+<rect x="1091.0" y="1426" width="349.0" height="22" rx="5" fill="#0f172a"/>
 <title>#293 · 🇨🇱 CL — EvaVisión (Regionales)</title>
-<text x="1097.0" y="1442" font-size="12.5" font-weight="700" fill="#0891b2" font-family="Consolas, Menlo, monospace">#293</text>
-<use href="#flag-cl" xlink:href="#flag-cl" x="1137.0" y="1431"/>
-<text x="1163.0" y="1442" font-size="12" fill="#e2e8f0">EvaVisión</text>
-<rect x="20.0" y="1450" width="349.0" height="22" rx="4" fill="#121b30"/>
+<text x="1098.0" y="1442" font-size="12.5" font-weight="700" fill="#0891b2" font-family="Consolas, Menlo, monospace">#293</text>
+<use href="#flag-cl" xlink:href="#flag-cl" x="1135.0" y="1431"/>
+<text x="1155.0" y="1442" font-size="10" opacity="0.95">🇨🇱</text>
+<text x="1169.0" y="1442" font-size="12" fill="#e2e8f0">EvaVisión</text>
+<rect x="20.0" y="1450" width="349.0" height="22" rx="5" fill="#121b30"/>
 <title>#294 · 🇨🇱 CL — ITV Patagonia (Regionales)</title>
-<text x="26.0" y="1466" font-size="12.5" font-weight="700" fill="#0891b2" font-family="Consolas, Menlo, monospace">#294</text>
-<use href="#flag-cl" xlink:href="#flag-cl" x="66.0" y="1455"/>
-<text x="92.0" y="1466" font-size="12" fill="#e2e8f0">ITV Patagonia</text>
-<rect x="377.0" y="1450" width="349.0" height="22" rx="4" fill="#121b30"/>
+<text x="27.0" y="1466" font-size="12.5" font-weight="700" fill="#0891b2" font-family="Consolas, Menlo, monospace">#294</text>
+<use href="#flag-cl" xlink:href="#flag-cl" x="64.0" y="1455"/>
+<text x="84.0" y="1466" font-size="10" opacity="0.95">🇨🇱</text>
+<text x="98.0" y="1466" font-size="12" fill="#e2e8f0">ITV Patagonia</text>
+<rect x="377.0" y="1450" width="349.0" height="22" rx="5" fill="#121b30"/>
 <title>#295 · 🇨🇱 CL — Milodon TV (Radio)</title>
-<text x="383.0" y="1466" font-size="12.5" font-weight="700" fill="#0891b2" font-family="Consolas, Menlo, monospace">#295</text>
-<use href="#flag-cl" xlink:href="#flag-cl" x="423.0" y="1455"/>
-<text x="449.0" y="1466" font-size="12" fill="#e2e8f0">Milodon TV</text>
-<rect x="734.0" y="1450" width="349.0" height="22" rx="4" fill="#121b30"/>
+<text x="384.0" y="1466" font-size="12.5" font-weight="700" fill="#0891b2" font-family="Consolas, Menlo, monospace">#295</text>
+<use href="#flag-cl" xlink:href="#flag-cl" x="421.0" y="1455"/>
+<text x="441.0" y="1466" font-size="10" opacity="0.95">🇨🇱</text>
+<text x="455.0" y="1466" font-size="12" fill="#e2e8f0">Milodon TV</text>
+<rect x="734.0" y="1450" width="349.0" height="22" rx="5" fill="#121b30"/>
 <title>#296 · 🇨🇱 CL — Music PUQ (Música)</title>
-<text x="740.0" y="1466" font-size="12.5" font-weight="700" fill="#0891b2" font-family="Consolas, Menlo, monospace">#296</text>
-<use href="#flag-cl" xlink:href="#flag-cl" x="780.0" y="1455"/>
-<text x="806.0" y="1466" font-size="12" fill="#e2e8f0">Music PUQ</text>
-<rect x="1091.0" y="1450" width="349.0" height="22" rx="4" fill="#121b30"/>
+<text x="741.0" y="1466" font-size="12.5" font-weight="700" fill="#0891b2" font-family="Consolas, Menlo, monospace">#296</text>
+<use href="#flag-cl" xlink:href="#flag-cl" x="778.0" y="1455"/>
+<text x="798.0" y="1466" font-size="10" opacity="0.95">🇨🇱</text>
+<text x="812.0" y="1466" font-size="12" fill="#e2e8f0">Music PUQ</text>
+<rect x="1091.0" y="1450" width="349.0" height="22" rx="5" fill="#121b30"/>
 <title>#297 · 🇨🇱 CL — NG Channel (Religiosos)</title>
-<text x="1097.0" y="1466" font-size="12.5" font-weight="700" fill="#0891b2" font-family="Consolas, Menlo, monospace">#297</text>
-<use href="#flag-cl" xlink:href="#flag-cl" x="1137.0" y="1455"/>
-<text x="1163.0" y="1466" font-size="12" fill="#e2e8f0">NG Channel</text>
-<rect x="20.0" y="1474" width="349.0" height="22" rx="4" fill="#0f172a"/>
+<text x="1098.0" y="1466" font-size="12.5" font-weight="700" fill="#0891b2" font-family="Consolas, Menlo, monospace">#297</text>
+<use href="#flag-cl" xlink:href="#flag-cl" x="1135.0" y="1455"/>
+<text x="1155.0" y="1466" font-size="10" opacity="0.95">🇨🇱</text>
+<text x="1169.0" y="1466" font-size="12" fill="#e2e8f0">NG Channel</text>
+<rect x="20.0" y="1474" width="349.0" height="22" rx="5" fill="#0f172a"/>
 <title>#298 · 🇨🇱 CL — PinguinoTV (Regionales)</title>
-<text x="26.0" y="1490" font-size="12.5" font-weight="700" fill="#0891b2" font-family="Consolas, Menlo, monospace">#298</text>
-<use href="#flag-cl" xlink:href="#flag-cl" x="66.0" y="1479"/>
-<text x="92.0" y="1490" font-size="12" fill="#e2e8f0">PinguinoTV</text>
-<rect x="377.0" y="1474" width="349.0" height="22" rx="4" fill="#0f172a"/>
+<text x="27.0" y="1490" font-size="12.5" font-weight="700" fill="#0891b2" font-family="Consolas, Menlo, monospace">#298</text>
+<use href="#flag-cl" xlink:href="#flag-cl" x="64.0" y="1479"/>
+<text x="84.0" y="1490" font-size="10" opacity="0.95">🇨🇱</text>
+<text x="98.0" y="1490" font-size="12" fill="#e2e8f0">PinguinoTV</text>
+<rect x="377.0" y="1474" width="349.0" height="22" rx="5" fill="#0f172a"/>
 <title>#299 · 🇨🇱 CL — Radio Magallanes (Radio)</title>
-<text x="383.0" y="1490" font-size="12.5" font-weight="700" fill="#0891b2" font-family="Consolas, Menlo, monospace">#299</text>
-<use href="#flag-cl" xlink:href="#flag-cl" x="423.0" y="1479"/>
-<text x="449.0" y="1490" font-size="12" fill="#e2e8f0">Radio Magallanes</text>
-<rect x="734.0" y="1474" width="349.0" height="22" rx="4" fill="#0f172a"/>
+<text x="384.0" y="1490" font-size="12.5" font-weight="700" fill="#0891b2" font-family="Consolas, Menlo, monospace">#299</text>
+<use href="#flag-cl" xlink:href="#flag-cl" x="421.0" y="1479"/>
+<text x="441.0" y="1490" font-size="10" opacity="0.95">🇨🇱</text>
+<text x="455.0" y="1490" font-size="12" fill="#e2e8f0">Radio Magallanes</text>
+<rect x="734.0" y="1474" width="349.0" height="22" rx="5" fill="#0f172a"/>
 <title>#300 · 🇨🇱 CL — Radio Polar (Radio)</title>
-<text x="740.0" y="1490" font-size="12.5" font-weight="700" fill="#0891b2" font-family="Consolas, Menlo, monospace">#300</text>
-<use href="#flag-cl" xlink:href="#flag-cl" x="780.0" y="1479"/>
-<text x="806.0" y="1490" font-size="12" fill="#e2e8f0">Radio Polar</text>
-<rect x="1091.0" y="1474" width="349.0" height="22" rx="4" fill="#0f172a"/>
+<text x="741.0" y="1490" font-size="12.5" font-weight="700" fill="#0891b2" font-family="Consolas, Menlo, monospace">#300</text>
+<use href="#flag-cl" xlink:href="#flag-cl" x="778.0" y="1479"/>
+<text x="798.0" y="1490" font-size="10" opacity="0.95">🇨🇱</text>
+<text x="812.0" y="1490" font-size="12" fill="#e2e8f0">Radio Polar</text>
+<rect x="1091.0" y="1474" width="349.0" height="22" rx="5" fill="#0f172a"/>
 <title>#301 · 🇨🇱 CL — Radio Presidente Ibañez (Radio)</title>
-<text x="1097.0" y="1490" font-size="12.5" font-weight="700" fill="#0891b2" font-family="Consolas, Menlo, monospace">#301</text>
-<use href="#flag-cl" xlink:href="#flag-cl" x="1137.0" y="1479"/>
-<text x="1163.0" y="1490" font-size="12" fill="#e2e8f0">Radio Presidente Ibañez</text>
-<rect x="20.0" y="1498" width="349.0" height="22" rx="4" fill="#121b30"/>
+<text x="1098.0" y="1490" font-size="12.5" font-weight="700" fill="#0891b2" font-family="Consolas, Menlo, monospace">#301</text>
+<use href="#flag-cl" xlink:href="#flag-cl" x="1135.0" y="1479"/>
+<text x="1155.0" y="1490" font-size="10" opacity="0.95">🇨🇱</text>
+<text x="1169.0" y="1490" font-size="12" fill="#e2e8f0">Radio Presidente Ibañez</text>
+<rect x="20.0" y="1498" width="349.0" height="22" rx="5" fill="#121b30"/>
 <title>#302 · 🇨🇱 CL — Radio Zona 90.3 (Radio)</title>
-<text x="26.0" y="1514" font-size="12.5" font-weight="700" fill="#0891b2" font-family="Consolas, Menlo, monospace">#302</text>
-<use href="#flag-cl" xlink:href="#flag-cl" x="66.0" y="1503"/>
-<text x="92.0" y="1514" font-size="12" fill="#e2e8f0">Radio Zona 90.3</text>
-<rect x="377.0" y="1498" width="349.0" height="22" rx="4" fill="#121b30"/>
+<text x="27.0" y="1514" font-size="12.5" font-weight="700" fill="#0891b2" font-family="Consolas, Menlo, monospace">#302</text>
+<use href="#flag-cl" xlink:href="#flag-cl" x="64.0" y="1503"/>
+<text x="84.0" y="1514" font-size="10" opacity="0.95">🇨🇱</text>
+<text x="98.0" y="1514" font-size="12" fill="#e2e8f0">Radio Zona 90.3</text>
+<rect x="377.0" y="1498" width="349.0" height="22" rx="5" fill="#121b30"/>
 <title>#303 · 🇨🇱 CL — Red Fueguina Radio (Radio)</title>
-<text x="383.0" y="1514" font-size="12.5" font-weight="700" fill="#0891b2" font-family="Consolas, Menlo, monospace">#303</text>
-<use href="#flag-cl" xlink:href="#flag-cl" x="423.0" y="1503"/>
-<text x="449.0" y="1514" font-size="12" fill="#e2e8f0">Red Fueguina Radio</text>
-<rect x="734.0" y="1498" width="349.0" height="22" rx="4" fill="#121b30"/>
+<text x="384.0" y="1514" font-size="12.5" font-weight="700" fill="#0891b2" font-family="Consolas, Menlo, monospace">#303</text>
+<use href="#flag-cl" xlink:href="#flag-cl" x="421.0" y="1503"/>
+<text x="441.0" y="1514" font-size="10" opacity="0.95">🇨🇱</text>
+<text x="455.0" y="1514" font-size="12" fill="#e2e8f0">Red Fueguina Radio</text>
+<rect x="734.0" y="1498" width="349.0" height="22" rx="5" fill="#121b30"/>
 <title>#304 · 🇨🇱 CL — Soberania Radio (Regionales)</title>
-<text x="740.0" y="1514" font-size="12.5" font-weight="700" fill="#0891b2" font-family="Consolas, Menlo, monospace">#304</text>
-<use href="#flag-cl" xlink:href="#flag-cl" x="780.0" y="1503"/>
-<text x="806.0" y="1514" font-size="12" fill="#e2e8f0">Soberania Radio</text>
-<rect x="1091.0" y="1498" width="349.0" height="22" rx="4" fill="#121b30"/>
+<text x="741.0" y="1514" font-size="12.5" font-weight="700" fill="#0891b2" font-family="Consolas, Menlo, monospace">#304</text>
+<use href="#flag-cl" xlink:href="#flag-cl" x="778.0" y="1503"/>
+<text x="798.0" y="1514" font-size="10" opacity="0.95">🇨🇱</text>
+<text x="812.0" y="1514" font-size="12" fill="#e2e8f0">Soberania Radio</text>
+<rect x="1091.0" y="1498" width="349.0" height="22" rx="5" fill="#121b30"/>
 <title>#305 · 🇨🇱 CL — SurTV (Regionales)</title>
-<text x="1097.0" y="1514" font-size="12.5" font-weight="700" fill="#0891b2" font-family="Consolas, Menlo, monospace">#305</text>
-<use href="#flag-cl" xlink:href="#flag-cl" x="1137.0" y="1503"/>
-<text x="1163.0" y="1514" font-size="12" fill="#e2e8f0">SurTV</text>
-<rect x="20.0" y="1522" width="349.0" height="22" rx="4" fill="#0f172a"/>
+<text x="1098.0" y="1514" font-size="12.5" font-weight="700" fill="#0891b2" font-family="Consolas, Menlo, monospace">#305</text>
+<use href="#flag-cl" xlink:href="#flag-cl" x="1135.0" y="1503"/>
+<text x="1155.0" y="1514" font-size="10" opacity="0.95">🇨🇱</text>
+<text x="1169.0" y="1514" font-size="12" fill="#e2e8f0">SurTV</text>
+<rect x="20.0" y="1522" width="349.0" height="22" rx="5" fill="#0f172a"/>
 <title>#306 · 🇨🇱 CL — TV Bajo Cero (Regionales)</title>
-<text x="26.0" y="1538" font-size="12.5" font-weight="700" fill="#0891b2" font-family="Consolas, Menlo, monospace">#306</text>
-<use href="#flag-cl" xlink:href="#flag-cl" x="66.0" y="1527"/>
-<text x="92.0" y="1538" font-size="12" fill="#e2e8f0">TV Bajo Cero</text>
-<rect x="377.0" y="1522" width="349.0" height="22" rx="4" fill="#0f172a"/>
+<text x="27.0" y="1538" font-size="12.5" font-weight="700" fill="#0891b2" font-family="Consolas, Menlo, monospace">#306</text>
+<use href="#flag-cl" xlink:href="#flag-cl" x="64.0" y="1527"/>
+<text x="84.0" y="1538" font-size="10" opacity="0.95">🇨🇱</text>
+<text x="98.0" y="1538" font-size="12" fill="#e2e8f0">TV Bajo Cero</text>
+<rect x="377.0" y="1522" width="349.0" height="22" rx="5" fill="#0f172a"/>
 <title>#307 · 🇨🇱 CL — UMAG TV (Universitarios)</title>
-<text x="383.0" y="1538" font-size="12.5" font-weight="700" fill="#0891b2" font-family="Consolas, Menlo, monospace">#307</text>
-<use href="#flag-cl" xlink:href="#flag-cl" x="423.0" y="1527"/>
-<text x="449.0" y="1538" font-size="12" fill="#e2e8f0">UMAG TV</text>
-<rect x="734.0" y="1522" width="349.0" height="22" rx="4" fill="#0f172a"/>
+<text x="384.0" y="1538" font-size="12.5" font-weight="700" fill="#0891b2" font-family="Consolas, Menlo, monospace">#307</text>
+<use href="#flag-cl" xlink:href="#flag-cl" x="421.0" y="1527"/>
+<text x="441.0" y="1538" font-size="10" opacity="0.95">🇨🇱</text>
+<text x="455.0" y="1538" font-size="12" fill="#e2e8f0">UMAG TV</text>
+<rect x="734.0" y="1522" width="349.0" height="22" rx="5" fill="#0f172a"/>
 <title>#308 · 🇨🇱 CL — UMAG TV 2 (Universitarios)</title>
-<text x="740.0" y="1538" font-size="12.5" font-weight="700" fill="#0891b2" font-family="Consolas, Menlo, monospace">#308</text>
-<use href="#flag-cl" xlink:href="#flag-cl" x="780.0" y="1527"/>
-<text x="806.0" y="1538" font-size="12" fill="#e2e8f0">UMAG TV 2</text>
+<text x="741.0" y="1538" font-size="12.5" font-weight="700" fill="#0891b2" font-family="Consolas, Menlo, monospace">#308</text>
+<use href="#flag-cl" xlink:href="#flag-cl" x="778.0" y="1527"/>
+<text x="798.0" y="1538" font-size="10" opacity="0.95">🇨🇱</text>
+<text x="812.0" y="1538" font-size="12" fill="#e2e8f0">UMAG TV 2</text>
 </svg>

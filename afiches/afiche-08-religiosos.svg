@@ -62,103 +62,121 @@
 </defs>
 <rect width="1460" height="348" fill="#0b1220"/>
 <rect x="0" y="0" width="1460" height="168" fill="#111a2e"/>
-<rect x="0" y="164" width="1460" height="4" fill="#d52b1e"/>
+<rect x="0" y="164" width="1460" height="4" fill="#16a34a"/>
 <text x="20" y="46" font-size="34" font-weight="700" fill="#f8fafc">⛪ Religiosos — canales 416–433</text>
-<text x="20" y="76" font-size="15" fill="#94a3b8">18 canales · TV Chile v3.112 · 01-nov-2026</text>
-<text x="20" y="102" font-size="13" fill="#64748b">Cada celda:  #número   🚩 bandera real del país de origen (flagcdn, ISO 3166-1)   Nombre del canal   ·   tooltip: país + temática</text>
-<text x="20" y="126" font-size="13" fill="#64748b">Rangos: 1–32 señal abierta CL · 33–52 noticias · 53–85 Biobío · 86–308 regiones · 309–317 deportes · 318–322 infantil/anime · 323–415 música · 416–433 religiosos · 434–446 cultura · 447–683 resto CL · 684–3110 español otros países</text>
-<text x="20" y="148" font-size="13" fill="#64748b">Generado 01-nov-2026 · v3.112 · sanitizado (https, sin TV de pago)</text>
+<text x="20" y="76" font-size="15" fill="#94a3b8">18 filas · TV Chile v3.112 · 01-nov-2026</text>
+<text x="20" y="102" font-size="13" fill="#64748b">Cada celda:  #número  🚩 bandera real + emote 🏳️ del país de origen (flagcdn, ISO 3166-1)  Nombre   ·   tooltip: país + temática</text>
+<text x="20" y="126" font-size="13" fill="#64748b">Rangos: 1–32 señal abierta CL · 33–52 noticias · 53–85 Biobío · 86–308 regiones · 309–317 deportes (+ alternativas legales ✔) · 318–322 infantil/anime · 323–415 música · 416–433 religiosos · 434–446 cultura · 447–683 resto CL · 684–3110 español otros países</text>
+<text x="20" y="148" font-size="13" fill="#64748b">Generado 01-nov-2026 · v3.112 · sanitizado (https, sin TV de pago/piratería)</text>
 <rect x="20" y="168" width="1420" height="26" rx="6" fill="#a16207"/>
 <text x="30" y="186" font-size="15" font-weight="600" fill="#fff">⛪ Religiosos</text>
 <text x="1430" y="186" font-size="13" fill="#e2e8f0" text-anchor="end">canales 416–433 · 18</text>
-<rect x="20.0" y="202" width="349.0" height="22" rx="4" fill="#121b30"/>
+<rect x="20.0" y="202" width="349.0" height="22" rx="5" fill="#121b30"/>
 <title>#416 · 🇨🇱 CL — 15.1 BPB (Religioso)</title>
-<text x="26.0" y="218" font-size="12.5" font-weight="700" fill="#a16207" font-family="Consolas, Menlo, monospace">#416</text>
-<use href="#flag-cl" xlink:href="#flag-cl" x="66.0" y="207"/>
-<text x="92.0" y="218" font-size="12" fill="#e2e8f0">15.1 BPB</text>
-<rect x="377.0" y="202" width="349.0" height="22" rx="4" fill="#121b30"/>
+<text x="27.0" y="218" font-size="12.5" font-weight="700" fill="#a16207" font-family="Consolas, Menlo, monospace">#416</text>
+<use href="#flag-cl" xlink:href="#flag-cl" x="64.0" y="207"/>
+<text x="84.0" y="218" font-size="10" opacity="0.95">🇨🇱</text>
+<text x="98.0" y="218" font-size="12" fill="#e2e8f0">15.1 BPB</text>
+<rect x="377.0" y="202" width="349.0" height="22" rx="5" fill="#121b30"/>
 <title>#417 · 🇨🇱 CL — ADA TV (Religioso)</title>
-<text x="383.0" y="218" font-size="12.5" font-weight="700" fill="#a16207" font-family="Consolas, Menlo, monospace">#417</text>
-<use href="#flag-cl" xlink:href="#flag-cl" x="423.0" y="207"/>
-<text x="449.0" y="218" font-size="12" fill="#e2e8f0">ADA TV</text>
-<rect x="734.0" y="202" width="349.0" height="22" rx="4" fill="#121b30"/>
+<text x="384.0" y="218" font-size="12.5" font-weight="700" fill="#a16207" font-family="Consolas, Menlo, monospace">#417</text>
+<use href="#flag-cl" xlink:href="#flag-cl" x="421.0" y="207"/>
+<text x="441.0" y="218" font-size="10" opacity="0.95">🇨🇱</text>
+<text x="455.0" y="218" font-size="12" fill="#e2e8f0">ADA TV</text>
+<rect x="734.0" y="202" width="349.0" height="22" rx="5" fill="#121b30"/>
 <title>#418 · 🇨🇱 CL — Canal ISB (Religioso)</title>
-<text x="740.0" y="218" font-size="12.5" font-weight="700" fill="#a16207" font-family="Consolas, Menlo, monospace">#418</text>
-<use href="#flag-cl" xlink:href="#flag-cl" x="780.0" y="207"/>
-<text x="806.0" y="218" font-size="12" fill="#e2e8f0">Canal ISB</text>
-<rect x="1091.0" y="202" width="349.0" height="22" rx="4" fill="#121b30"/>
+<text x="741.0" y="218" font-size="12.5" font-weight="700" fill="#a16207" font-family="Consolas, Menlo, monospace">#418</text>
+<use href="#flag-cl" xlink:href="#flag-cl" x="778.0" y="207"/>
+<text x="798.0" y="218" font-size="10" opacity="0.95">🇨🇱</text>
+<text x="812.0" y="218" font-size="12" fill="#e2e8f0">Canal ISB</text>
+<rect x="1091.0" y="202" width="349.0" height="22" rx="5" fill="#121b30"/>
 <title>#419 · 🇨🇱 CL — Canal ISB (Iglesia San Bernardo) (Religioso)</title>
-<text x="1097.0" y="218" font-size="12.5" font-weight="700" fill="#a16207" font-family="Consolas, Menlo, monospace">#419</text>
-<use href="#flag-cl" xlink:href="#flag-cl" x="1137.0" y="207"/>
-<text x="1163.0" y="218" font-size="12" fill="#e2e8f0">Canal ISB (Iglesia San Bernardo)</text>
-<rect x="20.0" y="226" width="349.0" height="22" rx="4" fill="#0f172a"/>
+<text x="1098.0" y="218" font-size="12.5" font-weight="700" fill="#a16207" font-family="Consolas, Menlo, monospace">#419</text>
+<use href="#flag-cl" xlink:href="#flag-cl" x="1135.0" y="207"/>
+<text x="1155.0" y="218" font-size="10" opacity="0.95">🇨🇱</text>
+<text x="1169.0" y="218" font-size="12" fill="#e2e8f0">Canal ISB (Iglesia San Bernardo)</text>
+<rect x="20.0" y="226" width="349.0" height="22" rx="5" fill="#0f172a"/>
 <title>#420 · 🇨🇱 CL — Canal ISB (Iglesia San Bernardo) (Religioso)</title>
-<text x="26.0" y="242" font-size="12.5" font-weight="700" fill="#a16207" font-family="Consolas, Menlo, monospace">#420</text>
-<use href="#flag-cl" xlink:href="#flag-cl" x="66.0" y="231"/>
-<text x="92.0" y="242" font-size="12" fill="#e2e8f0">Canal ISB (Iglesia San Bernardo)</text>
-<rect x="377.0" y="226" width="349.0" height="22" rx="4" fill="#0f172a"/>
+<text x="27.0" y="242" font-size="12.5" font-weight="700" fill="#a16207" font-family="Consolas, Menlo, monospace">#420</text>
+<use href="#flag-cl" xlink:href="#flag-cl" x="64.0" y="231"/>
+<text x="84.0" y="242" font-size="10" opacity="0.95">🇨🇱</text>
+<text x="98.0" y="242" font-size="12" fill="#e2e8f0">Canal ISB (Iglesia San Bernardo)</text>
+<rect x="377.0" y="226" width="349.0" height="22" rx="5" fill="#0f172a"/>
 <title>#421 · 🇨🇱 CL — Fortaleza TV (Religioso)</title>
-<text x="383.0" y="242" font-size="12.5" font-weight="700" fill="#a16207" font-family="Consolas, Menlo, monospace">#421</text>
-<use href="#flag-cl" xlink:href="#flag-cl" x="423.0" y="231"/>
-<text x="449.0" y="242" font-size="12" fill="#e2e8f0">Fortaleza TV</text>
-<rect x="734.0" y="226" width="349.0" height="22" rx="4" fill="#0f172a"/>
+<text x="384.0" y="242" font-size="12.5" font-weight="700" fill="#a16207" font-family="Consolas, Menlo, monospace">#421</text>
+<use href="#flag-cl" xlink:href="#flag-cl" x="421.0" y="231"/>
+<text x="441.0" y="242" font-size="10" opacity="0.95">🇨🇱</text>
+<text x="455.0" y="242" font-size="12" fill="#e2e8f0">Fortaleza TV</text>
+<rect x="734.0" y="226" width="349.0" height="22" rx="5" fill="#0f172a"/>
 <title>#422 · 🇨🇱 CL — ISA TV (Religioso)</title>
-<text x="740.0" y="242" font-size="12.5" font-weight="700" fill="#a16207" font-family="Consolas, Menlo, monospace">#422</text>
-<use href="#flag-cl" xlink:href="#flag-cl" x="780.0" y="231"/>
-<text x="806.0" y="242" font-size="12" fill="#e2e8f0">ISA TV</text>
-<rect x="1091.0" y="226" width="349.0" height="22" rx="4" fill="#0f172a"/>
+<text x="741.0" y="242" font-size="12.5" font-weight="700" fill="#a16207" font-family="Consolas, Menlo, monospace">#422</text>
+<use href="#flag-cl" xlink:href="#flag-cl" x="778.0" y="231"/>
+<text x="798.0" y="242" font-size="10" opacity="0.95">🇨🇱</text>
+<text x="812.0" y="242" font-size="12" fill="#e2e8f0">ISA TV</text>
+<rect x="1091.0" y="226" width="349.0" height="22" rx="5" fill="#0f172a"/>
 <title>#423 · 🇨🇱 CL — MTNA TV (Religioso)</title>
-<text x="1097.0" y="242" font-size="12.5" font-weight="700" fill="#a16207" font-family="Consolas, Menlo, monospace">#423</text>
-<use href="#flag-cl" xlink:href="#flag-cl" x="1137.0" y="231"/>
-<text x="1163.0" y="242" font-size="12" fill="#e2e8f0">MTNA TV</text>
-<rect x="20.0" y="250" width="349.0" height="22" rx="4" fill="#121b30"/>
+<text x="1098.0" y="242" font-size="12.5" font-weight="700" fill="#a16207" font-family="Consolas, Menlo, monospace">#423</text>
+<use href="#flag-cl" xlink:href="#flag-cl" x="1135.0" y="231"/>
+<text x="1155.0" y="242" font-size="10" opacity="0.95">🇨🇱</text>
+<text x="1169.0" y="242" font-size="12" fill="#e2e8f0">MTNA TV</text>
+<rect x="20.0" y="250" width="349.0" height="22" rx="5" fill="#121b30"/>
 <title>#424 · 🇨🇱 CL — Nuevo Tiempo TV (Religioso)</title>
-<text x="26.0" y="266" font-size="12.5" font-weight="700" fill="#a16207" font-family="Consolas, Menlo, monospace">#424</text>
-<use href="#flag-cl" xlink:href="#flag-cl" x="66.0" y="255"/>
-<text x="92.0" y="266" font-size="12" fill="#e2e8f0">Nuevo Tiempo TV</text>
-<rect x="377.0" y="250" width="349.0" height="22" rx="4" fill="#121b30"/>
+<text x="27.0" y="266" font-size="12.5" font-weight="700" fill="#a16207" font-family="Consolas, Menlo, monospace">#424</text>
+<use href="#flag-cl" xlink:href="#flag-cl" x="64.0" y="255"/>
+<text x="84.0" y="266" font-size="10" opacity="0.95">🇨🇱</text>
+<text x="98.0" y="266" font-size="12" fill="#e2e8f0">Nuevo Tiempo TV</text>
+<rect x="377.0" y="250" width="349.0" height="22" rx="5" fill="#121b30"/>
 <title>#425 · 🇨🇱 CL — Radio Armonia TV (Religioso)</title>
-<text x="383.0" y="266" font-size="12.5" font-weight="700" fill="#a16207" font-family="Consolas, Menlo, monospace">#425</text>
-<use href="#flag-cl" xlink:href="#flag-cl" x="423.0" y="255"/>
-<text x="449.0" y="266" font-size="12" fill="#e2e8f0">Radio Armonia TV</text>
-<rect x="734.0" y="250" width="349.0" height="22" rx="4" fill="#121b30"/>
+<text x="384.0" y="266" font-size="12.5" font-weight="700" fill="#a16207" font-family="Consolas, Menlo, monospace">#425</text>
+<use href="#flag-cl" xlink:href="#flag-cl" x="421.0" y="255"/>
+<text x="441.0" y="266" font-size="10" opacity="0.95">🇨🇱</text>
+<text x="455.0" y="266" font-size="12" fill="#e2e8f0">Radio Armonia TV</text>
+<rect x="734.0" y="250" width="349.0" height="22" rx="5" fill="#121b30"/>
 <title>#426 · 🇨🇱 CL — Radio El Sembrador (Religioso)</title>
-<text x="740.0" y="266" font-size="12.5" font-weight="700" fill="#a16207" font-family="Consolas, Menlo, monospace">#426</text>
-<use href="#flag-cl" xlink:href="#flag-cl" x="780.0" y="255"/>
-<text x="806.0" y="266" font-size="12" fill="#e2e8f0">Radio El Sembrador</text>
-<rect x="1091.0" y="250" width="349.0" height="22" rx="4" fill="#121b30"/>
+<text x="741.0" y="266" font-size="12.5" font-weight="700" fill="#a16207" font-family="Consolas, Menlo, monospace">#426</text>
+<use href="#flag-cl" xlink:href="#flag-cl" x="778.0" y="255"/>
+<text x="798.0" y="266" font-size="10" opacity="0.95">🇨🇱</text>
+<text x="812.0" y="266" font-size="12" fill="#e2e8f0">Radio El Sembrador</text>
+<rect x="1091.0" y="250" width="349.0" height="22" rx="5" fill="#121b30"/>
 <title>#427 · 🇨🇱 CL — Televida (Chile) (Religioso)</title>
-<text x="1097.0" y="266" font-size="12.5" font-weight="700" fill="#a16207" font-family="Consolas, Menlo, monospace">#427</text>
-<use href="#flag-cl" xlink:href="#flag-cl" x="1137.0" y="255"/>
-<text x="1163.0" y="266" font-size="12" fill="#e2e8f0">Televida (Chile)</text>
-<rect x="20.0" y="274" width="349.0" height="22" rx="4" fill="#0f172a"/>
+<text x="1098.0" y="266" font-size="12.5" font-weight="700" fill="#a16207" font-family="Consolas, Menlo, monospace">#427</text>
+<use href="#flag-cl" xlink:href="#flag-cl" x="1135.0" y="255"/>
+<text x="1155.0" y="266" font-size="10" opacity="0.95">🇨🇱</text>
+<text x="1169.0" y="266" font-size="12" fill="#e2e8f0">Televida (Chile)</text>
+<rect x="20.0" y="274" width="349.0" height="22" rx="5" fill="#0f172a"/>
 <title>#428 · 🇨🇱 CL — TNE (Religioso)</title>
-<text x="26.0" y="290" font-size="12.5" font-weight="700" fill="#a16207" font-family="Consolas, Menlo, monospace">#428</text>
-<use href="#flag-cl" xlink:href="#flag-cl" x="66.0" y="279"/>
-<text x="92.0" y="290" font-size="12" fill="#e2e8f0">TNE</text>
-<rect x="377.0" y="274" width="349.0" height="22" rx="4" fill="#0f172a"/>
+<text x="27.0" y="290" font-size="12.5" font-weight="700" fill="#a16207" font-family="Consolas, Menlo, monospace">#428</text>
+<use href="#flag-cl" xlink:href="#flag-cl" x="64.0" y="279"/>
+<text x="84.0" y="290" font-size="10" opacity="0.95">🇨🇱</text>
+<text x="98.0" y="290" font-size="12" fill="#e2e8f0">TNE</text>
+<rect x="377.0" y="274" width="349.0" height="22" rx="5" fill="#0f172a"/>
 <title>#429 · 🇨🇱 CL — Vida Nueva TV (Religioso)</title>
-<text x="383.0" y="290" font-size="12.5" font-weight="700" fill="#a16207" font-family="Consolas, Menlo, monospace">#429</text>
-<use href="#flag-cl" xlink:href="#flag-cl" x="423.0" y="279"/>
-<text x="449.0" y="290" font-size="12" fill="#e2e8f0">Vida Nueva TV</text>
-<rect x="734.0" y="274" width="349.0" height="22" rx="4" fill="#0f172a"/>
+<text x="384.0" y="290" font-size="12.5" font-weight="700" fill="#a16207" font-family="Consolas, Menlo, monospace">#429</text>
+<use href="#flag-cl" xlink:href="#flag-cl" x="421.0" y="279"/>
+<text x="441.0" y="290" font-size="10" opacity="0.95">🇨🇱</text>
+<text x="455.0" y="290" font-size="12" fill="#e2e8f0">Vida Nueva TV</text>
+<rect x="734.0" y="274" width="349.0" height="22" rx="5" fill="#0f172a"/>
 <title>#430 · 🇨🇱 CL — ADA TV (Religiosos)</title>
-<text x="740.0" y="290" font-size="12.5" font-weight="700" fill="#a16207" font-family="Consolas, Menlo, monospace">#430</text>
-<use href="#flag-cl" xlink:href="#flag-cl" x="780.0" y="279"/>
-<text x="806.0" y="290" font-size="12" fill="#e2e8f0">ADA TV</text>
-<rect x="1091.0" y="274" width="349.0" height="22" rx="4" fill="#0f172a"/>
+<text x="741.0" y="290" font-size="12.5" font-weight="700" fill="#a16207" font-family="Consolas, Menlo, monospace">#430</text>
+<use href="#flag-cl" xlink:href="#flag-cl" x="778.0" y="279"/>
+<text x="798.0" y="290" font-size="10" opacity="0.95">🇨🇱</text>
+<text x="812.0" y="290" font-size="12" fill="#e2e8f0">ADA TV</text>
+<rect x="1091.0" y="274" width="349.0" height="22" rx="5" fill="#0f172a"/>
 <title>#431 · 🇨🇱 CL — Cristo Razon De Vivir (Religiosos)</title>
-<text x="1097.0" y="290" font-size="12.5" font-weight="700" fill="#a16207" font-family="Consolas, Menlo, monospace">#431</text>
-<use href="#flag-cl" xlink:href="#flag-cl" x="1137.0" y="279"/>
-<text x="1163.0" y="290" font-size="12" fill="#e2e8f0">Cristo Razon De Vivir</text>
-<rect x="20.0" y="298" width="349.0" height="22" rx="4" fill="#121b30"/>
+<text x="1098.0" y="290" font-size="12.5" font-weight="700" fill="#a16207" font-family="Consolas, Menlo, monospace">#431</text>
+<use href="#flag-cl" xlink:href="#flag-cl" x="1135.0" y="279"/>
+<text x="1155.0" y="290" font-size="10" opacity="0.95">🇨🇱</text>
+<text x="1169.0" y="290" font-size="12" fill="#e2e8f0">Cristo Razon De Vivir</text>
+<rect x="20.0" y="298" width="349.0" height="22" rx="5" fill="#121b30"/>
 <title>#432 · 🇨🇱 CL — Restaurando Vidas TV (Religiosos)</title>
-<text x="26.0" y="314" font-size="12.5" font-weight="700" fill="#a16207" font-family="Consolas, Menlo, monospace">#432</text>
-<use href="#flag-cl" xlink:href="#flag-cl" x="66.0" y="303"/>
-<text x="92.0" y="314" font-size="12" fill="#e2e8f0">Restaurando Vidas TV</text>
-<rect x="377.0" y="298" width="349.0" height="22" rx="4" fill="#121b30"/>
+<text x="27.0" y="314" font-size="12.5" font-weight="700" fill="#a16207" font-family="Consolas, Menlo, monospace">#432</text>
+<use href="#flag-cl" xlink:href="#flag-cl" x="64.0" y="303"/>
+<text x="84.0" y="314" font-size="10" opacity="0.95">🇨🇱</text>
+<text x="98.0" y="314" font-size="12" fill="#e2e8f0">Restaurando Vidas TV</text>
+<rect x="377.0" y="298" width="349.0" height="22" rx="5" fill="#121b30"/>
 <title>#433 · 🇨🇱 CL — Tv Catedral de la Florida (Religiosos)</title>
-<text x="383.0" y="314" font-size="12.5" font-weight="700" fill="#a16207" font-family="Consolas, Menlo, monospace">#433</text>
-<use href="#flag-cl" xlink:href="#flag-cl" x="423.0" y="303"/>
-<text x="449.0" y="314" font-size="12" fill="#e2e8f0">Tv Catedral de la Florida</text>
+<text x="384.0" y="314" font-size="12.5" font-weight="700" fill="#a16207" font-family="Consolas, Menlo, monospace">#433</text>
+<use href="#flag-cl" xlink:href="#flag-cl" x="421.0" y="303"/>
+<text x="441.0" y="314" font-size="10" opacity="0.95">🇨🇱</text>
+<text x="455.0" y="314" font-size="12" fill="#e2e8f0">Tv Catedral de la Florida</text>
 </svg>

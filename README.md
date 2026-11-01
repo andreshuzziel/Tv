@@ -115,3 +115,5 @@ Cada canal muestra su **bandera del país de origen** (campo `cc` = ISO 3166-1 a
 - **`afiches/afiche-*.svg`** — un afiche por bloque para leer/imprimir por sección.
 - Cada canal lleva el **emoji gráfico de su bandera de origen** incrustado, también en PNG: no depende de que el equipo tenga una fuente de emojis. Para el código heredado `uk` se muestra correctamente 🇬🇧. Iconos Twemoji (CC BY 4.0), atribución en `assets/flags/README.md`.
 - Regenerar: `python3 scripts/afiche.py` (lee `data/channels.js` y `data/paises.js`; utiliza los iconos locales).
+
+- La sección **⚽ Deportes (309–317)** va ampliada: celdas grandes en 2 columnas + bloque ✔ con las **10 alternativas legales** (`window.SPORTS`: TNT Sports, ESPN/Disney+, Chilevisión/Mega Deportes, FIFA+, Pluto TV Deportes, Zapping/Movistar/DirectV GO, Movistar Play…). Cada celda del afiche trae **bandera real + emote 🏳️** del país de origen.

@@ -62,1198 +62,1435 @@
 </defs>
 <rect width="1460" height="1668" fill="#0b1220"/>
 <rect x="0" y="0" width="1460" height="168" fill="#111a2e"/>
-<rect x="0" y="164" width="1460" height="4" fill="#d52b1e"/>
+<rect x="0" y="164" width="1460" height="4" fill="#16a34a"/>
 <text x="20" y="46" font-size="34" font-weight="700" fill="#f8fafc">📡 Resto de Chile — canales 447–683</text>
-<text x="20" y="76" font-size="15" fill="#94a3b8">237 canales · TV Chile v3.112 · 01-nov-2026</text>
-<text x="20" y="102" font-size="13" fill="#64748b">Cada celda:  #número   🚩 bandera real del país de origen (flagcdn, ISO 3166-1)   Nombre del canal   ·   tooltip: país + temática</text>
-<text x="20" y="126" font-size="13" fill="#64748b">Rangos: 1–32 señal abierta CL · 33–52 noticias · 53–85 Biobío · 86–308 regiones · 309–317 deportes · 318–322 infantil/anime · 323–415 música · 416–433 religiosos · 434–446 cultura · 447–683 resto CL · 684–3110 español otros países</text>
-<text x="20" y="148" font-size="13" fill="#64748b">Generado 01-nov-2026 · v3.112 · sanitizado (https, sin TV de pago)</text>
+<text x="20" y="76" font-size="15" fill="#94a3b8">237 filas · TV Chile v3.112 · 01-nov-2026</text>
+<text x="20" y="102" font-size="13" fill="#64748b">Cada celda:  #número  🚩 bandera real + emote 🏳️ del país de origen (flagcdn, ISO 3166-1)  Nombre   ·   tooltip: país + temática</text>
+<text x="20" y="126" font-size="13" fill="#64748b">Rangos: 1–32 señal abierta CL · 33–52 noticias · 53–85 Biobío · 86–308 regiones · 309–317 deportes (+ alternativas legales ✔) · 318–322 infantil/anime · 323–415 música · 416–433 religiosos · 434–446 cultura · 447–683 resto CL · 684–3110 español otros países</text>
+<text x="20" y="148" font-size="13" fill="#64748b">Generado 01-nov-2026 · v3.112 · sanitizado (https, sin TV de pago/piratería)</text>
 <rect x="20" y="168" width="1420" height="26" rx="6" fill="#64748b"/>
 <text x="30" y="186" font-size="15" font-weight="600" fill="#fff">📡 Resto de Chile</text>
 <text x="1430" y="186" font-size="13" fill="#e2e8f0" text-anchor="end">canales 447–683 · 237</text>
-<rect x="20.0" y="202" width="349.0" height="22" rx="4" fill="#121b30"/>
+<rect x="20.0" y="202" width="349.0" height="22" rx="5" fill="#121b30"/>
 <title>#447 · 🇨🇱 CL — Canal Chilote (Entretenimiento)</title>
-<text x="26.0" y="218" font-size="12.5" font-weight="700" fill="#64748b" font-family="Consolas, Menlo, monospace">#447</text>
-<use href="#flag-cl" xlink:href="#flag-cl" x="66.0" y="207"/>
-<text x="92.0" y="218" font-size="12" fill="#e2e8f0">Canal Chilote</text>
-<rect x="377.0" y="202" width="349.0" height="22" rx="4" fill="#121b30"/>
+<text x="27.0" y="218" font-size="12.5" font-weight="700" fill="#64748b" font-family="Consolas, Menlo, monospace">#447</text>
+<use href="#flag-cl" xlink:href="#flag-cl" x="64.0" y="207"/>
+<text x="84.0" y="218" font-size="10" opacity="0.95">🇨🇱</text>
+<text x="98.0" y="218" font-size="12" fill="#e2e8f0">Canal Chilote</text>
+<rect x="377.0" y="202" width="349.0" height="22" rx="5" fill="#121b30"/>
 <title>#448 · 🇨🇱 CL — Chile Channel (Entretenimiento)</title>
-<text x="383.0" y="218" font-size="12.5" font-weight="700" fill="#64748b" font-family="Consolas, Menlo, monospace">#448</text>
-<use href="#flag-cl" xlink:href="#flag-cl" x="423.0" y="207"/>
-<text x="449.0" y="218" font-size="12" fill="#e2e8f0">Chile Channel</text>
-<rect x="734.0" y="202" width="349.0" height="22" rx="4" fill="#121b30"/>
+<text x="384.0" y="218" font-size="12.5" font-weight="700" fill="#64748b" font-family="Consolas, Menlo, monospace">#448</text>
+<use href="#flag-cl" xlink:href="#flag-cl" x="421.0" y="207"/>
+<text x="441.0" y="218" font-size="10" opacity="0.95">🇨🇱</text>
+<text x="455.0" y="218" font-size="12" fill="#e2e8f0">Chile Channel</text>
+<rect x="734.0" y="202" width="349.0" height="22" rx="5" fill="#121b30"/>
 <title>#449 · 🇨🇱 CL — Emocion TV (Entretenimiento)</title>
-<text x="740.0" y="218" font-size="12.5" font-weight="700" fill="#64748b" font-family="Consolas, Menlo, monospace">#449</text>
-<use href="#flag-cl" xlink:href="#flag-cl" x="780.0" y="207"/>
-<text x="806.0" y="218" font-size="12" fill="#e2e8f0">Emocion TV</text>
-<rect x="1091.0" y="202" width="349.0" height="22" rx="4" fill="#121b30"/>
+<text x="741.0" y="218" font-size="12.5" font-weight="700" fill="#64748b" font-family="Consolas, Menlo, monospace">#449</text>
+<use href="#flag-cl" xlink:href="#flag-cl" x="778.0" y="207"/>
+<text x="798.0" y="218" font-size="10" opacity="0.95">🇨🇱</text>
+<text x="812.0" y="218" font-size="12" fill="#e2e8f0">Emocion TV</text>
+<rect x="1091.0" y="202" width="349.0" height="22" rx="5" fill="#121b30"/>
 <title>#450 · 🇨🇱 CL — Estacion Limache TV (Entretenimiento)</title>
-<text x="1097.0" y="218" font-size="12.5" font-weight="700" fill="#64748b" font-family="Consolas, Menlo, monospace">#450</text>
-<use href="#flag-cl" xlink:href="#flag-cl" x="1137.0" y="207"/>
-<text x="1163.0" y="218" font-size="12" fill="#e2e8f0">Estacion Limache TV</text>
-<rect x="20.0" y="226" width="349.0" height="22" rx="4" fill="#0f172a"/>
+<text x="1098.0" y="218" font-size="12.5" font-weight="700" fill="#64748b" font-family="Consolas, Menlo, monospace">#450</text>
+<use href="#flag-cl" xlink:href="#flag-cl" x="1135.0" y="207"/>
+<text x="1155.0" y="218" font-size="10" opacity="0.95">🇨🇱</text>
+<text x="1169.0" y="218" font-size="12" fill="#e2e8f0">Estacion Limache TV</text>
+<rect x="20.0" y="226" width="349.0" height="22" rx="5" fill="#0f172a"/>
 <title>#451 · 🇨🇱 CL — La Melinkana TV (Entretenimiento)</title>
-<text x="26.0" y="242" font-size="12.5" font-weight="700" fill="#64748b" font-family="Consolas, Menlo, monospace">#451</text>
-<use href="#flag-cl" xlink:href="#flag-cl" x="66.0" y="231"/>
-<text x="92.0" y="242" font-size="12" fill="#e2e8f0">La Melinkana TV</text>
-<rect x="377.0" y="226" width="349.0" height="22" rx="4" fill="#0f172a"/>
+<text x="27.0" y="242" font-size="12.5" font-weight="700" fill="#64748b" font-family="Consolas, Menlo, monospace">#451</text>
+<use href="#flag-cl" xlink:href="#flag-cl" x="64.0" y="231"/>
+<text x="84.0" y="242" font-size="10" opacity="0.95">🇨🇱</text>
+<text x="98.0" y="242" font-size="12" fill="#e2e8f0">La Melinkana TV</text>
+<rect x="377.0" y="226" width="349.0" height="22" rx="5" fill="#0f172a"/>
 <title>#452 · 🇨🇱 CL — La Nuestra (Entretenimiento)</title>
-<text x="383.0" y="242" font-size="12.5" font-weight="700" fill="#64748b" font-family="Consolas, Menlo, monospace">#452</text>
-<use href="#flag-cl" xlink:href="#flag-cl" x="423.0" y="231"/>
-<text x="449.0" y="242" font-size="12" fill="#e2e8f0">La Nuestra</text>
-<rect x="734.0" y="226" width="349.0" height="22" rx="4" fill="#0f172a"/>
+<text x="384.0" y="242" font-size="12.5" font-weight="700" fill="#64748b" font-family="Consolas, Menlo, monospace">#452</text>
+<use href="#flag-cl" xlink:href="#flag-cl" x="421.0" y="231"/>
+<text x="441.0" y="242" font-size="10" opacity="0.95">🇨🇱</text>
+<text x="455.0" y="242" font-size="12" fill="#e2e8f0">La Nuestra</text>
+<rect x="734.0" y="226" width="349.0" height="22" rx="5" fill="#0f172a"/>
 <title>#453 · 🇨🇱 CL — Nada Es Imposible TV (Entretenimiento)</title>
-<text x="740.0" y="242" font-size="12.5" font-weight="700" fill="#64748b" font-family="Consolas, Menlo, monospace">#453</text>
-<use href="#flag-cl" xlink:href="#flag-cl" x="780.0" y="231"/>
-<text x="806.0" y="242" font-size="12" fill="#e2e8f0">Nada Es Imposible TV</text>
-<rect x="1091.0" y="226" width="349.0" height="22" rx="4" fill="#0f172a"/>
+<text x="741.0" y="242" font-size="12.5" font-weight="700" fill="#64748b" font-family="Consolas, Menlo, monospace">#453</text>
+<use href="#flag-cl" xlink:href="#flag-cl" x="778.0" y="231"/>
+<text x="798.0" y="242" font-size="10" opacity="0.95">🇨🇱</text>
+<text x="812.0" y="242" font-size="12" fill="#e2e8f0">Nada Es Imposible TV</text>
+<rect x="1091.0" y="226" width="349.0" height="22" rx="5" fill="#0f172a"/>
 <title>#454 · 🇨🇱 CL — Zona Play TV (Entretenimiento)</title>
-<text x="1097.0" y="242" font-size="12.5" font-weight="700" fill="#64748b" font-family="Consolas, Menlo, monospace">#454</text>
-<use href="#flag-cl" xlink:href="#flag-cl" x="1137.0" y="231"/>
-<text x="1163.0" y="242" font-size="12" fill="#e2e8f0">Zona Play TV</text>
-<rect x="20.0" y="250" width="349.0" height="22" rx="4" fill="#121b30"/>
+<text x="1098.0" y="242" font-size="12.5" font-weight="700" fill="#64748b" font-family="Consolas, Menlo, monospace">#454</text>
+<use href="#flag-cl" xlink:href="#flag-cl" x="1135.0" y="231"/>
+<text x="1155.0" y="242" font-size="10" opacity="0.95">🇨🇱</text>
+<text x="1169.0" y="242" font-size="12" fill="#e2e8f0">Zona Play TV</text>
+<rect x="20.0" y="250" width="349.0" height="22" rx="5" fill="#121b30"/>
 <title>#455 · 🇺🇸 US — Comedy Central Latin America (Comedia)</title>
-<text x="26.0" y="266" font-size="12.5" font-weight="700" fill="#64748b" font-family="Consolas, Menlo, monospace">#455</text>
-<use href="#flag-us" xlink:href="#flag-us" x="66.0" y="255"/>
-<text x="92.0" y="266" font-size="12" fill="#e2e8f0">Comedy Central Latin America</text>
-<rect x="377.0" y="250" width="349.0" height="22" rx="4" fill="#121b30"/>
+<text x="27.0" y="266" font-size="12.5" font-weight="700" fill="#64748b" font-family="Consolas, Menlo, monospace">#455</text>
+<use href="#flag-us" xlink:href="#flag-us" x="64.0" y="255"/>
+<text x="84.0" y="266" font-size="10" opacity="0.95">🇺🇸</text>
+<text x="98.0" y="266" font-size="12" fill="#e2e8f0">Comedy Central Latin America</text>
+<rect x="377.0" y="250" width="349.0" height="22" rx="5" fill="#121b30"/>
 <title>#456 · 🇨🇱 CL — Wapp (Estilo de vida)</title>
-<text x="383.0" y="266" font-size="12.5" font-weight="700" fill="#64748b" font-family="Consolas, Menlo, monospace">#456</text>
-<use href="#flag-cl" xlink:href="#flag-cl" x="423.0" y="255"/>
-<text x="449.0" y="266" font-size="12" fill="#e2e8f0">Wapp</text>
-<rect x="734.0" y="250" width="349.0" height="22" rx="4" fill="#121b30"/>
+<text x="384.0" y="266" font-size="12.5" font-weight="700" fill="#64748b" font-family="Consolas, Menlo, monospace">#456</text>
+<use href="#flag-cl" xlink:href="#flag-cl" x="421.0" y="255"/>
+<text x="441.0" y="266" font-size="10" opacity="0.95">🇨🇱</text>
+<text x="455.0" y="266" font-size="12" fill="#e2e8f0">Wapp</text>
+<rect x="734.0" y="250" width="349.0" height="22" rx="5" fill="#121b30"/>
 <title>#457 · 🇨🇱 CL — Turismo Travel TV (Viajes)</title>
-<text x="740.0" y="266" font-size="12.5" font-weight="700" fill="#64748b" font-family="Consolas, Menlo, monospace">#457</text>
-<use href="#flag-cl" xlink:href="#flag-cl" x="780.0" y="255"/>
-<text x="806.0" y="266" font-size="12" fill="#e2e8f0">Turismo Travel TV</text>
-<rect x="1091.0" y="250" width="349.0" height="22" rx="4" fill="#121b30"/>
+<text x="741.0" y="266" font-size="12.5" font-weight="700" fill="#64748b" font-family="Consolas, Menlo, monospace">#457</text>
+<use href="#flag-cl" xlink:href="#flag-cl" x="778.0" y="255"/>
+<text x="798.0" y="266" font-size="10" opacity="0.95">🇨🇱</text>
+<text x="812.0" y="266" font-size="12" fill="#e2e8f0">Turismo Travel TV</text>
+<rect x="1091.0" y="250" width="349.0" height="22" rx="5" fill="#121b30"/>
 <title>#458 · 🇨🇱 CL — Tevex (Negocios)</title>
-<text x="1097.0" y="266" font-size="12.5" font-weight="700" fill="#64748b" font-family="Consolas, Menlo, monospace">#458</text>
-<use href="#flag-cl" xlink:href="#flag-cl" x="1137.0" y="255"/>
-<text x="1163.0" y="266" font-size="12" fill="#e2e8f0">Tevex</text>
-<rect x="20.0" y="274" width="349.0" height="22" rx="4" fill="#0f172a"/>
+<text x="1098.0" y="266" font-size="12.5" font-weight="700" fill="#64748b" font-family="Consolas, Menlo, monospace">#458</text>
+<use href="#flag-cl" xlink:href="#flag-cl" x="1135.0" y="255"/>
+<text x="1155.0" y="266" font-size="10" opacity="0.95">🇨🇱</text>
+<text x="1169.0" y="266" font-size="12" fill="#e2e8f0">Tevex</text>
+<rect x="20.0" y="274" width="349.0" height="22" rx="5" fill="#0f172a"/>
 <title>#459 · 🇨🇱 CL — Docevision (Regionales)</title>
-<text x="26.0" y="290" font-size="12.5" font-weight="700" fill="#64748b" font-family="Consolas, Menlo, monospace">#459</text>
-<use href="#flag-cl" xlink:href="#flag-cl" x="66.0" y="279"/>
-<text x="92.0" y="290" font-size="12" fill="#e2e8f0">Docevision</text>
-<rect x="377.0" y="274" width="349.0" height="22" rx="4" fill="#0f172a"/>
+<text x="27.0" y="290" font-size="12.5" font-weight="700" fill="#64748b" font-family="Consolas, Menlo, monospace">#459</text>
+<use href="#flag-cl" xlink:href="#flag-cl" x="64.0" y="279"/>
+<text x="84.0" y="290" font-size="10" opacity="0.95">🇨🇱</text>
+<text x="98.0" y="290" font-size="12" fill="#e2e8f0">Docevision</text>
+<rect x="377.0" y="274" width="349.0" height="22" rx="5" fill="#0f172a"/>
 <title>#460 · 🇨🇱 CL — Girovisual TV (Regionales)</title>
-<text x="383.0" y="290" font-size="12.5" font-weight="700" fill="#64748b" font-family="Consolas, Menlo, monospace">#460</text>
-<use href="#flag-cl" xlink:href="#flag-cl" x="423.0" y="279"/>
-<text x="449.0" y="290" font-size="12" fill="#e2e8f0">Girovisual TV</text>
-<rect x="734.0" y="274" width="349.0" height="22" rx="4" fill="#0f172a"/>
+<text x="384.0" y="290" font-size="12.5" font-weight="700" fill="#64748b" font-family="Consolas, Menlo, monospace">#460</text>
+<use href="#flag-cl" xlink:href="#flag-cl" x="421.0" y="279"/>
+<text x="441.0" y="290" font-size="10" opacity="0.95">🇨🇱</text>
+<text x="455.0" y="290" font-size="12" fill="#e2e8f0">Girovisual TV</text>
+<rect x="734.0" y="274" width="349.0" height="22" rx="5" fill="#0f172a"/>
 <title>#461 · 🇨🇱 CL — Pirque TV (Regionales)</title>
-<text x="740.0" y="290" font-size="12.5" font-weight="700" fill="#64748b" font-family="Consolas, Menlo, monospace">#461</text>
-<use href="#flag-cl" xlink:href="#flag-cl" x="780.0" y="279"/>
-<text x="806.0" y="290" font-size="12" fill="#e2e8f0">Pirque TV</text>
-<rect x="1091.0" y="274" width="349.0" height="22" rx="4" fill="#0f172a"/>
+<text x="741.0" y="290" font-size="12.5" font-weight="700" fill="#64748b" font-family="Consolas, Menlo, monospace">#461</text>
+<use href="#flag-cl" xlink:href="#flag-cl" x="778.0" y="279"/>
+<text x="798.0" y="290" font-size="10" opacity="0.95">🇨🇱</text>
+<text x="812.0" y="290" font-size="12" fill="#e2e8f0">Pirque TV</text>
+<rect x="1091.0" y="274" width="349.0" height="22" rx="5" fill="#0f172a"/>
 <title>#462 · 🇨🇱 CL — Verso TV (Regionales)</title>
-<text x="1097.0" y="290" font-size="12.5" font-weight="700" fill="#64748b" font-family="Consolas, Menlo, monospace">#462</text>
-<use href="#flag-cl" xlink:href="#flag-cl" x="1137.0" y="279"/>
-<text x="1163.0" y="290" font-size="12" fill="#e2e8f0">Verso TV</text>
-<rect x="20.0" y="298" width="349.0" height="22" rx="4" fill="#121b30"/>
+<text x="1098.0" y="290" font-size="12.5" font-weight="700" fill="#64748b" font-family="Consolas, Menlo, monospace">#462</text>
+<use href="#flag-cl" xlink:href="#flag-cl" x="1135.0" y="279"/>
+<text x="1155.0" y="290" font-size="10" opacity="0.95">🇨🇱</text>
+<text x="1169.0" y="290" font-size="12" fill="#e2e8f0">Verso TV</text>
+<rect x="20.0" y="298" width="349.0" height="22" rx="5" fill="#121b30"/>
 <title>#463 · 🇨🇱 CL — 13 Internacional (Internacionales)</title>
-<text x="26.0" y="314" font-size="12.5" font-weight="700" fill="#64748b" font-family="Consolas, Menlo, monospace">#463</text>
-<use href="#flag-cl" xlink:href="#flag-cl" x="66.0" y="303"/>
-<text x="92.0" y="314" font-size="12" fill="#e2e8f0">13 Internacional</text>
-<rect x="377.0" y="298" width="349.0" height="22" rx="4" fill="#121b30"/>
+<text x="27.0" y="314" font-size="12.5" font-weight="700" fill="#64748b" font-family="Consolas, Menlo, monospace">#463</text>
+<use href="#flag-cl" xlink:href="#flag-cl" x="64.0" y="303"/>
+<text x="84.0" y="314" font-size="10" opacity="0.95">🇨🇱</text>
+<text x="98.0" y="314" font-size="12" fill="#e2e8f0">13 Internacional</text>
+<rect x="377.0" y="298" width="349.0" height="22" rx="5" fill="#121b30"/>
 <title>#464 · 🇨🇳 CN — China Channel (Internacionales)</title>
-<text x="383.0" y="314" font-size="12.5" font-weight="700" fill="#64748b" font-family="Consolas, Menlo, monospace">#464</text>
-<use href="#flag-cn" xlink:href="#flag-cn" x="423.0" y="303"/>
-<text x="449.0" y="314" font-size="12" fill="#e2e8f0">China Channel</text>
-<rect x="734.0" y="298" width="349.0" height="22" rx="4" fill="#121b30"/>
+<text x="384.0" y="314" font-size="12.5" font-weight="700" fill="#64748b" font-family="Consolas, Menlo, monospace">#464</text>
+<use href="#flag-cn" xlink:href="#flag-cn" x="421.0" y="303"/>
+<text x="441.0" y="314" font-size="10" opacity="0.95">🇨🇳</text>
+<text x="455.0" y="314" font-size="12" fill="#e2e8f0">China Channel</text>
+<rect x="734.0" y="298" width="349.0" height="22" rx="5" fill="#121b30"/>
 <title>#465 · 🇨🇱 CL — TV Chile (Internacionales)</title>
-<text x="740.0" y="314" font-size="12.5" font-weight="700" fill="#64748b" font-family="Consolas, Menlo, monospace">#465</text>
-<use href="#flag-cl" xlink:href="#flag-cl" x="780.0" y="303"/>
-<text x="806.0" y="314" font-size="12" fill="#e2e8f0">TV Chile</text>
-<rect x="1091.0" y="298" width="349.0" height="22" rx="4" fill="#121b30"/>
+<text x="741.0" y="314" font-size="12.5" font-weight="700" fill="#64748b" font-family="Consolas, Menlo, monospace">#465</text>
+<use href="#flag-cl" xlink:href="#flag-cl" x="778.0" y="303"/>
+<text x="798.0" y="314" font-size="10" opacity="0.95">🇨🇱</text>
+<text x="812.0" y="314" font-size="12" fill="#e2e8f0">TV Chile</text>
+<rect x="1091.0" y="298" width="349.0" height="22" rx="5" fill="#121b30"/>
 <title>#466 · 🇨🇱 CL — 13 Cocina (General)</title>
-<text x="1097.0" y="314" font-size="12.5" font-weight="700" fill="#64748b" font-family="Consolas, Menlo, monospace">#466</text>
-<use href="#flag-cl" xlink:href="#flag-cl" x="1137.0" y="303"/>
-<text x="1163.0" y="314" font-size="12" fill="#e2e8f0">13 Cocina</text>
-<rect x="20.0" y="322" width="349.0" height="22" rx="4" fill="#0f172a"/>
+<text x="1098.0" y="314" font-size="12.5" font-weight="700" fill="#64748b" font-family="Consolas, Menlo, monospace">#466</text>
+<use href="#flag-cl" xlink:href="#flag-cl" x="1135.0" y="303"/>
+<text x="1155.0" y="314" font-size="10" opacity="0.95">🇨🇱</text>
+<text x="1169.0" y="314" font-size="12" fill="#e2e8f0">13 Cocina</text>
+<rect x="20.0" y="322" width="349.0" height="22" rx="5" fill="#0f172a"/>
 <title>#467 · 🇨🇱 CL — 13 Internacional HD (Nacional) (General)</title>
-<text x="26.0" y="338" font-size="12.5" font-weight="700" fill="#64748b" font-family="Consolas, Menlo, monospace">#467</text>
-<use href="#flag-cl" xlink:href="#flag-cl" x="66.0" y="327"/>
-<text x="92.0" y="338" font-size="12" fill="#e2e8f0">13 Internacional HD (Nacional)</text>
-<rect x="377.0" y="322" width="349.0" height="22" rx="4" fill="#0f172a"/>
+<text x="27.0" y="338" font-size="12.5" font-weight="700" fill="#64748b" font-family="Consolas, Menlo, monospace">#467</text>
+<use href="#flag-cl" xlink:href="#flag-cl" x="64.0" y="327"/>
+<text x="84.0" y="338" font-size="10" opacity="0.95">🇨🇱</text>
+<text x="98.0" y="338" font-size="12" fill="#e2e8f0">13 Internacional HD (Nacional)</text>
+<rect x="377.0" y="322" width="349.0" height="22" rx="5" fill="#0f172a"/>
 <title>#468 · 🇨🇱 CL — 13 POP HD (Nacional) (General)</title>
-<text x="383.0" y="338" font-size="12.5" font-weight="700" fill="#64748b" font-family="Consolas, Menlo, monospace">#468</text>
-<use href="#flag-cl" xlink:href="#flag-cl" x="423.0" y="327"/>
-<text x="449.0" y="338" font-size="12" fill="#e2e8f0">13 POP HD (Nacional)</text>
-<rect x="734.0" y="322" width="349.0" height="22" rx="4" fill="#0f172a"/>
+<text x="384.0" y="338" font-size="12.5" font-weight="700" fill="#64748b" font-family="Consolas, Menlo, monospace">#468</text>
+<use href="#flag-cl" xlink:href="#flag-cl" x="421.0" y="327"/>
+<text x="441.0" y="338" font-size="10" opacity="0.95">🇨🇱</text>
+<text x="455.0" y="338" font-size="12" fill="#e2e8f0">13 POP HD (Nacional)</text>
+<rect x="734.0" y="322" width="349.0" height="22" rx="5" fill="#0f172a"/>
 <title>#469 · 🇨🇱 CL — 24 horas (General)</title>
-<text x="740.0" y="338" font-size="12.5" font-weight="700" fill="#64748b" font-family="Consolas, Menlo, monospace">#469</text>
-<use href="#flag-cl" xlink:href="#flag-cl" x="780.0" y="327"/>
-<text x="806.0" y="338" font-size="12" fill="#e2e8f0">24 horas</text>
-<rect x="1091.0" y="322" width="349.0" height="22" rx="4" fill="#0f172a"/>
+<text x="741.0" y="338" font-size="12.5" font-weight="700" fill="#64748b" font-family="Consolas, Menlo, monospace">#469</text>
+<use href="#flag-cl" xlink:href="#flag-cl" x="778.0" y="327"/>
+<text x="798.0" y="338" font-size="10" opacity="0.95">🇨🇱</text>
+<text x="812.0" y="338" font-size="12" fill="#e2e8f0">24 horas</text>
+<rect x="1091.0" y="322" width="349.0" height="22" rx="5" fill="#0f172a"/>
 <title>#470 · 🇨🇱 CL — Alternativa TV (General)</title>
-<text x="1097.0" y="338" font-size="12.5" font-weight="700" fill="#64748b" font-family="Consolas, Menlo, monospace">#470</text>
-<use href="#flag-cl" xlink:href="#flag-cl" x="1137.0" y="327"/>
-<text x="1163.0" y="338" font-size="12" fill="#e2e8f0">Alternativa TV</text>
-<rect x="20.0" y="346" width="349.0" height="22" rx="4" fill="#121b30"/>
+<text x="1098.0" y="338" font-size="12.5" font-weight="700" fill="#64748b" font-family="Consolas, Menlo, monospace">#470</text>
+<use href="#flag-cl" xlink:href="#flag-cl" x="1135.0" y="327"/>
+<text x="1155.0" y="338" font-size="10" opacity="0.95">🇨🇱</text>
+<text x="1169.0" y="338" font-size="12" fill="#e2e8f0">Alternativa TV</text>
+<rect x="20.0" y="346" width="349.0" height="22" rx="5" fill="#121b30"/>
 <title>#471 · 🇨🇱 CL — AM Canal (General)</title>
-<text x="26.0" y="362" font-size="12.5" font-weight="700" fill="#64748b" font-family="Consolas, Menlo, monospace">#471</text>
-<use href="#flag-cl" xlink:href="#flag-cl" x="66.0" y="351"/>
-<text x="92.0" y="362" font-size="12" fill="#e2e8f0">AM Canal</text>
-<rect x="377.0" y="346" width="349.0" height="22" rx="4" fill="#121b30"/>
+<text x="27.0" y="362" font-size="12.5" font-weight="700" fill="#64748b" font-family="Consolas, Menlo, monospace">#471</text>
+<use href="#flag-cl" xlink:href="#flag-cl" x="64.0" y="351"/>
+<text x="84.0" y="362" font-size="10" opacity="0.95">🇨🇱</text>
+<text x="98.0" y="362" font-size="12" fill="#e2e8f0">AM Canal</text>
+<rect x="377.0" y="346" width="349.0" height="22" rx="5" fill="#121b30"/>
 <title>#472 · 🇨🇱 CL — Antofagasta TV (General)</title>
-<text x="383.0" y="362" font-size="12.5" font-weight="700" fill="#64748b" font-family="Consolas, Menlo, monospace">#472</text>
-<use href="#flag-cl" xlink:href="#flag-cl" x="423.0" y="351"/>
-<text x="449.0" y="362" font-size="12" fill="#e2e8f0">Antofagasta TV</text>
-<rect x="734.0" y="346" width="349.0" height="22" rx="4" fill="#121b30"/>
+<text x="384.0" y="362" font-size="12.5" font-weight="700" fill="#64748b" font-family="Consolas, Menlo, monospace">#472</text>
+<use href="#flag-cl" xlink:href="#flag-cl" x="421.0" y="351"/>
+<text x="441.0" y="362" font-size="10" opacity="0.95">🇨🇱</text>
+<text x="455.0" y="362" font-size="12" fill="#e2e8f0">Antofagasta TV</text>
+<rect x="734.0" y="346" width="349.0" height="22" rx="5" fill="#121b30"/>
 <title>#473 · 🇨🇱 CL — Antofagasta TV (General)</title>
-<text x="740.0" y="362" font-size="12.5" font-weight="700" fill="#64748b" font-family="Consolas, Menlo, monospace">#473</text>
-<use href="#flag-cl" xlink:href="#flag-cl" x="780.0" y="351"/>
-<text x="806.0" y="362" font-size="12" fill="#e2e8f0">Antofagasta TV</text>
-<rect x="1091.0" y="346" width="349.0" height="22" rx="4" fill="#121b30"/>
+<text x="741.0" y="362" font-size="12.5" font-weight="700" fill="#64748b" font-family="Consolas, Menlo, monospace">#473</text>
+<use href="#flag-cl" xlink:href="#flag-cl" x="778.0" y="351"/>
+<text x="798.0" y="362" font-size="10" opacity="0.95">🇨🇱</text>
+<text x="812.0" y="362" font-size="12" fill="#e2e8f0">Antofagasta TV</text>
+<rect x="1091.0" y="346" width="349.0" height="22" rx="5" fill="#121b30"/>
 <title>#474 · 🇨🇱 CL — Arica TV (General)</title>
-<text x="1097.0" y="362" font-size="12.5" font-weight="700" fill="#64748b" font-family="Consolas, Menlo, monospace">#474</text>
-<use href="#flag-cl" xlink:href="#flag-cl" x="1137.0" y="351"/>
-<text x="1163.0" y="362" font-size="12" fill="#e2e8f0">Arica TV</text>
-<rect x="20.0" y="370" width="349.0" height="22" rx="4" fill="#0f172a"/>
+<text x="1098.0" y="362" font-size="12.5" font-weight="700" fill="#64748b" font-family="Consolas, Menlo, monospace">#474</text>
+<use href="#flag-cl" xlink:href="#flag-cl" x="1135.0" y="351"/>
+<text x="1155.0" y="362" font-size="10" opacity="0.95">🇨🇱</text>
+<text x="1169.0" y="362" font-size="12" fill="#e2e8f0">Arica TV</text>
+<rect x="20.0" y="370" width="349.0" height="22" rx="5" fill="#0f172a"/>
 <title>#475 · 🇨🇱 CL — Atacama TV (General)</title>
-<text x="26.0" y="386" font-size="12.5" font-weight="700" fill="#64748b" font-family="Consolas, Menlo, monospace">#475</text>
-<use href="#flag-cl" xlink:href="#flag-cl" x="66.0" y="375"/>
-<text x="92.0" y="386" font-size="12" fill="#e2e8f0">Atacama TV</text>
-<rect x="377.0" y="370" width="349.0" height="22" rx="4" fill="#0f172a"/>
+<text x="27.0" y="386" font-size="12.5" font-weight="700" fill="#64748b" font-family="Consolas, Menlo, monospace">#475</text>
+<use href="#flag-cl" xlink:href="#flag-cl" x="64.0" y="375"/>
+<text x="84.0" y="386" font-size="10" opacity="0.95">🇨🇱</text>
+<text x="98.0" y="386" font-size="12" fill="#e2e8f0">Atacama TV</text>
+<rect x="377.0" y="370" width="349.0" height="22" rx="5" fill="#0f172a"/>
 <title>#476 · 🇨🇱 CL — Atacama TV (General)</title>
-<text x="383.0" y="386" font-size="12.5" font-weight="700" fill="#64748b" font-family="Consolas, Menlo, monospace">#476</text>
-<use href="#flag-cl" xlink:href="#flag-cl" x="423.0" y="375"/>
-<text x="449.0" y="386" font-size="12" fill="#e2e8f0">Atacama TV</text>
-<rect x="734.0" y="370" width="349.0" height="22" rx="4" fill="#0f172a"/>
+<text x="384.0" y="386" font-size="12.5" font-weight="700" fill="#64748b" font-family="Consolas, Menlo, monospace">#476</text>
+<use href="#flag-cl" xlink:href="#flag-cl" x="421.0" y="375"/>
+<text x="441.0" y="386" font-size="10" opacity="0.95">🇨🇱</text>
+<text x="455.0" y="386" font-size="12" fill="#e2e8f0">Atacama TV</text>
+<rect x="734.0" y="370" width="349.0" height="22" rx="5" fill="#0f172a"/>
 <title>#477 · 🇨🇱 CL — Atacama TV (General)</title>
-<text x="740.0" y="386" font-size="12.5" font-weight="700" fill="#64748b" font-family="Consolas, Menlo, monospace">#477</text>
-<use href="#flag-cl" xlink:href="#flag-cl" x="780.0" y="375"/>
-<text x="806.0" y="386" font-size="12" fill="#e2e8f0">Atacama TV</text>
-<rect x="1091.0" y="370" width="349.0" height="22" rx="4" fill="#0f172a"/>
+<text x="741.0" y="386" font-size="12.5" font-weight="700" fill="#64748b" font-family="Consolas, Menlo, monospace">#477</text>
+<use href="#flag-cl" xlink:href="#flag-cl" x="778.0" y="375"/>
+<text x="798.0" y="386" font-size="10" opacity="0.95">🇨🇱</text>
+<text x="812.0" y="386" font-size="12" fill="#e2e8f0">Atacama TV</text>
+<rect x="1091.0" y="370" width="349.0" height="22" rx="5" fill="#0f172a"/>
 <title>#478 · 🇨🇱 CL — Aysen TV (General)</title>
-<text x="1097.0" y="386" font-size="12.5" font-weight="700" fill="#64748b" font-family="Consolas, Menlo, monospace">#478</text>
-<use href="#flag-cl" xlink:href="#flag-cl" x="1137.0" y="375"/>
-<text x="1163.0" y="386" font-size="12" fill="#e2e8f0">Aysen TV</text>
-<rect x="20.0" y="394" width="349.0" height="22" rx="4" fill="#121b30"/>
+<text x="1098.0" y="386" font-size="12.5" font-weight="700" fill="#64748b" font-family="Consolas, Menlo, monospace">#478</text>
+<use href="#flag-cl" xlink:href="#flag-cl" x="1135.0" y="375"/>
+<text x="1155.0" y="386" font-size="10" opacity="0.95">🇨🇱</text>
+<text x="1169.0" y="386" font-size="12" fill="#e2e8f0">Aysen TV</text>
+<rect x="20.0" y="394" width="349.0" height="22" rx="5" fill="#121b30"/>
 <title>#479 · 🇨🇱 CL — Aysen TV (General)</title>
-<text x="26.0" y="410" font-size="12.5" font-weight="700" fill="#64748b" font-family="Consolas, Menlo, monospace">#479</text>
-<use href="#flag-cl" xlink:href="#flag-cl" x="66.0" y="399"/>
-<text x="92.0" y="410" font-size="12" fill="#e2e8f0">Aysen TV</text>
-<rect x="377.0" y="394" width="349.0" height="22" rx="4" fill="#121b30"/>
+<text x="27.0" y="410" font-size="12.5" font-weight="700" fill="#64748b" font-family="Consolas, Menlo, monospace">#479</text>
+<use href="#flag-cl" xlink:href="#flag-cl" x="64.0" y="399"/>
+<text x="84.0" y="410" font-size="10" opacity="0.95">🇨🇱</text>
+<text x="98.0" y="410" font-size="12" fill="#e2e8f0">Aysen TV</text>
+<rect x="377.0" y="394" width="349.0" height="22" rx="5" fill="#121b30"/>
 <title>#480 · 🇨🇱 CL — Aysen TV (General)</title>
-<text x="383.0" y="410" font-size="12.5" font-weight="700" fill="#64748b" font-family="Consolas, Menlo, monospace">#480</text>
-<use href="#flag-cl" xlink:href="#flag-cl" x="423.0" y="399"/>
-<text x="449.0" y="410" font-size="12" fill="#e2e8f0">Aysen TV</text>
-<rect x="734.0" y="394" width="349.0" height="22" rx="4" fill="#121b30"/>
+<text x="384.0" y="410" font-size="12.5" font-weight="700" fill="#64748b" font-family="Consolas, Menlo, monospace">#480</text>
+<use href="#flag-cl" xlink:href="#flag-cl" x="421.0" y="399"/>
+<text x="441.0" y="410" font-size="10" opacity="0.95">🇨🇱</text>
+<text x="455.0" y="410" font-size="12" fill="#e2e8f0">Aysen TV</text>
+<rect x="734.0" y="394" width="349.0" height="22" rx="5" fill="#121b30"/>
 <title>#481 · 🇨🇱 CL — Bombi TV (General)</title>
-<text x="740.0" y="410" font-size="12.5" font-weight="700" fill="#64748b" font-family="Consolas, Menlo, monospace">#481</text>
-<use href="#flag-cl" xlink:href="#flag-cl" x="780.0" y="399"/>
-<text x="806.0" y="410" font-size="12" fill="#e2e8f0">Bombi TV</text>
-<rect x="1091.0" y="394" width="349.0" height="22" rx="4" fill="#121b30"/>
+<text x="741.0" y="410" font-size="12.5" font-weight="700" fill="#64748b" font-family="Consolas, Menlo, monospace">#481</text>
+<use href="#flag-cl" xlink:href="#flag-cl" x="778.0" y="399"/>
+<text x="798.0" y="410" font-size="10" opacity="0.95">🇨🇱</text>
+<text x="812.0" y="410" font-size="12" fill="#e2e8f0">Bombi TV</text>
+<rect x="1091.0" y="394" width="349.0" height="22" rx="5" fill="#121b30"/>
 <title>#482 · 🇨🇱 CL — Buin Somos Todos (General)</title>
-<text x="1097.0" y="410" font-size="12.5" font-weight="700" fill="#64748b" font-family="Consolas, Menlo, monospace">#482</text>
-<use href="#flag-cl" xlink:href="#flag-cl" x="1137.0" y="399"/>
-<text x="1163.0" y="410" font-size="12" fill="#e2e8f0">Buin Somos Todos</text>
-<rect x="20.0" y="418" width="349.0" height="22" rx="4" fill="#0f172a"/>
+<text x="1098.0" y="410" font-size="12.5" font-weight="700" fill="#64748b" font-family="Consolas, Menlo, monospace">#482</text>
+<use href="#flag-cl" xlink:href="#flag-cl" x="1135.0" y="399"/>
+<text x="1155.0" y="410" font-size="10" opacity="0.95">🇨🇱</text>
+<text x="1169.0" y="410" font-size="12" fill="#e2e8f0">Buin Somos Todos</text>
+<rect x="20.0" y="418" width="349.0" height="22" rx="5" fill="#0f172a"/>
 <title>#483 · 🇨🇱 CL — C y G TV (General)</title>
-<text x="26.0" y="434" font-size="12.5" font-weight="700" fill="#64748b" font-family="Consolas, Menlo, monospace">#483</text>
-<use href="#flag-cl" xlink:href="#flag-cl" x="66.0" y="423"/>
-<text x="92.0" y="434" font-size="12" fill="#e2e8f0">C y G TV</text>
-<rect x="377.0" y="418" width="349.0" height="22" rx="4" fill="#0f172a"/>
+<text x="27.0" y="434" font-size="12.5" font-weight="700" fill="#64748b" font-family="Consolas, Menlo, monospace">#483</text>
+<use href="#flag-cl" xlink:href="#flag-cl" x="64.0" y="423"/>
+<text x="84.0" y="434" font-size="10" opacity="0.95">🇨🇱</text>
+<text x="98.0" y="434" font-size="12" fill="#e2e8f0">C y G TV</text>
+<rect x="377.0" y="418" width="349.0" height="22" rx="5" fill="#0f172a"/>
 <title>#484 · 🇨🇱 CL — Cadena-RTV (General)</title>
-<text x="383.0" y="434" font-size="12.5" font-weight="700" fill="#64748b" font-family="Consolas, Menlo, monospace">#484</text>
-<use href="#flag-cl" xlink:href="#flag-cl" x="423.0" y="423"/>
-<text x="449.0" y="434" font-size="12" fill="#e2e8f0">Cadena-RTV</text>
-<rect x="734.0" y="418" width="349.0" height="22" rx="4" fill="#0f172a"/>
+<text x="384.0" y="434" font-size="12.5" font-weight="700" fill="#64748b" font-family="Consolas, Menlo, monospace">#484</text>
+<use href="#flag-cl" xlink:href="#flag-cl" x="421.0" y="423"/>
+<text x="441.0" y="434" font-size="10" opacity="0.95">🇨🇱</text>
+<text x="455.0" y="434" font-size="12" fill="#e2e8f0">Cadena-RTV</text>
+<rect x="734.0" y="418" width="349.0" height="22" rx="5" fill="#0f172a"/>
 <title>#485 · 🇨🇱 CL — Caldera Vision (General)</title>
-<text x="740.0" y="434" font-size="12.5" font-weight="700" fill="#64748b" font-family="Consolas, Menlo, monospace">#485</text>
-<use href="#flag-cl" xlink:href="#flag-cl" x="780.0" y="423"/>
-<text x="806.0" y="434" font-size="12" fill="#e2e8f0">Caldera Vision</text>
-<rect x="1091.0" y="418" width="349.0" height="22" rx="4" fill="#0f172a"/>
+<text x="741.0" y="434" font-size="12.5" font-weight="700" fill="#64748b" font-family="Consolas, Menlo, monospace">#485</text>
+<use href="#flag-cl" xlink:href="#flag-cl" x="778.0" y="423"/>
+<text x="798.0" y="434" font-size="10" opacity="0.95">🇨🇱</text>
+<text x="812.0" y="434" font-size="12" fill="#e2e8f0">Caldera Vision</text>
+<rect x="1091.0" y="418" width="349.0" height="22" rx="5" fill="#0f172a"/>
 <title>#486 · 🇨🇱 CL — Campo Abierto TV (General)</title>
-<text x="1097.0" y="434" font-size="12.5" font-weight="700" fill="#64748b" font-family="Consolas, Menlo, monospace">#486</text>
-<use href="#flag-cl" xlink:href="#flag-cl" x="1137.0" y="423"/>
-<text x="1163.0" y="434" font-size="12" fill="#e2e8f0">Campo Abierto TV</text>
-<rect x="20.0" y="442" width="349.0" height="22" rx="4" fill="#121b30"/>
+<text x="1098.0" y="434" font-size="12.5" font-weight="700" fill="#64748b" font-family="Consolas, Menlo, monospace">#486</text>
+<use href="#flag-cl" xlink:href="#flag-cl" x="1135.0" y="423"/>
+<text x="1155.0" y="434" font-size="10" opacity="0.95">🇨🇱</text>
+<text x="1169.0" y="434" font-size="12" fill="#e2e8f0">Campo Abierto TV</text>
+<rect x="20.0" y="442" width="349.0" height="22" rx="5" fill="#121b30"/>
 <title>#487 · 🇨🇱 CL — Campo Abierto TV (General)</title>
-<text x="26.0" y="458" font-size="12.5" font-weight="700" fill="#64748b" font-family="Consolas, Menlo, monospace">#487</text>
-<use href="#flag-cl" xlink:href="#flag-cl" x="66.0" y="447"/>
-<text x="92.0" y="458" font-size="12" fill="#e2e8f0">Campo Abierto TV</text>
-<rect x="377.0" y="442" width="349.0" height="22" rx="4" fill="#121b30"/>
+<text x="27.0" y="458" font-size="12.5" font-weight="700" fill="#64748b" font-family="Consolas, Menlo, monospace">#487</text>
+<use href="#flag-cl" xlink:href="#flag-cl" x="64.0" y="447"/>
+<text x="84.0" y="458" font-size="10" opacity="0.95">🇨🇱</text>
+<text x="98.0" y="458" font-size="12" fill="#e2e8f0">Campo Abierto TV</text>
+<rect x="377.0" y="442" width="349.0" height="22" rx="5" fill="#121b30"/>
 <title>#488 · 🇨🇱 CL — CampusTV (General)</title>
-<text x="383.0" y="458" font-size="12.5" font-weight="700" fill="#64748b" font-family="Consolas, Menlo, monospace">#488</text>
-<use href="#flag-cl" xlink:href="#flag-cl" x="423.0" y="447"/>
-<text x="449.0" y="458" font-size="12" fill="#e2e8f0">CampusTV</text>
-<rect x="734.0" y="442" width="349.0" height="22" rx="4" fill="#121b30"/>
+<text x="384.0" y="458" font-size="12.5" font-weight="700" fill="#64748b" font-family="Consolas, Menlo, monospace">#488</text>
+<use href="#flag-cl" xlink:href="#flag-cl" x="421.0" y="447"/>
+<text x="441.0" y="458" font-size="10" opacity="0.95">🇨🇱</text>
+<text x="455.0" y="458" font-size="12" fill="#e2e8f0">CampusTV</text>
+<rect x="734.0" y="442" width="349.0" height="22" rx="5" fill="#121b30"/>
 <title>#489 · 🇨🇱 CL — Canal 1 Nuble (General)</title>
-<text x="740.0" y="458" font-size="12.5" font-weight="700" fill="#64748b" font-family="Consolas, Menlo, monospace">#489</text>
-<use href="#flag-cl" xlink:href="#flag-cl" x="780.0" y="447"/>
-<text x="806.0" y="458" font-size="12" fill="#e2e8f0">Canal 1 Nuble</text>
-<rect x="1091.0" y="442" width="349.0" height="22" rx="4" fill="#121b30"/>
+<text x="741.0" y="458" font-size="12.5" font-weight="700" fill="#64748b" font-family="Consolas, Menlo, monospace">#489</text>
+<use href="#flag-cl" xlink:href="#flag-cl" x="778.0" y="447"/>
+<text x="798.0" y="458" font-size="10" opacity="0.95">🇨🇱</text>
+<text x="812.0" y="458" font-size="12" fill="#e2e8f0">Canal 1 Nuble</text>
+<rect x="1091.0" y="442" width="349.0" height="22" rx="5" fill="#121b30"/>
 <title>#490 · 🇨🇱 CL — Canal 13 (General)</title>
-<text x="1097.0" y="458" font-size="12.5" font-weight="700" fill="#64748b" font-family="Consolas, Menlo, monospace">#490</text>
-<use href="#flag-cl" xlink:href="#flag-cl" x="1137.0" y="447"/>
-<text x="1163.0" y="458" font-size="12" fill="#e2e8f0">Canal 13</text>
-<rect x="20.0" y="466" width="349.0" height="22" rx="4" fill="#0f172a"/>
+<text x="1098.0" y="458" font-size="12.5" font-weight="700" fill="#64748b" font-family="Consolas, Menlo, monospace">#490</text>
+<use href="#flag-cl" xlink:href="#flag-cl" x="1135.0" y="447"/>
+<text x="1155.0" y="458" font-size="10" opacity="0.95">🇨🇱</text>
+<text x="1169.0" y="458" font-size="12" fill="#e2e8f0">Canal 13</text>
+<rect x="20.0" y="466" width="349.0" height="22" rx="5" fill="#0f172a"/>
 <title>#491 · 🇨🇱 CL — Canal 13 (General)</title>
-<text x="26.0" y="482" font-size="12.5" font-weight="700" fill="#64748b" font-family="Consolas, Menlo, monospace">#491</text>
-<use href="#flag-cl" xlink:href="#flag-cl" x="66.0" y="471"/>
-<text x="92.0" y="482" font-size="12" fill="#e2e8f0">Canal 13</text>
-<rect x="377.0" y="466" width="349.0" height="22" rx="4" fill="#0f172a"/>
+<text x="27.0" y="482" font-size="12.5" font-weight="700" fill="#64748b" font-family="Consolas, Menlo, monospace">#491</text>
+<use href="#flag-cl" xlink:href="#flag-cl" x="64.0" y="471"/>
+<text x="84.0" y="482" font-size="10" opacity="0.95">🇨🇱</text>
+<text x="98.0" y="482" font-size="12" fill="#e2e8f0">Canal 13</text>
+<rect x="377.0" y="466" width="349.0" height="22" rx="5" fill="#0f172a"/>
 <title>#492 · 🇨🇱 CL — Canal 13 HD (Nacional)(Geo-Blocked) (General)</title>
-<text x="383.0" y="482" font-size="12.5" font-weight="700" fill="#64748b" font-family="Consolas, Menlo, monospace">#492</text>
-<use href="#flag-cl" xlink:href="#flag-cl" x="423.0" y="471"/>
-<text x="449.0" y="482" font-size="12" fill="#e2e8f0">Canal 13 HD (Nacional)(Geo-Blocked)</text>
-<rect x="734.0" y="466" width="349.0" height="22" rx="4" fill="#0f172a"/>
+<text x="384.0" y="482" font-size="12.5" font-weight="700" fill="#64748b" font-family="Consolas, Menlo, monospace">#492</text>
+<use href="#flag-cl" xlink:href="#flag-cl" x="421.0" y="471"/>
+<text x="441.0" y="482" font-size="10" opacity="0.95">🇨🇱</text>
+<text x="455.0" y="482" font-size="12" fill="#e2e8f0">Canal 13 HD (Nacional)(Geo-Blocked)</text>
+<rect x="734.0" y="466" width="349.0" height="22" rx="5" fill="#0f172a"/>
 <title>#493 · 🇨🇱 CL — Canal 2 Quellon (General)</title>
-<text x="740.0" y="482" font-size="12.5" font-weight="700" fill="#64748b" font-family="Consolas, Menlo, monospace">#493</text>
-<use href="#flag-cl" xlink:href="#flag-cl" x="780.0" y="471"/>
-<text x="806.0" y="482" font-size="12" fill="#e2e8f0">Canal 2 Quellon</text>
-<rect x="1091.0" y="466" width="349.0" height="22" rx="4" fill="#0f172a"/>
+<text x="741.0" y="482" font-size="12.5" font-weight="700" fill="#64748b" font-family="Consolas, Menlo, monospace">#493</text>
+<use href="#flag-cl" xlink:href="#flag-cl" x="778.0" y="471"/>
+<text x="798.0" y="482" font-size="10" opacity="0.95">🇨🇱</text>
+<text x="812.0" y="482" font-size="12" fill="#e2e8f0">Canal 2 Quellon</text>
+<rect x="1091.0" y="466" width="349.0" height="22" rx="5" fill="#0f172a"/>
 <title>#494 · 🇨🇱 CL — Canal 2 Quellón (General)</title>
-<text x="1097.0" y="482" font-size="12.5" font-weight="700" fill="#64748b" font-family="Consolas, Menlo, monospace">#494</text>
-<use href="#flag-cl" xlink:href="#flag-cl" x="1137.0" y="471"/>
-<text x="1163.0" y="482" font-size="12" fill="#e2e8f0">Canal 2 Quellón</text>
-<rect x="20.0" y="490" width="349.0" height="22" rx="4" fill="#121b30"/>
+<text x="1098.0" y="482" font-size="12.5" font-weight="700" fill="#64748b" font-family="Consolas, Menlo, monospace">#494</text>
+<use href="#flag-cl" xlink:href="#flag-cl" x="1135.0" y="471"/>
+<text x="1155.0" y="482" font-size="10" opacity="0.95">🇨🇱</text>
+<text x="1169.0" y="482" font-size="12" fill="#e2e8f0">Canal 2 Quellón</text>
+<rect x="20.0" y="490" width="349.0" height="22" rx="5" fill="#121b30"/>
 <title>#495 · 🇨🇱 CL — Canal 2 Quellón (General)</title>
-<text x="26.0" y="506" font-size="12.5" font-weight="700" fill="#64748b" font-family="Consolas, Menlo, monospace">#495</text>
-<use href="#flag-cl" xlink:href="#flag-cl" x="66.0" y="495"/>
-<text x="92.0" y="506" font-size="12" fill="#e2e8f0">Canal 2 Quellón</text>
-<rect x="377.0" y="490" width="349.0" height="22" rx="4" fill="#121b30"/>
+<text x="27.0" y="506" font-size="12.5" font-weight="700" fill="#64748b" font-family="Consolas, Menlo, monospace">#495</text>
+<use href="#flag-cl" xlink:href="#flag-cl" x="64.0" y="495"/>
+<text x="84.0" y="506" font-size="10" opacity="0.95">🇨🇱</text>
+<text x="98.0" y="506" font-size="12" fill="#e2e8f0">Canal 2 Quellón</text>
+<rect x="377.0" y="490" width="349.0" height="22" rx="5" fill="#121b30"/>
 <title>#496 · 🇨🇱 CL — Canal 2 Quellón (General)</title>
-<text x="383.0" y="506" font-size="12.5" font-weight="700" fill="#64748b" font-family="Consolas, Menlo, monospace">#496</text>
-<use href="#flag-cl" xlink:href="#flag-cl" x="423.0" y="495"/>
-<text x="449.0" y="506" font-size="12" fill="#e2e8f0">Canal 2 Quellón</text>
-<rect x="734.0" y="490" width="349.0" height="22" rx="4" fill="#121b30"/>
+<text x="384.0" y="506" font-size="12.5" font-weight="700" fill="#64748b" font-family="Consolas, Menlo, monospace">#496</text>
+<use href="#flag-cl" xlink:href="#flag-cl" x="421.0" y="495"/>
+<text x="441.0" y="506" font-size="10" opacity="0.95">🇨🇱</text>
+<text x="455.0" y="506" font-size="12" fill="#e2e8f0">Canal 2 Quellón</text>
+<rect x="734.0" y="490" width="349.0" height="22" rx="5" fill="#121b30"/>
 <title>#497 · 🇨🇱 CL — Canal 2 Quellón (General)</title>
-<text x="740.0" y="506" font-size="12.5" font-weight="700" fill="#64748b" font-family="Consolas, Menlo, monospace">#497</text>
-<use href="#flag-cl" xlink:href="#flag-cl" x="780.0" y="495"/>
-<text x="806.0" y="506" font-size="12" fill="#e2e8f0">Canal 2 Quellón</text>
-<rect x="1091.0" y="490" width="349.0" height="22" rx="4" fill="#121b30"/>
+<text x="741.0" y="506" font-size="12.5" font-weight="700" fill="#64748b" font-family="Consolas, Menlo, monospace">#497</text>
+<use href="#flag-cl" xlink:href="#flag-cl" x="778.0" y="495"/>
+<text x="798.0" y="506" font-size="10" opacity="0.95">🇨🇱</text>
+<text x="812.0" y="506" font-size="12" fill="#e2e8f0">Canal 2 Quellón</text>
+<rect x="1091.0" y="490" width="349.0" height="22" rx="5" fill="#121b30"/>
 <title>#498 · 🇨🇱 CL — Canal 2 Quellón (General)</title>
-<text x="1097.0" y="506" font-size="12.5" font-weight="700" fill="#64748b" font-family="Consolas, Menlo, monospace">#498</text>
-<use href="#flag-cl" xlink:href="#flag-cl" x="1137.0" y="495"/>
-<text x="1163.0" y="506" font-size="12" fill="#e2e8f0">Canal 2 Quellón</text>
-<rect x="20.0" y="514" width="349.0" height="22" rx="4" fill="#0f172a"/>
+<text x="1098.0" y="506" font-size="12.5" font-weight="700" fill="#64748b" font-family="Consolas, Menlo, monospace">#498</text>
+<use href="#flag-cl" xlink:href="#flag-cl" x="1135.0" y="495"/>
+<text x="1155.0" y="506" font-size="10" opacity="0.95">🇨🇱</text>
+<text x="1169.0" y="506" font-size="12" fill="#e2e8f0">Canal 2 Quellón</text>
+<rect x="20.0" y="514" width="349.0" height="22" rx="5" fill="#0f172a"/>
 <title>#499 · 🇨🇱 CL — Canal 2 San Antonio (General)</title>
-<text x="26.0" y="530" font-size="12.5" font-weight="700" fill="#64748b" font-family="Consolas, Menlo, monospace">#499</text>
-<use href="#flag-cl" xlink:href="#flag-cl" x="66.0" y="519"/>
-<text x="92.0" y="530" font-size="12" fill="#e2e8f0">Canal 2 San Antonio</text>
-<rect x="377.0" y="514" width="349.0" height="22" rx="4" fill="#0f172a"/>
+<text x="27.0" y="530" font-size="12.5" font-weight="700" fill="#64748b" font-family="Consolas, Menlo, monospace">#499</text>
+<use href="#flag-cl" xlink:href="#flag-cl" x="64.0" y="519"/>
+<text x="84.0" y="530" font-size="10" opacity="0.95">🇨🇱</text>
+<text x="98.0" y="530" font-size="12" fill="#e2e8f0">Canal 2 San Antonio</text>
+<rect x="377.0" y="514" width="349.0" height="22" rx="5" fill="#0f172a"/>
 <title>#500 · 🇨🇱 CL — Canal 2 San Antonio (General)</title>
-<text x="383.0" y="530" font-size="12.5" font-weight="700" fill="#64748b" font-family="Consolas, Menlo, monospace">#500</text>
-<use href="#flag-cl" xlink:href="#flag-cl" x="423.0" y="519"/>
-<text x="449.0" y="530" font-size="12" fill="#e2e8f0">Canal 2 San Antonio</text>
-<rect x="734.0" y="514" width="349.0" height="22" rx="4" fill="#0f172a"/>
+<text x="384.0" y="530" font-size="12.5" font-weight="700" fill="#64748b" font-family="Consolas, Menlo, monospace">#500</text>
+<use href="#flag-cl" xlink:href="#flag-cl" x="421.0" y="519"/>
+<text x="441.0" y="530" font-size="10" opacity="0.95">🇨🇱</text>
+<text x="455.0" y="530" font-size="12" fill="#e2e8f0">Canal 2 San Antonio</text>
+<rect x="734.0" y="514" width="349.0" height="22" rx="5" fill="#0f172a"/>
 <title>#501 · 🇨🇱 CL — Canal 2 San Antonio (General)</title>
-<text x="740.0" y="530" font-size="12.5" font-weight="700" fill="#64748b" font-family="Consolas, Menlo, monospace">#501</text>
-<use href="#flag-cl" xlink:href="#flag-cl" x="780.0" y="519"/>
-<text x="806.0" y="530" font-size="12" fill="#e2e8f0">Canal 2 San Antonio</text>
-<rect x="1091.0" y="514" width="349.0" height="22" rx="4" fill="#0f172a"/>
+<text x="741.0" y="530" font-size="12.5" font-weight="700" fill="#64748b" font-family="Consolas, Menlo, monospace">#501</text>
+<use href="#flag-cl" xlink:href="#flag-cl" x="778.0" y="519"/>
+<text x="798.0" y="530" font-size="10" opacity="0.95">🇨🇱</text>
+<text x="812.0" y="530" font-size="12" fill="#e2e8f0">Canal 2 San Antonio</text>
+<rect x="1091.0" y="514" width="349.0" height="22" rx="5" fill="#0f172a"/>
 <title>#502 · 🇨🇱 CL — Canal 30 Loncomilla (General)</title>
-<text x="1097.0" y="530" font-size="12.5" font-weight="700" fill="#64748b" font-family="Consolas, Menlo, monospace">#502</text>
-<use href="#flag-cl" xlink:href="#flag-cl" x="1137.0" y="519"/>
-<text x="1163.0" y="530" font-size="12" fill="#e2e8f0">Canal 30 Loncomilla</text>
-<rect x="20.0" y="538" width="349.0" height="22" rx="4" fill="#121b30"/>
+<text x="1098.0" y="530" font-size="12.5" font-weight="700" fill="#64748b" font-family="Consolas, Menlo, monospace">#502</text>
+<use href="#flag-cl" xlink:href="#flag-cl" x="1135.0" y="519"/>
+<text x="1155.0" y="530" font-size="10" opacity="0.95">🇨🇱</text>
+<text x="1169.0" y="530" font-size="12" fill="#e2e8f0">Canal 30 Loncomilla</text>
+<rect x="20.0" y="538" width="349.0" height="22" rx="5" fill="#121b30"/>
 <title>#503 · 🇨🇱 CL — Canal 5 Pto. Montt (General)</title>
-<text x="26.0" y="554" font-size="12.5" font-weight="700" fill="#64748b" font-family="Consolas, Menlo, monospace">#503</text>
-<use href="#flag-cl" xlink:href="#flag-cl" x="66.0" y="543"/>
-<text x="92.0" y="554" font-size="12" fill="#e2e8f0">Canal 5 Pto. Montt</text>
-<rect x="377.0" y="538" width="349.0" height="22" rx="4" fill="#121b30"/>
+<text x="27.0" y="554" font-size="12.5" font-weight="700" fill="#64748b" font-family="Consolas, Menlo, monospace">#503</text>
+<use href="#flag-cl" xlink:href="#flag-cl" x="64.0" y="543"/>
+<text x="84.0" y="554" font-size="10" opacity="0.95">🇨🇱</text>
+<text x="98.0" y="554" font-size="12" fill="#e2e8f0">Canal 5 Pto. Montt</text>
+<rect x="377.0" y="538" width="349.0" height="22" rx="5" fill="#121b30"/>
 <title>#504 · 🇨🇱 CL — Canal 5 Puerto Montt (General)</title>
-<text x="383.0" y="554" font-size="12.5" font-weight="700" fill="#64748b" font-family="Consolas, Menlo, monospace">#504</text>
-<use href="#flag-cl" xlink:href="#flag-cl" x="423.0" y="543"/>
-<text x="449.0" y="554" font-size="12" fill="#e2e8f0">Canal 5 Puerto Montt</text>
-<rect x="734.0" y="538" width="349.0" height="22" rx="4" fill="#121b30"/>
+<text x="384.0" y="554" font-size="12.5" font-weight="700" fill="#64748b" font-family="Consolas, Menlo, monospace">#504</text>
+<use href="#flag-cl" xlink:href="#flag-cl" x="421.0" y="543"/>
+<text x="441.0" y="554" font-size="10" opacity="0.95">🇨🇱</text>
+<text x="455.0" y="554" font-size="12" fill="#e2e8f0">Canal 5 Puerto Montt</text>
+<rect x="734.0" y="538" width="349.0" height="22" rx="5" fill="#121b30"/>
 <title>#505 · 🇨🇱 CL — Canal 9 (General)</title>
-<text x="740.0" y="554" font-size="12.5" font-weight="700" fill="#64748b" font-family="Consolas, Menlo, monospace">#505</text>
-<use href="#flag-cl" xlink:href="#flag-cl" x="780.0" y="543"/>
-<text x="806.0" y="554" font-size="12" fill="#e2e8f0">Canal 9</text>
-<rect x="1091.0" y="538" width="349.0" height="22" rx="4" fill="#121b30"/>
+<text x="741.0" y="554" font-size="12.5" font-weight="700" fill="#64748b" font-family="Consolas, Menlo, monospace">#505</text>
+<use href="#flag-cl" xlink:href="#flag-cl" x="778.0" y="543"/>
+<text x="798.0" y="554" font-size="10" opacity="0.95">🇨🇱</text>
+<text x="812.0" y="554" font-size="12" fill="#e2e8f0">Canal 9</text>
+<rect x="1091.0" y="538" width="349.0" height="22" rx="5" fill="#121b30"/>
 <title>#506 · 🇨🇱 CL — Canal 9 (General)</title>
-<text x="1097.0" y="554" font-size="12.5" font-weight="700" fill="#64748b" font-family="Consolas, Menlo, monospace">#506</text>
-<use href="#flag-cl" xlink:href="#flag-cl" x="1137.0" y="543"/>
-<text x="1163.0" y="554" font-size="12" fill="#e2e8f0">Canal 9</text>
-<rect x="20.0" y="562" width="349.0" height="22" rx="4" fill="#0f172a"/>
+<text x="1098.0" y="554" font-size="12.5" font-weight="700" fill="#64748b" font-family="Consolas, Menlo, monospace">#506</text>
+<use href="#flag-cl" xlink:href="#flag-cl" x="1135.0" y="543"/>
+<text x="1155.0" y="554" font-size="10" opacity="0.95">🇨🇱</text>
+<text x="1169.0" y="554" font-size="12" fill="#e2e8f0">Canal 9</text>
+<rect x="20.0" y="562" width="349.0" height="22" rx="5" fill="#0f172a"/>
 <title>#507 · 🇨🇱 CL — Canal Claro (General)</title>
-<text x="26.0" y="578" font-size="12.5" font-weight="700" fill="#64748b" font-family="Consolas, Menlo, monospace">#507</text>
-<use href="#flag-cl" xlink:href="#flag-cl" x="66.0" y="567"/>
-<text x="92.0" y="578" font-size="12" fill="#e2e8f0">Canal Claro</text>
-<rect x="377.0" y="562" width="349.0" height="22" rx="4" fill="#0f172a"/>
+<text x="27.0" y="578" font-size="12.5" font-weight="700" fill="#64748b" font-family="Consolas, Menlo, monospace">#507</text>
+<use href="#flag-cl" xlink:href="#flag-cl" x="64.0" y="567"/>
+<text x="84.0" y="578" font-size="10" opacity="0.95">🇨🇱</text>
+<text x="98.0" y="578" font-size="12" fill="#e2e8f0">Canal Claro</text>
+<rect x="377.0" y="562" width="349.0" height="22" rx="5" fill="#0f172a"/>
 <title>#508 · 🇨🇱 CL — Canal Latino 54 (General)</title>
-<text x="383.0" y="578" font-size="12.5" font-weight="700" fill="#64748b" font-family="Consolas, Menlo, monospace">#508</text>
-<use href="#flag-cl" xlink:href="#flag-cl" x="423.0" y="567"/>
-<text x="449.0" y="578" font-size="12" fill="#e2e8f0">Canal Latino 54</text>
-<rect x="734.0" y="562" width="349.0" height="22" rx="4" fill="#0f172a"/>
+<text x="384.0" y="578" font-size="12.5" font-weight="700" fill="#64748b" font-family="Consolas, Menlo, monospace">#508</text>
+<use href="#flag-cl" xlink:href="#flag-cl" x="421.0" y="567"/>
+<text x="441.0" y="578" font-size="10" opacity="0.95">🇨🇱</text>
+<text x="455.0" y="578" font-size="12" fill="#e2e8f0">Canal Latino 54</text>
+<rect x="734.0" y="562" width="349.0" height="22" rx="5" fill="#0f172a"/>
 <title>#509 · 🇨🇱 CL — Canal Local (General)</title>
-<text x="740.0" y="578" font-size="12.5" font-weight="700" fill="#64748b" font-family="Consolas, Menlo, monospace">#509</text>
-<use href="#flag-cl" xlink:href="#flag-cl" x="780.0" y="567"/>
-<text x="806.0" y="578" font-size="12" fill="#e2e8f0">Canal Local</text>
-<rect x="1091.0" y="562" width="349.0" height="22" rx="4" fill="#0f172a"/>
+<text x="741.0" y="578" font-size="12.5" font-weight="700" fill="#64748b" font-family="Consolas, Menlo, monospace">#509</text>
+<use href="#flag-cl" xlink:href="#flag-cl" x="778.0" y="567"/>
+<text x="798.0" y="578" font-size="10" opacity="0.95">🇨🇱</text>
+<text x="812.0" y="578" font-size="12" fill="#e2e8f0">Canal Local</text>
+<rect x="1091.0" y="562" width="349.0" height="22" rx="5" fill="#0f172a"/>
 <title>#510 · 🇨🇱 CL — Canal Local Quillota (General)</title>
-<text x="1097.0" y="578" font-size="12.5" font-weight="700" fill="#64748b" font-family="Consolas, Menlo, monospace">#510</text>
-<use href="#flag-cl" xlink:href="#flag-cl" x="1137.0" y="567"/>
-<text x="1163.0" y="578" font-size="12" fill="#e2e8f0">Canal Local Quillota</text>
-<rect x="20.0" y="586" width="349.0" height="22" rx="4" fill="#121b30"/>
+<text x="1098.0" y="578" font-size="12.5" font-weight="700" fill="#64748b" font-family="Consolas, Menlo, monospace">#510</text>
+<use href="#flag-cl" xlink:href="#flag-cl" x="1135.0" y="567"/>
+<text x="1155.0" y="578" font-size="10" opacity="0.95">🇨🇱</text>
+<text x="1169.0" y="578" font-size="12" fill="#e2e8f0">Canal Local Quillota</text>
+<rect x="20.0" y="586" width="349.0" height="22" rx="5" fill="#121b30"/>
 <title>#511 · 🇨🇱 CL — Canal Local Quillota (General)</title>
-<text x="26.0" y="602" font-size="12.5" font-weight="700" fill="#64748b" font-family="Consolas, Menlo, monospace">#511</text>
-<use href="#flag-cl" xlink:href="#flag-cl" x="66.0" y="591"/>
-<text x="92.0" y="602" font-size="12" fill="#e2e8f0">Canal Local Quillota</text>
-<rect x="377.0" y="586" width="349.0" height="22" rx="4" fill="#121b30"/>
+<text x="27.0" y="602" font-size="12.5" font-weight="700" fill="#64748b" font-family="Consolas, Menlo, monospace">#511</text>
+<use href="#flag-cl" xlink:href="#flag-cl" x="64.0" y="591"/>
+<text x="84.0" y="602" font-size="10" opacity="0.95">🇨🇱</text>
+<text x="98.0" y="602" font-size="12" fill="#e2e8f0">Canal Local Quillota</text>
+<rect x="377.0" y="586" width="349.0" height="22" rx="5" fill="#121b30"/>
 <title>#512 · 🇨🇱 CL — Canal Sur Patagonia (General)</title>
-<text x="383.0" y="602" font-size="12.5" font-weight="700" fill="#64748b" font-family="Consolas, Menlo, monospace">#512</text>
-<use href="#flag-cl" xlink:href="#flag-cl" x="423.0" y="591"/>
-<text x="449.0" y="602" font-size="12" fill="#e2e8f0">Canal Sur Patagonia</text>
-<rect x="734.0" y="586" width="349.0" height="22" rx="4" fill="#121b30"/>
+<text x="384.0" y="602" font-size="12.5" font-weight="700" fill="#64748b" font-family="Consolas, Menlo, monospace">#512</text>
+<use href="#flag-cl" xlink:href="#flag-cl" x="421.0" y="591"/>
+<text x="441.0" y="602" font-size="10" opacity="0.95">🇨🇱</text>
+<text x="455.0" y="602" font-size="12" fill="#e2e8f0">Canal Sur Patagonia</text>
+<rect x="734.0" y="586" width="349.0" height="22" rx="5" fill="#121b30"/>
 <title>#513 · 🇨🇱 CL — Canal Sur Patagonia (General)</title>
-<text x="740.0" y="602" font-size="12.5" font-weight="700" fill="#64748b" font-family="Consolas, Menlo, monospace">#513</text>
-<use href="#flag-cl" xlink:href="#flag-cl" x="780.0" y="591"/>
-<text x="806.0" y="602" font-size="12" fill="#e2e8f0">Canal Sur Patagonia</text>
-<rect x="1091.0" y="586" width="349.0" height="22" rx="4" fill="#121b30"/>
+<text x="741.0" y="602" font-size="12.5" font-weight="700" fill="#64748b" font-family="Consolas, Menlo, monospace">#513</text>
+<use href="#flag-cl" xlink:href="#flag-cl" x="778.0" y="591"/>
+<text x="798.0" y="602" font-size="10" opacity="0.95">🇨🇱</text>
+<text x="812.0" y="602" font-size="12" fill="#e2e8f0">Canal Sur Patagonia</text>
+<rect x="1091.0" y="586" width="349.0" height="22" rx="5" fill="#121b30"/>
 <title>#514 · 🇨🇱 CL — Canal Sur Patagonia (General)</title>
-<text x="1097.0" y="602" font-size="12.5" font-weight="700" fill="#64748b" font-family="Consolas, Menlo, monospace">#514</text>
-<use href="#flag-cl" xlink:href="#flag-cl" x="1137.0" y="591"/>
-<text x="1163.0" y="602" font-size="12" fill="#e2e8f0">Canal Sur Patagonia</text>
-<rect x="20.0" y="610" width="349.0" height="22" rx="4" fill="#0f172a"/>
+<text x="1098.0" y="602" font-size="12.5" font-weight="700" fill="#64748b" font-family="Consolas, Menlo, monospace">#514</text>
+<use href="#flag-cl" xlink:href="#flag-cl" x="1135.0" y="591"/>
+<text x="1155.0" y="602" font-size="10" opacity="0.95">🇨🇱</text>
+<text x="1169.0" y="602" font-size="12" fill="#e2e8f0">Canal Sur Patagonia</text>
+<rect x="20.0" y="610" width="349.0" height="22" rx="5" fill="#0f172a"/>
 <title>#515 · 🇨🇱 CL — Canal Survision Alerce (General)</title>
-<text x="26.0" y="626" font-size="12.5" font-weight="700" fill="#64748b" font-family="Consolas, Menlo, monospace">#515</text>
-<use href="#flag-cl" xlink:href="#flag-cl" x="66.0" y="615"/>
-<text x="92.0" y="626" font-size="12" fill="#e2e8f0">Canal Survision Alerce</text>
-<rect x="377.0" y="610" width="349.0" height="22" rx="4" fill="#0f172a"/>
+<text x="27.0" y="626" font-size="12.5" font-weight="700" fill="#64748b" font-family="Consolas, Menlo, monospace">#515</text>
+<use href="#flag-cl" xlink:href="#flag-cl" x="64.0" y="615"/>
+<text x="84.0" y="626" font-size="10" opacity="0.95">🇨🇱</text>
+<text x="98.0" y="626" font-size="12" fill="#e2e8f0">Canal Survision Alerce</text>
+<rect x="377.0" y="610" width="349.0" height="22" rx="5" fill="#0f172a"/>
 <title>#516 · 🇨🇱 CL — Caracola TV (General)</title>
-<text x="383.0" y="626" font-size="12.5" font-weight="700" fill="#64748b" font-family="Consolas, Menlo, monospace">#516</text>
-<use href="#flag-cl" xlink:href="#flag-cl" x="423.0" y="615"/>
-<text x="449.0" y="626" font-size="12" fill="#e2e8f0">Caracola TV</text>
-<rect x="734.0" y="610" width="349.0" height="22" rx="4" fill="#0f172a"/>
+<text x="384.0" y="626" font-size="12.5" font-weight="700" fill="#64748b" font-family="Consolas, Menlo, monospace">#516</text>
+<use href="#flag-cl" xlink:href="#flag-cl" x="421.0" y="615"/>
+<text x="441.0" y="626" font-size="10" opacity="0.95">🇨🇱</text>
+<text x="455.0" y="626" font-size="12" fill="#e2e8f0">Caracola TV</text>
+<rect x="734.0" y="610" width="349.0" height="22" rx="5" fill="#0f172a"/>
 <title>#517 · 🇨🇱 CL — Caracola TV (General)</title>
-<text x="740.0" y="626" font-size="12.5" font-weight="700" fill="#64748b" font-family="Consolas, Menlo, monospace">#517</text>
-<use href="#flag-cl" xlink:href="#flag-cl" x="780.0" y="615"/>
-<text x="806.0" y="626" font-size="12" fill="#e2e8f0">Caracola TV</text>
-<rect x="1091.0" y="610" width="349.0" height="22" rx="4" fill="#0f172a"/>
+<text x="741.0" y="626" font-size="12.5" font-weight="700" fill="#64748b" font-family="Consolas, Menlo, monospace">#517</text>
+<use href="#flag-cl" xlink:href="#flag-cl" x="778.0" y="615"/>
+<text x="798.0" y="626" font-size="10" opacity="0.95">🇨🇱</text>
+<text x="812.0" y="626" font-size="12" fill="#e2e8f0">Caracola TV</text>
+<rect x="1091.0" y="610" width="349.0" height="22" rx="5" fill="#0f172a"/>
 <title>#518 · 🇨🇱 CL — Central TV (Chile) (General)</title>
-<text x="1097.0" y="626" font-size="12.5" font-weight="700" fill="#64748b" font-family="Consolas, Menlo, monospace">#518</text>
-<use href="#flag-cl" xlink:href="#flag-cl" x="1137.0" y="615"/>
-<text x="1163.0" y="626" font-size="12" fill="#e2e8f0">Central TV (Chile)</text>
-<rect x="20.0" y="634" width="349.0" height="22" rx="4" fill="#121b30"/>
+<text x="1098.0" y="626" font-size="12.5" font-weight="700" fill="#64748b" font-family="Consolas, Menlo, monospace">#518</text>
+<use href="#flag-cl" xlink:href="#flag-cl" x="1135.0" y="615"/>
+<text x="1155.0" y="626" font-size="10" opacity="0.95">🇨🇱</text>
+<text x="1169.0" y="626" font-size="12" fill="#e2e8f0">Central TV (Chile)</text>
+<rect x="20.0" y="634" width="349.0" height="22" rx="5" fill="#121b30"/>
 <title>#519 · 🇨🇱 CL — Chile Channel (General)</title>
-<text x="26.0" y="650" font-size="12.5" font-weight="700" fill="#64748b" font-family="Consolas, Menlo, monospace">#519</text>
-<use href="#flag-cl" xlink:href="#flag-cl" x="66.0" y="639"/>
-<text x="92.0" y="650" font-size="12" fill="#e2e8f0">Chile Channel</text>
-<rect x="377.0" y="634" width="349.0" height="22" rx="4" fill="#121b30"/>
+<text x="27.0" y="650" font-size="12.5" font-weight="700" fill="#64748b" font-family="Consolas, Menlo, monospace">#519</text>
+<use href="#flag-cl" xlink:href="#flag-cl" x="64.0" y="639"/>
+<text x="84.0" y="650" font-size="10" opacity="0.95">🇨🇱</text>
+<text x="98.0" y="650" font-size="12" fill="#e2e8f0">Chile Channel</text>
+<rect x="377.0" y="634" width="349.0" height="22" rx="5" fill="#121b30"/>
 <title>#520 · 🇨🇱 CL — Chilevisión Deportes Ⓖ (General)</title>
-<text x="383.0" y="650" font-size="12.5" font-weight="700" fill="#64748b" font-family="Consolas, Menlo, monospace">#520</text>
-<use href="#flag-cl" xlink:href="#flag-cl" x="423.0" y="639"/>
-<text x="449.0" y="650" font-size="12" fill="#e2e8f0">Chilevisión Deportes Ⓖ</text>
-<rect x="734.0" y="634" width="349.0" height="22" rx="4" fill="#121b30"/>
+<text x="384.0" y="650" font-size="12.5" font-weight="700" fill="#64748b" font-family="Consolas, Menlo, monospace">#520</text>
+<use href="#flag-cl" xlink:href="#flag-cl" x="421.0" y="639"/>
+<text x="441.0" y="650" font-size="10" opacity="0.95">🇨🇱</text>
+<text x="455.0" y="650" font-size="12" fill="#e2e8f0">Chilevisión Deportes Ⓖ</text>
+<rect x="734.0" y="634" width="349.0" height="22" rx="5" fill="#121b30"/>
 <title>#521 · 🇨🇱 CL — Chilevisión Ⓖ (General)</title>
-<text x="740.0" y="650" font-size="12.5" font-weight="700" fill="#64748b" font-family="Consolas, Menlo, monospace">#521</text>
-<use href="#flag-cl" xlink:href="#flag-cl" x="780.0" y="639"/>
-<text x="806.0" y="650" font-size="12" fill="#e2e8f0">Chilevisión Ⓖ</text>
-<rect x="1091.0" y="634" width="349.0" height="22" rx="4" fill="#121b30"/>
+<text x="741.0" y="650" font-size="12.5" font-weight="700" fill="#64748b" font-family="Consolas, Menlo, monospace">#521</text>
+<use href="#flag-cl" xlink:href="#flag-cl" x="778.0" y="639"/>
+<text x="798.0" y="650" font-size="10" opacity="0.95">🇨🇱</text>
+<text x="812.0" y="650" font-size="12" fill="#e2e8f0">Chilevisión Ⓖ</text>
+<rect x="1091.0" y="634" width="349.0" height="22" rx="5" fill="#121b30"/>
 <title>#522 · 🇨🇱 CL — Chilevisión Noticias (General)</title>
-<text x="1097.0" y="650" font-size="12.5" font-weight="700" fill="#64748b" font-family="Consolas, Menlo, monospace">#522</text>
-<use href="#flag-cl" xlink:href="#flag-cl" x="1137.0" y="639"/>
-<text x="1163.0" y="650" font-size="12" fill="#e2e8f0">Chilevisión Noticias</text>
-<rect x="20.0" y="658" width="349.0" height="22" rx="4" fill="#0f172a"/>
+<text x="1098.0" y="650" font-size="12.5" font-weight="700" fill="#64748b" font-family="Consolas, Menlo, monospace">#522</text>
+<use href="#flag-cl" xlink:href="#flag-cl" x="1135.0" y="639"/>
+<text x="1155.0" y="650" font-size="10" opacity="0.95">🇨🇱</text>
+<text x="1169.0" y="650" font-size="12" fill="#e2e8f0">Chilevisión Noticias</text>
+<rect x="20.0" y="658" width="349.0" height="22" rx="5" fill="#0f172a"/>
 <title>#523 · 🇨🇱 CL — Chilevisual Classic (General)</title>
-<text x="26.0" y="674" font-size="12.5" font-weight="700" fill="#64748b" font-family="Consolas, Menlo, monospace">#523</text>
-<use href="#flag-cl" xlink:href="#flag-cl" x="66.0" y="663"/>
-<text x="92.0" y="674" font-size="12" fill="#e2e8f0">Chilevisual Classic</text>
-<rect x="377.0" y="658" width="349.0" height="22" rx="4" fill="#0f172a"/>
+<text x="27.0" y="674" font-size="12.5" font-weight="700" fill="#64748b" font-family="Consolas, Menlo, monospace">#523</text>
+<use href="#flag-cl" xlink:href="#flag-cl" x="64.0" y="663"/>
+<text x="84.0" y="674" font-size="10" opacity="0.95">🇨🇱</text>
+<text x="98.0" y="674" font-size="12" fill="#e2e8f0">Chilevisual Classic</text>
+<rect x="377.0" y="658" width="349.0" height="22" rx="5" fill="#0f172a"/>
 <title>#524 · 🇨🇳 CN — China Channel (General)</title>
-<text x="383.0" y="674" font-size="12.5" font-weight="700" fill="#64748b" font-family="Consolas, Menlo, monospace">#524</text>
-<use href="#flag-cn" xlink:href="#flag-cn" x="423.0" y="663"/>
-<text x="449.0" y="674" font-size="12" fill="#e2e8f0">China Channel</text>
-<rect x="734.0" y="658" width="349.0" height="22" rx="4" fill="#0f172a"/>
+<text x="384.0" y="674" font-size="12.5" font-weight="700" fill="#64748b" font-family="Consolas, Menlo, monospace">#524</text>
+<use href="#flag-cn" xlink:href="#flag-cn" x="421.0" y="663"/>
+<text x="441.0" y="674" font-size="10" opacity="0.95">🇨🇳</text>
+<text x="455.0" y="674" font-size="12" fill="#e2e8f0">China Channel</text>
+<rect x="734.0" y="658" width="349.0" height="22" rx="5" fill="#0f172a"/>
 <title>#525 · 🇨🇱 CL — ClickTV [No24/7](Coronel - Biobío) [Opc.2] (General)</title>
-<text x="740.0" y="674" font-size="12.5" font-weight="700" fill="#64748b" font-family="Consolas, Menlo, monospace">#525</text>
-<use href="#flag-cl" xlink:href="#flag-cl" x="780.0" y="663"/>
-<text x="806.0" y="674" font-size="12" fill="#e2e8f0">ClickTV [No24/7](Coronel - Biobío) [Opc…</text>
-<rect x="1091.0" y="658" width="349.0" height="22" rx="4" fill="#0f172a"/>
+<text x="741.0" y="674" font-size="12.5" font-weight="700" fill="#64748b" font-family="Consolas, Menlo, monospace">#525</text>
+<use href="#flag-cl" xlink:href="#flag-cl" x="778.0" y="663"/>
+<text x="798.0" y="674" font-size="10" opacity="0.95">🇨🇱</text>
+<text x="812.0" y="674" font-size="12" fill="#e2e8f0">ClickTV [No24/7](Coronel - Biobío) [Op…</text>
+<rect x="1091.0" y="658" width="349.0" height="22" rx="5" fill="#0f172a"/>
 <title>#526 · 🇨🇱 CL — ClickTv Chile (Coronel) (General)</title>
-<text x="1097.0" y="674" font-size="12.5" font-weight="700" fill="#64748b" font-family="Consolas, Menlo, monospace">#526</text>
-<use href="#flag-cl" xlink:href="#flag-cl" x="1137.0" y="663"/>
-<text x="1163.0" y="674" font-size="12" fill="#e2e8f0">ClickTv Chile (Coronel)</text>
-<rect x="20.0" y="682" width="349.0" height="22" rx="4" fill="#121b30"/>
+<text x="1098.0" y="674" font-size="12.5" font-weight="700" fill="#64748b" font-family="Consolas, Menlo, monospace">#526</text>
+<use href="#flag-cl" xlink:href="#flag-cl" x="1135.0" y="663"/>
+<text x="1155.0" y="674" font-size="10" opacity="0.95">🇨🇱</text>
+<text x="1169.0" y="674" font-size="12" fill="#e2e8f0">ClickTv Chile (Coronel)</text>
+<rect x="20.0" y="682" width="349.0" height="22" rx="5" fill="#121b30"/>
 <title>#527 · 🇨🇱 CL — ClickTv Chile (Coronel) (General)</title>
-<text x="26.0" y="698" font-size="12.5" font-weight="700" fill="#64748b" font-family="Consolas, Menlo, monospace">#527</text>
-<use href="#flag-cl" xlink:href="#flag-cl" x="66.0" y="687"/>
-<text x="92.0" y="698" font-size="12" fill="#e2e8f0">ClickTv Chile (Coronel)</text>
-<rect x="377.0" y="682" width="349.0" height="22" rx="4" fill="#121b30"/>
+<text x="27.0" y="698" font-size="12.5" font-weight="700" fill="#64748b" font-family="Consolas, Menlo, monospace">#527</text>
+<use href="#flag-cl" xlink:href="#flag-cl" x="64.0" y="687"/>
+<text x="84.0" y="698" font-size="10" opacity="0.95">🇨🇱</text>
+<text x="98.0" y="698" font-size="12" fill="#e2e8f0">ClickTv Chile (Coronel)</text>
+<rect x="377.0" y="682" width="349.0" height="22" rx="5" fill="#121b30"/>
 <title>#528 · 🇨🇱 CL — Club TV (General)</title>
-<text x="383.0" y="698" font-size="12.5" font-weight="700" fill="#64748b" font-family="Consolas, Menlo, monospace">#528</text>
-<use href="#flag-cl" xlink:href="#flag-cl" x="423.0" y="687"/>
-<text x="449.0" y="698" font-size="12" fill="#e2e8f0">Club TV</text>
-<rect x="734.0" y="682" width="349.0" height="22" rx="4" fill="#121b30"/>
+<text x="384.0" y="698" font-size="12.5" font-weight="700" fill="#64748b" font-family="Consolas, Menlo, monospace">#528</text>
+<use href="#flag-cl" xlink:href="#flag-cl" x="421.0" y="687"/>
+<text x="441.0" y="698" font-size="10" opacity="0.95">🇨🇱</text>
+<text x="455.0" y="698" font-size="12" fill="#e2e8f0">Club TV</text>
+<rect x="734.0" y="682" width="349.0" height="22" rx="5" fill="#121b30"/>
 <title>#529 · 🇨🇱 CL — Contivision (General)</title>
-<text x="740.0" y="698" font-size="12.5" font-weight="700" fill="#64748b" font-family="Consolas, Menlo, monospace">#529</text>
-<use href="#flag-cl" xlink:href="#flag-cl" x="780.0" y="687"/>
-<text x="806.0" y="698" font-size="12" fill="#e2e8f0">Contivision</text>
-<rect x="1091.0" y="682" width="349.0" height="22" rx="4" fill="#121b30"/>
+<text x="741.0" y="698" font-size="12.5" font-weight="700" fill="#64748b" font-family="Consolas, Menlo, monospace">#529</text>
+<use href="#flag-cl" xlink:href="#flag-cl" x="778.0" y="687"/>
+<text x="798.0" y="698" font-size="10" opacity="0.95">🇨🇱</text>
+<text x="812.0" y="698" font-size="12" fill="#e2e8f0">Contivision</text>
+<rect x="1091.0" y="682" width="349.0" height="22" rx="5" fill="#121b30"/>
 <title>#530 · 🇨🇱 CL — Contivision (General)</title>
-<text x="1097.0" y="698" font-size="12.5" font-weight="700" fill="#64748b" font-family="Consolas, Menlo, monospace">#530</text>
-<use href="#flag-cl" xlink:href="#flag-cl" x="1137.0" y="687"/>
-<text x="1163.0" y="698" font-size="12" fill="#e2e8f0">Contivision</text>
-<rect x="20.0" y="706" width="349.0" height="22" rx="4" fill="#0f172a"/>
+<text x="1098.0" y="698" font-size="12.5" font-weight="700" fill="#64748b" font-family="Consolas, Menlo, monospace">#530</text>
+<use href="#flag-cl" xlink:href="#flag-cl" x="1135.0" y="687"/>
+<text x="1155.0" y="698" font-size="10" opacity="0.95">🇨🇱</text>
+<text x="1169.0" y="698" font-size="12" fill="#e2e8f0">Contivision</text>
+<rect x="20.0" y="706" width="349.0" height="22" rx="5" fill="#0f172a"/>
 <title>#531 · 🇨🇱 CL — Coyhaique TV (General)</title>
-<text x="26.0" y="722" font-size="12.5" font-weight="700" fill="#64748b" font-family="Consolas, Menlo, monospace">#531</text>
-<use href="#flag-cl" xlink:href="#flag-cl" x="66.0" y="711"/>
-<text x="92.0" y="722" font-size="12" fill="#e2e8f0">Coyhaique TV</text>
-<rect x="377.0" y="706" width="349.0" height="22" rx="4" fill="#0f172a"/>
+<text x="27.0" y="722" font-size="12.5" font-weight="700" fill="#64748b" font-family="Consolas, Menlo, monospace">#531</text>
+<use href="#flag-cl" xlink:href="#flag-cl" x="64.0" y="711"/>
+<text x="84.0" y="722" font-size="10" opacity="0.95">🇨🇱</text>
+<text x="98.0" y="722" font-size="12" fill="#e2e8f0">Coyhaique TV</text>
+<rect x="377.0" y="706" width="349.0" height="22" rx="5" fill="#0f172a"/>
 <title>#532 · 🇨🇱 CL — DCH TV (General)</title>
-<text x="383.0" y="722" font-size="12.5" font-weight="700" fill="#64748b" font-family="Consolas, Menlo, monospace">#532</text>
-<use href="#flag-cl" xlink:href="#flag-cl" x="423.0" y="711"/>
-<text x="449.0" y="722" font-size="12" fill="#e2e8f0">DCH TV</text>
-<rect x="734.0" y="706" width="349.0" height="22" rx="4" fill="#0f172a"/>
+<text x="384.0" y="722" font-size="12.5" font-weight="700" fill="#64748b" font-family="Consolas, Menlo, monospace">#532</text>
+<use href="#flag-cl" xlink:href="#flag-cl" x="421.0" y="711"/>
+<text x="441.0" y="722" font-size="10" opacity="0.95">🇨🇱</text>
+<text x="455.0" y="722" font-size="12" fill="#e2e8f0">DCH TV</text>
+<rect x="734.0" y="706" width="349.0" height="22" rx="5" fill="#0f172a"/>
 <title>#533 · 🇨🇱 CL — Decima TV (General)</title>
-<text x="740.0" y="722" font-size="12.5" font-weight="700" fill="#64748b" font-family="Consolas, Menlo, monospace">#533</text>
-<use href="#flag-cl" xlink:href="#flag-cl" x="780.0" y="711"/>
-<text x="806.0" y="722" font-size="12" fill="#e2e8f0">Decima TV</text>
-<rect x="1091.0" y="706" width="349.0" height="22" rx="4" fill="#0f172a"/>
+<text x="741.0" y="722" font-size="12.5" font-weight="700" fill="#64748b" font-family="Consolas, Menlo, monospace">#533</text>
+<use href="#flag-cl" xlink:href="#flag-cl" x="778.0" y="711"/>
+<text x="798.0" y="722" font-size="10" opacity="0.95">🇨🇱</text>
+<text x="812.0" y="722" font-size="12" fill="#e2e8f0">Decima TV</text>
+<rect x="1091.0" y="706" width="349.0" height="22" rx="5" fill="#0f172a"/>
 <title>#534 · 🇨🇱 CL — Décima TV (Ancud) (General)</title>
-<text x="1097.0" y="722" font-size="12.5" font-weight="700" fill="#64748b" font-family="Consolas, Menlo, monospace">#534</text>
-<use href="#flag-cl" xlink:href="#flag-cl" x="1137.0" y="711"/>
-<text x="1163.0" y="722" font-size="12" fill="#e2e8f0">Décima TV (Ancud)</text>
-<rect x="20.0" y="730" width="349.0" height="22" rx="4" fill="#121b30"/>
+<text x="1098.0" y="722" font-size="12.5" font-weight="700" fill="#64748b" font-family="Consolas, Menlo, monospace">#534</text>
+<use href="#flag-cl" xlink:href="#flag-cl" x="1135.0" y="711"/>
+<text x="1155.0" y="722" font-size="10" opacity="0.95">🇨🇱</text>
+<text x="1169.0" y="722" font-size="12" fill="#e2e8f0">Décima TV (Ancud)</text>
+<rect x="20.0" y="730" width="349.0" height="22" rx="5" fill="#121b30"/>
 <title>#535 · 🇨🇱 CL — Deportes13 Ⓖ (General)</title>
-<text x="26.0" y="746" font-size="12.5" font-weight="700" fill="#64748b" font-family="Consolas, Menlo, monospace">#535</text>
-<use href="#flag-cl" xlink:href="#flag-cl" x="66.0" y="735"/>
-<text x="92.0" y="746" font-size="12" fill="#e2e8f0">Deportes13 Ⓖ</text>
-<rect x="377.0" y="730" width="349.0" height="22" rx="4" fill="#121b30"/>
+<text x="27.0" y="746" font-size="12.5" font-weight="700" fill="#64748b" font-family="Consolas, Menlo, monospace">#535</text>
+<use href="#flag-cl" xlink:href="#flag-cl" x="64.0" y="735"/>
+<text x="84.0" y="746" font-size="10" opacity="0.95">🇨🇱</text>
+<text x="98.0" y="746" font-size="12" fill="#e2e8f0">Deportes13 Ⓖ</text>
+<rect x="377.0" y="730" width="349.0" height="22" rx="5" fill="#121b30"/>
 <title>#536 · 🇨🇱 CL — Docevision (General)</title>
-<text x="383.0" y="746" font-size="12.5" font-weight="700" fill="#64748b" font-family="Consolas, Menlo, monospace">#536</text>
-<use href="#flag-cl" xlink:href="#flag-cl" x="423.0" y="735"/>
-<text x="449.0" y="746" font-size="12" fill="#e2e8f0">Docevision</text>
-<rect x="734.0" y="730" width="349.0" height="22" rx="4" fill="#121b30"/>
+<text x="384.0" y="746" font-size="12.5" font-weight="700" fill="#64748b" font-family="Consolas, Menlo, monospace">#536</text>
+<use href="#flag-cl" xlink:href="#flag-cl" x="421.0" y="735"/>
+<text x="441.0" y="746" font-size="10" opacity="0.95">🇨🇱</text>
+<text x="455.0" y="746" font-size="12" fill="#e2e8f0">Docevision</text>
+<rect x="734.0" y="730" width="349.0" height="22" rx="5" fill="#121b30"/>
 <title>#537 · 🇨🇱 CL — Dodo TV (General)</title>
-<text x="740.0" y="746" font-size="12.5" font-weight="700" fill="#64748b" font-family="Consolas, Menlo, monospace">#537</text>
-<use href="#flag-cl" xlink:href="#flag-cl" x="780.0" y="735"/>
-<text x="806.0" y="746" font-size="12" fill="#e2e8f0">Dodo TV</text>
-<rect x="1091.0" y="730" width="349.0" height="22" rx="4" fill="#121b30"/>
+<text x="741.0" y="746" font-size="12.5" font-weight="700" fill="#64748b" font-family="Consolas, Menlo, monospace">#537</text>
+<use href="#flag-cl" xlink:href="#flag-cl" x="778.0" y="735"/>
+<text x="798.0" y="746" font-size="10" opacity="0.95">🇨🇱</text>
+<text x="812.0" y="746" font-size="12" fill="#e2e8f0">Dodo TV</text>
+<rect x="1091.0" y="730" width="349.0" height="22" rx="5" fill="#121b30"/>
 <title>#538 · 🇨🇱 CL — EGM Channel HD (Rancagua) (General)</title>
-<text x="1097.0" y="746" font-size="12.5" font-weight="700" fill="#64748b" font-family="Consolas, Menlo, monospace">#538</text>
-<use href="#flag-cl" xlink:href="#flag-cl" x="1137.0" y="735"/>
-<text x="1163.0" y="746" font-size="12" fill="#e2e8f0">EGM Channel HD (Rancagua)</text>
-<rect x="20.0" y="754" width="349.0" height="22" rx="4" fill="#0f172a"/>
+<text x="1098.0" y="746" font-size="12.5" font-weight="700" fill="#64748b" font-family="Consolas, Menlo, monospace">#538</text>
+<use href="#flag-cl" xlink:href="#flag-cl" x="1135.0" y="735"/>
+<text x="1155.0" y="746" font-size="10" opacity="0.95">🇨🇱</text>
+<text x="1169.0" y="746" font-size="12" fill="#e2e8f0">EGM Channel HD (Rancagua)</text>
+<rect x="20.0" y="754" width="349.0" height="22" rx="5" fill="#0f172a"/>
 <title>#539 · 🇨🇱 CL — EGM TV (General)</title>
-<text x="26.0" y="770" font-size="12.5" font-weight="700" fill="#64748b" font-family="Consolas, Menlo, monospace">#539</text>
-<use href="#flag-cl" xlink:href="#flag-cl" x="66.0" y="759"/>
-<text x="92.0" y="770" font-size="12" fill="#e2e8f0">EGM TV</text>
-<rect x="377.0" y="754" width="349.0" height="22" rx="4" fill="#0f172a"/>
+<text x="27.0" y="770" font-size="12.5" font-weight="700" fill="#64748b" font-family="Consolas, Menlo, monospace">#539</text>
+<use href="#flag-cl" xlink:href="#flag-cl" x="64.0" y="759"/>
+<text x="84.0" y="770" font-size="10" opacity="0.95">🇨🇱</text>
+<text x="98.0" y="770" font-size="12" fill="#e2e8f0">EGM TV</text>
+<rect x="377.0" y="754" width="349.0" height="22" rx="5" fill="#0f172a"/>
 <title>#540 · 🇨🇱 CL — El Radar (General)</title>
-<text x="383.0" y="770" font-size="12.5" font-weight="700" fill="#64748b" font-family="Consolas, Menlo, monospace">#540</text>
-<use href="#flag-cl" xlink:href="#flag-cl" x="423.0" y="759"/>
-<text x="449.0" y="770" font-size="12" fill="#e2e8f0">El Radar</text>
-<rect x="734.0" y="754" width="349.0" height="22" rx="4" fill="#0f172a"/>
+<text x="384.0" y="770" font-size="12.5" font-weight="700" fill="#64748b" font-family="Consolas, Menlo, monospace">#540</text>
+<use href="#flag-cl" xlink:href="#flag-cl" x="421.0" y="759"/>
+<text x="441.0" y="770" font-size="10" opacity="0.95">🇨🇱</text>
+<text x="455.0" y="770" font-size="12" fill="#e2e8f0">El Radar</text>
+<rect x="734.0" y="754" width="349.0" height="22" rx="5" fill="#0f172a"/>
 <title>#541 · 🇨🇱 CL — En Linea Maule (General)</title>
-<text x="740.0" y="770" font-size="12.5" font-weight="700" fill="#64748b" font-family="Consolas, Menlo, monospace">#541</text>
-<use href="#flag-cl" xlink:href="#flag-cl" x="780.0" y="759"/>
-<text x="806.0" y="770" font-size="12" fill="#e2e8f0">En Linea Maule</text>
-<rect x="1091.0" y="754" width="349.0" height="22" rx="4" fill="#0f172a"/>
+<text x="741.0" y="770" font-size="12.5" font-weight="700" fill="#64748b" font-family="Consolas, Menlo, monospace">#541</text>
+<use href="#flag-cl" xlink:href="#flag-cl" x="778.0" y="759"/>
+<text x="798.0" y="770" font-size="10" opacity="0.95">🇨🇱</text>
+<text x="812.0" y="770" font-size="12" fill="#e2e8f0">En Linea Maule</text>
+<rect x="1091.0" y="754" width="349.0" height="22" rx="5" fill="#0f172a"/>
 <title>#542 · 🇨🇱 CL — EnerGeek Fan (General)</title>
-<text x="1097.0" y="770" font-size="12.5" font-weight="700" fill="#64748b" font-family="Consolas, Menlo, monospace">#542</text>
-<use href="#flag-cl" xlink:href="#flag-cl" x="1137.0" y="759"/>
-<text x="1163.0" y="770" font-size="12" fill="#e2e8f0">EnerGeek Fan</text>
-<rect x="20.0" y="778" width="349.0" height="22" rx="4" fill="#121b30"/>
+<text x="1098.0" y="770" font-size="12.5" font-weight="700" fill="#64748b" font-family="Consolas, Menlo, monospace">#542</text>
+<use href="#flag-cl" xlink:href="#flag-cl" x="1135.0" y="759"/>
+<text x="1155.0" y="770" font-size="10" opacity="0.95">🇨🇱</text>
+<text x="1169.0" y="770" font-size="12" fill="#e2e8f0">EnerGeek Fan</text>
+<rect x="20.0" y="778" width="349.0" height="22" rx="5" fill="#121b30"/>
 <title>#543 · 🇨🇱 CL — EnerGeek Fan (General)</title>
-<text x="26.0" y="794" font-size="12.5" font-weight="700" fill="#64748b" font-family="Consolas, Menlo, monospace">#543</text>
-<use href="#flag-cl" xlink:href="#flag-cl" x="66.0" y="783"/>
-<text x="92.0" y="794" font-size="12" fill="#e2e8f0">EnerGeek Fan</text>
-<rect x="377.0" y="778" width="349.0" height="22" rx="4" fill="#121b30"/>
+<text x="27.0" y="794" font-size="12.5" font-weight="700" fill="#64748b" font-family="Consolas, Menlo, monospace">#543</text>
+<use href="#flag-cl" xlink:href="#flag-cl" x="64.0" y="783"/>
+<text x="84.0" y="794" font-size="10" opacity="0.95">🇨🇱</text>
+<text x="98.0" y="794" font-size="12" fill="#e2e8f0">EnerGeek Fan</text>
+<rect x="377.0" y="778" width="349.0" height="22" rx="5" fill="#121b30"/>
 <title>#544 · 🇨🇱 CL — EnerGeek Retro (General)</title>
-<text x="383.0" y="794" font-size="12.5" font-weight="700" fill="#64748b" font-family="Consolas, Menlo, monospace">#544</text>
-<use href="#flag-cl" xlink:href="#flag-cl" x="423.0" y="783"/>
-<text x="449.0" y="794" font-size="12" fill="#e2e8f0">EnerGeek Retro</text>
-<rect x="734.0" y="778" width="349.0" height="22" rx="4" fill="#121b30"/>
+<text x="384.0" y="794" font-size="12.5" font-weight="700" fill="#64748b" font-family="Consolas, Menlo, monospace">#544</text>
+<use href="#flag-cl" xlink:href="#flag-cl" x="421.0" y="783"/>
+<text x="441.0" y="794" font-size="10" opacity="0.95">🇨🇱</text>
+<text x="455.0" y="794" font-size="12" fill="#e2e8f0">EnerGeek Retro</text>
+<rect x="734.0" y="778" width="349.0" height="22" rx="5" fill="#121b30"/>
 <title>#545 · 🇨🇱 CL — EnerGeek Retro (General)</title>
-<text x="740.0" y="794" font-size="12.5" font-weight="700" fill="#64748b" font-family="Consolas, Menlo, monospace">#545</text>
-<use href="#flag-cl" xlink:href="#flag-cl" x="780.0" y="783"/>
-<text x="806.0" y="794" font-size="12" fill="#e2e8f0">EnerGeek Retro</text>
-<rect x="1091.0" y="778" width="349.0" height="22" rx="4" fill="#121b30"/>
+<text x="741.0" y="794" font-size="12.5" font-weight="700" fill="#64748b" font-family="Consolas, Menlo, monospace">#545</text>
+<use href="#flag-cl" xlink:href="#flag-cl" x="778.0" y="783"/>
+<text x="798.0" y="794" font-size="10" opacity="0.95">🇨🇱</text>
+<text x="812.0" y="794" font-size="12" fill="#e2e8f0">EnerGeek Retro</text>
+<rect x="1091.0" y="778" width="349.0" height="22" rx="5" fill="#121b30"/>
 <title>#546 · 🇨🇱 CL — EnerGeek Retro (General)</title>
-<text x="1097.0" y="794" font-size="12.5" font-weight="700" fill="#64748b" font-family="Consolas, Menlo, monospace">#546</text>
-<use href="#flag-cl" xlink:href="#flag-cl" x="1137.0" y="783"/>
-<text x="1163.0" y="794" font-size="12" fill="#e2e8f0">EnerGeek Retro</text>
-<rect x="20.0" y="802" width="349.0" height="22" rx="4" fill="#0f172a"/>
+<text x="1098.0" y="794" font-size="12.5" font-weight="700" fill="#64748b" font-family="Consolas, Menlo, monospace">#546</text>
+<use href="#flag-cl" xlink:href="#flag-cl" x="1135.0" y="783"/>
+<text x="1155.0" y="794" font-size="10" opacity="0.95">🇨🇱</text>
+<text x="1169.0" y="794" font-size="12" fill="#e2e8f0">EnerGeek Retro</text>
+<rect x="20.0" y="802" width="349.0" height="22" rx="5" fill="#0f172a"/>
 <title>#547 · 🇨🇱 CL — EnerGeek Retro (General)</title>
-<text x="26.0" y="818" font-size="12.5" font-weight="700" fill="#64748b" font-family="Consolas, Menlo, monospace">#547</text>
-<use href="#flag-cl" xlink:href="#flag-cl" x="66.0" y="807"/>
-<text x="92.0" y="818" font-size="12" fill="#e2e8f0">EnerGeek Retro</text>
-<rect x="377.0" y="802" width="349.0" height="22" rx="4" fill="#0f172a"/>
+<text x="27.0" y="818" font-size="12.5" font-weight="700" fill="#64748b" font-family="Consolas, Menlo, monospace">#547</text>
+<use href="#flag-cl" xlink:href="#flag-cl" x="64.0" y="807"/>
+<text x="84.0" y="818" font-size="10" opacity="0.95">🇨🇱</text>
+<text x="98.0" y="818" font-size="12" fill="#e2e8f0">EnerGeek Retro</text>
+<rect x="377.0" y="802" width="349.0" height="22" rx="5" fill="#0f172a"/>
 <title>#548 · 🇨🇱 CL — Enfoque Digital TV (General)</title>
-<text x="383.0" y="818" font-size="12.5" font-weight="700" fill="#64748b" font-family="Consolas, Menlo, monospace">#548</text>
-<use href="#flag-cl" xlink:href="#flag-cl" x="423.0" y="807"/>
-<text x="449.0" y="818" font-size="12" fill="#e2e8f0">Enfoque Digital TV</text>
-<rect x="734.0" y="802" width="349.0" height="22" rx="4" fill="#0f172a"/>
+<text x="384.0" y="818" font-size="12.5" font-weight="700" fill="#64748b" font-family="Consolas, Menlo, monospace">#548</text>
+<use href="#flag-cl" xlink:href="#flag-cl" x="421.0" y="807"/>
+<text x="441.0" y="818" font-size="10" opacity="0.95">🇨🇱</text>
+<text x="455.0" y="818" font-size="12" fill="#e2e8f0">Enfoque Digital TV</text>
+<rect x="734.0" y="802" width="349.0" height="22" rx="5" fill="#0f172a"/>
 <title>#549 · 🇨🇱 CL — EPA! TV (General)</title>
-<text x="740.0" y="818" font-size="12.5" font-weight="700" fill="#64748b" font-family="Consolas, Menlo, monospace">#549</text>
-<use href="#flag-cl" xlink:href="#flag-cl" x="780.0" y="807"/>
-<text x="806.0" y="818" font-size="12" fill="#e2e8f0">EPA! TV</text>
-<rect x="1091.0" y="802" width="349.0" height="22" rx="4" fill="#0f172a"/>
+<text x="741.0" y="818" font-size="12.5" font-weight="700" fill="#64748b" font-family="Consolas, Menlo, monospace">#549</text>
+<use href="#flag-cl" xlink:href="#flag-cl" x="778.0" y="807"/>
+<text x="798.0" y="818" font-size="10" opacity="0.95">🇨🇱</text>
+<text x="812.0" y="818" font-size="12" fill="#e2e8f0">EPA! TV</text>
+<rect x="1091.0" y="802" width="349.0" height="22" rx="5" fill="#0f172a"/>
 <title>#550 · 🇨🇱 CL — EPA! TV (General)</title>
-<text x="1097.0" y="818" font-size="12.5" font-weight="700" fill="#64748b" font-family="Consolas, Menlo, monospace">#550</text>
-<use href="#flag-cl" xlink:href="#flag-cl" x="1137.0" y="807"/>
-<text x="1163.0" y="818" font-size="12" fill="#e2e8f0">EPA! TV</text>
-<rect x="20.0" y="826" width="349.0" height="22" rx="4" fill="#121b30"/>
+<text x="1098.0" y="818" font-size="12.5" font-weight="700" fill="#64748b" font-family="Consolas, Menlo, monospace">#550</text>
+<use href="#flag-cl" xlink:href="#flag-cl" x="1135.0" y="807"/>
+<text x="1155.0" y="818" font-size="10" opacity="0.95">🇨🇱</text>
+<text x="1169.0" y="818" font-size="12" fill="#e2e8f0">EPA! TV</text>
+<rect x="20.0" y="826" width="349.0" height="22" rx="5" fill="#121b30"/>
 <title>#551 · 🇨🇱 CL — Estacion TV (General)</title>
-<text x="26.0" y="842" font-size="12.5" font-weight="700" fill="#64748b" font-family="Consolas, Menlo, monospace">#551</text>
-<use href="#flag-cl" xlink:href="#flag-cl" x="66.0" y="831"/>
-<text x="92.0" y="842" font-size="12" fill="#e2e8f0">Estacion TV</text>
-<rect x="377.0" y="826" width="349.0" height="22" rx="4" fill="#121b30"/>
+<text x="27.0" y="842" font-size="12.5" font-weight="700" fill="#64748b" font-family="Consolas, Menlo, monospace">#551</text>
+<use href="#flag-cl" xlink:href="#flag-cl" x="64.0" y="831"/>
+<text x="84.0" y="842" font-size="10" opacity="0.95">🇨🇱</text>
+<text x="98.0" y="842" font-size="12" fill="#e2e8f0">Estacion TV</text>
+<rect x="377.0" y="826" width="349.0" height="22" rx="5" fill="#121b30"/>
 <title>#552 · 🇨🇱 CL — Frecuencia 7 (General)</title>
-<text x="383.0" y="842" font-size="12.5" font-weight="700" fill="#64748b" font-family="Consolas, Menlo, monospace">#552</text>
-<use href="#flag-cl" xlink:href="#flag-cl" x="423.0" y="831"/>
-<text x="449.0" y="842" font-size="12" fill="#e2e8f0">Frecuencia 7</text>
-<rect x="734.0" y="826" width="349.0" height="22" rx="4" fill="#121b30"/>
+<text x="384.0" y="842" font-size="12.5" font-weight="700" fill="#64748b" font-family="Consolas, Menlo, monospace">#552</text>
+<use href="#flag-cl" xlink:href="#flag-cl" x="421.0" y="831"/>
+<text x="441.0" y="842" font-size="10" opacity="0.95">🇨🇱</text>
+<text x="455.0" y="842" font-size="12" fill="#e2e8f0">Frecuencia 7</text>
+<rect x="734.0" y="826" width="349.0" height="22" rx="5" fill="#121b30"/>
 <title>#553 · 🇨🇱 CL — Frecuencia 7 TV (General)</title>
-<text x="740.0" y="842" font-size="12.5" font-weight="700" fill="#64748b" font-family="Consolas, Menlo, monospace">#553</text>
-<use href="#flag-cl" xlink:href="#flag-cl" x="780.0" y="831"/>
-<text x="806.0" y="842" font-size="12" fill="#e2e8f0">Frecuencia 7 TV</text>
-<rect x="1091.0" y="826" width="349.0" height="22" rx="4" fill="#121b30"/>
+<text x="741.0" y="842" font-size="12.5" font-weight="700" fill="#64748b" font-family="Consolas, Menlo, monospace">#553</text>
+<use href="#flag-cl" xlink:href="#flag-cl" x="778.0" y="831"/>
+<text x="798.0" y="842" font-size="10" opacity="0.95">🇨🇱</text>
+<text x="812.0" y="842" font-size="12" fill="#e2e8f0">Frecuencia 7 TV</text>
+<rect x="1091.0" y="826" width="349.0" height="22" rx="5" fill="#121b30"/>
 <title>#554 · 🇨🇱 CL — Girovisual TV HD (El Quisco / San Antonio - Valparaíso) [No 24/7] (General)</title>
-<text x="1097.0" y="842" font-size="12.5" font-weight="700" fill="#64748b" font-family="Consolas, Menlo, monospace">#554</text>
-<use href="#flag-cl" xlink:href="#flag-cl" x="1137.0" y="831"/>
-<text x="1163.0" y="842" font-size="12" fill="#e2e8f0">Girovisual TV HD (El Quisco / San Anton…</text>
-<rect x="20.0" y="850" width="349.0" height="22" rx="4" fill="#0f172a"/>
+<text x="1098.0" y="842" font-size="12.5" font-weight="700" fill="#64748b" font-family="Consolas, Menlo, monospace">#554</text>
+<use href="#flag-cl" xlink:href="#flag-cl" x="1135.0" y="831"/>
+<text x="1155.0" y="842" font-size="10" opacity="0.95">🇨🇱</text>
+<text x="1169.0" y="842" font-size="12" fill="#e2e8f0">Girovisual TV HD (El Quisco / San Anto…</text>
+<rect x="20.0" y="850" width="349.0" height="22" rx="5" fill="#0f172a"/>
 <title>#555 · 🇨🇱 CL — Gobierno de Chile (General)</title>
-<text x="26.0" y="866" font-size="12.5" font-weight="700" fill="#64748b" font-family="Consolas, Menlo, monospace">#555</text>
-<use href="#flag-cl" xlink:href="#flag-cl" x="66.0" y="855"/>
-<text x="92.0" y="866" font-size="12" fill="#e2e8f0">Gobierno de Chile</text>
-<rect x="377.0" y="850" width="349.0" height="22" rx="4" fill="#0f172a"/>
+<text x="27.0" y="866" font-size="12.5" font-weight="700" fill="#64748b" font-family="Consolas, Menlo, monospace">#555</text>
+<use href="#flag-cl" xlink:href="#flag-cl" x="64.0" y="855"/>
+<text x="84.0" y="866" font-size="10" opacity="0.95">🇨🇱</text>
+<text x="98.0" y="866" font-size="12" fill="#e2e8f0">Gobierno de Chile</text>
+<rect x="377.0" y="850" width="349.0" height="22" rx="5" fill="#0f172a"/>
 <title>#556 · 🇨🇱 CL — HiperTV (General)</title>
-<text x="383.0" y="866" font-size="12.5" font-weight="700" fill="#64748b" font-family="Consolas, Menlo, monospace">#556</text>
-<use href="#flag-cl" xlink:href="#flag-cl" x="423.0" y="855"/>
-<text x="449.0" y="866" font-size="12" fill="#e2e8f0">HiperTV</text>
-<rect x="734.0" y="850" width="349.0" height="22" rx="4" fill="#0f172a"/>
+<text x="384.0" y="866" font-size="12.5" font-weight="700" fill="#64748b" font-family="Consolas, Menlo, monospace">#556</text>
+<use href="#flag-cl" xlink:href="#flag-cl" x="421.0" y="855"/>
+<text x="441.0" y="866" font-size="10" opacity="0.95">🇨🇱</text>
+<text x="455.0" y="866" font-size="12" fill="#e2e8f0">HiperTV</text>
+<rect x="734.0" y="850" width="349.0" height="22" rx="5" fill="#0f172a"/>
 <title>#557 · 🇨🇱 CL — Holvoet TV (General)</title>
-<text x="740.0" y="866" font-size="12.5" font-weight="700" fill="#64748b" font-family="Consolas, Menlo, monospace">#557</text>
-<use href="#flag-cl" xlink:href="#flag-cl" x="780.0" y="855"/>
-<text x="806.0" y="866" font-size="12" fill="#e2e8f0">Holvoet TV</text>
-<rect x="1091.0" y="850" width="349.0" height="22" rx="4" fill="#0f172a"/>
+<text x="741.0" y="866" font-size="12.5" font-weight="700" fill="#64748b" font-family="Consolas, Menlo, monospace">#557</text>
+<use href="#flag-cl" xlink:href="#flag-cl" x="778.0" y="855"/>
+<text x="798.0" y="866" font-size="10" opacity="0.95">🇨🇱</text>
+<text x="812.0" y="866" font-size="12" fill="#e2e8f0">Holvoet TV</text>
+<rect x="1091.0" y="850" width="349.0" height="22" rx="5" fill="#0f172a"/>
 <title>#558 · 🇨🇱 CL — Iquique TV (General)</title>
-<text x="1097.0" y="866" font-size="12.5" font-weight="700" fill="#64748b" font-family="Consolas, Menlo, monospace">#558</text>
-<use href="#flag-cl" xlink:href="#flag-cl" x="1137.0" y="855"/>
-<text x="1163.0" y="866" font-size="12" fill="#e2e8f0">Iquique TV</text>
-<rect x="20.0" y="874" width="349.0" height="22" rx="4" fill="#121b30"/>
+<text x="1098.0" y="866" font-size="12.5" font-weight="700" fill="#64748b" font-family="Consolas, Menlo, monospace">#558</text>
+<use href="#flag-cl" xlink:href="#flag-cl" x="1135.0" y="855"/>
+<text x="1155.0" y="866" font-size="10" opacity="0.95">🇨🇱</text>
+<text x="1169.0" y="866" font-size="12" fill="#e2e8f0">Iquique TV</text>
+<rect x="20.0" y="874" width="349.0" height="22" rx="5" fill="#121b30"/>
 <title>#559 · 🇨🇱 CL — Islita TV (General)</title>
-<text x="26.0" y="890" font-size="12.5" font-weight="700" fill="#64748b" font-family="Consolas, Menlo, monospace">#559</text>
-<use href="#flag-cl" xlink:href="#flag-cl" x="66.0" y="879"/>
-<text x="92.0" y="890" font-size="12" fill="#e2e8f0">Islita TV</text>
-<rect x="377.0" y="874" width="349.0" height="22" rx="4" fill="#121b30"/>
+<text x="27.0" y="890" font-size="12.5" font-weight="700" fill="#64748b" font-family="Consolas, Menlo, monospace">#559</text>
+<use href="#flag-cl" xlink:href="#flag-cl" x="64.0" y="879"/>
+<text x="84.0" y="890" font-size="10" opacity="0.95">🇨🇱</text>
+<text x="98.0" y="890" font-size="12" fill="#e2e8f0">Islita TV</text>
+<rect x="377.0" y="874" width="349.0" height="22" rx="5" fill="#121b30"/>
 <title>#560 · 🇨🇱 CL — ITV Patagonia (General)</title>
-<text x="383.0" y="890" font-size="12.5" font-weight="700" fill="#64748b" font-family="Consolas, Menlo, monospace">#560</text>
-<use href="#flag-cl" xlink:href="#flag-cl" x="423.0" y="879"/>
-<text x="449.0" y="890" font-size="12" fill="#e2e8f0">ITV Patagonia</text>
-<rect x="734.0" y="874" width="349.0" height="22" rx="4" fill="#121b30"/>
+<text x="384.0" y="890" font-size="12.5" font-weight="700" fill="#64748b" font-family="Consolas, Menlo, monospace">#560</text>
+<use href="#flag-cl" xlink:href="#flag-cl" x="421.0" y="879"/>
+<text x="441.0" y="890" font-size="10" opacity="0.95">🇨🇱</text>
+<text x="455.0" y="890" font-size="12" fill="#e2e8f0">ITV Patagonia</text>
+<rect x="734.0" y="874" width="349.0" height="22" rx="5" fill="#121b30"/>
 <title>#561 · 🇨🇱 CL — ITV Patagonia (General)</title>
-<text x="740.0" y="890" font-size="12.5" font-weight="700" fill="#64748b" font-family="Consolas, Menlo, monospace">#561</text>
-<use href="#flag-cl" xlink:href="#flag-cl" x="780.0" y="879"/>
-<text x="806.0" y="890" font-size="12" fill="#e2e8f0">ITV Patagonia</text>
-<rect x="1091.0" y="874" width="349.0" height="22" rx="4" fill="#121b30"/>
+<text x="741.0" y="890" font-size="12.5" font-weight="700" fill="#64748b" font-family="Consolas, Menlo, monospace">#561</text>
+<use href="#flag-cl" xlink:href="#flag-cl" x="778.0" y="879"/>
+<text x="798.0" y="890" font-size="10" opacity="0.95">🇨🇱</text>
+<text x="812.0" y="890" font-size="12" fill="#e2e8f0">ITV Patagonia</text>
+<rect x="1091.0" y="874" width="349.0" height="22" rx="5" fill="#121b30"/>
 <title>#562 · 🇨🇱 CL — ITV Patagonia (General)</title>
-<text x="1097.0" y="890" font-size="12.5" font-weight="700" fill="#64748b" font-family="Consolas, Menlo, monospace">#562</text>
-<use href="#flag-cl" xlink:href="#flag-cl" x="1137.0" y="879"/>
-<text x="1163.0" y="890" font-size="12" fill="#e2e8f0">ITV Patagonia</text>
-<rect x="20.0" y="898" width="349.0" height="22" rx="4" fill="#0f172a"/>
+<text x="1098.0" y="890" font-size="12.5" font-weight="700" fill="#64748b" font-family="Consolas, Menlo, monospace">#562</text>
+<use href="#flag-cl" xlink:href="#flag-cl" x="1135.0" y="879"/>
+<text x="1155.0" y="890" font-size="10" opacity="0.95">🇨🇱</text>
+<text x="1169.0" y="890" font-size="12" fill="#e2e8f0">ITV Patagonia</text>
+<rect x="20.0" y="898" width="349.0" height="22" rx="5" fill="#0f172a"/>
 <title>#563 · 🇨🇱 CL — ITV Patagonia (General)</title>
-<text x="26.0" y="914" font-size="12.5" font-weight="700" fill="#64748b" font-family="Consolas, Menlo, monospace">#563</text>
-<use href="#flag-cl" xlink:href="#flag-cl" x="66.0" y="903"/>
-<text x="92.0" y="914" font-size="12" fill="#e2e8f0">ITV Patagonia</text>
-<rect x="377.0" y="898" width="349.0" height="22" rx="4" fill="#0f172a"/>
+<text x="27.0" y="914" font-size="12.5" font-weight="700" fill="#64748b" font-family="Consolas, Menlo, monospace">#563</text>
+<use href="#flag-cl" xlink:href="#flag-cl" x="64.0" y="903"/>
+<text x="84.0" y="914" font-size="10" opacity="0.95">🇨🇱</text>
+<text x="98.0" y="914" font-size="12" fill="#e2e8f0">ITV Patagonia</text>
+<rect x="377.0" y="898" width="349.0" height="22" rx="5" fill="#0f172a"/>
 <title>#564 · 🇨🇱 CL — La Chilena TV (General)</title>
-<text x="383.0" y="914" font-size="12.5" font-weight="700" fill="#64748b" font-family="Consolas, Menlo, monospace">#564</text>
-<use href="#flag-cl" xlink:href="#flag-cl" x="423.0" y="903"/>
-<text x="449.0" y="914" font-size="12" fill="#e2e8f0">La Chilena TV</text>
-<rect x="734.0" y="898" width="349.0" height="22" rx="4" fill="#0f172a"/>
+<text x="384.0" y="914" font-size="12.5" font-weight="700" fill="#64748b" font-family="Consolas, Menlo, monospace">#564</text>
+<use href="#flag-cl" xlink:href="#flag-cl" x="421.0" y="903"/>
+<text x="441.0" y="914" font-size="10" opacity="0.95">🇨🇱</text>
+<text x="455.0" y="914" font-size="12" fill="#e2e8f0">La Chilena TV</text>
+<rect x="734.0" y="898" width="349.0" height="22" rx="5" fill="#0f172a"/>
 <title>#565 · 🇨🇱 CL — La Comarca TV (General)</title>
-<text x="740.0" y="914" font-size="12.5" font-weight="700" fill="#64748b" font-family="Consolas, Menlo, monospace">#565</text>
-<use href="#flag-cl" xlink:href="#flag-cl" x="780.0" y="903"/>
-<text x="806.0" y="914" font-size="12" fill="#e2e8f0">La Comarca TV</text>
-<rect x="1091.0" y="898" width="349.0" height="22" rx="4" fill="#0f172a"/>
+<text x="741.0" y="914" font-size="12.5" font-weight="700" fill="#64748b" font-family="Consolas, Menlo, monospace">#565</text>
+<use href="#flag-cl" xlink:href="#flag-cl" x="778.0" y="903"/>
+<text x="798.0" y="914" font-size="10" opacity="0.95">🇨🇱</text>
+<text x="812.0" y="914" font-size="12" fill="#e2e8f0">La Comarca TV</text>
+<rect x="1091.0" y="898" width="349.0" height="22" rx="5" fill="#0f172a"/>
 <title>#566 · 🇨🇱 CL — La Metro TV (General)</title>
-<text x="1097.0" y="914" font-size="12.5" font-weight="700" fill="#64748b" font-family="Consolas, Menlo, monospace">#566</text>
-<use href="#flag-cl" xlink:href="#flag-cl" x="1137.0" y="903"/>
-<text x="1163.0" y="914" font-size="12" fill="#e2e8f0">La Metro TV</text>
-<rect x="20.0" y="922" width="349.0" height="22" rx="4" fill="#121b30"/>
+<text x="1098.0" y="914" font-size="12.5" font-weight="700" fill="#64748b" font-family="Consolas, Menlo, monospace">#566</text>
+<use href="#flag-cl" xlink:href="#flag-cl" x="1135.0" y="903"/>
+<text x="1155.0" y="914" font-size="10" opacity="0.95">🇨🇱</text>
+<text x="1169.0" y="914" font-size="12" fill="#e2e8f0">La Metro TV</text>
+<rect x="20.0" y="922" width="349.0" height="22" rx="5" fill="#121b30"/>
 <title>#567 · 🇨🇱 CL — La Popular TV (General)</title>
-<text x="26.0" y="938" font-size="12.5" font-weight="700" fill="#64748b" font-family="Consolas, Menlo, monospace">#567</text>
-<use href="#flag-cl" xlink:href="#flag-cl" x="66.0" y="927"/>
-<text x="92.0" y="938" font-size="12" fill="#e2e8f0">La Popular TV</text>
-<rect x="377.0" y="922" width="349.0" height="22" rx="4" fill="#121b30"/>
+<text x="27.0" y="938" font-size="12.5" font-weight="700" fill="#64748b" font-family="Consolas, Menlo, monospace">#567</text>
+<use href="#flag-cl" xlink:href="#flag-cl" x="64.0" y="927"/>
+<text x="84.0" y="938" font-size="10" opacity="0.95">🇨🇱</text>
+<text x="98.0" y="938" font-size="12" fill="#e2e8f0">La Popular TV</text>
+<rect x="377.0" y="922" width="349.0" height="22" rx="5" fill="#121b30"/>
 <title>#568 · 🇨🇱 CL — La Red HD (Nacional) (General)</title>
-<text x="383.0" y="938" font-size="12.5" font-weight="700" fill="#64748b" font-family="Consolas, Menlo, monospace">#568</text>
-<use href="#flag-cl" xlink:href="#flag-cl" x="423.0" y="927"/>
-<text x="449.0" y="938" font-size="12" fill="#e2e8f0">La Red HD (Nacional)</text>
-<rect x="734.0" y="922" width="349.0" height="22" rx="4" fill="#121b30"/>
+<text x="384.0" y="938" font-size="12.5" font-weight="700" fill="#64748b" font-family="Consolas, Menlo, monospace">#568</text>
+<use href="#flag-cl" xlink:href="#flag-cl" x="421.0" y="927"/>
+<text x="441.0" y="938" font-size="10" opacity="0.95">🇨🇱</text>
+<text x="455.0" y="938" font-size="12" fill="#e2e8f0">La Red HD (Nacional)</text>
+<rect x="734.0" y="922" width="349.0" height="22" rx="5" fill="#121b30"/>
 <title>#569 · 🇨🇱 CL — La Tercera TV (General)</title>
-<text x="740.0" y="938" font-size="12.5" font-weight="700" fill="#64748b" font-family="Consolas, Menlo, monospace">#569</text>
-<use href="#flag-cl" xlink:href="#flag-cl" x="780.0" y="927"/>
-<text x="806.0" y="938" font-size="12" fill="#e2e8f0">La Tercera TV</text>
-<rect x="1091.0" y="922" width="349.0" height="22" rx="4" fill="#121b30"/>
+<text x="741.0" y="938" font-size="12.5" font-weight="700" fill="#64748b" font-family="Consolas, Menlo, monospace">#569</text>
+<use href="#flag-cl" xlink:href="#flag-cl" x="778.0" y="927"/>
+<text x="798.0" y="938" font-size="10" opacity="0.95">🇨🇱</text>
+<text x="812.0" y="938" font-size="12" fill="#e2e8f0">La Tercera TV</text>
+<rect x="1091.0" y="922" width="349.0" height="22" rx="5" fill="#121b30"/>
 <title>#570 · 🇨🇱 CL — Lila TV Pencahue (General)</title>
-<text x="1097.0" y="938" font-size="12.5" font-weight="700" fill="#64748b" font-family="Consolas, Menlo, monospace">#570</text>
-<use href="#flag-cl" xlink:href="#flag-cl" x="1137.0" y="927"/>
-<text x="1163.0" y="938" font-size="12" fill="#e2e8f0">Lila TV Pencahue</text>
-<rect x="20.0" y="946" width="349.0" height="22" rx="4" fill="#0f172a"/>
+<text x="1098.0" y="938" font-size="12.5" font-weight="700" fill="#64748b" font-family="Consolas, Menlo, monospace">#570</text>
+<use href="#flag-cl" xlink:href="#flag-cl" x="1135.0" y="927"/>
+<text x="1155.0" y="938" font-size="10" opacity="0.95">🇨🇱</text>
+<text x="1169.0" y="938" font-size="12" fill="#e2e8f0">Lila TV Pencahue</text>
+<rect x="20.0" y="946" width="349.0" height="22" rx="5" fill="#0f172a"/>
 <title>#571 · 🇨🇱 CL — Maray TV (General)</title>
-<text x="26.0" y="962" font-size="12.5" font-weight="700" fill="#64748b" font-family="Consolas, Menlo, monospace">#571</text>
-<use href="#flag-cl" xlink:href="#flag-cl" x="66.0" y="951"/>
-<text x="92.0" y="962" font-size="12" fill="#e2e8f0">Maray TV</text>
-<rect x="377.0" y="946" width="349.0" height="22" rx="4" fill="#0f172a"/>
+<text x="27.0" y="962" font-size="12.5" font-weight="700" fill="#64748b" font-family="Consolas, Menlo, monospace">#571</text>
+<use href="#flag-cl" xlink:href="#flag-cl" x="64.0" y="951"/>
+<text x="84.0" y="962" font-size="10" opacity="0.95">🇨🇱</text>
+<text x="98.0" y="962" font-size="12" fill="#e2e8f0">Maray TV</text>
+<rect x="377.0" y="946" width="349.0" height="22" rx="5" fill="#0f172a"/>
 <title>#572 · 🇨🇱 CL — Marga Marga TV (General)</title>
-<text x="383.0" y="962" font-size="12.5" font-weight="700" fill="#64748b" font-family="Consolas, Menlo, monospace">#572</text>
-<use href="#flag-cl" xlink:href="#flag-cl" x="423.0" y="951"/>
-<text x="449.0" y="962" font-size="12" fill="#e2e8f0">Marga Marga TV</text>
-<rect x="734.0" y="946" width="349.0" height="22" rx="4" fill="#0f172a"/>
+<text x="384.0" y="962" font-size="12.5" font-weight="700" fill="#64748b" font-family="Consolas, Menlo, monospace">#572</text>
+<use href="#flag-cl" xlink:href="#flag-cl" x="421.0" y="951"/>
+<text x="441.0" y="962" font-size="10" opacity="0.95">🇨🇱</text>
+<text x="455.0" y="962" font-size="12" fill="#e2e8f0">Marga Marga TV</text>
+<rect x="734.0" y="946" width="349.0" height="22" rx="5" fill="#0f172a"/>
 <title>#573 · 🇨🇱 CL — Marga Marga TV (General)</title>
-<text x="740.0" y="962" font-size="12.5" font-weight="700" fill="#64748b" font-family="Consolas, Menlo, monospace">#573</text>
-<use href="#flag-cl" xlink:href="#flag-cl" x="780.0" y="951"/>
-<text x="806.0" y="962" font-size="12" fill="#e2e8f0">Marga Marga TV</text>
-<rect x="1091.0" y="946" width="349.0" height="22" rx="4" fill="#0f172a"/>
+<text x="741.0" y="962" font-size="12.5" font-weight="700" fill="#64748b" font-family="Consolas, Menlo, monospace">#573</text>
+<use href="#flag-cl" xlink:href="#flag-cl" x="778.0" y="951"/>
+<text x="798.0" y="962" font-size="10" opacity="0.95">🇨🇱</text>
+<text x="812.0" y="962" font-size="12" fill="#e2e8f0">Marga Marga TV</text>
+<rect x="1091.0" y="946" width="349.0" height="22" rx="5" fill="#0f172a"/>
 <title>#574 · 🇨🇱 CL — Mega (General)</title>
-<text x="1097.0" y="962" font-size="12.5" font-weight="700" fill="#64748b" font-family="Consolas, Menlo, monospace">#574</text>
-<use href="#flag-cl" xlink:href="#flag-cl" x="1137.0" y="951"/>
-<text x="1163.0" y="962" font-size="12" fill="#e2e8f0">Mega</text>
-<rect x="20.0" y="970" width="349.0" height="22" rx="4" fill="#121b30"/>
+<text x="1098.0" y="962" font-size="12.5" font-weight="700" fill="#64748b" font-family="Consolas, Menlo, monospace">#574</text>
+<use href="#flag-cl" xlink:href="#flag-cl" x="1135.0" y="951"/>
+<text x="1155.0" y="962" font-size="10" opacity="0.95">🇨🇱</text>
+<text x="1169.0" y="962" font-size="12" fill="#e2e8f0">Mega</text>
+<rect x="20.0" y="970" width="349.0" height="22" rx="5" fill="#121b30"/>
 <title>#575 · 🇨🇱 CL — Mega (General)</title>
-<text x="26.0" y="986" font-size="12.5" font-weight="700" fill="#64748b" font-family="Consolas, Menlo, monospace">#575</text>
-<use href="#flag-cl" xlink:href="#flag-cl" x="66.0" y="975"/>
-<text x="92.0" y="986" font-size="12" fill="#e2e8f0">Mega</text>
-<rect x="377.0" y="970" width="349.0" height="22" rx="4" fill="#121b30"/>
+<text x="27.0" y="986" font-size="12.5" font-weight="700" fill="#64748b" font-family="Consolas, Menlo, monospace">#575</text>
+<use href="#flag-cl" xlink:href="#flag-cl" x="64.0" y="975"/>
+<text x="84.0" y="986" font-size="10" opacity="0.95">🇨🇱</text>
+<text x="98.0" y="986" font-size="12" fill="#e2e8f0">Mega</text>
+<rect x="377.0" y="970" width="349.0" height="22" rx="5" fill="#121b30"/>
 <title>#576 · 🇨🇱 CL — Mi Radio TV (General)</title>
-<text x="383.0" y="986" font-size="12.5" font-weight="700" fill="#64748b" font-family="Consolas, Menlo, monospace">#576</text>
-<use href="#flag-cl" xlink:href="#flag-cl" x="423.0" y="975"/>
-<text x="449.0" y="986" font-size="12" fill="#e2e8f0">Mi Radio TV</text>
-<rect x="734.0" y="970" width="349.0" height="22" rx="4" fill="#121b30"/>
+<text x="384.0" y="986" font-size="12.5" font-weight="700" fill="#64748b" font-family="Consolas, Menlo, monospace">#576</text>
+<use href="#flag-cl" xlink:href="#flag-cl" x="421.0" y="975"/>
+<text x="441.0" y="986" font-size="10" opacity="0.95">🇨🇱</text>
+<text x="455.0" y="986" font-size="12" fill="#e2e8f0">Mi Radio TV</text>
+<rect x="734.0" y="970" width="349.0" height="22" rx="5" fill="#121b30"/>
 <title>#577 · 🇨🇱 CL — Mundos Lacustres TV (General)</title>
-<text x="740.0" y="986" font-size="12.5" font-weight="700" fill="#64748b" font-family="Consolas, Menlo, monospace">#577</text>
-<use href="#flag-cl" xlink:href="#flag-cl" x="780.0" y="975"/>
-<text x="806.0" y="986" font-size="12" fill="#e2e8f0">Mundos Lacustres TV</text>
-<rect x="1091.0" y="970" width="349.0" height="22" rx="4" fill="#121b30"/>
+<text x="741.0" y="986" font-size="12.5" font-weight="700" fill="#64748b" font-family="Consolas, Menlo, monospace">#577</text>
+<use href="#flag-cl" xlink:href="#flag-cl" x="778.0" y="975"/>
+<text x="798.0" y="986" font-size="10" opacity="0.95">🇨🇱</text>
+<text x="812.0" y="986" font-size="12" fill="#e2e8f0">Mundos Lacustres TV</text>
+<rect x="1091.0" y="970" width="349.0" height="22" rx="5" fill="#121b30"/>
 <title>#578 · 🇨🇱 CL — Nina TV (General)</title>
-<text x="1097.0" y="986" font-size="12.5" font-weight="700" fill="#64748b" font-family="Consolas, Menlo, monospace">#578</text>
-<use href="#flag-cl" xlink:href="#flag-cl" x="1137.0" y="975"/>
-<text x="1163.0" y="986" font-size="12" fill="#e2e8f0">Nina TV</text>
-<rect x="20.0" y="994" width="349.0" height="22" rx="4" fill="#0f172a"/>
+<text x="1098.0" y="986" font-size="12.5" font-weight="700" fill="#64748b" font-family="Consolas, Menlo, monospace">#578</text>
+<use href="#flag-cl" xlink:href="#flag-cl" x="1135.0" y="975"/>
+<text x="1155.0" y="986" font-size="10" opacity="0.95">🇨🇱</text>
+<text x="1169.0" y="986" font-size="12" fill="#e2e8f0">Nina TV</text>
+<rect x="20.0" y="994" width="349.0" height="22" rx="5" fill="#0f172a"/>
 <title>#579 · 🇨🇱 CL — NTV Ⓖ (General)</title>
-<text x="26.0" y="1010" font-size="12.5" font-weight="700" fill="#64748b" font-family="Consolas, Menlo, monospace">#579</text>
-<use href="#flag-cl" xlink:href="#flag-cl" x="66.0" y="999"/>
-<text x="92.0" y="1010" font-size="12" fill="#e2e8f0">NTV Ⓖ</text>
-<rect x="377.0" y="994" width="349.0" height="22" rx="4" fill="#0f172a"/>
+<text x="27.0" y="1010" font-size="12.5" font-weight="700" fill="#64748b" font-family="Consolas, Menlo, monospace">#579</text>
+<use href="#flag-cl" xlink:href="#flag-cl" x="64.0" y="999"/>
+<text x="84.0" y="1010" font-size="10" opacity="0.95">🇨🇱</text>
+<text x="98.0" y="1010" font-size="12" fill="#e2e8f0">NTV Ⓖ</text>
+<rect x="377.0" y="994" width="349.0" height="22" rx="5" fill="#0f172a"/>
 <title>#580 · 🇨🇱 CL — Ñuble RVT (General)</title>
-<text x="383.0" y="1010" font-size="12.5" font-weight="700" fill="#64748b" font-family="Consolas, Menlo, monospace">#580</text>
-<use href="#flag-cl" xlink:href="#flag-cl" x="423.0" y="999"/>
-<text x="449.0" y="1010" font-size="12" fill="#e2e8f0">Ñuble RVT</text>
-<rect x="734.0" y="994" width="349.0" height="22" rx="4" fill="#0f172a"/>
+<text x="384.0" y="1010" font-size="12.5" font-weight="700" fill="#64748b" font-family="Consolas, Menlo, monospace">#580</text>
+<use href="#flag-cl" xlink:href="#flag-cl" x="421.0" y="999"/>
+<text x="441.0" y="1010" font-size="10" opacity="0.95">🇨🇱</text>
+<text x="455.0" y="1010" font-size="12" fill="#e2e8f0">Ñuble RVT</text>
+<rect x="734.0" y="994" width="349.0" height="22" rx="5" fill="#0f172a"/>
 <title>#581 · 🇨🇱 CL — Odisea TV (General)</title>
-<text x="740.0" y="1010" font-size="12.5" font-weight="700" fill="#64748b" font-family="Consolas, Menlo, monospace">#581</text>
-<use href="#flag-cl" xlink:href="#flag-cl" x="780.0" y="999"/>
-<text x="806.0" y="1010" font-size="12" fill="#e2e8f0">Odisea TV</text>
-<rect x="1091.0" y="994" width="349.0" height="22" rx="4" fill="#0f172a"/>
+<text x="741.0" y="1010" font-size="12.5" font-weight="700" fill="#64748b" font-family="Consolas, Menlo, monospace">#581</text>
+<use href="#flag-cl" xlink:href="#flag-cl" x="778.0" y="999"/>
+<text x="798.0" y="1010" font-size="10" opacity="0.95">🇨🇱</text>
+<text x="812.0" y="1010" font-size="12" fill="#e2e8f0">Odisea TV</text>
+<rect x="1091.0" y="994" width="349.0" height="22" rx="5" fill="#0f172a"/>
 <title>#582 · 🇨🇱 CL — Oli TV (Chile) (General)</title>
-<text x="1097.0" y="1010" font-size="12.5" font-weight="700" fill="#64748b" font-family="Consolas, Menlo, monospace">#582</text>
-<use href="#flag-cl" xlink:href="#flag-cl" x="1137.0" y="999"/>
-<text x="1163.0" y="1010" font-size="12" fill="#e2e8f0">Oli TV (Chile)</text>
-<rect x="20.0" y="1018" width="349.0" height="22" rx="4" fill="#121b30"/>
+<text x="1098.0" y="1010" font-size="12.5" font-weight="700" fill="#64748b" font-family="Consolas, Menlo, monospace">#582</text>
+<use href="#flag-cl" xlink:href="#flag-cl" x="1135.0" y="999"/>
+<text x="1155.0" y="1010" font-size="10" opacity="0.95">🇨🇱</text>
+<text x="1169.0" y="1010" font-size="12" fill="#e2e8f0">Oli TV (Chile)</text>
+<rect x="20.0" y="1018" width="349.0" height="22" rx="5" fill="#121b30"/>
 <title>#583 · 🇨🇱 CL — Panoramica Informativa (General)</title>
-<text x="26.0" y="1034" font-size="12.5" font-weight="700" fill="#64748b" font-family="Consolas, Menlo, monospace">#583</text>
-<use href="#flag-cl" xlink:href="#flag-cl" x="66.0" y="1023"/>
-<text x="92.0" y="1034" font-size="12" fill="#e2e8f0">Panoramica Informativa</text>
-<rect x="377.0" y="1018" width="349.0" height="22" rx="4" fill="#121b30"/>
+<text x="27.0" y="1034" font-size="12.5" font-weight="700" fill="#64748b" font-family="Consolas, Menlo, monospace">#583</text>
+<use href="#flag-cl" xlink:href="#flag-cl" x="64.0" y="1023"/>
+<text x="84.0" y="1034" font-size="10" opacity="0.95">🇨🇱</text>
+<text x="98.0" y="1034" font-size="12" fill="#e2e8f0">Panoramica Informativa</text>
+<rect x="377.0" y="1018" width="349.0" height="22" rx="5" fill="#121b30"/>
 <title>#584 · 🇨🇱 CL — Pichilemu TV (General)</title>
-<text x="383.0" y="1034" font-size="12.5" font-weight="700" fill="#64748b" font-family="Consolas, Menlo, monospace">#584</text>
-<use href="#flag-cl" xlink:href="#flag-cl" x="423.0" y="1023"/>
-<text x="449.0" y="1034" font-size="12" fill="#e2e8f0">Pichilemu TV</text>
-<rect x="734.0" y="1018" width="349.0" height="22" rx="4" fill="#121b30"/>
+<text x="384.0" y="1034" font-size="12.5" font-weight="700" fill="#64748b" font-family="Consolas, Menlo, monospace">#584</text>
+<use href="#flag-cl" xlink:href="#flag-cl" x="421.0" y="1023"/>
+<text x="441.0" y="1034" font-size="10" opacity="0.95">🇨🇱</text>
+<text x="455.0" y="1034" font-size="12" fill="#e2e8f0">Pichilemu TV</text>
+<rect x="734.0" y="1018" width="349.0" height="22" rx="5" fill="#121b30"/>
 <title>#585 · 🇨🇱 CL — Pichilemu TV (General)</title>
-<text x="740.0" y="1034" font-size="12.5" font-weight="700" fill="#64748b" font-family="Consolas, Menlo, monospace">#585</text>
-<use href="#flag-cl" xlink:href="#flag-cl" x="780.0" y="1023"/>
-<text x="806.0" y="1034" font-size="12" fill="#e2e8f0">Pichilemu TV</text>
-<rect x="1091.0" y="1018" width="349.0" height="22" rx="4" fill="#121b30"/>
+<text x="741.0" y="1034" font-size="12.5" font-weight="700" fill="#64748b" font-family="Consolas, Menlo, monospace">#585</text>
+<use href="#flag-cl" xlink:href="#flag-cl" x="778.0" y="1023"/>
+<text x="798.0" y="1034" font-size="10" opacity="0.95">🇨🇱</text>
+<text x="812.0" y="1034" font-size="12" fill="#e2e8f0">Pichilemu TV</text>
+<rect x="1091.0" y="1018" width="349.0" height="22" rx="5" fill="#121b30"/>
 <title>#586 · 🇨🇱 CL — Pingüino TV (General)</title>
-<text x="1097.0" y="1034" font-size="12.5" font-weight="700" fill="#64748b" font-family="Consolas, Menlo, monospace">#586</text>
-<use href="#flag-cl" xlink:href="#flag-cl" x="1137.0" y="1023"/>
-<text x="1163.0" y="1034" font-size="12" fill="#e2e8f0">Pingüino TV</text>
-<rect x="20.0" y="1042" width="349.0" height="22" rx="4" fill="#0f172a"/>
+<text x="1098.0" y="1034" font-size="12.5" font-weight="700" fill="#64748b" font-family="Consolas, Menlo, monospace">#586</text>
+<use href="#flag-cl" xlink:href="#flag-cl" x="1135.0" y="1023"/>
+<text x="1155.0" y="1034" font-size="10" opacity="0.95">🇨🇱</text>
+<text x="1169.0" y="1034" font-size="12" fill="#e2e8f0">Pingüino TV</text>
+<rect x="20.0" y="1042" width="349.0" height="22" rx="5" fill="#0f172a"/>
 <title>#587 · 🇨🇱 CL — Pingüino TV (General)</title>
-<text x="26.0" y="1058" font-size="12.5" font-weight="700" fill="#64748b" font-family="Consolas, Menlo, monospace">#587</text>
-<use href="#flag-cl" xlink:href="#flag-cl" x="66.0" y="1047"/>
-<text x="92.0" y="1058" font-size="12" fill="#e2e8f0">Pingüino TV</text>
-<rect x="377.0" y="1042" width="349.0" height="22" rx="4" fill="#0f172a"/>
+<text x="27.0" y="1058" font-size="12.5" font-weight="700" fill="#64748b" font-family="Consolas, Menlo, monospace">#587</text>
+<use href="#flag-cl" xlink:href="#flag-cl" x="64.0" y="1047"/>
+<text x="84.0" y="1058" font-size="10" opacity="0.95">🇨🇱</text>
+<text x="98.0" y="1058" font-size="12" fill="#e2e8f0">Pingüino TV</text>
+<rect x="377.0" y="1042" width="349.0" height="22" rx="5" fill="#0f172a"/>
 <title>#588 · 🇨🇱 CL — Polar TV (Chile) (General)</title>
-<text x="383.0" y="1058" font-size="12.5" font-weight="700" fill="#64748b" font-family="Consolas, Menlo, monospace">#588</text>
-<use href="#flag-cl" xlink:href="#flag-cl" x="423.0" y="1047"/>
-<text x="449.0" y="1058" font-size="12" fill="#e2e8f0">Polar TV (Chile)</text>
-<rect x="734.0" y="1042" width="349.0" height="22" rx="4" fill="#0f172a"/>
+<text x="384.0" y="1058" font-size="12.5" font-weight="700" fill="#64748b" font-family="Consolas, Menlo, monospace">#588</text>
+<use href="#flag-cl" xlink:href="#flag-cl" x="421.0" y="1047"/>
+<text x="441.0" y="1058" font-size="10" opacity="0.95">🇨🇱</text>
+<text x="455.0" y="1058" font-size="12" fill="#e2e8f0">Polar TV (Chile)</text>
+<rect x="734.0" y="1042" width="349.0" height="22" rx="5" fill="#0f172a"/>
 <title>#589 · 🇨🇱 CL — PRIDEtv Latam (General)</title>
-<text x="740.0" y="1058" font-size="12.5" font-weight="700" fill="#64748b" font-family="Consolas, Menlo, monospace">#589</text>
-<use href="#flag-cl" xlink:href="#flag-cl" x="780.0" y="1047"/>
-<text x="806.0" y="1058" font-size="12" fill="#e2e8f0">PRIDEtv Latam</text>
-<rect x="1091.0" y="1042" width="349.0" height="22" rx="4" fill="#0f172a"/>
+<text x="741.0" y="1058" font-size="12.5" font-weight="700" fill="#64748b" font-family="Consolas, Menlo, monospace">#589</text>
+<use href="#flag-cl" xlink:href="#flag-cl" x="778.0" y="1047"/>
+<text x="798.0" y="1058" font-size="10" opacity="0.95">🇨🇱</text>
+<text x="812.0" y="1058" font-size="12" fill="#e2e8f0">PRIDEtv Latam</text>
+<rect x="1091.0" y="1042" width="349.0" height="22" rx="5" fill="#0f172a"/>
 <title>#590 · 🇨🇱 CL — Primitivos TV (General)</title>
-<text x="1097.0" y="1058" font-size="12.5" font-weight="700" fill="#64748b" font-family="Consolas, Menlo, monospace">#590</text>
-<use href="#flag-cl" xlink:href="#flag-cl" x="1137.0" y="1047"/>
-<text x="1163.0" y="1058" font-size="12" fill="#e2e8f0">Primitivos TV</text>
-<rect x="20.0" y="1066" width="349.0" height="22" rx="4" fill="#121b30"/>
+<text x="1098.0" y="1058" font-size="12.5" font-weight="700" fill="#64748b" font-family="Consolas, Menlo, monospace">#590</text>
+<use href="#flag-cl" xlink:href="#flag-cl" x="1135.0" y="1047"/>
+<text x="1155.0" y="1058" font-size="10" opacity="0.95">🇨🇱</text>
+<text x="1169.0" y="1058" font-size="12" fill="#e2e8f0">Primitivos TV</text>
+<rect x="20.0" y="1066" width="349.0" height="22" rx="5" fill="#121b30"/>
 <title>#591 · 🇨🇱 CL — Pucon TV (General)</title>
-<text x="26.0" y="1082" font-size="12.5" font-weight="700" fill="#64748b" font-family="Consolas, Menlo, monospace">#591</text>
-<use href="#flag-cl" xlink:href="#flag-cl" x="66.0" y="1071"/>
-<text x="92.0" y="1082" font-size="12" fill="#e2e8f0">Pucon TV</text>
-<rect x="377.0" y="1066" width="349.0" height="22" rx="4" fill="#121b30"/>
+<text x="27.0" y="1082" font-size="12.5" font-weight="700" fill="#64748b" font-family="Consolas, Menlo, monospace">#591</text>
+<use href="#flag-cl" xlink:href="#flag-cl" x="64.0" y="1071"/>
+<text x="84.0" y="1082" font-size="10" opacity="0.95">🇨🇱</text>
+<text x="98.0" y="1082" font-size="12" fill="#e2e8f0">Pucon TV</text>
+<rect x="377.0" y="1066" width="349.0" height="22" rx="5" fill="#121b30"/>
 <title>#592 · 🇨🇱 CL — Pucón TV (General)</title>
-<text x="383.0" y="1082" font-size="12.5" font-weight="700" fill="#64748b" font-family="Consolas, Menlo, monospace">#592</text>
-<use href="#flag-cl" xlink:href="#flag-cl" x="423.0" y="1071"/>
-<text x="449.0" y="1082" font-size="12" fill="#e2e8f0">Pucón TV</text>
-<rect x="734.0" y="1066" width="349.0" height="22" rx="4" fill="#121b30"/>
+<text x="384.0" y="1082" font-size="12.5" font-weight="700" fill="#64748b" font-family="Consolas, Menlo, monospace">#592</text>
+<use href="#flag-cl" xlink:href="#flag-cl" x="421.0" y="1071"/>
+<text x="441.0" y="1082" font-size="10" opacity="0.95">🇨🇱</text>
+<text x="455.0" y="1082" font-size="12" fill="#e2e8f0">Pucón TV</text>
+<rect x="734.0" y="1066" width="349.0" height="22" rx="5" fill="#121b30"/>
 <title>#593 · 🇨🇱 CL — Pucón TV (General)</title>
-<text x="740.0" y="1082" font-size="12.5" font-weight="700" fill="#64748b" font-family="Consolas, Menlo, monospace">#593</text>
-<use href="#flag-cl" xlink:href="#flag-cl" x="780.0" y="1071"/>
-<text x="806.0" y="1082" font-size="12" fill="#e2e8f0">Pucón TV</text>
-<rect x="1091.0" y="1066" width="349.0" height="22" rx="4" fill="#121b30"/>
+<text x="741.0" y="1082" font-size="12.5" font-weight="700" fill="#64748b" font-family="Consolas, Menlo, monospace">#593</text>
+<use href="#flag-cl" xlink:href="#flag-cl" x="778.0" y="1071"/>
+<text x="798.0" y="1082" font-size="10" opacity="0.95">🇨🇱</text>
+<text x="812.0" y="1082" font-size="12" fill="#e2e8f0">Pucón TV</text>
+<rect x="1091.0" y="1066" width="349.0" height="22" rx="5" fill="#121b30"/>
 <title>#594 · 🇨🇱 CL — Pucón TV (General)</title>
-<text x="1097.0" y="1082" font-size="12.5" font-weight="700" fill="#64748b" font-family="Consolas, Menlo, monospace">#594</text>
-<use href="#flag-cl" xlink:href="#flag-cl" x="1137.0" y="1071"/>
-<text x="1163.0" y="1082" font-size="12" fill="#e2e8f0">Pucón TV</text>
-<rect x="20.0" y="1090" width="349.0" height="22" rx="4" fill="#0f172a"/>
+<text x="1098.0" y="1082" font-size="12.5" font-weight="700" fill="#64748b" font-family="Consolas, Menlo, monospace">#594</text>
+<use href="#flag-cl" xlink:href="#flag-cl" x="1135.0" y="1071"/>
+<text x="1155.0" y="1082" font-size="10" opacity="0.95">🇨🇱</text>
+<text x="1169.0" y="1082" font-size="12" fill="#e2e8f0">Pucón TV</text>
+<rect x="20.0" y="1090" width="349.0" height="22" rx="5" fill="#0f172a"/>
 <title>#595 · 🇨🇱 CL — Puranoticia TV (General)</title>
-<text x="26.0" y="1106" font-size="12.5" font-weight="700" fill="#64748b" font-family="Consolas, Menlo, monospace">#595</text>
-<use href="#flag-cl" xlink:href="#flag-cl" x="66.0" y="1095"/>
-<text x="92.0" y="1106" font-size="12" fill="#e2e8f0">Puranoticia TV</text>
-<rect x="377.0" y="1090" width="349.0" height="22" rx="4" fill="#0f172a"/>
+<text x="27.0" y="1106" font-size="12.5" font-weight="700" fill="#64748b" font-family="Consolas, Menlo, monospace">#595</text>
+<use href="#flag-cl" xlink:href="#flag-cl" x="64.0" y="1095"/>
+<text x="84.0" y="1106" font-size="10" opacity="0.95">🇨🇱</text>
+<text x="98.0" y="1106" font-size="12" fill="#e2e8f0">Puranoticia TV</text>
+<rect x="377.0" y="1090" width="349.0" height="22" rx="5" fill="#0f172a"/>
 <title>#596 · 🇨🇱 CL — Radio America TV (General)</title>
-<text x="383.0" y="1106" font-size="12.5" font-weight="700" fill="#64748b" font-family="Consolas, Menlo, monospace">#596</text>
-<use href="#flag-cl" xlink:href="#flag-cl" x="423.0" y="1095"/>
-<text x="449.0" y="1106" font-size="12" fill="#e2e8f0">Radio America TV</text>
-<rect x="734.0" y="1090" width="349.0" height="22" rx="4" fill="#0f172a"/>
+<text x="384.0" y="1106" font-size="12.5" font-weight="700" fill="#64748b" font-family="Consolas, Menlo, monospace">#596</text>
+<use href="#flag-cl" xlink:href="#flag-cl" x="421.0" y="1095"/>
+<text x="441.0" y="1106" font-size="10" opacity="0.95">🇨🇱</text>
+<text x="455.0" y="1106" font-size="12" fill="#e2e8f0">Radio America TV</text>
+<rect x="734.0" y="1090" width="349.0" height="22" rx="5" fill="#0f172a"/>
 <title>#597 · 🇨🇱 CL — Radio Ancoa TV (General)</title>
-<text x="740.0" y="1106" font-size="12.5" font-weight="700" fill="#64748b" font-family="Consolas, Menlo, monospace">#597</text>
-<use href="#flag-cl" xlink:href="#flag-cl" x="780.0" y="1095"/>
-<text x="806.0" y="1106" font-size="12" fill="#e2e8f0">Radio Ancoa TV</text>
-<rect x="1091.0" y="1090" width="349.0" height="22" rx="4" fill="#0f172a"/>
+<text x="741.0" y="1106" font-size="12.5" font-weight="700" fill="#64748b" font-family="Consolas, Menlo, monospace">#597</text>
+<use href="#flag-cl" xlink:href="#flag-cl" x="778.0" y="1095"/>
+<text x="798.0" y="1106" font-size="10" opacity="0.95">🇨🇱</text>
+<text x="812.0" y="1106" font-size="12" fill="#e2e8f0">Radio Ancoa TV</text>
+<rect x="1091.0" y="1090" width="349.0" height="22" rx="5" fill="#0f172a"/>
 <title>#598 · 🇨🇱 CL — Radio Chiloe (General)</title>
-<text x="1097.0" y="1106" font-size="12.5" font-weight="700" fill="#64748b" font-family="Consolas, Menlo, monospace">#598</text>
-<use href="#flag-cl" xlink:href="#flag-cl" x="1137.0" y="1095"/>
-<text x="1163.0" y="1106" font-size="12" fill="#e2e8f0">Radio Chiloe</text>
-<rect x="20.0" y="1114" width="349.0" height="22" rx="4" fill="#121b30"/>
+<text x="1098.0" y="1106" font-size="12.5" font-weight="700" fill="#64748b" font-family="Consolas, Menlo, monospace">#598</text>
+<use href="#flag-cl" xlink:href="#flag-cl" x="1135.0" y="1095"/>
+<text x="1155.0" y="1106" font-size="10" opacity="0.95">🇨🇱</text>
+<text x="1169.0" y="1106" font-size="12" fill="#e2e8f0">Radio Chiloe</text>
+<rect x="20.0" y="1114" width="349.0" height="22" rx="5" fill="#121b30"/>
 <title>#599 · 🇨🇱 CL — Radio Fantasia TV (General)</title>
-<text x="26.0" y="1130" font-size="12.5" font-weight="700" fill="#64748b" font-family="Consolas, Menlo, monospace">#599</text>
-<use href="#flag-cl" xlink:href="#flag-cl" x="66.0" y="1119"/>
-<text x="92.0" y="1130" font-size="12" fill="#e2e8f0">Radio Fantasia TV</text>
-<rect x="377.0" y="1114" width="349.0" height="22" rx="4" fill="#121b30"/>
+<text x="27.0" y="1130" font-size="12.5" font-weight="700" fill="#64748b" font-family="Consolas, Menlo, monospace">#599</text>
+<use href="#flag-cl" xlink:href="#flag-cl" x="64.0" y="1119"/>
+<text x="84.0" y="1130" font-size="10" opacity="0.95">🇨🇱</text>
+<text x="98.0" y="1130" font-size="12" fill="#e2e8f0">Radio Fantasia TV</text>
+<rect x="377.0" y="1114" width="349.0" height="22" rx="5" fill="#121b30"/>
 <title>#600 · 🇨🇱 CL — Radio Frecuencia Uno (General)</title>
-<text x="383.0" y="1130" font-size="12.5" font-weight="700" fill="#64748b" font-family="Consolas, Menlo, monospace">#600</text>
-<use href="#flag-cl" xlink:href="#flag-cl" x="423.0" y="1119"/>
-<text x="449.0" y="1130" font-size="12" fill="#e2e8f0">Radio Frecuencia Uno</text>
-<rect x="734.0" y="1114" width="349.0" height="22" rx="4" fill="#121b30"/>
+<text x="384.0" y="1130" font-size="12.5" font-weight="700" fill="#64748b" font-family="Consolas, Menlo, monospace">#600</text>
+<use href="#flag-cl" xlink:href="#flag-cl" x="421.0" y="1119"/>
+<text x="441.0" y="1130" font-size="10" opacity="0.95">🇨🇱</text>
+<text x="455.0" y="1130" font-size="12" fill="#e2e8f0">Radio Frecuencia Uno</text>
+<rect x="734.0" y="1114" width="349.0" height="22" rx="5" fill="#121b30"/>
 <title>#601 · 🇨🇱 CL — Radio Nuble (General)</title>
-<text x="740.0" y="1130" font-size="12.5" font-weight="700" fill="#64748b" font-family="Consolas, Menlo, monospace">#601</text>
-<use href="#flag-cl" xlink:href="#flag-cl" x="780.0" y="1119"/>
-<text x="806.0" y="1130" font-size="12" fill="#e2e8f0">Radio Nuble</text>
-<rect x="1091.0" y="1114" width="349.0" height="22" rx="4" fill="#121b30"/>
+<text x="741.0" y="1130" font-size="12.5" font-weight="700" fill="#64748b" font-family="Consolas, Menlo, monospace">#601</text>
+<use href="#flag-cl" xlink:href="#flag-cl" x="778.0" y="1119"/>
+<text x="798.0" y="1130" font-size="10" opacity="0.95">🇨🇱</text>
+<text x="812.0" y="1130" font-size="12" fill="#e2e8f0">Radio Nuble</text>
+<rect x="1091.0" y="1114" width="349.0" height="22" rx="5" fill="#121b30"/>
 <title>#602 · 🇨🇱 CL — Radio Panoramica (General)</title>
-<text x="1097.0" y="1130" font-size="12.5" font-weight="700" fill="#64748b" font-family="Consolas, Menlo, monospace">#602</text>
-<use href="#flag-cl" xlink:href="#flag-cl" x="1137.0" y="1119"/>
-<text x="1163.0" y="1130" font-size="12" fill="#e2e8f0">Radio Panoramica</text>
-<rect x="20.0" y="1138" width="349.0" height="22" rx="4" fill="#0f172a"/>
+<text x="1098.0" y="1130" font-size="12.5" font-weight="700" fill="#64748b" font-family="Consolas, Menlo, monospace">#602</text>
+<use href="#flag-cl" xlink:href="#flag-cl" x="1135.0" y="1119"/>
+<text x="1155.0" y="1130" font-size="10" opacity="0.95">🇨🇱</text>
+<text x="1169.0" y="1130" font-size="12" fill="#e2e8f0">Radio Panoramica</text>
+<rect x="20.0" y="1138" width="349.0" height="22" rx="5" fill="#0f172a"/>
 <title>#603 · 🇨🇱 CL — Radio Popular TV (General)</title>
-<text x="26.0" y="1154" font-size="12.5" font-weight="700" fill="#64748b" font-family="Consolas, Menlo, monospace">#603</text>
-<use href="#flag-cl" xlink:href="#flag-cl" x="66.0" y="1143"/>
-<text x="92.0" y="1154" font-size="12" fill="#e2e8f0">Radio Popular TV</text>
-<rect x="377.0" y="1138" width="349.0" height="22" rx="4" fill="#0f172a"/>
+<text x="27.0" y="1154" font-size="12.5" font-weight="700" fill="#64748b" font-family="Consolas, Menlo, monospace">#603</text>
+<use href="#flag-cl" xlink:href="#flag-cl" x="64.0" y="1143"/>
+<text x="84.0" y="1154" font-size="10" opacity="0.95">🇨🇱</text>
+<text x="98.0" y="1154" font-size="12" fill="#e2e8f0">Radio Popular TV</text>
+<rect x="377.0" y="1138" width="349.0" height="22" rx="5" fill="#0f172a"/>
 <title>#604 · 🇨🇱 CL — Radio Rancagua FM (General)</title>
-<text x="383.0" y="1154" font-size="12.5" font-weight="700" fill="#64748b" font-family="Consolas, Menlo, monospace">#604</text>
-<use href="#flag-cl" xlink:href="#flag-cl" x="423.0" y="1143"/>
-<text x="449.0" y="1154" font-size="12" fill="#e2e8f0">Radio Rancagua FM</text>
-<rect x="734.0" y="1138" width="349.0" height="22" rx="4" fill="#0f172a"/>
+<text x="384.0" y="1154" font-size="12.5" font-weight="700" fill="#64748b" font-family="Consolas, Menlo, monospace">#604</text>
+<use href="#flag-cl" xlink:href="#flag-cl" x="421.0" y="1143"/>
+<text x="441.0" y="1154" font-size="10" opacity="0.95">🇨🇱</text>
+<text x="455.0" y="1154" font-size="12" fill="#e2e8f0">Radio Rancagua FM</text>
+<rect x="734.0" y="1138" width="349.0" height="22" rx="5" fill="#0f172a"/>
 <title>#605 · 🇨🇱 CL — Radio Ritmo FM (General)</title>
-<text x="740.0" y="1154" font-size="12.5" font-weight="700" fill="#64748b" font-family="Consolas, Menlo, monospace">#605</text>
-<use href="#flag-cl" xlink:href="#flag-cl" x="780.0" y="1143"/>
-<text x="806.0" y="1154" font-size="12" fill="#e2e8f0">Radio Ritmo FM</text>
-<rect x="1091.0" y="1138" width="349.0" height="22" rx="4" fill="#0f172a"/>
+<text x="741.0" y="1154" font-size="12.5" font-weight="700" fill="#64748b" font-family="Consolas, Menlo, monospace">#605</text>
+<use href="#flag-cl" xlink:href="#flag-cl" x="778.0" y="1143"/>
+<text x="798.0" y="1154" font-size="10" opacity="0.95">🇨🇱</text>
+<text x="812.0" y="1154" font-size="12" fill="#e2e8f0">Radio Ritmo FM</text>
+<rect x="1091.0" y="1138" width="349.0" height="22" rx="5" fill="#0f172a"/>
 <title>#606 · 🇨🇱 CL — Radio UNIACC (General)</title>
-<text x="1097.0" y="1154" font-size="12.5" font-weight="700" fill="#64748b" font-family="Consolas, Menlo, monospace">#606</text>
-<use href="#flag-cl" xlink:href="#flag-cl" x="1137.0" y="1143"/>
-<text x="1163.0" y="1154" font-size="12" fill="#e2e8f0">Radio UNIACC</text>
-<rect x="20.0" y="1162" width="349.0" height="22" rx="4" fill="#121b30"/>
+<text x="1098.0" y="1154" font-size="12.5" font-weight="700" fill="#64748b" font-family="Consolas, Menlo, monospace">#606</text>
+<use href="#flag-cl" xlink:href="#flag-cl" x="1135.0" y="1143"/>
+<text x="1155.0" y="1154" font-size="10" opacity="0.95">🇨🇱</text>
+<text x="1169.0" y="1154" font-size="12" fill="#e2e8f0">Radio UNIACC</text>
+<rect x="20.0" y="1162" width="349.0" height="22" rx="5" fill="#121b30"/>
 <title>#607 · 🇨🇱 CL — Radio USACH (General)</title>
-<text x="26.0" y="1178" font-size="12.5" font-weight="700" fill="#64748b" font-family="Consolas, Menlo, monospace">#607</text>
-<use href="#flag-cl" xlink:href="#flag-cl" x="66.0" y="1167"/>
-<text x="92.0" y="1178" font-size="12" fill="#e2e8f0">Radio USACH</text>
-<rect x="377.0" y="1162" width="349.0" height="22" rx="4" fill="#121b30"/>
+<text x="27.0" y="1178" font-size="12.5" font-weight="700" fill="#64748b" font-family="Consolas, Menlo, monospace">#607</text>
+<use href="#flag-cl" xlink:href="#flag-cl" x="64.0" y="1167"/>
+<text x="84.0" y="1178" font-size="10" opacity="0.95">🇨🇱</text>
+<text x="98.0" y="1178" font-size="12" fill="#e2e8f0">Radio USACH</text>
+<rect x="377.0" y="1162" width="349.0" height="22" rx="5" fill="#121b30"/>
 <title>#608 · 🇨🇱 CL — Radio Via Libre (General)</title>
-<text x="383.0" y="1178" font-size="12.5" font-weight="700" fill="#64748b" font-family="Consolas, Menlo, monospace">#608</text>
-<use href="#flag-cl" xlink:href="#flag-cl" x="423.0" y="1167"/>
-<text x="449.0" y="1178" font-size="12" fill="#e2e8f0">Radio Via Libre</text>
-<rect x="734.0" y="1162" width="349.0" height="22" rx="4" fill="#121b30"/>
+<text x="384.0" y="1178" font-size="12.5" font-weight="700" fill="#64748b" font-family="Consolas, Menlo, monospace">#608</text>
+<use href="#flag-cl" xlink:href="#flag-cl" x="421.0" y="1167"/>
+<text x="441.0" y="1178" font-size="10" opacity="0.95">🇨🇱</text>
+<text x="455.0" y="1178" font-size="12" fill="#e2e8f0">Radio Via Libre</text>
+<rect x="734.0" y="1162" width="349.0" height="22" rx="5" fill="#121b30"/>
 <title>#609 · 🇨🇱 CL — Radio Vida Curico (General)</title>
-<text x="740.0" y="1178" font-size="12.5" font-weight="700" fill="#64748b" font-family="Consolas, Menlo, monospace">#609</text>
-<use href="#flag-cl" xlink:href="#flag-cl" x="780.0" y="1167"/>
-<text x="806.0" y="1178" font-size="12" fill="#e2e8f0">Radio Vida Curico</text>
-<rect x="1091.0" y="1162" width="349.0" height="22" rx="4" fill="#121b30"/>
+<text x="741.0" y="1178" font-size="12.5" font-weight="700" fill="#64748b" font-family="Consolas, Menlo, monospace">#609</text>
+<use href="#flag-cl" xlink:href="#flag-cl" x="778.0" y="1167"/>
+<text x="798.0" y="1178" font-size="10" opacity="0.95">🇨🇱</text>
+<text x="812.0" y="1178" font-size="12" fill="#e2e8f0">Radio Vida Curico</text>
+<rect x="1091.0" y="1162" width="349.0" height="22" rx="5" fill="#121b30"/>
 <title>#610 · 🇨🇱 CL — Raices Arabes TV (General)</title>
-<text x="1097.0" y="1178" font-size="12.5" font-weight="700" fill="#64748b" font-family="Consolas, Menlo, monospace">#610</text>
-<use href="#flag-cl" xlink:href="#flag-cl" x="1137.0" y="1167"/>
-<text x="1163.0" y="1178" font-size="12" fill="#e2e8f0">Raices Arabes TV</text>
-<rect x="20.0" y="1186" width="349.0" height="22" rx="4" fill="#0f172a"/>
+<text x="1098.0" y="1178" font-size="12.5" font-weight="700" fill="#64748b" font-family="Consolas, Menlo, monospace">#610</text>
+<use href="#flag-cl" xlink:href="#flag-cl" x="1135.0" y="1167"/>
+<text x="1155.0" y="1178" font-size="10" opacity="0.95">🇨🇱</text>
+<text x="1169.0" y="1178" font-size="12" fill="#e2e8f0">Raices Arabes TV</text>
+<rect x="20.0" y="1186" width="349.0" height="22" rx="5" fill="#0f172a"/>
 <title>#611 · 🇨🇱 CL — Rial TV (General)</title>
-<text x="26.0" y="1202" font-size="12.5" font-weight="700" fill="#64748b" font-family="Consolas, Menlo, monospace">#611</text>
-<use href="#flag-cl" xlink:href="#flag-cl" x="66.0" y="1191"/>
-<text x="92.0" y="1202" font-size="12" fill="#e2e8f0">Rial TV</text>
-<rect x="377.0" y="1186" width="349.0" height="22" rx="4" fill="#0f172a"/>
+<text x="27.0" y="1202" font-size="12.5" font-weight="700" fill="#64748b" font-family="Consolas, Menlo, monospace">#611</text>
+<use href="#flag-cl" xlink:href="#flag-cl" x="64.0" y="1191"/>
+<text x="84.0" y="1202" font-size="10" opacity="0.95">🇨🇱</text>
+<text x="98.0" y="1202" font-size="12" fill="#e2e8f0">Rial TV</text>
+<rect x="377.0" y="1186" width="349.0" height="22" rx="5" fill="#0f172a"/>
 <title>#612 · 🇨🇱 CL — RLOTV (General)</title>
-<text x="383.0" y="1202" font-size="12.5" font-weight="700" fill="#64748b" font-family="Consolas, Menlo, monospace">#612</text>
-<use href="#flag-cl" xlink:href="#flag-cl" x="423.0" y="1191"/>
-<text x="449.0" y="1202" font-size="12" fill="#e2e8f0">RLOTV</text>
-<rect x="734.0" y="1186" width="349.0" height="22" rx="4" fill="#0f172a"/>
+<text x="384.0" y="1202" font-size="12.5" font-weight="700" fill="#64748b" font-family="Consolas, Menlo, monospace">#612</text>
+<use href="#flag-cl" xlink:href="#flag-cl" x="421.0" y="1191"/>
+<text x="441.0" y="1202" font-size="10" opacity="0.95">🇨🇱</text>
+<text x="455.0" y="1202" font-size="12" fill="#e2e8f0">RLOTV</text>
+<rect x="734.0" y="1186" width="349.0" height="22" rx="5" fill="#0f172a"/>
 <title>#613 · 🇨🇱 CL — Rocco TV (General)</title>
-<text x="740.0" y="1202" font-size="12.5" font-weight="700" fill="#64748b" font-family="Consolas, Menlo, monospace">#613</text>
-<use href="#flag-cl" xlink:href="#flag-cl" x="780.0" y="1191"/>
-<text x="806.0" y="1202" font-size="12" fill="#e2e8f0">Rocco TV</text>
-<rect x="1091.0" y="1186" width="349.0" height="22" rx="4" fill="#0f172a"/>
+<text x="741.0" y="1202" font-size="12.5" font-weight="700" fill="#64748b" font-family="Consolas, Menlo, monospace">#613</text>
+<use href="#flag-cl" xlink:href="#flag-cl" x="778.0" y="1191"/>
+<text x="798.0" y="1202" font-size="10" opacity="0.95">🇨🇱</text>
+<text x="812.0" y="1202" font-size="12" fill="#e2e8f0">Rocco TV</text>
+<rect x="1091.0" y="1186" width="349.0" height="22" rx="5" fill="#0f172a"/>
 <title>#614 · 🇨🇱 CL — RTC Television (General)</title>
-<text x="1097.0" y="1202" font-size="12.5" font-weight="700" fill="#64748b" font-family="Consolas, Menlo, monospace">#614</text>
-<use href="#flag-cl" xlink:href="#flag-cl" x="1137.0" y="1191"/>
-<text x="1163.0" y="1202" font-size="12" fill="#e2e8f0">RTC Television</text>
-<rect x="20.0" y="1210" width="349.0" height="22" rx="4" fill="#121b30"/>
+<text x="1098.0" y="1202" font-size="12.5" font-weight="700" fill="#64748b" font-family="Consolas, Menlo, monospace">#614</text>
+<use href="#flag-cl" xlink:href="#flag-cl" x="1135.0" y="1191"/>
+<text x="1155.0" y="1202" font-size="10" opacity="0.95">🇨🇱</text>
+<text x="1169.0" y="1202" font-size="12" fill="#e2e8f0">RTC Television</text>
+<rect x="20.0" y="1210" width="349.0" height="22" rx="5" fill="#121b30"/>
 <title>#615 · 🇨🇱 CL — RTV Nuble (General)</title>
-<text x="26.0" y="1226" font-size="12.5" font-weight="700" fill="#64748b" font-family="Consolas, Menlo, monospace">#615</text>
-<use href="#flag-cl" xlink:href="#flag-cl" x="66.0" y="1215"/>
-<text x="92.0" y="1226" font-size="12" fill="#e2e8f0">RTV Nuble</text>
-<rect x="377.0" y="1210" width="349.0" height="22" rx="4" fill="#121b30"/>
+<text x="27.0" y="1226" font-size="12.5" font-weight="700" fill="#64748b" font-family="Consolas, Menlo, monospace">#615</text>
+<use href="#flag-cl" xlink:href="#flag-cl" x="64.0" y="1215"/>
+<text x="84.0" y="1226" font-size="10" opacity="0.95">🇨🇱</text>
+<text x="98.0" y="1226" font-size="12" fill="#e2e8f0">RTV Nuble</text>
+<rect x="377.0" y="1210" width="349.0" height="22" rx="5" fill="#121b30"/>
 <title>#616 · 🇨🇱 CL — San Nicolas TV (General)</title>
-<text x="383.0" y="1226" font-size="12.5" font-weight="700" fill="#64748b" font-family="Consolas, Menlo, monospace">#616</text>
-<use href="#flag-cl" xlink:href="#flag-cl" x="423.0" y="1215"/>
-<text x="449.0" y="1226" font-size="12" fill="#e2e8f0">San Nicolas TV</text>
-<rect x="734.0" y="1210" width="349.0" height="22" rx="4" fill="#121b30"/>
+<text x="384.0" y="1226" font-size="12.5" font-weight="700" fill="#64748b" font-family="Consolas, Menlo, monospace">#616</text>
+<use href="#flag-cl" xlink:href="#flag-cl" x="421.0" y="1215"/>
+<text x="441.0" y="1226" font-size="10" opacity="0.95">🇨🇱</text>
+<text x="455.0" y="1226" font-size="12" fill="#e2e8f0">San Nicolas TV</text>
+<rect x="734.0" y="1210" width="349.0" height="22" rx="5" fill="#121b30"/>
 <title>#617 · 🇨🇱 CL — Santa Maria Television (General)</title>
-<text x="740.0" y="1226" font-size="12.5" font-weight="700" fill="#64748b" font-family="Consolas, Menlo, monospace">#617</text>
-<use href="#flag-cl" xlink:href="#flag-cl" x="780.0" y="1215"/>
-<text x="806.0" y="1226" font-size="12" fill="#e2e8f0">Santa Maria Television</text>
-<rect x="1091.0" y="1210" width="349.0" height="22" rx="4" fill="#121b30"/>
+<text x="741.0" y="1226" font-size="12.5" font-weight="700" fill="#64748b" font-family="Consolas, Menlo, monospace">#617</text>
+<use href="#flag-cl" xlink:href="#flag-cl" x="778.0" y="1215"/>
+<text x="798.0" y="1226" font-size="10" opacity="0.95">🇨🇱</text>
+<text x="812.0" y="1226" font-size="12" fill="#e2e8f0">Santa Maria Television</text>
+<rect x="1091.0" y="1210" width="349.0" height="22" rx="5" fill="#121b30"/>
 <title>#618 · 🇨🇱 CL — Sextavision (General)</title>
-<text x="1097.0" y="1226" font-size="12.5" font-weight="700" fill="#64748b" font-family="Consolas, Menlo, monospace">#618</text>
-<use href="#flag-cl" xlink:href="#flag-cl" x="1137.0" y="1215"/>
-<text x="1163.0" y="1226" font-size="12" fill="#e2e8f0">Sextavision</text>
-<rect x="20.0" y="1234" width="349.0" height="22" rx="4" fill="#0f172a"/>
+<text x="1098.0" y="1226" font-size="12.5" font-weight="700" fill="#64748b" font-family="Consolas, Menlo, monospace">#618</text>
+<use href="#flag-cl" xlink:href="#flag-cl" x="1135.0" y="1215"/>
+<text x="1155.0" y="1226" font-size="10" opacity="0.95">🇨🇱</text>
+<text x="1169.0" y="1226" font-size="12" fill="#e2e8f0">Sextavision</text>
+<rect x="20.0" y="1234" width="349.0" height="22" rx="5" fill="#0f172a"/>
 <title>#619 · 🇨🇱 CL — Sextavision (General)</title>
-<text x="26.0" y="1250" font-size="12.5" font-weight="700" fill="#64748b" font-family="Consolas, Menlo, monospace">#619</text>
-<use href="#flag-cl" xlink:href="#flag-cl" x="66.0" y="1239"/>
-<text x="92.0" y="1250" font-size="12" fill="#e2e8f0">Sextavision</text>
-<rect x="377.0" y="1234" width="349.0" height="22" rx="4" fill="#0f172a"/>
+<text x="27.0" y="1250" font-size="12.5" font-weight="700" fill="#64748b" font-family="Consolas, Menlo, monospace">#619</text>
+<use href="#flag-cl" xlink:href="#flag-cl" x="64.0" y="1239"/>
+<text x="84.0" y="1250" font-size="10" opacity="0.95">🇨🇱</text>
+<text x="98.0" y="1250" font-size="12" fill="#e2e8f0">Sextavision</text>
+<rect x="377.0" y="1234" width="349.0" height="22" rx="5" fill="#0f172a"/>
 <title>#620 · 🇨🇱 CL — Sextavision (General)</title>
-<text x="383.0" y="1250" font-size="12.5" font-weight="700" fill="#64748b" font-family="Consolas, Menlo, monospace">#620</text>
-<use href="#flag-cl" xlink:href="#flag-cl" x="423.0" y="1239"/>
-<text x="449.0" y="1250" font-size="12" fill="#e2e8f0">Sextavision</text>
-<rect x="734.0" y="1234" width="349.0" height="22" rx="4" fill="#0f172a"/>
+<text x="384.0" y="1250" font-size="12.5" font-weight="700" fill="#64748b" font-family="Consolas, Menlo, monospace">#620</text>
+<use href="#flag-cl" xlink:href="#flag-cl" x="421.0" y="1239"/>
+<text x="441.0" y="1250" font-size="10" opacity="0.95">🇨🇱</text>
+<text x="455.0" y="1250" font-size="12" fill="#e2e8f0">Sextavision</text>
+<rect x="734.0" y="1234" width="349.0" height="22" rx="5" fill="#0f172a"/>
 <title>#621 · 🇨🇱 CL — Solo TV (General)</title>
-<text x="740.0" y="1250" font-size="12.5" font-weight="700" fill="#64748b" font-family="Consolas, Menlo, monospace">#621</text>
-<use href="#flag-cl" xlink:href="#flag-cl" x="780.0" y="1239"/>
-<text x="806.0" y="1250" font-size="12" fill="#e2e8f0">Solo TV</text>
-<rect x="1091.0" y="1234" width="349.0" height="22" rx="4" fill="#0f172a"/>
+<text x="741.0" y="1250" font-size="12.5" font-weight="700" fill="#64748b" font-family="Consolas, Menlo, monospace">#621</text>
+<use href="#flag-cl" xlink:href="#flag-cl" x="778.0" y="1239"/>
+<text x="798.0" y="1250" font-size="10" opacity="0.95">🇨🇱</text>
+<text x="812.0" y="1250" font-size="12" fill="#e2e8f0">Solo TV</text>
+<rect x="1091.0" y="1234" width="349.0" height="22" rx="5" fill="#0f172a"/>
 <title>#622 · 🇨🇱 CL — SoloTV (General)</title>
-<text x="1097.0" y="1250" font-size="12.5" font-weight="700" fill="#64748b" font-family="Consolas, Menlo, monospace">#622</text>
-<use href="#flag-cl" xlink:href="#flag-cl" x="1137.0" y="1239"/>
-<text x="1163.0" y="1250" font-size="12" fill="#e2e8f0">SoloTV</text>
-<rect x="20.0" y="1258" width="349.0" height="22" rx="4" fill="#121b30"/>
+<text x="1098.0" y="1250" font-size="12.5" font-weight="700" fill="#64748b" font-family="Consolas, Menlo, monospace">#622</text>
+<use href="#flag-cl" xlink:href="#flag-cl" x="1135.0" y="1239"/>
+<text x="1155.0" y="1250" font-size="10" opacity="0.95">🇨🇱</text>
+<text x="1169.0" y="1250" font-size="12" fill="#e2e8f0">SoloTV</text>
+<rect x="20.0" y="1258" width="349.0" height="22" rx="5" fill="#121b30"/>
 <title>#623 · 🇨🇱 CL — SUR TV (General)</title>
-<text x="26.0" y="1274" font-size="12.5" font-weight="700" fill="#64748b" font-family="Consolas, Menlo, monospace">#623</text>
-<use href="#flag-cl" xlink:href="#flag-cl" x="66.0" y="1263"/>
-<text x="92.0" y="1274" font-size="12" fill="#e2e8f0">SUR TV</text>
-<rect x="377.0" y="1258" width="349.0" height="22" rx="4" fill="#121b30"/>
+<text x="27.0" y="1274" font-size="12.5" font-weight="700" fill="#64748b" font-family="Consolas, Menlo, monospace">#623</text>
+<use href="#flag-cl" xlink:href="#flag-cl" x="64.0" y="1263"/>
+<text x="84.0" y="1274" font-size="10" opacity="0.95">🇨🇱</text>
+<text x="98.0" y="1274" font-size="12" fill="#e2e8f0">SUR TV</text>
+<rect x="377.0" y="1258" width="349.0" height="22" rx="5" fill="#121b30"/>
 <title>#624 · 🇨🇱 CL — Surena TV (General)</title>
-<text x="383.0" y="1274" font-size="12.5" font-weight="700" fill="#64748b" font-family="Consolas, Menlo, monospace">#624</text>
-<use href="#flag-cl" xlink:href="#flag-cl" x="423.0" y="1263"/>
-<text x="449.0" y="1274" font-size="12" fill="#e2e8f0">Surena TV</text>
-<rect x="734.0" y="1258" width="349.0" height="22" rx="4" fill="#121b30"/>
+<text x="384.0" y="1274" font-size="12.5" font-weight="700" fill="#64748b" font-family="Consolas, Menlo, monospace">#624</text>
+<use href="#flag-cl" xlink:href="#flag-cl" x="421.0" y="1263"/>
+<text x="441.0" y="1274" font-size="10" opacity="0.95">🇨🇱</text>
+<text x="455.0" y="1274" font-size="12" fill="#e2e8f0">Surena TV</text>
+<rect x="734.0" y="1258" width="349.0" height="22" rx="5" fill="#121b30"/>
 <title>#625 · 🇨🇱 CL — T-Vinet (General)</title>
-<text x="740.0" y="1274" font-size="12.5" font-weight="700" fill="#64748b" font-family="Consolas, Menlo, monospace">#625</text>
-<use href="#flag-cl" xlink:href="#flag-cl" x="780.0" y="1263"/>
-<text x="806.0" y="1274" font-size="12" fill="#e2e8f0">T-Vinet</text>
-<rect x="1091.0" y="1258" width="349.0" height="22" rx="4" fill="#121b30"/>
+<text x="741.0" y="1274" font-size="12.5" font-weight="700" fill="#64748b" font-family="Consolas, Menlo, monospace">#625</text>
+<use href="#flag-cl" xlink:href="#flag-cl" x="778.0" y="1263"/>
+<text x="798.0" y="1274" font-size="10" opacity="0.95">🇨🇱</text>
+<text x="812.0" y="1274" font-size="12" fill="#e2e8f0">T-Vinet</text>
+<rect x="1091.0" y="1258" width="349.0" height="22" rx="5" fill="#121b30"/>
 <title>#626 · 🇨🇱 CL — T-Vinet Digital (General)</title>
-<text x="1097.0" y="1274" font-size="12.5" font-weight="700" fill="#64748b" font-family="Consolas, Menlo, monospace">#626</text>
-<use href="#flag-cl" xlink:href="#flag-cl" x="1137.0" y="1263"/>
-<text x="1163.0" y="1274" font-size="12" fill="#e2e8f0">T-Vinet Digital</text>
-<rect x="20.0" y="1282" width="349.0" height="22" rx="4" fill="#0f172a"/>
+<text x="1098.0" y="1274" font-size="12.5" font-weight="700" fill="#64748b" font-family="Consolas, Menlo, monospace">#626</text>
+<use href="#flag-cl" xlink:href="#flag-cl" x="1135.0" y="1263"/>
+<text x="1155.0" y="1274" font-size="10" opacity="0.95">🇨🇱</text>
+<text x="1169.0" y="1274" font-size="12" fill="#e2e8f0">T-Vinet Digital</text>
+<rect x="20.0" y="1282" width="349.0" height="22" rx="5" fill="#0f172a"/>
 <title>#627 · 🇨🇱 CL — T-Vinet Digital (General)</title>
-<text x="26.0" y="1298" font-size="12.5" font-weight="700" fill="#64748b" font-family="Consolas, Menlo, monospace">#627</text>
-<use href="#flag-cl" xlink:href="#flag-cl" x="66.0" y="1287"/>
-<text x="92.0" y="1298" font-size="12" fill="#e2e8f0">T-Vinet Digital</text>
-<rect x="377.0" y="1282" width="349.0" height="22" rx="4" fill="#0f172a"/>
+<text x="27.0" y="1298" font-size="12.5" font-weight="700" fill="#64748b" font-family="Consolas, Menlo, monospace">#627</text>
+<use href="#flag-cl" xlink:href="#flag-cl" x="64.0" y="1287"/>
+<text x="84.0" y="1298" font-size="10" opacity="0.95">🇨🇱</text>
+<text x="98.0" y="1298" font-size="12" fill="#e2e8f0">T-Vinet Digital</text>
+<rect x="377.0" y="1282" width="349.0" height="22" rx="5" fill="#0f172a"/>
 <title>#628 · 🇨🇱 CL — T13 en vivo (General)</title>
-<text x="383.0" y="1298" font-size="12.5" font-weight="700" fill="#64748b" font-family="Consolas, Menlo, monospace">#628</text>
-<use href="#flag-cl" xlink:href="#flag-cl" x="423.0" y="1287"/>
-<text x="449.0" y="1298" font-size="12" fill="#e2e8f0">T13 en vivo</text>
-<rect x="734.0" y="1282" width="349.0" height="22" rx="4" fill="#0f172a"/>
+<text x="384.0" y="1298" font-size="12.5" font-weight="700" fill="#64748b" font-family="Consolas, Menlo, monospace">#628</text>
+<use href="#flag-cl" xlink:href="#flag-cl" x="421.0" y="1287"/>
+<text x="441.0" y="1298" font-size="10" opacity="0.95">🇨🇱</text>
+<text x="455.0" y="1298" font-size="12" fill="#e2e8f0">T13 en vivo</text>
+<rect x="734.0" y="1282" width="349.0" height="22" rx="5" fill="#0f172a"/>
 <title>#629 · 🇺🇸 US — TCM Latin America Chile (General)</title>
-<text x="740.0" y="1298" font-size="12.5" font-weight="700" fill="#64748b" font-family="Consolas, Menlo, monospace">#629</text>
-<use href="#flag-us" xlink:href="#flag-us" x="780.0" y="1287"/>
-<text x="806.0" y="1298" font-size="12" fill="#e2e8f0">TCM Latin America Chile</text>
-<rect x="1091.0" y="1282" width="349.0" height="22" rx="4" fill="#0f172a"/>
+<text x="741.0" y="1298" font-size="12.5" font-weight="700" fill="#64748b" font-family="Consolas, Menlo, monospace">#629</text>
+<use href="#flag-us" xlink:href="#flag-us" x="778.0" y="1287"/>
+<text x="798.0" y="1298" font-size="10" opacity="0.95">🇺🇸</text>
+<text x="812.0" y="1298" font-size="12" fill="#e2e8f0">TCM Latin America Chile</text>
+<rect x="1091.0" y="1282" width="349.0" height="22" rx="5" fill="#0f172a"/>
 <title>#630 · 🇨🇱 CL — Teleangol (General)</title>
-<text x="1097.0" y="1298" font-size="12.5" font-weight="700" fill="#64748b" font-family="Consolas, Menlo, monospace">#630</text>
-<use href="#flag-cl" xlink:href="#flag-cl" x="1137.0" y="1287"/>
-<text x="1163.0" y="1298" font-size="12" fill="#e2e8f0">Teleangol</text>
-<rect x="20.0" y="1306" width="349.0" height="22" rx="4" fill="#121b30"/>
+<text x="1098.0" y="1298" font-size="12.5" font-weight="700" fill="#64748b" font-family="Consolas, Menlo, monospace">#630</text>
+<use href="#flag-cl" xlink:href="#flag-cl" x="1135.0" y="1287"/>
+<text x="1155.0" y="1298" font-size="10" opacity="0.95">🇨🇱</text>
+<text x="1169.0" y="1298" font-size="12" fill="#e2e8f0">Teleangol</text>
+<rect x="20.0" y="1306" width="349.0" height="22" rx="5" fill="#121b30"/>
 <title>#631 · 🇨🇱 CL — TeleAngol (General)</title>
-<text x="26.0" y="1322" font-size="12.5" font-weight="700" fill="#64748b" font-family="Consolas, Menlo, monospace">#631</text>
-<use href="#flag-cl" xlink:href="#flag-cl" x="66.0" y="1311"/>
-<text x="92.0" y="1322" font-size="12" fill="#e2e8f0">TeleAngol</text>
-<rect x="377.0" y="1306" width="349.0" height="22" rx="4" fill="#121b30"/>
+<text x="27.0" y="1322" font-size="12.5" font-weight="700" fill="#64748b" font-family="Consolas, Menlo, monospace">#631</text>
+<use href="#flag-cl" xlink:href="#flag-cl" x="64.0" y="1311"/>
+<text x="84.0" y="1322" font-size="10" opacity="0.95">🇨🇱</text>
+<text x="98.0" y="1322" font-size="12" fill="#e2e8f0">TeleAngol</text>
+<rect x="377.0" y="1306" width="349.0" height="22" rx="5" fill="#121b30"/>
 <title>#632 · 🇨🇱 CL — TeleAngol (General)</title>
-<text x="383.0" y="1322" font-size="12.5" font-weight="700" fill="#64748b" font-family="Consolas, Menlo, monospace">#632</text>
-<use href="#flag-cl" xlink:href="#flag-cl" x="423.0" y="1311"/>
-<text x="449.0" y="1322" font-size="12" fill="#e2e8f0">TeleAngol</text>
-<rect x="734.0" y="1306" width="349.0" height="22" rx="4" fill="#121b30"/>
+<text x="384.0" y="1322" font-size="12.5" font-weight="700" fill="#64748b" font-family="Consolas, Menlo, monospace">#632</text>
+<use href="#flag-cl" xlink:href="#flag-cl" x="421.0" y="1311"/>
+<text x="441.0" y="1322" font-size="10" opacity="0.95">🇨🇱</text>
+<text x="455.0" y="1322" font-size="12" fill="#e2e8f0">TeleAngol</text>
+<rect x="734.0" y="1306" width="349.0" height="22" rx="5" fill="#121b30"/>
 <title>#633 · 🇨🇱 CL — Tendencias Prime (General)</title>
-<text x="740.0" y="1322" font-size="12.5" font-weight="700" fill="#64748b" font-family="Consolas, Menlo, monospace">#633</text>
-<use href="#flag-cl" xlink:href="#flag-cl" x="780.0" y="1311"/>
-<text x="806.0" y="1322" font-size="12" fill="#e2e8f0">Tendencias Prime</text>
-<rect x="1091.0" y="1306" width="349.0" height="22" rx="4" fill="#121b30"/>
+<text x="741.0" y="1322" font-size="12.5" font-weight="700" fill="#64748b" font-family="Consolas, Menlo, monospace">#633</text>
+<use href="#flag-cl" xlink:href="#flag-cl" x="778.0" y="1311"/>
+<text x="798.0" y="1322" font-size="10" opacity="0.95">🇨🇱</text>
+<text x="812.0" y="1322" font-size="12" fill="#e2e8f0">Tendencias Prime</text>
+<rect x="1091.0" y="1306" width="349.0" height="22" rx="5" fill="#121b30"/>
 <title>#634 · 🇨🇱 CL — Tevex (General)</title>
-<text x="1097.0" y="1322" font-size="12.5" font-weight="700" fill="#64748b" font-family="Consolas, Menlo, monospace">#634</text>
-<use href="#flag-cl" xlink:href="#flag-cl" x="1137.0" y="1311"/>
-<text x="1163.0" y="1322" font-size="12" fill="#e2e8f0">Tevex</text>
-<rect x="20.0" y="1330" width="349.0" height="22" rx="4" fill="#0f172a"/>
+<text x="1098.0" y="1322" font-size="12.5" font-weight="700" fill="#64748b" font-family="Consolas, Menlo, monospace">#634</text>
+<use href="#flag-cl" xlink:href="#flag-cl" x="1135.0" y="1311"/>
+<text x="1155.0" y="1322" font-size="10" opacity="0.95">🇨🇱</text>
+<text x="1169.0" y="1322" font-size="12" fill="#e2e8f0">Tevex</text>
+<rect x="20.0" y="1330" width="349.0" height="22" rx="5" fill="#0f172a"/>
 <title>#635 · 🇨🇱 CL — Tevex TV HD (Santiago / Nacional) (General)</title>
-<text x="26.0" y="1346" font-size="12.5" font-weight="700" fill="#64748b" font-family="Consolas, Menlo, monospace">#635</text>
-<use href="#flag-cl" xlink:href="#flag-cl" x="66.0" y="1335"/>
-<text x="92.0" y="1346" font-size="12" fill="#e2e8f0">Tevex TV HD (Santiago / Nacional)</text>
-<rect x="377.0" y="1330" width="349.0" height="22" rx="4" fill="#0f172a"/>
+<text x="27.0" y="1346" font-size="12.5" font-weight="700" fill="#64748b" font-family="Consolas, Menlo, monospace">#635</text>
+<use href="#flag-cl" xlink:href="#flag-cl" x="64.0" y="1335"/>
+<text x="84.0" y="1346" font-size="10" opacity="0.95">🇨🇱</text>
+<text x="98.0" y="1346" font-size="12" fill="#e2e8f0">Tevex TV HD (Santiago / Nacional)</text>
+<rect x="377.0" y="1330" width="349.0" height="22" rx="5" fill="#0f172a"/>
 <title>#636 · 🇨🇱 CL — Thema Television (General)</title>
-<text x="383.0" y="1346" font-size="12.5" font-weight="700" fill="#64748b" font-family="Consolas, Menlo, monospace">#636</text>
-<use href="#flag-cl" xlink:href="#flag-cl" x="423.0" y="1335"/>
-<text x="449.0" y="1346" font-size="12" fill="#e2e8f0">Thema Television</text>
-<rect x="734.0" y="1330" width="349.0" height="22" rx="4" fill="#0f172a"/>
+<text x="384.0" y="1346" font-size="12.5" font-weight="700" fill="#64748b" font-family="Consolas, Menlo, monospace">#636</text>
+<use href="#flag-cl" xlink:href="#flag-cl" x="421.0" y="1335"/>
+<text x="441.0" y="1346" font-size="10" opacity="0.95">🇨🇱</text>
+<text x="455.0" y="1346" font-size="12" fill="#e2e8f0">Thema Television</text>
+<rect x="734.0" y="1330" width="349.0" height="22" rx="5" fill="#0f172a"/>
 <title>#637 · 🇨🇱 CL — Thema TV Coquimbo HD (Coquimbo)[Opc. 2] (General)</title>
-<text x="740.0" y="1346" font-size="12.5" font-weight="700" fill="#64748b" font-family="Consolas, Menlo, monospace">#637</text>
-<use href="#flag-cl" xlink:href="#flag-cl" x="780.0" y="1335"/>
-<text x="806.0" y="1346" font-size="12" fill="#e2e8f0">Thema TV Coquimbo HD (Coquimbo)[Opc. 2]</text>
-<rect x="1091.0" y="1330" width="349.0" height="22" rx="4" fill="#0f172a"/>
+<text x="741.0" y="1346" font-size="12.5" font-weight="700" fill="#64748b" font-family="Consolas, Menlo, monospace">#637</text>
+<use href="#flag-cl" xlink:href="#flag-cl" x="778.0" y="1335"/>
+<text x="798.0" y="1346" font-size="10" opacity="0.95">🇨🇱</text>
+<text x="812.0" y="1346" font-size="12" fill="#e2e8f0">Thema TV Coquimbo HD (Coquimbo)[Opc. 2]</text>
+<rect x="1091.0" y="1330" width="349.0" height="22" rx="5" fill="#0f172a"/>
 <title>#638 · 🇨🇱 CL — Turismo Travel TV (General)</title>
-<text x="1097.0" y="1346" font-size="12.5" font-weight="700" fill="#64748b" font-family="Consolas, Menlo, monospace">#638</text>
-<use href="#flag-cl" xlink:href="#flag-cl" x="1137.0" y="1335"/>
-<text x="1163.0" y="1346" font-size="12" fill="#e2e8f0">Turismo Travel TV</text>
-<rect x="20.0" y="1354" width="349.0" height="22" rx="4" fill="#121b30"/>
+<text x="1098.0" y="1346" font-size="12.5" font-weight="700" fill="#64748b" font-family="Consolas, Menlo, monospace">#638</text>
+<use href="#flag-cl" xlink:href="#flag-cl" x="1135.0" y="1335"/>
+<text x="1155.0" y="1346" font-size="10" opacity="0.95">🇨🇱</text>
+<text x="1169.0" y="1346" font-size="12" fill="#e2e8f0">Turismo Travel TV</text>
+<rect x="20.0" y="1354" width="349.0" height="22" rx="5" fill="#121b30"/>
 <title>#639 · 🇨🇱 CL — TurnoEnVivo (General)</title>
-<text x="26.0" y="1370" font-size="12.5" font-weight="700" fill="#64748b" font-family="Consolas, Menlo, monospace">#639</text>
-<use href="#flag-cl" xlink:href="#flag-cl" x="66.0" y="1359"/>
-<text x="92.0" y="1370" font-size="12" fill="#e2e8f0">TurnoEnVivo</text>
-<rect x="377.0" y="1354" width="349.0" height="22" rx="4" fill="#121b30"/>
+<text x="27.0" y="1370" font-size="12.5" font-weight="700" fill="#64748b" font-family="Consolas, Menlo, monospace">#639</text>
+<use href="#flag-cl" xlink:href="#flag-cl" x="64.0" y="1359"/>
+<text x="84.0" y="1370" font-size="10" opacity="0.95">🇨🇱</text>
+<text x="98.0" y="1370" font-size="12" fill="#e2e8f0">TurnoEnVivo</text>
+<rect x="377.0" y="1354" width="349.0" height="22" rx="5" fill="#121b30"/>
 <title>#640 · 🇨🇱 CL — TV Chile Ⓖ (General)</title>
-<text x="383.0" y="1370" font-size="12.5" font-weight="700" fill="#64748b" font-family="Consolas, Menlo, monospace">#640</text>
-<use href="#flag-cl" xlink:href="#flag-cl" x="423.0" y="1359"/>
-<text x="449.0" y="1370" font-size="12" fill="#e2e8f0">TV Chile Ⓖ</text>
-<rect x="734.0" y="1354" width="349.0" height="22" rx="4" fill="#121b30"/>
+<text x="384.0" y="1370" font-size="12.5" font-weight="700" fill="#64748b" font-family="Consolas, Menlo, monospace">#640</text>
+<use href="#flag-cl" xlink:href="#flag-cl" x="421.0" y="1359"/>
+<text x="441.0" y="1370" font-size="10" opacity="0.95">🇨🇱</text>
+<text x="455.0" y="1370" font-size="12" fill="#e2e8f0">TV Chile Ⓖ</text>
+<rect x="734.0" y="1354" width="349.0" height="22" rx="5" fill="#121b30"/>
 <title>#641 · 🇨🇱 CL — TV Salud (General)</title>
-<text x="740.0" y="1370" font-size="12.5" font-weight="700" fill="#64748b" font-family="Consolas, Menlo, monospace">#641</text>
-<use href="#flag-cl" xlink:href="#flag-cl" x="780.0" y="1359"/>
-<text x="806.0" y="1370" font-size="12" fill="#e2e8f0">TV Salud</text>
-<rect x="1091.0" y="1354" width="349.0" height="22" rx="4" fill="#121b30"/>
+<text x="741.0" y="1370" font-size="12.5" font-weight="700" fill="#64748b" font-family="Consolas, Menlo, monospace">#641</text>
+<use href="#flag-cl" xlink:href="#flag-cl" x="778.0" y="1359"/>
+<text x="798.0" y="1370" font-size="10" opacity="0.95">🇨🇱</text>
+<text x="812.0" y="1370" font-size="12" fill="#e2e8f0">TV Salud</text>
+<rect x="1091.0" y="1354" width="349.0" height="22" rx="5" fill="#121b30"/>
 <title>#642 · 🇧🇷 BR — TV Show Fortaleza (General)</title>
-<text x="1097.0" y="1370" font-size="12.5" font-weight="700" fill="#64748b" font-family="Consolas, Menlo, monospace">#642</text>
-<use href="#flag-br" xlink:href="#flag-br" x="1137.0" y="1359"/>
-<text x="1163.0" y="1370" font-size="12" fill="#e2e8f0">TV Show Fortaleza</text>
-<rect x="20.0" y="1378" width="349.0" height="22" rx="4" fill="#0f172a"/>
+<text x="1098.0" y="1370" font-size="12.5" font-weight="700" fill="#64748b" font-family="Consolas, Menlo, monospace">#642</text>
+<use href="#flag-br" xlink:href="#flag-br" x="1135.0" y="1359"/>
+<text x="1155.0" y="1370" font-size="10" opacity="0.95">🇧🇷</text>
+<text x="1169.0" y="1370" font-size="12" fill="#e2e8f0">TV Show Fortaleza</text>
+<rect x="20.0" y="1378" width="349.0" height="22" rx="5" fill="#0f172a"/>
 <title>#643 · 🇨🇱 CL — TV UCT (U. Católica de Temuco) (General)</title>
-<text x="26.0" y="1394" font-size="12.5" font-weight="700" fill="#64748b" font-family="Consolas, Menlo, monospace">#643</text>
-<use href="#flag-cl" xlink:href="#flag-cl" x="66.0" y="1383"/>
-<text x="92.0" y="1394" font-size="12" fill="#e2e8f0">TV UCT (U. Católica de Temuco)</text>
-<rect x="377.0" y="1378" width="349.0" height="22" rx="4" fill="#0f172a"/>
+<text x="27.0" y="1394" font-size="12.5" font-weight="700" fill="#64748b" font-family="Consolas, Menlo, monospace">#643</text>
+<use href="#flag-cl" xlink:href="#flag-cl" x="64.0" y="1383"/>
+<text x="84.0" y="1394" font-size="10" opacity="0.95">🇨🇱</text>
+<text x="98.0" y="1394" font-size="12" fill="#e2e8f0">TV UCT (U. Católica de Temuco)</text>
+<rect x="377.0" y="1378" width="349.0" height="22" rx="5" fill="#0f172a"/>
 <title>#644 · 🇨🇱 CL — TV UCT (U. Católica de Temuco) (General)</title>
-<text x="383.0" y="1394" font-size="12.5" font-weight="700" fill="#64748b" font-family="Consolas, Menlo, monospace">#644</text>
-<use href="#flag-cl" xlink:href="#flag-cl" x="423.0" y="1383"/>
-<text x="449.0" y="1394" font-size="12" fill="#e2e8f0">TV UCT (U. Católica de Temuco)</text>
-<rect x="734.0" y="1378" width="349.0" height="22" rx="4" fill="#0f172a"/>
+<text x="384.0" y="1394" font-size="12.5" font-weight="700" fill="#64748b" font-family="Consolas, Menlo, monospace">#644</text>
+<use href="#flag-cl" xlink:href="#flag-cl" x="421.0" y="1383"/>
+<text x="441.0" y="1394" font-size="10" opacity="0.95">🇨🇱</text>
+<text x="455.0" y="1394" font-size="12" fill="#e2e8f0">TV UCT (U. Católica de Temuco)</text>
+<rect x="734.0" y="1378" width="349.0" height="22" rx="5" fill="#0f172a"/>
 <title>#645 · 🇨🇱 CL — TV+ (General)</title>
-<text x="740.0" y="1394" font-size="12.5" font-weight="700" fill="#64748b" font-family="Consolas, Menlo, monospace">#645</text>
-<use href="#flag-cl" xlink:href="#flag-cl" x="780.0" y="1383"/>
-<text x="806.0" y="1394" font-size="12" fill="#e2e8f0">TV+</text>
-<rect x="1091.0" y="1378" width="349.0" height="22" rx="4" fill="#0f172a"/>
+<text x="741.0" y="1394" font-size="12.5" font-weight="700" fill="#64748b" font-family="Consolas, Menlo, monospace">#645</text>
+<use href="#flag-cl" xlink:href="#flag-cl" x="778.0" y="1383"/>
+<text x="798.0" y="1394" font-size="10" opacity="0.95">🇨🇱</text>
+<text x="812.0" y="1394" font-size="12" fill="#e2e8f0">TV+</text>
+<rect x="1091.0" y="1378" width="349.0" height="22" rx="5" fill="#0f172a"/>
 <title>#646 · 🇨🇱 CL — TV5 Linares (General)</title>
-<text x="1097.0" y="1394" font-size="12.5" font-weight="700" fill="#64748b" font-family="Consolas, Menlo, monospace">#646</text>
-<use href="#flag-cl" xlink:href="#flag-cl" x="1137.0" y="1383"/>
-<text x="1163.0" y="1394" font-size="12" fill="#e2e8f0">TV5 Linares</text>
-<rect x="20.0" y="1402" width="349.0" height="22" rx="4" fill="#121b30"/>
+<text x="1098.0" y="1394" font-size="12.5" font-weight="700" fill="#64748b" font-family="Consolas, Menlo, monospace">#646</text>
+<use href="#flag-cl" xlink:href="#flag-cl" x="1135.0" y="1383"/>
+<text x="1155.0" y="1394" font-size="10" opacity="0.95">🇨🇱</text>
+<text x="1169.0" y="1394" font-size="12" fill="#e2e8f0">TV5 Linares</text>
+<rect x="20.0" y="1402" width="349.0" height="22" rx="5" fill="#121b30"/>
 <title>#647 · 🇨🇱 CL — TV5 Linares (General)</title>
-<text x="26.0" y="1418" font-size="12.5" font-weight="700" fill="#64748b" font-family="Consolas, Menlo, monospace">#647</text>
-<use href="#flag-cl" xlink:href="#flag-cl" x="66.0" y="1407"/>
-<text x="92.0" y="1418" font-size="12" fill="#e2e8f0">TV5 Linares</text>
-<rect x="377.0" y="1402" width="349.0" height="22" rx="4" fill="#121b30"/>
+<text x="27.0" y="1418" font-size="12.5" font-weight="700" fill="#64748b" font-family="Consolas, Menlo, monospace">#647</text>
+<use href="#flag-cl" xlink:href="#flag-cl" x="64.0" y="1407"/>
+<text x="84.0" y="1418" font-size="10" opacity="0.95">🇨🇱</text>
+<text x="98.0" y="1418" font-size="12" fill="#e2e8f0">TV5 Linares</text>
+<rect x="377.0" y="1402" width="349.0" height="22" rx="5" fill="#121b30"/>
 <title>#648 · 🇨🇱 CL — TVN Ⓖ (General)</title>
-<text x="383.0" y="1418" font-size="12.5" font-weight="700" fill="#64748b" font-family="Consolas, Menlo, monospace">#648</text>
-<use href="#flag-cl" xlink:href="#flag-cl" x="423.0" y="1407"/>
-<text x="449.0" y="1418" font-size="12" fill="#e2e8f0">TVN Ⓖ</text>
-<rect x="734.0" y="1402" width="349.0" height="22" rx="4" fill="#121b30"/>
+<text x="384.0" y="1418" font-size="12.5" font-weight="700" fill="#64748b" font-family="Consolas, Menlo, monospace">#648</text>
+<use href="#flag-cl" xlink:href="#flag-cl" x="421.0" y="1407"/>
+<text x="441.0" y="1418" font-size="10" opacity="0.95">🇨🇱</text>
+<text x="455.0" y="1418" font-size="12" fill="#e2e8f0">TVN Ⓖ</text>
+<rect x="734.0" y="1402" width="349.0" height="22" rx="5" fill="#121b30"/>
 <title>#649 · 🇨🇱 CL — TVN HD (Nacional) (General)</title>
-<text x="740.0" y="1418" font-size="12.5" font-weight="700" fill="#64748b" font-family="Consolas, Menlo, monospace">#649</text>
-<use href="#flag-cl" xlink:href="#flag-cl" x="780.0" y="1407"/>
-<text x="806.0" y="1418" font-size="12" fill="#e2e8f0">TVN HD (Nacional)</text>
-<rect x="1091.0" y="1402" width="349.0" height="22" rx="4" fill="#121b30"/>
+<text x="741.0" y="1418" font-size="12.5" font-weight="700" fill="#64748b" font-family="Consolas, Menlo, monospace">#649</text>
+<use href="#flag-cl" xlink:href="#flag-cl" x="778.0" y="1407"/>
+<text x="798.0" y="1418" font-size="10" opacity="0.95">🇨🇱</text>
+<text x="812.0" y="1418" font-size="12" fill="#e2e8f0">TVN HD (Nacional)</text>
+<rect x="1091.0" y="1402" width="349.0" height="22" rx="5" fill="#121b30"/>
 <title>#650 · 🇨🇱 CL — TVO San Vicente (General)</title>
-<text x="1097.0" y="1418" font-size="12.5" font-weight="700" fill="#64748b" font-family="Consolas, Menlo, monospace">#650</text>
-<use href="#flag-cl" xlink:href="#flag-cl" x="1137.0" y="1407"/>
-<text x="1163.0" y="1418" font-size="12" fill="#e2e8f0">TVO San Vicente</text>
-<rect x="20.0" y="1426" width="349.0" height="22" rx="4" fill="#0f172a"/>
+<text x="1098.0" y="1418" font-size="12.5" font-weight="700" fill="#64748b" font-family="Consolas, Menlo, monospace">#650</text>
+<use href="#flag-cl" xlink:href="#flag-cl" x="1135.0" y="1407"/>
+<text x="1155.0" y="1418" font-size="10" opacity="0.95">🇨🇱</text>
+<text x="1169.0" y="1418" font-size="12" fill="#e2e8f0">TVO San Vicente</text>
+<rect x="20.0" y="1426" width="349.0" height="22" rx="5" fill="#0f172a"/>
 <title>#651 · 🇨🇱 CL — TVO San Vicente (General)</title>
-<text x="26.0" y="1442" font-size="12.5" font-weight="700" fill="#64748b" font-family="Consolas, Menlo, monospace">#651</text>
-<use href="#flag-cl" xlink:href="#flag-cl" x="66.0" y="1431"/>
-<text x="92.0" y="1442" font-size="12" fill="#e2e8f0">TVO San Vicente</text>
-<rect x="377.0" y="1426" width="349.0" height="22" rx="4" fill="#0f172a"/>
+<text x="27.0" y="1442" font-size="12.5" font-weight="700" fill="#64748b" font-family="Consolas, Menlo, monospace">#651</text>
+<use href="#flag-cl" xlink:href="#flag-cl" x="64.0" y="1431"/>
+<text x="84.0" y="1442" font-size="10" opacity="0.95">🇨🇱</text>
+<text x="98.0" y="1442" font-size="12" fill="#e2e8f0">TVO San Vicente</text>
+<rect x="377.0" y="1426" width="349.0" height="22" rx="5" fill="#0f172a"/>
 <title>#652 · 🇨🇱 CL — TVO San Vicente (General)</title>
-<text x="383.0" y="1442" font-size="12.5" font-weight="700" fill="#64748b" font-family="Consolas, Menlo, monospace">#652</text>
-<use href="#flag-cl" xlink:href="#flag-cl" x="423.0" y="1431"/>
-<text x="449.0" y="1442" font-size="12" fill="#e2e8f0">TVO San Vicente</text>
-<rect x="734.0" y="1426" width="349.0" height="22" rx="4" fill="#0f172a"/>
+<text x="384.0" y="1442" font-size="12.5" font-weight="700" fill="#64748b" font-family="Consolas, Menlo, monospace">#652</text>
+<use href="#flag-cl" xlink:href="#flag-cl" x="421.0" y="1431"/>
+<text x="441.0" y="1442" font-size="10" opacity="0.95">🇨🇱</text>
+<text x="455.0" y="1442" font-size="12" fill="#e2e8f0">TVO San Vicente</text>
+<rect x="734.0" y="1426" width="349.0" height="22" rx="5" fill="#0f172a"/>
 <title>#653 · 🇨🇱 CL — TVR (Chile) (General)</title>
-<text x="740.0" y="1442" font-size="12.5" font-weight="700" fill="#64748b" font-family="Consolas, Menlo, monospace">#653</text>
-<use href="#flag-cl" xlink:href="#flag-cl" x="780.0" y="1431"/>
-<text x="806.0" y="1442" font-size="12" fill="#e2e8f0">TVR (Chile)</text>
-<rect x="1091.0" y="1426" width="349.0" height="22" rx="4" fill="#0f172a"/>
+<text x="741.0" y="1442" font-size="12.5" font-weight="700" fill="#64748b" font-family="Consolas, Menlo, monospace">#653</text>
+<use href="#flag-cl" xlink:href="#flag-cl" x="778.0" y="1431"/>
+<text x="798.0" y="1442" font-size="10" opacity="0.95">🇨🇱</text>
+<text x="812.0" y="1442" font-size="12" fill="#e2e8f0">TVR (Chile)</text>
+<rect x="1091.0" y="1426" width="349.0" height="22" rx="5" fill="#0f172a"/>
 <title>#654 · 🇨🇱 CL — TVR Television Regional (General)</title>
-<text x="1097.0" y="1442" font-size="12.5" font-weight="700" fill="#64748b" font-family="Consolas, Menlo, monospace">#654</text>
-<use href="#flag-cl" xlink:href="#flag-cl" x="1137.0" y="1431"/>
-<text x="1163.0" y="1442" font-size="12" fill="#e2e8f0">TVR Television Regional</text>
-<rect x="20.0" y="1450" width="349.0" height="22" rx="4" fill="#121b30"/>
+<text x="1098.0" y="1442" font-size="12.5" font-weight="700" fill="#64748b" font-family="Consolas, Menlo, monospace">#654</text>
+<use href="#flag-cl" xlink:href="#flag-cl" x="1135.0" y="1431"/>
+<text x="1155.0" y="1442" font-size="10" opacity="0.95">🇨🇱</text>
+<text x="1169.0" y="1442" font-size="12" fill="#e2e8f0">TVR Television Regional</text>
+<rect x="20.0" y="1450" width="349.0" height="22" rx="5" fill="#121b30"/>
 <title>#655 · 🇨🇱 CL — TVR Television Regional (General)</title>
-<text x="26.0" y="1466" font-size="12.5" font-weight="700" fill="#64748b" font-family="Consolas, Menlo, monospace">#655</text>
-<use href="#flag-cl" xlink:href="#flag-cl" x="66.0" y="1455"/>
-<text x="92.0" y="1466" font-size="12" fill="#e2e8f0">TVR Television Regional</text>
-<rect x="377.0" y="1450" width="349.0" height="22" rx="4" fill="#121b30"/>
+<text x="27.0" y="1466" font-size="12.5" font-weight="700" fill="#64748b" font-family="Consolas, Menlo, monospace">#655</text>
+<use href="#flag-cl" xlink:href="#flag-cl" x="64.0" y="1455"/>
+<text x="84.0" y="1466" font-size="10" opacity="0.95">🇨🇱</text>
+<text x="98.0" y="1466" font-size="12" fill="#e2e8f0">TVR Television Regional</text>
+<rect x="377.0" y="1450" width="349.0" height="22" rx="5" fill="#121b30"/>
 <title>#656 · 🇨🇱 CL — TVU (General)</title>
-<text x="383.0" y="1466" font-size="12.5" font-weight="700" fill="#64748b" font-family="Consolas, Menlo, monospace">#656</text>
-<use href="#flag-cl" xlink:href="#flag-cl" x="423.0" y="1455"/>
-<text x="449.0" y="1466" font-size="12" fill="#e2e8f0">TVU</text>
-<rect x="734.0" y="1450" width="349.0" height="22" rx="4" fill="#121b30"/>
+<text x="384.0" y="1466" font-size="12.5" font-weight="700" fill="#64748b" font-family="Consolas, Menlo, monospace">#656</text>
+<use href="#flag-cl" xlink:href="#flag-cl" x="421.0" y="1455"/>
+<text x="441.0" y="1466" font-size="10" opacity="0.95">🇨🇱</text>
+<text x="455.0" y="1466" font-size="12" fill="#e2e8f0">TVU</text>
+<rect x="734.0" y="1450" width="349.0" height="22" rx="5" fill="#121b30"/>
 <title>#657 · 🇨🇱 CL — TVU (General)</title>
-<text x="740.0" y="1466" font-size="12.5" font-weight="700" fill="#64748b" font-family="Consolas, Menlo, monospace">#657</text>
-<use href="#flag-cl" xlink:href="#flag-cl" x="780.0" y="1455"/>
-<text x="806.0" y="1466" font-size="12" fill="#e2e8f0">TVU</text>
-<rect x="1091.0" y="1450" width="349.0" height="22" rx="4" fill="#121b30"/>
+<text x="741.0" y="1466" font-size="12.5" font-weight="700" fill="#64748b" font-family="Consolas, Menlo, monospace">#657</text>
+<use href="#flag-cl" xlink:href="#flag-cl" x="778.0" y="1455"/>
+<text x="798.0" y="1466" font-size="10" opacity="0.95">🇨🇱</text>
+<text x="812.0" y="1466" font-size="12" fill="#e2e8f0">TVU</text>
+<rect x="1091.0" y="1450" width="349.0" height="22" rx="5" fill="#121b30"/>
 <title>#658 · 🇨🇱 CL — TVU (General)</title>
-<text x="1097.0" y="1466" font-size="12.5" font-weight="700" fill="#64748b" font-family="Consolas, Menlo, monospace">#658</text>
-<use href="#flag-cl" xlink:href="#flag-cl" x="1137.0" y="1455"/>
-<text x="1163.0" y="1466" font-size="12" fill="#e2e8f0">TVU</text>
-<rect x="20.0" y="1474" width="349.0" height="22" rx="4" fill="#0f172a"/>
+<text x="1098.0" y="1466" font-size="12.5" font-weight="700" fill="#64748b" font-family="Consolas, Menlo, monospace">#658</text>
+<use href="#flag-cl" xlink:href="#flag-cl" x="1135.0" y="1455"/>
+<text x="1155.0" y="1466" font-size="10" opacity="0.95">🇨🇱</text>
+<text x="1169.0" y="1466" font-size="12" fill="#e2e8f0">TVU</text>
+<rect x="20.0" y="1474" width="349.0" height="22" rx="5" fill="#0f172a"/>
 <title>#659 · 🇨🇱 CL — U de Chile TV (General)</title>
-<text x="26.0" y="1490" font-size="12.5" font-weight="700" fill="#64748b" font-family="Consolas, Menlo, monospace">#659</text>
-<use href="#flag-cl" xlink:href="#flag-cl" x="66.0" y="1479"/>
-<text x="92.0" y="1490" font-size="12" fill="#e2e8f0">U de Chile TV</text>
-<rect x="377.0" y="1474" width="349.0" height="22" rx="4" fill="#0f172a"/>
+<text x="27.0" y="1490" font-size="12.5" font-weight="700" fill="#64748b" font-family="Consolas, Menlo, monospace">#659</text>
+<use href="#flag-cl" xlink:href="#flag-cl" x="64.0" y="1479"/>
+<text x="84.0" y="1490" font-size="10" opacity="0.95">🇨🇱</text>
+<text x="98.0" y="1490" font-size="12" fill="#e2e8f0">U de Chile TV</text>
+<rect x="377.0" y="1474" width="349.0" height="22" rx="5" fill="#0f172a"/>
 <title>#660 · 🇨🇱 CL — U de Chile TV (General)</title>
-<text x="383.0" y="1490" font-size="12.5" font-weight="700" fill="#64748b" font-family="Consolas, Menlo, monospace">#660</text>
-<use href="#flag-cl" xlink:href="#flag-cl" x="423.0" y="1479"/>
-<text x="449.0" y="1490" font-size="12" fill="#e2e8f0">U de Chile TV</text>
-<rect x="734.0" y="1474" width="349.0" height="22" rx="4" fill="#0f172a"/>
+<text x="384.0" y="1490" font-size="12.5" font-weight="700" fill="#64748b" font-family="Consolas, Menlo, monospace">#660</text>
+<use href="#flag-cl" xlink:href="#flag-cl" x="421.0" y="1479"/>
+<text x="441.0" y="1490" font-size="10" opacity="0.95">🇨🇱</text>
+<text x="455.0" y="1490" font-size="12" fill="#e2e8f0">U de Chile TV</text>
+<rect x="734.0" y="1474" width="349.0" height="22" rx="5" fill="#0f172a"/>
 <title>#661 · 🇨🇱 CL — U Los Lagos TV HD (Osorno - Los Lagos) (General)</title>
-<text x="740.0" y="1490" font-size="12.5" font-weight="700" fill="#64748b" font-family="Consolas, Menlo, monospace">#661</text>
-<use href="#flag-cl" xlink:href="#flag-cl" x="780.0" y="1479"/>
-<text x="806.0" y="1490" font-size="12" fill="#e2e8f0">U Los Lagos TV HD (Osorno - Los Lagos)</text>
-<rect x="1091.0" y="1474" width="349.0" height="22" rx="4" fill="#0f172a"/>
+<text x="741.0" y="1490" font-size="12.5" font-weight="700" fill="#64748b" font-family="Consolas, Menlo, monospace">#661</text>
+<use href="#flag-cl" xlink:href="#flag-cl" x="778.0" y="1479"/>
+<text x="798.0" y="1490" font-size="10" opacity="0.95">🇨🇱</text>
+<text x="812.0" y="1490" font-size="12" fill="#e2e8f0">U Los Lagos TV HD (Osorno - Los Lagos)</text>
+<rect x="1091.0" y="1474" width="349.0" height="22" rx="5" fill="#0f172a"/>
 <title>#662 · 🇨🇱 CL — UA TV (U. Autonoma) (General)</title>
-<text x="1097.0" y="1490" font-size="12.5" font-weight="700" fill="#64748b" font-family="Consolas, Menlo, monospace">#662</text>
-<use href="#flag-cl" xlink:href="#flag-cl" x="1137.0" y="1479"/>
-<text x="1163.0" y="1490" font-size="12" fill="#e2e8f0">UA TV (U. Autonoma)</text>
-<rect x="20.0" y="1498" width="349.0" height="22" rx="4" fill="#121b30"/>
+<text x="1098.0" y="1490" font-size="12.5" font-weight="700" fill="#64748b" font-family="Consolas, Menlo, monospace">#662</text>
+<use href="#flag-cl" xlink:href="#flag-cl" x="1135.0" y="1479"/>
+<text x="1155.0" y="1490" font-size="10" opacity="0.95">🇨🇱</text>
+<text x="1169.0" y="1490" font-size="12" fill="#e2e8f0">UA TV (U. Autonoma)</text>
+<rect x="20.0" y="1498" width="349.0" height="22" rx="5" fill="#121b30"/>
 <title>#663 · 🇨🇱 CL — UA TV (U. Autonoma) (General)</title>
-<text x="26.0" y="1514" font-size="12.5" font-weight="700" fill="#64748b" font-family="Consolas, Menlo, monospace">#663</text>
-<use href="#flag-cl" xlink:href="#flag-cl" x="66.0" y="1503"/>
-<text x="92.0" y="1514" font-size="12" fill="#e2e8f0">UA TV (U. Autonoma)</text>
-<rect x="377.0" y="1498" width="349.0" height="22" rx="4" fill="#121b30"/>
+<text x="27.0" y="1514" font-size="12.5" font-weight="700" fill="#64748b" font-family="Consolas, Menlo, monospace">#663</text>
+<use href="#flag-cl" xlink:href="#flag-cl" x="64.0" y="1503"/>
+<text x="84.0" y="1514" font-size="10" opacity="0.95">🇨🇱</text>
+<text x="98.0" y="1514" font-size="12" fill="#e2e8f0">UA TV (U. Autonoma)</text>
+<rect x="377.0" y="1498" width="349.0" height="22" rx="5" fill="#121b30"/>
 <title>#664 · 🇨🇱 CL — UATV (General)</title>
-<text x="383.0" y="1514" font-size="12.5" font-weight="700" fill="#64748b" font-family="Consolas, Menlo, monospace">#664</text>
-<use href="#flag-cl" xlink:href="#flag-cl" x="423.0" y="1503"/>
-<text x="449.0" y="1514" font-size="12" fill="#e2e8f0">UATV</text>
-<rect x="734.0" y="1498" width="349.0" height="22" rx="4" fill="#121b30"/>
+<text x="384.0" y="1514" font-size="12.5" font-weight="700" fill="#64748b" font-family="Consolas, Menlo, monospace">#664</text>
+<use href="#flag-cl" xlink:href="#flag-cl" x="421.0" y="1503"/>
+<text x="441.0" y="1514" font-size="10" opacity="0.95">🇨🇱</text>
+<text x="455.0" y="1514" font-size="12" fill="#e2e8f0">UATV</text>
+<rect x="734.0" y="1498" width="349.0" height="22" rx="5" fill="#121b30"/>
 <title>#665 · 🇨🇱 CL — UChile TV (General)</title>
-<text x="740.0" y="1514" font-size="12.5" font-weight="700" fill="#64748b" font-family="Consolas, Menlo, monospace">#665</text>
-<use href="#flag-cl" xlink:href="#flag-cl" x="780.0" y="1503"/>
-<text x="806.0" y="1514" font-size="12" fill="#e2e8f0">UChile TV</text>
-<rect x="1091.0" y="1498" width="349.0" height="22" rx="4" fill="#121b30"/>
+<text x="741.0" y="1514" font-size="12.5" font-weight="700" fill="#64748b" font-family="Consolas, Menlo, monospace">#665</text>
+<use href="#flag-cl" xlink:href="#flag-cl" x="778.0" y="1503"/>
+<text x="798.0" y="1514" font-size="10" opacity="0.95">🇨🇱</text>
+<text x="812.0" y="1514" font-size="12" fill="#e2e8f0">UChile TV</text>
+<rect x="1091.0" y="1498" width="349.0" height="22" rx="5" fill="#121b30"/>
 <title>#666 · 🇨🇱 CL — UCV Televisión (General)</title>
-<text x="1097.0" y="1514" font-size="12.5" font-weight="700" fill="#64748b" font-family="Consolas, Menlo, monospace">#666</text>
-<use href="#flag-cl" xlink:href="#flag-cl" x="1137.0" y="1503"/>
-<text x="1163.0" y="1514" font-size="12" fill="#e2e8f0">UCV Televisión</text>
-<rect x="20.0" y="1522" width="349.0" height="22" rx="4" fill="#0f172a"/>
+<text x="1098.0" y="1514" font-size="12.5" font-weight="700" fill="#64748b" font-family="Consolas, Menlo, monospace">#666</text>
+<use href="#flag-cl" xlink:href="#flag-cl" x="1135.0" y="1503"/>
+<text x="1155.0" y="1514" font-size="10" opacity="0.95">🇨🇱</text>
+<text x="1169.0" y="1514" font-size="12" fill="#e2e8f0">UCV Televisión</text>
+<rect x="20.0" y="1522" width="349.0" height="22" rx="5" fill="#0f172a"/>
 <title>#667 · 🇨🇱 CL — UCV TV (General)</title>
-<text x="26.0" y="1538" font-size="12.5" font-weight="700" fill="#64748b" font-family="Consolas, Menlo, monospace">#667</text>
-<use href="#flag-cl" xlink:href="#flag-cl" x="66.0" y="1527"/>
-<text x="92.0" y="1538" font-size="12" fill="#e2e8f0">UCV TV</text>
-<rect x="377.0" y="1522" width="349.0" height="22" rx="4" fill="#0f172a"/>
+<text x="27.0" y="1538" font-size="12.5" font-weight="700" fill="#64748b" font-family="Consolas, Menlo, monospace">#667</text>
+<use href="#flag-cl" xlink:href="#flag-cl" x="64.0" y="1527"/>
+<text x="84.0" y="1538" font-size="10" opacity="0.95">🇨🇱</text>
+<text x="98.0" y="1538" font-size="12" fill="#e2e8f0">UCV TV</text>
+<rect x="377.0" y="1522" width="349.0" height="22" rx="5" fill="#0f172a"/>
 <title>#668 · 🇨🇱 CL — UCV TV Eventos (General)</title>
-<text x="383.0" y="1538" font-size="12.5" font-weight="700" fill="#64748b" font-family="Consolas, Menlo, monospace">#668</text>
-<use href="#flag-cl" xlink:href="#flag-cl" x="423.0" y="1527"/>
-<text x="449.0" y="1538" font-size="12" fill="#e2e8f0">UCV TV Eventos</text>
-<rect x="734.0" y="1522" width="349.0" height="22" rx="4" fill="#0f172a"/>
+<text x="384.0" y="1538" font-size="12.5" font-weight="700" fill="#64748b" font-family="Consolas, Menlo, monospace">#668</text>
+<use href="#flag-cl" xlink:href="#flag-cl" x="421.0" y="1527"/>
+<text x="441.0" y="1538" font-size="10" opacity="0.95">🇨🇱</text>
+<text x="455.0" y="1538" font-size="12" fill="#e2e8f0">UCV TV Eventos</text>
+<rect x="734.0" y="1522" width="349.0" height="22" rx="5" fill="#0f172a"/>
 <title>#669 · 🇨🇱 CL — UCV TV Eventos (General)</title>
-<text x="740.0" y="1538" font-size="12.5" font-weight="700" fill="#64748b" font-family="Consolas, Menlo, monospace">#669</text>
-<use href="#flag-cl" xlink:href="#flag-cl" x="780.0" y="1527"/>
-<text x="806.0" y="1538" font-size="12" fill="#e2e8f0">UCV TV Eventos</text>
-<rect x="1091.0" y="1522" width="349.0" height="22" rx="4" fill="#0f172a"/>
+<text x="741.0" y="1538" font-size="12.5" font-weight="700" fill="#64748b" font-family="Consolas, Menlo, monospace">#669</text>
+<use href="#flag-cl" xlink:href="#flag-cl" x="778.0" y="1527"/>
+<text x="798.0" y="1538" font-size="10" opacity="0.95">🇨🇱</text>
+<text x="812.0" y="1538" font-size="12" fill="#e2e8f0">UCV TV Eventos</text>
+<rect x="1091.0" y="1522" width="349.0" height="22" rx="5" fill="#0f172a"/>
 <title>#670 · 🇨🇱 CL — Uniregion TV (General)</title>
-<text x="1097.0" y="1538" font-size="12.5" font-weight="700" fill="#64748b" font-family="Consolas, Menlo, monospace">#670</text>
-<use href="#flag-cl" xlink:href="#flag-cl" x="1137.0" y="1527"/>
-<text x="1163.0" y="1538" font-size="12" fill="#e2e8f0">Uniregion TV</text>
-<rect x="20.0" y="1546" width="349.0" height="22" rx="4" fill="#121b30"/>
+<text x="1098.0" y="1538" font-size="12.5" font-weight="700" fill="#64748b" font-family="Consolas, Menlo, monospace">#670</text>
+<use href="#flag-cl" xlink:href="#flag-cl" x="1135.0" y="1527"/>
+<text x="1155.0" y="1538" font-size="10" opacity="0.95">🇨🇱</text>
+<text x="1169.0" y="1538" font-size="12" fill="#e2e8f0">Uniregion TV</text>
+<rect x="20.0" y="1546" width="349.0" height="22" rx="5" fill="#121b30"/>
 <title>#671 · 🇨🇱 CL — UTalcaTV (U. de Talca) - Campus TV (General)</title>
-<text x="26.0" y="1562" font-size="12.5" font-weight="700" fill="#64748b" font-family="Consolas, Menlo, monospace">#671</text>
-<use href="#flag-cl" xlink:href="#flag-cl" x="66.0" y="1551"/>
-<text x="92.0" y="1562" font-size="12" fill="#e2e8f0">UTalcaTV (U. de Talca) - Campus TV</text>
-<rect x="377.0" y="1546" width="349.0" height="22" rx="4" fill="#121b30"/>
+<text x="27.0" y="1562" font-size="12.5" font-weight="700" fill="#64748b" font-family="Consolas, Menlo, monospace">#671</text>
+<use href="#flag-cl" xlink:href="#flag-cl" x="64.0" y="1551"/>
+<text x="84.0" y="1562" font-size="10" opacity="0.95">🇨🇱</text>
+<text x="98.0" y="1562" font-size="12" fill="#e2e8f0">UTalcaTV (U. de Talca) - Campus TV</text>
+<rect x="377.0" y="1546" width="349.0" height="22" rx="5" fill="#121b30"/>
 <title>#672 · 🇨🇱 CL — UTV (Chile) (General)</title>
-<text x="383.0" y="1562" font-size="12.5" font-weight="700" fill="#64748b" font-family="Consolas, Menlo, monospace">#672</text>
-<use href="#flag-cl" xlink:href="#flag-cl" x="423.0" y="1551"/>
-<text x="449.0" y="1562" font-size="12" fill="#e2e8f0">UTV (Chile)</text>
-<rect x="734.0" y="1546" width="349.0" height="22" rx="4" fill="#121b30"/>
+<text x="384.0" y="1562" font-size="12.5" font-weight="700" fill="#64748b" font-family="Consolas, Menlo, monospace">#672</text>
+<use href="#flag-cl" xlink:href="#flag-cl" x="421.0" y="1551"/>
+<text x="441.0" y="1562" font-size="10" opacity="0.95">🇨🇱</text>
+<text x="455.0" y="1562" font-size="12" fill="#e2e8f0">UTV (Chile)</text>
+<rect x="734.0" y="1546" width="349.0" height="22" rx="5" fill="#121b30"/>
 <title>#673 · 🇨🇱 CL — Vision Plus TV (1080i) (General)</title>
-<text x="740.0" y="1562" font-size="12.5" font-weight="700" fill="#64748b" font-family="Consolas, Menlo, monospace">#673</text>
-<use href="#flag-cl" xlink:href="#flag-cl" x="780.0" y="1551"/>
-<text x="806.0" y="1562" font-size="12" fill="#e2e8f0">Vision Plus TV (1080i)</text>
-<rect x="1091.0" y="1546" width="349.0" height="22" rx="4" fill="#121b30"/>
+<text x="741.0" y="1562" font-size="12.5" font-weight="700" fill="#64748b" font-family="Consolas, Menlo, monospace">#673</text>
+<use href="#flag-cl" xlink:href="#flag-cl" x="778.0" y="1551"/>
+<text x="798.0" y="1562" font-size="10" opacity="0.95">🇨🇱</text>
+<text x="812.0" y="1562" font-size="12" fill="#e2e8f0">Vision Plus TV (1080i)</text>
+<rect x="1091.0" y="1546" width="349.0" height="22" rx="5" fill="#121b30"/>
 <title>#674 · 🇨🇱 CL — Vision Plus TV Melipilla (General)</title>
-<text x="1097.0" y="1562" font-size="12.5" font-weight="700" fill="#64748b" font-family="Consolas, Menlo, monospace">#674</text>
-<use href="#flag-cl" xlink:href="#flag-cl" x="1137.0" y="1551"/>
-<text x="1163.0" y="1562" font-size="12" fill="#e2e8f0">Vision Plus TV Melipilla</text>
-<rect x="20.0" y="1570" width="349.0" height="22" rx="4" fill="#0f172a"/>
+<text x="1098.0" y="1562" font-size="12.5" font-weight="700" fill="#64748b" font-family="Consolas, Menlo, monospace">#674</text>
+<use href="#flag-cl" xlink:href="#flag-cl" x="1135.0" y="1551"/>
+<text x="1155.0" y="1562" font-size="10" opacity="0.95">🇨🇱</text>
+<text x="1169.0" y="1562" font-size="12" fill="#e2e8f0">Vision Plus TV Melipilla</text>
+<rect x="20.0" y="1570" width="349.0" height="22" rx="5" fill="#0f172a"/>
 <title>#675 · 🇨🇱 CL — Vision Plus TV Melipilla (General)</title>
-<text x="26.0" y="1586" font-size="12.5" font-weight="700" fill="#64748b" font-family="Consolas, Menlo, monospace">#675</text>
-<use href="#flag-cl" xlink:href="#flag-cl" x="66.0" y="1575"/>
-<text x="92.0" y="1586" font-size="12" fill="#e2e8f0">Vision Plus TV Melipilla</text>
-<rect x="377.0" y="1570" width="349.0" height="22" rx="4" fill="#0f172a"/>
+<text x="27.0" y="1586" font-size="12.5" font-weight="700" fill="#64748b" font-family="Consolas, Menlo, monospace">#675</text>
+<use href="#flag-cl" xlink:href="#flag-cl" x="64.0" y="1575"/>
+<text x="84.0" y="1586" font-size="10" opacity="0.95">🇨🇱</text>
+<text x="98.0" y="1586" font-size="12" fill="#e2e8f0">Vision Plus TV Melipilla</text>
+<rect x="377.0" y="1570" width="349.0" height="22" rx="5" fill="#0f172a"/>
 <title>#676 · 🇨🇱 CL — Voces del Fuego (General)</title>
-<text x="383.0" y="1586" font-size="12.5" font-weight="700" fill="#64748b" font-family="Consolas, Menlo, monospace">#676</text>
-<use href="#flag-cl" xlink:href="#flag-cl" x="423.0" y="1575"/>
-<text x="449.0" y="1586" font-size="12" fill="#e2e8f0">Voces del Fuego</text>
-<rect x="734.0" y="1570" width="349.0" height="22" rx="4" fill="#0f172a"/>
+<text x="384.0" y="1586" font-size="12.5" font-weight="700" fill="#64748b" font-family="Consolas, Menlo, monospace">#676</text>
+<use href="#flag-cl" xlink:href="#flag-cl" x="421.0" y="1575"/>
+<text x="441.0" y="1586" font-size="10" opacity="0.95">🇨🇱</text>
+<text x="455.0" y="1586" font-size="12" fill="#e2e8f0">Voces del Fuego</text>
+<rect x="734.0" y="1570" width="349.0" height="22" rx="5" fill="#0f172a"/>
 <title>#677 · 🇨🇱 CL — VTV (General)</title>
-<text x="740.0" y="1586" font-size="12.5" font-weight="700" fill="#64748b" font-family="Consolas, Menlo, monospace">#677</text>
-<use href="#flag-cl" xlink:href="#flag-cl" x="780.0" y="1575"/>
-<text x="806.0" y="1586" font-size="12" fill="#e2e8f0">VTV</text>
-<rect x="1091.0" y="1570" width="349.0" height="22" rx="4" fill="#0f172a"/>
+<text x="741.0" y="1586" font-size="12.5" font-weight="700" fill="#64748b" font-family="Consolas, Menlo, monospace">#677</text>
+<use href="#flag-cl" xlink:href="#flag-cl" x="778.0" y="1575"/>
+<text x="798.0" y="1586" font-size="10" opacity="0.95">🇨🇱</text>
+<text x="812.0" y="1586" font-size="12" fill="#e2e8f0">VTV</text>
+<rect x="1091.0" y="1570" width="349.0" height="22" rx="5" fill="#0f172a"/>
 <title>#678 · 🇨🇱 CL — VTV (General)</title>
-<text x="1097.0" y="1586" font-size="12.5" font-weight="700" fill="#64748b" font-family="Consolas, Menlo, monospace">#678</text>
-<use href="#flag-cl" xlink:href="#flag-cl" x="1137.0" y="1575"/>
-<text x="1163.0" y="1586" font-size="12" fill="#e2e8f0">VTV</text>
-<rect x="20.0" y="1594" width="349.0" height="22" rx="4" fill="#121b30"/>
+<text x="1098.0" y="1586" font-size="12.5" font-weight="700" fill="#64748b" font-family="Consolas, Menlo, monospace">#678</text>
+<use href="#flag-cl" xlink:href="#flag-cl" x="1135.0" y="1575"/>
+<text x="1155.0" y="1586" font-size="10" opacity="0.95">🇨🇱</text>
+<text x="1169.0" y="1586" font-size="12" fill="#e2e8f0">VTV</text>
+<rect x="20.0" y="1594" width="349.0" height="22" rx="5" fill="#121b30"/>
 <title>#679 · 🇨🇱 CL — VTV Quillota (General)</title>
-<text x="26.0" y="1610" font-size="12.5" font-weight="700" fill="#64748b" font-family="Consolas, Menlo, monospace">#679</text>
-<use href="#flag-cl" xlink:href="#flag-cl" x="66.0" y="1599"/>
-<text x="92.0" y="1610" font-size="12" fill="#e2e8f0">VTV Quillota</text>
-<rect x="377.0" y="1594" width="349.0" height="22" rx="4" fill="#121b30"/>
+<text x="27.0" y="1610" font-size="12.5" font-weight="700" fill="#64748b" font-family="Consolas, Menlo, monospace">#679</text>
+<use href="#flag-cl" xlink:href="#flag-cl" x="64.0" y="1599"/>
+<text x="84.0" y="1610" font-size="10" opacity="0.95">🇨🇱</text>
+<text x="98.0" y="1610" font-size="12" fill="#e2e8f0">VTV Quillota</text>
+<rect x="377.0" y="1594" width="349.0" height="22" rx="5" fill="#121b30"/>
 <title>#680 · 🇨🇱 CL — VTV Quillota (General)</title>
-<text x="383.0" y="1610" font-size="12.5" font-weight="700" fill="#64748b" font-family="Consolas, Menlo, monospace">#680</text>
-<use href="#flag-cl" xlink:href="#flag-cl" x="423.0" y="1599"/>
-<text x="449.0" y="1610" font-size="12" fill="#e2e8f0">VTV Quillota</text>
-<rect x="734.0" y="1594" width="349.0" height="22" rx="4" fill="#121b30"/>
+<text x="384.0" y="1610" font-size="12.5" font-weight="700" fill="#64748b" font-family="Consolas, Menlo, monospace">#680</text>
+<use href="#flag-cl" xlink:href="#flag-cl" x="421.0" y="1599"/>
+<text x="441.0" y="1610" font-size="10" opacity="0.95">🇨🇱</text>
+<text x="455.0" y="1610" font-size="12" fill="#e2e8f0">VTV Quillota</text>
+<rect x="734.0" y="1594" width="349.0" height="22" rx="5" fill="#121b30"/>
 <title>#681 · 🇨🇱 CL — VTV Valle de Aconcagua (General)</title>
-<text x="740.0" y="1610" font-size="12.5" font-weight="700" fill="#64748b" font-family="Consolas, Menlo, monospace">#681</text>
-<use href="#flag-cl" xlink:href="#flag-cl" x="780.0" y="1599"/>
-<text x="806.0" y="1610" font-size="12" fill="#e2e8f0">VTV Valle de Aconcagua</text>
-<rect x="1091.0" y="1594" width="349.0" height="22" rx="4" fill="#121b30"/>
+<text x="741.0" y="1610" font-size="12.5" font-weight="700" fill="#64748b" font-family="Consolas, Menlo, monospace">#681</text>
+<use href="#flag-cl" xlink:href="#flag-cl" x="778.0" y="1599"/>
+<text x="798.0" y="1610" font-size="10" opacity="0.95">🇨🇱</text>
+<text x="812.0" y="1610" font-size="12" fill="#e2e8f0">VTV Valle de Aconcagua</text>
+<rect x="1091.0" y="1594" width="349.0" height="22" rx="5" fill="#121b30"/>
 <title>#682 · 🇨🇱 CL — Zoom Tecnologico Plus (General)</title>
-<text x="1097.0" y="1610" font-size="12.5" font-weight="700" fill="#64748b" font-family="Consolas, Menlo, monospace">#682</text>
-<use href="#flag-cl" xlink:href="#flag-cl" x="1137.0" y="1599"/>
-<text x="1163.0" y="1610" font-size="12" fill="#e2e8f0">Zoom Tecnologico Plus</text>
-<rect x="20.0" y="1618" width="349.0" height="22" rx="4" fill="#0f172a"/>
+<text x="1098.0" y="1610" font-size="12.5" font-weight="700" fill="#64748b" font-family="Consolas, Menlo, monospace">#682</text>
+<use href="#flag-cl" xlink:href="#flag-cl" x="1135.0" y="1599"/>
+<text x="1155.0" y="1610" font-size="10" opacity="0.95">🇨🇱</text>
+<text x="1169.0" y="1610" font-size="12" fill="#e2e8f0">Zoom Tecnologico Plus</text>
+<rect x="20.0" y="1618" width="349.0" height="22" rx="5" fill="#0f172a"/>
 <title>#683 · 🇨🇱 CL — Contivisión (Biobío)</title>
-<text x="26.0" y="1634" font-size="12.5" font-weight="700" fill="#64748b" font-family="Consolas, Menlo, monospace">#683</text>
-<use href="#flag-cl" xlink:href="#flag-cl" x="66.0" y="1623"/>
-<text x="92.0" y="1634" font-size="12" fill="#e2e8f0">Contivisión</text>
+<text x="27.0" y="1634" font-size="12.5" font-weight="700" fill="#64748b" font-family="Consolas, Menlo, monospace">#683</text>
+<use href="#flag-cl" xlink:href="#flag-cl" x="64.0" y="1623"/>
+<text x="84.0" y="1634" font-size="10" opacity="0.95">🇨🇱</text>
+<text x="98.0" y="1634" font-size="12" fill="#e2e8f0">Contivisión</text>
 </svg>
