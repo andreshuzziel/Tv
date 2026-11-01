@@ -4,7 +4,7 @@
  - Lee /tmp/poster.json, /tmp/sports.json (desde data/channels.js) y flags/{cc}.svg (flagcdn, ISO 3166-1).
  - SVG: banderas en <defs> reutilizadas con <use> + emoji de bandera junto a la imagen (doble respaldo).
  - PNG: banderas rasterizadas (sin emoji, DejaVu no tiene glyphs de bandera).
-Salida: AFICHE-CANALES.svg/.png + afiches/afiche-XX-*.svg.  Uso: python3 scripts/afiche.py
+Salida: AFICHE-CANALES.svg (único afiche completo, SVG, paneles por temática).  Uso: python3 scripts/afiche.py
 """
 import json, os, re, html
 
@@ -157,74 +157,4 @@ w, h = svg_doc('📺 TV CHILE — AFICHE DE TODOS LOS CANALES', f'{n} canales nu
 prune_flags('AFICHE-CANALES.svg')
 print(f'AFICHE-CANALES.svg: {w}x{h}, {n} canales, {os.path.getsize("AFICHE-CANALES.svg")/1024:.0f} KB')
 
-os.makedirs('afiches', exist_ok=True)
-for f in os.listdir('afiches'): os.remove(f'afiches/{f}')
-k = 0
-for s, grp in blocks_of(rows):
-    k += 1
-    slug = re.sub(r'[^a-z0-9]+', '-', s[2].lower())[:24].strip('-')
-    nums = [r['chno'] for r in grp if r.get('chno')]
-    rng = f'#{min(nums)}–#{max(nums)}' if nums else 'solo web'
-    svg_path = f'afiches/afiche-{k:02d}-{slug}.svg'
-    svg_doc(f'{s[2]} — canales {rng}', f'{len(grp)} filas · ordenados por # ascendente · TV Chile v3.103 · 01-nov-2026', grp, svg_path)
-    prune_flags(svg_path)
-    if not os.environ.get('SKIP_PNG'):
-        try:
-            import cairosvg
-            cairosvg.svg2png(url=svg_path, write_to=f'afiches/afiche-{k:02d}-{slug}.png', output_width=W)
-        except Exception as e:
-            print('PNG de sección omitido:', repr(e))
-print('afiches por sección (SVG+PNG):', k)
 
-try:
-    if os.environ.get('SKIP_PNG'):
-        raise RuntimeError('SKIP_PNG=1')
-    from PIL import Image, ImageDraw, ImageFont
-    f_num = ImageFont.truetype('/usr/share/fonts/truetype/dejavu/DejaVuSansMono-Bold.ttf', 13)
-    f_big = ImageFont.truetype('/usr/share/fonts/truetype/dejavu/DejaVuSansMono-Bold.ttf', 15)
-    f_txt = ImageFont.truetype('/usr/share/fonts/truetype/dejavu/DejaVuSans.ttf', 12)
-    f_txtb = ImageFont.truetype('/usr/share/fonts/truetype/dejavu/DejaVuSans.ttf', 14)
-    f_head = ImageFont.truetype('/usr/share/fonts/truetype/dejavu/DejaVuSans-Bold.ttf', 30)
-    f_sub = ImageFont.truetype('/usr/share/fonts/truetype/dejavu/DejaVuSans.ttf', 13)
-    flagimg = {}
-    for cc in FLAGS:
-        p = f'flags_png/{ckey(cc)}.png'
-        if os.path.exists(p): flagimg[cc] = Image.open(p).resize((18, 12))
-    img = Image.new('RGB', (w, h), '#0b1220'); d = ImageDraw.Draw(img)
-    d.rectangle([0, 0, w, 160], fill='#111a2e'); d.rectangle([0, 156, w, 160], fill='#16a34a')
-    d.text((M, 18), 'TV CHILE — AFICHE DE TODOS LOS CANALES', font=f_head, fill='#f8fafc')
-    d.text((M, 62), f'{n} canales numerados · Chile primero · v3.103 · 01-nov-2026 · celda: #núm [BANDERA] Nombre · deportes con alternativas legales ✔', font=f_sub, fill='#94a3b8')
-    y = 168
-    for s, grp in blocks_of(rows):
-        color = s[3]; rgb = tuple(int(color[j:j+2], 16) for j in (1, 3, 5))
-        big = (s is DEPORTES); cols = COLS_BIG if big else 4
-        colw = (W - 2 * M - (cols - 1) * GAP) / cols
-        ch, pitch = (CH_BIG, PITCH_BIG) if big else (CH, PITCH)
-        maxch = int((colw - 80) / 6.9)
-        bh = 34 + (24 if big else 0) + ((len(grp) + cols - 1) // cols) * pitch + 6
-        d.rectangle([M-9, y-9, w-M+9, y+bh-2], fill=(13, 21, 38), outline=rgb, width=2)
-        d.rectangle([M, y, w - M, y + 26], fill=rgb)
-        nums = [r['chno'] for r in grp if r.get('chno')]
-        rng = f'#{min(nums)}–#{max(nums)}' if nums else 'web'
-        d.text((M + 10, y + 4), s[2] + f'  ·  canales {rng}  ·  {len(grp)} filas', font=f_sub, fill='#ffffff')
-        y += 34
-        if big:
-            d.rectangle([M, y, w - M, y + 20], fill=(20, 83, 45))
-            d.text((M + 10, y + 3), '⚽ Canales deportivos en vivo (legales) — abajo: alternativas oficiales ✔ sin piratería', font=f_sub, fill=(134, 239, 172))
-            y += 24
-        for idx, r in enumerate(grp):
-            cx = M + (idx % cols) * (int(colw) + GAP); cy = y + (idx // cols) * pitch
-            alt = r.get('alt')
-            fill = (20, 83, 45) if alt else ((18, 27, 48) if (idx // cols) % 2 == 0 else (15, 23, 42))
-            d.rectangle([cx, cy, cx + colw, cy + ch], fill=fill)
-            num = f'#{r["chno"]}' if r['chno'] else ('✔' if alt else 'web')
-            d.text((cx + 7, cy + (8 if big else 4)), num, font=f_big if big else f_num, fill=(74, 222, 128) if alt else rgb)
-            ck = ckey(r['cc'])
-            fx = int(cx + (44 if not alt else 32))
-            if ck in flagimg: img.paste(flagimg[ck], (fx, int(cy + (9 if big else 5))))
-            d.text((fx + 22, cy + (8 if big else 4)), trunc(r['name'], maxch), font=f_txtb if big else f_txt, fill='#e2e8f0')
-        y += ((len(grp) + cols - 1) // cols) * pitch + 6 + 16
-    img.save('AFICHE-CANALES.png', optimize=True)
-    print(f'AFICHE-CANALES.png: {w}x{h}, {os.path.getsize("AFICHE-CANALES.png")/1048576:.1f} MB')
-except Exception as e:
-    print('PNG omitido:', repr(e))

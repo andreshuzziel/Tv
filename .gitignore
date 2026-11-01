@@ -8,3 +8,7 @@ upstream/m3u-cl/CL-raw.m3u
 # artefactos generados (afiche.py los regenera):
 afiches/*.png
 uploads/
+
+# un solo afiche (SVG); los PNG y láminas por sección ya no se generan:
+AFICHE-CANALES.png
+afiches/
