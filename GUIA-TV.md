@@ -50,3 +50,10 @@ Tu lista completa vive en **`playlists/tv-chile-todo.m3u`** (3.110 canales, todo
 - Algunos canales tienen **geobloqueo** o no emiten 24/7: si uno falla, prueba otro del mismo grupo.
 - No incluyas señales de TV de pago (ESPN/TNT piratas): no están en esta lista a propósito (ver `REVISION-SEGURIDAD.md`); para deportes usa las vías legales del panel ⚽ de la app web.
 - Para actualizar la lista en la TV: vuelve a hacer `git push` (opción A) o reinicia el servidor (opción B) y en la app toca "actualizar playlist".
+
+## ✏️ Personalizar los nombres de los canales (SÍ se puede)
+
+- **En la app web:** botón **✏️ Renombrar** junto al reproductor → escribe el nombre nuevo (vacío = vuelve al original). Se guarda en tu navegador (localStorage) y también puede quedar fijo en el repo en `data/renames.js` (formato `{ "id": "Nombre" }`); la exportación `.m3u` usa el nombre personalizado.
+- **En la playlist .m3u:** el nombre es el texto después de la coma en `#EXTINF:-1 ...,Nombre` — edítalo a mano y listo. **El número no cambia** (`tvg-chno`/`tvg-id` siguen iguales).
+- **En apps IPTV de la TV (TiviMate, etc.):** mantén presionado el canal → *Rename* / *Renombrar*.
+- **Al actualizar automático** (`scripts/actualizar.sh`): los renombres de `data/renames.js` se reaplican solos sobre la lista nueva con `scripts/aplicar_renames.py`, así tus nombres propios sobreviven a las actualizaciones.

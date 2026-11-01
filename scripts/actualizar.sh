@@ -61,6 +61,8 @@ with open('playlists/tv-chile-todo.m3u', 'w', encoding='utf-8') as out:
         out.write(f'#EXTINF:-1 {attrs} tvg-chno="{n}",{name}\n{url}\n')
 print(f'tv-chile-todo.m3u: {len(items)} canales numerados')
 PY
+# aplicar renombres personalizados (data/renames.js) sin tocar números ni tvg-id
+[ -f data/renames.js ] && python3 scripts/aplicar_renames.py playlists/tv-chile-todo.m3u data/renames.js
 
 echo "== 4/4 commit/push si hubo cambios =="
 git add -A

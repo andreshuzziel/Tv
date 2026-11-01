@@ -437,7 +437,7 @@
     $('#nowGroup').textContent = [ch._reg ? `Región de ${ch._reg}` : (THEMES.find(t => t.k === ch._theme) || {}).name, ch.note].filter(Boolean).join(' · ');
     $('#ovLogo').textContent = (ch.abbr || ch.name).slice(0, 4);
     $('#ovLogo').style.background = ch.color || '#1b2440';
-    $('#ovName').textContent = ch.name;
+    $('#ovName').textContent = dispName(ch);
     $('#ovNote').textContent = ch.note || '';
     $('#webBtn').hidden = !ch.web; if (ch.web) $('#webBtn').href = ch.web;
     $('#favBtn').textContent = favs.has(ch.id) ? '★ Favorito' : '☆ Favorito';
@@ -522,7 +522,7 @@
     lastSections.forEach(s => orderInSection(s).forEach(c => {
       if (!c.url) return;
       const g = state.view === 'reg' ? `Región ${s.title}` : s.title;
-      body.push(`#EXTINF:-1 tvg-id="${c.id}" group-title="${g.replace(/"/g, '')}",${c.name}`, c.url); n++;
+      body.push(`#EXTINF:-1 tvg-id="${c.id}" group-title="${g.replace(/"/g, '')}",${dispName(c)}`, c.url); n++;
     }));
     const blob = new Blob([body.join('\n') + '\n'], { type: 'audio/x-mpegurl' });
     const a = document.createElement('a');

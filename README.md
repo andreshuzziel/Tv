@@ -103,3 +103,6 @@ Elegir una temática en la izquierda filtra en vivo la lista de la derecha (p. e
 - **`GUIA-IMPLEMENTACION.md`** — cómo publicar en GitHub y usar **dos tokens**: uno de *lectura* (ver la lista en la TV si el repo es privado) y otro de *actualización* (pipeline automático con GitHub Actions + `scripts/actualizar.sh` + `scripts/sanitizar.py`).
 - **`GUIA-ORDEN.md`** — guía de canales **con números** (rangos 1–32 señal abierta CL, 53–85 Biobío, … 684+ español Latam/ES) y lista numerada completa; los números van en `tvg-chno` de `playlists/tv-chile-todo.m3u`.
 - **`GUIA-TV.md`** — pasos para cargar el link en la app IPTV de tu TV.
+
+## ✏️ Nombres personalizados
+Sí: botón **✏️ Renombrar** en la app (se guarda en localStorage y puede fijarse en `data/renames.js`, que el pipeline reaplica sobre la playlist numerada sin cambiar los números). En la TV: en la app IPTV mantén presionado el canal → renombrar; o edita el nombre tras la coma del `#EXTINF` en el `.m3u`.
