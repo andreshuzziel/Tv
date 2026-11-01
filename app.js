@@ -7,7 +7,7 @@
   const norm = s => String(s || '').normalize('NFD').replace(/[\u0300-\u036f]/g, '').toLowerCase();
   // 🏳️ bandera del país de origen (campo cc = ISO 3166-1 alpha-2) → emoji regional indicator
   const flagOf = cc => /^[a-z]{2}$/i.test(cc || '')
-    ? String.fromCodePoint(...[...cc.toUpperCase()].map(ch => 0x1F1E6 + ch.charCodeAt(0) - 65))
+    ? String.fromCodePoint(...[...(cc.toUpperCase() === 'UK' ? 'GB' : cc.toUpperCase())].map(ch => 0x1F1E6 + ch.charCodeAt(0) - 65))
     : '';
   const store = {
     get: (k, d) => { try { return JSON.parse(localStorage.getItem(k)) ?? d; } catch { return d; } },

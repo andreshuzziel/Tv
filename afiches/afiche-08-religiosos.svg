@@ -4,7 +4,7 @@
 <rect x="0" y="164" width="1460" height="4" fill="#d52b1e"/>
 <text x="20" y="46" font-size="34" font-weight="700" fill="#f8fafc">⛪ Religiosos — canales 416–433</text>
 <text x="20" y="76" font-size="15" fill="#94a3b8">18 canales · TV Chile v3.112 · 01-nov-2026</text>
-<text x="20" y="102" font-size="13" fill="#64748b">Cada celda:  #número  🏳️ bandera (país)  Nombre del canal   ·   al pasar el mouse: país y temática completos</text>
+<text x="20" y="102" font-size="13" fill="#64748b">Cada canal: #número · emoji de la bandera de origen · nombre. La imagen de la bandera va incrustada para verse en cualquier dispositivo.</text>
 <text x="20" y="126" font-size="13" fill="#64748b">Rangos: 1–32 señal abierta CL · 33–52 noticias · 53–85 Biobío · 86–308 regiones · 309–317 deportes · 318–322 infantil/anime · 323–415 música · 416–433 religiosos · 434–446 cultura · 447–683 resto CL · 684–3110 español otros países</text>
 <text x="20" y="148" font-size="13" fill="#64748b">Generado 01-nov-2026 · v3.112 · lista sanitizada (https, sin TV de pago) · repo tv-chile</text>
 <rect x="20" y="168" width="1420" height="26" rx="6" fill="#a16207" opacity="0.9"/>
@@ -13,91 +13,91 @@
 <rect x="20.0" y="202" width="349.0" height="22" rx="4" fill="#121b30"/>
 <title>#416 · 🇨🇱 Chile — 15.1 BPB (Religioso)</title>
 <text x="26.0" y="218" font-size="12.5" font-weight="700" fill="#a16207" font-family="Consolas, Menlo, monospace">#416</text>
-<text x="68.0" y="218" font-size="12">🇨🇱</text>
+<image x="67.0" y="205" width="20" height="16" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEgAAABICAMAAABiM0N1AAAAY1BMVEVHcEzULSfULSfULSfu7u7u7u7ULScfQpsfQpvu7u4fQpvULSfu7u4fQpvu7u4fQpvULSf///8fQpvu7u7H0Obj5/MtTqG5xOBJZa6drNNzicGBlcc7WqiPoc3V3OxXcbTx8/kuYLR3AAAAEHRSTlMAv2AgYCDPIL/Pz++/YO/vyYUPgAAAAMZJREFUeNrt0MkOwjAMRVE3LaUTgzN2hv//SlJaCSGxQLLZFN9NdkfOA0nab6dCf8h8WZNtzLHSmgDFysPTuWgqZM6LVGk6ZMq4j+aATAYFD9SA5oHMGzS0TFDoeCCPjgfqEVsqNAZrrUN08Qmki9oZt6ynfc13qzPQN7IY6+hje1xydKjHez8hjmQozNG4OfpG0/pBKvRKoH+CrkwJJJBAAgn0eyjhcRJQPJACyDmcHADSmu7UKSxSTr4nhTWVkHZWIEm77QHK7/qVA+9M+gAAAABJRU5ErkJggg=="/>
 <text x="94.0" y="218" font-size="12" fill="#e2e8f0">15.1 BPB</text>
 <rect x="377.0" y="202" width="349.0" height="22" rx="4" fill="#121b30"/>
 <title>#417 · 🇨🇱 Chile — ADA TV (Religioso)</title>
 <text x="383.0" y="218" font-size="12.5" font-weight="700" fill="#a16207" font-family="Consolas, Menlo, monospace">#417</text>
-<text x="425.0" y="218" font-size="12">🇨🇱</text>
+<image x="424.0" y="205" width="20" height="16" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEgAAABICAMAAABiM0N1AAAAY1BMVEVHcEzULSfULSfULSfu7u7u7u7ULScfQpsfQpvu7u4fQpvULSfu7u4fQpvu7u4fQpvULSf///8fQpvu7u7H0Obj5/MtTqG5xOBJZa6drNNzicGBlcc7WqiPoc3V3OxXcbTx8/kuYLR3AAAAEHRSTlMAv2AgYCDPIL/Pz++/YO/vyYUPgAAAAMZJREFUeNrt0MkOwjAMRVE3LaUTgzN2hv//SlJaCSGxQLLZFN9NdkfOA0nab6dCf8h8WZNtzLHSmgDFysPTuWgqZM6LVGk6ZMq4j+aATAYFD9SA5oHMGzS0TFDoeCCPjgfqEVsqNAZrrUN08Qmki9oZt6ynfc13qzPQN7IY6+hje1xydKjHez8hjmQozNG4OfpG0/pBKvRKoH+CrkwJJJBAAgn0eyjhcRJQPJACyDmcHADSmu7UKSxSTr4nhTWVkHZWIEm77QHK7/qVA+9M+gAAAABJRU5ErkJggg=="/>
 <text x="451.0" y="218" font-size="12" fill="#e2e8f0">ADA TV</text>
 <rect x="734.0" y="202" width="349.0" height="22" rx="4" fill="#121b30"/>
 <title>#418 · 🇨🇱 Chile — Canal ISB (Religioso)</title>
 <text x="740.0" y="218" font-size="12.5" font-weight="700" fill="#a16207" font-family="Consolas, Menlo, monospace">#418</text>
-<text x="782.0" y="218" font-size="12">🇨🇱</text>
+<image x="781.0" y="205" width="20" height="16" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEgAAABICAMAAABiM0N1AAAAY1BMVEVHcEzULSfULSfULSfu7u7u7u7ULScfQpsfQpvu7u4fQpvULSfu7u4fQpvu7u4fQpvULSf///8fQpvu7u7H0Obj5/MtTqG5xOBJZa6drNNzicGBlcc7WqiPoc3V3OxXcbTx8/kuYLR3AAAAEHRSTlMAv2AgYCDPIL/Pz++/YO/vyYUPgAAAAMZJREFUeNrt0MkOwjAMRVE3LaUTgzN2hv//SlJaCSGxQLLZFN9NdkfOA0nab6dCf8h8WZNtzLHSmgDFysPTuWgqZM6LVGk6ZMq4j+aATAYFD9SA5oHMGzS0TFDoeCCPjgfqEVsqNAZrrUN08Qmki9oZt6ynfc13qzPQN7IY6+hje1xydKjHez8hjmQozNG4OfpG0/pBKvRKoH+CrkwJJJBAAgn0eyjhcRJQPJACyDmcHADSmu7UKSxSTr4nhTWVkHZWIEm77QHK7/qVA+9M+gAAAABJRU5ErkJggg=="/>
 <text x="808.0" y="218" font-size="12" fill="#e2e8f0">Canal ISB</text>
 <rect x="1091.0" y="202" width="349.0" height="22" rx="4" fill="#121b30"/>
 <title>#419 · 🇨🇱 Chile — Canal ISB (Iglesia San Bernardo) (Religioso)</title>
 <text x="1097.0" y="218" font-size="12.5" font-weight="700" fill="#a16207" font-family="Consolas, Menlo, monospace">#419</text>
-<text x="1139.0" y="218" font-size="12">🇨🇱</text>
+<image x="1138.0" y="205" width="20" height="16" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEgAAABICAMAAABiM0N1AAAAY1BMVEVHcEzULSfULSfULSfu7u7u7u7ULScfQpsfQpvu7u4fQpvULSfu7u4fQpvu7u4fQpvULSf///8fQpvu7u7H0Obj5/MtTqG5xOBJZa6drNNzicGBlcc7WqiPoc3V3OxXcbTx8/kuYLR3AAAAEHRSTlMAv2AgYCDPIL/Pz++/YO/vyYUPgAAAAMZJREFUeNrt0MkOwjAMRVE3LaUTgzN2hv//SlJaCSGxQLLZFN9NdkfOA0nab6dCf8h8WZNtzLHSmgDFysPTuWgqZM6LVGk6ZMq4j+aATAYFD9SA5oHMGzS0TFDoeCCPjgfqEVsqNAZrrUN08Qmki9oZt6ynfc13qzPQN7IY6+hje1xydKjHez8hjmQozNG4OfpG0/pBKvRKoH+CrkwJJJBAAgn0eyjhcRJQPJACyDmcHADSmu7UKSxSTr4nhTWVkHZWIEm77QHK7/qVA+9M+gAAAABJRU5ErkJggg=="/>
 <text x="1165.0" y="218" font-size="12" fill="#e2e8f0">Canal ISB (Iglesia San Bernardo)</text>
 <rect x="20.0" y="226" width="349.0" height="22" rx="4" fill="#0f172a"/>
 <title>#420 · 🇨🇱 Chile — Canal ISB (Iglesia San Bernardo) (Religioso)</title>
 <text x="26.0" y="242" font-size="12.5" font-weight="700" fill="#a16207" font-family="Consolas, Menlo, monospace">#420</text>
-<text x="68.0" y="242" font-size="12">🇨🇱</text>
+<image x="67.0" y="229" width="20" height="16" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEgAAABICAMAAABiM0N1AAAAY1BMVEVHcEzULSfULSfULSfu7u7u7u7ULScfQpsfQpvu7u4fQpvULSfu7u4fQpvu7u4fQpvULSf///8fQpvu7u7H0Obj5/MtTqG5xOBJZa6drNNzicGBlcc7WqiPoc3V3OxXcbTx8/kuYLR3AAAAEHRSTlMAv2AgYCDPIL/Pz++/YO/vyYUPgAAAAMZJREFUeNrt0MkOwjAMRVE3LaUTgzN2hv//SlJaCSGxQLLZFN9NdkfOA0nab6dCf8h8WZNtzLHSmgDFysPTuWgqZM6LVGk6ZMq4j+aATAYFD9SA5oHMGzS0TFDoeCCPjgfqEVsqNAZrrUN08Qmki9oZt6ynfc13qzPQN7IY6+hje1xydKjHez8hjmQozNG4OfpG0/pBKvRKoH+CrkwJJJBAAgn0eyjhcRJQPJACyDmcHADSmu7UKSxSTr4nhTWVkHZWIEm77QHK7/qVA+9M+gAAAABJRU5ErkJggg=="/>
 <text x="94.0" y="242" font-size="12" fill="#e2e8f0">Canal ISB (Iglesia San Bernardo)</text>
 <rect x="377.0" y="226" width="349.0" height="22" rx="4" fill="#0f172a"/>
 <title>#421 · 🇨🇱 Chile — Fortaleza TV (Religioso)</title>
 <text x="383.0" y="242" font-size="12.5" font-weight="700" fill="#a16207" font-family="Consolas, Menlo, monospace">#421</text>
-<text x="425.0" y="242" font-size="12">🇨🇱</text>
+<image x="424.0" y="229" width="20" height="16" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEgAAABICAMAAABiM0N1AAAAY1BMVEVHcEzULSfULSfULSfu7u7u7u7ULScfQpsfQpvu7u4fQpvULSfu7u4fQpvu7u4fQpvULSf///8fQpvu7u7H0Obj5/MtTqG5xOBJZa6drNNzicGBlcc7WqiPoc3V3OxXcbTx8/kuYLR3AAAAEHRSTlMAv2AgYCDPIL/Pz++/YO/vyYUPgAAAAMZJREFUeNrt0MkOwjAMRVE3LaUTgzN2hv//SlJaCSGxQLLZFN9NdkfOA0nab6dCf8h8WZNtzLHSmgDFysPTuWgqZM6LVGk6ZMq4j+aATAYFD9SA5oHMGzS0TFDoeCCPjgfqEVsqNAZrrUN08Qmki9oZt6ynfc13qzPQN7IY6+hje1xydKjHez8hjmQozNG4OfpG0/pBKvRKoH+CrkwJJJBAAgn0eyjhcRJQPJACyDmcHADSmu7UKSxSTr4nhTWVkHZWIEm77QHK7/qVA+9M+gAAAABJRU5ErkJggg=="/>
 <text x="451.0" y="242" font-size="12" fill="#e2e8f0">Fortaleza TV</text>
 <rect x="734.0" y="226" width="349.0" height="22" rx="4" fill="#0f172a"/>
 <title>#422 · 🇨🇱 Chile — ISA TV (Religioso)</title>
 <text x="740.0" y="242" font-size="12.5" font-weight="700" fill="#a16207" font-family="Consolas, Menlo, monospace">#422</text>
-<text x="782.0" y="242" font-size="12">🇨🇱</text>
+<image x="781.0" y="229" width="20" height="16" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEgAAABICAMAAABiM0N1AAAAY1BMVEVHcEzULSfULSfULSfu7u7u7u7ULScfQpsfQpvu7u4fQpvULSfu7u4fQpvu7u4fQpvULSf///8fQpvu7u7H0Obj5/MtTqG5xOBJZa6drNNzicGBlcc7WqiPoc3V3OxXcbTx8/kuYLR3AAAAEHRSTlMAv2AgYCDPIL/Pz++/YO/vyYUPgAAAAMZJREFUeNrt0MkOwjAMRVE3LaUTgzN2hv//SlJaCSGxQLLZFN9NdkfOA0nab6dCf8h8WZNtzLHSmgDFysPTuWgqZM6LVGk6ZMq4j+aATAYFD9SA5oHMGzS0TFDoeCCPjgfqEVsqNAZrrUN08Qmki9oZt6ynfc13qzPQN7IY6+hje1xydKjHez8hjmQozNG4OfpG0/pBKvRKoH+CrkwJJJBAAgn0eyjhcRJQPJACyDmcHADSmu7UKSxSTr4nhTWVkHZWIEm77QHK7/qVA+9M+gAAAABJRU5ErkJggg=="/>
 <text x="808.0" y="242" font-size="12" fill="#e2e8f0">ISA TV</text>
 <rect x="1091.0" y="226" width="349.0" height="22" rx="4" fill="#0f172a"/>
 <title>#423 · 🇨🇱 Chile — MTNA TV (Religioso)</title>
 <text x="1097.0" y="242" font-size="12.5" font-weight="700" fill="#a16207" font-family="Consolas, Menlo, monospace">#423</text>
-<text x="1139.0" y="242" font-size="12">🇨🇱</text>
+<image x="1138.0" y="229" width="20" height="16" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEgAAABICAMAAABiM0N1AAAAY1BMVEVHcEzULSfULSfULSfu7u7u7u7ULScfQpsfQpvu7u4fQpvULSfu7u4fQpvu7u4fQpvULSf///8fQpvu7u7H0Obj5/MtTqG5xOBJZa6drNNzicGBlcc7WqiPoc3V3OxXcbTx8/kuYLR3AAAAEHRSTlMAv2AgYCDPIL/Pz++/YO/vyYUPgAAAAMZJREFUeNrt0MkOwjAMRVE3LaUTgzN2hv//SlJaCSGxQLLZFN9NdkfOA0nab6dCf8h8WZNtzLHSmgDFysPTuWgqZM6LVGk6ZMq4j+aATAYFD9SA5oHMGzS0TFDoeCCPjgfqEVsqNAZrrUN08Qmki9oZt6ynfc13qzPQN7IY6+hje1xydKjHez8hjmQozNG4OfpG0/pBKvRKoH+CrkwJJJBAAgn0eyjhcRJQPJACyDmcHADSmu7UKSxSTr4nhTWVkHZWIEm77QHK7/qVA+9M+gAAAABJRU5ErkJggg=="/>
 <text x="1165.0" y="242" font-size="12" fill="#e2e8f0">MTNA TV</text>
 <rect x="20.0" y="250" width="349.0" height="22" rx="4" fill="#121b30"/>
 <title>#424 · 🇨🇱 Chile — Nuevo Tiempo TV (Religioso)</title>
 <text x="26.0" y="266" font-size="12.5" font-weight="700" fill="#a16207" font-family="Consolas, Menlo, monospace">#424</text>
-<text x="68.0" y="266" font-size="12">🇨🇱</text>
+<image x="67.0" y="253" width="20" height="16" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEgAAABICAMAAABiM0N1AAAAY1BMVEVHcEzULSfULSfULSfu7u7u7u7ULScfQpsfQpvu7u4fQpvULSfu7u4fQpvu7u4fQpvULSf///8fQpvu7u7H0Obj5/MtTqG5xOBJZa6drNNzicGBlcc7WqiPoc3V3OxXcbTx8/kuYLR3AAAAEHRSTlMAv2AgYCDPIL/Pz++/YO/vyYUPgAAAAMZJREFUeNrt0MkOwjAMRVE3LaUTgzN2hv//SlJaCSGxQLLZFN9NdkfOA0nab6dCf8h8WZNtzLHSmgDFysPTuWgqZM6LVGk6ZMq4j+aATAYFD9SA5oHMGzS0TFDoeCCPjgfqEVsqNAZrrUN08Qmki9oZt6ynfc13qzPQN7IY6+hje1xydKjHez8hjmQozNG4OfpG0/pBKvRKoH+CrkwJJJBAAgn0eyjhcRJQPJACyDmcHADSmu7UKSxSTr4nhTWVkHZWIEm77QHK7/qVA+9M+gAAAABJRU5ErkJggg=="/>
 <text x="94.0" y="266" font-size="12" fill="#e2e8f0">Nuevo Tiempo TV</text>
 <rect x="377.0" y="250" width="349.0" height="22" rx="4" fill="#121b30"/>
 <title>#425 · 🇨🇱 Chile — Radio Armonia TV (Religioso)</title>
 <text x="383.0" y="266" font-size="12.5" font-weight="700" fill="#a16207" font-family="Consolas, Menlo, monospace">#425</text>
-<text x="425.0" y="266" font-size="12">🇨🇱</text>
+<image x="424.0" y="253" width="20" height="16" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEgAAABICAMAAABiM0N1AAAAY1BMVEVHcEzULSfULSfULSfu7u7u7u7ULScfQpsfQpvu7u4fQpvULSfu7u4fQpvu7u4fQpvULSf///8fQpvu7u7H0Obj5/MtTqG5xOBJZa6drNNzicGBlcc7WqiPoc3V3OxXcbTx8/kuYLR3AAAAEHRSTlMAv2AgYCDPIL/Pz++/YO/vyYUPgAAAAMZJREFUeNrt0MkOwjAMRVE3LaUTgzN2hv//SlJaCSGxQLLZFN9NdkfOA0nab6dCf8h8WZNtzLHSmgDFysPTuWgqZM6LVGk6ZMq4j+aATAYFD9SA5oHMGzS0TFDoeCCPjgfqEVsqNAZrrUN08Qmki9oZt6ynfc13qzPQN7IY6+hje1xydKjHez8hjmQozNG4OfpG0/pBKvRKoH+CrkwJJJBAAgn0eyjhcRJQPJACyDmcHADSmu7UKSxSTr4nhTWVkHZWIEm77QHK7/qVA+9M+gAAAABJRU5ErkJggg=="/>
 <text x="451.0" y="266" font-size="12" fill="#e2e8f0">Radio Armonia TV</text>
 <rect x="734.0" y="250" width="349.0" height="22" rx="4" fill="#121b30"/>
 <title>#426 · 🇨🇱 Chile — Radio El Sembrador (Religioso)</title>
 <text x="740.0" y="266" font-size="12.5" font-weight="700" fill="#a16207" font-family="Consolas, Menlo, monospace">#426</text>
-<text x="782.0" y="266" font-size="12">🇨🇱</text>
+<image x="781.0" y="253" width="20" height="16" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEgAAABICAMAAABiM0N1AAAAY1BMVEVHcEzULSfULSfULSfu7u7u7u7ULScfQpsfQpvu7u4fQpvULSfu7u4fQpvu7u4fQpvULSf///8fQpvu7u7H0Obj5/MtTqG5xOBJZa6drNNzicGBlcc7WqiPoc3V3OxXcbTx8/kuYLR3AAAAEHRSTlMAv2AgYCDPIL/Pz++/YO/vyYUPgAAAAMZJREFUeNrt0MkOwjAMRVE3LaUTgzN2hv//SlJaCSGxQLLZFN9NdkfOA0nab6dCf8h8WZNtzLHSmgDFysPTuWgqZM6LVGk6ZMq4j+aATAYFD9SA5oHMGzS0TFDoeCCPjgfqEVsqNAZrrUN08Qmki9oZt6ynfc13qzPQN7IY6+hje1xydKjHez8hjmQozNG4OfpG0/pBKvRKoH+CrkwJJJBAAgn0eyjhcRJQPJACyDmcHADSmu7UKSxSTr4nhTWVkHZWIEm77QHK7/qVA+9M+gAAAABJRU5ErkJggg=="/>
 <text x="808.0" y="266" font-size="12" fill="#e2e8f0">Radio El Sembrador</text>
 <rect x="1091.0" y="250" width="349.0" height="22" rx="4" fill="#121b30"/>
 <title>#427 · 🇨🇱 Chile — Televida (Chile) (Religioso)</title>
 <text x="1097.0" y="266" font-size="12.5" font-weight="700" fill="#a16207" font-family="Consolas, Menlo, monospace">#427</text>
-<text x="1139.0" y="266" font-size="12">🇨🇱</text>
+<image x="1138.0" y="253" width="20" height="16" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEgAAABICAMAAABiM0N1AAAAY1BMVEVHcEzULSfULSfULSfu7u7u7u7ULScfQpsfQpvu7u4fQpvULSfu7u4fQpvu7u4fQpvULSf///8fQpvu7u7H0Obj5/MtTqG5xOBJZa6drNNzicGBlcc7WqiPoc3V3OxXcbTx8/kuYLR3AAAAEHRSTlMAv2AgYCDPIL/Pz++/YO/vyYUPgAAAAMZJREFUeNrt0MkOwjAMRVE3LaUTgzN2hv//SlJaCSGxQLLZFN9NdkfOA0nab6dCf8h8WZNtzLHSmgDFysPTuWgqZM6LVGk6ZMq4j+aATAYFD9SA5oHMGzS0TFDoeCCPjgfqEVsqNAZrrUN08Qmki9oZt6ynfc13qzPQN7IY6+hje1xydKjHez8hjmQozNG4OfpG0/pBKvRKoH+CrkwJJJBAAgn0eyjhcRJQPJACyDmcHADSmu7UKSxSTr4nhTWVkHZWIEm77QHK7/qVA+9M+gAAAABJRU5ErkJggg=="/>
 <text x="1165.0" y="266" font-size="12" fill="#e2e8f0">Televida (Chile)</text>
 <rect x="20.0" y="274" width="349.0" height="22" rx="4" fill="#0f172a"/>
 <title>#428 · 🇨🇱 Chile — TNE (Religioso)</title>
 <text x="26.0" y="290" font-size="12.5" font-weight="700" fill="#a16207" font-family="Consolas, Menlo, monospace">#428</text>
-<text x="68.0" y="290" font-size="12">🇨🇱</text>
+<image x="67.0" y="277" width="20" height="16" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEgAAABICAMAAABiM0N1AAAAY1BMVEVHcEzULSfULSfULSfu7u7u7u7ULScfQpsfQpvu7u4fQpvULSfu7u4fQpvu7u4fQpvULSf///8fQpvu7u7H0Obj5/MtTqG5xOBJZa6drNNzicGBlcc7WqiPoc3V3OxXcbTx8/kuYLR3AAAAEHRSTlMAv2AgYCDPIL/Pz++/YO/vyYUPgAAAAMZJREFUeNrt0MkOwjAMRVE3LaUTgzN2hv//SlJaCSGxQLLZFN9NdkfOA0nab6dCf8h8WZNtzLHSmgDFysPTuWgqZM6LVGk6ZMq4j+aATAYFD9SA5oHMGzS0TFDoeCCPjgfqEVsqNAZrrUN08Qmki9oZt6ynfc13qzPQN7IY6+hje1xydKjHez8hjmQozNG4OfpG0/pBKvRKoH+CrkwJJJBAAgn0eyjhcRJQPJACyDmcHADSmu7UKSxSTr4nhTWVkHZWIEm77QHK7/qVA+9M+gAAAABJRU5ErkJggg=="/>
 <text x="94.0" y="290" font-size="12" fill="#e2e8f0">TNE</text>
 <rect x="377.0" y="274" width="349.0" height="22" rx="4" fill="#0f172a"/>
 <title>#429 · 🇨🇱 Chile — Vida Nueva TV (Religioso)</title>
 <text x="383.0" y="290" font-size="12.5" font-weight="700" fill="#a16207" font-family="Consolas, Menlo, monospace">#429</text>
-<text x="425.0" y="290" font-size="12">🇨🇱</text>
+<image x="424.0" y="277" width="20" height="16" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEgAAABICAMAAABiM0N1AAAAY1BMVEVHcEzULSfULSfULSfu7u7u7u7ULScfQpsfQpvu7u4fQpvULSfu7u4fQpvu7u4fQpvULSf///8fQpvu7u7H0Obj5/MtTqG5xOBJZa6drNNzicGBlcc7WqiPoc3V3OxXcbTx8/kuYLR3AAAAEHRSTlMAv2AgYCDPIL/Pz++/YO/vyYUPgAAAAMZJREFUeNrt0MkOwjAMRVE3LaUTgzN2hv//SlJaCSGxQLLZFN9NdkfOA0nab6dCf8h8WZNtzLHSmgDFysPTuWgqZM6LVGk6ZMq4j+aATAYFD9SA5oHMGzS0TFDoeCCPjgfqEVsqNAZrrUN08Qmki9oZt6ynfc13qzPQN7IY6+hje1xydKjHez8hjmQozNG4OfpG0/pBKvRKoH+CrkwJJJBAAgn0eyjhcRJQPJACyDmcHADSmu7UKSxSTr4nhTWVkHZWIEm77QHK7/qVA+9M+gAAAABJRU5ErkJggg=="/>
 <text x="451.0" y="290" font-size="12" fill="#e2e8f0">Vida Nueva TV</text>
 <rect x="734.0" y="274" width="349.0" height="22" rx="4" fill="#0f172a"/>
 <title>#430 · 🇨🇱 Chile — ADA TV (Religiosos)</title>
 <text x="740.0" y="290" font-size="12.5" font-weight="700" fill="#a16207" font-family="Consolas, Menlo, monospace">#430</text>
-<text x="782.0" y="290" font-size="12">🇨🇱</text>
+<image x="781.0" y="277" width="20" height="16" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEgAAABICAMAAABiM0N1AAAAY1BMVEVHcEzULSfULSfULSfu7u7u7u7ULScfQpsfQpvu7u4fQpvULSfu7u4fQpvu7u4fQpvULSf///8fQpvu7u7H0Obj5/MtTqG5xOBJZa6drNNzicGBlcc7WqiPoc3V3OxXcbTx8/kuYLR3AAAAEHRSTlMAv2AgYCDPIL/Pz++/YO/vyYUPgAAAAMZJREFUeNrt0MkOwjAMRVE3LaUTgzN2hv//SlJaCSGxQLLZFN9NdkfOA0nab6dCf8h8WZNtzLHSmgDFysPTuWgqZM6LVGk6ZMq4j+aATAYFD9SA5oHMGzS0TFDoeCCPjgfqEVsqNAZrrUN08Qmki9oZt6ynfc13qzPQN7IY6+hje1xydKjHez8hjmQozNG4OfpG0/pBKvRKoH+CrkwJJJBAAgn0eyjhcRJQPJACyDmcHADSmu7UKSxSTr4nhTWVkHZWIEm77QHK7/qVA+9M+gAAAABJRU5ErkJggg=="/>
 <text x="808.0" y="290" font-size="12" fill="#e2e8f0">ADA TV</text>
 <rect x="1091.0" y="274" width="349.0" height="22" rx="4" fill="#0f172a"/>
 <title>#431 · 🇨🇱 Chile — Cristo Razon De Vivir (Religiosos)</title>
 <text x="1097.0" y="290" font-size="12.5" font-weight="700" fill="#a16207" font-family="Consolas, Menlo, monospace">#431</text>
-<text x="1139.0" y="290" font-size="12">🇨🇱</text>
+<image x="1138.0" y="277" width="20" height="16" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEgAAABICAMAAABiM0N1AAAAY1BMVEVHcEzULSfULSfULSfu7u7u7u7ULScfQpsfQpvu7u4fQpvULSfu7u4fQpvu7u4fQpvULSf///8fQpvu7u7H0Obj5/MtTqG5xOBJZa6drNNzicGBlcc7WqiPoc3V3OxXcbTx8/kuYLR3AAAAEHRSTlMAv2AgYCDPIL/Pz++/YO/vyYUPgAAAAMZJREFUeNrt0MkOwjAMRVE3LaUTgzN2hv//SlJaCSGxQLLZFN9NdkfOA0nab6dCf8h8WZNtzLHSmgDFysPTuWgqZM6LVGk6ZMq4j+aATAYFD9SA5oHMGzS0TFDoeCCPjgfqEVsqNAZrrUN08Qmki9oZt6ynfc13qzPQN7IY6+hje1xydKjHez8hjmQozNG4OfpG0/pBKvRKoH+CrkwJJJBAAgn0eyjhcRJQPJACyDmcHADSmu7UKSxSTr4nhTWVkHZWIEm77QHK7/qVA+9M+gAAAABJRU5ErkJggg=="/>
 <text x="1165.0" y="290" font-size="12" fill="#e2e8f0">Cristo Razon De Vivir</text>
 <rect x="20.0" y="298" width="349.0" height="22" rx="4" fill="#121b30"/>
 <title>#432 · 🇨🇱 Chile — Restaurando Vidas TV (Religiosos)</title>
 <text x="26.0" y="314" font-size="12.5" font-weight="700" fill="#a16207" font-family="Consolas, Menlo, monospace">#432</text>
-<text x="68.0" y="314" font-size="12">🇨🇱</text>
+<image x="67.0" y="301" width="20" height="16" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEgAAABICAMAAABiM0N1AAAAY1BMVEVHcEzULSfULSfULSfu7u7u7u7ULScfQpsfQpvu7u4fQpvULSfu7u4fQpvu7u4fQpvULSf///8fQpvu7u7H0Obj5/MtTqG5xOBJZa6drNNzicGBlcc7WqiPoc3V3OxXcbTx8/kuYLR3AAAAEHRSTlMAv2AgYCDPIL/Pz++/YO/vyYUPgAAAAMZJREFUeNrt0MkOwjAMRVE3LaUTgzN2hv//SlJaCSGxQLLZFN9NdkfOA0nab6dCf8h8WZNtzLHSmgDFysPTuWgqZM6LVGk6ZMq4j+aATAYFD9SA5oHMGzS0TFDoeCCPjgfqEVsqNAZrrUN08Qmki9oZt6ynfc13qzPQN7IY6+hje1xydKjHez8hjmQozNG4OfpG0/pBKvRKoH+CrkwJJJBAAgn0eyjhcRJQPJACyDmcHADSmu7UKSxSTr4nhTWVkHZWIEm77QHK7/qVA+9M+gAAAABJRU5ErkJggg=="/>
 <text x="94.0" y="314" font-size="12" fill="#e2e8f0">Restaurando Vidas TV</text>
 <rect x="377.0" y="298" width="349.0" height="22" rx="4" fill="#121b30"/>
 <title>#433 · 🇨🇱 Chile — Tv Catedral de la Florida (Religiosos)</title>
 <text x="383.0" y="314" font-size="12.5" font-weight="700" fill="#a16207" font-family="Consolas, Menlo, monospace">#433</text>
-<text x="425.0" y="314" font-size="12">🇨🇱</text>
+<image x="424.0" y="301" width="20" height="16" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEgAAABICAMAAABiM0N1AAAAY1BMVEVHcEzULSfULSfULSfu7u7u7u7ULScfQpsfQpvu7u4fQpvULSfu7u4fQpvu7u4fQpvULSf///8fQpvu7u7H0Obj5/MtTqG5xOBJZa6drNNzicGBlcc7WqiPoc3V3OxXcbTx8/kuYLR3AAAAEHRSTlMAv2AgYCDPIL/Pz++/YO/vyYUPgAAAAMZJREFUeNrt0MkOwjAMRVE3LaUTgzN2hv//SlJaCSGxQLLZFN9NdkfOA0nab6dCf8h8WZNtzLHSmgDFysPTuWgqZM6LVGk6ZMq4j+aATAYFD9SA5oHMGzS0TFDoeCCPjgfqEVsqNAZrrUN08Qmki9oZt6ynfc13qzPQN7IY6+hje1xydKjHez8hjmQozNG4OfpG0/pBKvRKoH+CrkwJJJBAAgn0eyjhcRJQPJACyDmcHADSmu7UKSxSTr4nhTWVkHZWIEm77QHK7/qVA+9M+gAAAABJRU5ErkJggg=="/>
 <text x="451.0" y="314" font-size="12" fill="#e2e8f0">Tv Catedral de la Florida</text>
 </svg>

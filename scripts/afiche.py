@@ -1,12 +1,45 @@
 #!/usr/bin/env python3
 """afiche.py — genera el afiche (imagen) con TODOS los canales: número + bandera + nombre.
 Salida: AFICHE-CANALES.svg (vectorial, todos) + afiches/afiche-XX-seccion.svg (por bloque)
-        AFICHE-CANALES.png (raster, con chip de código de país en vez de emoji)
-Uso: python3 scripts/afiche.py   (lee /tmp/poster.json generado desde data/channels.js)
+        AFICHE-CANALES.png (raster, banderas emoji a color para cada canal)
+Uso: python3 scripts/afiche.py  (lee data/channels.js y usa assets/flags; descarga iconos faltantes)
 """
-import json, os, html
+import json, os, html, base64, io, subprocess, urllib.request
+from pathlib import Path
 
-rows = json.load(open('/tmp/poster.json'))
+# Lee siempre los datos actuales del catálogo, sin depender de archivos efímeros en /tmp.
+project = Path(__file__).resolve().parent.parent
+os.chdir(project)
+js = """global.window={};eval(require('fs').readFileSync('data/channels.js','utf8'));eval(require('fs').readFileSync('data/paises.js','utf8'));
+const cs=window.CHANNELS.map(c=>({chno:c.chno||null,id:c.id,cc:(c.cc||'').toUpperCase(),pais:window.PAISES[(c.cc||'').toLowerCase()]||'',name:c.name,group:c.group,url:!!c.url}));
+console.log(JSON.stringify(cs.sort((a,b)=>(a.chno||99999)-(b.chno||99999))));"""
+rows = json.loads(subprocess.check_output(['node', '-e', js], text=True))
+# Alias heredado del catálogo: UK no es un código ISO de bandera, GB sí.
+def emoji(cc):
+    cc = 'GB' if cc == 'UK' else cc
+    return ''.join(chr(0x1F1E6 + ord(c) - 65) for c in cc) if len(cc)==2 and cc.isalpha() else ''
+for r in rows:
+    r['flag'] = emoji(r['cc'])
+
+# Imágenes oficiales Twemoji 72x72, licencia CC BY 4.0; se guardan localmente y
+# se incrustan en los SVG para que las banderas se vean incluso sin fuentes emoji.
+FLAGS = Path('assets/flags'); FLAGS.mkdir(parents=True, exist_ok=True)
+for cc in sorted({r['cc'] for r in rows}):
+    target = FLAGS / (cc.lower() + '.png')
+    if not target.exists():
+        seq = '-'.join(f'{ord(c):x}' for c in emoji(cc))
+        url = f'https://raw.githubusercontent.com/jdecked/twemoji/main/assets/72x72/{seq}.png'
+        req = urllib.request.Request(url, headers={'User-Agent': 'TV-Chile-Poster/1.0'})
+        try:
+            with urllib.request.urlopen(req, timeout=15) as response:
+                blob = response.read()
+                if response.status != 200 or response.headers.get('content-type','').split(';')[0] != 'image/png' or not blob.startswith(b'\x89PNG\r\n\x1a\n') or len(blob)>100_000:
+                    raise ValueError('No se recibió PNG válido')
+                target.write_bytes(blob)
+        except Exception as exc:
+            raise RuntimeError(f'No se puede generar el afiche sin bandera {cc}: {exc}') from exc
+FLAG_URI = {cc: 'data:image/png;base64,'+base64.b64encode((FLAGS/(cc.lower()+'.png')).read_bytes()).decode('ascii') for cc in {r['cc'] for r in rows}}
+
 SECTIONS = [
     (1, 32, '📺 Señal abierta nacional', '#d52b1e'),
     (33, 52, '📰 Noticias de Chile', '#2563eb'),
@@ -56,7 +89,7 @@ def svg_doc(title, subtitle, items, fname):
     out.append(f'<rect x="0" y="{head_h-4}" width="{W}" height="4" fill="#d52b1e"/>')
     out.append(f'<text x="{M}" y="46" font-size="34" font-weight="700" fill="#f8fafc">{esc(title)}</text>')
     out.append(f'<text x="{M}" y="76" font-size="15" fill="#94a3b8">{esc(subtitle)}</text>')
-    out.append(f'<text x="{M}" y="102" font-size="13" fill="#64748b">Cada celda:  #número  🏳️ bandera (país)  Nombre del canal   ·   al pasar el mouse: país y temática completos</text>')
+    out.append(f'<text x="{M}" y="102" font-size="13" fill="#64748b">Cada canal: #número · emoji de la bandera de origen · nombre. La imagen de la bandera va incrustada para verse en cualquier dispositivo.</text>')
     out.append(f'<text x="{M}" y="126" font-size="13" fill="#64748b">Rangos: 1–32 señal abierta CL · 33–52 noticias · 53–85 Biobío · 86–308 regiones · 309–317 deportes · 318–322 infantil/anime · 323–415 música · 416–433 religiosos · 434–446 cultura · 447–683 resto CL · 684–3110 español otros países</text>')
     out.append(f'<text x="{M}" y="148" font-size="13" fill="#64748b">Generado 01-nov-2026 · v3.112 · lista sanitizada (https, sin TV de pago) · repo tv-chile</text>')
     y = head_h
@@ -76,7 +109,7 @@ def svg_doc(title, subtitle, items, fname):
             tip = f'{num} · {r["flag"]} {r["pais"] or r["cc"]} — {r["name"]} ({r["group"]})'
             out.append(f'<title>{esc(tip)}</title>')
             out.append(f'<text x="{cx+6}" y="{cy+16}" font-size="12.5" font-weight="700" fill="{color}" font-family="Consolas, Menlo, monospace">{esc(num)}</text>')
-            out.append(f'<text x="{cx+48}" y="{cy+16}" font-size="12">{esc(r["flag"])}</text>')
+            out.append(f'<image x="{cx+47}" y="{cy+3}" width="20" height="16" href="{FLAG_URI[r["cc"]]}"/>')
             out.append(f'<text x="{cx+74}" y="{cy+16}" font-size="12" fill="#e2e8f0">{esc(trunc(r["name"]))}</text>')
         y += ((len(grp) + COLS - 1) // COLS) * PITCH + 6
     out.append('</svg>')
@@ -100,17 +133,18 @@ while i < len(rows):
     i += len(grp)
 print('afiches por sección:', k)
 
-# PNG raster (chip con código de país, sin depender de fuente emoji)
+# PNG raster: banderas emoji Twemoji a color, incrustadas en cada canal
 try:
     from PIL import Image, ImageDraw, ImageFont
     fp = '/usr/share/fonts/truetype/dejavu/DejaVuSans.ttf'
     fpB = '/usr/share/fonts/truetype/dejavu/DejaVuSans-Bold.ttf'
     f_num = ImageFont.truetype(fpB, 13); f_txt = ImageFont.truetype(fp, 12); f_head = ImageFont.truetype(fpB, 30); f_sub = ImageFont.truetype(fp, 13)
+    flag_images = {cc: Image.open(FLAGS/(cc.lower()+'.png')).convert('RGBA').resize((22, 18), Image.Resampling.LANCZOS) for cc in FLAG_URI}
     PW, PH = W, h
     img = Image.new('RGB', (PW, PH), '#0b1220'); d = ImageDraw.Draw(img)
     d.rectangle([0, 0, PW, 160], fill='#111a2e'); d.rectangle([0, 156, PW, 160], fill='#d52b1e')
     d.text((M, 18), 'TV CHILE — AFICHE DE TODOS LOS CANALES', font=f_head, fill='#f8fafc')
-    d.text((M, 62), f'{n_all} canales numerados · Chile primero · v3.112 · 01-nov-2026 · celda: #núm [PAÍS] Nombre', font=f_sub, fill='#94a3b8')
+    d.text((M, 62), f'{n_all} canales numerados · Chile primero · v3.112 · 01-nov-2026 · celda: #núm [bandera] Nombre', font=f_sub, fill='#94a3b8')
     y = 168
     i = 0
     while i < len(rows):
@@ -126,10 +160,9 @@ try:
             d.rectangle([cx, cy, cx + COLW, cy + CH], fill='#121b30' if (idx // COLS) % 2 == 0 else '#0f172a')
             num = f'#{r["chno"]}' if r['chno'] else 'web'
             d.text((cx + 6, cy + 4), num, font=f_num, fill=rgb)
-            # chip de país (2 letras) en vez de emoji
-            cc = r['cc'] or '??'
-            d.rounded_rectangle([cx + 46, cy + 4, cx + 68, cy + 18], radius=3, fill=rgb)
-            d.text((cx + 50, cy + 5), cc, font=f_txt, fill='#ffffff')
+            # Emoji de la bandera como imagen raster, sin depender de fuentes del dispositivo.
+            flag = flag_images[r['cc']]
+            img.paste(flag, (int(cx + 46), int(cy + 2)), flag)
             d.text((cx + 74, cy + 4), trunc(r['name']), font=f_txt, fill='#e2e8f0')
         y += ((len(grp) + COLS - 1) // COLS) * PITCH + 6
         i += len(grp)

@@ -4,7 +4,7 @@
 <rect x="0" y="164" width="1460" height="4" fill="#d52b1e"/>
 <text x="20" y="46" font-size="34" font-weight="700" fill="#f8fafc">🎵 Música y radios — canales 323–415</text>
 <text x="20" y="76" font-size="15" fill="#94a3b8">93 canales · TV Chile v3.112 · 01-nov-2026</text>
-<text x="20" y="102" font-size="13" fill="#64748b">Cada celda:  #número  🏳️ bandera (país)  Nombre del canal   ·   al pasar el mouse: país y temática completos</text>
+<text x="20" y="102" font-size="13" fill="#64748b">Cada canal: #número · emoji de la bandera de origen · nombre. La imagen de la bandera va incrustada para verse en cualquier dispositivo.</text>
 <text x="20" y="126" font-size="13" fill="#64748b">Rangos: 1–32 señal abierta CL · 33–52 noticias · 53–85 Biobío · 86–308 regiones · 309–317 deportes · 318–322 infantil/anime · 323–415 música · 416–433 religiosos · 434–446 cultura · 447–683 resto CL · 684–3110 español otros países</text>
 <text x="20" y="148" font-size="13" fill="#64748b">Generado 01-nov-2026 · v3.112 · lista sanitizada (https, sin TV de pago) · repo tv-chile</text>
 <rect x="20" y="168" width="1420" height="26" rx="6" fill="#9333ea" opacity="0.9"/>
@@ -13,466 +13,466 @@
 <rect x="20.0" y="202" width="349.0" height="22" rx="4" fill="#121b30"/>
 <title>#323 · 🇨🇱 Chile — AE Radio TV (Música)</title>
 <text x="26.0" y="218" font-size="12.5" font-weight="700" fill="#9333ea" font-family="Consolas, Menlo, monospace">#323</text>
-<text x="68.0" y="218" font-size="12">🇨🇱</text>
+<image x="67.0" y="205" width="20" height="16" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEgAAABICAMAAABiM0N1AAAAY1BMVEVHcEzULSfULSfULSfu7u7u7u7ULScfQpsfQpvu7u4fQpvULSfu7u4fQpvu7u4fQpvULSf///8fQpvu7u7H0Obj5/MtTqG5xOBJZa6drNNzicGBlcc7WqiPoc3V3OxXcbTx8/kuYLR3AAAAEHRSTlMAv2AgYCDPIL/Pz++/YO/vyYUPgAAAAMZJREFUeNrt0MkOwjAMRVE3LaUTgzN2hv//SlJaCSGxQLLZFN9NdkfOA0nab6dCf8h8WZNtzLHSmgDFysPTuWgqZM6LVGk6ZMq4j+aATAYFD9SA5oHMGzS0TFDoeCCPjgfqEVsqNAZrrUN08Qmki9oZt6ynfc13qzPQN7IY6+hje1xydKjHez8hjmQozNG4OfpG0/pBKvRKoH+CrkwJJJBAAgn0eyjhcRJQPJACyDmcHADSmu7UKSxSTr4nhTWVkHZWIEm77QHK7/qVA+9M+gAAAABJRU5ErkJggg=="/>
 <text x="94.0" y="218" font-size="12" fill="#e2e8f0">AE Radio TV</text>
 <rect x="377.0" y="202" width="349.0" height="22" rx="4" fill="#121b30"/>
 <title>#324 · 🇨🇱 Chile — AGRICULTURA TV (Música)</title>
 <text x="383.0" y="218" font-size="12.5" font-weight="700" fill="#9333ea" font-family="Consolas, Menlo, monospace">#324</text>
-<text x="425.0" y="218" font-size="12">🇨🇱</text>
+<image x="424.0" y="205" width="20" height="16" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEgAAABICAMAAABiM0N1AAAAY1BMVEVHcEzULSfULSfULSfu7u7u7u7ULScfQpsfQpvu7u4fQpvULSfu7u4fQpvu7u4fQpvULSf///8fQpvu7u7H0Obj5/MtTqG5xOBJZa6drNNzicGBlcc7WqiPoc3V3OxXcbTx8/kuYLR3AAAAEHRSTlMAv2AgYCDPIL/Pz++/YO/vyYUPgAAAAMZJREFUeNrt0MkOwjAMRVE3LaUTgzN2hv//SlJaCSGxQLLZFN9NdkfOA0nab6dCf8h8WZNtzLHSmgDFysPTuWgqZM6LVGk6ZMq4j+aATAYFD9SA5oHMGzS0TFDoeCCPjgfqEVsqNAZrrUN08Qmki9oZt6ynfc13qzPQN7IY6+hje1xydKjHez8hjmQozNG4OfpG0/pBKvRKoH+CrkwJJJBAAgn0eyjhcRJQPJACyDmcHADSmu7UKSxSTr4nhTWVkHZWIEm77QHK7/qVA+9M+gAAAABJRU5ErkJggg=="/>
 <text x="451.0" y="218" font-size="12" fill="#e2e8f0">AGRICULTURA TV</text>
 <rect x="734.0" y="202" width="349.0" height="22" rx="4" fill="#121b30"/>
 <title>#325 · 🇨🇱 Chile — Carolina TV (Música)</title>
 <text x="740.0" y="218" font-size="12.5" font-weight="700" fill="#9333ea" font-family="Consolas, Menlo, monospace">#325</text>
-<text x="782.0" y="218" font-size="12">🇨🇱</text>
+<image x="781.0" y="205" width="20" height="16" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEgAAABICAMAAABiM0N1AAAAY1BMVEVHcEzULSfULSfULSfu7u7u7u7ULScfQpsfQpvu7u4fQpvULSfu7u4fQpvu7u4fQpvULSf///8fQpvu7u7H0Obj5/MtTqG5xOBJZa6drNNzicGBlcc7WqiPoc3V3OxXcbTx8/kuYLR3AAAAEHRSTlMAv2AgYCDPIL/Pz++/YO/vyYUPgAAAAMZJREFUeNrt0MkOwjAMRVE3LaUTgzN2hv//SlJaCSGxQLLZFN9NdkfOA0nab6dCf8h8WZNtzLHSmgDFysPTuWgqZM6LVGk6ZMq4j+aATAYFD9SA5oHMGzS0TFDoeCCPjgfqEVsqNAZrrUN08Qmki9oZt6ynfc13qzPQN7IY6+hje1xydKjHez8hjmQozNG4OfpG0/pBKvRKoH+CrkwJJJBAAgn0eyjhcRJQPJACyDmcHADSmu7UKSxSTr4nhTWVkHZWIEm77QHK7/qVA+9M+gAAAABJRU5ErkJggg=="/>
 <text x="808.0" y="218" font-size="12" fill="#e2e8f0">Carolina TV</text>
 <rect x="1091.0" y="202" width="349.0" height="22" rx="4" fill="#121b30"/>
 <title>#326 · 🇨🇱 Chile — Carolina TV 2 (Música)</title>
 <text x="1097.0" y="218" font-size="12.5" font-weight="700" fill="#9333ea" font-family="Consolas, Menlo, monospace">#326</text>
-<text x="1139.0" y="218" font-size="12">🇨🇱</text>
+<image x="1138.0" y="205" width="20" height="16" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEgAAABICAMAAABiM0N1AAAAY1BMVEVHcEzULSfULSfULSfu7u7u7u7ULScfQpsfQpvu7u4fQpvULSfu7u4fQpvu7u4fQpvULSf///8fQpvu7u7H0Obj5/MtTqG5xOBJZa6drNNzicGBlcc7WqiPoc3V3OxXcbTx8/kuYLR3AAAAEHRSTlMAv2AgYCDPIL/Pz++/YO/vyYUPgAAAAMZJREFUeNrt0MkOwjAMRVE3LaUTgzN2hv//SlJaCSGxQLLZFN9NdkfOA0nab6dCf8h8WZNtzLHSmgDFysPTuWgqZM6LVGk6ZMq4j+aATAYFD9SA5oHMGzS0TFDoeCCPjgfqEVsqNAZrrUN08Qmki9oZt6ynfc13qzPQN7IY6+hje1xydKjHez8hjmQozNG4OfpG0/pBKvRKoH+CrkwJJJBAAgn0eyjhcRJQPJACyDmcHADSmu7UKSxSTr4nhTWVkHZWIEm77QHK7/qVA+9M+gAAAABJRU5ErkJggg=="/>
 <text x="1165.0" y="218" font-size="12" fill="#e2e8f0">Carolina TV 2</text>
 <rect x="20.0" y="226" width="349.0" height="22" rx="4" fill="#0f172a"/>
 <title>#327 · 🇨🇱 Chile — Chocolate FM (Música)</title>
 <text x="26.0" y="242" font-size="12.5" font-weight="700" fill="#9333ea" font-family="Consolas, Menlo, monospace">#327</text>
-<text x="68.0" y="242" font-size="12">🇨🇱</text>
+<image x="67.0" y="229" width="20" height="16" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEgAAABICAMAAABiM0N1AAAAY1BMVEVHcEzULSfULSfULSfu7u7u7u7ULScfQpsfQpvu7u4fQpvULSfu7u4fQpvu7u4fQpvULSf///8fQpvu7u7H0Obj5/MtTqG5xOBJZa6drNNzicGBlcc7WqiPoc3V3OxXcbTx8/kuYLR3AAAAEHRSTlMAv2AgYCDPIL/Pz++/YO/vyYUPgAAAAMZJREFUeNrt0MkOwjAMRVE3LaUTgzN2hv//SlJaCSGxQLLZFN9NdkfOA0nab6dCf8h8WZNtzLHSmgDFysPTuWgqZM6LVGk6ZMq4j+aATAYFD9SA5oHMGzS0TFDoeCCPjgfqEVsqNAZrrUN08Qmki9oZt6ynfc13qzPQN7IY6+hje1xydKjHez8hjmQozNG4OfpG0/pBKvRKoH+CrkwJJJBAAgn0eyjhcRJQPJACyDmcHADSmu7UKSxSTr4nhTWVkHZWIEm77QHK7/qVA+9M+gAAAABJRU5ErkJggg=="/>
 <text x="94.0" y="242" font-size="12" fill="#e2e8f0">Chocolate FM</text>
 <rect x="377.0" y="226" width="349.0" height="22" rx="4" fill="#0f172a"/>
 <title>#328 · 🇨🇱 Chile — Dance FM (Música)</title>
 <text x="383.0" y="242" font-size="12.5" font-weight="700" fill="#9333ea" font-family="Consolas, Menlo, monospace">#328</text>
-<text x="425.0" y="242" font-size="12">🇨🇱</text>
+<image x="424.0" y="229" width="20" height="16" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEgAAABICAMAAABiM0N1AAAAY1BMVEVHcEzULSfULSfULSfu7u7u7u7ULScfQpsfQpvu7u4fQpvULSfu7u4fQpvu7u4fQpvULSf///8fQpvu7u7H0Obj5/MtTqG5xOBJZa6drNNzicGBlcc7WqiPoc3V3OxXcbTx8/kuYLR3AAAAEHRSTlMAv2AgYCDPIL/Pz++/YO/vyYUPgAAAAMZJREFUeNrt0MkOwjAMRVE3LaUTgzN2hv//SlJaCSGxQLLZFN9NdkfOA0nab6dCf8h8WZNtzLHSmgDFysPTuWgqZM6LVGk6ZMq4j+aATAYFD9SA5oHMGzS0TFDoeCCPjgfqEVsqNAZrrUN08Qmki9oZt6ynfc13qzPQN7IY6+hje1xydKjHez8hjmQozNG4OfpG0/pBKvRKoH+CrkwJJJBAAgn0eyjhcRJQPJACyDmcHADSmu7UKSxSTr4nhTWVkHZWIEm77QHK7/qVA+9M+gAAAABJRU5ErkJggg=="/>
 <text x="451.0" y="242" font-size="12" fill="#e2e8f0">Dance FM</text>
 <rect x="734.0" y="226" width="349.0" height="22" rx="4" fill="#0f172a"/>
 <title>#329 · 🇨🇱 Chile — DJ Loncho TV (Música)</title>
 <text x="740.0" y="242" font-size="12.5" font-weight="700" fill="#9333ea" font-family="Consolas, Menlo, monospace">#329</text>
-<text x="782.0" y="242" font-size="12">🇨🇱</text>
+<image x="781.0" y="229" width="20" height="16" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEgAAABICAMAAABiM0N1AAAAY1BMVEVHcEzULSfULSfULSfu7u7u7u7ULScfQpsfQpvu7u4fQpvULSfu7u4fQpvu7u4fQpvULSf///8fQpvu7u7H0Obj5/MtTqG5xOBJZa6drNNzicGBlcc7WqiPoc3V3OxXcbTx8/kuYLR3AAAAEHRSTlMAv2AgYCDPIL/Pz++/YO/vyYUPgAAAAMZJREFUeNrt0MkOwjAMRVE3LaUTgzN2hv//SlJaCSGxQLLZFN9NdkfOA0nab6dCf8h8WZNtzLHSmgDFysPTuWgqZM6LVGk6ZMq4j+aATAYFD9SA5oHMGzS0TFDoeCCPjgfqEVsqNAZrrUN08Qmki9oZt6ynfc13qzPQN7IY6+hje1xydKjHez8hjmQozNG4OfpG0/pBKvRKoH+CrkwJJJBAAgn0eyjhcRJQPJACyDmcHADSmu7UKSxSTr4nhTWVkHZWIEm77QHK7/qVA+9M+gAAAABJRU5ErkJggg=="/>
 <text x="808.0" y="242" font-size="12" fill="#e2e8f0">DJ Loncho TV</text>
 <rect x="1091.0" y="226" width="349.0" height="22" rx="4" fill="#0f172a"/>
 <title>#330 · 🇨🇱 Chile — El Galpon 80 (Música)</title>
 <text x="1097.0" y="242" font-size="12.5" font-weight="700" fill="#9333ea" font-family="Consolas, Menlo, monospace">#330</text>
-<text x="1139.0" y="242" font-size="12">🇨🇱</text>
+<image x="1138.0" y="229" width="20" height="16" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEgAAABICAMAAABiM0N1AAAAY1BMVEVHcEzULSfULSfULSfu7u7u7u7ULScfQpsfQpvu7u4fQpvULSfu7u4fQpvu7u4fQpvULSf///8fQpvu7u7H0Obj5/MtTqG5xOBJZa6drNNzicGBlcc7WqiPoc3V3OxXcbTx8/kuYLR3AAAAEHRSTlMAv2AgYCDPIL/Pz++/YO/vyYUPgAAAAMZJREFUeNrt0MkOwjAMRVE3LaUTgzN2hv//SlJaCSGxQLLZFN9NdkfOA0nab6dCf8h8WZNtzLHSmgDFysPTuWgqZM6LVGk6ZMq4j+aATAYFD9SA5oHMGzS0TFDoeCCPjgfqEVsqNAZrrUN08Qmki9oZt6ynfc13qzPQN7IY6+hje1xydKjHez8hjmQozNG4OfpG0/pBKvRKoH+CrkwJJJBAAgn0eyjhcRJQPJACyDmcHADSmu7UKSxSTr4nhTWVkHZWIEm77QHK7/qVA+9M+gAAAABJRU5ErkJggg=="/>
 <text x="1165.0" y="242" font-size="12" fill="#e2e8f0">El Galpon 80</text>
 <rect x="20.0" y="250" width="349.0" height="22" rx="4" fill="#121b30"/>
 <title>#331 · 🇨🇱 Chile — EnerGeek Radio (Música)</title>
 <text x="26.0" y="266" font-size="12.5" font-weight="700" fill="#9333ea" font-family="Consolas, Menlo, monospace">#331</text>
-<text x="68.0" y="266" font-size="12">🇨🇱</text>
+<image x="67.0" y="253" width="20" height="16" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEgAAABICAMAAABiM0N1AAAAY1BMVEVHcEzULSfULSfULSfu7u7u7u7ULScfQpsfQpvu7u4fQpvULSfu7u4fQpvu7u4fQpvULSf///8fQpvu7u7H0Obj5/MtTqG5xOBJZa6drNNzicGBlcc7WqiPoc3V3OxXcbTx8/kuYLR3AAAAEHRSTlMAv2AgYCDPIL/Pz++/YO/vyYUPgAAAAMZJREFUeNrt0MkOwjAMRVE3LaUTgzN2hv//SlJaCSGxQLLZFN9NdkfOA0nab6dCf8h8WZNtzLHSmgDFysPTuWgqZM6LVGk6ZMq4j+aATAYFD9SA5oHMGzS0TFDoeCCPjgfqEVsqNAZrrUN08Qmki9oZt6ynfc13qzPQN7IY6+hje1xydKjHez8hjmQozNG4OfpG0/pBKvRKoH+CrkwJJJBAAgn0eyjhcRJQPJACyDmcHADSmu7UKSxSTr4nhTWVkHZWIEm77QHK7/qVA+9M+gAAAABJRU5ErkJggg=="/>
 <text x="94.0" y="266" font-size="12" fill="#e2e8f0">EnerGeek Radio</text>
 <rect x="377.0" y="250" width="349.0" height="22" rx="4" fill="#121b30"/>
 <title>#332 · 🇨🇱 Chile — EnerGeek Radio (Música)</title>
 <text x="383.0" y="266" font-size="12.5" font-weight="700" fill="#9333ea" font-family="Consolas, Menlo, monospace">#332</text>
-<text x="425.0" y="266" font-size="12">🇨🇱</text>
+<image x="424.0" y="253" width="20" height="16" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEgAAABICAMAAABiM0N1AAAAY1BMVEVHcEzULSfULSfULSfu7u7u7u7ULScfQpsfQpvu7u4fQpvULSfu7u4fQpvu7u4fQpvULSf///8fQpvu7u7H0Obj5/MtTqG5xOBJZa6drNNzicGBlcc7WqiPoc3V3OxXcbTx8/kuYLR3AAAAEHRSTlMAv2AgYCDPIL/Pz++/YO/vyYUPgAAAAMZJREFUeNrt0MkOwjAMRVE3LaUTgzN2hv//SlJaCSGxQLLZFN9NdkfOA0nab6dCf8h8WZNtzLHSmgDFysPTuWgqZM6LVGk6ZMq4j+aATAYFD9SA5oHMGzS0TFDoeCCPjgfqEVsqNAZrrUN08Qmki9oZt6ynfc13qzPQN7IY6+hje1xydKjHez8hjmQozNG4OfpG0/pBKvRKoH+CrkwJJJBAAgn0eyjhcRJQPJACyDmcHADSmu7UKSxSTr4nhTWVkHZWIEm77QHK7/qVA+9M+gAAAABJRU5ErkJggg=="/>
 <text x="451.0" y="266" font-size="12" fill="#e2e8f0">EnerGeek Radio</text>
 <rect x="734.0" y="250" width="349.0" height="22" rx="4" fill="#121b30"/>
 <title>#333 · 🇨🇱 Chile — EnerGeek Radio (Música)</title>
 <text x="740.0" y="266" font-size="12.5" font-weight="700" fill="#9333ea" font-family="Consolas, Menlo, monospace">#333</text>
-<text x="782.0" y="266" font-size="12">🇨🇱</text>
+<image x="781.0" y="253" width="20" height="16" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEgAAABICAMAAABiM0N1AAAAY1BMVEVHcEzULSfULSfULSfu7u7u7u7ULScfQpsfQpvu7u4fQpvULSfu7u4fQpvu7u4fQpvULSf///8fQpvu7u7H0Obj5/MtTqG5xOBJZa6drNNzicGBlcc7WqiPoc3V3OxXcbTx8/kuYLR3AAAAEHRSTlMAv2AgYCDPIL/Pz++/YO/vyYUPgAAAAMZJREFUeNrt0MkOwjAMRVE3LaUTgzN2hv//SlJaCSGxQLLZFN9NdkfOA0nab6dCf8h8WZNtzLHSmgDFysPTuWgqZM6LVGk6ZMq4j+aATAYFD9SA5oHMGzS0TFDoeCCPjgfqEVsqNAZrrUN08Qmki9oZt6ynfc13qzPQN7IY6+hje1xydKjHez8hjmQozNG4OfpG0/pBKvRKoH+CrkwJJJBAAgn0eyjhcRJQPJACyDmcHADSmu7UKSxSTr4nhTWVkHZWIEm77QHK7/qVA+9M+gAAAABJRU5ErkJggg=="/>
 <text x="808.0" y="266" font-size="12" fill="#e2e8f0">EnerGeek Radio</text>
 <rect x="1091.0" y="250" width="349.0" height="22" rx="4" fill="#121b30"/>
 <title>#334 · 🇨🇱 Chile — Eternal Metal (Música)</title>
 <text x="1097.0" y="266" font-size="12.5" font-weight="700" fill="#9333ea" font-family="Consolas, Menlo, monospace">#334</text>
-<text x="1139.0" y="266" font-size="12">🇨🇱</text>
+<image x="1138.0" y="253" width="20" height="16" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEgAAABICAMAAABiM0N1AAAAY1BMVEVHcEzULSfULSfULSfu7u7u7u7ULScfQpsfQpvu7u4fQpvULSfu7u4fQpvu7u4fQpvULSf///8fQpvu7u7H0Obj5/MtTqG5xOBJZa6drNNzicGBlcc7WqiPoc3V3OxXcbTx8/kuYLR3AAAAEHRSTlMAv2AgYCDPIL/Pz++/YO/vyYUPgAAAAMZJREFUeNrt0MkOwjAMRVE3LaUTgzN2hv//SlJaCSGxQLLZFN9NdkfOA0nab6dCf8h8WZNtzLHSmgDFysPTuWgqZM6LVGk6ZMq4j+aATAYFD9SA5oHMGzS0TFDoeCCPjgfqEVsqNAZrrUN08Qmki9oZt6ynfc13qzPQN7IY6+hje1xydKjHez8hjmQozNG4OfpG0/pBKvRKoH+CrkwJJJBAAgn0eyjhcRJQPJACyDmcHADSmu7UKSxSTr4nhTWVkHZWIEm77QHK7/qVA+9M+gAAAABJRU5ErkJggg=="/>
 <text x="1165.0" y="266" font-size="12" fill="#e2e8f0">Eternal Metal</text>
 <rect x="20.0" y="274" width="349.0" height="22" rx="4" fill="#0f172a"/>
 <title>#335 · 🇨🇱 Chile — FM Plus TV (Música)</title>
 <text x="26.0" y="290" font-size="12.5" font-weight="700" fill="#9333ea" font-family="Consolas, Menlo, monospace">#335</text>
-<text x="68.0" y="290" font-size="12">🇨🇱</text>
+<image x="67.0" y="277" width="20" height="16" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEgAAABICAMAAABiM0N1AAAAY1BMVEVHcEzULSfULSfULSfu7u7u7u7ULScfQpsfQpvu7u4fQpvULSfu7u4fQpvu7u4fQpvULSf///8fQpvu7u7H0Obj5/MtTqG5xOBJZa6drNNzicGBlcc7WqiPoc3V3OxXcbTx8/kuYLR3AAAAEHRSTlMAv2AgYCDPIL/Pz++/YO/vyYUPgAAAAMZJREFUeNrt0MkOwjAMRVE3LaUTgzN2hv//SlJaCSGxQLLZFN9NdkfOA0nab6dCf8h8WZNtzLHSmgDFysPTuWgqZM6LVGk6ZMq4j+aATAYFD9SA5oHMGzS0TFDoeCCPjgfqEVsqNAZrrUN08Qmki9oZt6ynfc13qzPQN7IY6+hje1xydKjHez8hjmQozNG4OfpG0/pBKvRKoH+CrkwJJJBAAgn0eyjhcRJQPJACyDmcHADSmu7UKSxSTr4nhTWVkHZWIEm77QHK7/qVA+9M+gAAAABJRU5ErkJggg=="/>
 <text x="94.0" y="290" font-size="12" fill="#e2e8f0">FM Plus TV</text>
 <rect x="377.0" y="274" width="349.0" height="22" rx="4" fill="#0f172a"/>
 <title>#336 · 🇨🇱 Chile — Genial TV (Música)</title>
 <text x="383.0" y="290" font-size="12.5" font-weight="700" fill="#9333ea" font-family="Consolas, Menlo, monospace">#336</text>
-<text x="425.0" y="290" font-size="12">🇨🇱</text>
+<image x="424.0" y="277" width="20" height="16" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEgAAABICAMAAABiM0N1AAAAY1BMVEVHcEzULSfULSfULSfu7u7u7u7ULScfQpsfQpvu7u4fQpvULSfu7u4fQpvu7u4fQpvULSf///8fQpvu7u7H0Obj5/MtTqG5xOBJZa6drNNzicGBlcc7WqiPoc3V3OxXcbTx8/kuYLR3AAAAEHRSTlMAv2AgYCDPIL/Pz++/YO/vyYUPgAAAAMZJREFUeNrt0MkOwjAMRVE3LaUTgzN2hv//SlJaCSGxQLLZFN9NdkfOA0nab6dCf8h8WZNtzLHSmgDFysPTuWgqZM6LVGk6ZMq4j+aATAYFD9SA5oHMGzS0TFDoeCCPjgfqEVsqNAZrrUN08Qmki9oZt6ynfc13qzPQN7IY6+hje1xydKjHez8hjmQozNG4OfpG0/pBKvRKoH+CrkwJJJBAAgn0eyjhcRJQPJACyDmcHADSmu7UKSxSTr4nhTWVkHZWIEm77QHK7/qVA+9M+gAAAABJRU5ErkJggg=="/>
 <text x="451.0" y="290" font-size="12" fill="#e2e8f0">Genial TV</text>
 <rect x="734.0" y="274" width="349.0" height="22" rx="4" fill="#0f172a"/>
 <title>#337 · 🇨🇱 Chile — Guns n Roses Fans (Música)</title>
 <text x="740.0" y="290" font-size="12.5" font-weight="700" fill="#9333ea" font-family="Consolas, Menlo, monospace">#337</text>
-<text x="782.0" y="290" font-size="12">🇨🇱</text>
+<image x="781.0" y="277" width="20" height="16" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEgAAABICAMAAABiM0N1AAAAY1BMVEVHcEzULSfULSfULSfu7u7u7u7ULScfQpsfQpvu7u4fQpvULSfu7u4fQpvu7u4fQpvULSf///8fQpvu7u7H0Obj5/MtTqG5xOBJZa6drNNzicGBlcc7WqiPoc3V3OxXcbTx8/kuYLR3AAAAEHRSTlMAv2AgYCDPIL/Pz++/YO/vyYUPgAAAAMZJREFUeNrt0MkOwjAMRVE3LaUTgzN2hv//SlJaCSGxQLLZFN9NdkfOA0nab6dCf8h8WZNtzLHSmgDFysPTuWgqZM6LVGk6ZMq4j+aATAYFD9SA5oHMGzS0TFDoeCCPjgfqEVsqNAZrrUN08Qmki9oZt6ynfc13qzPQN7IY6+hje1xydKjHez8hjmQozNG4OfpG0/pBKvRKoH+CrkwJJJBAAgn0eyjhcRJQPJACyDmcHADSmu7UKSxSTr4nhTWVkHZWIEm77QHK7/qVA+9M+gAAAABJRU5ErkJggg=="/>
 <text x="808.0" y="290" font-size="12" fill="#e2e8f0">Guns n Roses Fans</text>
 <rect x="1091.0" y="274" width="349.0" height="22" rx="4" fill="#0f172a"/>
 <title>#338 · 🇨🇱 Chile — La Chilena TV (Música)</title>
 <text x="1097.0" y="290" font-size="12.5" font-weight="700" fill="#9333ea" font-family="Consolas, Menlo, monospace">#338</text>
-<text x="1139.0" y="290" font-size="12">🇨🇱</text>
+<image x="1138.0" y="277" width="20" height="16" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEgAAABICAMAAABiM0N1AAAAY1BMVEVHcEzULSfULSfULSfu7u7u7u7ULScfQpsfQpvu7u4fQpvULSfu7u4fQpvu7u4fQpvULSf///8fQpvu7u7H0Obj5/MtTqG5xOBJZa6drNNzicGBlcc7WqiPoc3V3OxXcbTx8/kuYLR3AAAAEHRSTlMAv2AgYCDPIL/Pz++/YO/vyYUPgAAAAMZJREFUeNrt0MkOwjAMRVE3LaUTgzN2hv//SlJaCSGxQLLZFN9NdkfOA0nab6dCf8h8WZNtzLHSmgDFysPTuWgqZM6LVGk6ZMq4j+aATAYFD9SA5oHMGzS0TFDoeCCPjgfqEVsqNAZrrUN08Qmki9oZt6ynfc13qzPQN7IY6+hje1xydKjHez8hjmQozNG4OfpG0/pBKvRKoH+CrkwJJJBAAgn0eyjhcRJQPJACyDmcHADSmu7UKSxSTr4nhTWVkHZWIEm77QHK7/qVA+9M+gAAAABJRU5ErkJggg=="/>
 <text x="1165.0" y="290" font-size="12" fill="#e2e8f0">La Chilena TV</text>
 <rect x="20.0" y="298" width="349.0" height="22" rx="4" fill="#121b30"/>
 <title>#339 · 🇨🇱 Chile — La Clave (Música)</title>
 <text x="26.0" y="314" font-size="12.5" font-weight="700" fill="#9333ea" font-family="Consolas, Menlo, monospace">#339</text>
-<text x="68.0" y="314" font-size="12">🇨🇱</text>
+<image x="67.0" y="301" width="20" height="16" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEgAAABICAMAAABiM0N1AAAAY1BMVEVHcEzULSfULSfULSfu7u7u7u7ULScfQpsfQpvu7u4fQpvULSfu7u4fQpvu7u4fQpvULSf///8fQpvu7u7H0Obj5/MtTqG5xOBJZa6drNNzicGBlcc7WqiPoc3V3OxXcbTx8/kuYLR3AAAAEHRSTlMAv2AgYCDPIL/Pz++/YO/vyYUPgAAAAMZJREFUeNrt0MkOwjAMRVE3LaUTgzN2hv//SlJaCSGxQLLZFN9NdkfOA0nab6dCf8h8WZNtzLHSmgDFysPTuWgqZM6LVGk6ZMq4j+aATAYFD9SA5oHMGzS0TFDoeCCPjgfqEVsqNAZrrUN08Qmki9oZt6ynfc13qzPQN7IY6+hje1xydKjHez8hjmQozNG4OfpG0/pBKvRKoH+CrkwJJJBAAgn0eyjhcRJQPJACyDmcHADSmu7UKSxSTr4nhTWVkHZWIEm77QHK7/qVA+9M+gAAAABJRU5ErkJggg=="/>
 <text x="94.0" y="314" font-size="12" fill="#e2e8f0">La Clave</text>
 <rect x="377.0" y="298" width="349.0" height="22" rx="4" fill="#121b30"/>
 <title>#340 · 🇨🇱 Chile — La MetroFM (Música)</title>
 <text x="383.0" y="314" font-size="12.5" font-weight="700" fill="#9333ea" font-family="Consolas, Menlo, monospace">#340</text>
-<text x="425.0" y="314" font-size="12">🇨🇱</text>
+<image x="424.0" y="301" width="20" height="16" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEgAAABICAMAAABiM0N1AAAAY1BMVEVHcEzULSfULSfULSfu7u7u7u7ULScfQpsfQpvu7u4fQpvULSfu7u4fQpvu7u4fQpvULSf///8fQpvu7u7H0Obj5/MtTqG5xOBJZa6drNNzicGBlcc7WqiPoc3V3OxXcbTx8/kuYLR3AAAAEHRSTlMAv2AgYCDPIL/Pz++/YO/vyYUPgAAAAMZJREFUeNrt0MkOwjAMRVE3LaUTgzN2hv//SlJaCSGxQLLZFN9NdkfOA0nab6dCf8h8WZNtzLHSmgDFysPTuWgqZM6LVGk6ZMq4j+aATAYFD9SA5oHMGzS0TFDoeCCPjgfqEVsqNAZrrUN08Qmki9oZt6ynfc13qzPQN7IY6+hje1xydKjHez8hjmQozNG4OfpG0/pBKvRKoH+CrkwJJJBAAgn0eyjhcRJQPJACyDmcHADSmu7UKSxSTr4nhTWVkHZWIEm77QHK7/qVA+9M+gAAAABJRU5ErkJggg=="/>
 <text x="451.0" y="314" font-size="12" fill="#e2e8f0">La MetroFM</text>
 <rect x="734.0" y="298" width="349.0" height="22" rx="4" fill="#121b30"/>
 <title>#341 · 🇨🇱 Chile — La MetroFM (Música)</title>
 <text x="740.0" y="314" font-size="12.5" font-weight="700" fill="#9333ea" font-family="Consolas, Menlo, monospace">#341</text>
-<text x="782.0" y="314" font-size="12">🇨🇱</text>
+<image x="781.0" y="301" width="20" height="16" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEgAAABICAMAAABiM0N1AAAAY1BMVEVHcEzULSfULSfULSfu7u7u7u7ULScfQpsfQpvu7u4fQpvULSfu7u4fQpvu7u4fQpvULSf///8fQpvu7u7H0Obj5/MtTqG5xOBJZa6drNNzicGBlcc7WqiPoc3V3OxXcbTx8/kuYLR3AAAAEHRSTlMAv2AgYCDPIL/Pz++/YO/vyYUPgAAAAMZJREFUeNrt0MkOwjAMRVE3LaUTgzN2hv//SlJaCSGxQLLZFN9NdkfOA0nab6dCf8h8WZNtzLHSmgDFysPTuWgqZM6LVGk6ZMq4j+aATAYFD9SA5oHMGzS0TFDoeCCPjgfqEVsqNAZrrUN08Qmki9oZt6ynfc13qzPQN7IY6+hje1xydKjHez8hjmQozNG4OfpG0/pBKvRKoH+CrkwJJJBAAgn0eyjhcRJQPJACyDmcHADSmu7UKSxSTr4nhTWVkHZWIEm77QHK7/qVA+9M+gAAAABJRU5ErkJggg=="/>
 <text x="808.0" y="314" font-size="12" fill="#e2e8f0">La MetroFM</text>
 <rect x="1091.0" y="298" width="349.0" height="22" rx="4" fill="#121b30"/>
 <title>#342 · 🇨🇱 Chile — Latinos TV (Música)</title>
 <text x="1097.0" y="314" font-size="12.5" font-weight="700" fill="#9333ea" font-family="Consolas, Menlo, monospace">#342</text>
-<text x="1139.0" y="314" font-size="12">🇨🇱</text>
+<image x="1138.0" y="301" width="20" height="16" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEgAAABICAMAAABiM0N1AAAAY1BMVEVHcEzULSfULSfULSfu7u7u7u7ULScfQpsfQpvu7u4fQpvULSfu7u4fQpvu7u4fQpvULSf///8fQpvu7u7H0Obj5/MtTqG5xOBJZa6drNNzicGBlcc7WqiPoc3V3OxXcbTx8/kuYLR3AAAAEHRSTlMAv2AgYCDPIL/Pz++/YO/vyYUPgAAAAMZJREFUeNrt0MkOwjAMRVE3LaUTgzN2hv//SlJaCSGxQLLZFN9NdkfOA0nab6dCf8h8WZNtzLHSmgDFysPTuWgqZM6LVGk6ZMq4j+aATAYFD9SA5oHMGzS0TFDoeCCPjgfqEVsqNAZrrUN08Qmki9oZt6ynfc13qzPQN7IY6+hje1xydKjHez8hjmQozNG4OfpG0/pBKvRKoH+CrkwJJJBAAgn0eyjhcRJQPJACyDmcHADSmu7UKSxSTr4nhTWVkHZWIEm77QHK7/qVA+9M+gAAAABJRU5ErkJggg=="/>
 <text x="1165.0" y="314" font-size="12" fill="#e2e8f0">Latinos TV</text>
 <rect x="20.0" y="322" width="349.0" height="22" rx="4" fill="#0f172a"/>
 <title>#343 · 🇨🇱 Chile — M Music TV (Música)</title>
 <text x="26.0" y="338" font-size="12.5" font-weight="700" fill="#9333ea" font-family="Consolas, Menlo, monospace">#343</text>
-<text x="68.0" y="338" font-size="12">🇨🇱</text>
+<image x="67.0" y="325" width="20" height="16" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEgAAABICAMAAABiM0N1AAAAY1BMVEVHcEzULSfULSfULSfu7u7u7u7ULScfQpsfQpvu7u4fQpvULSfu7u4fQpvu7u4fQpvULSf///8fQpvu7u7H0Obj5/MtTqG5xOBJZa6drNNzicGBlcc7WqiPoc3V3OxXcbTx8/kuYLR3AAAAEHRSTlMAv2AgYCDPIL/Pz++/YO/vyYUPgAAAAMZJREFUeNrt0MkOwjAMRVE3LaUTgzN2hv//SlJaCSGxQLLZFN9NdkfOA0nab6dCf8h8WZNtzLHSmgDFysPTuWgqZM6LVGk6ZMq4j+aATAYFD9SA5oHMGzS0TFDoeCCPjgfqEVsqNAZrrUN08Qmki9oZt6ynfc13qzPQN7IY6+hje1xydKjHez8hjmQozNG4OfpG0/pBKvRKoH+CrkwJJJBAAgn0eyjhcRJQPJACyDmcHADSmu7UKSxSTr4nhTWVkHZWIEm77QHK7/qVA+9M+gAAAABJRU5ErkJggg=="/>
 <text x="94.0" y="338" font-size="12" fill="#e2e8f0">M Music TV</text>
 <rect x="377.0" y="322" width="349.0" height="22" rx="4" fill="#0f172a"/>
 <title>#344 · 🇨🇱 Chile — Mundo de la Musica TV (Música)</title>
 <text x="383.0" y="338" font-size="12.5" font-weight="700" fill="#9333ea" font-family="Consolas, Menlo, monospace">#344</text>
-<text x="425.0" y="338" font-size="12">🇨🇱</text>
+<image x="424.0" y="325" width="20" height="16" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEgAAABICAMAAABiM0N1AAAAY1BMVEVHcEzULSfULSfULSfu7u7u7u7ULScfQpsfQpvu7u4fQpvULSfu7u4fQpvu7u4fQpvULSf///8fQpvu7u7H0Obj5/MtTqG5xOBJZa6drNNzicGBlcc7WqiPoc3V3OxXcbTx8/kuYLR3AAAAEHRSTlMAv2AgYCDPIL/Pz++/YO/vyYUPgAAAAMZJREFUeNrt0MkOwjAMRVE3LaUTgzN2hv//SlJaCSGxQLLZFN9NdkfOA0nab6dCf8h8WZNtzLHSmgDFysPTuWgqZM6LVGk6ZMq4j+aATAYFD9SA5oHMGzS0TFDoeCCPjgfqEVsqNAZrrUN08Qmki9oZt6ynfc13qzPQN7IY6+hje1xydKjHez8hjmQozNG4OfpG0/pBKvRKoH+CrkwJJJBAAgn0eyjhcRJQPJACyDmcHADSmu7UKSxSTr4nhTWVkHZWIEm77QHK7/qVA+9M+gAAAABJRU5ErkJggg=="/>
 <text x="451.0" y="338" font-size="12" fill="#e2e8f0">Mundo de la Musica TV</text>
 <rect x="734.0" y="322" width="349.0" height="22" rx="4" fill="#0f172a"/>
 <title>#345 · 🇨🇱 Chile — Onda Fiesta (Música)</title>
 <text x="740.0" y="338" font-size="12.5" font-weight="700" fill="#9333ea" font-family="Consolas, Menlo, monospace">#345</text>
-<text x="782.0" y="338" font-size="12">🇨🇱</text>
+<image x="781.0" y="325" width="20" height="16" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEgAAABICAMAAABiM0N1AAAAY1BMVEVHcEzULSfULSfULSfu7u7u7u7ULScfQpsfQpvu7u4fQpvULSfu7u4fQpvu7u4fQpvULSf///8fQpvu7u7H0Obj5/MtTqG5xOBJZa6drNNzicGBlcc7WqiPoc3V3OxXcbTx8/kuYLR3AAAAEHRSTlMAv2AgYCDPIL/Pz++/YO/vyYUPgAAAAMZJREFUeNrt0MkOwjAMRVE3LaUTgzN2hv//SlJaCSGxQLLZFN9NdkfOA0nab6dCf8h8WZNtzLHSmgDFysPTuWgqZM6LVGk6ZMq4j+aATAYFD9SA5oHMGzS0TFDoeCCPjgfqEVsqNAZrrUN08Qmki9oZt6ynfc13qzPQN7IY6+hje1xydKjHez8hjmQozNG4OfpG0/pBKvRKoH+CrkwJJJBAAgn0eyjhcRJQPJACyDmcHADSmu7UKSxSTr4nhTWVkHZWIEm77QHK7/qVA+9M+gAAAABJRU5ErkJggg=="/>
 <text x="808.0" y="338" font-size="12" fill="#e2e8f0">Onda Fiesta</text>
 <rect x="1091.0" y="322" width="349.0" height="22" rx="4" fill="#0f172a"/>
 <title>#346 · 🇨🇱 Chile — Parentesis TV (Música)</title>
 <text x="1097.0" y="338" font-size="12.5" font-weight="700" fill="#9333ea" font-family="Consolas, Menlo, monospace">#346</text>
-<text x="1139.0" y="338" font-size="12">🇨🇱</text>
+<image x="1138.0" y="325" width="20" height="16" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEgAAABICAMAAABiM0N1AAAAY1BMVEVHcEzULSfULSfULSfu7u7u7u7ULScfQpsfQpvu7u4fQpvULSfu7u4fQpvu7u4fQpvULSf///8fQpvu7u7H0Obj5/MtTqG5xOBJZa6drNNzicGBlcc7WqiPoc3V3OxXcbTx8/kuYLR3AAAAEHRSTlMAv2AgYCDPIL/Pz++/YO/vyYUPgAAAAMZJREFUeNrt0MkOwjAMRVE3LaUTgzN2hv//SlJaCSGxQLLZFN9NdkfOA0nab6dCf8h8WZNtzLHSmgDFysPTuWgqZM6LVGk6ZMq4j+aATAYFD9SA5oHMGzS0TFDoeCCPjgfqEVsqNAZrrUN08Qmki9oZt6ynfc13qzPQN7IY6+hje1xydKjHez8hjmQozNG4OfpG0/pBKvRKoH+CrkwJJJBAAgn0eyjhcRJQPJACyDmcHADSmu7UKSxSTr4nhTWVkHZWIEm77QHK7/qVA+9M+gAAAABJRU5ErkJggg=="/>
 <text x="1165.0" y="338" font-size="12" fill="#e2e8f0">Parentesis TV</text>
 <rect x="20.0" y="346" width="349.0" height="22" rx="4" fill="#121b30"/>
 <title>#347 · 🇨🇱 Chile — Pasion Ranchera (Música)</title>
 <text x="26.0" y="362" font-size="12.5" font-weight="700" fill="#9333ea" font-family="Consolas, Menlo, monospace">#347</text>
-<text x="68.0" y="362" font-size="12">🇨🇱</text>
+<image x="67.0" y="349" width="20" height="16" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEgAAABICAMAAABiM0N1AAAAY1BMVEVHcEzULSfULSfULSfu7u7u7u7ULScfQpsfQpvu7u4fQpvULSfu7u4fQpvu7u4fQpvULSf///8fQpvu7u7H0Obj5/MtTqG5xOBJZa6drNNzicGBlcc7WqiPoc3V3OxXcbTx8/kuYLR3AAAAEHRSTlMAv2AgYCDPIL/Pz++/YO/vyYUPgAAAAMZJREFUeNrt0MkOwjAMRVE3LaUTgzN2hv//SlJaCSGxQLLZFN9NdkfOA0nab6dCf8h8WZNtzLHSmgDFysPTuWgqZM6LVGk6ZMq4j+aATAYFD9SA5oHMGzS0TFDoeCCPjgfqEVsqNAZrrUN08Qmki9oZt6ynfc13qzPQN7IY6+hje1xydKjHez8hjmQozNG4OfpG0/pBKvRKoH+CrkwJJJBAAgn0eyjhcRJQPJACyDmcHADSmu7UKSxSTr4nhTWVkHZWIEm77QHK7/qVA+9M+gAAAABJRU5ErkJggg=="/>
 <text x="94.0" y="362" font-size="12" fill="#e2e8f0">Pasion Ranchera</text>
 <rect x="377.0" y="346" width="349.0" height="22" rx="4" fill="#121b30"/>
 <title>#348 · 🇨🇱 Chile — Patagonia Radio TV (Música)</title>
 <text x="383.0" y="362" font-size="12.5" font-weight="700" fill="#9333ea" font-family="Consolas, Menlo, monospace">#348</text>
-<text x="425.0" y="362" font-size="12">🇨🇱</text>
+<image x="424.0" y="349" width="20" height="16" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEgAAABICAMAAABiM0N1AAAAY1BMVEVHcEzULSfULSfULSfu7u7u7u7ULScfQpsfQpvu7u4fQpvULSfu7u4fQpvu7u4fQpvULSf///8fQpvu7u7H0Obj5/MtTqG5xOBJZa6drNNzicGBlcc7WqiPoc3V3OxXcbTx8/kuYLR3AAAAEHRSTlMAv2AgYCDPIL/Pz++/YO/vyYUPgAAAAMZJREFUeNrt0MkOwjAMRVE3LaUTgzN2hv//SlJaCSGxQLLZFN9NdkfOA0nab6dCf8h8WZNtzLHSmgDFysPTuWgqZM6LVGk6ZMq4j+aATAYFD9SA5oHMGzS0TFDoeCCPjgfqEVsqNAZrrUN08Qmki9oZt6ynfc13qzPQN7IY6+hje1xydKjHez8hjmQozNG4OfpG0/pBKvRKoH+CrkwJJJBAAgn0eyjhcRJQPJACyDmcHADSmu7UKSxSTr4nhTWVkHZWIEm77QHK7/qVA+9M+gAAAABJRU5ErkJggg=="/>
 <text x="451.0" y="362" font-size="12" fill="#e2e8f0">Patagonia Radio TV</text>
 <rect x="734.0" y="346" width="349.0" height="22" rx="4" fill="#121b30"/>
 <title>#349 · 🇨🇱 Chile — Pauta (Música)</title>
 <text x="740.0" y="362" font-size="12.5" font-weight="700" fill="#9333ea" font-family="Consolas, Menlo, monospace">#349</text>
-<text x="782.0" y="362" font-size="12">🇨🇱</text>
+<image x="781.0" y="349" width="20" height="16" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEgAAABICAMAAABiM0N1AAAAY1BMVEVHcEzULSfULSfULSfu7u7u7u7ULScfQpsfQpvu7u4fQpvULSfu7u4fQpvu7u4fQpvULSf///8fQpvu7u7H0Obj5/MtTqG5xOBJZa6drNNzicGBlcc7WqiPoc3V3OxXcbTx8/kuYLR3AAAAEHRSTlMAv2AgYCDPIL/Pz++/YO/vyYUPgAAAAMZJREFUeNrt0MkOwjAMRVE3LaUTgzN2hv//SlJaCSGxQLLZFN9NdkfOA0nab6dCf8h8WZNtzLHSmgDFysPTuWgqZM6LVGk6ZMq4j+aATAYFD9SA5oHMGzS0TFDoeCCPjgfqEVsqNAZrrUN08Qmki9oZt6ynfc13qzPQN7IY6+hje1xydKjHez8hjmQozNG4OfpG0/pBKvRKoH+CrkwJJJBAAgn0eyjhcRJQPJACyDmcHADSmu7UKSxSTr4nhTWVkHZWIEm77QHK7/qVA+9M+gAAAABJRU5ErkJggg=="/>
 <text x="808.0" y="362" font-size="12" fill="#e2e8f0">Pauta</text>
 <rect x="1091.0" y="346" width="349.0" height="22" rx="4" fill="#121b30"/>
 <title>#350 · 🇨🇱 Chile — PlanetaTV (Música)</title>
 <text x="1097.0" y="362" font-size="12.5" font-weight="700" fill="#9333ea" font-family="Consolas, Menlo, monospace">#350</text>
-<text x="1139.0" y="362" font-size="12">🇨🇱</text>
+<image x="1138.0" y="349" width="20" height="16" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEgAAABICAMAAABiM0N1AAAAY1BMVEVHcEzULSfULSfULSfu7u7u7u7ULScfQpsfQpvu7u4fQpvULSfu7u4fQpvu7u4fQpvULSf///8fQpvu7u7H0Obj5/MtTqG5xOBJZa6drNNzicGBlcc7WqiPoc3V3OxXcbTx8/kuYLR3AAAAEHRSTlMAv2AgYCDPIL/Pz++/YO/vyYUPgAAAAMZJREFUeNrt0MkOwjAMRVE3LaUTgzN2hv//SlJaCSGxQLLZFN9NdkfOA0nab6dCf8h8WZNtzLHSmgDFysPTuWgqZM6LVGk6ZMq4j+aATAYFD9SA5oHMGzS0TFDoeCCPjgfqEVsqNAZrrUN08Qmki9oZt6ynfc13qzPQN7IY6+hje1xydKjHez8hjmQozNG4OfpG0/pBKvRKoH+CrkwJJJBAAgn0eyjhcRJQPJACyDmcHADSmu7UKSxSTr4nhTWVkHZWIEm77QHK7/qVA+9M+gAAAABJRU5ErkJggg=="/>
 <text x="1165.0" y="362" font-size="12" fill="#e2e8f0">PlanetaTV</text>
 <rect x="20.0" y="370" width="349.0" height="22" rx="4" fill="#0f172a"/>
 <title>#351 · 🇨🇱 Chile — Portal FoxMix (Música)</title>
 <text x="26.0" y="386" font-size="12.5" font-weight="700" fill="#9333ea" font-family="Consolas, Menlo, monospace">#351</text>
-<text x="68.0" y="386" font-size="12">🇨🇱</text>
+<image x="67.0" y="373" width="20" height="16" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEgAAABICAMAAABiM0N1AAAAY1BMVEVHcEzULSfULSfULSfu7u7u7u7ULScfQpsfQpvu7u4fQpvULSfu7u4fQpvu7u4fQpvULSf///8fQpvu7u7H0Obj5/MtTqG5xOBJZa6drNNzicGBlcc7WqiPoc3V3OxXcbTx8/kuYLR3AAAAEHRSTlMAv2AgYCDPIL/Pz++/YO/vyYUPgAAAAMZJREFUeNrt0MkOwjAMRVE3LaUTgzN2hv//SlJaCSGxQLLZFN9NdkfOA0nab6dCf8h8WZNtzLHSmgDFysPTuWgqZM6LVGk6ZMq4j+aATAYFD9SA5oHMGzS0TFDoeCCPjgfqEVsqNAZrrUN08Qmki9oZt6ynfc13qzPQN7IY6+hje1xydKjHez8hjmQozNG4OfpG0/pBKvRKoH+CrkwJJJBAAgn0eyjhcRJQPJACyDmcHADSmu7UKSxSTr4nhTWVkHZWIEm77QHK7/qVA+9M+gAAAABJRU5ErkJggg=="/>
 <text x="94.0" y="386" font-size="12" fill="#e2e8f0">Portal FoxMix</text>
 <rect x="377.0" y="370" width="349.0" height="22" rx="4" fill="#0f172a"/>
 <title>#352 · 🇨🇱 Chile — Radio Alternativa FM (Huasco) (Música)</title>
 <text x="383.0" y="386" font-size="12.5" font-weight="700" fill="#9333ea" font-family="Consolas, Menlo, monospace">#352</text>
-<text x="425.0" y="386" font-size="12">🇨🇱</text>
+<image x="424.0" y="373" width="20" height="16" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEgAAABICAMAAABiM0N1AAAAY1BMVEVHcEzULSfULSfULSfu7u7u7u7ULScfQpsfQpvu7u4fQpvULSfu7u4fQpvu7u4fQpvULSf///8fQpvu7u7H0Obj5/MtTqG5xOBJZa6drNNzicGBlcc7WqiPoc3V3OxXcbTx8/kuYLR3AAAAEHRSTlMAv2AgYCDPIL/Pz++/YO/vyYUPgAAAAMZJREFUeNrt0MkOwjAMRVE3LaUTgzN2hv//SlJaCSGxQLLZFN9NdkfOA0nab6dCf8h8WZNtzLHSmgDFysPTuWgqZM6LVGk6ZMq4j+aATAYFD9SA5oHMGzS0TFDoeCCPjgfqEVsqNAZrrUN08Qmki9oZt6ynfc13qzPQN7IY6+hje1xydKjHez8hjmQozNG4OfpG0/pBKvRKoH+CrkwJJJBAAgn0eyjhcRJQPJACyDmcHADSmu7UKSxSTr4nhTWVkHZWIEm77QHK7/qVA+9M+gAAAABJRU5ErkJggg=="/>
 <text x="451.0" y="386" font-size="12" fill="#e2e8f0">Radio Alternativa FM (Huasco)</text>
 <rect x="734.0" y="370" width="349.0" height="22" rx="4" fill="#0f172a"/>
 <title>#353 · 🇨🇱 Chile — Radio Duna (Música)</title>
 <text x="740.0" y="386" font-size="12.5" font-weight="700" fill="#9333ea" font-family="Consolas, Menlo, monospace">#353</text>
-<text x="782.0" y="386" font-size="12">🇨🇱</text>
+<image x="781.0" y="373" width="20" height="16" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEgAAABICAMAAABiM0N1AAAAY1BMVEVHcEzULSfULSfULSfu7u7u7u7ULScfQpsfQpvu7u4fQpvULSfu7u4fQpvu7u4fQpvULSf///8fQpvu7u7H0Obj5/MtTqG5xOBJZa6drNNzicGBlcc7WqiPoc3V3OxXcbTx8/kuYLR3AAAAEHRSTlMAv2AgYCDPIL/Pz++/YO/vyYUPgAAAAMZJREFUeNrt0MkOwjAMRVE3LaUTgzN2hv//SlJaCSGxQLLZFN9NdkfOA0nab6dCf8h8WZNtzLHSmgDFysPTuWgqZM6LVGk6ZMq4j+aATAYFD9SA5oHMGzS0TFDoeCCPjgfqEVsqNAZrrUN08Qmki9oZt6ynfc13qzPQN7IY6+hje1xydKjHez8hjmQozNG4OfpG0/pBKvRKoH+CrkwJJJBAAgn0eyjhcRJQPJACyDmcHADSmu7UKSxSTr4nhTWVkHZWIEm77QHK7/qVA+9M+gAAAABJRU5ErkJggg=="/>
 <text x="808.0" y="386" font-size="12" fill="#e2e8f0">Radio Duna</text>
 <rect x="1091.0" y="370" width="349.0" height="22" rx="4" fill="#0f172a"/>
 <title>#354 · 🇨🇱 Chile — Radio Edelweiss (Música)</title>
 <text x="1097.0" y="386" font-size="12.5" font-weight="700" fill="#9333ea" font-family="Consolas, Menlo, monospace">#354</text>
-<text x="1139.0" y="386" font-size="12">🇨🇱</text>
+<image x="1138.0" y="373" width="20" height="16" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEgAAABICAMAAABiM0N1AAAAY1BMVEVHcEzULSfULSfULSfu7u7u7u7ULScfQpsfQpvu7u4fQpvULSfu7u4fQpvu7u4fQpvULSf///8fQpvu7u7H0Obj5/MtTqG5xOBJZa6drNNzicGBlcc7WqiPoc3V3OxXcbTx8/kuYLR3AAAAEHRSTlMAv2AgYCDPIL/Pz++/YO/vyYUPgAAAAMZJREFUeNrt0MkOwjAMRVE3LaUTgzN2hv//SlJaCSGxQLLZFN9NdkfOA0nab6dCf8h8WZNtzLHSmgDFysPTuWgqZM6LVGk6ZMq4j+aATAYFD9SA5oHMGzS0TFDoeCCPjgfqEVsqNAZrrUN08Qmki9oZt6ynfc13qzPQN7IY6+hje1xydKjHez8hjmQozNG4OfpG0/pBKvRKoH+CrkwJJJBAAgn0eyjhcRJQPJACyDmcHADSmu7UKSxSTr4nhTWVkHZWIEm77QHK7/qVA+9M+gAAAABJRU5ErkJggg=="/>
 <text x="1165.0" y="386" font-size="12" fill="#e2e8f0">Radio Edelweiss</text>
 <rect x="20.0" y="394" width="349.0" height="22" rx="4" fill="#121b30"/>
 <title>#355 · 🇨🇱 Chile — Radio El Conquistador FM (Música)</title>
 <text x="26.0" y="410" font-size="12.5" font-weight="700" fill="#9333ea" font-family="Consolas, Menlo, monospace">#355</text>
-<text x="68.0" y="410" font-size="12">🇨🇱</text>
+<image x="67.0" y="397" width="20" height="16" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEgAAABICAMAAABiM0N1AAAAY1BMVEVHcEzULSfULSfULSfu7u7u7u7ULScfQpsfQpvu7u4fQpvULSfu7u4fQpvu7u4fQpvULSf///8fQpvu7u7H0Obj5/MtTqG5xOBJZa6drNNzicGBlcc7WqiPoc3V3OxXcbTx8/kuYLR3AAAAEHRSTlMAv2AgYCDPIL/Pz++/YO/vyYUPgAAAAMZJREFUeNrt0MkOwjAMRVE3LaUTgzN2hv//SlJaCSGxQLLZFN9NdkfOA0nab6dCf8h8WZNtzLHSmgDFysPTuWgqZM6LVGk6ZMq4j+aATAYFD9SA5oHMGzS0TFDoeCCPjgfqEVsqNAZrrUN08Qmki9oZt6ynfc13qzPQN7IY6+hje1xydKjHez8hjmQozNG4OfpG0/pBKvRKoH+CrkwJJJBAAgn0eyjhcRJQPJACyDmcHADSmu7UKSxSTr4nhTWVkHZWIEm77QHK7/qVA+9M+gAAAABJRU5ErkJggg=="/>
 <text x="94.0" y="410" font-size="12" fill="#e2e8f0">Radio El Conquistador FM</text>
 <rect x="377.0" y="394" width="349.0" height="22" rx="4" fill="#121b30"/>
 <title>#356 · 🇨🇱 Chile — Radio El Conquistador FM (Música)</title>
 <text x="383.0" y="410" font-size="12.5" font-weight="700" fill="#9333ea" font-family="Consolas, Menlo, monospace">#356</text>
-<text x="425.0" y="410" font-size="12">🇨🇱</text>
+<image x="424.0" y="397" width="20" height="16" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEgAAABICAMAAABiM0N1AAAAY1BMVEVHcEzULSfULSfULSfu7u7u7u7ULScfQpsfQpvu7u4fQpvULSfu7u4fQpvu7u4fQpvULSf///8fQpvu7u7H0Obj5/MtTqG5xOBJZa6drNNzicGBlcc7WqiPoc3V3OxXcbTx8/kuYLR3AAAAEHRSTlMAv2AgYCDPIL/Pz++/YO/vyYUPgAAAAMZJREFUeNrt0MkOwjAMRVE3LaUTgzN2hv//SlJaCSGxQLLZFN9NdkfOA0nab6dCf8h8WZNtzLHSmgDFysPTuWgqZM6LVGk6ZMq4j+aATAYFD9SA5oHMGzS0TFDoeCCPjgfqEVsqNAZrrUN08Qmki9oZt6ynfc13qzPQN7IY6+hje1xydKjHez8hjmQozNG4OfpG0/pBKvRKoH+CrkwJJJBAAgn0eyjhcRJQPJACyDmcHADSmu7UKSxSTr4nhTWVkHZWIEm77QHK7/qVA+9M+gAAAABJRU5ErkJggg=="/>
 <text x="451.0" y="410" font-size="12" fill="#e2e8f0">Radio El Conquistador FM</text>
 <rect x="734.0" y="394" width="349.0" height="22" rx="4" fill="#121b30"/>
 <title>#357 · 🇨🇱 Chile — Radio Graneros TV (Música)</title>
 <text x="740.0" y="410" font-size="12.5" font-weight="700" fill="#9333ea" font-family="Consolas, Menlo, monospace">#357</text>
-<text x="782.0" y="410" font-size="12">🇨🇱</text>
+<image x="781.0" y="397" width="20" height="16" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEgAAABICAMAAABiM0N1AAAAY1BMVEVHcEzULSfULSfULSfu7u7u7u7ULScfQpsfQpvu7u4fQpvULSfu7u4fQpvu7u4fQpvULSf///8fQpvu7u7H0Obj5/MtTqG5xOBJZa6drNNzicGBlcc7WqiPoc3V3OxXcbTx8/kuYLR3AAAAEHRSTlMAv2AgYCDPIL/Pz++/YO/vyYUPgAAAAMZJREFUeNrt0MkOwjAMRVE3LaUTgzN2hv//SlJaCSGxQLLZFN9NdkfOA0nab6dCf8h8WZNtzLHSmgDFysPTuWgqZM6LVGk6ZMq4j+aATAYFD9SA5oHMGzS0TFDoeCCPjgfqEVsqNAZrrUN08Qmki9oZt6ynfc13qzPQN7IY6+hje1xydKjHez8hjmQozNG4OfpG0/pBKvRKoH+CrkwJJJBAAgn0eyjhcRJQPJACyDmcHADSmu7UKSxSTr4nhTWVkHZWIEm77QHK7/qVA+9M+gAAAABJRU5ErkJggg=="/>
 <text x="808.0" y="410" font-size="12" fill="#e2e8f0">Radio Graneros TV</text>
 <rect x="1091.0" y="394" width="349.0" height="22" rx="4" fill="#121b30"/>
 <title>#358 · 🇨🇱 Chile — Radio Graneros TV (Música)</title>
 <text x="1097.0" y="410" font-size="12.5" font-weight="700" fill="#9333ea" font-family="Consolas, Menlo, monospace">#358</text>
-<text x="1139.0" y="410" font-size="12">🇨🇱</text>
+<image x="1138.0" y="397" width="20" height="16" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEgAAABICAMAAABiM0N1AAAAY1BMVEVHcEzULSfULSfULSfu7u7u7u7ULScfQpsfQpvu7u4fQpvULSfu7u4fQpvu7u4fQpvULSf///8fQpvu7u7H0Obj5/MtTqG5xOBJZa6drNNzicGBlcc7WqiPoc3V3OxXcbTx8/kuYLR3AAAAEHRSTlMAv2AgYCDPIL/Pz++/YO/vyYUPgAAAAMZJREFUeNrt0MkOwjAMRVE3LaUTgzN2hv//SlJaCSGxQLLZFN9NdkfOA0nab6dCf8h8WZNtzLHSmgDFysPTuWgqZM6LVGk6ZMq4j+aATAYFD9SA5oHMGzS0TFDoeCCPjgfqEVsqNAZrrUN08Qmki9oZt6ynfc13qzPQN7IY6+hje1xydKjHez8hjmQozNG4OfpG0/pBKvRKoH+CrkwJJJBAAgn0eyjhcRJQPJACyDmcHADSmu7UKSxSTr4nhTWVkHZWIEm77QHK7/qVA+9M+gAAAABJRU5ErkJggg=="/>
 <text x="1165.0" y="410" font-size="12" fill="#e2e8f0">Radio Graneros TV</text>
 <rect x="20.0" y="418" width="349.0" height="22" rx="4" fill="#0f172a"/>
 <title>#359 · 🇨🇱 Chile — Radio Graneros TV (Música)</title>
 <text x="26.0" y="434" font-size="12.5" font-weight="700" fill="#9333ea" font-family="Consolas, Menlo, monospace">#359</text>
-<text x="68.0" y="434" font-size="12">🇨🇱</text>
+<image x="67.0" y="421" width="20" height="16" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEgAAABICAMAAABiM0N1AAAAY1BMVEVHcEzULSfULSfULSfu7u7u7u7ULScfQpsfQpvu7u4fQpvULSfu7u4fQpvu7u4fQpvULSf///8fQpvu7u7H0Obj5/MtTqG5xOBJZa6drNNzicGBlcc7WqiPoc3V3OxXcbTx8/kuYLR3AAAAEHRSTlMAv2AgYCDPIL/Pz++/YO/vyYUPgAAAAMZJREFUeNrt0MkOwjAMRVE3LaUTgzN2hv//SlJaCSGxQLLZFN9NdkfOA0nab6dCf8h8WZNtzLHSmgDFysPTuWgqZM6LVGk6ZMq4j+aATAYFD9SA5oHMGzS0TFDoeCCPjgfqEVsqNAZrrUN08Qmki9oZt6ynfc13qzPQN7IY6+hje1xydKjHez8hjmQozNG4OfpG0/pBKvRKoH+CrkwJJJBAAgn0eyjhcRJQPJACyDmcHADSmu7UKSxSTr4nhTWVkHZWIEm77QHK7/qVA+9M+gAAAABJRU5ErkJggg=="/>
 <text x="94.0" y="434" font-size="12" fill="#e2e8f0">Radio Graneros TV</text>
 <rect x="377.0" y="418" width="349.0" height="22" rx="4" fill="#0f172a"/>
 <title>#360 · 🇨🇱 Chile — Radio La Clave (Música)</title>
 <text x="383.0" y="434" font-size="12.5" font-weight="700" fill="#9333ea" font-family="Consolas, Menlo, monospace">#360</text>
-<text x="425.0" y="434" font-size="12">🇨🇱</text>
+<image x="424.0" y="421" width="20" height="16" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEgAAABICAMAAABiM0N1AAAAY1BMVEVHcEzULSfULSfULSfu7u7u7u7ULScfQpsfQpvu7u4fQpvULSfu7u4fQpvu7u4fQpvULSf///8fQpvu7u7H0Obj5/MtTqG5xOBJZa6drNNzicGBlcc7WqiPoc3V3OxXcbTx8/kuYLR3AAAAEHRSTlMAv2AgYCDPIL/Pz++/YO/vyYUPgAAAAMZJREFUeNrt0MkOwjAMRVE3LaUTgzN2hv//SlJaCSGxQLLZFN9NdkfOA0nab6dCf8h8WZNtzLHSmgDFysPTuWgqZM6LVGk6ZMq4j+aATAYFD9SA5oHMGzS0TFDoeCCPjgfqEVsqNAZrrUN08Qmki9oZt6ynfc13qzPQN7IY6+hje1xydKjHez8hjmQozNG4OfpG0/pBKvRKoH+CrkwJJJBAAgn0eyjhcRJQPJACyDmcHADSmu7UKSxSTr4nhTWVkHZWIEm77QHK7/qVA+9M+gAAAABJRU5ErkJggg=="/>
 <text x="451.0" y="434" font-size="12" fill="#e2e8f0">Radio La Clave</text>
 <rect x="734.0" y="418" width="349.0" height="22" rx="4" fill="#0f172a"/>
 <title>#361 · 🇨🇱 Chile — Radio La Serena TV (Música)</title>
 <text x="740.0" y="434" font-size="12.5" font-weight="700" fill="#9333ea" font-family="Consolas, Menlo, monospace">#361</text>
-<text x="782.0" y="434" font-size="12">🇨🇱</text>
+<image x="781.0" y="421" width="20" height="16" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEgAAABICAMAAABiM0N1AAAAY1BMVEVHcEzULSfULSfULSfu7u7u7u7ULScfQpsfQpvu7u4fQpvULSfu7u4fQpvu7u4fQpvULSf///8fQpvu7u7H0Obj5/MtTqG5xOBJZa6drNNzicGBlcc7WqiPoc3V3OxXcbTx8/kuYLR3AAAAEHRSTlMAv2AgYCDPIL/Pz++/YO/vyYUPgAAAAMZJREFUeNrt0MkOwjAMRVE3LaUTgzN2hv//SlJaCSGxQLLZFN9NdkfOA0nab6dCf8h8WZNtzLHSmgDFysPTuWgqZM6LVGk6ZMq4j+aATAYFD9SA5oHMGzS0TFDoeCCPjgfqEVsqNAZrrUN08Qmki9oZt6ynfc13qzPQN7IY6+hje1xydKjHez8hjmQozNG4OfpG0/pBKvRKoH+CrkwJJJBAAgn0eyjhcRJQPJACyDmcHADSmu7UKSxSTr4nhTWVkHZWIEm77QHK7/qVA+9M+gAAAABJRU5ErkJggg=="/>
 <text x="808.0" y="434" font-size="12" fill="#e2e8f0">Radio La Serena TV</text>
 <rect x="1091.0" y="418" width="349.0" height="22" rx="4" fill="#0f172a"/>
 <title>#362 · 🇨🇱 Chile — Radio Pudahuel (Música)</title>
 <text x="1097.0" y="434" font-size="12.5" font-weight="700" fill="#9333ea" font-family="Consolas, Menlo, monospace">#362</text>
-<text x="1139.0" y="434" font-size="12">🇨🇱</text>
+<image x="1138.0" y="421" width="20" height="16" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEgAAABICAMAAABiM0N1AAAAY1BMVEVHcEzULSfULSfULSfu7u7u7u7ULScfQpsfQpvu7u4fQpvULSfu7u4fQpvu7u4fQpvULSf///8fQpvu7u7H0Obj5/MtTqG5xOBJZa6drNNzicGBlcc7WqiPoc3V3OxXcbTx8/kuYLR3AAAAEHRSTlMAv2AgYCDPIL/Pz++/YO/vyYUPgAAAAMZJREFUeNrt0MkOwjAMRVE3LaUTgzN2hv//SlJaCSGxQLLZFN9NdkfOA0nab6dCf8h8WZNtzLHSmgDFysPTuWgqZM6LVGk6ZMq4j+aATAYFD9SA5oHMGzS0TFDoeCCPjgfqEVsqNAZrrUN08Qmki9oZt6ynfc13qzPQN7IY6+hje1xydKjHez8hjmQozNG4OfpG0/pBKvRKoH+CrkwJJJBAAgn0eyjhcRJQPJACyDmcHADSmu7UKSxSTr4nhTWVkHZWIEm77QHK7/qVA+9M+gAAAABJRU5ErkJggg=="/>
 <text x="1165.0" y="434" font-size="12" fill="#e2e8f0">Radio Pudahuel</text>
 <rect x="20.0" y="442" width="349.0" height="22" rx="4" fill="#121b30"/>
 <title>#363 · 🇨🇱 Chile — Radio Zona 90.3 (Música)</title>
 <text x="26.0" y="458" font-size="12.5" font-weight="700" fill="#9333ea" font-family="Consolas, Menlo, monospace">#363</text>
-<text x="68.0" y="458" font-size="12">🇨🇱</text>
+<image x="67.0" y="445" width="20" height="16" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEgAAABICAMAAABiM0N1AAAAY1BMVEVHcEzULSfULSfULSfu7u7u7u7ULScfQpsfQpvu7u4fQpvULSfu7u4fQpvu7u4fQpvULSf///8fQpvu7u7H0Obj5/MtTqG5xOBJZa6drNNzicGBlcc7WqiPoc3V3OxXcbTx8/kuYLR3AAAAEHRSTlMAv2AgYCDPIL/Pz++/YO/vyYUPgAAAAMZJREFUeNrt0MkOwjAMRVE3LaUTgzN2hv//SlJaCSGxQLLZFN9NdkfOA0nab6dCf8h8WZNtzLHSmgDFysPTuWgqZM6LVGk6ZMq4j+aATAYFD9SA5oHMGzS0TFDoeCCPjgfqEVsqNAZrrUN08Qmki9oZt6ynfc13qzPQN7IY6+hje1xydKjHez8hjmQozNG4OfpG0/pBKvRKoH+CrkwJJJBAAgn0eyjhcRJQPJACyDmcHADSmu7UKSxSTr4nhTWVkHZWIEm77QHK7/qVA+9M+gAAAABJRU5ErkJggg=="/>
 <text x="94.0" y="458" font-size="12" fill="#e2e8f0">Radio Zona 90.3</text>
 <rect x="377.0" y="442" width="349.0" height="22" rx="4" fill="#121b30"/>
 <title>#364 · 🇨🇱 Chile — Recuerdos Retro Radio TV (Música)</title>
 <text x="383.0" y="458" font-size="12.5" font-weight="700" fill="#9333ea" font-family="Consolas, Menlo, monospace">#364</text>
-<text x="425.0" y="458" font-size="12">🇨🇱</text>
+<image x="424.0" y="445" width="20" height="16" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEgAAABICAMAAABiM0N1AAAAY1BMVEVHcEzULSfULSfULSfu7u7u7u7ULScfQpsfQpvu7u4fQpvULSfu7u4fQpvu7u4fQpvULSf///8fQpvu7u7H0Obj5/MtTqG5xOBJZa6drNNzicGBlcc7WqiPoc3V3OxXcbTx8/kuYLR3AAAAEHRSTlMAv2AgYCDPIL/Pz++/YO/vyYUPgAAAAMZJREFUeNrt0MkOwjAMRVE3LaUTgzN2hv//SlJaCSGxQLLZFN9NdkfOA0nab6dCf8h8WZNtzLHSmgDFysPTuWgqZM6LVGk6ZMq4j+aATAYFD9SA5oHMGzS0TFDoeCCPjgfqEVsqNAZrrUN08Qmki9oZt6ynfc13qzPQN7IY6+hje1xydKjHez8hjmQozNG4OfpG0/pBKvRKoH+CrkwJJJBAAgn0eyjhcRJQPJACyDmcHADSmu7UKSxSTr4nhTWVkHZWIEm77QHK7/qVA+9M+gAAAABJRU5ErkJggg=="/>
 <text x="451.0" y="458" font-size="12" fill="#e2e8f0">Recuerdos Retro Radio TV</text>
 <rect x="734.0" y="442" width="349.0" height="22" rx="4" fill="#121b30"/>
 <title>#365 · 🇨🇱 Chile — Retro Plus TV (Música)</title>
 <text x="740.0" y="458" font-size="12.5" font-weight="700" fill="#9333ea" font-family="Consolas, Menlo, monospace">#365</text>
-<text x="782.0" y="458" font-size="12">🇨🇱</text>
+<image x="781.0" y="445" width="20" height="16" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEgAAABICAMAAABiM0N1AAAAY1BMVEVHcEzULSfULSfULSfu7u7u7u7ULScfQpsfQpvu7u4fQpvULSfu7u4fQpvu7u4fQpvULSf///8fQpvu7u7H0Obj5/MtTqG5xOBJZa6drNNzicGBlcc7WqiPoc3V3OxXcbTx8/kuYLR3AAAAEHRSTlMAv2AgYCDPIL/Pz++/YO/vyYUPgAAAAMZJREFUeNrt0MkOwjAMRVE3LaUTgzN2hv//SlJaCSGxQLLZFN9NdkfOA0nab6dCf8h8WZNtzLHSmgDFysPTuWgqZM6LVGk6ZMq4j+aATAYFD9SA5oHMGzS0TFDoeCCPjgfqEVsqNAZrrUN08Qmki9oZt6ynfc13qzPQN7IY6+hje1xydKjHez8hjmQozNG4OfpG0/pBKvRKoH+CrkwJJJBAAgn0eyjhcRJQPJACyDmcHADSmu7UKSxSTr4nhTWVkHZWIEm77QHK7/qVA+9M+gAAAABJRU5ErkJggg=="/>
 <text x="808.0" y="458" font-size="12" fill="#e2e8f0">Retro Plus TV</text>
 <rect x="1091.0" y="442" width="349.0" height="22" rx="4" fill="#121b30"/>
 <title>#366 · 🇨🇱 Chile — Retro Plus TV Señal 2 (Música)</title>
 <text x="1097.0" y="458" font-size="12.5" font-weight="700" fill="#9333ea" font-family="Consolas, Menlo, monospace">#366</text>
-<text x="1139.0" y="458" font-size="12">🇨🇱</text>
+<image x="1138.0" y="445" width="20" height="16" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEgAAABICAMAAABiM0N1AAAAY1BMVEVHcEzULSfULSfULSfu7u7u7u7ULScfQpsfQpvu7u4fQpvULSfu7u4fQpvu7u4fQpvULSf///8fQpvu7u7H0Obj5/MtTqG5xOBJZa6drNNzicGBlcc7WqiPoc3V3OxXcbTx8/kuYLR3AAAAEHRSTlMAv2AgYCDPIL/Pz++/YO/vyYUPgAAAAMZJREFUeNrt0MkOwjAMRVE3LaUTgzN2hv//SlJaCSGxQLLZFN9NdkfOA0nab6dCf8h8WZNtzLHSmgDFysPTuWgqZM6LVGk6ZMq4j+aATAYFD9SA5oHMGzS0TFDoeCCPjgfqEVsqNAZrrUN08Qmki9oZt6ynfc13qzPQN7IY6+hje1xydKjHez8hjmQozNG4OfpG0/pBKvRKoH+CrkwJJJBAAgn0eyjhcRJQPJACyDmcHADSmu7UKSxSTr4nhTWVkHZWIEm77QHK7/qVA+9M+gAAAABJRU5ErkJggg=="/>
 <text x="1165.0" y="458" font-size="12" fill="#e2e8f0">Retro Plus TV Señal 2</text>
 <rect x="20.0" y="466" width="349.0" height="22" rx="4" fill="#0f172a"/>
 <title>#367 · 🇨🇱 Chile — Retromusica Television (Música)</title>
 <text x="26.0" y="482" font-size="12.5" font-weight="700" fill="#9333ea" font-family="Consolas, Menlo, monospace">#367</text>
-<text x="68.0" y="482" font-size="12">🇨🇱</text>
+<image x="67.0" y="469" width="20" height="16" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEgAAABICAMAAABiM0N1AAAAY1BMVEVHcEzULSfULSfULSfu7u7u7u7ULScfQpsfQpvu7u4fQpvULSfu7u4fQpvu7u4fQpvULSf///8fQpvu7u7H0Obj5/MtTqG5xOBJZa6drNNzicGBlcc7WqiPoc3V3OxXcbTx8/kuYLR3AAAAEHRSTlMAv2AgYCDPIL/Pz++/YO/vyYUPgAAAAMZJREFUeNrt0MkOwjAMRVE3LaUTgzN2hv//SlJaCSGxQLLZFN9NdkfOA0nab6dCf8h8WZNtzLHSmgDFysPTuWgqZM6LVGk6ZMq4j+aATAYFD9SA5oHMGzS0TFDoeCCPjgfqEVsqNAZrrUN08Qmki9oZt6ynfc13qzPQN7IY6+hje1xydKjHez8hjmQozNG4OfpG0/pBKvRKoH+CrkwJJJBAAgn0eyjhcRJQPJACyDmcHADSmu7UKSxSTr4nhTWVkHZWIEm77QHK7/qVA+9M+gAAAABJRU5ErkJggg=="/>
 <text x="94.0" y="482" font-size="12" fill="#e2e8f0">Retromusica Television</text>
 <rect x="377.0" y="466" width="349.0" height="22" rx="4" fill="#0f172a"/>
 <title>#368 · 🇨🇱 Chile — Retromusica Television (Música)</title>
 <text x="383.0" y="482" font-size="12.5" font-weight="700" fill="#9333ea" font-family="Consolas, Menlo, monospace">#368</text>
-<text x="425.0" y="482" font-size="12">🇨🇱</text>
+<image x="424.0" y="469" width="20" height="16" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEgAAABICAMAAABiM0N1AAAAY1BMVEVHcEzULSfULSfULSfu7u7u7u7ULScfQpsfQpvu7u4fQpvULSfu7u4fQpvu7u4fQpvULSf///8fQpvu7u7H0Obj5/MtTqG5xOBJZa6drNNzicGBlcc7WqiPoc3V3OxXcbTx8/kuYLR3AAAAEHRSTlMAv2AgYCDPIL/Pz++/YO/vyYUPgAAAAMZJREFUeNrt0MkOwjAMRVE3LaUTgzN2hv//SlJaCSGxQLLZFN9NdkfOA0nab6dCf8h8WZNtzLHSmgDFysPTuWgqZM6LVGk6ZMq4j+aATAYFD9SA5oHMGzS0TFDoeCCPjgfqEVsqNAZrrUN08Qmki9oZt6ynfc13qzPQN7IY6+hje1xydKjHez8hjmQozNG4OfpG0/pBKvRKoH+CrkwJJJBAAgn0eyjhcRJQPJACyDmcHADSmu7UKSxSTr4nhTWVkHZWIEm77QHK7/qVA+9M+gAAAABJRU5ErkJggg=="/>
 <text x="451.0" y="482" font-size="12" fill="#e2e8f0">Retromusica Television</text>
 <rect x="734.0" y="466" width="349.0" height="22" rx="4" fill="#0f172a"/>
 <title>#369 · 🇨🇱 Chile — Rewind (Música)</title>
 <text x="740.0" y="482" font-size="12.5" font-weight="700" fill="#9333ea" font-family="Consolas, Menlo, monospace">#369</text>
-<text x="782.0" y="482" font-size="12">🇨🇱</text>
+<image x="781.0" y="469" width="20" height="16" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEgAAABICAMAAABiM0N1AAAAY1BMVEVHcEzULSfULSfULSfu7u7u7u7ULScfQpsfQpvu7u4fQpvULSfu7u4fQpvu7u4fQpvULSf///8fQpvu7u7H0Obj5/MtTqG5xOBJZa6drNNzicGBlcc7WqiPoc3V3OxXcbTx8/kuYLR3AAAAEHRSTlMAv2AgYCDPIL/Pz++/YO/vyYUPgAAAAMZJREFUeNrt0MkOwjAMRVE3LaUTgzN2hv//SlJaCSGxQLLZFN9NdkfOA0nab6dCf8h8WZNtzLHSmgDFysPTuWgqZM6LVGk6ZMq4j+aATAYFD9SA5oHMGzS0TFDoeCCPjgfqEVsqNAZrrUN08Qmki9oZt6ynfc13qzPQN7IY6+hje1xydKjHez8hjmQozNG4OfpG0/pBKvRKoH+CrkwJJJBAAgn0eyjhcRJQPJACyDmcHADSmu7UKSxSTr4nhTWVkHZWIEm77QHK7/qVA+9M+gAAAABJRU5ErkJggg=="/>
 <text x="808.0" y="482" font-size="12" fill="#e2e8f0">Rewind</text>
 <rect x="1091.0" y="466" width="349.0" height="22" rx="4" fill="#0f172a"/>
 <title>#370 · 🇨🇱 Chile — Ritoque TV (Música)</title>
 <text x="1097.0" y="482" font-size="12.5" font-weight="700" fill="#9333ea" font-family="Consolas, Menlo, monospace">#370</text>
-<text x="1139.0" y="482" font-size="12">🇨🇱</text>
+<image x="1138.0" y="469" width="20" height="16" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEgAAABICAMAAABiM0N1AAAAY1BMVEVHcEzULSfULSfULSfu7u7u7u7ULScfQpsfQpvu7u4fQpvULSfu7u4fQpvu7u4fQpvULSf///8fQpvu7u7H0Obj5/MtTqG5xOBJZa6drNNzicGBlcc7WqiPoc3V3OxXcbTx8/kuYLR3AAAAEHRSTlMAv2AgYCDPIL/Pz++/YO/vyYUPgAAAAMZJREFUeNrt0MkOwjAMRVE3LaUTgzN2hv//SlJaCSGxQLLZFN9NdkfOA0nab6dCf8h8WZNtzLHSmgDFysPTuWgqZM6LVGk6ZMq4j+aATAYFD9SA5oHMGzS0TFDoeCCPjgfqEVsqNAZrrUN08Qmki9oZt6ynfc13qzPQN7IY6+hje1xydKjHez8hjmQozNG4OfpG0/pBKvRKoH+CrkwJJJBAAgn0eyjhcRJQPJACyDmcHADSmu7UKSxSTr4nhTWVkHZWIEm77QHK7/qVA+9M+gAAAABJRU5ErkJggg=="/>
 <text x="1165.0" y="482" font-size="12" fill="#e2e8f0">Ritoque TV</text>
 <rect x="20.0" y="490" width="349.0" height="22" rx="4" fill="#121b30"/>
 <title>#371 · 🇨🇱 Chile — Ruidos TV (Música)</title>
 <text x="26.0" y="506" font-size="12.5" font-weight="700" fill="#9333ea" font-family="Consolas, Menlo, monospace">#371</text>
-<text x="68.0" y="506" font-size="12">🇨🇱</text>
+<image x="67.0" y="493" width="20" height="16" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEgAAABICAMAAABiM0N1AAAAY1BMVEVHcEzULSfULSfULSfu7u7u7u7ULScfQpsfQpvu7u4fQpvULSfu7u4fQpvu7u4fQpvULSf///8fQpvu7u7H0Obj5/MtTqG5xOBJZa6drNNzicGBlcc7WqiPoc3V3OxXcbTx8/kuYLR3AAAAEHRSTlMAv2AgYCDPIL/Pz++/YO/vyYUPgAAAAMZJREFUeNrt0MkOwjAMRVE3LaUTgzN2hv//SlJaCSGxQLLZFN9NdkfOA0nab6dCf8h8WZNtzLHSmgDFysPTuWgqZM6LVGk6ZMq4j+aATAYFD9SA5oHMGzS0TFDoeCCPjgfqEVsqNAZrrUN08Qmki9oZt6ynfc13qzPQN7IY6+hje1xydKjHez8hjmQozNG4OfpG0/pBKvRKoH+CrkwJJJBAAgn0eyjhcRJQPJACyDmcHADSmu7UKSxSTr4nhTWVkHZWIEm77QHK7/qVA+9M+gAAAABJRU5ErkJggg=="/>
 <text x="94.0" y="506" font-size="12" fill="#e2e8f0">Ruidos TV</text>
 <rect x="377.0" y="490" width="349.0" height="22" rx="4" fill="#121b30"/>
 <title>#372 · 🇨🇱 Chile — Sabor TV (Música)</title>
 <text x="383.0" y="506" font-size="12.5" font-weight="700" fill="#9333ea" font-family="Consolas, Menlo, monospace">#372</text>
-<text x="425.0" y="506" font-size="12">🇨🇱</text>
+<image x="424.0" y="493" width="20" height="16" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEgAAABICAMAAABiM0N1AAAAY1BMVEVHcEzULSfULSfULSfu7u7u7u7ULScfQpsfQpvu7u4fQpvULSfu7u4fQpvu7u4fQpvULSf///8fQpvu7u7H0Obj5/MtTqG5xOBJZa6drNNzicGBlcc7WqiPoc3V3OxXcbTx8/kuYLR3AAAAEHRSTlMAv2AgYCDPIL/Pz++/YO/vyYUPgAAAAMZJREFUeNrt0MkOwjAMRVE3LaUTgzN2hv//SlJaCSGxQLLZFN9NdkfOA0nab6dCf8h8WZNtzLHSmgDFysPTuWgqZM6LVGk6ZMq4j+aATAYFD9SA5oHMGzS0TFDoeCCPjgfqEVsqNAZrrUN08Qmki9oZt6ynfc13qzPQN7IY6+hje1xydKjHez8hjmQozNG4OfpG0/pBKvRKoH+CrkwJJJBAAgn0eyjhcRJQPJACyDmcHADSmu7UKSxSTr4nhTWVkHZWIEm77QHK7/qVA+9M+gAAAABJRU5ErkJggg=="/>
 <text x="451.0" y="506" font-size="12" fill="#e2e8f0">Sabor TV</text>
 <rect x="734.0" y="490" width="349.0" height="22" rx="4" fill="#121b30"/>
 <title>#373 · 🇨🇱 Chile — Sensacion Costa (Música)</title>
 <text x="740.0" y="506" font-size="12.5" font-weight="700" fill="#9333ea" font-family="Consolas, Menlo, monospace">#373</text>
-<text x="782.0" y="506" font-size="12">🇨🇱</text>
+<image x="781.0" y="493" width="20" height="16" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEgAAABICAMAAABiM0N1AAAAY1BMVEVHcEzULSfULSfULSfu7u7u7u7ULScfQpsfQpvu7u4fQpvULSfu7u4fQpvu7u4fQpvULSf///8fQpvu7u7H0Obj5/MtTqG5xOBJZa6drNNzicGBlcc7WqiPoc3V3OxXcbTx8/kuYLR3AAAAEHRSTlMAv2AgYCDPIL/Pz++/YO/vyYUPgAAAAMZJREFUeNrt0MkOwjAMRVE3LaUTgzN2hv//SlJaCSGxQLLZFN9NdkfOA0nab6dCf8h8WZNtzLHSmgDFysPTuWgqZM6LVGk6ZMq4j+aATAYFD9SA5oHMGzS0TFDoeCCPjgfqEVsqNAZrrUN08Qmki9oZt6ynfc13qzPQN7IY6+hje1xydKjHez8hjmQozNG4OfpG0/pBKvRKoH+CrkwJJJBAAgn0eyjhcRJQPJACyDmcHADSmu7UKSxSTr4nhTWVkHZWIEm77QHK7/qVA+9M+gAAAABJRU5ErkJggg=="/>
 <text x="808.0" y="506" font-size="12" fill="#e2e8f0">Sensacion Costa</text>
 <rect x="1091.0" y="490" width="349.0" height="22" rx="4" fill="#121b30"/>
 <title>#374 · 🇨🇱 Chile — Sensacion Costa (Música)</title>
 <text x="1097.0" y="506" font-size="12.5" font-weight="700" fill="#9333ea" font-family="Consolas, Menlo, monospace">#374</text>
-<text x="1139.0" y="506" font-size="12">🇨🇱</text>
+<image x="1138.0" y="493" width="20" height="16" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEgAAABICAMAAABiM0N1AAAAY1BMVEVHcEzULSfULSfULSfu7u7u7u7ULScfQpsfQpvu7u4fQpvULSfu7u4fQpvu7u4fQpvULSf///8fQpvu7u7H0Obj5/MtTqG5xOBJZa6drNNzicGBlcc7WqiPoc3V3OxXcbTx8/kuYLR3AAAAEHRSTlMAv2AgYCDPIL/Pz++/YO/vyYUPgAAAAMZJREFUeNrt0MkOwjAMRVE3LaUTgzN2hv//SlJaCSGxQLLZFN9NdkfOA0nab6dCf8h8WZNtzLHSmgDFysPTuWgqZM6LVGk6ZMq4j+aATAYFD9SA5oHMGzS0TFDoeCCPjgfqEVsqNAZrrUN08Qmki9oZt6ynfc13qzPQN7IY6+hje1xydKjHez8hjmQozNG4OfpG0/pBKvRKoH+CrkwJJJBAAgn0eyjhcRJQPJACyDmcHADSmu7UKSxSTr4nhTWVkHZWIEm77QHK7/qVA+9M+gAAAABJRU5ErkJggg=="/>
 <text x="1165.0" y="506" font-size="12" fill="#e2e8f0">Sensacion Costa</text>
 <rect x="20.0" y="514" width="349.0" height="22" rx="4" fill="#0f172a"/>
 <title>#375 · 🇨🇱 Chile — Solo Bailalo (Música)</title>
 <text x="26.0" y="530" font-size="12.5" font-weight="700" fill="#9333ea" font-family="Consolas, Menlo, monospace">#375</text>
-<text x="68.0" y="530" font-size="12">🇨🇱</text>
+<image x="67.0" y="517" width="20" height="16" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEgAAABICAMAAABiM0N1AAAAY1BMVEVHcEzULSfULSfULSfu7u7u7u7ULScfQpsfQpvu7u4fQpvULSfu7u4fQpvu7u4fQpvULSf///8fQpvu7u7H0Obj5/MtTqG5xOBJZa6drNNzicGBlcc7WqiPoc3V3OxXcbTx8/kuYLR3AAAAEHRSTlMAv2AgYCDPIL/Pz++/YO/vyYUPgAAAAMZJREFUeNrt0MkOwjAMRVE3LaUTgzN2hv//SlJaCSGxQLLZFN9NdkfOA0nab6dCf8h8WZNtzLHSmgDFysPTuWgqZM6LVGk6ZMq4j+aATAYFD9SA5oHMGzS0TFDoeCCPjgfqEVsqNAZrrUN08Qmki9oZt6ynfc13qzPQN7IY6+hje1xydKjHez8hjmQozNG4OfpG0/pBKvRKoH+CrkwJJJBAAgn0eyjhcRJQPJACyDmcHADSmu7UKSxSTr4nhTWVkHZWIEm77QHK7/qVA+9M+gAAAABJRU5ErkJggg=="/>
 <text x="94.0" y="530" font-size="12" fill="#e2e8f0">Solo Bailalo</text>
 <rect x="377.0" y="514" width="349.0" height="22" rx="4" fill="#0f172a"/>
 <title>#376 · 🇨🇱 Chile — Tele13 Radio (Música)</title>
 <text x="383.0" y="530" font-size="12.5" font-weight="700" fill="#9333ea" font-family="Consolas, Menlo, monospace">#376</text>
-<text x="425.0" y="530" font-size="12">🇨🇱</text>
+<image x="424.0" y="517" width="20" height="16" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEgAAABICAMAAABiM0N1AAAAY1BMVEVHcEzULSfULSfULSfu7u7u7u7ULScfQpsfQpvu7u4fQpvULSfu7u4fQpvu7u4fQpvULSf///8fQpvu7u7H0Obj5/MtTqG5xOBJZa6drNNzicGBlcc7WqiPoc3V3OxXcbTx8/kuYLR3AAAAEHRSTlMAv2AgYCDPIL/Pz++/YO/vyYUPgAAAAMZJREFUeNrt0MkOwjAMRVE3LaUTgzN2hv//SlJaCSGxQLLZFN9NdkfOA0nab6dCf8h8WZNtzLHSmgDFysPTuWgqZM6LVGk6ZMq4j+aATAYFD9SA5oHMGzS0TFDoeCCPjgfqEVsqNAZrrUN08Qmki9oZt6ynfc13qzPQN7IY6+hje1xydKjHez8hjmQozNG4OfpG0/pBKvRKoH+CrkwJJJBAAgn0eyjhcRJQPJACyDmcHADSmu7UKSxSTr4nhTWVkHZWIEm77QHK7/qVA+9M+gAAAABJRU5ErkJggg=="/>
 <text x="451.0" y="530" font-size="12" fill="#e2e8f0">Tele13 Radio</text>
 <rect x="734.0" y="514" width="349.0" height="22" rx="4" fill="#0f172a"/>
 <title>#377 · 🇨🇱 Chile — Tele13 Radio (Música)</title>
 <text x="740.0" y="530" font-size="12.5" font-weight="700" fill="#9333ea" font-family="Consolas, Menlo, monospace">#377</text>
-<text x="782.0" y="530" font-size="12">🇨🇱</text>
+<image x="781.0" y="517" width="20" height="16" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEgAAABICAMAAABiM0N1AAAAY1BMVEVHcEzULSfULSfULSfu7u7u7u7ULScfQpsfQpvu7u4fQpvULSfu7u4fQpvu7u4fQpvULSf///8fQpvu7u7H0Obj5/MtTqG5xOBJZa6drNNzicGBlcc7WqiPoc3V3OxXcbTx8/kuYLR3AAAAEHRSTlMAv2AgYCDPIL/Pz++/YO/vyYUPgAAAAMZJREFUeNrt0MkOwjAMRVE3LaUTgzN2hv//SlJaCSGxQLLZFN9NdkfOA0nab6dCf8h8WZNtzLHSmgDFysPTuWgqZM6LVGk6ZMq4j+aATAYFD9SA5oHMGzS0TFDoeCCPjgfqEVsqNAZrrUN08Qmki9oZt6ynfc13qzPQN7IY6+hje1xydKjHez8hjmQozNG4OfpG0/pBKvRKoH+CrkwJJJBAAgn0eyjhcRJQPJACyDmcHADSmu7UKSxSTr4nhTWVkHZWIEm77QHK7/qVA+9M+gAAAABJRU5ErkJggg=="/>
 <text x="808.0" y="530" font-size="12" fill="#e2e8f0">Tele13 Radio</text>
 <rect x="1091.0" y="514" width="349.0" height="22" rx="4" fill="#0f172a"/>
 <title>#378 · 🇨🇱 Chile — Teleangol Radio (Música)</title>
 <text x="1097.0" y="530" font-size="12.5" font-weight="700" fill="#9333ea" font-family="Consolas, Menlo, monospace">#378</text>
-<text x="1139.0" y="530" font-size="12">🇨🇱</text>
+<image x="1138.0" y="517" width="20" height="16" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEgAAABICAMAAABiM0N1AAAAY1BMVEVHcEzULSfULSfULSfu7u7u7u7ULScfQpsfQpvu7u4fQpvULSfu7u4fQpvu7u4fQpvULSf///8fQpvu7u7H0Obj5/MtTqG5xOBJZa6drNNzicGBlcc7WqiPoc3V3OxXcbTx8/kuYLR3AAAAEHRSTlMAv2AgYCDPIL/Pz++/YO/vyYUPgAAAAMZJREFUeNrt0MkOwjAMRVE3LaUTgzN2hv//SlJaCSGxQLLZFN9NdkfOA0nab6dCf8h8WZNtzLHSmgDFysPTuWgqZM6LVGk6ZMq4j+aATAYFD9SA5oHMGzS0TFDoeCCPjgfqEVsqNAZrrUN08Qmki9oZt6ynfc13qzPQN7IY6+hje1xydKjHez8hjmQozNG4OfpG0/pBKvRKoH+CrkwJJJBAAgn0eyjhcRJQPJACyDmcHADSmu7UKSxSTr4nhTWVkHZWIEm77QHK7/qVA+9M+gAAAABJRU5ErkJggg=="/>
 <text x="1165.0" y="530" font-size="12" fill="#e2e8f0">Teleangol Radio</text>
 <rect x="20.0" y="538" width="349.0" height="22" rx="4" fill="#121b30"/>
 <title>#379 · 🇨🇱 Chile — TeleZeta Tropical (Música)</title>
 <text x="26.0" y="554" font-size="12.5" font-weight="700" fill="#9333ea" font-family="Consolas, Menlo, monospace">#379</text>
-<text x="68.0" y="554" font-size="12">🇨🇱</text>
+<image x="67.0" y="541" width="20" height="16" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEgAAABICAMAAABiM0N1AAAAY1BMVEVHcEzULSfULSfULSfu7u7u7u7ULScfQpsfQpvu7u4fQpvULSfu7u4fQpvu7u4fQpvULSf///8fQpvu7u7H0Obj5/MtTqG5xOBJZa6drNNzicGBlcc7WqiPoc3V3OxXcbTx8/kuYLR3AAAAEHRSTlMAv2AgYCDPIL/Pz++/YO/vyYUPgAAAAMZJREFUeNrt0MkOwjAMRVE3LaUTgzN2hv//SlJaCSGxQLLZFN9NdkfOA0nab6dCf8h8WZNtzLHSmgDFysPTuWgqZM6LVGk6ZMq4j+aATAYFD9SA5oHMGzS0TFDoeCCPjgfqEVsqNAZrrUN08Qmki9oZt6ynfc13qzPQN7IY6+hje1xydKjHez8hjmQozNG4OfpG0/pBKvRKoH+CrkwJJJBAAgn0eyjhcRJQPJACyDmcHADSmu7UKSxSTr4nhTWVkHZWIEm77QHK7/qVA+9M+gAAAABJRU5ErkJggg=="/>
 <text x="94.0" y="554" font-size="12" fill="#e2e8f0">TeleZeta Tropical</text>
 <rect x="377.0" y="538" width="349.0" height="22" rx="4" fill="#121b30"/>
 <title>#380 · 🇨🇱 Chile — Tropical Ranchero (Música)</title>
 <text x="383.0" y="554" font-size="12.5" font-weight="700" fill="#9333ea" font-family="Consolas, Menlo, monospace">#380</text>
-<text x="425.0" y="554" font-size="12">🇨🇱</text>
+<image x="424.0" y="541" width="20" height="16" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEgAAABICAMAAABiM0N1AAAAY1BMVEVHcEzULSfULSfULSfu7u7u7u7ULScfQpsfQpvu7u4fQpvULSfu7u4fQpvu7u4fQpvULSf///8fQpvu7u7H0Obj5/MtTqG5xOBJZa6drNNzicGBlcc7WqiPoc3V3OxXcbTx8/kuYLR3AAAAEHRSTlMAv2AgYCDPIL/Pz++/YO/vyYUPgAAAAMZJREFUeNrt0MkOwjAMRVE3LaUTgzN2hv//SlJaCSGxQLLZFN9NdkfOA0nab6dCf8h8WZNtzLHSmgDFysPTuWgqZM6LVGk6ZMq4j+aATAYFD9SA5oHMGzS0TFDoeCCPjgfqEVsqNAZrrUN08Qmki9oZt6ynfc13qzPQN7IY6+hje1xydKjHez8hjmQozNG4OfpG0/pBKvRKoH+CrkwJJJBAAgn0eyjhcRJQPJACyDmcHADSmu7UKSxSTr4nhTWVkHZWIEm77QHK7/qVA+9M+gAAAABJRU5ErkJggg=="/>
 <text x="451.0" y="554" font-size="12" fill="#e2e8f0">Tropical Ranchero</text>
 <rect x="734.0" y="538" width="349.0" height="22" rx="4" fill="#121b30"/>
 <title>#381 · 🇨🇱 Chile — TV vconline.cl (Música)</title>
 <text x="740.0" y="554" font-size="12.5" font-weight="700" fill="#9333ea" font-family="Consolas, Menlo, monospace">#381</text>
-<text x="782.0" y="554" font-size="12">🇨🇱</text>
+<image x="781.0" y="541" width="20" height="16" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEgAAABICAMAAABiM0N1AAAAY1BMVEVHcEzULSfULSfULSfu7u7u7u7ULScfQpsfQpvu7u4fQpvULSfu7u4fQpvu7u4fQpvULSf///8fQpvu7u7H0Obj5/MtTqG5xOBJZa6drNNzicGBlcc7WqiPoc3V3OxXcbTx8/kuYLR3AAAAEHRSTlMAv2AgYCDPIL/Pz++/YO/vyYUPgAAAAMZJREFUeNrt0MkOwjAMRVE3LaUTgzN2hv//SlJaCSGxQLLZFN9NdkfOA0nab6dCf8h8WZNtzLHSmgDFysPTuWgqZM6LVGk6ZMq4j+aATAYFD9SA5oHMGzS0TFDoeCCPjgfqEVsqNAZrrUN08Qmki9oZt6ynfc13qzPQN7IY6+hje1xydKjHez8hjmQozNG4OfpG0/pBKvRKoH+CrkwJJJBAAgn0eyjhcRJQPJACyDmcHADSmu7UKSxSTr4nhTWVkHZWIEm77QHK7/qVA+9M+gAAAABJRU5ErkJggg=="/>
 <text x="808.0" y="554" font-size="12" fill="#e2e8f0">TV vconline.cl</text>
 <rect x="1091.0" y="538" width="349.0" height="22" rx="4" fill="#121b30"/>
 <title>#382 · 🇨🇱 Chile — Urban Pro DJ (Música)</title>
 <text x="1097.0" y="554" font-size="12.5" font-weight="700" fill="#9333ea" font-family="Consolas, Menlo, monospace">#382</text>
-<text x="1139.0" y="554" font-size="12">🇨🇱</text>
+<image x="1138.0" y="541" width="20" height="16" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEgAAABICAMAAABiM0N1AAAAY1BMVEVHcEzULSfULSfULSfu7u7u7u7ULScfQpsfQpvu7u4fQpvULSfu7u4fQpvu7u4fQpvULSf///8fQpvu7u7H0Obj5/MtTqG5xOBJZa6drNNzicGBlcc7WqiPoc3V3OxXcbTx8/kuYLR3AAAAEHRSTlMAv2AgYCDPIL/Pz++/YO/vyYUPgAAAAMZJREFUeNrt0MkOwjAMRVE3LaUTgzN2hv//SlJaCSGxQLLZFN9NdkfOA0nab6dCf8h8WZNtzLHSmgDFysPTuWgqZM6LVGk6ZMq4j+aATAYFD9SA5oHMGzS0TFDoeCCPjgfqEVsqNAZrrUN08Qmki9oZt6ynfc13qzPQN7IY6+hje1xydKjHez8hjmQozNG4OfpG0/pBKvRKoH+CrkwJJJBAAgn0eyjhcRJQPJACyDmcHADSmu7UKSxSTr4nhTWVkHZWIEm77QHK7/qVA+9M+gAAAABJRU5ErkJggg=="/>
 <text x="1165.0" y="554" font-size="12" fill="#e2e8f0">Urban Pro DJ</text>
 <rect x="20.0" y="562" width="349.0" height="22" rx="4" fill="#0f172a"/>
 <title>#383 · 🇨🇱 Chile — VClassicTV (Música)</title>
 <text x="26.0" y="578" font-size="12.5" font-weight="700" fill="#9333ea" font-family="Consolas, Menlo, monospace">#383</text>
-<text x="68.0" y="578" font-size="12">🇨🇱</text>
+<image x="67.0" y="565" width="20" height="16" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEgAAABICAMAAABiM0N1AAAAY1BMVEVHcEzULSfULSfULSfu7u7u7u7ULScfQpsfQpvu7u4fQpvULSfu7u4fQpvu7u4fQpvULSf///8fQpvu7u7H0Obj5/MtTqG5xOBJZa6drNNzicGBlcc7WqiPoc3V3OxXcbTx8/kuYLR3AAAAEHRSTlMAv2AgYCDPIL/Pz++/YO/vyYUPgAAAAMZJREFUeNrt0MkOwjAMRVE3LaUTgzN2hv//SlJaCSGxQLLZFN9NdkfOA0nab6dCf8h8WZNtzLHSmgDFysPTuWgqZM6LVGk6ZMq4j+aATAYFD9SA5oHMGzS0TFDoeCCPjgfqEVsqNAZrrUN08Qmki9oZt6ynfc13qzPQN7IY6+hje1xydKjHez8hjmQozNG4OfpG0/pBKvRKoH+CrkwJJJBAAgn0eyjhcRJQPJACyDmcHADSmu7UKSxSTr4nhTWVkHZWIEm77QHK7/qVA+9M+gAAAABJRU5ErkJggg=="/>
 <text x="94.0" y="578" font-size="12" fill="#e2e8f0">VClassicTV</text>
 <rect x="377.0" y="562" width="349.0" height="22" rx="4" fill="#0f172a"/>
 <title>#384 · 🇨🇱 Chile — VClassicTV Tropical (Música)</title>
 <text x="383.0" y="578" font-size="12.5" font-weight="700" fill="#9333ea" font-family="Consolas, Menlo, monospace">#384</text>
-<text x="425.0" y="578" font-size="12">🇨🇱</text>
+<image x="424.0" y="565" width="20" height="16" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEgAAABICAMAAABiM0N1AAAAY1BMVEVHcEzULSfULSfULSfu7u7u7u7ULScfQpsfQpvu7u4fQpvULSfu7u4fQpvu7u4fQpvULSf///8fQpvu7u7H0Obj5/MtTqG5xOBJZa6drNNzicGBlcc7WqiPoc3V3OxXcbTx8/kuYLR3AAAAEHRSTlMAv2AgYCDPIL/Pz++/YO/vyYUPgAAAAMZJREFUeNrt0MkOwjAMRVE3LaUTgzN2hv//SlJaCSGxQLLZFN9NdkfOA0nab6dCf8h8WZNtzLHSmgDFysPTuWgqZM6LVGk6ZMq4j+aATAYFD9SA5oHMGzS0TFDoeCCPjgfqEVsqNAZrrUN08Qmki9oZt6ynfc13qzPQN7IY6+hje1xydKjHez8hjmQozNG4OfpG0/pBKvRKoH+CrkwJJJBAAgn0eyjhcRJQPJACyDmcHADSmu7UKSxSTr4nhTWVkHZWIEm77QHK7/qVA+9M+gAAAABJRU5ErkJggg=="/>
 <text x="451.0" y="578" font-size="12" fill="#e2e8f0">VClassicTV Tropical</text>
 <rect x="734.0" y="562" width="349.0" height="22" rx="4" fill="#0f172a"/>
 <title>#385 · 🇨🇱 Chile — ADN (Radio)</title>
 <text x="740.0" y="578" font-size="12.5" font-weight="700" fill="#9333ea" font-family="Consolas, Menlo, monospace">#385</text>
-<text x="782.0" y="578" font-size="12">🇨🇱</text>
+<image x="781.0" y="565" width="20" height="16" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEgAAABICAMAAABiM0N1AAAAY1BMVEVHcEzULSfULSfULSfu7u7u7u7ULScfQpsfQpvu7u4fQpvULSfu7u4fQpvu7u4fQpvULSf///8fQpvu7u7H0Obj5/MtTqG5xOBJZa6drNNzicGBlcc7WqiPoc3V3OxXcbTx8/kuYLR3AAAAEHRSTlMAv2AgYCDPIL/Pz++/YO/vyYUPgAAAAMZJREFUeNrt0MkOwjAMRVE3LaUTgzN2hv//SlJaCSGxQLLZFN9NdkfOA0nab6dCf8h8WZNtzLHSmgDFysPTuWgqZM6LVGk6ZMq4j+aATAYFD9SA5oHMGzS0TFDoeCCPjgfqEVsqNAZrrUN08Qmki9oZt6ynfc13qzPQN7IY6+hje1xydKjHez8hjmQozNG4OfpG0/pBKvRKoH+CrkwJJJBAAgn0eyjhcRJQPJACyDmcHADSmu7UKSxSTr4nhTWVkHZWIEm77QHK7/qVA+9M+gAAAABJRU5ErkJggg=="/>
 <text x="808.0" y="578" font-size="12" fill="#e2e8f0">ADN</text>
 <rect x="1091.0" y="562" width="349.0" height="22" rx="4" fill="#0f172a"/>
 <title>#386 · 🇨🇱 Chile — Centaury Radio HD (Radio)</title>
 <text x="1097.0" y="578" font-size="12.5" font-weight="700" fill="#9333ea" font-family="Consolas, Menlo, monospace">#386</text>
-<text x="1139.0" y="578" font-size="12">🇨🇱</text>
+<image x="1138.0" y="565" width="20" height="16" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEgAAABICAMAAABiM0N1AAAAY1BMVEVHcEzULSfULSfULSfu7u7u7u7ULScfQpsfQpvu7u4fQpvULSfu7u4fQpvu7u4fQpvULSf///8fQpvu7u7H0Obj5/MtTqG5xOBJZa6drNNzicGBlcc7WqiPoc3V3OxXcbTx8/kuYLR3AAAAEHRSTlMAv2AgYCDPIL/Pz++/YO/vyYUPgAAAAMZJREFUeNrt0MkOwjAMRVE3LaUTgzN2hv//SlJaCSGxQLLZFN9NdkfOA0nab6dCf8h8WZNtzLHSmgDFysPTuWgqZM6LVGk6ZMq4j+aATAYFD9SA5oHMGzS0TFDoeCCPjgfqEVsqNAZrrUN08Qmki9oZt6ynfc13qzPQN7IY6+hje1xydKjHez8hjmQozNG4OfpG0/pBKvRKoH+CrkwJJJBAAgn0eyjhcRJQPJACyDmcHADSmu7UKSxSTr4nhTWVkHZWIEm77QHK7/qVA+9M+gAAAABJRU5ErkJggg=="/>
 <text x="1165.0" y="578" font-size="12" fill="#e2e8f0">Centaury Radio HD</text>
 <rect x="20.0" y="586" width="349.0" height="22" rx="4" fill="#121b30"/>
 <title>#387 · 🇨🇱 Chile — Cooperativa (Radio)</title>
 <text x="26.0" y="602" font-size="12.5" font-weight="700" fill="#9333ea" font-family="Consolas, Menlo, monospace">#387</text>
-<text x="68.0" y="602" font-size="12">🇨🇱</text>
+<image x="67.0" y="589" width="20" height="16" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEgAAABICAMAAABiM0N1AAAAY1BMVEVHcEzULSfULSfULSfu7u7u7u7ULScfQpsfQpvu7u4fQpvULSfu7u4fQpvu7u4fQpvULSf///8fQpvu7u7H0Obj5/MtTqG5xOBJZa6drNNzicGBlcc7WqiPoc3V3OxXcbTx8/kuYLR3AAAAEHRSTlMAv2AgYCDPIL/Pz++/YO/vyYUPgAAAAMZJREFUeNrt0MkOwjAMRVE3LaUTgzN2hv//SlJaCSGxQLLZFN9NdkfOA0nab6dCf8h8WZNtzLHSmgDFysPTuWgqZM6LVGk6ZMq4j+aATAYFD9SA5oHMGzS0TFDoeCCPjgfqEVsqNAZrrUN08Qmki9oZt6ynfc13qzPQN7IY6+hje1xydKjHez8hjmQozNG4OfpG0/pBKvRKoH+CrkwJJJBAAgn0eyjhcRJQPJACyDmcHADSmu7UKSxSTr4nhTWVkHZWIEm77QHK7/qVA+9M+gAAAABJRU5ErkJggg=="/>
 <text x="94.0" y="602" font-size="12" fill="#e2e8f0">Cooperativa</text>
 <rect x="377.0" y="586" width="349.0" height="22" rx="4" fill="#121b30"/>
 <title>#388 · 🇨🇱 Chile — Cooperativa Ciencia (Radio)</title>
 <text x="383.0" y="602" font-size="12.5" font-weight="700" fill="#9333ea" font-family="Consolas, Menlo, monospace">#388</text>
-<text x="425.0" y="602" font-size="12">🇨🇱</text>
+<image x="424.0" y="589" width="20" height="16" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEgAAABICAMAAABiM0N1AAAAY1BMVEVHcEzULSfULSfULSfu7u7u7u7ULScfQpsfQpvu7u4fQpvULSfu7u4fQpvu7u4fQpvULSf///8fQpvu7u7H0Obj5/MtTqG5xOBJZa6drNNzicGBlcc7WqiPoc3V3OxXcbTx8/kuYLR3AAAAEHRSTlMAv2AgYCDPIL/Pz++/YO/vyYUPgAAAAMZJREFUeNrt0MkOwjAMRVE3LaUTgzN2hv//SlJaCSGxQLLZFN9NdkfOA0nab6dCf8h8WZNtzLHSmgDFysPTuWgqZM6LVGk6ZMq4j+aATAYFD9SA5oHMGzS0TFDoeCCPjgfqEVsqNAZrrUN08Qmki9oZt6ynfc13qzPQN7IY6+hje1xydKjHez8hjmQozNG4OfpG0/pBKvRKoH+CrkwJJJBAAgn0eyjhcRJQPJACyDmcHADSmu7UKSxSTr4nhTWVkHZWIEm77QHK7/qVA+9M+gAAAABJRU5ErkJggg=="/>
 <text x="451.0" y="602" font-size="12" fill="#e2e8f0">Cooperativa Ciencia</text>
 <rect x="734.0" y="586" width="349.0" height="22" rx="4" fill="#121b30"/>
 <title>#389 · 🇨🇱 Chile — Dance FM (Radio)</title>
 <text x="740.0" y="602" font-size="12.5" font-weight="700" fill="#9333ea" font-family="Consolas, Menlo, monospace">#389</text>
-<text x="782.0" y="602" font-size="12">🇨🇱</text>
+<image x="781.0" y="589" width="20" height="16" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEgAAABICAMAAABiM0N1AAAAY1BMVEVHcEzULSfULSfULSfu7u7u7u7ULScfQpsfQpvu7u4fQpvULSfu7u4fQpvu7u4fQpvULSf///8fQpvu7u7H0Obj5/MtTqG5xOBJZa6drNNzicGBlcc7WqiPoc3V3OxXcbTx8/kuYLR3AAAAEHRSTlMAv2AgYCDPIL/Pz++/YO/vyYUPgAAAAMZJREFUeNrt0MkOwjAMRVE3LaUTgzN2hv//SlJaCSGxQLLZFN9NdkfOA0nab6dCf8h8WZNtzLHSmgDFysPTuWgqZM6LVGk6ZMq4j+aATAYFD9SA5oHMGzS0TFDoeCCPjgfqEVsqNAZrrUN08Qmki9oZt6ynfc13qzPQN7IY6+hje1xydKjHez8hjmQozNG4OfpG0/pBKvRKoH+CrkwJJJBAAgn0eyjhcRJQPJACyDmcHADSmu7UKSxSTr4nhTWVkHZWIEm77QHK7/qVA+9M+gAAAABJRU5ErkJggg=="/>
 <text x="808.0" y="602" font-size="12" fill="#e2e8f0">Dance FM</text>
 <rect x="1091.0" y="586" width="349.0" height="22" rx="4" fill="#121b30"/>
 <title>#390 · 🇨🇱 Chile — El Radar (Radio)</title>
 <text x="1097.0" y="602" font-size="12.5" font-weight="700" fill="#9333ea" font-family="Consolas, Menlo, monospace">#390</text>
-<text x="1139.0" y="602" font-size="12">🇨🇱</text>
+<image x="1138.0" y="589" width="20" height="16" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEgAAABICAMAAABiM0N1AAAAY1BMVEVHcEzULSfULSfULSfu7u7u7u7ULScfQpsfQpvu7u4fQpvULSfu7u4fQpvu7u4fQpvULSf///8fQpvu7u7H0Obj5/MtTqG5xOBJZa6drNNzicGBlcc7WqiPoc3V3OxXcbTx8/kuYLR3AAAAEHRSTlMAv2AgYCDPIL/Pz++/YO/vyYUPgAAAAMZJREFUeNrt0MkOwjAMRVE3LaUTgzN2hv//SlJaCSGxQLLZFN9NdkfOA0nab6dCf8h8WZNtzLHSmgDFysPTuWgqZM6LVGk6ZMq4j+aATAYFD9SA5oHMGzS0TFDoeCCPjgfqEVsqNAZrrUN08Qmki9oZt6ynfc13qzPQN7IY6+hje1xydKjHez8hjmQozNG4OfpG0/pBKvRKoH+CrkwJJJBAAgn0eyjhcRJQPJACyDmcHADSmu7UKSxSTr4nhTWVkHZWIEm77QHK7/qVA+9M+gAAAABJRU5ErkJggg=="/>
 <text x="1165.0" y="602" font-size="12" fill="#e2e8f0">El Radar</text>
 <rect x="20.0" y="610" width="349.0" height="22" rx="4" fill="#0f172a"/>
 <title>#391 · 🇨🇱 Chile — EstacionRadiotv (Radio)</title>
 <text x="26.0" y="626" font-size="12.5" font-weight="700" fill="#9333ea" font-family="Consolas, Menlo, monospace">#391</text>
-<text x="68.0" y="626" font-size="12">🇨🇱</text>
+<image x="67.0" y="613" width="20" height="16" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEgAAABICAMAAABiM0N1AAAAY1BMVEVHcEzULSfULSfULSfu7u7u7u7ULScfQpsfQpvu7u4fQpvULSfu7u4fQpvu7u4fQpvULSf///8fQpvu7u7H0Obj5/MtTqG5xOBJZa6drNNzicGBlcc7WqiPoc3V3OxXcbTx8/kuYLR3AAAAEHRSTlMAv2AgYCDPIL/Pz++/YO/vyYUPgAAAAMZJREFUeNrt0MkOwjAMRVE3LaUTgzN2hv//SlJaCSGxQLLZFN9NdkfOA0nab6dCf8h8WZNtzLHSmgDFysPTuWgqZM6LVGk6ZMq4j+aATAYFD9SA5oHMGzS0TFDoeCCPjgfqEVsqNAZrrUN08Qmki9oZt6ynfc13qzPQN7IY6+hje1xydKjHez8hjmQozNG4OfpG0/pBKvRKoH+CrkwJJJBAAgn0eyjhcRJQPJACyDmcHADSmu7UKSxSTr4nhTWVkHZWIEm77QHK7/qVA+9M+gAAAABJRU5ErkJggg=="/>
 <text x="94.0" y="626" font-size="12" fill="#e2e8f0">EstacionRadiotv</text>
 <rect x="377.0" y="610" width="349.0" height="22" rx="4" fill="#0f172a"/>
 <title>#392 · 🇨🇱 Chile — HD Radio (Radio)</title>
 <text x="383.0" y="626" font-size="12.5" font-weight="700" fill="#9333ea" font-family="Consolas, Menlo, monospace">#392</text>
-<text x="425.0" y="626" font-size="12">🇨🇱</text>
+<image x="424.0" y="613" width="20" height="16" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEgAAABICAMAAABiM0N1AAAAY1BMVEVHcEzULSfULSfULSfu7u7u7u7ULScfQpsfQpvu7u4fQpvULSfu7u4fQpvu7u4fQpvULSf///8fQpvu7u7H0Obj5/MtTqG5xOBJZa6drNNzicGBlcc7WqiPoc3V3OxXcbTx8/kuYLR3AAAAEHRSTlMAv2AgYCDPIL/Pz++/YO/vyYUPgAAAAMZJREFUeNrt0MkOwjAMRVE3LaUTgzN2hv//SlJaCSGxQLLZFN9NdkfOA0nab6dCf8h8WZNtzLHSmgDFysPTuWgqZM6LVGk6ZMq4j+aATAYFD9SA5oHMGzS0TFDoeCCPjgfqEVsqNAZrrUN08Qmki9oZt6ynfc13qzPQN7IY6+hje1xydKjHez8hjmQozNG4OfpG0/pBKvRKoH+CrkwJJJBAAgn0eyjhcRJQPJACyDmcHADSmu7UKSxSTr4nhTWVkHZWIEm77QHK7/qVA+9M+gAAAABJRU5ErkJggg=="/>
 <text x="451.0" y="626" font-size="12" fill="#e2e8f0">HD Radio</text>
 <rect x="734.0" y="610" width="349.0" height="22" rx="4" fill="#0f172a"/>
 <title>#393 · 🇨🇱 Chile — La Clave (Radio)</title>
 <text x="740.0" y="626" font-size="12.5" font-weight="700" fill="#9333ea" font-family="Consolas, Menlo, monospace">#393</text>
-<text x="782.0" y="626" font-size="12">🇨🇱</text>
+<image x="781.0" y="613" width="20" height="16" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEgAAABICAMAAABiM0N1AAAAY1BMVEVHcEzULSfULSfULSfu7u7u7u7ULScfQpsfQpvu7u4fQpvULSfu7u4fQpvu7u4fQpvULSf///8fQpvu7u7H0Obj5/MtTqG5xOBJZa6drNNzicGBlcc7WqiPoc3V3OxXcbTx8/kuYLR3AAAAEHRSTlMAv2AgYCDPIL/Pz++/YO/vyYUPgAAAAMZJREFUeNrt0MkOwjAMRVE3LaUTgzN2hv//SlJaCSGxQLLZFN9NdkfOA0nab6dCf8h8WZNtzLHSmgDFysPTuWgqZM6LVGk6ZMq4j+aATAYFD9SA5oHMGzS0TFDoeCCPjgfqEVsqNAZrrUN08Qmki9oZt6ynfc13qzPQN7IY6+hje1xydKjHez8hjmQozNG4OfpG0/pBKvRKoH+CrkwJJJBAAgn0eyjhcRJQPJACyDmcHADSmu7UKSxSTr4nhTWVkHZWIEm77QHK7/qVA+9M+gAAAABJRU5ErkJggg=="/>
 <text x="808.0" y="626" font-size="12" fill="#e2e8f0">La Clave</text>
 <rect x="1091.0" y="610" width="349.0" height="22" rx="4" fill="#0f172a"/>
 <title>#394 · 🇨🇱 Chile — La Nuestra (Radio)</title>
 <text x="1097.0" y="626" font-size="12.5" font-weight="700" fill="#9333ea" font-family="Consolas, Menlo, monospace">#394</text>
-<text x="1139.0" y="626" font-size="12">🇨🇱</text>
+<image x="1138.0" y="613" width="20" height="16" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEgAAABICAMAAABiM0N1AAAAY1BMVEVHcEzULSfULSfULSfu7u7u7u7ULScfQpsfQpvu7u4fQpvULSfu7u4fQpvu7u4fQpvULSf///8fQpvu7u7H0Obj5/MtTqG5xOBJZa6drNNzicGBlcc7WqiPoc3V3OxXcbTx8/kuYLR3AAAAEHRSTlMAv2AgYCDPIL/Pz++/YO/vyYUPgAAAAMZJREFUeNrt0MkOwjAMRVE3LaUTgzN2hv//SlJaCSGxQLLZFN9NdkfOA0nab6dCf8h8WZNtzLHSmgDFysPTuWgqZM6LVGk6ZMq4j+aATAYFD9SA5oHMGzS0TFDoeCCPjgfqEVsqNAZrrUN08Qmki9oZt6ynfc13qzPQN7IY6+hje1xydKjHez8hjmQozNG4OfpG0/pBKvRKoH+CrkwJJJBAAgn0eyjhcRJQPJACyDmcHADSmu7UKSxSTr4nhTWVkHZWIEm77QHK7/qVA+9M+gAAAABJRU5ErkJggg=="/>
 <text x="1165.0" y="626" font-size="12" fill="#e2e8f0">La Nuestra</text>
 <rect x="20.0" y="634" width="349.0" height="22" rx="4" fill="#121b30"/>
 <title>#395 · 🇨🇱 Chile — PalMundo FM (Radio)</title>
 <text x="26.0" y="650" font-size="12.5" font-weight="700" fill="#9333ea" font-family="Consolas, Menlo, monospace">#395</text>
-<text x="68.0" y="650" font-size="12">🇨🇱</text>
+<image x="67.0" y="637" width="20" height="16" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEgAAABICAMAAABiM0N1AAAAY1BMVEVHcEzULSfULSfULSfu7u7u7u7ULScfQpsfQpvu7u4fQpvULSfu7u4fQpvu7u4fQpvULSf///8fQpvu7u7H0Obj5/MtTqG5xOBJZa6drNNzicGBlcc7WqiPoc3V3OxXcbTx8/kuYLR3AAAAEHRSTlMAv2AgYCDPIL/Pz++/YO/vyYUPgAAAAMZJREFUeNrt0MkOwjAMRVE3LaUTgzN2hv//SlJaCSGxQLLZFN9NdkfOA0nab6dCf8h8WZNtzLHSmgDFysPTuWgqZM6LVGk6ZMq4j+aATAYFD9SA5oHMGzS0TFDoeCCPjgfqEVsqNAZrrUN08Qmki9oZt6ynfc13qzPQN7IY6+hje1xydKjHez8hjmQozNG4OfpG0/pBKvRKoH+CrkwJJJBAAgn0eyjhcRJQPJACyDmcHADSmu7UKSxSTr4nhTWVkHZWIEm77QHK7/qVA+9M+gAAAABJRU5ErkJggg=="/>
 <text x="94.0" y="650" font-size="12" fill="#e2e8f0">PalMundo FM</text>
 <rect x="377.0" y="634" width="349.0" height="22" rx="4" fill="#121b30"/>
 <title>#396 · 🇨🇱 Chile — Pauta TV (Radio)</title>
 <text x="383.0" y="650" font-size="12.5" font-weight="700" fill="#9333ea" font-family="Consolas, Menlo, monospace">#396</text>
-<text x="425.0" y="650" font-size="12">🇨🇱</text>
+<image x="424.0" y="637" width="20" height="16" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEgAAABICAMAAABiM0N1AAAAY1BMVEVHcEzULSfULSfULSfu7u7u7u7ULScfQpsfQpvu7u4fQpvULSfu7u4fQpvu7u4fQpvULSf///8fQpvu7u7H0Obj5/MtTqG5xOBJZa6drNNzicGBlcc7WqiPoc3V3OxXcbTx8/kuYLR3AAAAEHRSTlMAv2AgYCDPIL/Pz++/YO/vyYUPgAAAAMZJREFUeNrt0MkOwjAMRVE3LaUTgzN2hv//SlJaCSGxQLLZFN9NdkfOA0nab6dCf8h8WZNtzLHSmgDFysPTuWgqZM6LVGk6ZMq4j+aATAYFD9SA5oHMGzS0TFDoeCCPjgfqEVsqNAZrrUN08Qmki9oZt6ynfc13qzPQN7IY6+hje1xydKjHez8hjmQozNG4OfpG0/pBKvRKoH+CrkwJJJBAAgn0eyjhcRJQPJACyDmcHADSmu7UKSxSTr4nhTWVkHZWIEm77QHK7/qVA+9M+gAAAABJRU5ErkJggg=="/>
 <text x="451.0" y="650" font-size="12" fill="#e2e8f0">Pauta TV</text>
 <rect x="734.0" y="634" width="349.0" height="22" rx="4" fill="#121b30"/>
 <title>#397 · 🇨🇱 Chile — Pudahuel FM (Radio)</title>
 <text x="740.0" y="650" font-size="12.5" font-weight="700" fill="#9333ea" font-family="Consolas, Menlo, monospace">#397</text>
-<text x="782.0" y="650" font-size="12">🇨🇱</text>
+<image x="781.0" y="637" width="20" height="16" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEgAAABICAMAAABiM0N1AAAAY1BMVEVHcEzULSfULSfULSfu7u7u7u7ULScfQpsfQpvu7u4fQpvULSfu7u4fQpvu7u4fQpvULSf///8fQpvu7u7H0Obj5/MtTqG5xOBJZa6drNNzicGBlcc7WqiPoc3V3OxXcbTx8/kuYLR3AAAAEHRSTlMAv2AgYCDPIL/Pz++/YO/vyYUPgAAAAMZJREFUeNrt0MkOwjAMRVE3LaUTgzN2hv//SlJaCSGxQLLZFN9NdkfOA0nab6dCf8h8WZNtzLHSmgDFysPTuWgqZM6LVGk6ZMq4j+aATAYFD9SA5oHMGzS0TFDoeCCPjgfqEVsqNAZrrUN08Qmki9oZt6ynfc13qzPQN7IY6+hje1xydKjHez8hjmQozNG4OfpG0/pBKvRKoH+CrkwJJJBAAgn0eyjhcRJQPJACyDmcHADSmu7UKSxSTr4nhTWVkHZWIEm77QHK7/qVA+9M+gAAAABJRU5ErkJggg=="/>
 <text x="808.0" y="650" font-size="12" fill="#e2e8f0">Pudahuel FM</text>
 <rect x="1091.0" y="634" width="349.0" height="22" rx="4" fill="#121b30"/>
 <title>#398 · 🇨🇱 Chile — Radio 7 Tazas de Molina (Radio)</title>
 <text x="1097.0" y="650" font-size="12.5" font-weight="700" fill="#9333ea" font-family="Consolas, Menlo, monospace">#398</text>
-<text x="1139.0" y="650" font-size="12">🇨🇱</text>
+<image x="1138.0" y="637" width="20" height="16" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEgAAABICAMAAABiM0N1AAAAY1BMVEVHcEzULSfULSfULSfu7u7u7u7ULScfQpsfQpvu7u4fQpvULSfu7u4fQpvu7u4fQpvULSf///8fQpvu7u7H0Obj5/MtTqG5xOBJZa6drNNzicGBlcc7WqiPoc3V3OxXcbTx8/kuYLR3AAAAEHRSTlMAv2AgYCDPIL/Pz++/YO/vyYUPgAAAAMZJREFUeNrt0MkOwjAMRVE3LaUTgzN2hv//SlJaCSGxQLLZFN9NdkfOA0nab6dCf8h8WZNtzLHSmgDFysPTuWgqZM6LVGk6ZMq4j+aATAYFD9SA5oHMGzS0TFDoeCCPjgfqEVsqNAZrrUN08Qmki9oZt6ynfc13qzPQN7IY6+hje1xydKjHez8hjmQozNG4OfpG0/pBKvRKoH+CrkwJJJBAAgn0eyjhcRJQPJACyDmcHADSmu7UKSxSTr4nhTWVkHZWIEm77QHK7/qVA+9M+gAAAABJRU5ErkJggg=="/>
 <text x="1165.0" y="650" font-size="12" fill="#e2e8f0">Radio 7 Tazas de Molina</text>
 <rect x="20.0" y="658" width="349.0" height="22" rx="4" fill="#0f172a"/>
 <title>#399 · 🇨🇱 Chile — Radio Agricultura (Radio)</title>
 <text x="26.0" y="674" font-size="12.5" font-weight="700" fill="#9333ea" font-family="Consolas, Menlo, monospace">#399</text>
-<text x="68.0" y="674" font-size="12">🇨🇱</text>
+<image x="67.0" y="661" width="20" height="16" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEgAAABICAMAAABiM0N1AAAAY1BMVEVHcEzULSfULSfULSfu7u7u7u7ULScfQpsfQpvu7u4fQpvULSfu7u4fQpvu7u4fQpvULSf///8fQpvu7u7H0Obj5/MtTqG5xOBJZa6drNNzicGBlcc7WqiPoc3V3OxXcbTx8/kuYLR3AAAAEHRSTlMAv2AgYCDPIL/Pz++/YO/vyYUPgAAAAMZJREFUeNrt0MkOwjAMRVE3LaUTgzN2hv//SlJaCSGxQLLZFN9NdkfOA0nab6dCf8h8WZNtzLHSmgDFysPTuWgqZM6LVGk6ZMq4j+aATAYFD9SA5oHMGzS0TFDoeCCPjgfqEVsqNAZrrUN08Qmki9oZt6ynfc13qzPQN7IY6+hje1xydKjHez8hjmQozNG4OfpG0/pBKvRKoH+CrkwJJJBAAgn0eyjhcRJQPJACyDmcHADSmu7UKSxSTr4nhTWVkHZWIEm77QHK7/qVA+9M+gAAAABJRU5ErkJggg=="/>
 <text x="94.0" y="674" font-size="12" fill="#e2e8f0">Radio Agricultura</text>
 <rect x="377.0" y="658" width="349.0" height="22" rx="4" fill="#0f172a"/>
 <title>#400 · 🇨🇱 Chile — Radio Agricultura 2 (Radio)</title>
 <text x="383.0" y="674" font-size="12.5" font-weight="700" fill="#9333ea" font-family="Consolas, Menlo, monospace">#400</text>
-<text x="425.0" y="674" font-size="12">🇨🇱</text>
+<image x="424.0" y="661" width="20" height="16" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEgAAABICAMAAABiM0N1AAAAY1BMVEVHcEzULSfULSfULSfu7u7u7u7ULScfQpsfQpvu7u4fQpvULSfu7u4fQpvu7u4fQpvULSf///8fQpvu7u7H0Obj5/MtTqG5xOBJZa6drNNzicGBlcc7WqiPoc3V3OxXcbTx8/kuYLR3AAAAEHRSTlMAv2AgYCDPIL/Pz++/YO/vyYUPgAAAAMZJREFUeNrt0MkOwjAMRVE3LaUTgzN2hv//SlJaCSGxQLLZFN9NdkfOA0nab6dCf8h8WZNtzLHSmgDFysPTuWgqZM6LVGk6ZMq4j+aATAYFD9SA5oHMGzS0TFDoeCCPjgfqEVsqNAZrrUN08Qmki9oZt6ynfc13qzPQN7IY6+hje1xydKjHez8hjmQozNG4OfpG0/pBKvRKoH+CrkwJJJBAAgn0eyjhcRJQPJACyDmcHADSmu7UKSxSTr4nhTWVkHZWIEm77QHK7/qVA+9M+gAAAABJRU5ErkJggg=="/>
 <text x="451.0" y="674" font-size="12" fill="#e2e8f0">Radio Agricultura 2</text>
 <rect x="734.0" y="658" width="349.0" height="22" rx="4" fill="#0f172a"/>
 <title>#401 · 🇨🇱 Chile — Radio Duna (Radio)</title>
 <text x="740.0" y="674" font-size="12.5" font-weight="700" fill="#9333ea" font-family="Consolas, Menlo, monospace">#401</text>
-<text x="782.0" y="674" font-size="12">🇨🇱</text>
+<image x="781.0" y="661" width="20" height="16" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEgAAABICAMAAABiM0N1AAAAY1BMVEVHcEzULSfULSfULSfu7u7u7u7ULScfQpsfQpvu7u4fQpvULSfu7u4fQpvu7u4fQpvULSf///8fQpvu7u7H0Obj5/MtTqG5xOBJZa6drNNzicGBlcc7WqiPoc3V3OxXcbTx8/kuYLR3AAAAEHRSTlMAv2AgYCDPIL/Pz++/YO/vyYUPgAAAAMZJREFUeNrt0MkOwjAMRVE3LaUTgzN2hv//SlJaCSGxQLLZFN9NdkfOA0nab6dCf8h8WZNtzLHSmgDFysPTuWgqZM6LVGk6ZMq4j+aATAYFD9SA5oHMGzS0TFDoeCCPjgfqEVsqNAZrrUN08Qmki9oZt6ynfc13qzPQN7IY6+hje1xydKjHez8hjmQozNG4OfpG0/pBKvRKoH+CrkwJJJBAAgn0eyjhcRJQPJACyDmcHADSmu7UKSxSTr4nhTWVkHZWIEm77QHK7/qVA+9M+gAAAABJRU5ErkJggg=="/>
 <text x="808.0" y="674" font-size="12" fill="#e2e8f0">Radio Duna</text>
 <rect x="1091.0" y="658" width="349.0" height="22" rx="4" fill="#0f172a"/>
 <title>#402 · 🇨🇱 Chile — Radio Fin Del Mundo TV (Radio)</title>
 <text x="1097.0" y="674" font-size="12.5" font-weight="700" fill="#9333ea" font-family="Consolas, Menlo, monospace">#402</text>
-<text x="1139.0" y="674" font-size="12">🇨🇱</text>
+<image x="1138.0" y="661" width="20" height="16" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEgAAABICAMAAABiM0N1AAAAY1BMVEVHcEzULSfULSfULSfu7u7u7u7ULScfQpsfQpvu7u4fQpvULSfu7u4fQpvu7u4fQpvULSf///8fQpvu7u7H0Obj5/MtTqG5xOBJZa6drNNzicGBlcc7WqiPoc3V3OxXcbTx8/kuYLR3AAAAEHRSTlMAv2AgYCDPIL/Pz++/YO/vyYUPgAAAAMZJREFUeNrt0MkOwjAMRVE3LaUTgzN2hv//SlJaCSGxQLLZFN9NdkfOA0nab6dCf8h8WZNtzLHSmgDFysPTuWgqZM6LVGk6ZMq4j+aATAYFD9SA5oHMGzS0TFDoeCCPjgfqEVsqNAZrrUN08Qmki9oZt6ynfc13qzPQN7IY6+hje1xydKjHez8hjmQozNG4OfpG0/pBKvRKoH+CrkwJJJBAAgn0eyjhcRJQPJACyDmcHADSmu7UKSxSTr4nhTWVkHZWIEm77QHK7/qVA+9M+gAAAABJRU5ErkJggg=="/>
 <text x="1165.0" y="674" font-size="12" fill="#e2e8f0">Radio Fin Del Mundo TV</text>
 <rect x="20.0" y="682" width="349.0" height="22" rx="4" fill="#121b30"/>
 <title>#403 · 🇨🇱 Chile — Radio FM Dance (Radio)</title>
 <text x="26.0" y="698" font-size="12.5" font-weight="700" fill="#9333ea" font-family="Consolas, Menlo, monospace">#403</text>
-<text x="68.0" y="698" font-size="12">🇨🇱</text>
+<image x="67.0" y="685" width="20" height="16" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEgAAABICAMAAABiM0N1AAAAY1BMVEVHcEzULSfULSfULSfu7u7u7u7ULScfQpsfQpvu7u4fQpvULSfu7u4fQpvu7u4fQpvULSf///8fQpvu7u7H0Obj5/MtTqG5xOBJZa6drNNzicGBlcc7WqiPoc3V3OxXcbTx8/kuYLR3AAAAEHRSTlMAv2AgYCDPIL/Pz++/YO/vyYUPgAAAAMZJREFUeNrt0MkOwjAMRVE3LaUTgzN2hv//SlJaCSGxQLLZFN9NdkfOA0nab6dCf8h8WZNtzLHSmgDFysPTuWgqZM6LVGk6ZMq4j+aATAYFD9SA5oHMGzS0TFDoeCCPjgfqEVsqNAZrrUN08Qmki9oZt6ynfc13qzPQN7IY6+hje1xydKjHez8hjmQozNG4OfpG0/pBKvRKoH+CrkwJJJBAAgn0eyjhcRJQPJACyDmcHADSmu7UKSxSTr4nhTWVkHZWIEm77QHK7/qVA+9M+gAAAABJRU5ErkJggg=="/>
 <text x="94.0" y="698" font-size="12" fill="#e2e8f0">Radio FM Dance</text>
 <rect x="377.0" y="682" width="349.0" height="22" rx="4" fill="#121b30"/>
 <title>#404 · 🇨🇱 Chile — Radio FM TOP (Radio)</title>
 <text x="383.0" y="698" font-size="12.5" font-weight="700" fill="#9333ea" font-family="Consolas, Menlo, monospace">#404</text>
-<text x="425.0" y="698" font-size="12">🇨🇱</text>
+<image x="424.0" y="685" width="20" height="16" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEgAAABICAMAAABiM0N1AAAAY1BMVEVHcEzULSfULSfULSfu7u7u7u7ULScfQpsfQpvu7u4fQpvULSfu7u4fQpvu7u4fQpvULSf///8fQpvu7u7H0Obj5/MtTqG5xOBJZa6drNNzicGBlcc7WqiPoc3V3OxXcbTx8/kuYLR3AAAAEHRSTlMAv2AgYCDPIL/Pz++/YO/vyYUPgAAAAMZJREFUeNrt0MkOwjAMRVE3LaUTgzN2hv//SlJaCSGxQLLZFN9NdkfOA0nab6dCf8h8WZNtzLHSmgDFysPTuWgqZM6LVGk6ZMq4j+aATAYFD9SA5oHMGzS0TFDoeCCPjgfqEVsqNAZrrUN08Qmki9oZt6ynfc13qzPQN7IY6+hje1xydKjHez8hjmQozNG4OfpG0/pBKvRKoH+CrkwJJJBAAgn0eyjhcRJQPJACyDmcHADSmu7UKSxSTr4nhTWVkHZWIEm77QHK7/qVA+9M+gAAAABJRU5ErkJggg=="/>
 <text x="451.0" y="698" font-size="12" fill="#e2e8f0">Radio FM TOP</text>
 <rect x="734.0" y="682" width="349.0" height="22" rx="4" fill="#121b30"/>
 <title>#405 · 🇨🇱 Chile — Radio Imagen 106.5 (Radio)</title>
 <text x="740.0" y="698" font-size="12.5" font-weight="700" fill="#9333ea" font-family="Consolas, Menlo, monospace">#405</text>
-<text x="782.0" y="698" font-size="12">🇨🇱</text>
+<image x="781.0" y="685" width="20" height="16" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEgAAABICAMAAABiM0N1AAAAY1BMVEVHcEzULSfULSfULSfu7u7u7u7ULScfQpsfQpvu7u4fQpvULSfu7u4fQpvu7u4fQpvULSf///8fQpvu7u7H0Obj5/MtTqG5xOBJZa6drNNzicGBlcc7WqiPoc3V3OxXcbTx8/kuYLR3AAAAEHRSTlMAv2AgYCDPIL/Pz++/YO/vyYUPgAAAAMZJREFUeNrt0MkOwjAMRVE3LaUTgzN2hv//SlJaCSGxQLLZFN9NdkfOA0nab6dCf8h8WZNtzLHSmgDFysPTuWgqZM6LVGk6ZMq4j+aATAYFD9SA5oHMGzS0TFDoeCCPjgfqEVsqNAZrrUN08Qmki9oZt6ynfc13qzPQN7IY6+hje1xydKjHez8hjmQozNG4OfpG0/pBKvRKoH+CrkwJJJBAAgn0eyjhcRJQPJACyDmcHADSmu7UKSxSTr4nhTWVkHZWIEm77QHK7/qVA+9M+gAAAABJRU5ErkJggg=="/>
 <text x="808.0" y="698" font-size="12" fill="#e2e8f0">Radio Imagen 106.5</text>
 <rect x="1091.0" y="682" width="349.0" height="22" rx="4" fill="#121b30"/>
 <title>#406 · 🇨🇱 Chile — Radio Infinita (Radio)</title>
 <text x="1097.0" y="698" font-size="12.5" font-weight="700" fill="#9333ea" font-family="Consolas, Menlo, monospace">#406</text>
-<text x="1139.0" y="698" font-size="12">🇨🇱</text>
+<image x="1138.0" y="685" width="20" height="16" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEgAAABICAMAAABiM0N1AAAAY1BMVEVHcEzULSfULSfULSfu7u7u7u7ULScfQpsfQpvu7u4fQpvULSfu7u4fQpvu7u4fQpvULSf///8fQpvu7u7H0Obj5/MtTqG5xOBJZa6drNNzicGBlcc7WqiPoc3V3OxXcbTx8/kuYLR3AAAAEHRSTlMAv2AgYCDPIL/Pz++/YO/vyYUPgAAAAMZJREFUeNrt0MkOwjAMRVE3LaUTgzN2hv//SlJaCSGxQLLZFN9NdkfOA0nab6dCf8h8WZNtzLHSmgDFysPTuWgqZM6LVGk6ZMq4j+aATAYFD9SA5oHMGzS0TFDoeCCPjgfqEVsqNAZrrUN08Qmki9oZt6ynfc13qzPQN7IY6+hje1xydKjHez8hjmQozNG4OfpG0/pBKvRKoH+CrkwJJJBAAgn0eyjhcRJQPJACyDmcHADSmu7UKSxSTr4nhTWVkHZWIEm77QHK7/qVA+9M+gAAAABJRU5ErkJggg=="/>
 <text x="1165.0" y="698" font-size="12" fill="#e2e8f0">Radio Infinita</text>
 <rect x="20.0" y="706" width="349.0" height="22" rx="4" fill="#0f172a"/>
 <title>#407 · 🇨🇱 Chile — Radio Ritoque La Ligua 91.3 (Radio)</title>
 <text x="26.0" y="722" font-size="12.5" font-weight="700" fill="#9333ea" font-family="Consolas, Menlo, monospace">#407</text>
-<text x="68.0" y="722" font-size="12">🇨🇱</text>
+<image x="67.0" y="709" width="20" height="16" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEgAAABICAMAAABiM0N1AAAAY1BMVEVHcEzULSfULSfULSfu7u7u7u7ULScfQpsfQpvu7u4fQpvULSfu7u4fQpvu7u4fQpvULSf///8fQpvu7u7H0Obj5/MtTqG5xOBJZa6drNNzicGBlcc7WqiPoc3V3OxXcbTx8/kuYLR3AAAAEHRSTlMAv2AgYCDPIL/Pz++/YO/vyYUPgAAAAMZJREFUeNrt0MkOwjAMRVE3LaUTgzN2hv//SlJaCSGxQLLZFN9NdkfOA0nab6dCf8h8WZNtzLHSmgDFysPTuWgqZM6LVGk6ZMq4j+aATAYFD9SA5oHMGzS0TFDoeCCPjgfqEVsqNAZrrUN08Qmki9oZt6ynfc13qzPQN7IY6+hje1xydKjHez8hjmQozNG4OfpG0/pBKvRKoH+CrkwJJJBAAgn0eyjhcRJQPJACyDmcHADSmu7UKSxSTr4nhTWVkHZWIEm77QHK7/qVA+9M+gAAAABJRU5ErkJggg=="/>
 <text x="94.0" y="722" font-size="12" fill="#e2e8f0">Radio Ritoque La Ligua 91.3</text>
 <rect x="377.0" y="706" width="349.0" height="22" rx="4" fill="#0f172a"/>
 <title>#408 · 🇨🇱 Chile — Radio Romantica (Radio)</title>
 <text x="383.0" y="722" font-size="12.5" font-weight="700" fill="#9333ea" font-family="Consolas, Menlo, monospace">#408</text>
-<text x="425.0" y="722" font-size="12">🇨🇱</text>
+<image x="424.0" y="709" width="20" height="16" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEgAAABICAMAAABiM0N1AAAAY1BMVEVHcEzULSfULSfULSfu7u7u7u7ULScfQpsfQpvu7u4fQpvULSfu7u4fQpvu7u4fQpvULSf///8fQpvu7u7H0Obj5/MtTqG5xOBJZa6drNNzicGBlcc7WqiPoc3V3OxXcbTx8/kuYLR3AAAAEHRSTlMAv2AgYCDPIL/Pz++/YO/vyYUPgAAAAMZJREFUeNrt0MkOwjAMRVE3LaUTgzN2hv//SlJaCSGxQLLZFN9NdkfOA0nab6dCf8h8WZNtzLHSmgDFysPTuWgqZM6LVGk6ZMq4j+aATAYFD9SA5oHMGzS0TFDoeCCPjgfqEVsqNAZrrUN08Qmki9oZt6ynfc13qzPQN7IY6+hje1xydKjHez8hjmQozNG4OfpG0/pBKvRKoH+CrkwJJJBAAgn0eyjhcRJQPJACyDmcHADSmu7UKSxSTr4nhTWVkHZWIEm77QHK7/qVA+9M+gAAAABJRU5ErkJggg=="/>
 <text x="451.0" y="722" font-size="12" fill="#e2e8f0">Radio Romantica</text>
 <rect x="734.0" y="706" width="349.0" height="22" rx="4" fill="#0f172a"/>
 <title>#409 · 🇨🇱 Chile — Radio UNIACC (Radio)</title>
 <text x="740.0" y="722" font-size="12.5" font-weight="700" fill="#9333ea" font-family="Consolas, Menlo, monospace">#409</text>
-<text x="782.0" y="722" font-size="12">🇨🇱</text>
+<image x="781.0" y="709" width="20" height="16" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEgAAABICAMAAABiM0N1AAAAY1BMVEVHcEzULSfULSfULSfu7u7u7u7ULScfQpsfQpvu7u4fQpvULSfu7u4fQpvu7u4fQpvULSf///8fQpvu7u7H0Obj5/MtTqG5xOBJZa6drNNzicGBlcc7WqiPoc3V3OxXcbTx8/kuYLR3AAAAEHRSTlMAv2AgYCDPIL/Pz++/YO/vyYUPgAAAAMZJREFUeNrt0MkOwjAMRVE3LaUTgzN2hv//SlJaCSGxQLLZFN9NdkfOA0nab6dCf8h8WZNtzLHSmgDFysPTuWgqZM6LVGk6ZMq4j+aATAYFD9SA5oHMGzS0TFDoeCCPjgfqEVsqNAZrrUN08Qmki9oZt6ynfc13qzPQN7IY6+hje1xydKjHez8hjmQozNG4OfpG0/pBKvRKoH+CrkwJJJBAAgn0eyjhcRJQPJACyDmcHADSmu7UKSxSTr4nhTWVkHZWIEm77QHK7/qVA+9M+gAAAABJRU5ErkJggg=="/>
 <text x="808.0" y="722" font-size="12" fill="#e2e8f0">Radio UNIACC</text>
 <rect x="1091.0" y="706" width="349.0" height="22" rx="4" fill="#0f172a"/>
 <title>#410 · 🇨🇱 Chile — Radio Zona (Radio)</title>
 <text x="1097.0" y="722" font-size="12.5" font-weight="700" fill="#9333ea" font-family="Consolas, Menlo, monospace">#410</text>
-<text x="1139.0" y="722" font-size="12">🇨🇱</text>
+<image x="1138.0" y="709" width="20" height="16" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEgAAABICAMAAABiM0N1AAAAY1BMVEVHcEzULSfULSfULSfu7u7u7u7ULScfQpsfQpvu7u4fQpvULSfu7u4fQpvu7u4fQpvULSf///8fQpvu7u7H0Obj5/MtTqG5xOBJZa6drNNzicGBlcc7WqiPoc3V3OxXcbTx8/kuYLR3AAAAEHRSTlMAv2AgYCDPIL/Pz++/YO/vyYUPgAAAAMZJREFUeNrt0MkOwjAMRVE3LaUTgzN2hv//SlJaCSGxQLLZFN9NdkfOA0nab6dCf8h8WZNtzLHSmgDFysPTuWgqZM6LVGk6ZMq4j+aATAYFD9SA5oHMGzS0TFDoeCCPjgfqEVsqNAZrrUN08Qmki9oZt6ynfc13qzPQN7IY6+hje1xydKjHez8hjmQozNG4OfpG0/pBKvRKoH+CrkwJJJBAAgn0eyjhcRJQPJACyDmcHADSmu7UKSxSTr4nhTWVkHZWIEm77QHK7/qVA+9M+gAAAABJRU5ErkJggg=="/>
 <text x="1165.0" y="722" font-size="12" fill="#e2e8f0">Radio Zona</text>
 <rect x="20.0" y="730" width="349.0" height="22" rx="4" fill="#121b30"/>
 <title>#411 · 🇨🇱 Chile — Radioactiva TV (Radio)</title>
 <text x="26.0" y="746" font-size="12.5" font-weight="700" fill="#9333ea" font-family="Consolas, Menlo, monospace">#411</text>
-<text x="68.0" y="746" font-size="12">🇨🇱</text>
+<image x="67.0" y="733" width="20" height="16" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEgAAABICAMAAABiM0N1AAAAY1BMVEVHcEzULSfULSfULSfu7u7u7u7ULScfQpsfQpvu7u4fQpvULSfu7u4fQpvu7u4fQpvULSf///8fQpvu7u7H0Obj5/MtTqG5xOBJZa6drNNzicGBlcc7WqiPoc3V3OxXcbTx8/kuYLR3AAAAEHRSTlMAv2AgYCDPIL/Pz++/YO/vyYUPgAAAAMZJREFUeNrt0MkOwjAMRVE3LaUTgzN2hv//SlJaCSGxQLLZFN9NdkfOA0nab6dCf8h8WZNtzLHSmgDFysPTuWgqZM6LVGk6ZMq4j+aATAYFD9SA5oHMGzS0TFDoeCCPjgfqEVsqNAZrrUN08Qmki9oZt6ynfc13qzPQN7IY6+hje1xydKjHez8hjmQozNG4OfpG0/pBKvRKoH+CrkwJJJBAAgn0eyjhcRJQPJACyDmcHADSmu7UKSxSTr4nhTWVkHZWIEm77QHK7/qVA+9M+gAAAABJRU5ErkJggg=="/>
 <text x="94.0" y="746" font-size="12" fill="#e2e8f0">Radioactiva TV</text>
 <rect x="377.0" y="730" width="349.0" height="22" rx="4" fill="#121b30"/>
 <title>#412 · 🇨🇱 Chile — Ruidos FM (Radio)</title>
 <text x="383.0" y="746" font-size="12.5" font-weight="700" fill="#9333ea" font-family="Consolas, Menlo, monospace">#412</text>
-<text x="425.0" y="746" font-size="12">🇨🇱</text>
+<image x="424.0" y="733" width="20" height="16" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEgAAABICAMAAABiM0N1AAAAY1BMVEVHcEzULSfULSfULSfu7u7u7u7ULScfQpsfQpvu7u4fQpvULSfu7u4fQpvu7u4fQpvULSf///8fQpvu7u7H0Obj5/MtTqG5xOBJZa6drNNzicGBlcc7WqiPoc3V3OxXcbTx8/kuYLR3AAAAEHRSTlMAv2AgYCDPIL/Pz++/YO/vyYUPgAAAAMZJREFUeNrt0MkOwjAMRVE3LaUTgzN2hv//SlJaCSGxQLLZFN9NdkfOA0nab6dCf8h8WZNtzLHSmgDFysPTuWgqZM6LVGk6ZMq4j+aATAYFD9SA5oHMGzS0TFDoeCCPjgfqEVsqNAZrrUN08Qmki9oZt6ynfc13qzPQN7IY6+hje1xydKjHez8hjmQozNG4OfpG0/pBKvRKoH+CrkwJJJBAAgn0eyjhcRJQPJACyDmcHADSmu7UKSxSTr4nhTWVkHZWIEm77QHK7/qVA+9M+gAAAABJRU5ErkJggg=="/>
 <text x="451.0" y="746" font-size="12" fill="#e2e8f0">Ruidos FM</text>
 <rect x="734.0" y="730" width="349.0" height="22" rx="4" fill="#121b30"/>
 <title>#413 · 🇨🇱 Chile — Sabrosona TV (Radio)</title>
 <text x="740.0" y="746" font-size="12.5" font-weight="700" fill="#9333ea" font-family="Consolas, Menlo, monospace">#413</text>
-<text x="782.0" y="746" font-size="12">🇨🇱</text>
+<image x="781.0" y="733" width="20" height="16" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEgAAABICAMAAABiM0N1AAAAY1BMVEVHcEzULSfULSfULSfu7u7u7u7ULScfQpsfQpvu7u4fQpvULSfu7u4fQpvu7u4fQpvULSf///8fQpvu7u7H0Obj5/MtTqG5xOBJZa6drNNzicGBlcc7WqiPoc3V3OxXcbTx8/kuYLR3AAAAEHRSTlMAv2AgYCDPIL/Pz++/YO/vyYUPgAAAAMZJREFUeNrt0MkOwjAMRVE3LaUTgzN2hv//SlJaCSGxQLLZFN9NdkfOA0nab6dCf8h8WZNtzLHSmgDFysPTuWgqZM6LVGk6ZMq4j+aATAYFD9SA5oHMGzS0TFDoeCCPjgfqEVsqNAZrrUN08Qmki9oZt6ynfc13qzPQN7IY6+hje1xydKjHez8hjmQozNG4OfpG0/pBKvRKoH+CrkwJJJBAAgn0eyjhcRJQPJACyDmcHADSmu7UKSxSTr4nhTWVkHZWIEm77QHK7/qVA+9M+gAAAABJRU5ErkJggg=="/>
 <text x="808.0" y="746" font-size="12" fill="#e2e8f0">Sabrosona TV</text>
 <rect x="1091.0" y="730" width="349.0" height="22" rx="4" fill="#121b30"/>
 <title>#414 · 🇨🇱 Chile — Suyai Radio (Radio)</title>
 <text x="1097.0" y="746" font-size="12.5" font-weight="700" fill="#9333ea" font-family="Consolas, Menlo, monospace">#414</text>
-<text x="1139.0" y="746" font-size="12">🇨🇱</text>
+<image x="1138.0" y="733" width="20" height="16" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEgAAABICAMAAABiM0N1AAAAY1BMVEVHcEzULSfULSfULSfu7u7u7u7ULScfQpsfQpvu7u4fQpvULSfu7u4fQpvu7u4fQpvULSf///8fQpvu7u7H0Obj5/MtTqG5xOBJZa6drNNzicGBlcc7WqiPoc3V3OxXcbTx8/kuYLR3AAAAEHRSTlMAv2AgYCDPIL/Pz++/YO/vyYUPgAAAAMZJREFUeNrt0MkOwjAMRVE3LaUTgzN2hv//SlJaCSGxQLLZFN9NdkfOA0nab6dCf8h8WZNtzLHSmgDFysPTuWgqZM6LVGk6ZMq4j+aATAYFD9SA5oHMGzS0TFDoeCCPjgfqEVsqNAZrrUN08Qmki9oZt6ynfc13qzPQN7IY6+hje1xydKjHez8hjmQozNG4OfpG0/pBKvRKoH+CrkwJJJBAAgn0eyjhcRJQPJACyDmcHADSmu7UKSxSTr4nhTWVkHZWIEm77QHK7/qVA+9M+gAAAABJRU5ErkJggg=="/>
 <text x="1165.0" y="746" font-size="12" fill="#e2e8f0">Suyai Radio</text>
 <rect x="20.0" y="754" width="349.0" height="22" rx="4" fill="#0f172a"/>
 <title>#415 · 🇨🇱 Chile — T13 Radio (Radio)</title>
 <text x="26.0" y="770" font-size="12.5" font-weight="700" fill="#9333ea" font-family="Consolas, Menlo, monospace">#415</text>
-<text x="68.0" y="770" font-size="12">🇨🇱</text>
+<image x="67.0" y="757" width="20" height="16" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEgAAABICAMAAABiM0N1AAAAY1BMVEVHcEzULSfULSfULSfu7u7u7u7ULScfQpsfQpvu7u4fQpvULSfu7u4fQpvu7u4fQpvULSf///8fQpvu7u7H0Obj5/MtTqG5xOBJZa6drNNzicGBlcc7WqiPoc3V3OxXcbTx8/kuYLR3AAAAEHRSTlMAv2AgYCDPIL/Pz++/YO/vyYUPgAAAAMZJREFUeNrt0MkOwjAMRVE3LaUTgzN2hv//SlJaCSGxQLLZFN9NdkfOA0nab6dCf8h8WZNtzLHSmgDFysPTuWgqZM6LVGk6ZMq4j+aATAYFD9SA5oHMGzS0TFDoeCCPjgfqEVsqNAZrrUN08Qmki9oZt6ynfc13qzPQN7IY6+hje1xydKjHez8hjmQozNG4OfpG0/pBKvRKoH+CrkwJJJBAAgn0eyjhcRJQPJACyDmcHADSmu7UKSxSTr4nhTWVkHZWIEm77QHK7/qVA+9M+gAAAABJRU5ErkJggg=="/>
 <text x="94.0" y="770" font-size="12" fill="#e2e8f0">T13 Radio</text>
 </svg>

@@ -112,5 +112,6 @@ Cada canal muestra su **bandera del país de origen** (campo `cc` = ISO 3166-1 a
 
 ## 🖼️ Afiches (imagen)
 - **`AFICHE-CANALES.svg`** (vectorial) y **`AFICHE-CANALES.png`** — afiche con **los 3.112 canales: número + bandera + nombre**, por bloques (1–32 señal abierta CL, 53–85 Biobío, … 684+ español otros países).
-- **`afiches/afiche-*.svg`** — un afiche por bloque para leer/impimir por sección.
-- Regenerar: `node -e "..."` (exporta `/tmp/poster.json` desde `data/channels.js`) + `python3 scripts/afiche.py`.
+- **`afiches/afiche-*.svg`** — un afiche por bloque para leer/imprimir por sección.
+- Cada canal lleva el **emoji gráfico de su bandera de origen** incrustado, también en PNG: no depende de que el equipo tenga una fuente de emojis. Para el código heredado `uk` se muestra correctamente 🇬🇧. Iconos Twemoji (CC BY 4.0), atribución en `assets/flags/README.md`.
+- Regenerar: `python3 scripts/afiche.py` (lee `data/channels.js` y `data/paises.js`; utiliza los iconos locales).
