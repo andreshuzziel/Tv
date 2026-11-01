@@ -1,6 +1,6 @@
 # 📖 GUIA-ORDEN — Guía de canales con números (LCN / tvg-chno)
 
-Generada: 01-nov-2026 · **3101 canales numerados** (de 3101 en el catálogo; 242 sin stream van solo a sitio oficial).
+Generada: 01-nov-2026 · **3105 canales numerados** (de 3105 en el catálogo; 243 sin stream van solo a sitio oficial).
 Cada canal lleva su número en `tvg-chno` dentro de `playlists/tv-chile-todo.m3u` → la app IPTV los ordena con esos números.
 **Orden de esta lista: por temática (igual que en la app) y, dentro de cada tema, números cronológicos ascendentes.**
 
@@ -1227,13 +1227,18 @@ Cada bloque arranca en el número indicado y dentro de él los canales van en **
 | 1501 | 🇨🇱 | ClickRadio.cl | Comunitarios | Nacional |
 | 1502 | 🇨🇱 | Pudahuel TV | Comunitarios | Nacional |
 
-### 🌐 Internacionales — 3 canales
+### 🌐 Internacionales — 8 canales
 
 | # | Bandera | Canal | Grupo | Región/País |
 |---:|---|---|---|---|
 | 1601 | 🇨🇱 | 13 Internacional | Internacionales | Nacional |
 | 1602 | 🇨🇳 | China Channel | Internacionales | Nacional |
 | 1603 | 🇨🇱 | TV Chile — *(solo web: sitio oficial)* | Internacionales | Nacional |
+| 1604 | 🇫🇷 | France 24 Español | Internacionales | Internacional |
+| 1605 | 🇩🇪 | DW Español (Deutsche Welle) | Internacionales | Internacional |
+| 1606 | 🇫🇷 | Euronews Español | Internacionales | Internacional |
+| 1607 | 🇻🇪 | teleSUR | Internacionales | Internacional |
+| 1608 | 🇺🇸 | CNN en Español — *(solo web: https://cnn.com/espanol)* | Internacionales | Internacional |
 
 ### 🌐 Servicios OTT (streaming legal) — 10 canales
 
@@ -1250,7 +1255,7 @@ Cada bloque arranca en el número indicado y dentro de él los canales van en **
 | 1709 | 🇺🇸 | Vix — tier gratis — *(solo web: https://www.vix.com/)* | OTT | Nacional |
 | 1710 | 🇺🇸 | YouTube — en vivo — *(solo web: https://www.youtube.com/live)* | OTT | Nacional |
 
-### 📡 Generalistas — 1695 canales
+### 📡 Generalistas — 1694 canales
 
 | # | Bandera | Canal | Grupo | Región/País |
 |---:|---|---|---|---|
@@ -2683,272 +2688,271 @@ Cada bloque arranca en el número indicado y dentro de él los canales van en **
 | 3227 | 🇩🇴 | Telesistemas 11 SD | General | Español (Latam/ES) |
 | 3228 | 🇦🇷 | Telesol | General | Español (Latam/ES) |
 | 3229 | 🇪🇨 | Telesucesos | General | Español (Latam/ES) |
-| 3230 | 🇻🇪 | Telesur | General | Español (Latam/ES) |
-| 3231 | 🇨🇷 | TeleSUR Costa Rica | General | Español (Latam/ES) |
-| 3232 | 🇵🇪 | Telesystem TV | General | Español (Latam/ES) |
-| 3233 | 🇪🇸 | TeleToledo | General | Español (Latam/ES) |
-| 3234 | 🇩🇴 | Teleuniverso | General | Español (Latam/ES) |
-| 3235 | 🇪🇸 | TeleVen TV | General | Español (Latam/ES) |
-| 3236 | 🇩🇴 | Telever | General | Español (Latam/ES) |
-| 3237 | 🇩🇴 | Televiaducto Canal 14 | General | Español (Latam/ES) |
-| 3238 | 🇩🇴 | Televiaducto Canal 3 | General | Español (Latam/ES) |
-| 3239 | 🇪🇸 | TeleVigo | General | Español (Latam/ES) |
-| 3240 | 🇪🇸 | TeleVigo Galicia (Vigo - Pontevedra) | General | Español (Latam/ES) |
-| 3241 | 🇪🇸 | Televisión Alhaurín | General | Español (Latam/ES) |
-| 3242 | 🇪🇸 | Television Aranda | General | Español (Latam/ES) |
-| 3243 | 🇪🇸 | Television Canaria | General | Español (Latam/ES) |
-| 3244 | 🇭🇳 | Television Comayagua Canal 40 | General | Español (Latam/ES) |
-| 3245 | 🇭🇳 | Television Comayagua Canal 40 — *(solo web: sitio oficial)* | General | Español (Latam/ES) |
-| 3246 | 🇭🇳 | Television creativa | General | Español (Latam/ES) |
-| 3247 | 🇪🇸 | Television de San Vicente | General | Español (Latam/ES) |
-| 3248 | 🇭🇳 | Television Metropolis 19.1 | General | Español (Latam/ES) |
-| 3249 | 🇭🇳 | Television Metropolis 19.2 | General | Español (Latam/ES) |
-| 3250 | 🇭🇳 | Television Olanchana | General | Español (Latam/ES) |
-| 3251 | 🇦🇷 | Televisión Pública Ⓨ | General | Español (Latam/ES) |
-| 3252 | 🇵🇪 | Television Tarapoto | General | Español (Latam/ES) |
-| 3253 | 🇵🇪 | Televisión Tarapoto HD [No 24/7] (San Martín) | General | Español (Latam/ES) |
-| 3254 | 🇻🇪 | Televisora de Oriente | General | Español (Latam/ES) |
-| 3255 | 🇭🇳 | TEN Canal 10 | General | Español (Latam/ES) |
-| 3256 | 🇩🇴 | Tenarenses TV | General | Español (Latam/ES) |
-| 3257 | 🇪🇸 | Tenerife Plus TV | General | Español (Latam/ES) |
-| 3258 | 🇵🇪 | Teve Empresa | General | Español (Latam/ES) |
-| 3259 | 🇬🇹 | TeveGlobo Xela HD [No 24/7] (Quetzaltenango) | General | Español (Latam/ES) |
-| 3260 | 🇵🇪 | Tevesur | General | Español (Latam/ES) |
-| 3261 | 🇪🇸 | TG7 [No 24/7](Andalucía) | General | Español (Latam/ES) |
-| 3262 | 🇺🇸 | The Monterey Channel | General | Español (Latam/ES) |
-| 3263 | 🇺🇸 | The Walking Dead en Espanol | General | Español (Latam/ES) |
-| 3264 | 🇪🇸 | Thrillers | General | Español (Latam/ES) |
-| 3265 | 🇨🇷 | TicaVision | General | Español (Latam/ES) |
-| 3266 | 🇪🇸 | Tito TV | General | Español (Latam/ES) |
-| 3267 | 🇦🇷 | TIV Television | General | Español (Latam/ES) |
-| 3268 | 🇧🇴 | TL Estrella | General | Español (Latam/ES) |
-| 3269 | 🇸🇻 | TL+ HD Santa Ana [No 24/7] | General | Español (Latam/ES) |
-| 3270 | 🇲🇽 | Tlaxcala TV | General | Español (Latam/ES) |
-| 3271 | 🇦🇷 | TN HD (Buenos Aires) No 24/7][Opc.2] | General | Español (Latam/ES) |
-| 3272 | 🇦🇷 | TN Todo Noticias Ⓨ | General | Español (Latam/ES) |
-| 3273 | 🇬🇹 | TN23 SD  (Nacional) | General | Español (Latam/ES) |
-| 3274 | 🇳🇮 | TN8 | General | Español (Latam/ES) |
-| 3275 | 🇩🇴 | TNE Canal 58 | General | Español (Latam/ES) |
-| 3276 | 🇻🇪 | TNO Radio | General | Español (Latam/ES) |
-| 3277 | 🇺🇸 | TNT (United States) West | General | Español (Latam/ES) |
-| 3278 | 🇺🇸 | TNT Latin America South | General | Español (Latam/ES) |
-| 3279 | 🇲🇽 | Todo Cine | General | Español (Latam/ES) |
-| 3280 | 🇪🇸 | Toon Goggles en Español (Latam) | General | Español (Latam/ES) |
-| 3281 | 🇵🇱 | TOP BARÇA | General | Español (Latam/ES) |
-| 3282 | 🇺🇰 | Top Gear | General | Español (Latam/ES) |
-| 3283 | 🇵🇪 | Top TV (Peru) | General | Español (Latam/ES) |
-| 3284 | 🇩🇴 | Tora Canal 69 | General | Español (Latam/ES) |
-| 3285 | 🇻🇪 | Torococo TV | General | Español (Latam/ES) |
-| 3286 | 🇪🇸 | Torococo TV — *(solo web: sitio oficial)* | General | Español (Latam/ES) |
-| 3287 | 🇪🇸 | Torremolinos TV | General | Español (Latam/ES) |
-| 3288 | 🇬🇹 | Toto Visión HD [No 24/7] | General | Español (Latam/ES) |
-| 3289 | 🇧🇴 | TransMedia | General | Español (Latam/ES) |
-| 3290 | 🇲🇽 | TRC TV | General | Español (Latam/ES) |
-| 3291 | 🇪🇸 | TRECE | General | Español (Latam/ES) |
-| 3292 | 🇨🇷 | Trivision 36 | General | Español (Latam/ES) |
-| 3293 | 🇵🇪 | Trivu HD [No 24/7] (Lima) | General | Español (Latam/ES) |
-| 3294 | 🇵🇦 | Tropical Moon Eventos TV | General | Español (Latam/ES) |
-| 3295 | 🇻🇪 | TRT (Venezuela) | General | Español (Latam/ES) |
-| 3296 | 🇭🇳 | TSi HD(Nacional) | General | Español (Latam/ES) |
-| 3297 | 🇻🇪 | Tu TV | General | Español (Latam/ES) |
-| 3298 | 🇬🇹 | Tunevision | General | Español (Latam/ES) |
-| 3299 | 🇩🇴 | TV 10 San Juan | General | Español (Latam/ES) |
-| 3300 | 🇵🇾 | TV Aire HD | General | Español (Latam/ES) |
-| 3301 | 🇪🇸 | TV Almassora (C. Valenciana) | General | Español (Latam/ES) |
-| 3302 | 🇻🇪 | TV Andes | General | Español (Latam/ES) |
-| 3303 | 🇪🇸 | TV Aranda | General | Español (Latam/ES) |
-| 3304 | 🇵🇪 | TV Bella Asuncion | General | Español (Latam/ES) |
-| 3305 | 🇪🇸 | TV BRICS Spanish | General | Español (Latam/ES) |
-| 3306 | 🇦🇷 | TV Canal 72 | General | Español (Latam/ES) |
-| 3307 | 🇪🇸 | TV Canaria (RTVC) | General | Español (Latam/ES) |
-| 3308 | 🇪🇸 | TV Canaria (RTVC)[Opc.2] | General | Español (Latam/ES) |
-| 3309 | 🇵🇾 | TV Canindeyu | General | Español (Latam/ES) |
-| 3310 | 🇭🇳 | TV Centro HD | General | Español (Latam/ES) |
-| 3311 | 🇪🇨 | TV Cisne | General | Español (Latam/ES) |
-| 3312 | 🇪🇨 | TV Color Canal 36 | General | Español (Latam/ES) |
-| 3313 | 🇭🇳 | TV Copan | General | Español (Latam/ES) |
-| 3314 | 🇵🇪 | TV Cosmos | General | Español (Latam/ES) |
-| 3315 | 🇩🇴 | TV Cotui Canal 31 | General | Español (Latam/ES) |
-| 3316 | 🇲🇽 | TV Cuatro 4.1 | General | Español (Latam/ES) |
-| 3317 | 🇲🇽 | TV Cuatro 4.2 HD (Guanajuato) | General | Español (Latam/ES) |
-| 3318 | 🇩🇴 | TV Daja | General | Español (Latam/ES) |
-| 3319 | 🇬🇹 | TV Doble C HD (Escuintla) | General | Español (Latam/ES) |
-| 3320 | 🇪🇸 | TV Ferrol Galicia (Ferrol - A Coruña) | General | Español (Latam/ES) |
-| 3321 | 🇬🇹 | TV Florencia | General | Español (Latam/ES) |
-| 3322 | 🇲🇽 | TV Guanajuato | General | Español (Latam/ES) |
-| 3323 | 🇲🇽 | TV Guanajuato HD (Guanajuato) | General | Español (Latam/ES) |
-| 3324 | 🇩🇴 | TV Higuey Digital | General | Español (Latam/ES) |
-| 3325 | 🇺🇸 | TV Hispanic | General | Español (Latam/ES) |
-| 3326 | 🇲🇽 | TV Independencia | General | Español (Latam/ES) |
-| 3327 | 🇧🇴 | TV Latina | General | Español (Latam/ES) |
-| 3328 | 🇲🇽 | TV Libertad | General | Español (Latam/ES) |
-| 3329 | 🇲🇽 | TV Lobo | General | Español (Latam/ES) |
-| 3330 | 🇵🇪 | TV MAR | General | Español (Latam/ES) |
-| 3331 | 🇲🇽 | TV Mar La Paz | General | Español (Latam/ES) |
-| 3332 | 🇲🇽 | TV Mar Los Cabos | General | Español (Latam/ES) |
-| 3333 | 🇲🇽 | TV Mar Puerto Vallarta | General | Español (Latam/ES) |
-| 3334 | 🇲🇽 | TV Más HD (Veracruz) | General | Español (Latam/ES) |
-| 3335 | 🇵🇪 | TV MAX | General | Español (Latam/ES) |
-| 3336 | 🇲🇽 | TV Migrante | General | Español (Latam/ES) |
-| 3337 | 🇩🇴 | TV Montana Canal 10 | General | Español (Latam/ES) |
-| 3338 | 🇵🇪 | TV Norte Chiclayo | General | Español (Latam/ES) |
-| 3339 | 🇪🇸 | TV Oasis | General | Español (Latam/ES) |
-| 3340 | 🇻🇪 | TV Oasis Monay (1080i) | General | Español (Latam/ES) |
-| 3341 | 🇵🇪 | TV Perú HD (Nacional) | General | Español (Latam/ES) |
-| 3342 | 🇵🇪 | TV Perú Internacional | General | Español (Latam/ES) |
-| 3343 | 🇵🇪 | TV Perú Noticias | General | Español (Latam/ES) |
-| 3344 | 🇩🇴 | TV Plata | General | Español (Latam/ES) |
-| 3345 | 🇦🇷 | TV Publica Fueguina | General | Español (Latam/ES) |
-| 3346 | 🇦🇷 | TV Publica Marcos Paz | General | Español (Latam/ES) |
-| 3347 | 🇺🇸 | TV Quisqueya | General | Español (Latam/ES) |
-| 3348 | 🇨🇴 | TV Rivera | General | Español (Latam/ES) |
-| 3349 | 🇦🇷 | TV Solidaria | General | Español (Latam/ES) |
-| 3350 | 🇨🇷 | TV Sur Canal 14 | General | Español (Latam/ES) |
-| 3351 | 🇬🇹 | TV Tun | General | Español (Latam/ES) |
-| 3352 | 🇵🇪 | TV+ Chincha | General | Español (Latam/ES) |
-| 3353 | 🇨🇴 | TV3 La Plata | General | Español (Latam/ES) |
-| 3354 | 🇪🇸 | TV3Cat Ⓖ | General | Español (Latam/ES) |
-| 3355 | 🇪🇸 | TVA (Spain) | General | Español (Latam/ES) |
-| 3356 | 🇸🇻 | TVC Network | General | Español (Latam/ES) |
-| 3357 | 🇪🇸 | TVCentro Andalucia | General | Español (Latam/ES) |
-| 3358 | 🇪🇸 | TVE Int. Europa [Opc.2] | General | Español (Latam/ES) |
-| 3359 | 🇪🇸 | TVE Internacional America HD | General | Español (Latam/ES) |
-| 3360 | 🇪🇸 | TVE Internacional Asia-Oceania HD | General | Español (Latam/ES) |
-| 3361 | 🇪🇸 | TVE Internacional Europe HD | General | Español (Latam/ES) |
-| 3362 | 🇪🇸 | TVE Internacional Europe-Asia | General | Español (Latam/ES) |
-| 3363 | 🇪🇸 | TVE Star HD | General | Español (Latam/ES) |
-| 3364 | 🇪🇸 | TVE Star HD — *(solo web: sitio oficial)* | General | Español (Latam/ES) |
-| 3365 | 🇪🇸 | TVE Star HD (Auto) | General | Español (Latam/ES) |
-| 3366 | 🇵🇪 | TVenLinea | General | Español (Latam/ES) |
-| 3367 | 🇻🇪 | TVes | General | Español (Latam/ES) |
-| 3368 | 🇪🇸 | TVG (Galicia) | General | Español (Latam/ES) |
-| 3369 | 🇪🇸 | TVG Eventos 1 [No 24/7] (Galicia) | General | Español (Latam/ES) |
-| 3370 | 🇪🇸 | TVG Eventos 2 [No 24/7] (Galicia) | General | Español (Latam/ES) |
-| 3371 | 🇪🇸 | TVG Eventos 3 [No 24/7] (Galicia) | General | Español (Latam/ES) |
-| 3372 | 🇪🇸 | TVG Mira Radio Galega (Galicia) | General | Español (Latam/ES) |
-| 3373 | 🇪🇸 | TVG Universo Castelao (Galicia) | General | Español (Latam/ES) |
-| 3374 | 🇪🇸 | TVG Xabarin (Galicia) | General | Español (Latam/ES) |
-| 3375 | 🇪🇸 | TVM Córdoba | General | Español (Latam/ES) |
-| 3376 | 🇻🇪 | TVM para ti | General | Español (Latam/ES) |
-| 3377 | 🇩🇴 | TVN (Dominican Republic) | General | Español (Latam/ES) |
-| 3378 | 🇵🇦 | TVN (Panama) | General | Español (Latam/ES) |
-| 3379 | 🇩🇴 | TVO | General | Español (Latam/ES) |
-| 3380 | 🇬🇹 | TVO [No 24/7] (Quetzaltenango) | General | Español (Latam/ES) |
-| 3381 | 🇸🇻 | TVO Canal 23 | General | Español (Latam/ES) |
-| 3382 | 🇪🇸 | TVO Jesus | General | Español (Latam/ES) |
-| 3383 | 🇲🇽 | TVP Culiacan | General | Español (Latam/ES) |
-| 3384 | 🇲🇽 | TVP Los Mochis | General | Español (Latam/ES) |
-| 3385 | 🇲🇽 | TVP Mazatlan | General | Español (Latam/ES) |
-| 3386 | 🇲🇽 | TVP Obregon | General | Español (Latam/ES) |
-| 3387 | 🇪🇸 | TVR (Spain) | General | Español (Latam/ES) |
-| 3388 | 🇻🇪 | TVS (Venezuela) | General | Español (Latam/ES) |
-| 3389 | 🇺🇸 | TVSA Public Channel | General | Español (Latam/ES) |
-| 3390 | 🇧🇴 | TVU Sucre | General | Español (Latam/ES) |
-| 3391 | 🇵🇪 | Ucayalina de Television | General | Español (Latam/ES) |
-| 3392 | 🇵🇪 | Uchu TV | General | Español (Latam/ES) |
-| 3393 | 🇲🇽 | UDG TV | General | Español (Latam/ES) |
-| 3394 | 🇪🇸 | UFC | General | Español (Latam/ES) |
-| 3395 | 🇲🇽 | Ultra TV Puebla | General | Español (Latam/ES) |
-| 3396 | 🇭🇳 | UNAH UTV | General | Español (Latam/ES) |
-| 3397 | 🇪🇸 | Une Vinalopo | General | Español (Latam/ES) |
-| 3398 | 🇪🇨 | UNIANDES TV HD [No 24/7] (Tungurahua) | General | Español (Latam/ES) |
-| 3399 | 🇬🇹 | Unica TV | General | Español (Latam/ES) |
-| 3400 | 🇵🇾 | Unicanal Ⓨ | General | Español (Latam/ES) |
-| 3401 | 🇵🇪 | Unicentro TV | General | Español (Latam/ES) |
-| 3402 | 🇺🇸 | Unidad de investigacion | General | Español (Latam/ES) |
-| 3403 | 🇪🇸 | Unifranz [No 24/7] | General | Español (Latam/ES) |
-| 3404 | 🇺🇸 | UniMas KFTR-DT | General | Español (Latam/ES) |
-| 3405 | 🇺🇸 | UniMas KUVN-DT | General | Español (Latam/ES) |
-| 3406 | 🇵🇾 | Union TV | General | Español (Latam/ES) |
-| 3407 | 🇵🇾 | UniRadio TV | General | Español (Latam/ES) |
-| 3408 | 🇵🇪 | Unitel (Peru) | General | Español (Latam/ES) |
-| 3409 | 🇦🇷 | Uniteve | General | Español (Latam/ES) |
-| 3410 | 🇻🇪 | UniTV | General | Español (Latam/ES) |
-| 3411 | 🇧🇴 | Univalle Television | General | Español (Latam/ES) |
-| 3412 | 🇵🇪 | Universitaria TV | General | Español (Latam/ES) |
-| 3413 | 🇺🇸 | Univision KMEX-DT | General | Español (Latam/ES) |
-| 3414 | 🇧🇴 | UPEA TV | General | Español (Latam/ES) |
-| 3415 | 🇵🇪 | Uranio TV | General | Español (Latam/ES) |
-| 3416 | 🇵🇪 | Uranio TV (Yurimaguas) HD [No 24/7] (Loreto) | General | Español (Latam/ES) |
-| 3417 | 🇦🇷 | Urban Mix | General | Español (Latam/ES) |
-| 3418 | 🇦🇷 | Urbana Tevé | General | Español (Latam/ES) |
-| 3419 | 🇪🇸 | Urola TB (País Vasco) | General | Español (Latam/ES) |
-| 3420 | 🇵🇪 | USMPTV HD (Lima / Nacional) | General | Español (Latam/ES) |
-| 3421 | 🇻🇪 | Vale TV | General | Español (Latam/ES) |
-| 3422 | 🇩🇴 | Valle Nuevo TV | General | Español (Latam/ES) |
-| 3423 | 🇩🇴 | Vallevision | General | Español (Latam/ES) |
-| 3424 | 🇪🇸 | VE Plus | General | Español (Latam/ES) |
-| 3425 | 🇩🇴 | Vega Teve | General | Español (Latam/ES) |
-| 3426 | 🇩🇴 | Vegavision Canal 18 | General | Español (Latam/ES) |
-| 3427 | 🇪🇸 | Venevisión [V3] | General | Español (Latam/ES) |
-| 3428 | 🇻🇪 | Venevision Internacional | General | Español (Latam/ES) |
-| 3429 | 🇻🇪 | Vepaco TV | General | Español (Latam/ES) |
-| 3430 | 🇬🇹 | Verapaz TV HD [No 24/7] (Inestable) | General | Español (Latam/ES) |
-| 3431 | 🇵🇪 | Via Altomayo | General | Español (Latam/ES) |
-| 3432 | 🇵🇪 | Via Television | General | Español (Latam/ES) |
-| 3433 | 🇲🇽 | Vibe TV HD [No 24/7] (Guanajuato) | General | Español (Latam/ES) |
-| 3434 | 🇩🇴 | Villa Altagracia TV | General | Español (Latam/ES) |
-| 3435 | 🇵🇾 | Villa Elisa Radio TV | General | Español (Latam/ES) |
-| 3436 | 🇦🇷 | Villa Mantero TV | General | Español (Latam/ES) |
-| 3437 | 🇩🇴 | Vision 3000 | General | Español (Latam/ES) |
-| 3438 | 🇪🇸 | Vision 6 TV | General | Español (Latam/ES) |
-| 3439 | 🇺🇸 | Vision Latina Network | General | Español (Latam/ES) |
-| 3440 | 🇵🇪 | Vision Sur | General | Español (Latam/ES) |
-| 3441 | 🇵🇪 | Visión Sur TV HD [No 24/7] (Arequipa) | General | Español (Latam/ES) |
-| 3442 | 🇬🇹 | Vision TV — *(solo web: sitio oficial)* | General | Español (Latam/ES) |
-| 3443 | 🇳🇮 | Viva Nicaragua Canal 13 | General | Español (Latam/ES) |
-| 3444 | 🇳🇮 | Viva TV | General | Español (Latam/ES) |
-| 3445 | 🇵🇪 | Viva TV Yurimaguas | General | Español (Latam/ES) |
-| 3446 | 🇪🇸 | Vivamovil | General | Español (Latam/ES) |
-| 3447 | 🇨🇴 | Vive TV Colombia HD [No 24/7](Nacional) | General | Español (Latam/ES) |
-| 3448 | 🇵🇪 | VR Canal 21 Nasca | General | Español (Latam/ES) |
-| 3449 | 🇦🇷 | VTV (Argentina) | General | Español (Latam/ES) |
-| 3450 | 🇭🇳 | VTV (Honduras) | General | Español (Latam/ES) |
-| 3451 | 🇩🇴 | VTV Canal 32 | General | Español (Latam/ES) |
-| 3452 | 🇭🇳 | Waldivision Internacional | General | Español (Latam/ES) |
-| 3453 | 🇵🇷 | WAPA-TV 4.1 | General | Español (Latam/ES) |
-| 3454 | 🇻🇪 | Wata Vision | General | Español (Latam/ES) |
-| 3455 | 🇵🇪 | Wayra TV | General | Español (Latam/ES) |
-| 3456 | 🇪🇸 | Winx Club | General | Español (Latam/ES) |
-| 3457 | 🇺🇸 | Wipeout | General | Español (Latam/ES) |
-| 3458 | 🇵🇷 | WIPR-TV 6.1 | General | Español (Latam/ES) |
-| 3459 | 🇵🇷 | WKAQ-TV 2.2 | General | Español (Latam/ES) |
-| 3460 | 🇺🇸 | World Poker Tour | General | Español (Latam/ES) |
-| 3461 | 🇬🇹 | World TV Guatemala | General | Español (Latam/ES) |
-| 3462 | 🇸🇻 | WOW TV | General | Español (Latam/ES) |
-| 3463 | 🇸🇻 | WOW TV HD | General | Español (Latam/ES) |
-| 3464 | 🇵🇪 | Wtv | General | Español (Latam/ES) |
-| 3465 | 🇪🇨 | Wuan+ | General | Español (Latam/ES) |
-| 3466 | 🇵🇷 | WXWZ-LD 23.1 | General | Español (Latam/ES) |
-| 3467 | 🇦🇷 | Xama TV | General | Español (Latam/ES) |
-| 3468 | 🇲🇽 | XEJ-TDT | General | Español (Latam/ES) |
-| 3469 | 🇲🇽 | XHBZC-TDT | General | Español (Latam/ES) |
-| 3470 | 🇲🇽 | XHFGL-TDT | General | Español (Latam/ES) |
-| 3471 | 🇲🇽 | XHGV-TDT | General | Español (Latam/ES) |
-| 3472 | 🇲🇽 | XHIJ-TDT | General | Español (Latam/ES) |
-| 3473 | 🇲🇽 | XHTTG-TDT | General | Español (Latam/ES) |
-| 3474 | 🇲🇽 | XHZHZ-TDT | General | Español (Latam/ES) |
-| 3475 | 🇪🇸 | Xphere Aventura | General | Español (Latam/ES) |
-| 3476 | 🇪🇸 | Xphere Cosmos | General | Español (Latam/ES) |
-| 3477 | 🇪🇸 | Xphere One | General | Español (Latam/ES) |
-| 3478 | 🇪🇸 | Xphere Science | General | Español (Latam/ES) |
-| 3479 | 🇪🇸 | Xphere Wild (Nature) | General | Español (Latam/ES) |
-| 3480 | 🇧🇴 | XTOTV | General | Español (Latam/ES) |
-| 3481 | 🇩🇴 | Xtra Tv | General | Español (Latam/ES) |
-| 3482 | 🇦🇷 | Xtrema Accion | General | Español (Latam/ES) |
-| 3483 | 🇩🇴 | Xtremo Channel | General | Español (Latam/ES) |
-| 3484 | 🇮🇩 | YOY International | General | Español (Latam/ES) |
-| 3485 | 🇺🇸 | Yu-Gi-Oh! | General | Español (Latam/ES) |
-| 3486 | 🇵🇪 | Yurimaguas TV | General | Español (Latam/ES) |
-| 3487 | 🇵🇪 | Yurivision | General | Español (Latam/ES) |
-| 3488 | 🇪🇨 | Zaracay TV | General | Español (Latam/ES) |
-| 3489 | 🇩🇴 | ZAS TV | General | Español (Latam/ES) |
-| 3490 | 🇵🇪 | Zeleve TV | General | Español (Latam/ES) |
-| 3491 | 🇩🇴 | Zinc Nombre TV | General | Español (Latam/ES) |
-| 3492 | 🇩🇴 | Zonavision TV | General | Español (Latam/ES) |
-| 3493 | 🇨🇷 | Zurqui TV | General | Español (Latam/ES) |
-| 3494 | 🇪🇸 | Zylo Cine Friki | General | Español (Latam/ES) |
-| 3495 | 🇺🇸 | DroneTV | Relajación | Español (Latam/ES) |
+| 3230 | 🇨🇷 | TeleSUR Costa Rica | General | Español (Latam/ES) |
+| 3231 | 🇵🇪 | Telesystem TV | General | Español (Latam/ES) |
+| 3232 | 🇪🇸 | TeleToledo | General | Español (Latam/ES) |
+| 3233 | 🇩🇴 | Teleuniverso | General | Español (Latam/ES) |
+| 3234 | 🇪🇸 | TeleVen TV | General | Español (Latam/ES) |
+| 3235 | 🇩🇴 | Telever | General | Español (Latam/ES) |
+| 3236 | 🇩🇴 | Televiaducto Canal 14 | General | Español (Latam/ES) |
+| 3237 | 🇩🇴 | Televiaducto Canal 3 | General | Español (Latam/ES) |
+| 3238 | 🇪🇸 | TeleVigo | General | Español (Latam/ES) |
+| 3239 | 🇪🇸 | TeleVigo Galicia (Vigo - Pontevedra) | General | Español (Latam/ES) |
+| 3240 | 🇪🇸 | Televisión Alhaurín | General | Español (Latam/ES) |
+| 3241 | 🇪🇸 | Television Aranda | General | Español (Latam/ES) |
+| 3242 | 🇪🇸 | Television Canaria | General | Español (Latam/ES) |
+| 3243 | 🇭🇳 | Television Comayagua Canal 40 | General | Español (Latam/ES) |
+| 3244 | 🇭🇳 | Television Comayagua Canal 40 — *(solo web: sitio oficial)* | General | Español (Latam/ES) |
+| 3245 | 🇭🇳 | Television creativa | General | Español (Latam/ES) |
+| 3246 | 🇪🇸 | Television de San Vicente | General | Español (Latam/ES) |
+| 3247 | 🇭🇳 | Television Metropolis 19.1 | General | Español (Latam/ES) |
+| 3248 | 🇭🇳 | Television Metropolis 19.2 | General | Español (Latam/ES) |
+| 3249 | 🇭🇳 | Television Olanchana | General | Español (Latam/ES) |
+| 3250 | 🇦🇷 | Televisión Pública Ⓨ | General | Español (Latam/ES) |
+| 3251 | 🇵🇪 | Television Tarapoto | General | Español (Latam/ES) |
+| 3252 | 🇵🇪 | Televisión Tarapoto HD [No 24/7] (San Martín) | General | Español (Latam/ES) |
+| 3253 | 🇻🇪 | Televisora de Oriente | General | Español (Latam/ES) |
+| 3254 | 🇭🇳 | TEN Canal 10 | General | Español (Latam/ES) |
+| 3255 | 🇩🇴 | Tenarenses TV | General | Español (Latam/ES) |
+| 3256 | 🇪🇸 | Tenerife Plus TV | General | Español (Latam/ES) |
+| 3257 | 🇵🇪 | Teve Empresa | General | Español (Latam/ES) |
+| 3258 | 🇬🇹 | TeveGlobo Xela HD [No 24/7] (Quetzaltenango) | General | Español (Latam/ES) |
+| 3259 | 🇵🇪 | Tevesur | General | Español (Latam/ES) |
+| 3260 | 🇪🇸 | TG7 [No 24/7](Andalucía) | General | Español (Latam/ES) |
+| 3261 | 🇺🇸 | The Monterey Channel | General | Español (Latam/ES) |
+| 3262 | 🇺🇸 | The Walking Dead en Espanol | General | Español (Latam/ES) |
+| 3263 | 🇪🇸 | Thrillers | General | Español (Latam/ES) |
+| 3264 | 🇨🇷 | TicaVision | General | Español (Latam/ES) |
+| 3265 | 🇪🇸 | Tito TV | General | Español (Latam/ES) |
+| 3266 | 🇦🇷 | TIV Television | General | Español (Latam/ES) |
+| 3267 | 🇧🇴 | TL Estrella | General | Español (Latam/ES) |
+| 3268 | 🇸🇻 | TL+ HD Santa Ana [No 24/7] | General | Español (Latam/ES) |
+| 3269 | 🇲🇽 | Tlaxcala TV | General | Español (Latam/ES) |
+| 3270 | 🇦🇷 | TN HD (Buenos Aires) No 24/7][Opc.2] | General | Español (Latam/ES) |
+| 3271 | 🇦🇷 | TN Todo Noticias Ⓨ | General | Español (Latam/ES) |
+| 3272 | 🇬🇹 | TN23 SD  (Nacional) | General | Español (Latam/ES) |
+| 3273 | 🇳🇮 | TN8 | General | Español (Latam/ES) |
+| 3274 | 🇩🇴 | TNE Canal 58 | General | Español (Latam/ES) |
+| 3275 | 🇻🇪 | TNO Radio | General | Español (Latam/ES) |
+| 3276 | 🇺🇸 | TNT (United States) West | General | Español (Latam/ES) |
+| 3277 | 🇺🇸 | TNT Latin America South | General | Español (Latam/ES) |
+| 3278 | 🇲🇽 | Todo Cine | General | Español (Latam/ES) |
+| 3279 | 🇪🇸 | Toon Goggles en Español (Latam) | General | Español (Latam/ES) |
+| 3280 | 🇵🇱 | TOP BARÇA | General | Español (Latam/ES) |
+| 3281 | 🇺🇰 | Top Gear | General | Español (Latam/ES) |
+| 3282 | 🇵🇪 | Top TV (Peru) | General | Español (Latam/ES) |
+| 3283 | 🇩🇴 | Tora Canal 69 | General | Español (Latam/ES) |
+| 3284 | 🇻🇪 | Torococo TV | General | Español (Latam/ES) |
+| 3285 | 🇪🇸 | Torococo TV — *(solo web: sitio oficial)* | General | Español (Latam/ES) |
+| 3286 | 🇪🇸 | Torremolinos TV | General | Español (Latam/ES) |
+| 3287 | 🇬🇹 | Toto Visión HD [No 24/7] | General | Español (Latam/ES) |
+| 3288 | 🇧🇴 | TransMedia | General | Español (Latam/ES) |
+| 3289 | 🇲🇽 | TRC TV | General | Español (Latam/ES) |
+| 3290 | 🇪🇸 | TRECE | General | Español (Latam/ES) |
+| 3291 | 🇨🇷 | Trivision 36 | General | Español (Latam/ES) |
+| 3292 | 🇵🇪 | Trivu HD [No 24/7] (Lima) | General | Español (Latam/ES) |
+| 3293 | 🇵🇦 | Tropical Moon Eventos TV | General | Español (Latam/ES) |
+| 3294 | 🇻🇪 | TRT (Venezuela) | General | Español (Latam/ES) |
+| 3295 | 🇭🇳 | TSi HD(Nacional) | General | Español (Latam/ES) |
+| 3296 | 🇻🇪 | Tu TV | General | Español (Latam/ES) |
+| 3297 | 🇬🇹 | Tunevision | General | Español (Latam/ES) |
+| 3298 | 🇩🇴 | TV 10 San Juan | General | Español (Latam/ES) |
+| 3299 | 🇵🇾 | TV Aire HD | General | Español (Latam/ES) |
+| 3300 | 🇪🇸 | TV Almassora (C. Valenciana) | General | Español (Latam/ES) |
+| 3301 | 🇻🇪 | TV Andes | General | Español (Latam/ES) |
+| 3302 | 🇪🇸 | TV Aranda | General | Español (Latam/ES) |
+| 3303 | 🇵🇪 | TV Bella Asuncion | General | Español (Latam/ES) |
+| 3304 | 🇪🇸 | TV BRICS Spanish | General | Español (Latam/ES) |
+| 3305 | 🇦🇷 | TV Canal 72 | General | Español (Latam/ES) |
+| 3306 | 🇪🇸 | TV Canaria (RTVC) | General | Español (Latam/ES) |
+| 3307 | 🇪🇸 | TV Canaria (RTVC)[Opc.2] | General | Español (Latam/ES) |
+| 3308 | 🇵🇾 | TV Canindeyu | General | Español (Latam/ES) |
+| 3309 | 🇭🇳 | TV Centro HD | General | Español (Latam/ES) |
+| 3310 | 🇪🇨 | TV Cisne | General | Español (Latam/ES) |
+| 3311 | 🇪🇨 | TV Color Canal 36 | General | Español (Latam/ES) |
+| 3312 | 🇭🇳 | TV Copan | General | Español (Latam/ES) |
+| 3313 | 🇵🇪 | TV Cosmos | General | Español (Latam/ES) |
+| 3314 | 🇩🇴 | TV Cotui Canal 31 | General | Español (Latam/ES) |
+| 3315 | 🇲🇽 | TV Cuatro 4.1 | General | Español (Latam/ES) |
+| 3316 | 🇲🇽 | TV Cuatro 4.2 HD (Guanajuato) | General | Español (Latam/ES) |
+| 3317 | 🇩🇴 | TV Daja | General | Español (Latam/ES) |
+| 3318 | 🇬🇹 | TV Doble C HD (Escuintla) | General | Español (Latam/ES) |
+| 3319 | 🇪🇸 | TV Ferrol Galicia (Ferrol - A Coruña) | General | Español (Latam/ES) |
+| 3320 | 🇬🇹 | TV Florencia | General | Español (Latam/ES) |
+| 3321 | 🇲🇽 | TV Guanajuato | General | Español (Latam/ES) |
+| 3322 | 🇲🇽 | TV Guanajuato HD (Guanajuato) | General | Español (Latam/ES) |
+| 3323 | 🇩🇴 | TV Higuey Digital | General | Español (Latam/ES) |
+| 3324 | 🇺🇸 | TV Hispanic | General | Español (Latam/ES) |
+| 3325 | 🇲🇽 | TV Independencia | General | Español (Latam/ES) |
+| 3326 | 🇧🇴 | TV Latina | General | Español (Latam/ES) |
+| 3327 | 🇲🇽 | TV Libertad | General | Español (Latam/ES) |
+| 3328 | 🇲🇽 | TV Lobo | General | Español (Latam/ES) |
+| 3329 | 🇵🇪 | TV MAR | General | Español (Latam/ES) |
+| 3330 | 🇲🇽 | TV Mar La Paz | General | Español (Latam/ES) |
+| 3331 | 🇲🇽 | TV Mar Los Cabos | General | Español (Latam/ES) |
+| 3332 | 🇲🇽 | TV Mar Puerto Vallarta | General | Español (Latam/ES) |
+| 3333 | 🇲🇽 | TV Más HD (Veracruz) | General | Español (Latam/ES) |
+| 3334 | 🇵🇪 | TV MAX | General | Español (Latam/ES) |
+| 3335 | 🇲🇽 | TV Migrante | General | Español (Latam/ES) |
+| 3336 | 🇩🇴 | TV Montana Canal 10 | General | Español (Latam/ES) |
+| 3337 | 🇵🇪 | TV Norte Chiclayo | General | Español (Latam/ES) |
+| 3338 | 🇪🇸 | TV Oasis | General | Español (Latam/ES) |
+| 3339 | 🇻🇪 | TV Oasis Monay (1080i) | General | Español (Latam/ES) |
+| 3340 | 🇵🇪 | TV Perú HD (Nacional) | General | Español (Latam/ES) |
+| 3341 | 🇵🇪 | TV Perú Internacional | General | Español (Latam/ES) |
+| 3342 | 🇵🇪 | TV Perú Noticias | General | Español (Latam/ES) |
+| 3343 | 🇩🇴 | TV Plata | General | Español (Latam/ES) |
+| 3344 | 🇦🇷 | TV Publica Fueguina | General | Español (Latam/ES) |
+| 3345 | 🇦🇷 | TV Publica Marcos Paz | General | Español (Latam/ES) |
+| 3346 | 🇺🇸 | TV Quisqueya | General | Español (Latam/ES) |
+| 3347 | 🇨🇴 | TV Rivera | General | Español (Latam/ES) |
+| 3348 | 🇦🇷 | TV Solidaria | General | Español (Latam/ES) |
+| 3349 | 🇨🇷 | TV Sur Canal 14 | General | Español (Latam/ES) |
+| 3350 | 🇬🇹 | TV Tun | General | Español (Latam/ES) |
+| 3351 | 🇵🇪 | TV+ Chincha | General | Español (Latam/ES) |
+| 3352 | 🇨🇴 | TV3 La Plata | General | Español (Latam/ES) |
+| 3353 | 🇪🇸 | TV3Cat Ⓖ | General | Español (Latam/ES) |
+| 3354 | 🇪🇸 | TVA (Spain) | General | Español (Latam/ES) |
+| 3355 | 🇸🇻 | TVC Network | General | Español (Latam/ES) |
+| 3356 | 🇪🇸 | TVCentro Andalucia | General | Español (Latam/ES) |
+| 3357 | 🇪🇸 | TVE Int. Europa [Opc.2] | General | Español (Latam/ES) |
+| 3358 | 🇪🇸 | TVE Internacional America HD | General | Español (Latam/ES) |
+| 3359 | 🇪🇸 | TVE Internacional Asia-Oceania HD | General | Español (Latam/ES) |
+| 3360 | 🇪🇸 | TVE Internacional Europe HD | General | Español (Latam/ES) |
+| 3361 | 🇪🇸 | TVE Internacional Europe-Asia | General | Español (Latam/ES) |
+| 3362 | 🇪🇸 | TVE Star HD | General | Español (Latam/ES) |
+| 3363 | 🇪🇸 | TVE Star HD — *(solo web: sitio oficial)* | General | Español (Latam/ES) |
+| 3364 | 🇪🇸 | TVE Star HD (Auto) | General | Español (Latam/ES) |
+| 3365 | 🇵🇪 | TVenLinea | General | Español (Latam/ES) |
+| 3366 | 🇻🇪 | TVes | General | Español (Latam/ES) |
+| 3367 | 🇪🇸 | TVG (Galicia) | General | Español (Latam/ES) |
+| 3368 | 🇪🇸 | TVG Eventos 1 [No 24/7] (Galicia) | General | Español (Latam/ES) |
+| 3369 | 🇪🇸 | TVG Eventos 2 [No 24/7] (Galicia) | General | Español (Latam/ES) |
+| 3370 | 🇪🇸 | TVG Eventos 3 [No 24/7] (Galicia) | General | Español (Latam/ES) |
+| 3371 | 🇪🇸 | TVG Mira Radio Galega (Galicia) | General | Español (Latam/ES) |
+| 3372 | 🇪🇸 | TVG Universo Castelao (Galicia) | General | Español (Latam/ES) |
+| 3373 | 🇪🇸 | TVG Xabarin (Galicia) | General | Español (Latam/ES) |
+| 3374 | 🇪🇸 | TVM Córdoba | General | Español (Latam/ES) |
+| 3375 | 🇻🇪 | TVM para ti | General | Español (Latam/ES) |
+| 3376 | 🇩🇴 | TVN (Dominican Republic) | General | Español (Latam/ES) |
+| 3377 | 🇵🇦 | TVN (Panama) | General | Español (Latam/ES) |
+| 3378 | 🇩🇴 | TVO | General | Español (Latam/ES) |
+| 3379 | 🇬🇹 | TVO [No 24/7] (Quetzaltenango) | General | Español (Latam/ES) |
+| 3380 | 🇸🇻 | TVO Canal 23 | General | Español (Latam/ES) |
+| 3381 | 🇪🇸 | TVO Jesus | General | Español (Latam/ES) |
+| 3382 | 🇲🇽 | TVP Culiacan | General | Español (Latam/ES) |
+| 3383 | 🇲🇽 | TVP Los Mochis | General | Español (Latam/ES) |
+| 3384 | 🇲🇽 | TVP Mazatlan | General | Español (Latam/ES) |
+| 3385 | 🇲🇽 | TVP Obregon | General | Español (Latam/ES) |
+| 3386 | 🇪🇸 | TVR (Spain) | General | Español (Latam/ES) |
+| 3387 | 🇻🇪 | TVS (Venezuela) | General | Español (Latam/ES) |
+| 3388 | 🇺🇸 | TVSA Public Channel | General | Español (Latam/ES) |
+| 3389 | 🇧🇴 | TVU Sucre | General | Español (Latam/ES) |
+| 3390 | 🇵🇪 | Ucayalina de Television | General | Español (Latam/ES) |
+| 3391 | 🇵🇪 | Uchu TV | General | Español (Latam/ES) |
+| 3392 | 🇲🇽 | UDG TV | General | Español (Latam/ES) |
+| 3393 | 🇪🇸 | UFC | General | Español (Latam/ES) |
+| 3394 | 🇲🇽 | Ultra TV Puebla | General | Español (Latam/ES) |
+| 3395 | 🇭🇳 | UNAH UTV | General | Español (Latam/ES) |
+| 3396 | 🇪🇸 | Une Vinalopo | General | Español (Latam/ES) |
+| 3397 | 🇪🇨 | UNIANDES TV HD [No 24/7] (Tungurahua) | General | Español (Latam/ES) |
+| 3398 | 🇬🇹 | Unica TV | General | Español (Latam/ES) |
+| 3399 | 🇵🇾 | Unicanal Ⓨ | General | Español (Latam/ES) |
+| 3400 | 🇵🇪 | Unicentro TV | General | Español (Latam/ES) |
+| 3401 | 🇺🇸 | Unidad de investigacion | General | Español (Latam/ES) |
+| 3402 | 🇪🇸 | Unifranz [No 24/7] | General | Español (Latam/ES) |
+| 3403 | 🇺🇸 | UniMas KFTR-DT | General | Español (Latam/ES) |
+| 3404 | 🇺🇸 | UniMas KUVN-DT | General | Español (Latam/ES) |
+| 3405 | 🇵🇾 | Union TV | General | Español (Latam/ES) |
+| 3406 | 🇵🇾 | UniRadio TV | General | Español (Latam/ES) |
+| 3407 | 🇵🇪 | Unitel (Peru) | General | Español (Latam/ES) |
+| 3408 | 🇦🇷 | Uniteve | General | Español (Latam/ES) |
+| 3409 | 🇻🇪 | UniTV | General | Español (Latam/ES) |
+| 3410 | 🇧🇴 | Univalle Television | General | Español (Latam/ES) |
+| 3411 | 🇵🇪 | Universitaria TV | General | Español (Latam/ES) |
+| 3412 | 🇺🇸 | Univision KMEX-DT | General | Español (Latam/ES) |
+| 3413 | 🇧🇴 | UPEA TV | General | Español (Latam/ES) |
+| 3414 | 🇵🇪 | Uranio TV | General | Español (Latam/ES) |
+| 3415 | 🇵🇪 | Uranio TV (Yurimaguas) HD [No 24/7] (Loreto) | General | Español (Latam/ES) |
+| 3416 | 🇦🇷 | Urban Mix | General | Español (Latam/ES) |
+| 3417 | 🇦🇷 | Urbana Tevé | General | Español (Latam/ES) |
+| 3418 | 🇪🇸 | Urola TB (País Vasco) | General | Español (Latam/ES) |
+| 3419 | 🇵🇪 | USMPTV HD (Lima / Nacional) | General | Español (Latam/ES) |
+| 3420 | 🇻🇪 | Vale TV | General | Español (Latam/ES) |
+| 3421 | 🇩🇴 | Valle Nuevo TV | General | Español (Latam/ES) |
+| 3422 | 🇩🇴 | Vallevision | General | Español (Latam/ES) |
+| 3423 | 🇪🇸 | VE Plus | General | Español (Latam/ES) |
+| 3424 | 🇩🇴 | Vega Teve | General | Español (Latam/ES) |
+| 3425 | 🇩🇴 | Vegavision Canal 18 | General | Español (Latam/ES) |
+| 3426 | 🇪🇸 | Venevisión [V3] | General | Español (Latam/ES) |
+| 3427 | 🇻🇪 | Venevision Internacional | General | Español (Latam/ES) |
+| 3428 | 🇻🇪 | Vepaco TV | General | Español (Latam/ES) |
+| 3429 | 🇬🇹 | Verapaz TV HD [No 24/7] (Inestable) | General | Español (Latam/ES) |
+| 3430 | 🇵🇪 | Via Altomayo | General | Español (Latam/ES) |
+| 3431 | 🇵🇪 | Via Television | General | Español (Latam/ES) |
+| 3432 | 🇲🇽 | Vibe TV HD [No 24/7] (Guanajuato) | General | Español (Latam/ES) |
+| 3433 | 🇩🇴 | Villa Altagracia TV | General | Español (Latam/ES) |
+| 3434 | 🇵🇾 | Villa Elisa Radio TV | General | Español (Latam/ES) |
+| 3435 | 🇦🇷 | Villa Mantero TV | General | Español (Latam/ES) |
+| 3436 | 🇩🇴 | Vision 3000 | General | Español (Latam/ES) |
+| 3437 | 🇪🇸 | Vision 6 TV | General | Español (Latam/ES) |
+| 3438 | 🇺🇸 | Vision Latina Network | General | Español (Latam/ES) |
+| 3439 | 🇵🇪 | Vision Sur | General | Español (Latam/ES) |
+| 3440 | 🇵🇪 | Visión Sur TV HD [No 24/7] (Arequipa) | General | Español (Latam/ES) |
+| 3441 | 🇬🇹 | Vision TV — *(solo web: sitio oficial)* | General | Español (Latam/ES) |
+| 3442 | 🇳🇮 | Viva Nicaragua Canal 13 | General | Español (Latam/ES) |
+| 3443 | 🇳🇮 | Viva TV | General | Español (Latam/ES) |
+| 3444 | 🇵🇪 | Viva TV Yurimaguas | General | Español (Latam/ES) |
+| 3445 | 🇪🇸 | Vivamovil | General | Español (Latam/ES) |
+| 3446 | 🇨🇴 | Vive TV Colombia HD [No 24/7](Nacional) | General | Español (Latam/ES) |
+| 3447 | 🇵🇪 | VR Canal 21 Nasca | General | Español (Latam/ES) |
+| 3448 | 🇦🇷 | VTV (Argentina) | General | Español (Latam/ES) |
+| 3449 | 🇭🇳 | VTV (Honduras) | General | Español (Latam/ES) |
+| 3450 | 🇩🇴 | VTV Canal 32 | General | Español (Latam/ES) |
+| 3451 | 🇭🇳 | Waldivision Internacional | General | Español (Latam/ES) |
+| 3452 | 🇵🇷 | WAPA-TV 4.1 | General | Español (Latam/ES) |
+| 3453 | 🇻🇪 | Wata Vision | General | Español (Latam/ES) |
+| 3454 | 🇵🇪 | Wayra TV | General | Español (Latam/ES) |
+| 3455 | 🇪🇸 | Winx Club | General | Español (Latam/ES) |
+| 3456 | 🇺🇸 | Wipeout | General | Español (Latam/ES) |
+| 3457 | 🇵🇷 | WIPR-TV 6.1 | General | Español (Latam/ES) |
+| 3458 | 🇵🇷 | WKAQ-TV 2.2 | General | Español (Latam/ES) |
+| 3459 | 🇺🇸 | World Poker Tour | General | Español (Latam/ES) |
+| 3460 | 🇬🇹 | World TV Guatemala | General | Español (Latam/ES) |
+| 3461 | 🇸🇻 | WOW TV | General | Español (Latam/ES) |
+| 3462 | 🇸🇻 | WOW TV HD | General | Español (Latam/ES) |
+| 3463 | 🇵🇪 | Wtv | General | Español (Latam/ES) |
+| 3464 | 🇪🇨 | Wuan+ | General | Español (Latam/ES) |
+| 3465 | 🇵🇷 | WXWZ-LD 23.1 | General | Español (Latam/ES) |
+| 3466 | 🇦🇷 | Xama TV | General | Español (Latam/ES) |
+| 3467 | 🇲🇽 | XEJ-TDT | General | Español (Latam/ES) |
+| 3468 | 🇲🇽 | XHBZC-TDT | General | Español (Latam/ES) |
+| 3469 | 🇲🇽 | XHFGL-TDT | General | Español (Latam/ES) |
+| 3470 | 🇲🇽 | XHGV-TDT | General | Español (Latam/ES) |
+| 3471 | 🇲🇽 | XHIJ-TDT | General | Español (Latam/ES) |
+| 3472 | 🇲🇽 | XHTTG-TDT | General | Español (Latam/ES) |
+| 3473 | 🇲🇽 | XHZHZ-TDT | General | Español (Latam/ES) |
+| 3474 | 🇪🇸 | Xphere Aventura | General | Español (Latam/ES) |
+| 3475 | 🇪🇸 | Xphere Cosmos | General | Español (Latam/ES) |
+| 3476 | 🇪🇸 | Xphere One | General | Español (Latam/ES) |
+| 3477 | 🇪🇸 | Xphere Science | General | Español (Latam/ES) |
+| 3478 | 🇪🇸 | Xphere Wild (Nature) | General | Español (Latam/ES) |
+| 3479 | 🇧🇴 | XTOTV | General | Español (Latam/ES) |
+| 3480 | 🇩🇴 | Xtra Tv | General | Español (Latam/ES) |
+| 3481 | 🇦🇷 | Xtrema Accion | General | Español (Latam/ES) |
+| 3482 | 🇩🇴 | Xtremo Channel | General | Español (Latam/ES) |
+| 3483 | 🇮🇩 | YOY International | General | Español (Latam/ES) |
+| 3484 | 🇺🇸 | Yu-Gi-Oh! | General | Español (Latam/ES) |
+| 3485 | 🇵🇪 | Yurimaguas TV | General | Español (Latam/ES) |
+| 3486 | 🇵🇪 | Yurivision | General | Español (Latam/ES) |
+| 3487 | 🇪🇨 | Zaracay TV | General | Español (Latam/ES) |
+| 3488 | 🇩🇴 | ZAS TV | General | Español (Latam/ES) |
+| 3489 | 🇵🇪 | Zeleve TV | General | Español (Latam/ES) |
+| 3490 | 🇩🇴 | Zinc Nombre TV | General | Español (Latam/ES) |
+| 3491 | 🇩🇴 | Zonavision TV | General | Español (Latam/ES) |
+| 3492 | 🇨🇷 | Zurqui TV | General | Español (Latam/ES) |
+| 3493 | 🇪🇸 | Zylo Cine Friki | General | Español (Latam/ES) |
+| 3494 | 🇺🇸 | DroneTV | Relajación | Español (Latam/ES) |
 
 ### 📍 Regiones de Chile (norte → sur) — 259 canales
 

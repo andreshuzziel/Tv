@@ -21814,7 +21814,7 @@ window.CHANNELS = [
  "web": "",
  "note": "vía iptv-org · spa (sanitizada)",
  "cc": "pe",
- "chno": 3232
+ "chno": 3231
 },
  {
  "id": "teleuniverso-do-sd",
@@ -21827,7 +21827,7 @@ window.CHANNELS = [
  "web": "",
  "note": "vía iptv-org · spa (sanitizada)",
  "cc": "do",
- "chno": 3234
+ "chno": 3233
 },
  {
  "id": "telever-do-sd",
@@ -21840,7 +21840,7 @@ window.CHANNELS = [
  "web": "",
  "note": "vía iptv-org · spa (sanitizada)",
  "cc": "do",
- "chno": 3236
+ "chno": 3235
 },
  {
  "id": "televiaductocanal3-do-sd",
@@ -21853,7 +21853,7 @@ window.CHANNELS = [
  "web": "",
  "note": "vía iptv-org · spa (sanitizada)",
  "cc": "do",
- "chno": 3238
+ "chno": 3237
 },
  {
  "id": "televiaductocanal14-do-sd",
@@ -21866,7 +21866,7 @@ window.CHANNELS = [
  "web": "",
  "note": "vía iptv-org · spa (sanitizada)",
  "cc": "do",
- "chno": 3237
+ "chno": 3236
 },
  {
  "id": "televisiondesanvicente-es-sd",
@@ -21879,7 +21879,7 @@ window.CHANNELS = [
  "web": "",
  "note": "vía iptv-org · spa (sanitizada)",
  "cc": "es",
- "chno": 3247
+ "chno": 3246
 },
  {
  "id": "televisionmetropolis191-hn-sd",
@@ -21892,7 +21892,7 @@ window.CHANNELS = [
  "web": "",
  "note": "vía iptv-org · spa (sanitizada)",
  "cc": "hn",
- "chno": 3248
+ "chno": 3247
 },
  {
  "id": "televisionmetropolis192-hn-sd",
@@ -21905,7 +21905,7 @@ window.CHANNELS = [
  "web": "",
  "note": "vía iptv-org · spa (sanitizada)",
  "cc": "hn",
- "chno": 3249
+ "chno": 3248
 },
  {
  "id": "televisionolanchana-hn-sd",
@@ -21918,7 +21918,7 @@ window.CHANNELS = [
  "web": "",
  "note": "vía iptv-org · spa (sanitizada)",
  "cc": "hn",
- "chno": 3250
+ "chno": 3249
 },
  {
  "id": "televisiontarapoto-pe-sd",
@@ -21931,7 +21931,7 @@ window.CHANNELS = [
  "web": "",
  "note": "vía iptv-org · spa (sanitizada)",
  "cc": "pe",
- "chno": 3252
+ "chno": 3251
 },
  {
  "id": "televisoradeoriente-ve-sd",
@@ -21944,7 +21944,7 @@ window.CHANNELS = [
  "web": "",
  "note": "vía iptv-org · spa (sanitizada)",
  "cc": "ve",
- "chno": 3254
+ "chno": 3253
 },
  {
  "id": "tenarensestv-do-sd",
@@ -21957,7 +21957,7 @@ window.CHANNELS = [
  "web": "",
  "note": "vía iptv-org · spa (sanitizada)",
  "cc": "do",
- "chno": 3256
+ "chno": 3255
 },
  {
  "id": "teveempresa-pe-sd",
@@ -21970,7 +21970,7 @@ window.CHANNELS = [
  "web": "",
  "note": "vía iptv-org · spa (sanitizada)",
  "cc": "pe",
- "chno": 3258
+ "chno": 3257
 },
  {
  "id": "tevesur-pe-sd",
@@ -21983,7 +21983,7 @@ window.CHANNELS = [
  "web": "",
  "note": "vía iptv-org · spa (sanitizada)",
  "cc": "pe",
- "chno": 3260
+ "chno": 3259
 },
  {
  "id": "themontereychannel-us-sd",
@@ -21996,7 +21996,7 @@ window.CHANNELS = [
  "web": "",
  "note": "vía iptv-org · spa (sanitizada)",
  "cc": "us",
- "chno": 3262
+ "chno": 3261
 },
  {
  "id": "ticavision-cr-sd",
@@ -22009,7 +22009,7 @@ window.CHANNELS = [
  "web": "",
  "note": "vía iptv-org · spa (sanitizada)",
  "cc": "cr",
- "chno": 3265
+ "chno": 3264
 },
  {
  "id": "tn8-ni-sd",
@@ -22022,7 +22022,7 @@ window.CHANNELS = [
  "web": "",
  "note": "vía iptv-org · spa (sanitizada)",
  "cc": "ni",
- "chno": 3274
+ "chno": 3273
 },
  {
  "id": "tnecanal58-do-sd",
@@ -22035,7 +22035,7 @@ window.CHANNELS = [
  "web": "",
  "note": "vía iptv-org · spa (sanitizada)",
  "cc": "do",
- "chno": 3275
+ "chno": 3274
 },
  {
  "id": "tnoradio-ve-sd",
@@ -22048,7 +22048,7 @@ window.CHANNELS = [
  "web": "",
  "note": "vía iptv-org · spa (sanitizada)",
  "cc": "ve",
- "chno": 3276
+ "chno": 3275
 },
  {
  "id": "tnt-us-west",
@@ -22061,7 +22061,7 @@ window.CHANNELS = [
  "web": "",
  "note": "vía iptv-org · spa (sanitizada)",
  "cc": "us",
- "chno": 3277
+ "chno": 3276
 },
  {
  "id": "toptv-pe-sd",
@@ -22074,7 +22074,7 @@ window.CHANNELS = [
  "web": "",
  "note": "vía iptv-org · spa (sanitizada)",
  "cc": "pe",
- "chno": 3283
+ "chno": 3282
 },
  {
  "id": "toracanal69-do-hd",
@@ -22087,7 +22087,7 @@ window.CHANNELS = [
  "web": "",
  "note": "vía iptv-org · spa (sanitizada)",
  "cc": "do",
- "chno": 3284
+ "chno": 3283
 },
  {
  "id": "torococotv-ve-sd",
@@ -22100,7 +22100,7 @@ window.CHANNELS = [
  "web": "",
  "note": "vía iptv-org · spa (sanitizada)",
  "cc": "ve",
- "chno": 3285
+ "chno": 3284
 },
  {
  "id": "transmedia-bo-sd",
@@ -22113,7 +22113,7 @@ window.CHANNELS = [
  "web": "",
  "note": "vía iptv-org · spa (sanitizada)",
  "cc": "bo",
- "chno": 3289
+ "chno": 3288
 },
  {
  "id": "trivision36-cr-sd",
@@ -22126,7 +22126,7 @@ window.CHANNELS = [
  "web": "",
  "note": "vía iptv-org · spa (sanitizada)",
  "cc": "cr",
- "chno": 3292
+ "chno": 3291
 },
  {
  "id": "tropicalmooneventostv-pa-sd",
@@ -22139,7 +22139,7 @@ window.CHANNELS = [
  "web": "",
  "note": "vía iptv-org · spa (sanitizada)",
  "cc": "pa",
- "chno": 3294
+ "chno": 3293
 },
  {
  "id": "trt-ve-sd",
@@ -22152,7 +22152,7 @@ window.CHANNELS = [
  "web": "",
  "note": "vía iptv-org · spa (sanitizada)",
  "cc": "ve",
- "chno": 3295
+ "chno": 3294
 },
  {
  "id": "tutv-ve-sd",
@@ -22165,7 +22165,7 @@ window.CHANNELS = [
  "web": "",
  "note": "vía iptv-org · spa (sanitizada)",
  "cc": "ve",
- "chno": 3297
+ "chno": 3296
 },
  {
  "id": "tv3laplata-co-sd",
@@ -22178,7 +22178,7 @@ window.CHANNELS = [
  "web": "",
  "note": "vía iptv-org · spa (sanitizada)",
  "cc": "co",
- "chno": 3353
+ "chno": 3352
 },
  {
  "id": "tv10sanjuan-do-sd",
@@ -22191,7 +22191,7 @@ window.CHANNELS = [
  "web": "",
  "note": "vía iptv-org · spa (sanitizada)",
  "cc": "do",
- "chno": 3299
+ "chno": 3298
 },
  {
  "id": "tvandes-ve-sd",
@@ -22204,7 +22204,7 @@ window.CHANNELS = [
  "web": "",
  "note": "vía iptv-org · spa (sanitizada)",
  "cc": "ve",
- "chno": 3302
+ "chno": 3301
 },
  {
  "id": "tvbricsspanish-es-hd",
@@ -22217,7 +22217,7 @@ window.CHANNELS = [
  "web": "",
  "note": "vía iptv-org · spa (sanitizada)",
  "cc": "es",
- "chno": 3305
+ "chno": 3304
 },
  {
  "id": "tvcanal72-ar-sd",
@@ -22230,7 +22230,7 @@ window.CHANNELS = [
  "web": "",
  "note": "vía iptv-org · spa (sanitizada)",
  "cc": "ar",
- "chno": 3306
+ "chno": 3305
 },
  {
  "id": "tvcanindeyu-py-sd",
@@ -22243,7 +22243,7 @@ window.CHANNELS = [
  "web": "",
  "note": "vía iptv-org · spa (sanitizada)",
  "cc": "py",
- "chno": 3309
+ "chno": 3308
 },
  {
  "id": "tvcentrohd-hn-sd",
@@ -22256,7 +22256,7 @@ window.CHANNELS = [
  "web": "",
  "note": "vía iptv-org · spa (sanitizada)",
  "cc": "hn",
- "chno": 3310
+ "chno": 3309
 },
  {
  "id": "tvcisne-ec-sd",
@@ -22269,7 +22269,7 @@ window.CHANNELS = [
  "web": "",
  "note": "vía iptv-org · spa (sanitizada)",
  "cc": "ec",
- "chno": 3311
+ "chno": 3310
 },
  {
  "id": "tvcolorcanal36-ec-sd",
@@ -22282,7 +22282,7 @@ window.CHANNELS = [
  "web": "",
  "note": "vía iptv-org · spa (sanitizada)",
  "cc": "ec",
- "chno": 3312
+ "chno": 3311
 },
  {
  "id": "tvcosmos-pe-sd",
@@ -22295,7 +22295,7 @@ window.CHANNELS = [
  "web": "",
  "note": "vía iptv-org · spa (sanitizada)",
  "cc": "pe",
- "chno": 3314
+ "chno": 3313
 },
  {
  "id": "tvcotuicanal31-do-sd",
@@ -22308,7 +22308,7 @@ window.CHANNELS = [
  "web": "",
  "note": "vía iptv-org · spa (sanitizada)",
  "cc": "do",
- "chno": 3315
+ "chno": 3314
 },
  {
  "id": "tvcuatro41-mx-sd",
@@ -22321,7 +22321,7 @@ window.CHANNELS = [
  "web": "",
  "note": "vía iptv-org · spa (sanitizada)",
  "cc": "mx",
- "chno": 3316
+ "chno": 3315
 },
  {
  "id": "tvdaja-do-sd",
@@ -22334,7 +22334,7 @@ window.CHANNELS = [
  "web": "",
  "note": "vía iptv-org · spa (sanitizada)",
  "cc": "do",
- "chno": 3318
+ "chno": 3317
 },
  {
  "id": "tvflorencia-gt-sd",
@@ -22347,7 +22347,7 @@ window.CHANNELS = [
  "web": "",
  "note": "vía iptv-org · spa (sanitizada)",
  "cc": "gt",
- "chno": 3321
+ "chno": 3320
 },
  {
  "id": "tvguanajuato-mx-sd",
@@ -22360,7 +22360,7 @@ window.CHANNELS = [
  "web": "",
  "note": "vía iptv-org · spa (sanitizada)",
  "cc": "mx",
- "chno": 3322
+ "chno": 3321
 },
  {
  "id": "tvhigueydigital-do-sd",
@@ -22373,7 +22373,7 @@ window.CHANNELS = [
  "web": "",
  "note": "vía iptv-org · spa (sanitizada)",
  "cc": "do",
- "chno": 3324
+ "chno": 3323
 },
  {
  "id": "tvhispanic-us-sd",
@@ -22386,7 +22386,7 @@ window.CHANNELS = [
  "web": "",
  "note": "vía iptv-org · spa (sanitizada)",
  "cc": "us",
- "chno": 3325
+ "chno": 3324
 },
  {
  "id": "tvindependencia-mx-sd",
@@ -22399,7 +22399,7 @@ window.CHANNELS = [
  "web": "",
  "note": "vía iptv-org · spa (sanitizada)",
  "cc": "mx",
- "chno": 3326
+ "chno": 3325
 },
  {
  "id": "tvlibertad-mx-sd",
@@ -22412,7 +22412,7 @@ window.CHANNELS = [
  "web": "",
  "note": "vía iptv-org · spa (sanitizada)",
  "cc": "mx",
- "chno": 3328
+ "chno": 3327
 },
  {
  "id": "tvmar-pe-sd",
@@ -22425,7 +22425,7 @@ window.CHANNELS = [
  "web": "",
  "note": "vía iptv-org · spa (sanitizada)",
  "cc": "pe",
- "chno": 3330
+ "chno": 3329
 },
  {
  "id": "tvmarlapaz-mx-sd",
@@ -22438,7 +22438,7 @@ window.CHANNELS = [
  "web": "",
  "note": "vía iptv-org · spa (sanitizada)",
  "cc": "mx",
- "chno": 3331
+ "chno": 3330
 },
  {
  "id": "tvmarloscabos-mx-sd",
@@ -22451,7 +22451,7 @@ window.CHANNELS = [
  "web": "",
  "note": "vía iptv-org · spa (sanitizada)",
  "cc": "mx",
- "chno": 3332
+ "chno": 3331
 },
  {
  "id": "tvmarpuertovallarta-mx-sd",
@@ -22464,7 +22464,7 @@ window.CHANNELS = [
  "web": "",
  "note": "vía iptv-org · spa (sanitizada)",
  "cc": "mx",
- "chno": 3333
+ "chno": 3332
 },
  {
  "id": "tvmax-pe-sd",
@@ -22477,7 +22477,7 @@ window.CHANNELS = [
  "web": "",
  "note": "vía iptv-org · spa (sanitizada)",
  "cc": "pe",
- "chno": 3335
+ "chno": 3334
 },
  {
  "id": "tvmigrante-mx-sd",
@@ -22490,7 +22490,7 @@ window.CHANNELS = [
  "web": "",
  "note": "vía iptv-org · spa (sanitizada)",
  "cc": "mx",
- "chno": 3336
+ "chno": 3335
 },
  {
  "id": "tvmontanacanal10-do-sd",
@@ -22503,7 +22503,7 @@ window.CHANNELS = [
  "web": "",
  "note": "vía iptv-org · spa (sanitizada)",
  "cc": "do",
- "chno": 3337
+ "chno": 3336
 },
  {
  "id": "tvoasismonay-ve-sd",
@@ -22516,7 +22516,7 @@ window.CHANNELS = [
  "web": "",
  "note": "vía iptv-org · spa (sanitizada)",
  "cc": "ve",
- "chno": 3340
+ "chno": 3339
 },
  {
  "id": "tvplata-do-sd",
@@ -22529,7 +22529,7 @@ window.CHANNELS = [
  "web": "",
  "note": "vía iptv-org · spa (sanitizada)",
  "cc": "do",
- "chno": 3344
+ "chno": 3343
 },
  {
  "id": "tvpublicamarcospaz-ar-sd",
@@ -22542,7 +22542,7 @@ window.CHANNELS = [
  "web": "",
  "note": "vía iptv-org · spa (sanitizada)",
  "cc": "ar",
- "chno": 3346
+ "chno": 3345
 },
  {
  "id": "tvquisqueya-us-sd",
@@ -22555,7 +22555,7 @@ window.CHANNELS = [
  "web": "",
  "note": "vía iptv-org · spa (sanitizada)",
  "cc": "us",
- "chno": 3347
+ "chno": 3346
 },
  {
  "id": "tvrivera-co-sd",
@@ -22568,7 +22568,7 @@ window.CHANNELS = [
  "web": "",
  "note": "vía iptv-org · spa (sanitizada)",
  "cc": "co",
- "chno": 3348
+ "chno": 3347
 },
  {
  "id": "tvtun-gt-sd",
@@ -22581,7 +22581,7 @@ window.CHANNELS = [
  "web": "",
  "note": "vía iptv-org · spa (sanitizada)",
  "cc": "gt",
- "chno": 3351
+ "chno": 3350
 },
  {
  "id": "tvpluschincha-pe-sd",
@@ -22594,7 +22594,7 @@ window.CHANNELS = [
  "web": "",
  "note": "vía iptv-org · spa (sanitizada)",
  "cc": "pe",
- "chno": 3352
+ "chno": 3351
 },
  {
  "id": "tvcnetwork-sv-sd",
@@ -22607,7 +22607,7 @@ window.CHANNELS = [
  "web": "",
  "note": "vía iptv-org · spa (sanitizada)",
  "cc": "sv",
- "chno": 3356
+ "chno": 3355
 },
  {
  "id": "tvenlinea-pe-sd",
@@ -22620,7 +22620,7 @@ window.CHANNELS = [
  "web": "",
  "note": "vía iptv-org · spa (sanitizada)",
  "cc": "pe",
- "chno": 3366
+ "chno": 3365
 },
  {
  "id": "tves-ve-sd",
@@ -22633,7 +22633,7 @@ window.CHANNELS = [
  "web": "",
  "note": "vía iptv-org · spa (sanitizada)",
  "cc": "ve",
- "chno": 3367
+ "chno": 3366
 },
  {
  "id": "tvmparati-ve-sd",
@@ -22646,7 +22646,7 @@ window.CHANNELS = [
  "web": "",
  "note": "vía iptv-org · spa (sanitizada)",
  "cc": "ve",
- "chno": 3376
+ "chno": 3375
 },
  {
  "id": "tvn-do-hd",
@@ -22659,7 +22659,7 @@ window.CHANNELS = [
  "web": "",
  "note": "vía iptv-org · spa (sanitizada)",
  "cc": "do",
- "chno": 3377
+ "chno": 3376
 },
  {
  "id": "tvn-pa-sd",
@@ -22672,7 +22672,7 @@ window.CHANNELS = [
  "web": "",
  "note": "vía iptv-org · spa (sanitizada)",
  "cc": "pa",
- "chno": 3378
+ "chno": 3377
 },
  {
  "id": "tvo-do-sd",
@@ -22685,7 +22685,7 @@ window.CHANNELS = [
  "web": "",
  "note": "vía iptv-org · spa (sanitizada)",
  "cc": "do",
- "chno": 3379
+ "chno": 3378
 },
  {
  "id": "tvocanal23-sv-sd",
@@ -22698,7 +22698,7 @@ window.CHANNELS = [
  "web": "",
  "note": "vía iptv-org · spa (sanitizada)",
  "cc": "sv",
- "chno": 3381
+ "chno": 3380
 },
  {
  "id": "tvpculiacan-mx-sd",
@@ -22711,7 +22711,7 @@ window.CHANNELS = [
  "web": "",
  "note": "vía iptv-org · spa (sanitizada)",
  "cc": "mx",
- "chno": 3383
+ "chno": 3382
 },
  {
  "id": "tvplosmochis-mx-sd",
@@ -22724,7 +22724,7 @@ window.CHANNELS = [
  "web": "",
  "note": "vía iptv-org · spa (sanitizada)",
  "cc": "mx",
- "chno": 3384
+ "chno": 3383
 },
  {
  "id": "tvpmazatlan-mx-sd",
@@ -22737,7 +22737,7 @@ window.CHANNELS = [
  "web": "",
  "note": "vía iptv-org · spa (sanitizada)",
  "cc": "mx",
- "chno": 3385
+ "chno": 3384
 },
  {
  "id": "tvpobregon-mx-sd",
@@ -22750,7 +22750,7 @@ window.CHANNELS = [
  "web": "",
  "note": "vía iptv-org · spa (sanitizada)",
  "cc": "mx",
- "chno": 3386
+ "chno": 3385
 },
  {
  "id": "tvr-es-sd",
@@ -22763,7 +22763,7 @@ window.CHANNELS = [
  "web": "",
  "note": "vía iptv-org · spa (sanitizada)",
  "cc": "es",
- "chno": 3387
+ "chno": 3386
 },
  {
  "id": "tvs-ve-sd",
@@ -22776,7 +22776,7 @@ window.CHANNELS = [
  "web": "",
  "note": "vía iptv-org · spa (sanitizada)",
  "cc": "ve",
- "chno": 3388
+ "chno": 3387
 },
  {
  "id": "tvsapublicchannel-us-sd",
@@ -22789,7 +22789,7 @@ window.CHANNELS = [
  "web": "",
  "note": "vía iptv-org · spa (sanitizada)",
  "cc": "us",
- "chno": 3389
+ "chno": 3388
 },
  {
  "id": "tvusucre-bo-sd",
@@ -22802,7 +22802,7 @@ window.CHANNELS = [
  "web": "",
  "note": "vía iptv-org · spa (sanitizada)",
  "cc": "bo",
- "chno": 3390
+ "chno": 3389
 },
  {
  "id": "uchutv-pe-sd",
@@ -22815,7 +22815,7 @@ window.CHANNELS = [
  "web": "",
  "note": "vía iptv-org · spa (sanitizada)",
  "cc": "pe",
- "chno": 3392
+ "chno": 3391
 },
  {
  "id": "udgtv-mx-sd",
@@ -22828,7 +22828,7 @@ window.CHANNELS = [
  "web": "",
  "note": "vía iptv-org · spa (sanitizada)",
  "cc": "mx",
- "chno": 3393
+ "chno": 3392
 },
  {
  "id": "unicentrotv-pe-sd",
@@ -22841,7 +22841,7 @@ window.CHANNELS = [
  "web": "",
  "note": "vía iptv-org · spa (sanitizada)",
  "cc": "pe",
- "chno": 3401
+ "chno": 3400
 },
  {
  "id": "uniontv-py-sd",
@@ -22854,7 +22854,7 @@ window.CHANNELS = [
  "web": "",
  "note": "vía iptv-org · spa (sanitizada)",
  "cc": "py",
- "chno": 3406
+ "chno": 3405
 },
  {
  "id": "unitel-pe-sd",
@@ -22867,7 +22867,7 @@ window.CHANNELS = [
  "web": "",
  "note": "vía iptv-org · spa (sanitizada)",
  "cc": "pe",
- "chno": 3408
+ "chno": 3407
 },
  {
  "id": "unitv-ve-sd",
@@ -22880,7 +22880,7 @@ window.CHANNELS = [
  "web": "",
  "note": "vía iptv-org · spa (sanitizada)",
  "cc": "ve",
- "chno": 3410
+ "chno": 3409
 },
  {
  "id": "valetv-ve-sd",
@@ -22893,7 +22893,7 @@ window.CHANNELS = [
  "web": "",
  "note": "vía iptv-org · spa (sanitizada)",
  "cc": "ve",
- "chno": 3421
+ "chno": 3420
 },
  {
  "id": "vallenuevotv-do-sd",
@@ -22906,7 +22906,7 @@ window.CHANNELS = [
  "web": "",
  "note": "vía iptv-org · spa (sanitizada)",
  "cc": "do",
- "chno": 3422
+ "chno": 3421
 },
  {
  "id": "vallevision-do-sd",
@@ -22919,7 +22919,7 @@ window.CHANNELS = [
  "web": "",
  "note": "vía iptv-org · spa (sanitizada)",
  "cc": "do",
- "chno": 3423
+ "chno": 3422
 },
  {
  "id": "vegateve-do-sd",
@@ -22932,7 +22932,7 @@ window.CHANNELS = [
  "web": "",
  "note": "vía iptv-org · spa (sanitizada)",
  "cc": "do",
- "chno": 3425
+ "chno": 3424
 },
  {
  "id": "vegavisioncanal18-do-sd",
@@ -22945,7 +22945,7 @@ window.CHANNELS = [
  "web": "",
  "note": "vía iptv-org · spa (sanitizada)",
  "cc": "do",
- "chno": 3426
+ "chno": 3425
 },
  {
  "id": "venevisioninternacional-ve-sd",
@@ -22958,7 +22958,7 @@ window.CHANNELS = [
  "web": "",
  "note": "vía iptv-org · spa (sanitizada)",
  "cc": "ve",
- "chno": 3428
+ "chno": 3427
 },
  {
  "id": "vepacotv-ve-sd",
@@ -22971,7 +22971,7 @@ window.CHANNELS = [
  "web": "",
  "note": "vía iptv-org · spa (sanitizada)",
  "cc": "ve",
- "chno": 3429
+ "chno": 3428
 },
  {
  "id": "viaaltomayo-pe-sd",
@@ -22984,7 +22984,7 @@ window.CHANNELS = [
  "web": "",
  "note": "vía iptv-org · spa (sanitizada)",
  "cc": "pe",
- "chno": 3431
+ "chno": 3430
 },
  {
  "id": "viatelevision-pe-sd",
@@ -22997,7 +22997,7 @@ window.CHANNELS = [
  "web": "",
  "note": "vía iptv-org · spa (sanitizada)",
  "cc": "pe",
- "chno": 3432
+ "chno": 3431
 },
  {
  "id": "villaaltagraciatv-do-sd",
@@ -23010,7 +23010,7 @@ window.CHANNELS = [
  "web": "",
  "note": "vía iptv-org · spa (sanitizada)",
  "cc": "do",
- "chno": 3434
+ "chno": 3433
 },
  {
  "id": "villaelisaradiotv-py-sd",
@@ -23023,7 +23023,7 @@ window.CHANNELS = [
  "web": "",
  "note": "vía iptv-org · spa (sanitizada)",
  "cc": "py",
- "chno": 3435
+ "chno": 3434
 },
  {
  "id": "vision3000-do-sd",
@@ -23036,7 +23036,7 @@ window.CHANNELS = [
  "web": "",
  "note": "vía iptv-org · spa (sanitizada)",
  "cc": "do",
- "chno": 3437
+ "chno": 3436
 },
  {
  "id": "visionlatinanetwork-us-sd",
@@ -23049,7 +23049,7 @@ window.CHANNELS = [
  "web": "",
  "note": "vía iptv-org · spa (sanitizada)",
  "cc": "us",
- "chno": 3439
+ "chno": 3438
 },
  {
  "id": "visionsur-pe-sd",
@@ -23062,7 +23062,7 @@ window.CHANNELS = [
  "web": "",
  "note": "vía iptv-org · spa (sanitizada)",
  "cc": "pe",
- "chno": 3440
+ "chno": 3439
 },
  {
  "id": "vivanicaraguacanal13-ni-sd",
@@ -23075,7 +23075,7 @@ window.CHANNELS = [
  "web": "",
  "note": "vía iptv-org · spa (sanitizada)",
  "cc": "ni",
- "chno": 3443
+ "chno": 3442
 },
  {
  "id": "vivatv-ni-sd",
@@ -23088,7 +23088,7 @@ window.CHANNELS = [
  "web": "",
  "note": "vía iptv-org · spa (sanitizada)",
  "cc": "ni",
- "chno": 3444
+ "chno": 3443
 },
  {
  "id": "vrcanal21nasca-pe-sd",
@@ -23101,7 +23101,7 @@ window.CHANNELS = [
  "web": "",
  "note": "vía iptv-org · spa (sanitizada)",
  "cc": "pe",
- "chno": 3448
+ "chno": 3447
 },
  {
  "id": "vtv-hn-sd",
@@ -23114,7 +23114,7 @@ window.CHANNELS = [
  "web": "",
  "note": "vía iptv-org · spa (sanitizada)",
  "cc": "hn",
- "chno": 3450
+ "chno": 3449
 },
  {
  "id": "vtvcanal32-do-sd",
@@ -23127,7 +23127,7 @@ window.CHANNELS = [
  "web": "",
  "note": "vía iptv-org · spa (sanitizada)",
  "cc": "do",
- "chno": 3451
+ "chno": 3450
 },
  {
  "id": "waldivisioninternacional-hn-sd",
@@ -23140,7 +23140,7 @@ window.CHANNELS = [
  "web": "",
  "note": "vía iptv-org · spa (sanitizada)",
  "cc": "hn",
- "chno": 3452
+ "chno": 3451
 },
  {
  "id": "wapatv41-pr-hd",
@@ -23153,7 +23153,7 @@ window.CHANNELS = [
  "web": "",
  "note": "vía iptv-org · spa (sanitizada)",
  "cc": "pr",
- "chno": 3453
+ "chno": 3452
 },
  {
  "id": "watavision-ve-sd",
@@ -23166,7 +23166,7 @@ window.CHANNELS = [
  "web": "",
  "note": "vía iptv-org · spa (sanitizada)",
  "cc": "ve",
- "chno": 3454
+ "chno": 3453
 },
  {
  "id": "wayratv-pe-sd",
@@ -23179,7 +23179,7 @@ window.CHANNELS = [
  "web": "",
  "note": "vía iptv-org · spa (sanitizada)",
  "cc": "pe",
- "chno": 3455
+ "chno": 3454
 },
  {
  "id": "worldtvguatemala-gt-hd",
@@ -23192,7 +23192,7 @@ window.CHANNELS = [
  "web": "",
  "note": "vía iptv-org · spa (sanitizada)",
  "cc": "gt",
- "chno": 3461
+ "chno": 3460
 },
  {
  "id": "wowtv-sv-sd",
@@ -23205,7 +23205,7 @@ window.CHANNELS = [
  "web": "",
  "note": "vía iptv-org · spa (sanitizada)",
  "cc": "sv",
- "chno": 3462
+ "chno": 3461
 },
  {
  "id": "wtv-pe-sd",
@@ -23218,7 +23218,7 @@ window.CHANNELS = [
  "web": "",
  "note": "vía iptv-org · spa (sanitizada)",
  "cc": "pe",
- "chno": 3464
+ "chno": 3463
 },
  {
  "id": "wuanplus-ec-sd",
@@ -23231,7 +23231,7 @@ window.CHANNELS = [
  "web": "",
  "note": "vía iptv-org · spa (sanitizada)",
  "cc": "ec",
- "chno": 3465
+ "chno": 3464
 },
  {
  "id": "xejtdt-mx-sd",
@@ -23244,7 +23244,7 @@ window.CHANNELS = [
  "web": "",
  "note": "vía iptv-org · spa (sanitizada)",
  "cc": "mx",
- "chno": 3468
+ "chno": 3467
 },
  {
  "id": "xhbzctdt-mx-sd",
@@ -23257,7 +23257,7 @@ window.CHANNELS = [
  "web": "",
  "note": "vía iptv-org · spa (sanitizada)",
  "cc": "mx",
- "chno": 3469
+ "chno": 3468
 },
  {
  "id": "xhfgltdt-mx-sd",
@@ -23270,7 +23270,7 @@ window.CHANNELS = [
  "web": "",
  "note": "vía iptv-org · spa (sanitizada)",
  "cc": "mx",
- "chno": 3470
+ "chno": 3469
 },
  {
  "id": "xhijtdt-mx-sd",
@@ -23283,7 +23283,7 @@ window.CHANNELS = [
  "web": "",
  "note": "vía iptv-org · spa (sanitizada)",
  "cc": "mx",
- "chno": 3472
+ "chno": 3471
 },
  {
  "id": "xhttgtdt-mx-sd",
@@ -23296,7 +23296,7 @@ window.CHANNELS = [
  "web": "",
  "note": "vía iptv-org · spa (sanitizada)",
  "cc": "mx",
- "chno": 3473
+ "chno": 3472
 },
  {
  "id": "xhzhztdt-mx-sd",
@@ -23309,7 +23309,7 @@ window.CHANNELS = [
  "web": "",
  "note": "vía iptv-org · spa (sanitizada)",
  "cc": "mx",
- "chno": 3474
+ "chno": 3473
 },
  {
  "id": "xtratv-do-hd",
@@ -23322,7 +23322,7 @@ window.CHANNELS = [
  "web": "",
  "note": "vía iptv-org · spa (sanitizada)",
  "cc": "do",
- "chno": 3481
+ "chno": 3480
 },
  {
  "id": "xtremochannel-do-sd",
@@ -23335,7 +23335,7 @@ window.CHANNELS = [
  "web": "",
  "note": "vía iptv-org · spa (sanitizada)",
  "cc": "do",
- "chno": 3483
+ "chno": 3482
 },
  {
  "id": "yurimaguastv-pe-sd",
@@ -23348,7 +23348,7 @@ window.CHANNELS = [
  "web": "",
  "note": "vía iptv-org · spa (sanitizada)",
  "cc": "pe",
- "chno": 3486
+ "chno": 3485
 },
  {
  "id": "yurivision-pe-sd",
@@ -23361,7 +23361,7 @@ window.CHANNELS = [
  "web": "",
  "note": "vía iptv-org · spa (sanitizada)",
  "cc": "pe",
- "chno": 3487
+ "chno": 3486
 },
  {
  "id": "zaracaytv-ec-sd",
@@ -23374,7 +23374,7 @@ window.CHANNELS = [
  "web": "",
  "note": "vía iptv-org · spa (sanitizada)",
  "cc": "ec",
- "chno": 3488
+ "chno": 3487
 },
  {
  "id": "zastv-do-hd",
@@ -23387,7 +23387,7 @@ window.CHANNELS = [
  "web": "",
  "note": "vía iptv-org · spa (sanitizada)",
  "cc": "do",
- "chno": 3489
+ "chno": 3488
 },
  {
  "id": "zelevetv-pe-sd",
@@ -23400,7 +23400,7 @@ window.CHANNELS = [
  "web": "",
  "note": "vía iptv-org · spa (sanitizada)",
  "cc": "pe",
- "chno": 3490
+ "chno": 3489
 },
  {
  "id": "zincnombretv-do-hd",
@@ -23413,7 +23413,7 @@ window.CHANNELS = [
  "web": "",
  "note": "vía iptv-org · spa (sanitizada)",
  "cc": "do",
- "chno": 3491
+ "chno": 3490
 },
  {
  "id": "zonavisiontv-do-sd",
@@ -23426,7 +23426,7 @@ window.CHANNELS = [
  "web": "",
  "note": "vía iptv-org · spa (sanitizada)",
  "cc": "do",
- "chno": 3492
+ "chno": 3491
 },
  {
  "id": "zurquitv-cr-sd",
@@ -23439,7 +23439,7 @@ window.CHANNELS = [
  "web": "",
  "note": "vía iptv-org · spa (sanitizada)",
  "cc": "cr",
- "chno": 3493
+ "chno": 3492
 },
  {
  "id": "nickjrclub-us-latam",
@@ -26806,7 +26806,7 @@ window.CHANNELS = [
  "web": "",
  "note": "vía iptv-org · spa (sanitizada)",
  "cc": "cr",
- "chno": 3231
+ "chno": 3230
 },
  {
  "id": "televigo-es-sd",
@@ -26819,7 +26819,7 @@ window.CHANNELS = [
  "web": "",
  "note": "vía iptv-org · spa (sanitizada)",
  "cc": "es",
- "chno": 3239
+ "chno": 3238
 },
  {
  "id": "televisionaranda-es-sd",
@@ -26832,7 +26832,7 @@ window.CHANNELS = [
  "web": "",
  "note": "vía iptv-org · spa (sanitizada)",
  "cc": "es",
- "chno": 3242
+ "chno": 3241
 },
  {
  "id": "televisioncanaria-es-sd",
@@ -26845,7 +26845,7 @@ window.CHANNELS = [
  "web": "",
  "note": "vía iptv-org · spa (sanitizada)",
  "cc": "es",
- "chno": 3243
+ "chno": 3242
 },
  {
  "id": "televisioncomayaguacanal40-hn-sd",
@@ -26858,7 +26858,7 @@ window.CHANNELS = [
  "web": "",
  "note": "vía iptv-org · spa (sanitizada)",
  "cc": "hn",
- "chno": 3244
+ "chno": 3243
 },
  {
  "id": "tencanal10-hn-sd",
@@ -26871,7 +26871,7 @@ window.CHANNELS = [
  "web": "",
  "note": "vía iptv-org · spa (sanitizada)",
  "cc": "hn",
- "chno": 3255
+ "chno": 3254
 },
  {
  "id": "thewalkingdeadenespanol-us-sd",
@@ -26884,7 +26884,7 @@ window.CHANNELS = [
  "web": "",
  "note": "vía iptv-org · spa (sanitizada)",
  "cc": "us",
- "chno": 3263
+ "chno": 3262
 },
  {
  "id": "titotv-es-hd",
@@ -26897,7 +26897,7 @@ window.CHANNELS = [
  "web": "",
  "note": "vía iptv-org · spa (sanitizada)",
  "cc": "es",
- "chno": 3266
+ "chno": 3265
 },
  {
  "id": "tivtelevision-ar-sd",
@@ -26910,7 +26910,7 @@ window.CHANNELS = [
  "web": "",
  "note": "vía iptv-org · spa (sanitizada)",
  "cc": "ar",
- "chno": 3267
+ "chno": 3266
 },
  {
  "id": "tlestrella-bo-sd",
@@ -26923,7 +26923,7 @@ window.CHANNELS = [
  "web": "",
  "note": "vía iptv-org · spa (sanitizada)",
  "cc": "bo",
- "chno": 3268
+ "chno": 3267
 },
  {
  "id": "tlaxcalatv-mx-sd",
@@ -26936,7 +26936,7 @@ window.CHANNELS = [
  "web": "",
  "note": "vía iptv-org · spa (sanitizada)",
  "cc": "mx",
- "chno": 3270
+ "chno": 3269
 },
  {
  "id": "tntlatinamerica-us-south",
@@ -26949,7 +26949,7 @@ window.CHANNELS = [
  "web": "",
  "note": "vía iptv-org · spa (sanitizada)",
  "cc": "us",
- "chno": 3278
+ "chno": 3277
 },
  {
  "id": "trctv-mx-sd",
@@ -26962,7 +26962,7 @@ window.CHANNELS = [
  "web": "",
  "note": "vía iptv-org · spa (sanitizada)",
  "cc": "mx",
- "chno": 3290
+ "chno": 3289
 },
  {
  "id": "tunevision-gt-sd",
@@ -26975,7 +26975,7 @@ window.CHANNELS = [
  "web": "",
  "note": "vía iptv-org · spa (sanitizada)",
  "cc": "gt",
- "chno": 3298
+ "chno": 3297
 },
  {
  "id": "tvbellaasuncion-pe-sd",
@@ -26988,7 +26988,7 @@ window.CHANNELS = [
  "web": "",
  "note": "vía iptv-org · spa (sanitizada)",
  "cc": "pe",
- "chno": 3304
+ "chno": 3303
 },
  {
  "id": "tvcopan-hn-sd",
@@ -27001,7 +27001,7 @@ window.CHANNELS = [
  "web": "",
  "note": "vía iptv-org · spa (sanitizada)",
  "cc": "hn",
- "chno": 3313
+ "chno": 3312
 },
  {
  "id": "tvlatina-bo-sd",
@@ -27014,7 +27014,7 @@ window.CHANNELS = [
  "web": "",
  "note": "vía iptv-org · spa (sanitizada)",
  "cc": "bo",
- "chno": 3327
+ "chno": 3326
 },
  {
  "id": "tvlobo-mx-sd",
@@ -27027,7 +27027,7 @@ window.CHANNELS = [
  "web": "",
  "note": "vía iptv-org · spa (sanitizada)",
  "cc": "mx",
- "chno": 3329
+ "chno": 3328
 },
  {
  "id": "tvnortechiclayo-pe-sd",
@@ -27040,7 +27040,7 @@ window.CHANNELS = [
  "web": "",
  "note": "vía iptv-org · spa (sanitizada)",
  "cc": "pe",
- "chno": 3338
+ "chno": 3337
 },
  {
  "id": "tvpublicafueguina-ar-sd",
@@ -27053,7 +27053,7 @@ window.CHANNELS = [
  "web": "",
  "note": "vía iptv-org · spa (sanitizada)",
  "cc": "ar",
- "chno": 3345
+ "chno": 3344
 },
  {
  "id": "tvsolidaria-ar-sd",
@@ -27066,7 +27066,7 @@ window.CHANNELS = [
  "web": "",
  "note": "vía iptv-org · spa (sanitizada)",
  "cc": "ar",
- "chno": 3349
+ "chno": 3348
 },
  {
  "id": "tvsurcanal14-cr-sd",
@@ -27079,7 +27079,7 @@ window.CHANNELS = [
  "web": "",
  "note": "vía iptv-org · spa (sanitizada)",
  "cc": "cr",
- "chno": 3350
+ "chno": 3349
 },
  {
  "id": "tva-es-sd",
@@ -27092,7 +27092,7 @@ window.CHANNELS = [
  "web": "",
  "note": "vía iptv-org · spa (sanitizada)",
  "cc": "es",
- "chno": 3355
+ "chno": 3354
 },
  {
  "id": "tvcentroandalucia-es-sd",
@@ -27105,7 +27105,7 @@ window.CHANNELS = [
  "web": "",
  "note": "vía iptv-org · spa (sanitizada)",
  "cc": "es",
- "chno": 3357
+ "chno": 3356
 },
  {
  "id": "tveinternacionalamerica-es-hd",
@@ -27118,7 +27118,7 @@ window.CHANNELS = [
  "web": "",
  "note": "vía iptv-org · spa (sanitizada)",
  "cc": "es",
- "chno": 3359
+ "chno": 3358
 },
  {
  "id": "tveinternacionalasiaoceania-es-hd",
@@ -27131,7 +27131,7 @@ window.CHANNELS = [
  "web": "",
  "note": "vía iptv-org · spa (sanitizada)",
  "cc": "es",
- "chno": 3360
+ "chno": 3359
 },
  {
  "id": "tveinternacionaleurope-es-hd",
@@ -27144,7 +27144,7 @@ window.CHANNELS = [
  "web": "",
  "note": "vía iptv-org · spa (sanitizada)",
  "cc": "es",
- "chno": 3361
+ "chno": 3360
 },
  {
  "id": "tvojesus-es-sd",
@@ -27157,7 +27157,7 @@ window.CHANNELS = [
  "web": "",
  "note": "vía iptv-org · spa (sanitizada)",
  "cc": "es",
- "chno": 3382
+ "chno": 3381
 },
  {
  "id": "ucayalinadetelevision-pe-sd",
@@ -27170,7 +27170,7 @@ window.CHANNELS = [
  "web": "",
  "note": "vía iptv-org · spa (sanitizada)",
  "cc": "pe",
- "chno": 3391
+ "chno": 3390
 },
  {
  "id": "ultratvpuebla-mx-sd",
@@ -27183,7 +27183,7 @@ window.CHANNELS = [
  "web": "",
  "note": "vía iptv-org · spa (sanitizada)",
  "cc": "mx",
- "chno": 3395
+ "chno": 3394
 },
  {
  "id": "unahutv-hn-sd",
@@ -27196,7 +27196,7 @@ window.CHANNELS = [
  "web": "",
  "note": "vía iptv-org · spa (sanitizada)",
  "cc": "hn",
- "chno": 3396
+ "chno": 3395
 },
  {
  "id": "unevinalopo-es-sd",
@@ -27209,7 +27209,7 @@ window.CHANNELS = [
  "web": "",
  "note": "vía iptv-org · spa (sanitizada)",
  "cc": "es",
- "chno": 3397
+ "chno": 3396
 },
  {
  "id": "unicatv-gt-sd",
@@ -27222,7 +27222,7 @@ window.CHANNELS = [
  "web": "",
  "note": "vía iptv-org · spa (sanitizada)",
  "cc": "gt",
- "chno": 3399
+ "chno": 3398
 },
  {
  "id": "unidaddeinvestigacion-us-spain",
@@ -27235,7 +27235,7 @@ window.CHANNELS = [
  "web": "",
  "note": "vía iptv-org · spa (sanitizada)",
  "cc": "us",
- "chno": 3402
+ "chno": 3401
 },
  {
  "id": "unimas-us-kftrdt",
@@ -27248,7 +27248,7 @@ window.CHANNELS = [
  "web": "",
  "note": "vía iptv-org · spa (sanitizada)",
  "cc": "us",
- "chno": 3404
+ "chno": 3403
 },
  {
  "id": "unimas-us-kuvndt",
@@ -27261,7 +27261,7 @@ window.CHANNELS = [
  "web": "",
  "note": "vía iptv-org · spa (sanitizada)",
  "cc": "us",
- "chno": 3405
+ "chno": 3404
 },
  {
  "id": "uniradiotv-py-sd",
@@ -27274,7 +27274,7 @@ window.CHANNELS = [
  "web": "",
  "note": "vía iptv-org · spa (sanitizada)",
  "cc": "py",
- "chno": 3407
+ "chno": 3406
 },
  {
  "id": "uniteve-ar-sd",
@@ -27287,7 +27287,7 @@ window.CHANNELS = [
  "web": "",
  "note": "vía iptv-org · spa (sanitizada)",
  "cc": "ar",
- "chno": 3409
+ "chno": 3408
 },
  {
  "id": "univalletelevision-bo-sd",
@@ -27300,7 +27300,7 @@ window.CHANNELS = [
  "web": "",
  "note": "vía iptv-org · spa (sanitizada)",
  "cc": "bo",
- "chno": 3411
+ "chno": 3410
 },
  {
  "id": "universitariatv-pe-sd",
@@ -27313,7 +27313,7 @@ window.CHANNELS = [
  "web": "",
  "note": "vía iptv-org · spa (sanitizada)",
  "cc": "pe",
- "chno": 3412
+ "chno": 3411
 },
  {
  "id": "univision-us-kmexdt",
@@ -27326,7 +27326,7 @@ window.CHANNELS = [
  "web": "",
  "note": "vía iptv-org · spa (sanitizada)",
  "cc": "us",
- "chno": 3413
+ "chno": 3412
 },
  {
  "id": "upeatv-bo-sd",
@@ -27339,7 +27339,7 @@ window.CHANNELS = [
  "web": "",
  "note": "vía iptv-org · spa (sanitizada)",
  "cc": "bo",
- "chno": 3414
+ "chno": 3413
 },
  {
  "id": "uraniotv-pe-sd",
@@ -27352,7 +27352,7 @@ window.CHANNELS = [
  "web": "",
  "note": "vía iptv-org · spa (sanitizada)",
  "cc": "pe",
- "chno": 3415
+ "chno": 3414
 },
  {
  "id": "urbanmix-ar-sd",
@@ -27365,7 +27365,7 @@ window.CHANNELS = [
  "web": "",
  "note": "vía iptv-org · spa (sanitizada)",
  "cc": "ar",
- "chno": 3417
+ "chno": 3416
 },
  {
  "id": "villamanterotv-ar-sd",
@@ -27378,7 +27378,7 @@ window.CHANNELS = [
  "web": "",
  "note": "vía iptv-org · spa (sanitizada)",
  "cc": "ar",
- "chno": 3436
+ "chno": 3435
 },
  {
  "id": "vision6tv-es-sd",
@@ -27391,7 +27391,7 @@ window.CHANNELS = [
  "web": "",
  "note": "vía iptv-org · spa (sanitizada)",
  "cc": "es",
- "chno": 3438
+ "chno": 3437
 },
  {
  "id": "visiontv-gt-sd",
@@ -27404,7 +27404,7 @@ window.CHANNELS = [
  "web": "",
  "note": "vía iptv-org · spa (sanitizada) · ⚠️ duplicado desactivado (mejor señal: #280)",
  "cc": "gt",
- "chno": 3442
+ "chno": 3441
 },
  {
  "id": "vivatvyurimaguas-pe-sd",
@@ -27417,7 +27417,7 @@ window.CHANNELS = [
  "web": "",
  "note": "vía iptv-org · spa (sanitizada)",
  "cc": "pe",
- "chno": 3445
+ "chno": 3444
 },
  {
  "id": "vivamovil-es-sd",
@@ -27430,7 +27430,7 @@ window.CHANNELS = [
  "web": "",
  "note": "vía iptv-org · spa (sanitizada)",
  "cc": "es",
- "chno": 3446
+ "chno": 3445
 },
  {
  "id": "vtv-ar-sd",
@@ -27443,7 +27443,7 @@ window.CHANNELS = [
  "web": "",
  "note": "vía iptv-org · spa (sanitizada)",
  "cc": "ar",
- "chno": 3449
+ "chno": 3448
 },
  {
  "id": "wiprtv61-pr-hd",
@@ -27456,7 +27456,7 @@ window.CHANNELS = [
  "web": "",
  "note": "vía iptv-org · spa (sanitizada)",
  "cc": "pr",
- "chno": 3458
+ "chno": 3457
 },
  {
  "id": "wkaqtv22-pr-hd",
@@ -27469,7 +27469,7 @@ window.CHANNELS = [
  "web": "",
  "note": "vía iptv-org · spa (sanitizada)",
  "cc": "pr",
- "chno": 3459
+ "chno": 3458
 },
  {
  "id": "wxwzld231-pr-hd",
@@ -27482,7 +27482,7 @@ window.CHANNELS = [
  "web": "",
  "note": "vía iptv-org · spa (sanitizada)",
  "cc": "pr",
- "chno": 3466
+ "chno": 3465
 },
  {
  "id": "xamatv-ar-sd",
@@ -27495,7 +27495,7 @@ window.CHANNELS = [
  "web": "",
  "note": "vía iptv-org · spa (sanitizada)",
  "cc": "ar",
- "chno": 3467
+ "chno": 3466
 },
  {
  "id": "xhgvtdt-mx-sd",
@@ -27508,7 +27508,7 @@ window.CHANNELS = [
  "web": "",
  "note": "vía iptv-org · spa (sanitizada)",
  "cc": "mx",
- "chno": 3471
+ "chno": 3470
 },
  {
  "id": "xtotv-bo-sd",
@@ -27521,7 +27521,7 @@ window.CHANNELS = [
  "web": "",
  "note": "vía iptv-org · spa (sanitizada)",
  "cc": "bo",
- "chno": 3480
+ "chno": 3479
 },
  {
  "id": "oepmtv-do-sd",
@@ -28912,7 +28912,7 @@ window.CHANNELS = [
  "web": "",
  "cc": "ar",
  "note": "vía freetv (sanitizada)",
- "chno": 3272
+ "chno": 3271
 },
  {
  "id": "encuentro-ar",
@@ -28990,7 +28990,7 @@ window.CHANNELS = [
  "web": "",
  "cc": "ar",
  "note": "vía freetv (sanitizada)",
- "chno": 3251
+ "chno": 3250
 },
  {
  "id": "deportv-ar",
@@ -29107,7 +29107,7 @@ window.CHANNELS = [
  "web": "",
  "cc": "ar",
  "note": "vía freetv (sanitizada)",
- "chno": 3418
+ "chno": 3417
 },
  {
  "id": "comarcatv-ar",
@@ -29393,7 +29393,7 @@ window.CHANNELS = [
  "web": "",
  "cc": "py",
  "note": "vía freetv (sanitizada)",
- "chno": 3400
+ "chno": 3399
 },
  {
  "id": "abctv-py",
@@ -29510,7 +29510,7 @@ window.CHANNELS = [
  "web": "",
  "cc": "es",
  "note": "vía freetv (sanitizada)",
- "chno": 3362
+ "chno": 3361
 },
  {
  "id": "divinity-es",
@@ -29757,7 +29757,7 @@ window.CHANNELS = [
  "web": "",
  "cc": "es",
  "note": "vía freetv (sanitizada)",
- "chno": 3354
+ "chno": 3353
 },
  {
  "id": "324-es",
@@ -29901,19 +29901,6 @@ window.CHANNELS = [
  "cc": "es",
  "note": "vía freetv (sanitizada)",
  "chno": 2675
-},
- {
- "id": "telesur-ve",
- "name": "Telesur",
- "group": "General",
- "region": "Español (Latam/ES)",
- "color": "hsl(110,58%,42%)",
- "abbr": "T",
- "url": "https://raw.githubusercontent.com/BellezaEmporium/IPTV_Exception/master/channels/ve/telesur.m3u8",
- "web": "",
- "cc": "ve",
- "note": "vía freetv (sanitizada)",
- "chno": 3230
 },
  {
  "id": "aguacatetv-ve",
@@ -30290,7 +30277,7 @@ window.CHANNELS = [
  "web": "",
  "cc": "ar",
  "note": "vía charlieii-mx-latam (sanitizada)",
- "chno": 3482
+ "chno": 3481
 },
  {
  "id": "cine-adrenalina",
@@ -30342,7 +30329,7 @@ window.CHANNELS = [
  "web": "",
  "cc": "mx",
  "note": "1080p · vía charlieii-mx-latam (sanitizada)",
- "chno": 3279
+ "chno": 3278
 },
  {
  "id": "auroramediafilms-gt-sd",
@@ -30498,7 +30485,7 @@ window.CHANNELS = [
  "web": "",
  "cc": "es",
  "note": "1080p · vía charlieii-mx-latam (sanitizada)",
- "chno": 3494
+ "chno": 3493
 },
  {
  "id": "archivos-forenses",
@@ -30771,7 +30758,7 @@ window.CHANNELS = [
  "web": "",
  "cc": "sv",
  "note": "vía iptv-sv (sanitizada)",
- "chno": 3269
+ "chno": 3268
 },
  {
  "id": "wow-tv-hd",
@@ -30784,7 +30771,7 @@ window.CHANNELS = [
  "web": "",
  "cc": "sv",
  "note": "vía iptv-sv (sanitizada)",
- "chno": 3463
+ "chno": 3462
 },
  {
  "id": "canal-9-coatevision-twitch",
@@ -30810,7 +30797,7 @@ window.CHANNELS = [
  "web": "",
  "cc": "gt",
  "note": "vía iptv-sv (sanitizada)",
- "chno": 3273
+ "chno": 3272
 },
  {
  "id": "guatevision-hd",
@@ -30836,7 +30823,7 @@ window.CHANNELS = [
  "web": "",
  "cc": "gt",
  "note": "vía iptv-sv (sanitizada)",
- "chno": 3259
+ "chno": 3258
 },
  {
  "id": "como-antes-tv-hd",
@@ -30862,7 +30849,7 @@ window.CHANNELS = [
  "web": "",
  "cc": "gt",
  "note": "vía iptv-sv (sanitizada)",
- "chno": 3319
+ "chno": 3318
 },
  {
  "id": "toto-vision-hd-no-24-7",
@@ -30875,7 +30862,7 @@ window.CHANNELS = [
  "web": "",
  "cc": "gt",
  "note": "vía iptv-sv (sanitizada)",
- "chno": 3288
+ "chno": 3287
 },
  {
  "id": "mas-tv-hd-totonicapan",
@@ -30927,7 +30914,7 @@ window.CHANNELS = [
  "web": "",
  "cc": "gt",
  "note": "vía iptv-sv (sanitizada)",
- "chno": 3380
+ "chno": 3379
 },
  {
  "id": "canal-3-regional-no-24-7-quetzaltenango",
@@ -30966,7 +30953,7 @@ window.CHANNELS = [
  "web": "",
  "cc": "gt",
  "note": "vía iptv-sv (sanitizada)",
- "chno": 3430
+ "chno": 3429
 },
  {
  "id": "canal-26-quezada-tv-hd-no-24-jutiapa",
@@ -31044,7 +31031,7 @@ window.CHANNELS = [
  "web": "",
  "cc": "hn",
  "note": "vía iptv-sv (sanitizada)",
- "chno": 3296
+ "chno": 3295
 },
  {
  "id": "teleceiba-hd-nacional",
@@ -31096,7 +31083,7 @@ window.CHANNELS = [
  "web": "",
  "cc": "hn",
  "note": "vía iptv-sv (sanitizada)",
- "chno": 3246
+ "chno": 3245
 },
  {
  "id": "television-comayagua-canal-40",
@@ -31109,7 +31096,7 @@ window.CHANNELS = [
  "web": "",
  "cc": "hn",
  "note": "vía iptv-sv (sanitizada) · ⚠️ duplicado desactivado (mejor señal: #2859)",
- "chno": 3245
+ "chno": 3244
 },
  {
  "id": "canal-1-hd-nacional",
@@ -31239,7 +31226,7 @@ window.CHANNELS = [
  "web": "",
  "cc": "mx",
  "note": "vía iptv-sv (sanitizada)",
- "chno": 3334
+ "chno": 3333
 },
  {
  "id": "tv-cuatro-4-2-hd-guanajuato",
@@ -31252,7 +31239,7 @@ window.CHANNELS = [
  "web": "",
  "cc": "mx",
  "note": "vía iptv-sv (sanitizada)",
- "chno": 3317
+ "chno": 3316
 },
  {
  "id": "tv-guanajuato-hd-guanajuato",
@@ -31265,7 +31252,7 @@ window.CHANNELS = [
  "web": "",
  "cc": "mx",
  "note": "vía iptv-sv (sanitizada)",
- "chno": 3323
+ "chno": 3322
 },
  {
  "id": "rtq-queretaro-sd-queretaro-no-24-7",
@@ -31291,7 +31278,7 @@ window.CHANNELS = [
  "web": "",
  "cc": "mx",
  "note": "vía iptv-sv (sanitizada)",
- "chno": 3433
+ "chno": 3432
 },
  {
  "id": "telepacifico-opc2",
@@ -31460,7 +31447,7 @@ window.CHANNELS = [
  "web": "",
  "cc": "co",
  "note": "vía iptv-sv (sanitizada)",
- "chno": 3447
+ "chno": 3446
 },
  {
  "id": "ecuavisa-nacional",
@@ -31538,7 +31525,7 @@ window.CHANNELS = [
  "web": "",
  "cc": "ec",
  "note": "vía iptv-sv (sanitizada)",
- "chno": 3398
+ "chno": 3397
 },
  {
  "id": "curiquingue-tv-hd-pichincha",
@@ -31577,7 +31564,7 @@ window.CHANNELS = [
  "web": "",
  "cc": "pe",
  "note": "vía iptv-sv (sanitizada)",
- "chno": 3341
+ "chno": 3340
 },
  {
  "id": "tv-peru-noticias",
@@ -31590,7 +31577,7 @@ window.CHANNELS = [
  "web": "",
  "cc": "pe",
  "note": "vía iptv-sv (sanitizada)",
- "chno": 3343
+ "chno": 3342
 },
  {
  "id": "tv-peru-internacional",
@@ -31603,7 +31590,7 @@ window.CHANNELS = [
  "web": "",
  "cc": "pe",
  "note": "vía iptv-sv (sanitizada)",
- "chno": 3342
+ "chno": 3341
 },
  {
  "id": "global-tv-hd-nacional",
@@ -31759,7 +31746,7 @@ window.CHANNELS = [
  "web": "",
  "cc": "pe",
  "note": "vía iptv-sv (sanitizada)",
- "chno": 3420
+ "chno": 3419
 },
  {
  "id": "canal-21-huancayo-hd-junin",
@@ -31902,7 +31889,7 @@ window.CHANNELS = [
  "web": "",
  "cc": "pe",
  "note": "vía iptv-sv (sanitizada)",
- "chno": 3253
+ "chno": 3252
 },
  {
  "id": "vision-sur-tv-hd-no-24-7-arequipa",
@@ -31915,7 +31902,7 @@ window.CHANNELS = [
  "web": "",
  "cc": "pe",
  "note": "vía iptv-sv (sanitizada)",
- "chno": 3441
+ "chno": 3440
 },
  {
  "id": "mega-tv-jaen-hd-no-24-7-cajamarca",
@@ -31941,7 +31928,7 @@ window.CHANNELS = [
  "web": "",
  "cc": "pe",
  "note": "vía iptv-sv (sanitizada)",
- "chno": 3416
+ "chno": 3415
 },
  {
  "id": "trivu-hd-no-24-7-lima",
@@ -31954,7 +31941,7 @@ window.CHANNELS = [
  "web": "",
  "cc": "pe",
  "note": "vía iptv-sv (sanitizada)",
- "chno": 3293
+ "chno": 3292
 },
  {
  "id": "agro-tv-hd-no-24-7-cusco",
@@ -32175,7 +32162,7 @@ window.CHANNELS = [
  "web": "",
  "cc": "ar",
  "note": "vía iptv-sv (sanitizada)",
- "chno": 3271
+ "chno": 3270
 },
  {
  "id": "canal-12-puerto-madryn-chubut",
@@ -32422,7 +32409,7 @@ window.CHANNELS = [
  "web": "",
  "cc": "py",
  "note": "vía iptv-sv (sanitizada)",
- "chno": 3300
+ "chno": 3299
 },
  {
  "id": "c9n-hd",
@@ -32734,7 +32721,7 @@ window.CHANNELS = [
  "web": "",
  "cc": "es",
  "note": "vía iptv-sv (sanitizada)",
- "chno": 3427
+ "chno": 3426
 },
  {
  "id": "ve-plus",
@@ -32747,7 +32734,7 @@ window.CHANNELS = [
  "web": "",
  "cc": "es",
  "note": "vía iptv-sv (sanitizada)",
- "chno": 3424
+ "chno": 3423
 },
  {
  "id": "torococo-tv",
@@ -32760,7 +32747,7 @@ window.CHANNELS = [
  "web": "",
  "cc": "es",
  "note": "vía iptv-sv (sanitizada) · ⚠️ duplicado desactivado (mejor señal: #2900)",
- "chno": 3286
+ "chno": 3285
 },
  {
  "id": "canal-grande-television-no-24-7-opc-2",
@@ -32799,7 +32786,7 @@ window.CHANNELS = [
  "web": "",
  "cc": "es",
  "note": "vía iptv-sv (sanitizada)",
- "chno": 3339
+ "chno": 3338
 },
  {
  "id": "globo-vision",
@@ -32825,7 +32812,7 @@ window.CHANNELS = [
  "web": "",
  "cc": "es",
  "note": "vía iptv-sv (sanitizada)",
- "chno": 3235
+ "chno": 3234
 },
  {
  "id": "canal-once-del-zulia",
@@ -33020,7 +33007,7 @@ window.CHANNELS = [
  "web": "",
  "cc": "es",
  "note": "vía iptv-sv (sanitizada)",
- "chno": 3403
+ "chno": 3402
 },
  {
  "id": "red-chuquisaquena",
@@ -33137,7 +33124,7 @@ window.CHANNELS = [
  "web": "",
  "cc": "es",
  "note": "vía iptv-sv (sanitizada)",
- "chno": 3291
+ "chno": 3290
 },
  {
  "id": "rne-para-todos",
@@ -33579,7 +33566,7 @@ window.CHANNELS = [
  "web": "",
  "cc": "es",
  "note": "vía iptv-sv (sanitizada)",
- "chno": 3240
+ "chno": 3239
 },
  {
  "id": "tv-ferrol-galicia-ferrol-a-coruna",
@@ -33592,7 +33579,7 @@ window.CHANNELS = [
  "web": "",
  "cc": "es",
  "note": "vía iptv-sv (sanitizada)",
- "chno": 3320
+ "chno": 3319
 },
  {
  "id": "tele-7-vizcaya-barakaldo-vizcaya",
@@ -33722,7 +33709,7 @@ window.CHANNELS = [
  "web": "",
  "cc": "es",
  "note": "vía iptv-sv (sanitizada)",
- "chno": 3241
+ "chno": 3240
 },
  {
  "id": "almeria-tv",
@@ -33748,7 +33735,7 @@ window.CHANNELS = [
  "web": "",
  "cc": "es",
  "note": "vía iptv-sv (sanitizada)",
- "chno": 3287
+ "chno": 3286
 },
  {
  "id": "diez-tv-andujar",
@@ -33774,7 +33761,7 @@ window.CHANNELS = [
  "web": "",
  "cc": "es",
  "note": "vía iptv-sv (sanitizada)",
- "chno": 3375
+ "chno": 3374
 },
  {
  "id": "telegranada",
@@ -33800,7 +33787,7 @@ window.CHANNELS = [
  "web": "",
  "cc": "es",
  "note": "vía iptv-sv (sanitizada)",
- "chno": 3307
+ "chno": 3306
 },
  {
  "id": "tv-canaria-rtvc-opc-2",
@@ -33813,7 +33800,7 @@ window.CHANNELS = [
  "web": "",
  "cc": "es",
  "note": "vía iptv-sv (sanitizada)",
- "chno": 3308
+ "chno": 3307
 },
  {
  "id": "mirame-tv",
@@ -33839,7 +33826,7 @@ window.CHANNELS = [
  "web": "",
  "cc": "es",
  "note": "vía iptv-sv (sanitizada)",
- "chno": 3257
+ "chno": 3256
 },
  {
  "id": "radio-calima-tv",
@@ -33917,7 +33904,7 @@ window.CHANNELS = [
  "web": "",
  "cc": "es",
  "note": "vía iptv-sv (sanitizada)",
- "chno": 3233
+ "chno": 3232
 },
  {
  "id": "tv-aranda",
@@ -33930,7 +33917,7 @@ window.CHANNELS = [
  "web": "",
  "cc": "es",
  "note": "vía iptv-sv (sanitizada)",
- "chno": 3303
+ "chno": 3302
 },
  {
  "id": "distrito-tv",
@@ -33995,7 +33982,7 @@ window.CHANNELS = [
  "web": "",
  "cc": "es",
  "note": "vía iptv-sv (sanitizada)",
- "chno": 3301
+ "chno": 3300
 },
  {
  "id": "33tv-c-valenciana",
@@ -34034,7 +34021,7 @@ window.CHANNELS = [
  "web": "",
  "cc": "es",
  "note": "vía iptv-sv (sanitizada)",
- "chno": 3368
+ "chno": 3367
 },
  {
  "id": "tvg-xabarin-galicia",
@@ -34047,7 +34034,7 @@ window.CHANNELS = [
  "web": "",
  "cc": "es",
  "note": "vía iptv-sv (sanitizada)",
- "chno": 3374
+ "chno": 3373
 },
  {
  "id": "tvg-eventos-1-no-24-7-galicia",
@@ -34060,7 +34047,7 @@ window.CHANNELS = [
  "web": "",
  "cc": "es",
  "note": "vía iptv-sv (sanitizada)",
- "chno": 3369
+ "chno": 3368
 },
  {
  "id": "tvg-eventos-2-no-24-7-galicia",
@@ -34073,7 +34060,7 @@ window.CHANNELS = [
  "web": "",
  "cc": "es",
  "note": "vía iptv-sv (sanitizada)",
- "chno": 3370
+ "chno": 3369
 },
  {
  "id": "tvg-eventos-3-no-24-7-galicia",
@@ -34086,7 +34073,7 @@ window.CHANNELS = [
  "web": "",
  "cc": "es",
  "note": "vía iptv-sv (sanitizada)",
- "chno": 3371
+ "chno": 3370
 },
  {
  "id": "tvg-mira-radio-galega-galicia",
@@ -34099,7 +34086,7 @@ window.CHANNELS = [
  "web": "",
  "cc": "es",
  "note": "vía iptv-sv (sanitizada)",
- "chno": 3372
+ "chno": 3371
 },
  {
  "id": "tvg-universo-castelao-galicia",
@@ -34112,7 +34099,7 @@ window.CHANNELS = [
  "web": "",
  "cc": "es",
  "note": "vía iptv-sv (sanitizada)",
- "chno": 3373
+ "chno": 3372
 },
  {
  "id": "telemino-galicia",
@@ -34268,7 +34255,7 @@ window.CHANNELS = [
  "web": "",
  "cc": "es",
  "note": "vía iptv-sv (sanitizada)",
- "chno": 3419
+ "chno": 3418
 },
  {
  "id": "tve-int-europa-opc-2",
@@ -34281,7 +34268,7 @@ window.CHANNELS = [
  "web": "",
  "cc": "es",
  "note": " geo-blocked · vía iptv-sv (sanitizada)",
- "chno": 3358
+ "chno": 3357
 },
  {
  "id": "islas-canarias-tv-int-europa",
@@ -34320,7 +34307,7 @@ window.CHANNELS = [
  "web": "",
  "cc": "es",
  "note": "vía iptv-sv (sanitizada)",
- "chno": 3261
+ "chno": 3260
 },
  {
  "id": "sal-tv-no-24-7",
@@ -34983,7 +34970,7 @@ window.CHANNELS = [
  "web": "",
  "cc": "es",
  "note": "1080p · vía iptv-sv (sanitizada)",
- "chno": 3363
+ "chno": 3362
 },
  {
  "id": "tve-star-hd-2",
@@ -34996,7 +34983,7 @@ window.CHANNELS = [
  "web": "",
  "cc": "es",
  "note": "720p · vía iptv-sv (sanitizada) · ⚠️ duplicado desactivado (mejor señal: #2978)",
- "chno": 3364
+ "chno": 3363
 },
  {
  "id": "tve-star-hd-auto",
@@ -35009,7 +34996,7 @@ window.CHANNELS = [
  "web": "",
  "cc": "es",
  "note": "vía iptv-sv (sanitizada)",
- "chno": 3365
+ "chno": 3364
 },
  {
  "id": "bbc-series-espana",
@@ -35165,7 +35152,7 @@ window.CHANNELS = [
  "web": "",
  "cc": "es",
  "note": "vía iptv-sv (sanitizada)",
- "chno": 3477
+ "chno": 3476
 },
  {
  "id": "xphere-cosmos",
@@ -35178,7 +35165,7 @@ window.CHANNELS = [
  "web": "",
  "cc": "es",
  "note": "vía iptv-sv (sanitizada)",
- "chno": 3476
+ "chno": 3475
 },
  {
  "id": "xphere-science",
@@ -35191,7 +35178,7 @@ window.CHANNELS = [
  "web": "",
  "cc": "es",
  "note": "vía iptv-sv (sanitizada)",
- "chno": 3478
+ "chno": 3477
 },
  {
  "id": "xphere-wild-nature",
@@ -35204,7 +35191,7 @@ window.CHANNELS = [
  "web": "",
  "cc": "es",
  "note": "vía iptv-sv (sanitizada)",
- "chno": 3479
+ "chno": 3478
 },
  {
  "id": "xphere-aventura",
@@ -35217,7 +35204,7 @@ window.CHANNELS = [
  "web": "",
  "cc": "es",
  "note": "vía iptv-sv (sanitizada)",
- "chno": 3475
+ "chno": 3474
 },
  {
  "id": "rt-noticias",
@@ -35698,7 +35685,7 @@ window.CHANNELS = [
  "web": "",
  "cc": "es",
  "note": "vía iptv-sv (sanitizada)",
- "chno": 3280
+ "chno": 3279
 },
  {
  "id": "canal-lms",
@@ -37648,7 +37635,7 @@ window.CHANNELS = [
  "web": "",
  "cc": "es",
  "note": "vía iptv-sv (sanitizada)",
- "chno": 3264
+ "chno": 3263
 },
  {
  "id": "crimen",
@@ -39052,7 +39039,7 @@ window.CHANNELS = [
  "web": "",
  "cc": "pl",
  "note": "vía pluto-es (sanitizada)",
- "chno": 3281
+ "chno": 3280
 },
  {
  "id": "topgear-uk-sd",
@@ -39065,7 +39052,7 @@ window.CHANNELS = [
  "web": "",
  "cc": "uk",
  "note": "vía pluto-es (sanitizada)",
- "chno": 3282
+ "chno": 3281
 },
  {
  "id": "ufc",
@@ -39078,7 +39065,7 @@ window.CHANNELS = [
  "web": "",
  "cc": "es",
  "note": "vía pluto-es (sanitizada)",
- "chno": 3394
+ "chno": 3393
 },
  {
  "id": "winx-club",
@@ -39091,7 +39078,7 @@ window.CHANNELS = [
  "web": "",
  "cc": "es",
  "note": "vía pluto-es (sanitizada)",
- "chno": 3456
+ "chno": 3455
 },
  {
  "id": "plutotvwipeout-us-sd",
@@ -39104,7 +39091,7 @@ window.CHANNELS = [
  "web": "",
  "cc": "us",
  "note": "vía pluto-es (sanitizada)",
- "chno": 3457
+ "chno": 3456
 },
  {
  "id": "worldpokertour-us-us",
@@ -39117,7 +39104,7 @@ window.CHANNELS = [
  "web": "",
  "cc": "us",
  "note": "vía pluto-es (sanitizada)",
- "chno": 3460
+ "chno": 3459
 },
  {
  "id": "yugioh-us-sd",
@@ -39130,7 +39117,7 @@ window.CHANNELS = [
  "web": "",
  "cc": "us",
  "note": "vía pluto-es (sanitizada)",
- "chno": 3485
+ "chno": 3484
 },
  {
  "id": "3abninternational-us-sd",
@@ -39416,7 +39403,7 @@ window.CHANNELS = [
  "web": "",
  "cc": "us",
  "note": "1080p · vía iptv-org-hispam (sanitizada)",
- "chno": 3495
+ "chno": 3494
 },
  {
  "id": "elyssatv-tn-hd",
@@ -40079,7 +40066,7 @@ window.CHANNELS = [
  "web": "",
  "cc": "id",
  "note": "576p · vía iptv-org-hispam (sanitizada)",
- "chno": 3484
+ "chno": 3483
 },
  {
  "id": "zoomoo-sg-sd",
@@ -40314,6 +40301,71 @@ window.CHANNELS = [
  "note": "Plataforma en vivo de la Cámara de Diputados (referenciada por @Camara_cl) · sesiones y comisiones",
  "cc": "cl",
  "chno": 1209
+},
+ {
+ "id": "france24-espanol",
+ "name": "France 24 Español",
+ "group": "Internacionales",
+ "region": "Internacional",
+ "color": "#4f46e5",
+ "abbr": "F24ES",
+ "url": "https://live.france24.com/hls/live/2037220-b/F24_ES_HI_HLS/master_5000.m3u8",
+ "web": "https://www.france24.com/es/",
+ "note": "Noticias internacionales 24h en español · señal oficial france24.com (verificada 200)",
+ "cc": "fr",
+ "chno": 1604
+},
+ {
+ "id": "dw-espanol",
+ "name": "DW Español (Deutsche Welle)",
+ "group": "Internacionales",
+ "region": "Internacional",
+ "color": "#4f46e5",
+ "abbr": "DWES",
+ "url": "https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/master.m3u8",
+ "web": "https://www.dw.com/es",
+ "note": "Noticias internacionales en español · señal oficial DW (verificada 200)",
+ "cc": "de",
+ "chno": 1605
+},
+ {
+ "id": "euronews-espanol",
+ "name": "Euronews Español",
+ "group": "Internacionales",
+ "region": "Internacional",
+ "color": "#4f46e5",
+ "abbr": "EURES",
+ "url": "https://iptv.bitred.cl/euronews/index.m3u8",
+ "web": "https://es.euronews.com/live",
+ "note": "Noticias europeas/internacionales en español · espejo ISP bitred.cl del feed oficial (verificado 206)",
+ "cc": "fr",
+ "chno": 1606
+},
+ {
+ "id": "telesur-intl",
+ "name": "teleSUR",
+ "group": "Internacionales",
+ "region": "Internacional",
+ "color": "#4f46e5",
+ "abbr": "TSUR",
+ "url": "https://mblesmain01.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8",
+ "web": "https://www.telesurtv.net/",
+ "note": "Noticias de Latam y el mundo en español · señal oficial teleSUR ultrabase (verificada 206)",
+ "cc": "ve",
+ "chno": 1607
+},
+ {
+ "id": "cnn-en-espanol",
+ "name": "CNN en Español",
+ "group": "Internacionales",
+ "region": "Internacional",
+ "color": "#4f46e5",
+ "abbr": "CNNES",
+ "url": "",
+ "web": "https://cnn.com/espanol",
+ "note": "Solo web: CNN en Español en vivo por su sitio/app oficial (señal 24h requiere operador; clips gratis en cnn.com/espanol)",
+ "cc": "us",
+ "chno": 1608
 }
 ];
 window.SPORTS = [
