@@ -93,6 +93,31 @@
   const byId = new Map(chans.map(c => [c.id, c]));
   const regChans = chans.filter(c => c._reg);
   const temChans = chans.filter(c => !c._reg);
+  // ⚽ Alternativas deportivas LEGALES (window.SPORTS) como pseudo-canales ✔ (abren su sitio oficial)
+  const TLD2CC = { cl:'cl', mx:'mx', ar:'ar', es:'es', us:'us', br:'br', co:'co', pe:'pe', gt:'gt', bo:'bo', ec:'ec', uy:'uy', py:'py', cr:'cr', ve:'ve', do:'do', pa:'pa', hn:'hn', sv:'sv', ni:'ni', cu:'cu', pr:'pr' };
+  const ccOfUrl = u => { const m = String(u || '').match(/https?:\/\/([^/]+)/); if (!m) return ''; return TLD2CC[m[1].split(':')[0].split('.').pop().toLowerCase()] || ''; };
+  const legalChans = sports.map((sp, i) => {
+    const cc = ccOfUrl(sp.url);
+    return { id: 'legal-' + i, name: sp.name, url: '', web: sp.url, cc,
+      group: 'Alternativa legal', note: (sp.type || '') + (sp.desc ? ' — ' + sp.desc : ''),
+      color: '#16a34a', abbr: '✔', _reg: null, _theme: 'deportes',
+      _origin: cc === 'cl' ? 'cl' : 'es', _kind: 'otros',
+      _flag: flagOf(cc) || '\u{1F3DF}', _q: norm([sp.name, sp.type, sp.desc, sp.url].join(' ')) };
+  });
+  legalChans.forEach(c => byId.set(c.id, c));
+  // ⚽ subtemas dentro de la temática Deportes
+  const SPORT_LABEL = { fut: '⚽ Fútbol y deportes generales', hip: '🐎 Hípica y turf', comb: '🥊 Combate: MMA · boxeo · lucha', moto: '🏎️ Motor · poker · nichos', usa: '🇺🇸 Ligas USA / en inglés', s24: '🔴 Señales 24/7', intl: '🌐 Deportivos internacionales' };
+  const SPORT_ORDER = ['fut', 'hip', 'comb', 'moto', 'usa', 's24', 'intl'];
+  function sportKind(c) {
+    const n = String(c.name || '').toLowerCase();
+    if (/turf|hípica|hipica|monterrico|sporting/.test(n)) return 'hip';
+    if (/ufc|mma|boxeo|lucha|kickbox|pfl|glory|knocks| box /.test(n)) return 'comb';
+    if (/motor|rally|racer|fuel|ski|billiard|poker|hockey|racing|floho|florac/.test(n)) return 'moto';
+    if (/\bmlb\b|\bnhl\b|ee\.uu|us\)| en\]/.test(n)) return 'usa';
+    if (/24\/7|24-7/.test(n)) return 's24';
+    if (/olympic|red ?bull|cazé|sbt|pluto|fite|women|powernation/.test(n)) return 'intl';
+    return 'fut';
+  }
 
   /* =====================================================================
      2. ESTADO DEL PANEL
@@ -143,17 +168,31 @@
       });
     }
     if (view === 'tem') {
-      return THEMES.map(t => {
+      const legalItems = legalChans.filter(matches);
+      const legal = {
+        key: 'legal', code: '✔', color: '#16a34a', title: 'Alternativas legales oficiales', emoji: true,
+        sub: `${legalChans.length} opciones · ESPN/TNT/DSports solo por suscripción oficial (sin piratería) · tocan para abrir el sitio`,
+        items: legalItems, total: (state.theme === 'all' || state.theme === 'deportes') ? legalChans.length : 0,
+        groupBy: c => c._origin, groupLabel: k => (k === 'cl' ? '🇨🇱 Chile' : '🌎 Internacionales'), groupOrder: ['cl', 'es']
+      };
+      return [legal, ...THEMES.map(t => {
         const all = temChans.filter(c => c._theme === t.k);
         const items = all.filter(c => (state.temOrigin === 'all' || c._origin === state.temOrigin) && matches(c));
         const cl = all.filter(c => c._origin === 'cl').length, es = all.length - cl;
-        return {
+        const sec = {
           key: t.k, code: t.icon, color: t.color, title: t.name, emoji: true,
           sub: [cl && `🇨🇱 ${cl} Chile`, es && `🌎 ${es} hispanos`].filter(Boolean).join(' · '),
           items, total: all.length, groupBy: c => c._origin,
           groupLabel: k => (k === 'cl' ? '🇨🇱 Chile' : '🌎 Hispanoamérica y España'), groupOrder: ['cl', 'es']
         };
-      }).sort((a, b) => {
+        if (t.k === 'deportes') {
+          sec.sub += ` · ✔ ${legalChans.length} legales · subtemas abajo`;
+          sec.groupBy = sportKind;
+          sec.groupLabel = k => SPORT_LABEL[k] || k;
+          sec.groupOrder = SPORT_ORDER;
+        }
+        return sec;
+      })].sort((a, b) => {
         // ⭐ la temática elegida en la columna izquierda va primero
         if (state.theme === 'all') return 0;
         if (a.key === state.theme) return -1;
@@ -253,7 +292,7 @@
     const visibleSecs = state.query ? secs.filter(s => s.items.length) : secs.filter(s => view === 'fav' || s.total);
     // ⭐ con una temática seleccionada (columna izquierda), la derecha muestra solo esa
     const shownSecs = (view === 'tem' && state.theme !== 'all')
-      ? visibleSecs.filter(s => s.key === state.theme)
+      ? visibleSecs.filter(s => s.key === state.theme || (s.key === 'legal' && state.theme === 'deportes'))
       : visibleSecs;
     lastSections = shownSecs;
 
@@ -461,7 +500,10 @@
       $('#dot').classList.remove('live');
       $('#ovStatus').textContent = m;
     };
-    if (!ch.url) return onFail('Este canal solo se ve en su sitio oficial.');
+    if (!ch.url) {
+      if (ch.web) { window.open(ch.web, '_blank', 'noopener'); toast('✔ Abriendo sitio oficial: ' + dispName(ch)); render(); return; }
+      return onFail('Este canal solo se ve en su sitio oficial.');
+    }
     $('#ovStatus').innerHTML = '<span class="spin"></span> Sintonizando…';
 
     if (window.Hls && Hls.isSupported()) {

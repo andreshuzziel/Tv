@@ -117,3 +117,8 @@ Cada canal muestra su **bandera del país de origen** (campo `cc` = ISO 3166-1 a
 - Regenerar: `python3 scripts/afiche.py` (lee `data/channels.js` y `data/paises.js`; utiliza los iconos locales).
 
 - La sección **⚽ Deportes (309–317)** va ampliada: celdas grandes en 2 columnas + bloque ✔ con las **10 alternativas legales** (`window.SPORTS`: TNT Sports, ESPN/Disney+, Chilevisión/Mega Deportes, FIFA+, Pluto TV Deportes, Zapping/Movistar/DirectV GO, Movistar Play…). Cada celda del afiche trae **bandera real + emote 🏳️** del país de origen.
+
+## ⚽ Temática Deportes mejorada (app)
+- Sección **✔ Alternativas legales oficiales** arriba de las temáticas: las 10 opciones de `window.SPORTS` (TNT Sports, ESPN/Disney+, Chilevisión/Mega Deportes, FIFA+, Pluto TV Deportes, Zapping/Movistar/DirectV GO, Movistar Play…) — al tocarlas **abren su sitio oficial** (tienen bandera 🇨🇱/🏟️ y tipo Gratis/Suscripción).
+- La temática **Deportes (79 canales)** ahora se agrupa en subtemas: ⚽ fútbol/general 41 · 🏎️ motor/poker/nichos 12 · 🐎 hípica/turf 6 · 🇺🇸 ligas USA/inglés 6 · 🌐 internacionales 7 · 🥊 combate 5 · 🔴 24/7 2.
+- Canales sin stream pero con sitio oficial (Mega Ficción, Mega 2, alternativas) abren la web al tocarlos.
