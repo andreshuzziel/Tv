@@ -1,5 +1,3 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="1756-cristo-razon-de-vivir" tvg-name="Cristo Razon De Vivir" tvg-chno="1316" tvg-country="CL" group-title="Religiosos",Cristo Razon De Vivir
-https://tv.arkeo.cl:19360/8058/8058.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="351-restaurando-vidas-tv" tvg-name="Restaurando Vidas TV" tvg-chno="1317" tvg-country="CL" group-title="Religiosos",Restaurando Vidas TV
+#EXTINF:-1 tvg-id="351-restaurando-vidas-tv" tvg-name="Restaurando Vidas TV" tvg-chno="1316" tvg-country="CL" group-title="Religiosos",Restaurando Vidas TV
 https://v4.tustreaming.cl/restaurandovida/index.m3u8?PlaylistM3UCL

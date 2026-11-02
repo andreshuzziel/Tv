@@ -17,343 +17,343 @@ https://v2.tustreaming.cl/armoniamovil/index.m3u8
 https://tv.arkeo.cl:1936/elsembrador/elsembrador/playlist.m3u8
 #EXTINF:-1 tvg-id="televida-cl-sd" tvg-name="Televida (Chile)" tvg-chno="1312" tvg-country="CL" group-title="Religioso",Televida (Chile)
 https://tls-cl.cdnz.cl/televida/live/playlist.m3u8
-#EXTINF:-1 tvg-id="3abninternational-us-sd" tvg-name="3ABN International" tvg-chno="1318" tvg-country="US" group-title="Religioso",3ABN International
+#EXTINF:-1 tvg-id="3abninternational-us-sd" tvg-name="3ABN International" tvg-chno="1317" tvg-country="US" group-title="Religioso",3ABN International
 https://3abn.bozztv.com/3abn2/Int_live/smil:Int_live.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="adoramtv-do-sd" tvg-name="Adoram TV" tvg-chno="1319" tvg-country="DO" group-title="Religioso",Adoram TV
+#EXTINF:-1 tvg-id="adoramtv-do-sd" tvg-name="Adoram TV" tvg-chno="1318" tvg-country="DO" group-title="Religioso",Adoram TV
 https://live20.bozztv.com/giatv/giatv-adoram/adoram/chunks.m3u8
-#EXTINF:-1 tvg-id="agapetv-sv-sd" tvg-name="Agape TV" tvg-chno="1320" tvg-country="SV" group-title="Religioso",Agape TV
+#EXTINF:-1 tvg-id="agapetv-sv-sd" tvg-name="Agape TV" tvg-chno="1319" tvg-country="SV" group-title="Religioso",Agape TV
 https://5fc584f3f19c9.streamlock.net/agape/smil:agape.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="alcancetv-mx-sd" tvg-name="Alcance TV (Mexico)" tvg-chno="1321" tvg-country="MX" group-title="Religioso",Alcance TV (Mexico)
+#EXTINF:-1 tvg-id="alcancetv-mx-sd" tvg-name="Alcance TV (Mexico)" tvg-chno="1320" tvg-country="MX" group-title="Religioso",Alcance TV (Mexico)
 https://5bf8041cb3fed.streamlock.net/AlcanceTV/AlcanceTV/playlist.m3u8
-#EXTINF:-1 tvg-id="alcancetv-ve-sd" tvg-name="Alcance TV (Venezuela)" tvg-chno="1322" tvg-country="VE" group-title="Religioso",Alcance TV (Venezuela)
+#EXTINF:-1 tvg-id="alcancetv-ve-sd" tvg-name="Alcance TV (Venezuela)" tvg-chno="1321" tvg-country="VE" group-title="Religioso",Alcance TV (Venezuela)
 https://rv100.globalhost1.com:3516/live/tjjqdqurlive.m3u8
-#EXTINF:-1 tvg-id="alientovision-us-sd" tvg-name="Aliento Vision" tvg-chno="1323" tvg-country="US" group-title="Religioso",Aliento Vision
+#EXTINF:-1 tvg-id="alientovision-us-sd" tvg-name="Aliento Vision" tvg-chno="1322" tvg-country="US" group-title="Religioso",Aliento Vision
 https://627bb251f23c7.streamlock.net:444/Alientoenvivo/Alientoenvivo/playlist.m3u8
-#EXTINF:-1 tvg-id="amigostvchiquimula-gt-sd" tvg-name="Amigos TV Chiquimula" tvg-chno="1324" tvg-country="GT" group-title="Religioso",Amigos TV Chiquimula
+#EXTINF:-1 tvg-id="amigostvchiquimula-gt-sd" tvg-name="Amigos TV Chiquimula" tvg-chno="1323" tvg-country="GT" group-title="Religioso",Amigos TV Chiquimula
 https://antmedia.cablevisionrobles.com:5443/LiveApp/streams/CqwAgRagMvBNYN8c1731608980342.m3u8
-#EXTINF:-1 tvg-id="andestelevision-pe-sd" tvg-name="Andes Television" tvg-chno="1325" tvg-country="PE" group-title="Religioso",Andes Television
+#EXTINF:-1 tvg-id="andestelevision-pe-sd" tvg-name="Andes Television" tvg-chno="1324" tvg-country="PE" group-title="Religioso",Andes Television
 https://live-evg7.tv360.bitel.com.pe/bitel/andestvSRT/playlist.m3u8
-#EXTINF:-1 tvg-id="angeltv-in-spanish" tvg-name="Angel TV Spanish" tvg-chno="1326" tvg-country="IN" group-title="Religioso",Angel TV Spanish
+#EXTINF:-1 tvg-id="angeltv-in-spanish" tvg-name="Angel TV Spanish" tvg-chno="1325" tvg-country="IN" group-title="Religioso",Angel TV Spanish
 https://janya-digimix.akamaized.net/vglive-sk-351398/spanish/ngrp:angelspanish_all/playlist.m3u8
-#EXTINF:-1 tvg-id="arboldevidatv-sv-sd" tvg-name="Arbol de Vida TV" tvg-chno="1327" tvg-country="SV" group-title="Religioso",Arbol de Vida TV
+#EXTINF:-1 tvg-id="arboldevidatv-sv-sd" tvg-name="Arbol de Vida TV" tvg-chno="1326" tvg-country="SV" group-title="Religioso",Arbol de Vida TV
 https://yupistream.top:19360/livearbol/livearbol.m3u8
-#EXTINF:-1 tvg-id="asomavision-ec-sd" tvg-name="Asomavision" tvg-chno="1328" tvg-country="EC" group-title="Religioso",Asomavision
+#EXTINF:-1 tvg-id="asomavision-ec-sd" tvg-name="Asomavision" tvg-chno="1327" tvg-country="EC" group-title="Religioso",Asomavision
 https://asomatv.cloud-ip.cc/livestream/stream.m3u8
-#EXTINF:-1 tvg-id="avivamientotv-co-sd" tvg-name="Avivamiento TV" tvg-chno="1329" tvg-country="CO" group-title="Religioso",Avivamiento TV
+#EXTINF:-1 tvg-id="avivamientotv-co-sd" tvg-name="Avivamiento TV" tvg-chno="1328" tvg-country="CO" group-title="Religioso",Avivamiento TV
 https://s1.abntelevision.com/avivamientoabr/stream/avivamientohd/avivamientohd/playlist.m3u8
-#EXTINF:-1 tvg-id="bamostv-mx-sd" tvg-name="BAMOS TV" tvg-chno="1330" tvg-country="MX" group-title="Religioso",BAMOS TV
+#EXTINF:-1 tvg-id="bamostv-mx-sd" tvg-name="BAMOS TV" tvg-chno="1329" tvg-country="MX" group-title="Religioso",BAMOS TV
 https://video2.getstreamhosting.com:19360/8092/8092.m3u8
-#EXTINF:-1 tvg-id="bendicionchannel-co-hd" tvg-name="Bendicion Channel" tvg-chno="1331" tvg-country="CO" group-title="Religioso",Bendicion Channel
+#EXTINF:-1 tvg-id="bendicionchannel-co-hd" tvg-name="Bendicion Channel" tvg-chno="1330" tvg-country="CO" group-title="Religioso",Bendicion Channel
 https://s.emisoras.tv:8081/bendicionchannel/index.m3u8
-#EXTINF:-1 tvg-id="betheltv-pe-sd" tvg-name="Bethel TV" tvg-chno="1332" tvg-country="PE" group-title="Religioso",Bethel TV
+#EXTINF:-1 tvg-id="betheltv-pe-sd" tvg-name="Bethel TV" tvg-chno="1331" tvg-country="PE" group-title="Religioso",Bethel TV
 https://alfa.betheltv.tv/srt/3_abr/playlist.m3u8
-#EXTINF:-1 tvg-id="canal13jujuy-ar-sd" tvg-name="Canal 13 Jujuy" tvg-chno="1333" tvg-country="AR" group-title="Religioso",Canal 13 Jujuy
+#EXTINF:-1 tvg-id="canal13jujuy-ar-sd" tvg-name="Canal 13 Jujuy" tvg-chno="1332" tvg-country="AR" group-title="Religioso",Canal 13 Jujuy
 https://genexservicios.com:19360/canal13jujuy/canal13jujuy.m3u8
-#EXTINF:-1 tvg-id="canal27-gt-sd" tvg-name="Canal 27" tvg-chno="1334" tvg-country="GT" group-title="Religioso",Canal 27
+#EXTINF:-1 tvg-id="canal27-gt-sd" tvg-name="Canal 27" tvg-chno="1333" tvg-country="GT" group-title="Religioso",Canal 27
 https://live.canal27.tv:3633/live/canal27live.m3u8
-#EXTINF:-1 tvg-id="canal30tvbethel-gt-sd" tvg-name="Canal 30 TV Bethel" tvg-chno="1335" tvg-country="GT" group-title="Religioso",Canal 30 TV Bethel
+#EXTINF:-1 tvg-id="canal30tvbethel-gt-sd" tvg-name="Canal 30 TV Bethel" tvg-chno="1334" tvg-country="GT" group-title="Religioso",Canal 30 TV Bethel
 https://s.emisoras.tv:8081/canal30tvbethel/index.m3u8
-#EXTINF:-1 tvg-id="canal6vientorecio-ar-sd" tvg-name="Canal 6 Viento Recio" tvg-chno="1336" tvg-country="AR" group-title="Religioso",Canal 6 Viento Recio
+#EXTINF:-1 tvg-id="canal6vientorecio-ar-sd" tvg-name="Canal 6 Viento Recio" tvg-chno="1335" tvg-country="AR" group-title="Religioso",Canal 6 Viento Recio
 https://stmvideo6.livecastv.com/vientorecio/vientorecio/playlist.m3u8
-#EXTINF:-1 tvg-id="canal65-sv-sd" tvg-name="Canal 65" tvg-chno="1337" tvg-country="SV" group-title="Religioso",Canal 65
+#EXTINF:-1 tvg-id="canal65-sv-sd" tvg-name="Canal 65" tvg-chno="1336" tvg-country="SV" group-title="Religioso",Canal 65
 https://panel.streamingtv-mediacp.online:1936/tv65/tv65/playlist.m3u8
-#EXTINF:-1 tvg-id="canaldelafe-us-sd" tvg-name="Canal de la Fe" tvg-chno="1338" tvg-country="US" group-title="Religioso",Canal de la Fe
+#EXTINF:-1 tvg-id="canaldelafe-us-sd" tvg-name="Canal de la Fe" tvg-chno="1337" tvg-country="US" group-title="Religioso",Canal de la Fe
 https://cdn-cloudfront.us-east-1.prod.ingest.aws-infra.dacast.com/live/dad6a736-9efb-40ce-89b6-81d1d54f92bd/master.m3u8
-#EXTINF:-1 tvg-id="canal-diocesano-toledo-espana" tvg-name="Canal Diocesano Toledo (España)" tvg-chno="1339" tvg-country="ES" group-title="Religioso",Canal Diocesano Toledo (España)
+#EXTINF:-1 tvg-id="canal-diocesano-toledo-espana" tvg-name="Canal Diocesano Toledo (España)" tvg-chno="1338" tvg-country="ES" group-title="Religioso",Canal Diocesano Toledo (España)
 https://nlb2-live.emitstream.com/hls/5i3pxfuz4az356yu22ij/fragments/live-1000/index.m3u8
-#EXTINF:-1 tvg-id="canaliglesialuzyverdad-gt-sd" tvg-name="Canal Iglesia Luz y Verdad" tvg-chno="1340" tvg-country="GT" group-title="Religioso",Canal Iglesia Luz y Verdad
+#EXTINF:-1 tvg-id="canaliglesialuzyverdad-gt-sd" tvg-name="Canal Iglesia Luz y Verdad" tvg-chno="1339" tvg-country="GT" group-title="Religioso",Canal Iglesia Luz y Verdad
 https://stream.oursnetworktv.com/latin/IglesialuzyVerdad/playlist.m3u8
-#EXTINF:-1 tvg-id="canalluz-ar-sd" tvg-name="Canal Luz" tvg-chno="1341" tvg-country="AR" group-title="Religioso",Canal Luz
+#EXTINF:-1 tvg-id="canalluz-ar-sd" tvg-name="Canal Luz" tvg-chno="1340" tvg-country="AR" group-title="Religioso",Canal Luz
 https://g4.vxral-hor.transport.edge-access.net/a11/ngrp:canal_luz01-100009_all/Playlist.m3u8
-#EXTINF:-1 tvg-id="canalmas-uy-sd" tvg-name="Canal Mas" tvg-chno="1342" tvg-country="UY" group-title="Religioso",Canal Mas
+#EXTINF:-1 tvg-id="canalmas-uy-sd" tvg-name="Canal Mas" tvg-chno="1341" tvg-country="UY" group-title="Religioso",Canal Mas
 https://canalmasuruguay.com/hls/master-abr.m3u8
-#EXTINF:-1 tvg-id="canaloracionconson-co-sd" tvg-name="Canal Oracion Con Son" tvg-chno="1343" tvg-country="CO" group-title="Religioso",Canal Oracion Con Son
+#EXTINF:-1 tvg-id="canaloracionconson-co-sd" tvg-name="Canal Oracion Con Son" tvg-chno="1342" tvg-country="CO" group-title="Religioso",Canal Oracion Con Son
 https://canal.mediaserver.com.co/live/oracionconson.m3u8
-#EXTINF:-1 tvg-id="canalorbe21-ar-sd" tvg-name="Canal Orbe 21" tvg-chno="1344" tvg-country="AR" group-title="Religioso",Canal Orbe 21
+#EXTINF:-1 tvg-id="canalorbe21-ar-sd" tvg-name="Canal Orbe 21" tvg-chno="1343" tvg-country="AR" group-title="Religioso",Canal Orbe 21
 https://stream.arcast.net:4443/canal21/ngrp:canal21_all/playlist.m3u8
-#EXTINF:-1 tvg-id="canalpeniel-gt-sd" tvg-name="Canal Peniel" tvg-chno="1345" tvg-country="GT" group-title="Religioso",Canal Peniel
+#EXTINF:-1 tvg-id="canalpeniel-gt-sd" tvg-name="Canal Peniel" tvg-chno="1344" tvg-country="GT" group-title="Religioso",Canal Peniel
 https://cdn.streamhispanatv.net:3840/live/penielfamlive.m3u8
-#EXTINF:-1 tvg-id="canalsantamaria-ar-sd" tvg-name="Canal Santa Maria" tvg-chno="1346" tvg-country="AR" group-title="Religioso",Canal Santa Maria
+#EXTINF:-1 tvg-id="canalsantamaria-ar-sd" tvg-name="Canal Santa Maria" tvg-chno="1345" tvg-country="AR" group-title="Religioso",Canal Santa Maria
 https://streaming.telered.com.ar/santa-maria/streaming/mystream.m3u8
-#EXTINF:-1 tvg-id="canaltelefamilia-co-sd" tvg-name="Canal Telefamilia" tvg-chno="1347" tvg-country="CO" group-title="Religioso",Canal Telefamilia
+#EXTINF:-1 tvg-id="canaltelefamilia-co-sd" tvg-name="Canal Telefamilia" tvg-chno="1346" tvg-country="CO" group-title="Religioso",Canal Telefamilia
 https://stmv2.voxtvhd.com.br/telefamilia/telefamilia/playlist.m3u8
-#EXTINF:-1 tvg-id="canaltelesantiago-co-sd" tvg-name="Canal Telesantiago" tvg-chno="1348" tvg-country="CO" group-title="Religioso",Canal Telesantiago
+#EXTINF:-1 tvg-id="canaltelesantiago-co-sd" tvg-name="Canal Telesantiago" tvg-chno="1347" tvg-country="CO" group-title="Religioso",Canal Telesantiago
 https://stream.canaltelesantiago.com:8000/play/TELESANTIAGO/index.m3u8
-#EXTINF:-1 tvg-id="canaltvradiomayatgba-gt-sd" tvg-name="Canal TV Radio Maya TGBA" tvg-chno="1349" tvg-country="GT" group-title="Religioso",Canal TV Radio Maya TGBA
+#EXTINF:-1 tvg-id="canaltvradiomayatgba-gt-sd" tvg-name="Canal TV Radio Maya TGBA" tvg-chno="1348" tvg-country="GT" group-title="Religioso",Canal TV Radio Maya TGBA
 https://s.emisoras.tv:8081/radiomaya/index.m3u8
-#EXTINF:-1 tvg-id="canal-uruguay-uruguay" tvg-name="Canal+ Uruguay (Uruguay)" tvg-chno="1350" tvg-country="ES" group-title="Religioso",Canal+ Uruguay (Uruguay)
+#EXTINF:-1 tvg-id="canal-uruguay-uruguay" tvg-name="Canal+ Uruguay (Uruguay)" tvg-chno="1349" tvg-country="ES" group-title="Religioso",Canal+ Uruguay (Uruguay)
 https://tv.canalmasuruguay.com/hls/canalmas.m3u8
-#EXTINF:-1 tvg-id="candelariatv-gt-sd" tvg-name="Candelaria TV" tvg-chno="1351" tvg-country="GT" group-title="Religioso",Candelaria TV
+#EXTINF:-1 tvg-id="candelariatv-gt-sd" tvg-name="Candelaria TV" tvg-chno="1350" tvg-country="GT" group-title="Religioso",Candelaria TV
 https://cdn.streamhispanatv.net:3921/live/candetvlive.m3u8
-#EXTINF:-1 tvg-id="candelitatv-pr-sd" tvg-name="Candelita TV" tvg-chno="1352" tvg-country="PR" group-title="Religioso",Candelita TV
+#EXTINF:-1 tvg-id="candelitatv-pr-sd" tvg-name="Candelita TV" tvg-chno="1351" tvg-country="PR" group-title="Religioso",Candelita TV
 https://6110f70ea8d0e.streamlock.net/1689/1689/playlist.m3u8
-#EXTINF:-1 tvg-id="cbnespanol-us-sd" tvg-name="CBN Espanol" tvg-chno="1353" tvg-country="US" group-title="Religioso",CBN Espanol
+#EXTINF:-1 tvg-id="cbnespanol-us-sd" tvg-name="CBN Espanol" tvg-chno="1352" tvg-country="US" group-title="Religioso",CBN Espanol
 https://fastly.live.brightcove.com/6383462549112/us-east-1/734546207001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoiczFpM3ZpLmVncmVzcy50N2M3emwiLCJhY2NvdW50X2lkIjoiNzM0NTQ2MjA3MDAxIiwiZWhuIjoiZmFzdGx5LmxpdmUuYnJpZ2h0Y292ZS5jb20iLCJpc3MiOiJibGl2ZS1wbGF5YmFjay1zb3VyY2UtYXBpIiwic3ViIjoicGF0aG1hcHRva2VuIiwiYXVkIjpbIjczNDU0NjIwNzAwMSJdLCJqdGkiOiI2MzgzNDYyNTQ5MTEyIn0.g04lznsvgqgIXQt2ZH0H_tWtIeTsMgGjVORsjOJ0T6U/playlist-hls.m3u8
-#EXTINF:-1 tvg-id="cbn-espanol-internacional" tvg-name="CBN Español (Internacional)" tvg-chno="1354" tvg-country="ES" group-title="Religioso",CBN Español (Internacional)
+#EXTINF:-1 tvg-id="cbn-espanol-internacional" tvg-name="CBN Español (Internacional)" tvg-chno="1353" tvg-country="ES" group-title="Religioso",CBN Español (Internacional)
 https://teleon.tv/stream/cG5wODQ4NzY5MXBucDg0.m3u8
-#EXTINF:-1 tvg-id="ccichannel-hn-sd" tvg-name="CCI Channel" tvg-chno="1355" tvg-country="HN" group-title="Religioso",CCI Channel
+#EXTINF:-1 tvg-id="ccichannel-hn-sd" tvg-name="CCI Channel" tvg-chno="1354" tvg-country="HN" group-title="Religioso",CCI Channel
 https://livestream.mediacci.com/ccitv/index.m3u8
-#EXTINF:-1 tvg-id="cdminternacional-pr-sd" tvg-name="CDM Internacional" tvg-chno="1356" tvg-country="PR" group-title="Religioso",CDM Internacional
+#EXTINF:-1 tvg-id="cdminternacional-pr-sd" tvg-name="CDM Internacional" tvg-chno="1355" tvg-country="PR" group-title="Religioso",CDM Internacional
 https://627bb251f23c7.streamlock.net:444/CDMInternacional/CDMInternacional/playlist.m3u8
-#EXTINF:-1 tvg-id="cholutecatv-hn-sd" tvg-name="Choluteca TV" tvg-chno="1357" tvg-country="HN" group-title="Religioso",Choluteca TV
+#EXTINF:-1 tvg-id="cholutecatv-hn-sd" tvg-name="Choluteca TV" tvg-chno="1356" tvg-country="HN" group-title="Religioso",Choluteca TV
 https://s.emisoras.tv:8081/cholutecatv/index.m3u8
-#EXTINF:-1 tvg-id="cielotv-do-sd" tvg-name="Cielo TV" tvg-chno="1358" tvg-country="DO" group-title="Religioso",Cielo TV
+#EXTINF:-1 tvg-id="cielotv-do-sd" tvg-name="Cielo TV" tvg-chno="1357" tvg-country="DO" group-title="Religioso",Cielo TV
 https://streaming.servervideo.net:1936/cielotv/cielotv/playlist.m3u8
-#EXTINF:-1 tvg-id="cmbtelevision-co-sd" tvg-name="CMB Television" tvg-chno="1359" tvg-country="CO" group-title="Religioso",CMB Television
+#EXTINF:-1 tvg-id="cmbtelevision-co-sd" tvg-name="CMB Television" tvg-chno="1358" tvg-country="CO" group-title="Religioso",CMB Television
 https://cdn1.cmbcolombia.tv/bethesda/video.m3u8
-#EXTINF:-1 tvg-id="conectadoscondios-gt-sd" tvg-name="Conectados con Dios" tvg-chno="1360" tvg-country="GT" group-title="Religioso",Conectados con Dios
+#EXTINF:-1 tvg-id="conectadoscondios-gt-sd" tvg-name="Conectados con Dios" tvg-chno="1359" tvg-country="GT" group-title="Religioso",Conectados con Dios
 https://cdn.oktvus.com/ConectadoConDios/tracks-v2a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="conexionpositivatelevision-cr-hd" tvg-name="Conexion Positiva Television" tvg-chno="1361" tvg-country="CR" group-title="Religioso",Conexion Positiva Television
+#EXTINF:-1 tvg-id="conexionpositivatelevision-cr-hd" tvg-name="Conexion Positiva Television" tvg-chno="1360" tvg-country="CR" group-title="Religioso",Conexion Positiva Television
 https://tvstream.conexionpositivaradio.com/memfs/69239c4d-4116-4f4f-b065-bf17e81b1411.m3u8
-#EXTINF:-1 tvg-id="cristotv-gt-sd" tvg-name="Cristo TV" tvg-chno="1362" tvg-country="GT" group-title="Religioso",Cristo TV
+#EXTINF:-1 tvg-id="cristotv-gt-sd" tvg-name="Cristo TV" tvg-chno="1361" tvg-country="GT" group-title="Religioso",Cristo TV
 https://stream.oursnetworktv.com/latin/CristoTV/playlist.m3u8
-#EXTINF:-1 tvg-id="cristovisioncanal31-cr-sd" tvg-name="Cristo Vision Canal 31" tvg-chno="1363" tvg-country="CR" group-title="Religioso",Cristo Vision Canal 31
+#EXTINF:-1 tvg-id="cristovisioncanal31-cr-sd" tvg-name="Cristo Vision Canal 31" tvg-chno="1362" tvg-country="CR" group-title="Religioso",Cristo Vision Canal 31
 https://3a310f6ec721e6b362fcd22772b57f36a2fe6bb2.tabeelcr.com:8080/cristovision31/iptv.m3u8
-#EXTINF:-1 tvg-id="cristovision-co-sd" tvg-name="Cristovision" tvg-chno="1364" tvg-country="CO" group-title="Religioso",Cristovision
+#EXTINF:-1 tvg-id="cristovision-co-sd" tvg-name="Cristovision" tvg-chno="1363" tvg-country="CO" group-title="Religioso",Cristovision
 https://5fc584f3f19c9.streamlock.net/cristovision/videocristovision/playlist.m3u8
-#EXTINF:-1 tvg-id="dgtv-au-hd" tvg-name="DG:TV" tvg-chno="1365" tvg-country="AU" group-title="Religioso",DG:TV
+#EXTINF:-1 tvg-id="dgtv-au-hd" tvg-name="DG:TV" tvg-chno="1364" tvg-country="AU" group-title="Religioso",DG:TV
 https://mdn.dg.church/673ac57a073a4-1/index.m3u8
-#EXTINF:-1 tvg-id="diosteve-hn-sd" tvg-name="Dios Te Ve" tvg-chno="1366" tvg-country="HN" group-title="Religioso",Dios Te Ve
+#EXTINF:-1 tvg-id="diosteve-hn-sd" tvg-name="Dios Te Ve" tvg-chno="1365" tvg-country="HN" group-title="Religioso",Dios Te Ve
 https://s.emisoras.tv:8081/diostevetv/index.m3u8
-#EXTINF:-1 tvg-id="diostvtalanga-hn-sd" tvg-name="Dios Tv Talanga" tvg-chno="1367" tvg-country="HN" group-title="Religioso",Dios Tv Talanga
+#EXTINF:-1 tvg-id="diostvtalanga-hn-sd" tvg-name="Dios Tv Talanga" tvg-chno="1366" tvg-country="HN" group-title="Religioso",Dios Tv Talanga
 https://tv.webmedialive.com/unciontv/live/playlist.m3u8
-#EXTINF:-1 tvg-id="ebenezertv-hn-sd" tvg-name="Ebenezer TV" tvg-chno="1368" tvg-country="HN" group-title="Religioso",Ebenezer TV
+#EXTINF:-1 tvg-id="ebenezertv-hn-sd" tvg-name="Ebenezer TV" tvg-chno="1367" tvg-country="HN" group-title="Religioso",Ebenezer TV
 https://5e85d90130e77.streamlock.net/6010/ngrp:6010_all/playlist.m3u8
-#EXTINF:-1 tvg-id="elcaminotv-sv-sd" tvg-name="El Camino TV" tvg-chno="1369" tvg-country="SV" group-title="Religioso",El Camino TV
+#EXTINF:-1 tvg-id="elcaminotv-sv-sd" tvg-name="El Camino TV" tvg-chno="1368" tvg-country="SV" group-title="Religioso",El Camino TV
 https://5d32e2b9b7eed.streamlock.net:4443/ectv/ectv/playlist.m3u8
-#EXTINF:-1 tvg-id="elpuertotv-do-sd" tvg-name="El Puerto TV" tvg-chno="1370" tvg-country="DO" group-title="Religioso",El Puerto TV
+#EXTINF:-1 tvg-id="elpuertotv-do-sd" tvg-name="El Puerto TV" tvg-chno="1369" tvg-country="DO" group-title="Religioso",El Puerto TV
 https://5bf8041cb3fed.streamlock.net/PuertoTV/PuertoTV/playlist.m3u8
-#EXTINF:-1 tvg-id="elroitv-gt-sd" tvg-name="El-Roi TV" tvg-chno="1371" tvg-country="GT" group-title="Religioso",El-Roi TV
+#EXTINF:-1 tvg-id="elroitv-gt-sd" tvg-name="El-Roi TV" tvg-chno="1370" tvg-country="GT" group-title="Religioso",El-Roi TV
 https://cdn.streamhispanatv.net:3648/live/elroitvlive.m3u8
-#EXTINF:-1 tvg-id="elimtv-sv-sd" tvg-name="Elim TV" tvg-chno="1372" tvg-country="SV" group-title="Religioso",Elim TV
+#EXTINF:-1 tvg-id="elimtv-sv-sd" tvg-name="Elim TV" tvg-chno="1371" tvg-country="SV" group-title="Religioso",Elim TV
 https://stream.soporteccrtv.xyz/live/elimtv/main_stream.m3u8
-#EXTINF:-1 tvg-id="enlacejuvenil-cr-sd" tvg-name="Enlace Juvenil" tvg-chno="1373" tvg-country="CR" group-title="Religioso",Enlace Juvenil
+#EXTINF:-1 tvg-id="enlacejuvenil-cr-sd" tvg-name="Enlace Juvenil" tvg-chno="1372" tvg-country="CR" group-title="Religioso",Enlace Juvenil
 https://livecdnusa.enlace.plus/ejtv/smil:ejtv-hd.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="enlace-tbn-internacional" tvg-name="Enlace TBN (Internacional)" tvg-chno="1374" tvg-country="ES" group-title="Religioso",Enlace TBN (Internacional)
+#EXTINF:-1 tvg-id="enlace-tbn-internacional" tvg-name="Enlace TBN (Internacional)" tvg-chno="1373" tvg-country="ES" group-title="Religioso",Enlace TBN (Internacional)
 https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="escuchameradiotv-ni-sd" tvg-name="Escuchame Radio TV" tvg-chno="1375" tvg-country="NI" group-title="Religioso",Escuchame Radio TV
+#EXTINF:-1 tvg-id="escuchameradiotv-ni-sd" tvg-name="Escuchame Radio TV" tvg-chno="1374" tvg-country="NI" group-title="Religioso",Escuchame Radio TV
 https://stmv1.transmissaodigital.com/pedro9800/pedro9800/playlist.m3u8
-#EXTINF:-1 tvg-id="espiritusantoyfuegotv-gt-sd" tvg-name="Espiritu Santo Y Fuego TV" tvg-chno="1376" tvg-country="GT" group-title="Religioso",Espiritu Santo Y Fuego TV
+#EXTINF:-1 tvg-id="espiritusantoyfuegotv-gt-sd" tvg-name="Espiritu Santo Y Fuego TV" tvg-chno="1375" tvg-country="GT" group-title="Religioso",Espiritu Santo Y Fuego TV
 https://inliveserver.com:1936/8392/8392/playlist.m3u8
-#EXTINF:-1 tvg-id="ewtn-us-spainlatinamerica" tvg-name="EWTN (United States) Spain & Latin America" tvg-chno="1377" tvg-country="US" group-title="Religioso",EWTN (United States) Spain & Latin America
+#EXTINF:-1 tvg-id="ewtn-us-spainlatinamerica" tvg-name="EWTN (United States) Spain & Latin America" tvg-chno="1376" tvg-country="US" group-title="Religioso",EWTN (United States) Spain & Latin America
 https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/live/playlist.m3u8
-#EXTINF:-1 tvg-id="ewtn-us-spanish" tvg-name="EWTN (United States) Spanish" tvg-chno="1378" tvg-country="US" group-title="Religioso",EWTN (United States) Spanish
+#EXTINF:-1 tvg-id="ewtn-us-spanish" tvg-name="EWTN (United States) Spanish" tvg-chno="1377" tvg-country="US" group-title="Religioso",EWTN (United States) Spanish
 https://cdn3.wowza.com/1/TUI5dU5ucnUxdGFD/ZFlVeGRl/hls/live/playlist.m3u8
-#EXTINF:-1 tvg-id="ewtnespana-es-sd" tvg-name="EWTN Espana" tvg-chno="1379" tvg-country="ES" group-title="Religioso",EWTN Espana
+#EXTINF:-1 tvg-id="ewtnespana-es-sd" tvg-name="EWTN Espana" tvg-chno="1378" tvg-country="ES" group-title="Religioso",EWTN Espana
 https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/q6xkg9py/480/chunklist.m3u8
-#EXTINF:-1 tvg-id="expresiontv-gt-sd" tvg-name="Expresion TV" tvg-chno="1380" tvg-country="GT" group-title="Religioso",Expresion TV
+#EXTINF:-1 tvg-id="expresiontv-gt-sd" tvg-name="Expresion TV" tvg-chno="1379" tvg-country="GT" group-title="Religioso",Expresion TV
 https://ssh101.bozztv.com/ssh101/expresiongrany/playlist.m3u8
-#EXTINF:-1 tvg-id="extrematv-cr-sd" tvg-name="Extrema TV (Costa Rica)" tvg-chno="1381" tvg-country="CR" group-title="Religioso",Extrema TV (Costa Rica)
+#EXTINF:-1 tvg-id="extrematv-cr-sd" tvg-name="Extrema TV (Costa Rica)" tvg-chno="1380" tvg-country="CR" group-title="Religioso",Extrema TV (Costa Rica)
 https://627bb251f23c7.streamlock.net:444/ExtremaTV/ExtremaTV/playlist.m3u8
-#EXTINF:-1 tvg-id="farodesantidadtv-pr-sd" tvg-name="Faro de Santidad TV" tvg-chno="1382" tvg-country="PR" group-title="Religioso",Faro de Santidad TV
+#EXTINF:-1 tvg-id="farodesantidadtv-pr-sd" tvg-name="Faro de Santidad TV" tvg-chno="1381" tvg-country="PR" group-title="Religioso",Faro de Santidad TV
 https://5dbcd1053301e.streamlock.net:4443/farodesantidad/farodesantidad/playlist.m3u8
-#EXTINF:-1 tvg-id="feviviente-gt-sd" tvg-name="Fe Viviente" tvg-chno="1383" tvg-country="GT" group-title="Religioso",Fe Viviente
+#EXTINF:-1 tvg-id="feviviente-gt-sd" tvg-name="Fe Viviente" tvg-chno="1382" tvg-country="GT" group-title="Religioso",Fe Viviente
 https://stream.oursnetworktv.com/latin/feVivienteGtm/playlist.m3u8
-#EXTINF:-1 tvg-id="franchstv-gt-sd" tvg-name="Franchs TV" tvg-chno="1384" tvg-country="GT" group-title="Religioso",Franchs TV
+#EXTINF:-1 tvg-id="franchstv-gt-sd" tvg-name="Franchs TV" tvg-chno="1383" tvg-country="GT" group-title="Religioso",Franchs TV
 https://stream.oursnetworktv.com/latin/franchstv/playlist.m3u8
-#EXTINF:-1 tvg-id="frecuenciaftv-co-sd" tvg-name="Frecuencia F TV" tvg-chno="1385" tvg-country="CO" group-title="Religioso",Frecuencia F TV
+#EXTINF:-1 tvg-id="frecuenciaftv-co-sd" tvg-name="Frecuencia F TV" tvg-chno="1384" tvg-country="CO" group-title="Religioso",Frecuencia F TV
 https://tv.frecuenciaf.com/live/envivo_1080p4000kbs/index.m3u8
-#EXTINF:-1 tvg-id="frecuencia-f-tv-colombia" tvg-name="Frecuencia F TV (Colombia)" tvg-chno="1386" tvg-country="ES" group-title="Religioso",Frecuencia F TV (Colombia)
+#EXTINF:-1 tvg-id="frecuencia-f-tv-colombia" tvg-name="Frecuencia F TV (Colombia)" tvg-chno="1385" tvg-country="ES" group-title="Religioso",Frecuencia F TV (Colombia)
 https://tv.frecuenciaf.com/live/envivo.m3u8
-#EXTINF:-1 tvg-id="gracia-tv-chile" tvg-name="Gracia TV (Chile)" tvg-chno="1387" tvg-country="ES" group-title="Religioso",Gracia TV (Chile)
+#EXTINF:-1 tvg-id="gracia-tv-chile" tvg-name="Gracia TV (Chile)" tvg-chno="1386" tvg-country="ES" group-title="Religioso",Gracia TV (Chile)
 https://v4.tustreaming.cl/graciatv/index.m3u8
-#EXTINF:-1 tvg-id="gsgtv-sv-sd" tvg-name="GSG TV" tvg-chno="1388" tvg-country="SV" group-title="Religioso",GSG TV
+#EXTINF:-1 tvg-id="gsgtv-sv-sd" tvg-name="GSG TV" tvg-chno="1387" tvg-country="SV" group-title="Religioso",GSG TV
 https://schurch1.bozztv.com/livecdn69/live/playlist.m3u8
-#EXTINF:-1 tvg-id="hopechannelinteramerica-us-sd" tvg-name="Hope Channel Inter-America" tvg-chno="1389" tvg-country="US" group-title="Religioso",Hope Channel Inter-America
+#EXTINF:-1 tvg-id="hopechannelinteramerica-us-sd" tvg-name="Hope Channel Inter-America" tvg-chno="1388" tvg-country="US" group-title="Religioso",Hope Channel Inter-America
 https://jstre.am/live/jsl:EC0Mq0i6HJU.m3u8
-#EXTINF:-1 tvg-id="hosannavision-pa-sd" tvg-name="Hosanna Vision" tvg-chno="1390" tvg-country="PA" group-title="Religioso",Hosanna Vision
+#EXTINF:-1 tvg-id="hosannavision-pa-sd" tvg-name="Hosanna Vision" tvg-chno="1389" tvg-country="PA" group-title="Religioso",Hosanna Vision
 https://1206618505.rsc.cdn77.org/LS-ATL-59020-1/playlist.m3u8
-#EXTINF:-1 tvg-id="ieanjesusecuador-ec-sd" tvg-name="IeanJesus Ecuador" tvg-chno="1391" tvg-country="EC" group-title="Religioso",IeanJesus Ecuador
+#EXTINF:-1 tvg-id="ieanjesusecuador-ec-sd" tvg-name="IeanJesus Ecuador" tvg-chno="1390" tvg-country="EC" group-title="Religioso",IeanJesus Ecuador
 https://cloud37.ecuatel.com/iglesia2020/Stream1/playlist.m3u8
-#EXTINF:-1 tvg-id="impactchannel-cr-sd" tvg-name="Impact Channel" tvg-chno="1392" tvg-country="CR" group-title="Religioso",Impact Channel
+#EXTINF:-1 tvg-id="impactchannel-cr-sd" tvg-name="Impact Channel" tvg-chno="1391" tvg-country="CR" group-title="Religioso",Impact Channel
 https://5fe2654d6127d.streamlock.net/impactchannel/videoimpactchannel/playlist.m3u8
-#EXTINF:-1 tvg-id="impdtvworldwide-br-sd" tvg-name="IMPD TV Worldwide" tvg-chno="1393" tvg-country="BR" group-title="Religioso",IMPD TV Worldwide
+#EXTINF:-1 tvg-id="impdtvworldwide-br-sd" tvg-name="IMPD TV Worldwide" tvg-chno="1392" tvg-country="BR" group-title="Religioso",IMPD TV Worldwide
 https://igrejamundial.nuvemplay.live/hls/stream.m3u8
-#EXTINF:-1 tvg-id="inmaculadatv-hn-sd" tvg-name="Inmaculada TV" tvg-chno="1394" tvg-country="HN" group-title="Religioso",Inmaculada TV
+#EXTINF:-1 tvg-id="inmaculadatv-hn-sd" tvg-name="Inmaculada TV" tvg-chno="1393" tvg-country="HN" group-title="Religioso",Inmaculada TV
 https://live20.bozztv.com/akamaissh101/ssh101/radiotvcholy/playlist.m3u8
-#EXTINF:-1 tvg-id="jbn-ni-sd" tvg-name="JBN" tvg-chno="1395" tvg-country="NI" group-title="Religioso",JBN
+#EXTINF:-1 tvg-id="jbn-ni-sd" tvg-name="JBN" tvg-chno="1394" tvg-country="NI" group-title="Religioso",JBN
 https://hdbox.chunklistv.com/live?stream=jbn39
-#EXTINF:-1 tvg-id="jbntv-hn-sd" tvg-name="JBN TV" tvg-chno="1396" tvg-country="HN" group-title="Religioso",JBN TV
+#EXTINF:-1 tvg-id="jbntv-hn-sd" tvg-name="JBN TV" tvg-chno="1395" tvg-country="HN" group-title="Religioso",JBN TV
 https://tv.webmedialive.com/jbn_live/enlace/playlist.m3u8
-#EXTINF:-1 tvg-id="jehovanissi-gt-sd" tvg-name="Jehova Nissi" tvg-chno="1397" tvg-country="GT" group-title="Religioso",Jehova Nissi
+#EXTINF:-1 tvg-id="jehovanissi-gt-sd" tvg-name="Jehova Nissi" tvg-chno="1396" tvg-country="GT" group-title="Religioso",Jehova Nissi
 https://stream.oursnetworktv.com/latin/nissiGtmH/playlist.m3u8
-#EXTINF:-1 tvg-id="jehovatv-hn-sd" tvg-name="Jehova TV" tvg-chno="1398" tvg-country="HN" group-title="Religioso",Jehova TV
+#EXTINF:-1 tvg-id="jehovatv-hn-sd" tvg-name="Jehova TV" tvg-chno="1397" tvg-country="HN" group-title="Religioso",Jehova TV
 https://mp.panelchs.com:1936/8038/8038/playlist.m3u8
-#EXTINF:-1 tvg-id="jemrtv-hn-hd" tvg-name="JEMR TV" tvg-chno="1399" tvg-country="HN" group-title="Religioso",JEMR TV
+#EXTINF:-1 tvg-id="jemrtv-hn-hd" tvg-name="JEMR TV" tvg-chno="1398" tvg-country="HN" group-title="Religioso",JEMR TV
 https://tv.webmedialive.com/jmrtv/live/playlist.m3u8
-#EXTINF:-1 tvg-id="jfvtv-sv-sd" tvg-name="JFV TV" tvg-chno="1400" tvg-country="SV" group-title="Religioso",JFV TV
+#EXTINF:-1 tvg-id="jfvtv-sv-sd" tvg-name="JFV TV" tvg-chno="1399" tvg-country="SV" group-title="Religioso",JFV TV
 https://2nbyj587d53k-hls-live.5centscdn.com/09/25b94ec89b2aa708c3c4ad0014b09845.sdp/playlist.m3u8
-#EXTINF:-1 tvg-id="jn19-peru" tvg-name="JN19 (Perú)" tvg-chno="1401" tvg-country="ES" group-title="Religioso",JN19 (Perú)
+#EXTINF:-1 tvg-id="jn19-peru" tvg-name="JN19 (Perú)" tvg-chno="1400" tvg-country="ES" group-title="Religioso",JN19 (Perú)
 https://servilive.com:3028/live/jntv19live.m3u8
-#EXTINF:-1 tvg-id="josuetv-sv-sd" tvg-name="Josue TV" tvg-chno="1402" tvg-country="SV" group-title="Religioso",Josue TV
+#EXTINF:-1 tvg-id="josuetv-sv-sd" tvg-name="Josue TV" tvg-chno="1401" tvg-country="SV" group-title="Religioso",Josue TV
 https://videoserver.tmcreativos.com:19360/abbftuhxxs/abbftuhxxs.m3u8
-#EXTINF:-1 tvg-id="kerussotv-hn-sd" tvg-name="Kerusso TV" tvg-chno="1403" tvg-country="HN" group-title="Religioso",Kerusso TV
+#EXTINF:-1 tvg-id="kerussotv-hn-sd" tvg-name="Kerusso TV" tvg-chno="1402" tvg-country="HN" group-title="Religioso",Kerusso TV
 https://s.emisoras.tv:8081/kerussotv/index.m3u8
-#EXTINF:-1 tvg-id="ksce381-us-hd" tvg-name="KSCE 38.1" tvg-chno="1404" tvg-country="US" group-title="Religioso",KSCE 38.1
+#EXTINF:-1 tvg-id="ksce381-us-hd" tvg-name="KSCE 38.1" tvg-chno="1403" tvg-country="US" group-title="Religioso",KSCE 38.1
 https://2-fss-2.streamhoster.com/pl_138/200226-1359204-1/playlist.m3u8
-#EXTINF:-1 tvg-id="ksce383-us-hd" tvg-name="KSCE 38.3" tvg-chno="1405" tvg-country="US" group-title="Religioso",KSCE 38.3
+#EXTINF:-1 tvg-id="ksce383-us-hd" tvg-name="KSCE 38.3" tvg-chno="1404" tvg-country="US" group-title="Religioso",KSCE 38.3
 https://2-fss-1.streamhoster.com/pl_122/200226-1427780-1/playlist.m3u8
-#EXTINF:-1 tvg-id="lavozdejesushd-do-hd" tvg-name="La Voz de Jesus HD" tvg-chno="1406" tvg-country="DO" group-title="Religioso",La Voz de Jesus HD
+#EXTINF:-1 tvg-id="lavozdejesushd-do-hd" tvg-name="La Voz de Jesus HD" tvg-chno="1405" tvg-country="DO" group-title="Religioso",La Voz de Jesus HD
 https://live20.bozztv.com/giatvplayout7/giatv-208429/playlist.m3u8
-#EXTINF:-1 tvg-id="lavozdemaria-do-sd" tvg-name="La Voz de Maria" tvg-chno="1407" tvg-country="DO" group-title="Religioso",La Voz de Maria
+#EXTINF:-1 tvg-id="lavozdemaria-do-sd" tvg-name="La Voz de Maria" tvg-chno="1406" tvg-country="DO" group-title="Religioso",La Voz de Maria
 https://live.lavozdemaria.com:3436/live/lavozdemarialive.m3u8
-#EXTINF:-1 tvg-id="lgdtelevision-ve-sd" tvg-name="LGD Television" tvg-chno="1408" tvg-country="VE" group-title="Religioso",LGD Television
+#EXTINF:-1 tvg-id="lgdtelevision-ve-sd" tvg-name="LGD Television" tvg-chno="1407" tvg-country="VE" group-title="Religioso",LGD Television
 https://streamtv.intervenhosting.net:3403/hybrid/play.m3u8
-#EXTINF:-1 tvg-id="livingfaithtv-us-sd" tvg-name="Living Faith TV" tvg-chno="1409" tvg-country="US" group-title="Religioso",Living Faith TV
+#EXTINF:-1 tvg-id="livingfaithtv-us-sd" tvg-name="Living Faith TV" tvg-chno="1408" tvg-country="US" group-title="Religioso",Living Faith TV
 https://cdn-unified-hls.streamspot.com/ingest1/0b5c0f18e9/playlist.m3u8?origin=1
-#EXTINF:-1 tvg-id="llbntvlatino-us-sd" tvg-name="LLBN TV Latino" tvg-chno="1410" tvg-country="US" group-title="Religioso",LLBN TV Latino
+#EXTINF:-1 tvg-id="llbntvlatino-us-sd" tvg-name="LLBN TV Latino" tvg-chno="1409" tvg-country="US" group-title="Religioso",LLBN TV Latino
 https://brightstar-latino-pull-secure.akamaized.net/brightstarlatino/stream.m3u8
-#EXTINF:-1 tvg-id="logostv-es-sd" tvg-name="Logos TV (Spain)" tvg-chno="1411" tvg-country="ES" group-title="Religioso",Logos TV (Spain)
+#EXTINF:-1 tvg-id="logostv-es-sd" tvg-name="Logos TV (Spain)" tvg-chno="1410" tvg-country="ES" group-title="Religioso",Logos TV (Spain)
 https://streamer1.streamhost.org/salive/logosH/master.m3u8
-#EXTINF:-1 tvg-id="luzdivinatv-do-hd" tvg-name="Luz Divina TV" tvg-chno="1412" tvg-country="DO" group-title="Religioso",Luz Divina TV
+#EXTINF:-1 tvg-id="luzdivinatv-do-hd" tvg-name="Luz Divina TV" tvg-chno="1411" tvg-country="DO" group-title="Religioso",Luz Divina TV
 https://tv.wracanal10.com:3776/live/luzdivinatvlive.m3u8
-#EXTINF:-1 tvg-id="luznacientetv-cr-sd" tvg-name="Luz Naciente TV" tvg-chno="1413" tvg-country="CR" group-title="Religioso",Luz Naciente TV
+#EXTINF:-1 tvg-id="luznacientetv-cr-sd" tvg-name="Luz Naciente TV" tvg-chno="1412" tvg-country="CR" group-title="Religioso",Luz Naciente TV
 https://streeming.protoscr.com:3858/live/streeminglive.m3u8
-#EXTINF:-1 tvg-id="majestadtv-us-sd" tvg-name="Majestad TV" tvg-chno="1414" tvg-country="US" group-title="Religioso",Majestad TV
+#EXTINF:-1 tvg-id="majestadtv-us-sd" tvg-name="Majestad TV" tvg-chno="1413" tvg-country="US" group-title="Religioso",Majestad TV
 https://livetv.305streamhd.com:3667/live/majestadtvlive.m3u8
-#EXTINF:-1 tvg-id="manaiglesiaonline-pt-sd" tvg-name="Mana Iglesia Online" tvg-chno="1415" tvg-country="PT" group-title="Religioso",Mana Iglesia Online
+#EXTINF:-1 tvg-id="manaiglesiaonline-pt-sd" tvg-name="Mana Iglesia Online" tvg-chno="1414" tvg-country="PT" group-title="Religioso",Mana Iglesia Online
 https://w2.manasat.com/iglesia-online/smil:iglesia-online.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="mariaplusvisionmedjugorje-ba-sd" tvg-name="Maria+Vision Medjugorje" tvg-chno="1416" tvg-country="BA" group-title="Religioso",Maria+Vision Medjugorje
+#EXTINF:-1 tvg-id="mariaplusvisionmedjugorje-ba-sd" tvg-name="Maria+Vision Medjugorje" tvg-chno="1415" tvg-country="BA" group-title="Religioso",Maria+Vision Medjugorje
 https://1601580044.rsc.cdn77.org/live/_jcn_/amlst:Italiasette/playlist.m3u8
-#EXTINF:-1 tvg-id="mcntelevision-gt-sd" tvg-name="MCN Television" tvg-chno="1417" tvg-country="GT" group-title="Religioso",MCN Television
+#EXTINF:-1 tvg-id="mcntelevision-gt-sd" tvg-name="MCN Television" tvg-chno="1416" tvg-country="GT" group-title="Religioso",MCN Television
 https://eu1.servers10.com:8081/8338/index.m3u8
-#EXTINF:-1 tvg-id="minfavtv-pa-sd" tvg-name="MINFAV TV" tvg-chno="1418" tvg-country="PA" group-title="Religioso",MINFAV TV
+#EXTINF:-1 tvg-id="minfavtv-pa-sd" tvg-name="MINFAV TV" tvg-chno="1417" tvg-country="PA" group-title="Religioso",MINFAV TV
 https://mp.panelchs.com:1936/8044/8044/playlist.m3u8
-#EXTINF:-1 tvg-id="ministeriolavozdeunremanentetv-us-sd" tvg-name="Ministerio La Voz De Un Remanente TV" tvg-chno="1419" tvg-country="US" group-title="Religioso",Ministerio La Voz De Un Remanente TV
+#EXTINF:-1 tvg-id="ministeriolavozdeunremanentetv-us-sd" tvg-name="Ministerio La Voz De Un Remanente TV" tvg-chno="1418" tvg-country="US" group-title="Religioso",Ministerio La Voz De Un Remanente TV
 https://vs20.live.opencaster.com/remanente_5925b089/index.m3u8
-#EXTINF:-1 tvg-id="ministerios-ebenezer-guatemala" tvg-name="Ministerios Ebenezer (Guatemala)" tvg-chno="1420" tvg-country="ES" group-title="Religioso",Ministerios Ebenezer (Guatemala)
+#EXTINF:-1 tvg-id="ministerios-ebenezer-guatemala" tvg-name="Ministerios Ebenezer (Guatemala)" tvg-chno="1419" tvg-country="ES" group-title="Religioso",Ministerios Ebenezer (Guatemala)
 https://5e85d90130e77.streamlock.net/6018/6018/playlist.m3u8
-#EXTINF:-1 tvg-id="misioneltv-do-sd" tvg-name="Mision ELTV" tvg-chno="1421" tvg-country="DO" group-title="Religioso",Mision ELTV
+#EXTINF:-1 tvg-id="misioneltv-do-sd" tvg-name="Mision ELTV" tvg-chno="1420" tvg-country="DO" group-title="Religioso",Mision ELTV
 https://rd.tvabierta.net/live/misioneltv.m3u8
-#EXTINF:-1 tvg-id="misionvidatv-uy-sd" tvg-name="Mision Vida TV" tvg-chno="1422" tvg-country="UY" group-title="Religioso",Mision Vida TV
+#EXTINF:-1 tvg-id="misionvidatv-uy-sd" tvg-name="Mision Vida TV" tvg-chno="1421" tvg-country="UY" group-title="Religioso",Mision Vida TV
 https://5bf8041cb3fed.streamlock.net/zoefm/zoefm/playlist.m3u8
-#EXTINF:-1 tvg-id="montemaria-mx-sd" tvg-name="Monte Maria" tvg-chno="1423" tvg-country="MX" group-title="Religioso",Monte Maria
+#EXTINF:-1 tvg-id="montemaria-mx-sd" tvg-name="Monte Maria" tvg-chno="1422" tvg-country="MX" group-title="Religioso",Monte Maria
 https://5ca9af4645e15.streamlock.net/montemaria/videomontemaria/playlist.m3u8
-#EXTINF:-1 tvg-id="nandejaraneetv-py-sd" tvg-name="Nandejara Ne'e TV" tvg-chno="1424" tvg-country="PY" group-title="Religioso",Nandejara Ne'e TV
+#EXTINF:-1 tvg-id="nandejaraneetv-py-sd" tvg-name="Nandejara Ne'e TV" tvg-chno="1423" tvg-country="PY" group-title="Religioso",Nandejara Ne'e TV
 https://copacogen.desdeparaguay.net/nandejaraneetv/nandejaraneetv/playlist.m3u8?admin=tvaccion
-#EXTINF:-1 tvg-id="nuevotiempo-br-sd" tvg-name="Nuevo Tiempo" tvg-chno="1425" tvg-country="BR" group-title="Religioso",Nuevo Tiempo
+#EXTINF:-1 tvg-id="nuevotiempo-br-sd" tvg-name="Nuevo Tiempo" tvg-chno="1424" tvg-country="BR" group-title="Religioso",Nuevo Tiempo
 https://stream.live.novotempo.com/tv/smil:tvnuevotiempo.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="oasistv-co-sd" tvg-name="Oasis TV (Colombia)" tvg-chno="1426" tvg-country="CO" group-title="Religioso",Oasis TV (Colombia)
+#EXTINF:-1 tvg-id="oasistv-co-sd" tvg-name="Oasis TV (Colombia)" tvg-chno="1425" tvg-country="CO" group-title="Religioso",Oasis TV (Colombia)
 https://5e85d90130e77.streamlock.net/6020/6020/playlist.m3u8
-#EXTINF:-1 tvg-id="olammetrotv-ni-sd" tvg-name="Olam Metro TV" tvg-chno="1427" tvg-country="NI" group-title="Religioso",Olam Metro TV
+#EXTINF:-1 tvg-id="olammetrotv-ni-sd" tvg-name="Olam Metro TV" tvg-chno="1426" tvg-country="NI" group-title="Religioso",Olam Metro TV
 https://netzerstreaming.com:4433/hls/olammetro/index.m3u8
-#EXTINF:-1 tvg-id="paraisotv-pr-sd" tvg-name="Paraiso TV" tvg-chno="1428" tvg-country="PR" group-title="Religioso",Paraiso TV
+#EXTINF:-1 tvg-id="paraisotv-pr-sd" tvg-name="Paraiso TV" tvg-chno="1427" tvg-country="PR" group-title="Religioso",Paraiso TV
 https://stream.eleden.com/livewtpm/ngrp:livewtpm_all/playlist.m3u8
-#EXTINF:-1 tvg-id="penielky-gt-sd" tvg-name="Peniel K&Y" tvg-chno="1429" tvg-country="GT" group-title="Religioso",Peniel K&Y
+#EXTINF:-1 tvg-id="penielky-gt-sd" tvg-name="Peniel K&Y" tvg-chno="1428" tvg-country="GT" group-title="Religioso",Peniel K&Y
 https://s.emisoras.tv:8081/penielkids/index.m3u8
-#EXTINF:-1 tvg-id="penielmusical-gt-sd" tvg-name="Peniel Musical" tvg-chno="1430" tvg-country="GT" group-title="Religioso",Peniel Musical
+#EXTINF:-1 tvg-id="penielmusical-gt-sd" tvg-name="Peniel Musical" tvg-chno="1429" tvg-country="GT" group-title="Religioso",Peniel Musical
 https://s.emisoras.tv:8081/penielmusical/index.m3u8
-#EXTINF:-1 tvg-id="penieltvbibliaabierta-gt-sd" tvg-name="Peniel TV Biblia Abierta" tvg-chno="1431" tvg-country="GT" group-title="Religioso",Peniel TV Biblia Abierta
+#EXTINF:-1 tvg-id="penieltvbibliaabierta-gt-sd" tvg-name="Peniel TV Biblia Abierta" tvg-chno="1430" tvg-country="GT" group-title="Religioso",Peniel TV Biblia Abierta
 https://s.emisoras.tv:8081/penielbibliaabierta/index.m3u8
-#EXTINF:-1 tvg-id="presenciatelevision-gt-sd" tvg-name="Presencia Television" tvg-chno="1433" tvg-country="GT" group-title="Religioso",Presencia Television
+#EXTINF:-1 tvg-id="presenciatelevision-gt-sd" tvg-name="Presencia Television" tvg-chno="1432" tvg-country="GT" group-title="Religioso",Presencia Television
 https://stream.oursnetworktv.com/latin/remaPresencia/playlist.m3u8
-#EXTINF:-1 tvg-id="radiofiestademilagrostv-hn-sd" tvg-name="Radio Fiesta de Milagros TV" tvg-chno="1434" tvg-country="HN" group-title="Religioso",Radio Fiesta de Milagros TV
+#EXTINF:-1 tvg-id="radiofiestademilagrostv-hn-sd" tvg-name="Radio Fiesta de Milagros TV" tvg-chno="1433" tvg-country="HN" group-title="Religioso",Radio Fiesta de Milagros TV
 https://tv.webmedialive.com/fiestatv/live/playlist.m3u8
-#EXTINF:-1 tvg-id="radiohogar-pa-sd" tvg-name="Radio Hogar" tvg-chno="1435" tvg-country="PA" group-title="Religioso",Radio Hogar
+#EXTINF:-1 tvg-id="radiohogar-pa-sd" tvg-name="Radio Hogar" tvg-chno="1434" tvg-country="PA" group-title="Religioso",Radio Hogar
 https://www.streaming507.net:19360/videoradiohogar/videoradiohogar.m3u8
-#EXTINF:-1 tvg-id="radiomariatv-ar-sd" tvg-name="Radio Maria TV" tvg-chno="1436" tvg-country="AR" group-title="Religioso",Radio Maria TV
+#EXTINF:-1 tvg-id="radiomariatv-ar-sd" tvg-name="Radio Maria TV" tvg-chno="1435" tvg-country="AR" group-title="Religioso",Radio Maria TV
 https://radiomaria.inovanex.stream/stream.m3u8
-#EXTINF:-1 tvg-id="radioytelevisioncrisoldelaalegria-mx-sd" tvg-name="Radio y Television Crisol de la Alegria" tvg-chno="1437" tvg-country="MX" group-title="Religioso",Radio y Television Crisol de la Alegria
+#EXTINF:-1 tvg-id="radioytelevisioncrisoldelaalegria-mx-sd" tvg-name="Radio y Television Crisol de la Alegria" tvg-chno="1436" tvg-country="MX" group-title="Religioso",Radio y Television Crisol de la Alegria
 https://omegaingenieria.com:19360/CRisolTVdigital-Live_abr/CRisolTVdigital-Live_abr.m3u8
-#EXTINF:-1 tvg-id="radiomensajetv-us-sd" tvg-name="RadioMensaje TV" tvg-chno="1438" tvg-country="US" group-title="Religioso",RadioMensaje TV
+#EXTINF:-1 tvg-id="radiomensajetv-us-sd" tvg-name="RadioMensaje TV" tvg-chno="1437" tvg-country="US" group-title="Religioso",RadioMensaje TV
 https://eu1.servers10.com:8081/8230/index.m3u8
-#EXTINF:-1 tvg-id="rcctv-py-sd" tvg-name="RCC TV" tvg-chno="1439" tvg-country="PY" group-title="Religioso",RCC TV
+#EXTINF:-1 tvg-id="rcctv-py-sd" tvg-name="RCC TV" tvg-chno="1438" tvg-country="PY" group-title="Religioso",RCC TV
 https://copacoradios.desdeparaguay.net/rcctv/rcctv/playlist.m3u8?admin=nacion
-#EXTINF:-1 tvg-id="reformatv-ve-sd" tvg-name="Reforma TV" tvg-chno="1440" tvg-country="VE" group-title="Religioso",Reforma TV
+#EXTINF:-1 tvg-id="reformatv-ve-sd" tvg-name="Reforma TV" tvg-chno="1439" tvg-country="VE" group-title="Religioso",Reforma TV
 https://5bf8041cb3fed.streamlock.net/ReformaTV/ReformaTV/playlist.m3u8
-#EXTINF:-1 tvg-id="reforma-tv-venezuela" tvg-name="Reforma TV (Venezuela)" tvg-chno="1441" tvg-country="ES" group-title="Religioso",Reforma TV (Venezuela)
+#EXTINF:-1 tvg-id="reforma-tv-venezuela" tvg-name="Reforma TV (Venezuela)" tvg-chno="1440" tvg-country="ES" group-title="Religioso",Reforma TV (Venezuela)
 https://5bf8041cb3fed.streamlock.net/ReformaTV/ReformaTV/index.m3u8
-#EXTINF:-1 tvg-id="salvaciontv-pr-sd" tvg-name="Salvacion TV" tvg-chno="1442" tvg-country="PR" group-title="Religioso",Salvacion TV
+#EXTINF:-1 tvg-id="salvaciontv-pr-sd" tvg-name="Salvacion TV" tvg-chno="1441" tvg-country="PR" group-title="Religioso",Salvacion TV
 https://stream.eleden.com/livesalvatv/ngrp:livesalvatv_all/playlist.m3u8
-#EXTINF:-1 tvg-id="sanjosetv-cr-sd" tvg-name="San Jose TV" tvg-chno="1443" tvg-country="CR" group-title="Religioso",San Jose TV
+#EXTINF:-1 tvg-id="sanjosetv-cr-sd" tvg-name="San Jose TV" tvg-chno="1442" tvg-country="CR" group-title="Religioso",San Jose TV
 https://rtmp.info/sanjosetv/envivo/playlist.m3u8
-#EXTINF:-1 tvg-id="santeltv-co-sd" tvg-name="Santel TV" tvg-chno="1444" tvg-country="CO" group-title="Religioso",Santel TV
+#EXTINF:-1 tvg-id="santeltv-co-sd" tvg-name="Santel TV" tvg-chno="1443" tvg-country="CO" group-title="Religioso",Santel TV
 https://tv3.bitstreaming.net:3540/live/santeltvlive.m3u8
-#EXTINF:-1 tvg-id="sbntv-us-sd" tvg-name="SBN TV" tvg-chno="1445" tvg-country="US" group-title="Religioso",SBN TV
+#EXTINF:-1 tvg-id="sbntv-us-sd" tvg-name="SBN TV" tvg-chno="1444" tvg-country="US" group-title="Religioso",SBN TV
 https://watch.sardius.media/channels/Ea867F3e1F56B06/site_c5402f016A/live.m3u8
-#EXTINF:-1 tvg-id="sbntvglobal-us-sd" tvg-name="SBN TV Global" tvg-chno="1446" tvg-country="US" group-title="Religioso",SBN TV Global
+#EXTINF:-1 tvg-id="sbntvglobal-us-sd" tvg-name="SBN TV Global" tvg-chno="1445" tvg-country="US" group-title="Religioso",SBN TV Global
 https://watch.sardius.media/channels/Ea867F3e1F56B06/site_8D363D13Eb/live.m3u8
-#EXTINF:-1 tvg-id="sbntvinternational-us-sd" tvg-name="SBN TV International" tvg-chno="1447" tvg-country="US" group-title="Religioso",SBN TV International
+#EXTINF:-1 tvg-id="sbntvinternational-us-sd" tvg-name="SBN TV International" tvg-chno="1446" tvg-country="US" group-title="Religioso",SBN TV International
 https://watch.sardius.media/channels/Ea867F3e1F56B06/site_09a4778E89/live.m3u8
-#EXTINF:-1 tvg-id="shalom-in-global" tvg-name="Shalom Global" tvg-chno="1448" tvg-country="IN" group-title="Religioso",Shalom Global
+#EXTINF:-1 tvg-id="shalom-in-global" tvg-name="Shalom Global" tvg-chno="1447" tvg-country="IN" group-title="Religioso",Shalom Global
 https://d28xtgmk9tfk6b.cloudfront.net/master.m3u8
-#EXTINF:-1 tvg-id="shalomworld-us-northamerica" tvg-name="Shalom World" tvg-chno="1449" tvg-country="US" group-title="Religioso",Shalom World
+#EXTINF:-1 tvg-id="shalomworld-us-northamerica" tvg-name="Shalom World" tvg-chno="1448" tvg-country="US" group-title="Religioso",Shalom World
 https://broadcaster-1.cclouds.in/srt-2/channel2_abr/playlist.m3u8
-#EXTINF:-1 tvg-id="shalomworldprayer-us-sd" tvg-name="Shalom World Prayer" tvg-chno="1450" tvg-country="US" group-title="Religioso",Shalom World Prayer
+#EXTINF:-1 tvg-id="shalomworldprayer-us-sd" tvg-name="Shalom World Prayer" tvg-chno="1449" tvg-country="US" group-title="Religioso",Shalom World Prayer
 https://broadcaster-1.cclouds.in/srt-4/channel4_abr/playlist.m3u8
-#EXTINF:-1 tvg-id="spirit-tv-hd-en" tvg-name="Spirit TV HD (EN)" tvg-chno="1451" tvg-country="ES" group-title="Religioso",Spirit TV HD (EN)
+#EXTINF:-1 tvg-id="spirit-tv-hd-en" tvg-name="Spirit TV HD (EN)" tvg-chno="1450" tvg-country="ES" group-title="Religioso",Spirit TV HD (EN)
 https://cdnlive.myspirit.tv/LS-ATL-43240-2/index.m3u8
-#EXTINF:-1 tvg-id="suyapatv-hn-sd" tvg-name="Suyapa TV" tvg-chno="1452" tvg-country="HN" group-title="Religioso",Suyapa TV
+#EXTINF:-1 tvg-id="suyapatv-hn-sd" tvg-name="Suyapa TV" tvg-chno="1451" tvg-country="HN" group-title="Religioso",Suyapa TV
 https://streamingcws30.com/suyapa2/videosuyapa2/playlist.m3u8
-#EXTINF:-1 tvg-id="tabertv-el-salvador" tvg-name="TaberTV (El Salvador)" tvg-chno="1453" tvg-country="ES" group-title="Religioso",TaberTV (El Salvador)
+#EXTINF:-1 tvg-id="tabertv-el-salvador" tvg-name="TaberTV (El Salvador)" tvg-chno="1452" tvg-country="ES" group-title="Religioso",TaberTV (El Salvador)
 https://5fc584f3f19c9.streamlock.net/tabertv/videotabertv/playlist.m3u8
-#EXTINF:-1 tvg-id="taroteame-es-sd" tvg-name="Taroteame" tvg-chno="1454" tvg-country="ES" group-title="Religioso",Taroteame
+#EXTINF:-1 tvg-id="taroteame-es-sd" tvg-name="Taroteame" tvg-chno="1453" tvg-country="ES" group-title="Religioso",Taroteame
 https://5d2733224ac48.streamlock.net/taroteame/tarot_web/playlist.m3u8
-#EXTINF:-1 tvg-id="tbnespana-es-sd" tvg-name="TBN Espana" tvg-chno="1455" tvg-country="ES" group-title="Religioso",TBN Espana
+#EXTINF:-1 tvg-id="tbnespana-es-sd" tvg-name="TBN Espana" tvg-chno="1454" tvg-country="ES" group-title="Religioso",TBN Espana
 https://edge.xn--tbnespaa-j3a.es/LiveApp/streams/tbnlive.m3u8
-#EXTINF:-1 tvg-id="tdvtv-hn-sd" tvg-name="TDV TV" tvg-chno="1456" tvg-country="HN" group-title="Religioso",TDV TV
+#EXTINF:-1 tvg-id="tdvtv-hn-sd" tvg-name="TDV TV" tvg-chno="1455" tvg-country="HN" group-title="Religioso",TDV TV
 https://stream.oursnetworktv.com/latin/TierraDeValientes/playlist.m3u8
-#EXTINF:-1 tvg-id="tele-amiga-colombia" tvg-name="Tele Amiga (Colombia)" tvg-chno="1457" tvg-country="ES" group-title="Religioso",Tele Amiga (Colombia)
+#EXTINF:-1 tvg-id="tele-amiga-colombia" tvg-name="Tele Amiga (Colombia)" tvg-chno="1456" tvg-country="ES" group-title="Religioso",Tele Amiga (Colombia)
 https://liveingesta118.cdnmedia.tv/teleamigatvlive/smil:dvrlive.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="televid-co-sd" tvg-name="Tele Vid" tvg-chno="1458" tvg-country="CO" group-title="Religioso",Tele Vid
+#EXTINF:-1 tvg-id="televid-co-sd" tvg-name="Tele Vid" tvg-chno="1457" tvg-country="CO" group-title="Religioso",Tele Vid
 https://liveingesta118.cdnmedia.tv/televidtvlive/smil:rtmp01.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="telebendicion-do-sd" tvg-name="TeleBendicion" tvg-chno="1459" tvg-country="DO" group-title="Religioso",TeleBendicion
+#EXTINF:-1 tvg-id="telebendicion-do-sd" tvg-name="TeleBendicion" tvg-chno="1458" tvg-country="DO" group-title="Religioso",TeleBendicion
 https://ss2.tvrdomi.com:1936/telebendicion/telebendicion/playlist.m3u8
-#EXTINF:-1 tvg-id="telefides-no-24-7-costa-rica" tvg-name="Telefides [No 24/7](Costa Rica)" tvg-chno="1460" tvg-country="ES" group-title="Religioso",Telefides [No 24/7](Costa Rica)
+#EXTINF:-1 tvg-id="telefides-no-24-7-costa-rica" tvg-name="Telefides [No 24/7](Costa Rica)" tvg-chno="1459" tvg-country="ES" group-title="Religioso",Telefides [No 24/7](Costa Rica)
 https://s2.cwebtv.net:4433/telefides/telefides/playlist.m3u8
-#EXTINF:-1 tvg-id="televida-do-sd" tvg-name="Televida (Dominican Republic)" tvg-chno="1461" tvg-country="DO" group-title="Religioso",Televida (Dominican Republic)
+#EXTINF:-1 tvg-id="televida-do-sd" tvg-name="Televida (Dominican Republic)" tvg-chno="1460" tvg-country="DO" group-title="Religioso",Televida (Dominican Republic)
 https://cnn.hostlagarto.com/televida/playlist.m3u8
-#EXTINF:-1 tvg-id="televisionconsciente-es-sd" tvg-name="Television Consciente" tvg-chno="1462" tvg-country="ES" group-title="Religioso",Television Consciente
+#EXTINF:-1 tvg-id="televisionconsciente-es-sd" tvg-name="Television Consciente" tvg-chno="1461" tvg-country="ES" group-title="Religioso",Television Consciente
 https://cdn318.fractalmedia.es/318/live/hls/tvc/master.m3u8
-#EXTINF:-1 tvg-id="tevevidanetwork-us-sd" tvg-name="Teve Vida Network" tvg-chno="1463" tvg-country="US" group-title="Religioso",Teve Vida Network
+#EXTINF:-1 tvg-id="tevevidanetwork-us-sd" tvg-name="Teve Vida Network" tvg-chno="1462" tvg-country="US" group-title="Religioso",Teve Vida Network
 https://5bf8041cb3fed.streamlock.net/Tevevida/Tevevida/.m3u8
-#EXTINF:-1 tvg-id="trece-es-sd" tvg-name="Trece (Spain)" tvg-chno="1464" tvg-country="ES" group-title="Religioso",Trece (Spain)
+#EXTINF:-1 tvg-id="trece-es-sd" tvg-name="Trece (Spain)" tvg-chno="1463" tvg-country="ES" group-title="Religioso",Trece (Spain)
 https://play.cdn.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/live.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="triunfo969fm-pr-sd" tvg-name="Triunfo 96.9 FM" tvg-chno="1465" tvg-country="PR" group-title="Religioso",Triunfo 96.9 FM
+#EXTINF:-1 tvg-id="triunfo969fm-pr-sd" tvg-name="Triunfo 96.9 FM" tvg-chno="1464" tvg-country="PR" group-title="Religioso",Triunfo 96.9 FM
 https://59825a54e4454.streamlock.net:8443/william652/william652/playlist.m3u8
-#EXTINF:-1 tvg-id="tuuniversotv-co-sd" tvg-name="Tu Universo TV" tvg-chno="1466" tvg-country="CO" group-title="Religioso",Tu Universo TV
+#EXTINF:-1 tvg-id="tuuniversotv-co-sd" tvg-name="Tu Universo TV" tvg-chno="1465" tvg-country="CO" group-title="Religioso",Tu Universo TV
 https://5bf8041cb3fed.streamlock.net/TUUNIVERSOTV/TUUNIVERSOTV/playlist.m3u8
-#EXTINF:-1 tvg-id="tv45-ni-sd" tvg-name="TV 45" tvg-chno="1467" tvg-country="NI" group-title="Religioso",TV 45
+#EXTINF:-1 tvg-id="tv45-ni-sd" tvg-name="TV 45" tvg-chno="1466" tvg-country="NI" group-title="Religioso",TV 45
 https://hdbox.chunklistv.com/live?stream=3abn-nicaragua
-#EXTINF:-1 tvg-id="tvcret-sv-sd" tvg-name="TV CRET" tvg-chno="1468" tvg-country="SV" group-title="Religioso",TV CRET
+#EXTINF:-1 tvg-id="tvcret-sv-sd" tvg-name="TV CRET" tvg-chno="1467" tvg-country="SV" group-title="Religioso",TV CRET
 https://radiocret.net:8082/hls/tvcret.m3u8
-#EXTINF:-1 tvg-id="tvestrella-hn-sd" tvg-name="TV Estrella" tvg-chno="1469" tvg-country="HN" group-title="Religioso",TV Estrella
+#EXTINF:-1 tvg-id="tvestrella-hn-sd" tvg-name="TV Estrella" tvg-chno="1468" tvg-country="HN" group-title="Religioso",TV Estrella
 https://s.emisoras.tv:8081/tve/index.m3u8
-#EXTINF:-1 tvg-id="tvgetsemani-sv-sd" tvg-name="TV Getsemani" tvg-chno="1470" tvg-country="SV" group-title="Religioso",TV Getsemani
+#EXTINF:-1 tvg-id="tvgetsemani-sv-sd" tvg-name="TV Getsemani" tvg-chno="1469" tvg-country="SV" group-title="Religioso",TV Getsemani
 https://serversv.com:8080/hls/tvgetsemani.m3u8
-#EXTINF:-1 tvg-id="tvleondejuda-sv-sd" tvg-name="TV Leon de Juda" tvg-chno="1471" tvg-country="SV" group-title="Religioso",TV Leon de Juda
+#EXTINF:-1 tvg-id="tvleondejuda-sv-sd" tvg-name="TV Leon de Juda" tvg-chno="1470" tvg-country="SV" group-title="Religioso",TV Leon de Juda
 https://6110f70ea8d0e.streamlock.net/1838/1838/playlist.m3u8
-#EXTINF:-1 tvg-id="tvluz-do-sd" tvg-name="TV Luz" tvg-chno="1472" tvg-country="DO" group-title="Religioso",TV Luz
+#EXTINF:-1 tvg-id="tvluz-do-sd" tvg-name="TV Luz" tvg-chno="1471" tvg-country="DO" group-title="Religioso",TV Luz
 https://host.streamingnation.live/p/3780/live/tvluzlive.m3u8
-#EXTINF:-1 tvg-id="tvmanaargentina-ar-sd" tvg-name="TV Mana Argentina" tvg-chno="1473" tvg-country="AR" group-title="Religioso",TV Mana Argentina
+#EXTINF:-1 tvg-id="tvmanaargentina-ar-sd" tvg-name="TV Mana Argentina" tvg-chno="1472" tvg-country="AR" group-title="Religioso",TV Mana Argentina
 https://w2.manasat.com/tvmana-ar/smil:tvmana-ar.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="tvmanaespanhol-pt-sd" tvg-name="TV Mana Espanhol" tvg-chno="1474" tvg-country="PT" group-title="Religioso",TV Mana Espanhol
+#EXTINF:-1 tvg-id="tvmanaespanhol-pt-sd" tvg-name="TV Mana Espanhol" tvg-chno="1473" tvg-country="PT" group-title="Religioso",TV Mana Espanhol
 https://w1.manasat.com/tvmana-espanol/smil:tvmana-espanol.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="tvmaria-gt-sd" tvg-name="TV Maria" tvg-chno="1475" tvg-country="GT" group-title="Religioso",TV Maria
+#EXTINF:-1 tvg-id="tvmaria-gt-sd" tvg-name="TV Maria" tvg-chno="1474" tvg-country="GT" group-title="Religioso",TV Maria
 https://streamtv.intervenhosting.net:3155/live/juandelacruz3live.m3u8
-#EXTINF:-1 tvg-id="tvgracia-co-sd" tvg-name="TVGracia" tvg-chno="1476" tvg-country="CO" group-title="Religioso",TVGracia
+#EXTINF:-1 tvg-id="tvgracia-co-sd" tvg-name="TVGracia" tvg-chno="1475" tvg-country="CO" group-title="Religioso",TVGracia
 https://vs20.live.opencaster.com/diego_57244803/index.m3u8
-#EXTINF:-1 tvg-id="umvirtual-montemorelos-mexico" tvg-name="UMVirtual Montemorelos (México)" tvg-chno="1477" tvg-country="ES" group-title="Religioso",UMVirtual Montemorelos (México)
+#EXTINF:-1 tvg-id="umvirtual-montemorelos-mexico" tvg-name="UMVirtual Montemorelos (México)" tvg-chno="1476" tvg-country="ES" group-title="Religioso",UMVirtual Montemorelos (México)
 https://60417ddeaf0d9.streamlock.net/montemorelos/videomontemorelos/playlist.m3u8
-#EXTINF:-1 tvg-id="unifetv-ar-sd" tvg-name="Unife TV" tvg-chno="1478" tvg-country="AR" group-title="Religioso",Unife TV
+#EXTINF:-1 tvg-id="unifetv-ar-sd" tvg-name="Unife TV" tvg-chno="1477" tvg-country="AR" group-title="Religioso",Unife TV
 https://cdn.mycloudstream.io/hls/live/broadcast/xundwjvp/index.m3u8
-#EXTINF:-1 tvg-id="vc-online-chile" tvg-name="VC Online (Chile)" tvg-chno="1479" tvg-country="ES" group-title="Religioso",VC Online (Chile)
+#EXTINF:-1 tvg-id="vc-online-chile" tvg-name="VC Online (Chile)" tvg-chno="1478" tvg-country="ES" group-title="Religioso",VC Online (Chile)
 https://panel.tvstream.cl:1936/8024/8024/playlist.m3u8
-#EXTINF:-1 tvg-id="vida-al-maximo-tv" tvg-name="Vida al Maximo TV" tvg-chno="1480" tvg-country="ES" group-title="Religioso",Vida al Maximo TV
+#EXTINF:-1 tvg-id="vida-al-maximo-tv" tvg-name="Vida al Maximo TV" tvg-chno="1479" tvg-country="ES" group-title="Religioso",Vida al Maximo TV
 https://lbgo.bozztv.com/ssh101/ssh101/vidaalmaximo11/playlist.m3u8
-#EXTINF:-1 tvg-id="vidamejortv-us-sd" tvg-name="Vida Mejor TV" tvg-chno="1481" tvg-country="US" group-title="Religioso",Vida Mejor TV
+#EXTINF:-1 tvg-id="vidamejortv-us-sd" tvg-name="Vida Mejor TV" tvg-chno="1480" tvg-country="US" group-title="Religioso",Vida Mejor TV
 https://tgn.bozztv.com/betterlife/bettervida/bettervida/index.m3u8
-#EXTINF:-1 tvg-id="vision-pe-sd" tvg-name="Vision (Peru)" tvg-chno="1482" tvg-country="PE" group-title="Religioso",Vision (Peru)
+#EXTINF:-1 tvg-id="vision-pe-sd" tvg-name="Vision (Peru)" tvg-chno="1481" tvg-country="PE" group-title="Religioso",Vision (Peru)
 https://lbgo.bozztv.com/ssh101/ssh101/visiononline/playlist.m3u8
-#EXTINF:-1 tvg-id="visionlatina-pa-sd" tvg-name="Vision Latina" tvg-chno="1483" tvg-country="PA" group-title="Religioso",Vision Latina
+#EXTINF:-1 tvg-id="visionlatina-pa-sd" tvg-name="Vision Latina" tvg-chno="1482" tvg-country="PA" group-title="Religioso",Vision Latina
 https://cdn-cloudfront.us-east-1.prod.ingest.aws-infra.dacast.com/live/64917431-2f51-0a46-d4d0-04d111b2393f/master.m3u8
-#EXTINF:-1 tvg-id="vive-musica-hd-en" tvg-name="Vive Musica HD (EN)" tvg-chno="1484" tvg-country="ES" group-title="Religioso",Vive Musica HD (EN)
+#EXTINF:-1 tvg-id="vive-musica-hd-en" tvg-name="Vive Musica HD (EN)" tvg-chno="1483" tvg-country="ES" group-title="Religioso",Vive Musica HD (EN)
 https://183.bozztv.com/giatv/giatv-vivemusica/vivemusica/playlist.m3u8
-#EXTINF:-1 tvg-id="vtvcanal17-bo-sd" tvg-name="VTV Canal 17" tvg-chno="1485" tvg-country="BO" group-title="Religioso",VTV Canal 17
+#EXTINF:-1 tvg-id="vtvcanal17-bo-sd" tvg-name="VTV Canal 17" tvg-chno="1484" tvg-country="BO" group-title="Religioso",VTV Canal 17
 https://solo.disfrutaenlared.com:1936/vtvcanal/vtvcanal/playlist.m3u8
-#EXTINF:-1 tvg-id="wecn-pr-sd" tvg-name="WECN" tvg-chno="1486" tvg-country="PR" group-title="Religioso",WECN
+#EXTINF:-1 tvg-id="wecn-pr-sd" tvg-name="WECN" tvg-chno="1485" tvg-country="PR" group-title="Religioso",WECN
 https://59825a54e4454.streamlock.net:8443/pastorairisn394/pastorairisn394/chunklist_w239411719.m3u8
-#EXTINF:-1 tvg-id="welu81-pr-hd" tvg-name="WELU 8.1" tvg-chno="1487" tvg-country="PR" group-title="Religioso",WELU 8.1
+#EXTINF:-1 tvg-id="welu81-pr-hd" tvg-name="WELU 8.1" tvg-chno="1486" tvg-country="PR" group-title="Religioso",WELU 8.1
 https://video1.getstreamhosting.com:1936/8226/8226/playlist.m3u8
-#EXTINF:-1 tvg-id="zoe-vision-no-24-7-puerto-rico" tvg-name="Zoe Visión [No 24/7](Puerto Rico)" tvg-chno="1488" tvg-country="ES" group-title="Religioso",Zoe Visión [No 24/7](Puerto Rico)
+#EXTINF:-1 tvg-id="zoe-vision-no-24-7-puerto-rico" tvg-name="Zoe Visión [No 24/7](Puerto Rico)" tvg-chno="1487" tvg-country="ES" group-title="Religioso",Zoe Visión [No 24/7](Puerto Rico)
 https://tvdatta.com:3508/live/zoevisiontvlive.m3u8

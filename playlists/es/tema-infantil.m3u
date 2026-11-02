@@ -1,61 +1,61 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="nickjrlatinamerica-us-panregional" tvg-name="Nick Jr. Latin America" tvg-chno="464" tvg-country="US" group-title="Infantil",Nick Jr. Latin America
+#EXTINF:-1 tvg-id="nickjrlatinamerica-us-panregional" tvg-name="Nick Jr. Latin America" tvg-chno="462" tvg-country="US" group-title="Infantil",Nick Jr. Latin America
 https://streaming.onnethn.com/NICK_JR/playlist.m3u8
-#EXTINF:-1 tvg-id="avatarlaleyendadeaang-us-latam" tvg-name="Avatar: La Leyenda de Aang" tvg-chno="469" tvg-country="US" group-title="Infantil",Avatar: La Leyenda de Aang
+#EXTINF:-1 tvg-id="avatarlaleyendadeaang-us-latam" tvg-name="Avatar: La Leyenda de Aang" tvg-chno="467" tvg-country="US" group-title="Infantil",Avatar: La Leyenda de Aang
 https://jmp2.uk/plu-6759ee82bd523200083b4f0f.m3u8
-#EXTINF:-1 tvg-id="babyfirst-us-us" tvg-name="BabyFirst" tvg-chno="470" tvg-country="US" group-title="Infantil",BabyFirst
+#EXTINF:-1 tvg-id="babyfirst-us-us" tvg-name="BabyFirst" tvg-chno="468" tvg-country="US" group-title="Infantil",BabyFirst
 https://cdn.fast.jwp.services/v1/channel/1_jB6940Ei_TvhvIHDL/manifest.m3u8
-#EXTINF:-1 tvg-id="bobesponja-de-es" tvg-name="Bob Esponja" tvg-chno="471" tvg-country="DE" group-title="Infantil",Bob Esponja
+#EXTINF:-1 tvg-id="bobesponja-de-es" tvg-name="Bob Esponja" tvg-chno="469" tvg-country="DE" group-title="Infantil",Bob Esponja
 https://jmp2.uk/plu-5f1aca0b4e448e00075e7c5e.m3u8
-#EXTINF:-1 tvg-id="bobesponjapantalonescuadrados-us-latam" tvg-name="Bob Esponja Pantalones Cuadrados" tvg-chno="472" tvg-country="US" group-title="Infantil",Bob Esponja Pantalones Cuadrados
+#EXTINF:-1 tvg-id="bobesponjapantalonescuadrados-us-latam" tvg-name="Bob Esponja Pantalones Cuadrados" tvg-chno="470" tvg-country="US" group-title="Infantil",Bob Esponja Pantalones Cuadrados
 https://jmp2.uk/plu-6254598f5083f800076d8563.m3u8
-#EXTINF:-1 tvg-id="chinolatv-do-sd" tvg-name="Chinola TV" tvg-chno="473" tvg-country="DO" group-title="Infantil",Chinola TV
+#EXTINF:-1 tvg-id="chinolatv-do-sd" tvg-name="Chinola TV" tvg-chno="471" tvg-country="DO" group-title="Infantil",Chinola TV
 https://tv.wracanal10.com:3300/live/chinolatvlive.m3u8
-#EXTINF:-1 tvg-id="clan-es-sd" tvg-name="Clan" tvg-chno="474" tvg-country="ES" group-title="Infantil",Clan
+#EXTINF:-1 tvg-id="clan-es-sd" tvg-name="Clan" tvg-chno="472" tvg-country="ES" group-title="Infantil",Clan
 https://lge-lgla2.otteravision.com/lge/lgcla/lgcla.m3u8
-#EXTINF:-1 tvg-id="claninternacional-es-sd" tvg-name="Clan Internacional Americas" tvg-chno="475" tvg-country="ES" group-title="Infantil",Clan Internacional Americas
+#EXTINF:-1 tvg-id="claninternacional-es-sd" tvg-name="Clan Internacional Americas" tvg-chno="473" tvg-country="ES" group-title="Infantil",Clan Internacional Americas
 https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/clan_int_main_1080.m3u8
-#EXTINF:-1 tvg-id="diostevekids-hn-sd" tvg-name="Dios Te Ve Kids" tvg-chno="476" tvg-country="HN" group-title="Infantil",Dios Te Ve Kids
+#EXTINF:-1 tvg-id="diostevekids-hn-sd" tvg-name="Dios Te Ve Kids" tvg-chno="474" tvg-country="HN" group-title="Infantil",Dios Te Ve Kids
 https://s.emisoras.tv:8081/diostevekids/index.m3u8
-#EXTINF:-1 tvg-id="dreamworkschannellatinamerica-us-panregional" tvg-name="DreamWorks Channel Latin America" tvg-chno="477" tvg-country="US" group-title="Infantil",DreamWorks Channel Latin America
+#EXTINF:-1 tvg-id="dreamworkschannellatinamerica-us-panregional" tvg-name="DreamWorks Channel Latin America" tvg-chno="475" tvg-country="US" group-title="Infantil",DreamWorks Channel Latin America
 https://xyktmobile00.s.gy/PPV913_DREAMWO
-#EXTINF:-1 tvg-id="elchavotv-mx-hd" tvg-name="El Chavo TV" tvg-chno="478" tvg-country="MX" group-title="Infantil",El Chavo TV
+#EXTINF:-1 tvg-id="elchavotv-mx-hd" tvg-name="El Chavo TV" tvg-chno="476" tvg-country="MX" group-title="Infantil",El Chavo TV
 https://live20.bozztv.com/giatvplayout7/giatv-211465/playlist.m3u8
-#EXTINF:-1 tvg-id="el-reino-infantil-2" tvg-name="El Reino Infantil" tvg-chno="479" tvg-country="US" group-title="Infantil",El Reino Infantil
+#EXTINF:-1 tvg-id="el-reino-infantil-2" tvg-name="El Reino Infantil" tvg-chno="477" tvg-country="US" group-title="Infantil",El Reino Infantil
 https://jmp2.uk/plu-66fedd65d7de140008dccd66.m3u8
-#EXTINF:-1 tvg-id="eureka-co-sd" tvg-name="Eureka" tvg-chno="480" tvg-country="CO" group-title="Infantil",Eureka
+#EXTINF:-1 tvg-id="eureka-co-sd" tvg-name="Eureka" tvg-chno="478" tvg-country="CO" group-title="Infantil",Eureka
 https://mdstrm.com/live-stream-playlist/6952e02d19eabace52e2885f.m3u8
-#EXTINF:-1 tvg-id="heyarnold-us-latam" tvg-name="Hey Arnold!" tvg-chno="481" tvg-country="US" group-title="Infantil",Hey Arnold!
+#EXTINF:-1 tvg-id="heyarnold-us-latam" tvg-name="Hey Arnold!" tvg-chno="479" tvg-country="US" group-title="Infantil",Hey Arnold!
 https://jmp2.uk/plu-66c79221b1a34600087e264d.m3u8
-#EXTINF:-1 tvg-id="logostvkids-es-sd" tvg-name="Logos TV Kids" tvg-chno="482" tvg-country="ES" group-title="Infantil",Logos TV Kids
+#EXTINF:-1 tvg-id="logostvkids-es-sd" tvg-name="Logos TV Kids" tvg-chno="480" tvg-country="ES" group-title="Infantil",Logos TV Kids
 https://streamer1.streamhost.org/salive/logoskidsH/playlist.m3u8
-#EXTINF:-1 tvg-id="nickenespanol-us" tvg-name="Nick en Espanol" tvg-chno="483" tvg-country="MX" group-title="Infantil",Nick en Espanol
+#EXTINF:-1 tvg-id="nickenespanol-us" tvg-name="Nick en Espanol" tvg-chno="481" tvg-country="MX" group-title="Infantil",Nick en Espanol
 https://jmp2.uk/plu-5d8d08395f39465da6fb3ec4.m3u8
-#EXTINF:-1 tvg-id="nickjrclub-us-latam" tvg-name="Nick Jr. Club (United States) LatAm" tvg-chno="484" tvg-country="US" group-title="Infantil",Nick Jr. Club (United States) LatAm
+#EXTINF:-1 tvg-id="nickjrclub-us-latam" tvg-name="Nick Jr. Club (United States) LatAm" tvg-chno="482" tvg-country="US" group-title="Infantil",Nick Jr. Club (United States) LatAm
 https://jmp2.uk/plu-5ddd7cb2cbb9010009b4fe32.m3u8
-#EXTINF:-1 tvg-id="nickelodeonclasico-us-latam" tvg-name="Nickelodeon Clasico" tvg-chno="485" tvg-country="US" group-title="Infantil",Nickelodeon Clasico
+#EXTINF:-1 tvg-id="nickelodeonclasico-us-latam" tvg-name="Nickelodeon Clasico" tvg-chno="483" tvg-country="US" group-title="Infantil",Nickelodeon Clasico
 https://jmp2.uk/plu-6824cda00101510f9eeaa011.m3u8
-#EXTINF:-1 tvg-id="nickelodeonteen-us-latam" tvg-name="Nickelodeon Teen LatAm" tvg-chno="486" tvg-country="US" group-title="Infantil",Nickelodeon Teen LatAm
+#EXTINF:-1 tvg-id="nickelodeonteen-us-latam" tvg-name="Nickelodeon Teen LatAm" tvg-chno="484" tvg-country="US" group-title="Infantil",Nickelodeon Teen LatAm
 https://jmp2.uk/plu-5fab09a8749b1a00077d35d2.m3u8
-#EXTINF:-1 tvg-id="nickelodeontoons-us-latam" tvg-name="Nickelodeon Toons LatAm" tvg-chno="487" tvg-country="US" group-title="Infantil",Nickelodeon Toons LatAm
+#EXTINF:-1 tvg-id="nickelodeontoons-us-latam" tvg-name="Nickelodeon Toons LatAm" tvg-chno="485" tvg-country="US" group-title="Infantil",Nickelodeon Toons LatAm
 https://jmp2.uk/plu-645952687cb4b100084ed52e.m3u8
-#EXTINF:-1 tvg-id="pequestv-pe-sd" tvg-name="Peques TV" tvg-chno="488" tvg-country="PE" group-title="Infantil",Peques TV
+#EXTINF:-1 tvg-id="pequestv-pe-sd" tvg-name="Peques TV" tvg-chno="486" tvg-country="PE" group-title="Infantil",Peques TV
 https://live-evg7.tv360.bitel.com.pe/bitel/pequestv/playlist.m3u8
-#EXTINF:-1 tvg-id="plutotvjunior-us-latam" tvg-name="Pluto TV Junior LatAm" tvg-chno="489" tvg-country="US" group-title="Infantil",Pluto TV Junior LatAm
+#EXTINF:-1 tvg-id="plutotvjunior-us-latam" tvg-name="Pluto TV Junior LatAm" tvg-chno="487" tvg-country="US" group-title="Infantil",Pluto TV Junior LatAm
 https://jmp2.uk/plu-5dcde2ac4bc6c500094ab45b.m3u8
-#EXTINF:-1 tvg-id="plutotvkidsclassics-de-es" tvg-name="Pluto TV Kids Classics" tvg-chno="490" tvg-country="DE" group-title="Infantil",Pluto TV Kids Classics
+#EXTINF:-1 tvg-id="plutotvkidsclassics-de-es" tvg-name="Pluto TV Kids Classics" tvg-chno="488" tvg-country="DE" group-title="Infantil",Pluto TV Kids Classics
 https://jmp2.uk/plu-609e7e423e9173000706a681.m3u8
-#EXTINF:-1 tvg-id="plutotvkids-us-latam" tvg-name="Pluto TV Kids LatAm" tvg-chno="491" tvg-country="US" group-title="Infantil",Pluto TV Kids LatAm
+#EXTINF:-1 tvg-id="plutotvkids-us-latam" tvg-name="Pluto TV Kids LatAm" tvg-chno="489" tvg-country="US" group-title="Infantil",Pluto TV Kids LatAm
 https://jmp2.uk/plu-5dd6dae8ce788b0009eaf77b.m3u8
-#EXTINF:-1 tvg-id="plutotvteen-de-es" tvg-name="Pluto TV Teen" tvg-chno="492" tvg-country="DE" group-title="Infantil",Pluto TV Teen
+#EXTINF:-1 tvg-id="plutotvteen-de-es" tvg-name="Pluto TV Teen" tvg-chno="490" tvg-country="DE" group-title="Infantil",Pluto TV Teen
 https://jmp2.uk/plu-63eb944dc111bc0008fe7021.m3u8
-#EXTINF:-1 tvg-id="rugrats-de-es" tvg-name="Rugrats (Germany)" tvg-chno="493" tvg-country="DE" group-title="Infantil",Rugrats (Germany)
+#EXTINF:-1 tvg-id="rugrats-de-es" tvg-name="Rugrats (Germany)" tvg-chno="491" tvg-country="DE" group-title="Infantil",Rugrats (Germany)
 https://jmp2.uk/plu-610c09219fc0430007a3fce6.m3u8
-#EXTINF:-1 tvg-id="rugrats-us-latam" tvg-name="Rugrats (United States)" tvg-chno="494" tvg-country="US" group-title="Infantil",Rugrats (United States)
+#EXTINF:-1 tvg-id="rugrats-us-latam" tvg-name="Rugrats (United States)" tvg-chno="492" tvg-country="US" group-title="Infantil",Rugrats (United States)
 https://jmp2.uk/plu-5ea7215005d66d0007e8128a.m3u8
-#EXTINF:-1 tvg-id="tomandjerry-do-hd" tvg-name="Tom And Jerry" tvg-chno="495" tvg-country="DO" group-title="Infantil",Tom And Jerry
+#EXTINF:-1 tvg-id="tomandjerry-do-hd" tvg-name="Tom And Jerry" tvg-chno="493" tvg-country="DO" group-title="Infantil",Tom And Jerry
 https://live20.bozztv.com/giatvplayout7/giatv-208314/playlist.m3u8
-#EXTINF:-1 tvg-id="zoomoo-sg-sd" tvg-name="ZooMoo" tvg-chno="496" tvg-country="SG" group-title="Infantil",ZooMoo
+#EXTINF:-1 tvg-id="zoomoo-sg-sd" tvg-name="ZooMoo" tvg-chno="494" tvg-country="SG" group-title="Infantil",ZooMoo
 https://zoomoo-samsungau.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="clan-rtve" tvg-name="Clan RTVE" tvg-chno="519" tvg-country="ES" group-title="Infantil",Clan RTVE
+#EXTINF:-1 tvg-id="clan-rtve" tvg-name="Clan RTVE" tvg-chno="517" tvg-country="ES" group-title="Infantil",Clan RTVE
 https://rtvelivestream.rtve.es/rtvesec/clan/clan_main.m3u8

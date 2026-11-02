@@ -1,3 +1,3 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="weatherspy-mx-sd" tvg-name="WeatherSpy (Mexico)" tvg-chno="2018" tvg-country="MX" group-title="Clima",WeatherSpy (Mexico)
+#EXTINF:-1 tvg-id="weatherspy-mx-sd" tvg-name="WeatherSpy (Mexico)" tvg-chno="2017" tvg-country="MX" group-title="Clima",WeatherSpy (Mexico)
 https://jukin-weatherspy-2-mx.samsung.wurl.tv/playlist.m3u8
