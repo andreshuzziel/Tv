@@ -1,37 +1,37 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="archivosforenses-us-spain" tvg-name="Archivos Forenses" tvg-chno="660" tvg-country="US" group-title="Documentales",Archivos Forenses
+#EXTINF:-1 tvg-id="archivosforenses-us-spain" tvg-name="Archivos Forenses" tvg-chno="520" tvg-country="US" group-title="Documentales",Archivos Forenses
 https://jmp2.uk/plu-5f984f4a09e92d0007d74647.m3u8
-#EXTINF:-1 tvg-id="cgtndocumentary-cn-sd" tvg-name="CGTN Documentary" tvg-chno="661" tvg-country="CN" group-title="Documentales",CGTN Documentary
+#EXTINF:-1 tvg-id="cgtndocumentary-cn-sd" tvg-name="CGTN Documentary" tvg-chno="521" tvg-country="CN" group-title="Documentales",CGTN Documentary
 https://amg00405-rakutentv-cgtndocumentary-rakuten-0ql8j.amagi.tv/master.m3u8
-#EXTINF:-1 tvg-id="crimenhistoria-es-sd" tvg-name="Crimen & Historia" tvg-chno="662" tvg-country="ES" group-title="Documentales",Crimen & Historia
+#EXTINF:-1 tvg-id="crimenhistoria-es-sd" tvg-name="Crimen & Historia" tvg-chno="522" tvg-country="ES" group-title="Documentales",Crimen & Historia
 https://jmp2.uk/plu-64ddcbb14c5ed80008fad416.m3u8
-#EXTINF:-1 tvg-id="docubox-nl-sd" tvg-name="DocuBox" tvg-chno="663" tvg-country="NL" group-title="Documentales",DocuBox
+#EXTINF:-1 tvg-id="docubox-nl-sd" tvg-name="DocuBox" tvg-chno="523" tvg-country="NL" group-title="Documentales",DocuBox
 https://dash3.antik.sk/live/test_docubox_medium_atk/playlist.m3u8
-#EXTINF:-1 tvg-id="ecovision-do-sd" tvg-name="Ecovision" tvg-chno="664" tvg-country="DO" group-title="Documentales",Ecovision
+#EXTINF:-1 tvg-id="ecovision-do-sd" tvg-name="Ecovision" tvg-chno="524" tvg-country="DO" group-title="Documentales",Ecovision
 https://streaming.grupomediosdelnorte.com:19360/ecovision/ecovision.m3u8
-#EXTINF:-1 tvg-id="forensicfiles-us-sd" tvg-name="Forensic Files" tvg-chno="665" tvg-country="US" group-title="Documentales",Forensic Files
+#EXTINF:-1 tvg-id="forensicfiles-us-sd" tvg-name="Forensic Files" tvg-chno="525" tvg-country="US" group-title="Documentales",Forensic Files
 https://jmp2.uk/plu-62e92392a3e6270007f562e8.m3u8
-#EXTINF:-1 tvg-id="historiayvida-es-sd" tvg-name="Historia Y Vida" tvg-chno="666" tvg-country="ES" group-title="Documentales",Historia Y Vida
+#EXTINF:-1 tvg-id="historiayvida-es-sd" tvg-name="Historia Y Vida" tvg-chno="526" tvg-country="ES" group-title="Documentales",Historia Y Vida
 https://jmp2.uk/plu-67517f923a61d40008c451f0.m3u8
-#EXTINF:-1 tvg-id="lovetheplanet-es-es" tvg-name="Love The Planet ES" tvg-chno="667" tvg-country="ES" group-title="Documentales",Love The Planet ES
+#EXTINF:-1 tvg-id="lovetheplanet-es-es" tvg-name="Love The Planet ES" tvg-chno="527" tvg-country="ES" group-title="Documentales",Love The Planet ES
 https://amg01821-lovetv-amg01821c9-rlaxx-gb-10458.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="naturetime-ca-sd" tvg-name="NatureTime" tvg-chno="668" tvg-country="CA" group-title="Documentales",NatureTime
+#EXTINF:-1 tvg-id="naturetime-ca-sd" tvg-name="NatureTime" tvg-chno="528" tvg-country="CA" group-title="Documentales",NatureTime
 https://bamusa-naturetime-emea-eng-rakuten.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="naturetime-ca-es" tvg-name="NatureTime ES" tvg-chno="669" tvg-country="CA" group-title="Documentales",NatureTime ES
+#EXTINF:-1 tvg-id="naturetime-ca-es" tvg-name="NatureTime ES" tvg-chno="529" tvg-country="CA" group-title="Documentales",NatureTime ES
 https://shls-live-ak.akamaized.net/out/v1/b06a89a463764d3688cda337d40dc5bf/index.m3u8
-#EXTINF:-1 tvg-id="naturetime-ca-latam" tvg-name="NatureTime LATAM" tvg-chno="670" tvg-country="CA" group-title="Documentales",NatureTime LATAM
+#EXTINF:-1 tvg-id="naturetime-ca-latam" tvg-name="NatureTime LATAM" tvg-chno="530" tvg-country="CA" group-title="Documentales",NatureTime LATAM
 https://jmp2.uk/plu-681ba2729624e6275efe0044.m3u8
-#EXTINF:-1 tvg-id="plutotvanimales-de-es" tvg-name="Pluto TV Animales" tvg-chno="671" tvg-country="DE" group-title="Documentales",Pluto TV Animales
+#EXTINF:-1 tvg-id="plutotvanimales-de-es" tvg-name="Pluto TV Animales" tvg-chno="531" tvg-country="DE" group-title="Documentales",Pluto TV Animales
 https://jmp2.uk/plu-600ae6a78d801e0007117d21.m3u8
-#EXTINF:-1 tvg-id="plutotvhistoria-de-es" tvg-name="Pluto TV Historia (Germany)" tvg-chno="672" tvg-country="DE" group-title="Documentales",Pluto TV Historia (Germany)
+#EXTINF:-1 tvg-id="plutotvhistoria-de-es" tvg-name="Pluto TV Historia (Germany)" tvg-chno="532" tvg-country="DE" group-title="Documentales",Pluto TV Historia (Germany)
 https://jmp2.uk/plu-61cd7b49543066000713b620.m3u8
-#EXTINF:-1 tvg-id="plutotvnaturaleza-us-latam" tvg-name="Pluto TV Naturaleza" tvg-chno="673" tvg-country="US" group-title="Documentales",Pluto TV Naturaleza
+#EXTINF:-1 tvg-id="plutotvnaturaleza-us-latam" tvg-name="Pluto TV Naturaleza" tvg-chno="533" tvg-country="US" group-title="Documentales",Pluto TV Naturaleza
 https://jmp2.uk/plu-5dd85eac039bba0009e86d1d.m3u8
-#EXTINF:-1 tvg-id="rtdocumentary-ru-english" tvg-name="RT Documentary" tvg-chno="674" tvg-country="RU" group-title="Documentales",RT Documentary
+#EXTINF:-1 tvg-id="rtdocumentary-ru-english" tvg-name="RT Documentary" tvg-chno="534" tvg-country="RU" group-title="Documentales",RT Documentary
 https://rt-rtd.rttv.com/dvr/rtdoc/playlist.m3u8
-#EXTINF:-1 tvg-id="smithsonianchannelplutotv-us-latam" tvg-name="Smithsonian Channel Pluto TV LatAm" tvg-chno="675" tvg-country="US" group-title="Documentales",Smithsonian Channel Pluto TV LatAm
+#EXTINF:-1 tvg-id="smithsonianchannelplutotv-us-latam" tvg-name="Smithsonian Channel Pluto TV LatAm" tvg-chno="535" tvg-country="US" group-title="Documentales",Smithsonian Channel Pluto TV LatAm
 https://jmp2.uk/plu-63a084934734f30007457b2c.m3u8
-#EXTINF:-1 tvg-id="umsatvuinternacional-bo-hd" tvg-name="UMSA TVU Internacional" tvg-chno="676" tvg-country="BO" group-title="Documentales",UMSA TVU Internacional
+#EXTINF:-1 tvg-id="umsatvuinternacional-bo-hd" tvg-name="UMSA TVU Internacional" tvg-chno="536" tvg-country="BO" group-title="Documentales",UMSA TVU Internacional
 https://edge.enhdtv.com/8026/index.m3u8
-#EXTINF:-1 tvg-id="wildearth-za-sd" tvg-name="WildEarth" tvg-chno="677" tvg-country="ZA" group-title="Documentales",WildEarth
+#EXTINF:-1 tvg-id="wildearth-za-sd" tvg-name="WildEarth" tvg-chno="537" tvg-country="ZA" group-title="Documentales",WildEarth
 https://dqga3jatxofgx.cloudfront.net/WildEarth.m3u8

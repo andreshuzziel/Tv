@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="1685-13-internacional" tvg-name="13 Internacional" tvg-chno="1601" tvg-country="CL" group-title="Internacionales",13 Internacional
+#EXTINF:-1 tvg-id="1685-13-internacional" tvg-name="13 Internacional" tvg-chno="983" tvg-country="CL" group-title="Internacionales",13 Internacional
 https://redirector.dps.live/hls/13intav/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="1769-china-channel" tvg-name="China Channel" tvg-chno="1602" tvg-country="CN" group-title="Internacionales",China Channel
+#EXTINF:-1 tvg-id="1769-china-channel" tvg-name="China Channel" tvg-chno="984" tvg-country="CN" group-title="Internacionales",China Channel
 https://v2.tustreaming.cl/chinachannel/index.m3u8?PlaylistM3UCL

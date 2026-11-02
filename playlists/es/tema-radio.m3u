@@ -1,55 +1,55 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="424-adn" tvg-name="ADN" tvg-chno="1001" tvg-country="CL" group-title="Radio",ADN
+#EXTINF:-1 tvg-id="424-adn" tvg-name="ADN" tvg-chno="730" tvg-country="CL" group-title="Radio",ADN
 https://redirector.rudo.video/hls-video/931b584451fa6dd1313ee66efbfd5802e3f3bcea/adntv/adntv.smil/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="1791-centaury-radio-hd" tvg-name="Centaury Radio HD" tvg-chno="1002" tvg-country="CL" group-title="Radio",Centaury Radio HD
+#EXTINF:-1 tvg-id="1791-centaury-radio-hd" tvg-name="Centaury Radio HD" tvg-chno="731" tvg-country="CL" group-title="Radio",Centaury Radio HD
 https://ccp.centaurychile.com/centaury/stream.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="422-cooperativa" tvg-name="Cooperativa" tvg-chno="1003" tvg-country="CL" group-title="Radio",Cooperativa
+#EXTINF:-1 tvg-id="422-cooperativa" tvg-name="Cooperativa" tvg-chno="732" tvg-country="CL" group-title="Radio",Cooperativa
 https://unlimited1-cl-isp.dps.live/coopetv/coopetv.smil/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="1773-cooperativa-ciencia" tvg-name="Cooperativa Ciencia" tvg-chno="1004" tvg-country="CL" group-title="Radio",Cooperativa Ciencia
+#EXTINF:-1 tvg-id="1773-cooperativa-ciencia" tvg-name="Cooperativa Ciencia" tvg-chno="733" tvg-country="CL" group-title="Radio",Cooperativa Ciencia
 https://unlimited2-cl-isp.dps.live/cooperativaciencia/cooperativaciencia.smil/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="1743-el-radar" tvg-name="El Radar" tvg-chno="1006" tvg-country="CL" group-title="Radio",El Radar
+#EXTINF:-1 tvg-id="1743-el-radar" tvg-name="El Radar" tvg-chno="734" tvg-country="CL" group-title="Radio",El Radar
 https://video.ipstream.cl:3459/hybrid/play.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="1693-estacionradiotv" tvg-name="EstacionRadiotv" tvg-chno="1007" tvg-country="CL" group-title="Radio",EstacionRadiotv
+#EXTINF:-1 tvg-id="1693-estacionradiotv" tvg-name="EstacionRadiotv" tvg-chno="735" tvg-country="CL" group-title="Radio",EstacionRadiotv
 https://paneltv.stream:19360/estacion/estacion.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="1677-hd-radio" tvg-name="HD Radio" tvg-chno="1008" tvg-country="CL" group-title="Radio",HD Radio
+#EXTINF:-1 tvg-id="1677-hd-radio" tvg-name="HD Radio" tvg-chno="736" tvg-country="CL" group-title="Radio",HD Radio
 https://streaming.bitsur.cl:3029/live/hdradiolive.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="1472-la-nuestra" tvg-name="La Nuestra" tvg-chno="1010" tvg-country="CL" group-title="Radio",La Nuestra
+#EXTINF:-1 tvg-id="1472-la-nuestra" tvg-name="La Nuestra" tvg-chno="737" tvg-country="CL" group-title="Radio",La Nuestra
 https://redirector.rudo.video/hls-video/339f69c6122f6d8f4574732c235f09b7683e31a5/ln/ln.smil/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="1803-palmundo-fm" tvg-name="PalMundo FM" tvg-chno="1011" tvg-country="CL" group-title="Radio",PalMundo FM
+#EXTINF:-1 tvg-id="1803-palmundo-fm" tvg-name="PalMundo FM" tvg-chno="738" tvg-country="CL" group-title="Radio",PalMundo FM
 https://streampanelcp.palmundofm.cl/hls/palmundofm/visual/live.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="882-pauta-tv" tvg-name="Pauta TV" tvg-chno="1012" tvg-country="CL" group-title="Radio",Pauta TV
+#EXTINF:-1 tvg-id="882-pauta-tv" tvg-name="Pauta TV" tvg-chno="739" tvg-country="CL" group-title="Radio",Pauta TV
 https://redirector.rudo.video/hls-video/ey6283je82983je9823je8jowowiekldk9838274/pautatv/pautatv.smil/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="429-pudahuel-fm" tvg-name="Pudahuel FM" tvg-chno="1013" tvg-country="CL" group-title="Radio",Pudahuel FM
+#EXTINF:-1 tvg-id="429-pudahuel-fm" tvg-name="Pudahuel FM" tvg-chno="740" tvg-country="CL" group-title="Radio",Pudahuel FM
 https://unlimited2-cl-isp.dps.live/pudahueltv/pudahueltv.smil/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="1745-radio-7-tazas-de-molina" tvg-name="Radio 7 Tazas de Molina" tvg-chno="1014" tvg-country="CL" group-title="Radio",Radio 7 Tazas de Molina
+#EXTINF:-1 tvg-id="1745-radio-7-tazas-de-molina" tvg-name="Radio 7 Tazas de Molina" tvg-chno="741" tvg-country="CL" group-title="Radio",Radio 7 Tazas de Molina
 https://5ff3d9babae13.streamlock.net:443/krjrtsstzv/krjrtsstzv/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="423-radio-agricultura" tvg-name="Radio Agricultura" tvg-chno="1015" tvg-country="CL" group-title="Radio",Radio Agricultura
+#EXTINF:-1 tvg-id="423-radio-agricultura" tvg-name="Radio Agricultura" tvg-chno="742" tvg-country="CL" group-title="Radio",Radio Agricultura
 https://redirector.rudo.video/hls-video/ey6283je82983je9823je8jowowiekldk9838274/921tv/921tv.smil/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="1673-radio-agricultura-2" tvg-name="Radio Agricultura 2" tvg-chno="1016" tvg-country="CL" group-title="Radio",Radio Agricultura 2
+#EXTINF:-1 tvg-id="1673-radio-agricultura-2" tvg-name="Radio Agricultura 2" tvg-chno="743" tvg-country="CL" group-title="Radio",Radio Agricultura 2
 https://redirector.rudo.video/hls-video/931b584451fa6dd1313ee66efbfd5802e3f3bcea/agceventos/agceventos.smil/playlist.m3u8?&PlaylistM3UCL
-#EXTINF:-1 tvg-id="1605-radio-fin-del-mundo-tv" tvg-name="Radio Fin Del Mundo TV" tvg-chno="1018" tvg-country="CL" group-title="Radio",Radio Fin Del Mundo TV
+#EXTINF:-1 tvg-id="1605-radio-fin-del-mundo-tv" tvg-name="Radio Fin Del Mundo TV" tvg-chno="744" tvg-country="CL" group-title="Radio",Radio Fin Del Mundo TV
 https://live20.bozztv.com/akamaissh101/ssh101/rfdmtv/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="1801-radio-fm-dance" tvg-name="Radio FM Dance" tvg-chno="1019" tvg-country="CL" group-title="Radio",Radio FM Dance
+#EXTINF:-1 tvg-id="1801-radio-fm-dance" tvg-name="Radio FM Dance" tvg-chno="745" tvg-country="CL" group-title="Radio",Radio FM Dance
 https://stream.radiofmdance.cl/memfs/9dbb05a1-60de-450c-b0b6-d2be5bf0126e.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="1713-radio-fm-top" tvg-name="Radio FM TOP" tvg-chno="1020" tvg-country="CL" group-title="Radio",Radio FM TOP
+#EXTINF:-1 tvg-id="1713-radio-fm-top" tvg-name="Radio FM TOP" tvg-chno="746" tvg-country="CL" group-title="Radio",Radio FM TOP
 https://tv.arkeo.cl:19360/8132/8132.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="1565-radio-imagen-106-5" tvg-name="Radio Imagen 106.5" tvg-chno="1021" tvg-country="CL" group-title="Radio",Radio Imagen 106.5
+#EXTINF:-1 tvg-id="1565-radio-imagen-106-5" tvg-name="Radio Imagen 106.5" tvg-chno="747" tvg-country="CL" group-title="Radio",Radio Imagen 106.5
 https://panel.tvstream.cl:1936/8066/8066/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="425-radio-infinita" tvg-name="Radio Infinita" tvg-chno="1022" tvg-country="CL" group-title="Radio",Radio Infinita
+#EXTINF:-1 tvg-id="425-radio-infinita" tvg-name="Radio Infinita" tvg-chno="748" tvg-country="CL" group-title="Radio",Radio Infinita
 https://mdstrm.com/live-stream-playlist/63a066e54ed536087960b550.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="1797-radio-ritoque-la-ligua-91-3" tvg-name="Radio Ritoque La Ligua 91.3" tvg-chno="1023" tvg-country="CL" group-title="Radio",Radio Ritoque La Ligua 91.3
+#EXTINF:-1 tvg-id="1797-radio-ritoque-la-ligua-91-3" tvg-name="Radio Ritoque La Ligua 91.3" tvg-chno="749" tvg-country="CL" group-title="Radio",Radio Ritoque La Ligua 91.3
 https://stream.radioritoque.cl/tv/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="428-radio-romantica" tvg-name="Radio Romantica" tvg-chno="1024" tvg-country="CL" group-title="Radio",Radio Romantica
+#EXTINF:-1 tvg-id="428-radio-romantica" tvg-name="Radio Romantica" tvg-chno="750" tvg-country="CL" group-title="Radio",Radio Romantica
 https://mdstrm.com/live-stream-playlist/63a0674c1137d408b45d4821.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="1744-radio-uniacc" tvg-name="Radio UNIACC" tvg-chno="1025" tvg-country="CL" group-title="Radio",Radio UNIACC
+#EXTINF:-1 tvg-id="1744-radio-uniacc" tvg-name="Radio UNIACC" tvg-chno="751" tvg-country="CL" group-title="Radio",Radio UNIACC
 https://scl.edge.grupoz.cl/uniaccastream/live/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="1669-radio-zona" tvg-name="Radio Zona" tvg-chno="1026" tvg-country="CL" group-title="Radio",Radio Zona
+#EXTINF:-1 tvg-id="1669-radio-zona" tvg-name="Radio Zona" tvg-chno="752" tvg-country="CL" group-title="Radio",Radio Zona
 https://tv.telselec.cl:3780/live/jesuslive.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="1716-ruidos-fm" tvg-name="Ruidos FM" tvg-chno="1027" tvg-country="CL" group-title="Radio",Ruidos FM
+#EXTINF:-1 tvg-id="1716-ruidos-fm" tvg-name="Ruidos FM" tvg-chno="753" tvg-country="CL" group-title="Radio",Ruidos FM
 https://tv1.ruidosfm.cl/ruidosfm/stream.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="1541-sabrosona-tv" tvg-name="Sabrosona TV" tvg-chno="1028" tvg-country="CL" group-title="Radio",Sabrosona TV
+#EXTINF:-1 tvg-id="1541-sabrosona-tv" tvg-name="Sabrosona TV" tvg-chno="754" tvg-country="CL" group-title="Radio",Sabrosona TV
 https://samson.streamerr.co:8081/sabrosonavideo/index.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="1611-suyai-radio" tvg-name="Suyai Radio" tvg-chno="1029" tvg-country="CL" group-title="Radio",Suyai Radio
+#EXTINF:-1 tvg-id="1611-suyai-radio" tvg-name="Suyai Radio" tvg-chno="755" tvg-country="CL" group-title="Radio",Suyai Radio
 https://trun.suyaitv.cl/memfs/d0835165-7fb4-4982-8336-84a7f4522908.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="1198-t13-radio" tvg-name="T13 Radio" tvg-chno="1030" tvg-country="CL" group-title="Radio",T13 Radio
+#EXTINF:-1 tvg-id="1198-t13-radio" tvg-name="T13 Radio" tvg-chno="756" tvg-country="CL" group-title="Radio",T13 Radio
 https://unlimited1-cl-isp.dps.live/t13radio/t13radio.smil/playlist.m3u8?PlaylistM3UCL

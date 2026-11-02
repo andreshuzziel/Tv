@@ -12,8 +12,9 @@ let REGION_ALIAS = {};
 const ma = src.match(/const REGION_ALIAS = (\{[\s\S]*?\});/);
 if (ma) REGION_ALIAS = eval('(' + ma[1] + ')');
 
-const STARTS = { nac: 1, noticias: 101, deportes: 201, entre: 301, infantil: 401, anime: 501, cultura: 601, musica: 701, radio: 1001, estilo: 1101, gob: 1201, religion: 1301, comunit: 1501, inter: 1601, ott: 1701, general: 1801 };
-const REG_START = 3501;
+// v3.112 (pedido usuario): numeración SECUENCIAL 1..N sólo para canales con stream (así los detecta la app IPTV de Play Store, que numera el m3u 1..2576). Los web-only quedan sin # (chno=null).
+const STARTS = { nac: 1, noticias: 1, deportes: 1, entre: 1, infantil: 1, anime: 1, cultura: 1, musica: 1, radio: 1, estilo: 1, gob: 1, religion: 1, comunit: 1, inter: 1, ott: 1, general: 1 };
+const REG_START = 1;
 
 global.window = {};
 eval(fs.readFileSync('data/channels.js', 'utf8'));
@@ -36,14 +37,15 @@ for (const t of THEMES) {
   const arr = (byTheme[t.k] || []).sort((a, b) => oldChno(a) - oldChno(b) || a.name.localeCompare(b.name));
   if (!arr.length) continue;
   const start = Math.max(STARTS[t.k], prevEnd + 1);   // sin solaparse con el bloque anterior
-  arr.forEach((c, i) => { nuevo[c.id] = start + i; });
-  prevEnd = start + arr.length - 1;
+  let last = start - 1; arr.forEach((c) => { if (c.url) nuevo[c.id] = ++last; else nuevo[c.id] = null; });
+  prevEnd = last;
 }
 let n = Math.max(REG_START, prevEnd + 1);
 for (const r of REGIONS) {
   const arr = (byReg[r.k] || []).sort((a, b) => oldChno(a) - oldChno(b) || a.name.localeCompare(b.name));
-  for (const c of arr) nuevo[c.id] = n++;
+  for (const c of arr) { if (c.url) nuevo[c.id] = n++; else nuevo[c.id] = null; }
 }
+prevEnd = n - 1;
 for (const c of chans) c.chno = nuevo[c.id];
 
 // reescribir data/channels.js conservando cabecera y window.SPORTS
@@ -55,7 +57,7 @@ const prefix = s.slice(0, i) + startMark + '\n';
 const suffix = s.slice(j); // '\n];' + window.SPORTS...
 const body = chans.map(c => ' ' + JSON.stringify(c, null, 1)).join(',\n');
 fs.writeFileSync('data/channels.js', prefix + body + suffix);
-console.log('channels.js renumerado:', chans.length, 'entradas · máximo chno =', Math.max(...chans.map(c => c.chno)));
+console.log('channels.js renumerado:', chans.length, 'entradas · numerados (con stream):', chans.filter(c=>c.chno).length, '· máximo chno =', Math.max(...chans.map(c => c.chno||0)), '· web-only sin #: ', chans.filter(c=>!c.chno).length);
 
 // tv-chile-todo.m3u (sólo con url, ordenado por nuevo chno)
 const withUrl = chans.filter(c => c.url).sort((a, b) => a.chno - b.chno);
@@ -69,6 +71,6 @@ console.log('tv-chile-todo.m3u:', withUrl.length, 'EXTINF · primero:', lines[1]
 // resumen por tema
 for (const t of THEMES) {
   const arr = byTheme[t.k] || [];
-  if (arr.length) { const ns = arr.map(c => nuevo[c.id]); console.log(`  ${t.icon} ${t.name}: #${Math.min(...ns)}–#${Math.max(...ns)} (${arr.length}) · bloque declarado #${STARTS[t.k]}+`); }
+  if (arr.length) { const ns = arr.map(c => nuevo[c.id]).filter(x => x); if (ns.length) console.log(`  ${t.icon} ${t.name}: #${Math.min(...ns)}–#${Math.max(...ns)} (${ns.length} con stream, ${arr.length - ns.length} web-only)`); }
 }
-console.log(`  📍 Regiones: #${REG_START}–#${n - 1} (${n - REG_START})`);
+console.log(`  📍 Regiones: hasta #${n - 1}`);

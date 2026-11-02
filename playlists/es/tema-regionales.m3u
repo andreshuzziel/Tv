@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="1759-docevision" tvg-name="Docevision" tvg-chno="1801" tvg-country="CL" group-title="Regionales",Docevision
+#EXTINF:-1 tvg-id="1759-docevision" tvg-name="Docevision" tvg-chno="989" tvg-country="CL" group-title="Regionales",Docevision
 https://live20.bozztv.com/giatvplayout7/giatv-208729/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="1792-pirque-tv" tvg-name="Pirque TV" tvg-chno="1802" tvg-country="CL" group-title="Regionales",Pirque TV
+#EXTINF:-1 tvg-id="1792-pirque-tv" tvg-name="Pirque TV" tvg-chno="990" tvg-country="CL" group-title="Regionales",Pirque TV
 https://eu1.servers10.com:8081/laureltv/index.m3u8?PlaylistM3UCL
