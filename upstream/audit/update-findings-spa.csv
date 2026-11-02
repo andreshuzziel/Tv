@@ -1,0 +1,640 @@
+canal,grupo,url,flags
+3ABN Latino (1080p),Religious,http://138.59.177.78:9999/play/a0a3/index.m3u8,no-https;ip-directa
+5Dias TV,Business,http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/13.m3u8,no-https;ip-directa
+13T (720p),Series,https://origin.dpsgo.com/ssai/event/f4TrySe8SoiGF8Lu3EIq1g/master.m3u8,vod-no-autorizado
+24 Horas Canarias (1080p),News;Public,http://185.47.212.25:8080/24h_HD/index.m3u8,no-https;ip-directa
+88 Stereo (720p) [Not 24/7],Music,http://k3.usastreams.com/CableLatino/88stereo/playlist.m3u8,no-https
+A24 (1080p),News,http://138.59.227.20:8000/play/a05u/index.m3u8,no-https;ip-directa
+A&E Latin America (1080p),Entertainment,http://138.121.15.230:9002/A&E/index.m3u8,no-https;ip-directa
+A&R Canal (720p),Religious,http://51.222.9.192:3589/stream/play.m3u8,no-https;ip-directa
+ABC-TV Paraguay,News,http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/7.m3u8,no-https;ip-directa
+Abya Yala TV (720p),General,http://15.204.246.24:8080/AbyaYalaTvHD/index.m3u8,no-https;ip-directa
+Acapulco Shore,Series,https://jmp2.uk/plu-61a52615cbef2500072876e2.m3u8,vod-no-autorizado
+Adrenalina Pura TV (720p),Movies,https://jmp2.uk/plu-61b793ccf571b80007b7a610.m3u8,vod-no-autorizado
+Adult Swim West [Not 24/7;Geo-blocked],Entertainment,https://turnerlive.warnermediacdn.com/hls/live/2023185/aswest/noslate/VIDEO_1_5128000.m3u8,tv-pago/adulto
+Adult Swim Latin America,Entertainment,http://170.244.209.30:8000/play/a02v/index.m3u8,no-https;ip-directa;tv-pago/adulto
+Alcarria TV (576p) [Not 24/7],General,http://217.182.77.27/live/alcarriatv-livestream.m3u8,no-https;ip-directa
+Allegro HD (1080p),Music,http://158.172.155.130:8000/play/a0dn/index.m3u8,no-https;ip-directa
+AlternaTV (720p) [Not 24/7],Culture;Documentary;Entertainment;General;Movies;Music,https://tv.alterna.ar/stream/hls/live.m3u8,vod-no-autorizado
+AMC en Espanol,Entertainment,https://amc-amcespanol-1-us.lg.wurl.tv/playlist.m3u8,tv-pago/adulto
+AMC Latin America (1080p),Movies,http://15.204.246.24:8080/AMCHD/index.m3u8,no-https;ip-directa;tv-pago/adulto;vod-no-autorizado
+AMC Series Latin America (1080p),Series,http://45.171.64.30:6060/play/a005/index.m3u8,no-https;ip-directa;tv-pago/adulto;vod-no-autorizado
+America Paraguay,General,http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/83.m3u8,no-https;ip-directa
+America Television (1080p),General,http://190.93.224.42/AMERICA-TV/index.m3u8,no-https;ip-directa
+Ana y los 7,Series,https://jmp2.uk/plu-5f1acce7f17797000718f9be.m3u8,vod-no-autorizado
+Andromeda,Series,https://jmp2.uk/plu-6850335b5965a2fd49f7e36d.m3u8,vod-no-autorizado
+Aneflix Live (720p),Movies,https://stream-cdn-iad.vaughnsoft.net/play/live_a_neflix01.flv,vod-no-autorizado
+Animal Planet Latin America (1080p),Documentary,http://190.128.214.97:64333/play/a01n/index.m3u8,no-https;ip-directa
+Animal Planet Latin America HD (720p) [Geo-blocked],Documentary,http://15.204.246.24:8080/AnimalPlanetHD/index.m3u8,no-https;ip-directa
+Antena 1 (Peru) (1080p),General,http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/antenauno.stream/playlist.m3u8,no-https
+Antena 3 Internacional (1080p),General,http://38.252.238.18:8000/play/a04a/index.m3u8,no-https;ip-directa
+ANTV (Venezuela) (720p),Legislative,http://181.78.8.199:8000/play/a0fo/index.m3u8,no-https;ip-directa
+ATV (Peru) (1080p),General,http://190.93.224.42/ATV/index.m3u8,no-https;ip-directa
+ATV Sur (1080p),General,http://190.93.224.42/ATV-SUR/index.m3u8,no-https;ip-directa
+ATV+ (1080p),News,http://45.171.108.253:8888/ATV/index.m3u8,no-https;ip-directa
+Aunar (1080p),Culture;Travel,http://190.128.214.97:64333/play/a057/index.m3u8,no-https;ip-directa
+Aurora Media Films (720p),Movies,https://cdn.streamhispanatv.net:3417/live/auroramflive.m3u8,vod-no-autorizado
+AVI Rewind (1080p),Movies,http://45.70.201.81:8000/play/a010/index.m3u8,no-https;ip-directa;vod-no-autorizado
+AXN Latin America (1080p),Movies,http://138.121.15.230:9002/AXN/index.m3u8,no-https;ip-directa;tv-pago/adulto;vod-no-autorizado
+AXN Latin America Andes (1080p),Movies,http://181.78.8.199:8000/play/a0cu/index.m3u8,no-https;ip-directa;tv-pago/adulto;vod-no-autorizado
+AXN Latin America Mexico,Movies,http://190.11.225.124:5000/live/axn_hd/playlist.m3u8,no-https;ip-directa;tv-pago/adulto;vod-no-autorizado
+AXN Latin America South,Movies,http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/10.m3u8,no-https;ip-directa;tv-pago/adulto;vod-no-autorizado
+AXN Movies (Spain),Movies,https://cdn.stmify.com/zapitv/stream/AXN_MOVIES/axn_white.mpd,tv-pago/adulto;vod-no-autorizado
+AyM Sports (1080p),Sports,http://168.196.127.137:6001/play/a06v/index.m3u8,no-https;ip-directa
+AYNI TV (1080p),General,http://15.204.246.24:8080/AyniTVHD/index.m3u8,no-https;ip-directa
+Az Cinema (1080p),Movies,http://15.204.196.147:22880/CABLE-MAGES-AZCINEMA/video.m3u8,no-https;ip-directa;vod-no-autorizado
+Az Clic (1080p),Entertainment,http://38.252.238.18:8000/play/a01g/index.m3u8,no-https;ip-directa
+Az Corazon (720p),Series,http://200.115.120.1:8000/play/ca020/index.m3u8,no-https;ip-directa;vod-no-autorizado
+Az Mundo (1080p),Undefined,http://15.204.142.109:22880/DIRECTV-ARGENTINA-AZMUNDO/INTERNACIONAL/video.m3u8,no-https;ip-directa
+Azteca 7 (1080p),General,http://187.245.231.226:8000/play/a0uz/index.m3u8,no-https;ip-directa
+Azteca Deportes Network (1080p),Sports,http://209.14.115.253:8081/azteca-deportes/index.m3u8,no-https;ip-directa
+Azteca Uno (1080p),General,http://38.44.109.41:8003/play/a033/index.m3u8,no-https;ip-directa
+BabyFirst Spanish (1080p),Kids,http://168.196.127.137:6001/play/a06j/index.m3u8,no-https;ip-directa
+BabyTV Latin America (1080p),Kids,http://38.44.109.41:8003/play/a0eh,no-https;ip-directa
+Bailen TV (720p) [Not 24/7],Undefined,http://cpd.bailen.tv:8080/Playlist_CANAL_24H/playlist.m3u8,no-https
+Bajo Techo TV (1080p) [Not 24/7],Shop,https://fox.hostlagarto.com:8081/bajotechotv/tracks-v1a1/mono.m3u8,vod-no-autorizado
+Bandamax (1080p),Music,http://181.78.106.127:5000/play/ca064/index.m3u8,no-https;ip-directa
+BBC Drama (1080p),Series,https://amg00793-amg00793c40-rakuten-es-5444.playouts.now.amagi.tv/playlist.m3u8,vod-no-autorizado
+beIN SPORTS XTRA en Espanol (1080p),Sports,https://dc1644a9jazgj.cloudfront.net/beIN_Sports_Xtra_Espanol.m3u8,tv-pago/adulto
+Bethel Colombia (720p),Religious,http://138.121.15.230:9002/BETHEL/index.m3u8,no-https;ip-directa
+Boing (Spain),Kids,http://digisat.ddns.net:4022/udp/239.0.5.177:8208,no-https
+Bolivia TV (1080p),General,http://190.181.61.93:8000/play/a001/index.m3u8,no-https;ip-directa
+Boomerang (720p),Kids,http://23.237.104.106:8080/USA_BOOMERANG/index.m3u8,no-https;ip-directa
+Boreal (720p) [Not 24/7],Movies,https://edge.essastream.com/borealtelevision/tracks-v1a1/mono.m3u8,vod-no-autorizado
+Cablenoticias (1080p),News,http://181.78.211.244:8005/play/a09u/index.m3u8,no-https;ip-directa
+Canal 1 (Colombia) (1080p),General,http://190.109.2.92:8000/play/a010/index.m3u8,no-https;ip-directa
+Canal 2 (El Salvador) (720p),General,http://186.33.26.18:8000/play/a0qp/index.m3u8,no-https;ip-directa
+Canal 3 Pinamar,Undefined,http://intelincloud01.com.ar/hls/cn3/index.m3u8,no-https
+Canal 3 Tacural,General,http://vivo.canal3tacural.com.ar:8081/hls/stream.m3u8,no-https
+Canal 4 (El Salvador) (1080p),General,http://168.228.44.241:9999/play/a042/index.m3u8,no-https;ip-directa
+Canal 4 Posadas (1080p),Undefined,http://190.128.214.97:64333/play/a06l/index.m3u8,no-https;ip-directa
+Canal 5 (Mexico) (1080p),General,http://45.181.87.106/CANAL5HD/index.m3u8,no-https;ip-directa
+Canal 5 (Mexico) XET-TDT (1080p),General,http://45.5.118.152:8000/play/a03i/index.m3u8,no-https;ip-directa
+Canal 5 (Uruguay) (720p),General,https://tinyurl.com/canal5uy,url-sospechosa
+Canal 5 El Lider (720p),General,http://186.33.26.18:8000/play/a0s4/index.m3u8,no-https;ip-directa
+Canal 6 (El Salvador) (720p),General,http://45.167.2.101:8000/play/a0qs/index.m3u8,no-https;ip-directa
+Canal 6 (Nicaragua) (480p) [Not 24/7],General,http://138.117.4.70:8075/Canal06_CooTel/playlist.m3u8,no-https;ip-directa
+Canal 9 La Union (1080p),General,http://45.167.2.101:8000/play/a0r5/index.m3u8,no-https;ip-directa
+Canal 9 Resistencia (720p),General,http://coninfo.net:1935/9linklivert/smil:9linkmultibr.smil/playlist.m3u8,no-https
+Canal 10 Cancun (720p) [Not 24/7],Undefined,http://stream2.dynalias.com:1935/live/tvlive1/playlist.m3u8,no-https
+Canal 11 (Guatemala) (1080p),General,http://168.228.44.241:9999/play/a01m/index.m3u8,no-https;ip-directa
+Canal 11 (Honduras) (1080p),General,http://190.11.225.124:5000/live/canal11_hd/playlist.m3u8,no-https;ip-directa
+Canal 12 (El Salvador) (576p),General,http://186.33.26.18:8000/play/a0nw/index.m3u8,no-https;ip-directa
+Canal 12 (Nicaragua) (576p),General,http://45.228.234.9:8000/play/a06s/index.m3u8,no-https;ip-directa
+Canal 13 (Chile) (1080p),General,http://15.204.246.24:8080/Canal13HD/index.m3u8,no-https;ip-directa
+Canal 13 (Guatemala) (720p),General,http://190.61.101.11:7050/play/a07f/index.m3u8,no-https;ip-directa
+Canal 13 La Rioja (480p),Undefined,http://arcast.net:1935/mp/mp/playlist.m3u8,no-https
+Canal 56 Quiero TV (720p),General,http://45.5.118.152:8000/play/a08z/index.m3u8,no-https;ip-directa
+Canal 2000 (720p) [Not 24/7],Undefined,http://canal2000.berkano-systems.net/streaming/streams/canal2000.m3u8,no-https
+Canal Capital (1080p),General,http://138.121.15.230:9002/CANAL-CAPITAL/index.m3u8,no-https;ip-directa
+Canal Cine Dios,Movies,https://canal.mediaserver.com.co/live/cinedios.m3u8,vod-no-autorizado
+Canal Congreso (1080p),Legislative,http://138.121.15.230:9002/CANAL-CONGRESO/index.m3u8,no-https;ip-directa
+Canal Dos (720p),General,http://131.221.41.94/hls/canal2.m3u8,no-https;ip-directa
+Canal Infantil (1080p),Kids,http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/canalinfantil/playlist.m3u8,no-https
+Canal Institucional (1080p),General,http://190.61.47.54:8000/play/a00v/index.m3u8,no-https;ip-directa
+Canal IPe (720p),Family,http://187.102.210.46/IPE/index.m3u8,no-https;ip-directa
+Canal N (1080p),News,http://187.102.208.209:8000/play/a0az/index.m3u8,no-https;ip-directa
+Canal RCN (1080p),General,http://138.121.15.230:9002/RCN/index.m3u8,no-https;ip-directa
+Canal Womtv (720p),Entertainment,https://live.amelbatv.co:81/womtvlive/index.m3u8,tv-pago/adulto
+Cancionero TV (360p),Undefined,http://89.140.229.5/hls1/cancionero.m3u8,no-https;ip-directa
+Caracol HD2 (1080p),General,http://181.78.14.26:4000/play/a00d/index.m3u8,no-https;ip-directa
+Caracol Internacional (1080p),General,http://167.249.23.102:8000/play/a0ax/index.m3u8,no-https;ip-directa
+Caracol TV (1080p),General,http://138.121.15.230:9002/CARACOL/index.m3u8,no-https;ip-directa
+Cartoon Network (United States) (720p) [Geo-blocked],Animation;Kids,http://212.5.144.156:8080/cartoon/index.m3u8,no-https;ip-directa;tv-pago/adulto
+Cartoon Network Latin America,Animation;Kids,https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/cartoonnetwork.stream/chunks.m3u8,tv-pago/adulto
+Cartoon Network Latin America North Atlantic (1080p),Animation;Kids,http://38.252.238.18:8000/play/a053/index.m3u8,no-https;ip-directa;tv-pago/adulto
+Cartoon Network Latin America South Atlantic (1080p),Animation;Kids,http://158.172.217.18:8000/play/a03a/index.m3u8,no-https;ip-directa;tv-pago/adulto
+Cartoon Network Latin America South Pacific (576p),Animation;Kids,http://45.167.1.138:8000/play/a00w,no-https;ip-directa;tv-pago/adulto
+Cartoonito Latin America (1080p),Animation;Kids,http://45.173.12.70:8000/play/a0hh,no-https;ip-directa;tv-pago/adulto
+CDN (576p),General,http://190.61.90.17:40000/play/a03p/index.m3u8,no-https;ip-directa
+Cetelmon TV (404p),Religious,http://player.cetelmon.tv/protecteddfd43c2f3a8b41f3f28582bf8993aca6/992_high.m3u8,no-https
+Chikitoonz (1080p),Kids,http://45.70.201.81:8000/play/a00p/index.m3u8,no-https;ip-directa
+ChileVision (1080p),General,http://15.204.246.24:8080/CHVHD/index.m3u8,no-https;ip-directa
+Cholusat Sur 36 (214p) [Not 24/7],News,http://audiotvserver.net:1935/livemedia/cholusat/playlist.m3u8,no-https
+CINDIE TV (1080p),Movies,https://cc-hqw8u5r1nshjc.akamaized.net/scheduler/scheduleMaster/352.m3u8,vod-no-autorizado
+Cine Adrenalina,Movies,https://jmp2.uk/plu-5d8d164d92e97a5e107638d2.m3u8,vod-no-autorizado
+Cine Amor,Movies,https://jmp2.uk/plu-5f5136317aedfb0007016f93.m3u8,vod-no-autorizado
+Cine Familiar (1080p),Movies,http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/cinefamiliar.stream/playlist.m3u8,no-https;vod-no-autorizado
+Cine Friki (1080p),Movies,https://d2mr4fu91mjx9m.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-rb0tx75ojbc5u/CineFriki_ES.m3u8,vod-no-autorizado
+Cine Hispano (1080p),Movies,http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/cinehispano.stream/playlist.m3u8,no-https;vod-no-autorizado
+Cine Premiere,Movies,https://jmp2.uk/plu-5cf968040ab7d8f181e6a68b.m3u8,vod-no-autorizado
+Cine Premium (1080p),Movies,http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/cinepremium.stream/playlist.m3u8,no-https;vod-no-autorizado
+Cine Sony (720p),Movies,http://186.148.196.82:8001/play/a0a4,no-https;ip-directa;vod-no-autorizado
+Cine Terror,Movies,https://jmp2.uk/plu-5d8d180092e97a5e107638d3.m3u8,vod-no-autorizado
+Cine Terror LatAm,Movies,https://jmp2.uk/plu-5dcddf1ed95e740009fef7ab.m3u8,vod-no-autorizado
+Cine Western (Spain) (1080p),Movies,https://d2nq34q0i1r3la.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-awohw8g217ho8/CineWestern_ES.m3u8,vod-no-autorizado
+Cinecanal (1080p),Movies,http://15.204.246.24:8080/CinecanalHD/index.m3u8,no-https;ip-directa;tv-pago/adulto;vod-no-autorizado
+Cinecanal Pacific (1080p),Movies,http://138.121.15.230:9002/CINECANAL/index.m3u8,no-https;ip-directa;tv-pago/adulto;vod-no-autorizado
+Cinecanal South,Movies,http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/17.m3u8,no-https;ip-directa;tv-pago/adulto;vod-no-autorizado
+CineLatino (720p),Movies,http://206.135.11.174:8010/play/a0lq/index.m3u8,no-https;ip-directa;vod-no-autorizado
+Cinemax (United States) West (720p),Movies,http://23.237.104.106:8080/USA_CINEMAX_WEST/index.m3u8,no-https;ip-directa;tv-pago/adulto;vod-no-autorizado
+Cinemax Hits (1080p),Movies,http://23.237.104.106:8080/USA_MOREMAX/index.m3u8,no-https;ip-directa;tv-pago/adulto;vod-no-autorizado
+Cinemax Latin America (720p),Movies,https://streaming.onnethn.com/CINEMAX/playlist.m3u8,tv-pago/adulto;vod-no-autorizado
+Cinemax Latin America HD (1080p),Movies,http://38.65.175.84:8000/play/a093/index.m3u8,no-https;ip-directa;tv-pago/adulto;vod-no-autorizado
+Citytv Bogota (1080p),General,http://138.121.15.230:9002/CITY-TV/index.m3u8,no-https;ip-directa
+Clan Internacional (1080p),Kids;Public,http://168.228.44.241:9999/play/a04j/index.m3u8,no-https;ip-directa
+Claro Cinema (1080p),Movies,http://158.172.217.18:8000/play/a00d/index.m3u8,no-https;ip-directa;vod-no-autorizado
+Claro Musica TV (1080p),Music,http://45.171.64.30:6060/play/a010,no-https;ip-directa
+Claro Sports (1080p),Sports,http://168.196.127.137:6001/play/a08r/index.m3u8,no-https;ip-directa;tv-pago/adulto
+CNC Medellin (1080p),General,http://138.94.3.106:8000/play/a02o/index.m3u8,no-https;ip-directa
+CNN en Espanol (1080p),News,https://streaming.onnethn.com/CNN_ESPANOL/playlist.m3u8,tv-pago/adulto
+CNN International Latin America (1080p),News,http://168.228.44.241:9997/play/a073/index.m3u8,no-https;ip-directa;tv-pago/adulto
+Cosmos Tv,Movies;News,https://tv.mediacp.eu:19360/cosmos/cosmos.m3u8,vod-no-autorizado
+Cosmos Tv SD,Movies;News,https://canaletaplus.com:3922/live/cosmoslive.m3u8,vod-no-autorizado
+CromTV (1080p) [Not 24/7],General,https://fox.hostlagarto.com:8081/cromtv/tracks-v1a1/mono.m3u8,tv-pago/adulto
+CSI: Miami LatAm,Series,https://jmp2.uk/plu-63eb9255c111bc0008fe6ec4.m3u8,vod-no-autorizado
+CTV (Bolivia) (1080p),General,http://15.204.246.24:8080/CTVHD/index.m3u8,no-https;ip-directa
+Curro Jimenez,Series,https://jmp2.uk/plu-5f1acd36779de70007a680d1.m3u8,vod-no-autorizado
+CVA TV (480p) [Not 24/7],General,http://190.124.161.21:8086/cvatv/live.m3u8,no-https;ip-directa
+CVC (1080p),Religious,http://15.204.246.24:8080/CVCHD/index.m3u8,no-https;ip-directa
+Daystar TV Espanol (1080p),Religious,http://167.249.23.102:8000/play/a0ev/index.m3u8,no-https;ip-directa
+De Pelicula Latin America (1080p),Movies,http://38.19.41.46:8081/DEPELICULA/index.m3u8,no-https;ip-directa;vod-no-autorizado
+De Pelicula Plus (1080p),Movies,http://200.115.120.1:8000/play/ca030/index.m3u8,no-https;ip-directa;vod-no-autorizado
+De Pelicula US (720p),Movies,http://138.121.15.230:9002/DEPELICULA/index.m3u8,no-https;ip-directa;vod-no-autorizado
+Deportes TVC (1080p),Sports,http://162.19.255.233:8080/play/UNbAl57p9hXZClOu56FCTYXmD-MOS3u5IUkeXPpBt80/m3u8,no-https;ip-directa
+DeporTV (1080p),Sports,http://158.172.155.130:8000/play/a09y/index.m3u8,no-https;ip-directa
+DHE (1080p),Movies,http://15.204.246.24:8080/DHEHD/index.m3u8,no-https;ip-directa;vod-no-autorizado
+Discovery Channel Latin America (1080p),Entertainment,http://45.171.64.30:6060/play/a032/index.m3u8,no-https;ip-directa;tv-pago/adulto
+Discovery Channel Latin America South,Entertainment,http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/20.m3u8,no-https;ip-directa;tv-pago/adulto
+Discovery Home & Health Latin America South,Lifestyle,http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/39.m3u8,no-https;ip-directa;tv-pago/adulto
+Discovery Kids Latin America (1080p),Kids,http://181.224.200.5:2277/play/a00o/index.m3u8,no-https;ip-directa;tv-pago/adulto
+Discovery Kids Latin America Chile (1080p),Kids,http://38.224.231.176:8000/play/a01j/index.m3u8,no-https;ip-directa;tv-pago/adulto
+Discovery Kids Latin America Colombia (1080p),Kids,http://38.134.250.110:8000/play/a003/index.m3u8,no-https;ip-directa;tv-pago/adulto
+Discovery Kids Latin America Mexico (1080p),Kids,http://38.65.175.84:8000/play/a0an/index.m3u8,no-https;ip-directa;tv-pago/adulto
+Discovery Science Latin America (720p),Science,http://45.171.64.30:6060/play/a007/index.m3u8,no-https;ip-directa;tv-pago/adulto
+Discovery Science Latin America ColombiaPeru (720p),Science,http://45.134.141.161:2200/ARG/Discovery_Science_HD/index.m3u8,no-https;ip-directa;tv-pago/adulto
+Discovery Theater Latin America (1080p),Undefined,http://181.224.200.5:2277/play/a0bj/index.m3u8,no-https;ip-directa;tv-pago/adulto
+Discovery Turbo Latin America (1080p),Auto,http://38.134.250.110:8000/play/a01y/index.m3u8,no-https;ip-directa;tv-pago/adulto
+Discovery World (1080p),Entertainment,http://168.196.127.137:6001/play/a097/index.m3u8,no-https;ip-directa;tv-pago/adulto
+Disney Channel Latin America (1080p),Animation;Kids,http://15.204.246.24:8080/DisneyHD/index.m3u8,no-https;ip-directa;tv-pago/adulto
+Disney Channel Latin America Center (1080p),Animation;Kids,http://181.78.8.199:8000/play/a0dn/index.m3u8,no-https;ip-directa;tv-pago/adulto
+Disney Channel Latin America Mexico (720p),Animation;Kids,http://45.166.93.156:9999/play/a0f3/index.m3u8,no-https;ip-directa;tv-pago/adulto
+Disney Channel Latin America North (576p),Animation;Kids,http://138.121.15.230:9002/DISNEY-CHANNEL/index.m3u8,no-https;ip-directa;tv-pago/adulto
+Disney Channel Latin America Panregional HD (1080p),Animation;Kids,http://45.134.141.161:2200/ARG/Disney_Channel/index.m3u8,no-https;ip-directa;tv-pago/adulto
+Disney Channel Latin America South,Animation;Kids,https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/disney-channel-key/chunks.m3u8,tv-pago/adulto
+Disney Jr. Latin America (1080p),Animation;Kids,http://190.14.10.19:16000/play/a02d/index.m3u8,no-https;ip-directa;tv-pago/adulto
+Disney Jr. Latin America North HD (1080p),Animation;Kids,http://181.78.14.26:4000/play/a073/index.m3u8,no-https;ip-directa;tv-pago/adulto
+Disney Jr. Latin America South (1080p),Animation;Kids,http://45.185.163.75:8000/play/a016/index.m3u8,no-https;ip-directa;tv-pago/adulto
+Disney Jr. Latin America South HD (1080p),Animation;Kids,http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/disney_jr.stream/playlist.m3u8,no-https;tv-pago/adulto
+Disney Junior (United States) (480p),Kids,http://tvsen5.aynascope.net/disney/index.m3u8,no-https;tv-pago/adulto
+Disney XD (United States) (720p),Kids,http://89.187.179.148:826/1368/gXwiagaXda/1672,no-https;ip-directa;tv-pago/adulto
+Distrito Comedia (1080p),Comedy,http://138.121.15.230:9002/DISTRITO-COMEDIA/index.m3u8,no-https;ip-directa
+DSports 2 (1080p),Sports,http://187.102.208.209:8000/play/a0bq/index.m3u8,no-https;ip-directa;tv-pago/adulto
+DSports (1080p),Sports,http://38.187.7.252:8000/play/a03d/index.m3u8,no-https;ip-directa;tv-pago/adulto
+E! Latin America (1080p),Entertainment;News,http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/entertainment.stream/playlist.m3u8,no-https
+E! Latin America Mexico (720p),Entertainment;News,http://72.1.184.5:8089/play/a05d/index.m3u8,no-https;ip-directa
+Ecuador TV (1080p),General,http://45.224.97.181:9999/EcuadorTV/index.m3u8,no-https;ip-directa
+Ecuavisa (1080p),General,http://45.171.108.253:8888/ECUAVISA/index.m3u8,no-https;ip-directa
+Educanal (1080p),Education,http://190.128.214.97:64333/play/a011/index.m3u8,no-https;ip-directa
+El Canal Feliz (720p),Entertainment,http://streaming.multicontenidos.cl:8081/live/canalfeliz/playlist.m3u8,no-https
+El Comisario,Series,https://jmp2.uk/plu-60c343007bcabe0007242aa6.m3u8,vod-no-autorizado
+El encantador de perros,Series,https://jmp2.uk/plu-60e45687313c5f0007bc8e94.m3u8,vod-no-autorizado
+El Gourmet (1080p),Cooking,http://15.204.246.24:8080/ElGourmetHD/index.m3u8,no-https;ip-directa
+El Nueve (1080p),General,http://15.204.246.24:8080/elnueveHD/index.m3u8,no-https;ip-directa
+El Sembrador Nueva Evangelizacion ESNE,Religious,http://190.61.90.17:40000/play/a025/index.m3u8,no-https;ip-directa
+El Trece Internacional Latin America,General,http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/23.m3u8,no-https;ip-directa
+Emisora Comunitaria 104.1 FM,General,https://104florencia.co/wp-admin/admin-ajax.php?action=frp_hls_proxy&url=https://streamyes.alsolnet.com/comunitariafm/live/playlist.m3u8,url-sospechosa
+Empenos a lo bestia,Series,https://jmp2.uk/plu-60218baa464ef900073168c1.m3u8,vod-no-autorizado
+Encuentro (720p),Culture,http://138.59.227.20:8000/play/a05s/index.m3u8,no-https;ip-directa
+Enlace (1080p),Religious,http://138.121.15.230:9002/ENLACE/index.m3u8,no-https;ip-directa
+Enlace Television (1080p),General,http://181.78.12.119:16123/play/ch33/index.m3u8,no-https;ip-directa
+ESNE TV (1080p),Religious,http://190.217.66.92:8000/play/a0fp/index.m3u8,no-https;ip-directa
+ESPN 2 Latin America (1080p),Sports,https://barinaslive1.boldmss.com/ESPN_2/ESPN_2.isml/ESPN_2.m3u8,tv-pago/adulto
+ESPN 2 Latin America Argentina,Sports,https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/espn2-mux/playlist.m3u8,tv-pago/adulto
+ESPN 2 Latin America Colombia (1080p),Sports,http://190.61.47.54:8000/play/a005/index.m3u8,no-https;ip-directa;tv-pago/adulto
+ESPN 3 Latin America (1080p),Sports,https://barinaslive1.boldmss.com/ESPN_3/ESPN_3.isml/ESPN_3.m3u8,tv-pago/adulto
+ESPN 3 Latin America Argentina,Sports,https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/espn3-mux/playlist.m3u8,tv-pago/adulto
+ESPN 4 Latin America (1080p),Sports,https://barinaslive1.boldmss.com/ESPN_4/ESPN_4.isml/ESPN_4.m3u8,tv-pago/adulto
+ESPN 5 Latin America (1080p),Sports,https://barinaslive1.boldmss.com/ESPN_5/ESPN_5.isml/ESPN_5.m3u8,tv-pago/adulto
+ESPN 6 Latin America (1080p),Sports,https://barinaslive1.boldmss.com/ESPN_6/ESPN_6.isml/ESPN_6.m3u8,tv-pago/adulto
+ESPN 7 Latin America (1080p),Sports,https://barinaslive1.boldmss.com/ESPN_7/ESPN_7.isml/ESPN_7.m3u8,tv-pago/adulto
+ESPN Deportes HD (720p),Sports,http://168.228.44.241:9998/play/a0dz/index.m3u8,no-https;ip-directa;tv-pago/adulto
+ESPN Extra Latin America (1080p),Sports,https://barinaslive1.boldmss.com/ESPN/ESPN.isml/ESPN.mpd?,tv-pago/adulto
+ESPN Latin America (1080p),Sports,https://barinaslive1.boldmss.com/ESPN/ESPN.isml/ESPN.m3u8,tv-pago/adulto
+ESPN Latin America Argentina,Sports,https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/espn-mux/chunks.m3u8,tv-pago/adulto
+ESPN Latin America Colombia (1080p),Sports,http://190.61.47.54:8000/play/a004/index.m3u8,no-https;ip-directa;tv-pago/adulto
+ESPN Latin America Mexico (1080p),Sports,http://168.228.44.241:9997/play/a06p/index.m3u8,no-https;ip-directa;tv-pago/adulto
+ESPN Premium HD (1080p),Sports,http://158.172.155.130:8000/play/a0ao/index.m3u8,no-https;ip-directa;tv-pago/adulto
+Este Canal TV (576p),General,http://synclosdragos1.syncsolutions.es:8008/live3/emision/index.m3u8,no-https
+Europa Europa (1080p),Series,https://iptv.bitred.cl/EUROPAEUROPA_HD/index.m3u8,vod-no-autorizado
+Eurosport 1 Spain (576p),Sports,http://45.134.141.161:2200/ARG/Eurosport_1_HD/index.m3u8,no-https;ip-directa
+Eurosport 2 Spain (1080p),Sports,http://45.134.141.161:2200/ARG/Eurosport_2_HD/index.m3u8,no-https;ip-directa
+Exa TV,Music,http://190.61.90.17:40000/play/a0hk/index.m3u8,no-https;ip-directa
+Exitosa TV (1080p),News,http://190.93.224.42/EXITOSA/index.m3u8,no-https;ip-directa
+F10 HD (720p),General,http://15.204.246.24:8080/F10HD/index.m3u8,no-https;ip-directa
+Fierro a Fondo TV (1080p),Auto,http://45.70.201.81:8000/play/a00x/index.m3u8,no-https;ip-directa
+Film & Arts (1080p),Movies,http://15.204.246.24:8080/FilmArtsHD/index.m3u8,no-https;ip-directa;vod-no-autorizado
+Filmex (1080p) [Geo-blocked],Movies,https://filmex-filmex-xumo.amagi.tv/playlist.m3u8,vod-no-autorizado
+Filmex Clasico (1080p) [Geo-blocked],Movies,https://filmex-filmexclasico-xumo.amagi.tv/playlist.m3u8,vod-no-autorizado
+FMTV [Not 24/7],Music,https://s2.tvdatta.com:3307/hybrid/play.m3u8,tv-pago/adulto
+Food Network Latin America (1080p),Cooking,http://168.196.127.137:6001/play/a09v/index.m3u8,no-https;ip-directa
+Fox Deportes (720p),Sports,http://23.237.104.106:8080/USA_FOX_DEPORTES/index.m3u8,no-https;ip-directa
+Fox Sports 2 (Argentina) (576i),Sports,https://zapster.trapemn.tv:1936/CD-LATAM/FoxSports2/playlist.m3u8,tv-pago/adulto
+Fox Sports (1080p),Sports,http://138.59.227.20:8000/play/a085/index.m3u8,no-https;ip-directa;tv-pago/adulto
+Fox Sports HD,Sports,http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/1552.m3u8,no-https;ip-directa;tv-pago/adulto
+FuegoTV (1080p),News,http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/fuegotv.stream/playlist.m3u8,no-https
+FunBox,Kids,http://186.148.196.100:8000/play/a00d,no-https;ip-directa
+FUTV (1080p),Sports,http://45.228.234.9:8000/play/a06o/index.m3u8,no-https;ip-directa
+FX Latin America (1080p),Entertainment,http://15.204.246.24:8080/FXHD/index.m3u8,no-https;ip-directa
+Galavision West (720p),General,http://200.115.120.1:8000/play/ca128/index.m3u8,no-https;ip-directa
+Gamavision (1080p),General,http://45.224.97.181:9999/Gamavision/index.m3u8,no-https;ip-directa
+GAMTV.cr (720p),General,https://v2.azulstream.com:8081/gamtv/gamtv/index.m3u8,tv-pago/adulto
+Gigavision (1080p),Undefined,http://158.172.155.130:8000/play/a0e7/index.m3u8,no-https;ip-directa
+Global TV (Dominican Republic) (720p) [Not 24/7],General,https://vtm1.msinteractiva.com./globaltv/globaltv/playlist.m3u8,no-https
+Global TV (Peru) (1080p),General,http://190.93.224.42/GLOBAL/index.m3u8,no-https;ip-directa
+Globovision (576p),General,http://181.78.8.199:8000/play/a09k/index.m3u8,no-https;ip-directa
+Golden (1080p),Undefined,http://38.19.41.46:8081/MTV/index.m3u8,no-https;ip-directa;tv-pago/adulto
+Golden Edge (1080p),Undefined,http://38.19.41.46:8081/GOLDENEDGE/index.m3u8,no-https;ip-directa;tv-pago/adulto
+Golden Plus (1080p),Undefined,http://45.5.118.152:8000/play/a03p/index.m3u8,no-https;ip-directa;tv-pago/adulto
+Golden Premier 2 (1080p),Movies,http://200.229.147.210:9999/play/a00l/index.m3u8,no-https;ip-directa;tv-pago/adulto;vod-no-autorizado
+Golden Premier (1080p),Movies,http://200.229.147.210:9999/play/a00k/index.m3u8,no-https;ip-directa;tv-pago/adulto;vod-no-autorizado
+Golf Channel Latin America (1080p),Sports,http://15.204.246.24:8080/GolfChannelHD/index.m3u8,no-https;ip-directa
+Guatevision (1080p),News,http://200.115.120.1:8000/play/ca066/index.m3u8,no-https;ip-directa
+HBO 2 Latin America HD (1080p),Movies;Series,http://45.171.64.30:6060/play/a00i/index.m3u8,no-https;ip-directa;tv-pago/adulto;vod-no-autorizado
+HBO (United States) (720p),Movies;Series,http://tvsen7.aynascope.net/hbo/index.m3u8,no-https;tv-pago/adulto;vod-no-autorizado
+HBO Family Latin America (1080p),Family,http://45.171.64.30:6060/play/a00k/index.m3u8,no-https;ip-directa;tv-pago/adulto
+HBO Hits (720p),Movies;Series,http://tvsen7.aynascope.net/hbo2/index.m3u8,no-https;tv-pago/adulto;vod-no-autorizado
+HBO Latin America (1080p),Undefined,https://streaming.onnethn.com/HBO/playlist.m3u8,tv-pago/adulto
+HBO Mundi Latin America,Movies,https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/cinemax.stream/chunks.m3u8,tv-pago/adulto;vod-no-autorizado
+HBO Xtreme Latin America,Movies;Series,https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/HBO_Xtreme/chunks.m3u8,tv-pago/adulto;vod-no-autorizado
+HBO+ Latin America (1080p),Undefined,http://45.134.141.161:2200/ARG/HBO_HD/index.m3u8,no-https;ip-directa;tv-pago/adulto
+HGTV Latin America (1080p),Lifestyle,http://38.87.224.19:2220/play/a01p/index.m3u8,no-https;ip-directa
+History 2 Latin America (1080p),Documentary,http://138.121.15.230:9002/HISTORY-2/index.m3u8,no-https;ip-directa;tv-pago/adulto
+History Latin America (1080p),Documentary,http://15.204.246.24:8080/HistoryHD/index.m3u8,no-https;ip-directa;tv-pago/adulto
+History Latin America South,Documentary,http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/37.m3u8,no-https;ip-directa;tv-pago/adulto
+Hits 360 TV (720p) [Not 24/7],Music,http://cm.hostlagarto.com:8081/hits360tv/hits360HD.myStream/playlist.m3u8,no-https
+HLN (720p),News,http://23.237.104.106:8080/USA_HLN/index.m3u8,no-https;ip-directa
+Hogar TV (1080p),Lifestyle,http://190.61.47.54:8000/play/a01n/index.m3u8,no-https;ip-directa
+Hola! TV Latin America (1080p),Entertainment,http://15.204.246.24:8080/HOLATVHD/index.m3u8,no-https;ip-directa
+HTV (720p),Music,http://45.171.64.30:6060/play/a012/index.m3u8,no-https;ip-directa
+HTV Argentina (720p),Music,http://45.134.141.161:2200/ARG/HTV/index.m3u8,no-https;ip-directa
+iCarly (United States) LatAm,Series,https://jmp2.uk/plu-620ff0a01f9e8700076c6f9d.m3u8,vod-no-autorizado
+Iglesia Del Camino (480p) [Not 24/7],Religious,http://streamingcontrol.com:1935/ectv/ectv/playlist.m3u8,no-https
+Imagen Universal TV,General,https://imagenuniversaltv.net:3771/live/iutvlive.m3u8,tv-pago/adulto
+Investiga,Series,https://jmp2.uk/plu-5dcde27ffae9520009c0c75a.m3u8,vod-no-autorizado
+Investigation Discovery Latin America South (1080p),Documentary,http://38.65.175.84:8000/play/a0ch/index.m3u8,no-https;ip-directa;tv-pago/adulto
+JN 19 (720p),Religious,http://187.102.210.46/JN19/index.m3u8,no-https;ip-directa
+Jubilo TV (720p),Religious,http://173.249.60.54/hls/jubilotv.m3u8,no-https;ip-directa
+Juntos TV (Peru) (1080p),General,http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/juntos_tv.stream/playlist.m3u8,no-https
+Justicia TV (Peru) (1080p),Legislative,http://190.93.224.42/JUSTICIA-TV/index.m3u8,no-https;ip-directa
+Kanal D Drama (1080p),Entertainment,http://190.93.224.42/KANAL-D-DRAMA/index.m3u8,no-https;ip-directa
+Karibena (720p),Music,http://187.102.210.46/KARIBENA/index.m3u8,no-https;ip-directa
+KCHTV (1080p),General,http://iptv.kchtv.video.makrodigital.com:8081/kchtv/iptv/playlist.m3u8,no-https
+Kenan & Kel,Series,https://jmp2.uk/plu-5fcea93ffcf94500071c4b2f.m3u8,vod-no-autorizado
+KidOO (1080p) [Geo-blocked],Animation;Kids,http://15.204.246.24:8080/KidooHD/index.m3u8,no-https;ip-directa
+L1 (1080p),Sports,http://45.4.1.201:8000/play/a1ai/index.m3u8,no-https;ip-directa
+L1 Max (1080p),Sports,http://190.93.224.42/LIGA-1-MAX/index.m3u8,no-https;ip-directa
+La 1 UHD (2160p),General;Public,http://185.47.212.25:8080/tdp_HD/index.m3u8,no-https;ip-directa
+La Kalle (1080p),Music,http://200.122.223.13:55000/play/la-kalle-tdt/index.m3u8,no-https;ip-directa
+La Rosa de Guadalupe (360p),Series,https://app.viloud.tv/hls/channel/9c88161fe675b59d4b008c776f033960.m3u8,vod-no-autorizado
+La Tele (1080p),Entertainment,http://190.93.224.42/LA-TELE/index.m3u8,no-https;ip-directa
+La Tele Tuya (576p),Entertainment,http://181.78.8.199:8000/play/a0fs/index.m3u8,no-https;ip-directa
+Las Estrellas Latin America (1080p),General,http://15.204.246.24:8080/LasEstrellasHD/index.m3u8,no-https;ip-directa
+Latina (1080p),General,http://190.93.224.42/LATINA/index.m3u8,no-https;ip-directa
+Latina Clasicos (1080p),Series,http://45.171.108.253:8888/LATINA/index.m3u8,no-https;ip-directa;vod-no-autorizado
+Lifetime Latin America (1080p),Entertainment,http://138.121.15.230:9002/LIFETIME/index.m3u8,no-https;ip-directa
+Lifetime Movies (1080p),Movies,http://23.237.104.106:8080/USA_LMN/index.m3u8,no-https;ip-directa;vod-no-autorizado
+Limon TV (1080p) [Not 24/7],General,http://k4.usastreams.com/limontv1/limontv1/playlist.m3u8,no-https
+Los archivos del FBI,Series,https://jmp2.uk/plu-5f1acbed25948a0007ffbe65.m3u8,vod-no-autorizado
+Los Asesinatos de Midsomer,Series,https://jmp2.uk/plu-5f1aca8310a30e00074fab92.m3u8,vod-no-autorizado
+Marca TV (1080p),General,http://200.7.219.221:8088/live/livetv/index.m3u8,no-https;ip-directa
+Maria Vision (1080p),Religious,http://200.122.223.13:55000/play/a022/index.m3u8,no-https;ip-directa
+Maxcine 2 (720p),Movies,https://live20.bozztv.com/giatvplayout7/giatv-209163/playlist.m3u8,vod-no-autorizado
+Maxcine (720p),Movies,https://live20.bozztv.com/giatvplayout7/giatv-208138/playlist.m3u8,vod-no-autorizado
+Maxcine Comedy (720p),Movies,https://live20.bozztv.com/giatvplayout7/giatv-208730/playlist.m3u8,vod-no-autorizado
+Maxcine Family (720p),Movies,https://live20.bozztv.com/giatvplayout7/giatv-208817/playlist.m3u8,vod-no-autorizado
+Maxcine Kids (720p),Movies,https://live20.bozztv.com/giatvplayout7/giatv-209909/playlist.m3u8,vod-no-autorizado
+Maxivision Canal 8 (1080p),General,http://181.119.97.124:8080/play/a00w/index.m3u8,no-https;ip-directa
+MC (1080p),General,http://168.196.127.137:6001/play/a070/index.m3u8,no-https;ip-directa
+MCI Television (1080p),Family;General;Movies,https://video.ejeserver.com/live/mcitelevision.m3u8,vod-no-autorizado
+Medium (Germany),Movies;Series,https://jmp2.uk/plu-6578808014fbe400086e21bc.m3u8,vod-no-autorizado
+Mega 2 (1080p),Culture,http://15.204.246.24:8080/Mega2HD/index.m3u8,no-https;ip-directa
+Mega (Chile) (1080p),General,http://tr.live.clarovtrcdn.vtrplay.com/megahdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD,no-https
+Mega Cine TV (1080p),Movies,https://cnn.hostlagarto.com/megacinetv/playlist.m3u8,vod-no-autorizado
+Mega Extreno HD (720p),Movies,https://stream-cdn-iad3.vaughnsoft.net/play/live_mega_extremo.flv,vod-no-autorizado
+Mega Ficcion (1080p),Series,http://15.204.196.147:22880/MEGAFICCION-MEGAMEDIA-EE.UU-PROVEEDOR/index.m3u8,no-https;ip-directa;vod-no-autorizado
+Meganoticias Ahora (1080p),News,http://15.204.196.147:22880/MEGANOTICIA-MEGAMEDIA-EE.UU-PROVEEDOR/video.m3u8,no-https;ip-directa
+MegaVision TV (480p),General,http://server3.prostudionetwork.com:1943/megavision/MV/playlist.m3u8,no-https
+Meridiano TV (576p),Sports,http://181.78.8.199:8000/play/a0fr/index.m3u8,no-https;ip-directa
+Mi Extrana Obsesion,Series,https://jmp2.uk/plu-60e4573c9f963e00077ecf25.m3u8,vod-no-autorizado
+Mi Musica Hits (720p),Music,http://38.188.186.47:4000/play/a04n/index.m3u8,no-https;ip-directa
+Mi Musica Reggaeton (1080p),Music,http://181.78.12.119:16123/play/ch53/index.m3u8,no-https;ip-directa
+Mi Musica Romantica (1080p),Music,http://181.78.12.119:16123/play/ch54/index.m3u8,no-https;ip-directa
+Mi Musica Salsa (1080p),Music,http://181.78.12.119:16123/play/ch55/index.m3u8,no-https;ip-directa
+Misterios sin resolver,Series,https://jmp2.uk/plu-5f610042272f68000867685b.m3u8,vod-no-autorizado
+MiTV (1080p),Entertainment,http://190.128.214.97:64333/play/a02w/index.m3u8,no-https;ip-directa
+Mizpa TV (1080p),Religious,http://45.167.2.101:8000/play/a0r7/index.m3u8,no-https;ip-directa
+MLB Strike Zone (720p),Sports,http://23.237.104.106:8080/USA_MLB_STRIKE_ZONE/index.m3u8,no-https;ip-directa
+Morazan TV (720p),General,http://45.167.2.138:8000/play/a0o4/index.m3u8,no-https;ip-directa
+Movistar Deportes (1080p),Sports,http://195.178.110.110/movistar/index.m3u8,no-https;ip-directa;tv-pago/adulto
+Movistar Plus (576p),Entertainment,http://45.4.1.201:8000/play/a19y/index.m3u8,no-https;ip-directa
+MSG (720p),Sports,http://23.237.104.106:8080/USA_MSG/index.m3u8,no-https;ip-directa
+MTV2 (720p),Entertainment,http://198.58.104.90:8989/mtv2/index.m3u8,no-https;ip-directa;tv-pago/adulto
+MTV Biggest Pop LatAm (1080p),Music,https://jmp2.uk/plu-6047fabfce6e8e00070bcc9f.m3u8,tv-pago/adulto
+MTV Catfish (United States) LatAm (720p),Entertainment,https://jmp2.uk/plu-625461ef01f27a0007976ad1.m3u8,tv-pago/adulto
+MTV Chontales (720p) [Not 24/7],General,https://altair.hostingnica.net/hls/mtv_stream/index.m3u8,tv-pago/adulto
+MTV Classic LatAm (720p),Music,https://jmp2.uk/plu-66a11a21a79dea0008aa90ca.m3u8,tv-pago/adulto
+MTV Con Mi Ex,Entertainment,https://jmp2.uk/plu-638693db857364000781b471.m3u8,tv-pago/adulto
+MTV Dating (United States) LatAm (720p),Series,https://jmp2.uk/plu-6851b909954170e0128bc71d.m3u8,tv-pago/adulto;vod-no-autorizado
+MTV Drag LatAm,Entertainment,https://jmp2.uk/plu-64510d3ad3fdde00080951f2.m3u8,tv-pago/adulto
+MTV Embarazada a los 16,Entertainment,https://jmp2.uk/plu-5f98537a5a4341000733aefe.m3u8,tv-pago/adulto
+MTV en Espanol,Entertainment,https://jmp2.uk/plu-5cf96d351652631e36d4331f.m3u8,tv-pago/adulto
+MTV Flow Latino LatAm (720p),Music,https://jmp2.uk/plu-62b218fc511d4b00070ddc0c.m3u8,tv-pago/adulto
+MTV Geordies,Entertainment,https://jmp2.uk/plu-627d3176d7dfa500077042f1.m3u8,tv-pago/adulto
+MTV Jerseys,Entertainment,https://jmp2.uk/plu-62ac3d7dc23b400008ae5b5a.m3u8,tv-pago/adulto
+MTV Latin America (1080p),Entertainment,http://15.204.246.24:8080/MTVHD/index.m3u8,no-https;ip-directa;tv-pago/adulto
+MTV Originals,Entertainment,https://jmp2.uk/plu-5f1aadf373bed3000794d1d7.m3u8,tv-pago/adulto
+MTV Pluto TV LatAm (720p),Entertainment,https://jmp2.uk/plu-5fab088b3279760007d4e4fd.m3u8,tv-pago/adulto
+MTV Reality (United States) LatAm (720p),Entertainment,https://jmp2.uk/plu-5de91b7ea86ee60009d89e75.m3u8,tv-pago/adulto
+MTV Ridiculousness (United States) LatAm (720p),Entertainment,https://jmp2.uk/plu-5e98a911c881310007d7aae2.m3u8,tv-pago/adulto
+MTV Rocks LatAm,Entertainment,https://jmp2.uk/plu-66a01b52a4ee27000808ea36.m3u8,tv-pago/adulto
+MTV Teen Mom (United States) (720p),Series,https://jmp2.uk/plu-620fd9f4afb9a80007a9c6d5.m3u8,tv-pago/adulto;vod-no-autorizado
+MTV Verguenza ajena (720p),Entertainment,https://jmp2.uk/plu-63eb9495a8b227000841bf64.m3u8,tv-pago/adulto
+MultiPremier (1080p),Movies,http://168.196.127.137:6001/play/a08n/index.m3u8,no-https;ip-directa;vod-no-autorizado
+MyTime Movie Network (Mexico) (720p),Movies,https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8,vod-no-autorizado
+MyTime Movie Network (Spain) (1080p),Movies,https://appletree-mytimespain-rakuten.amagi.tv/playlist.m3u8,vod-no-autorizado
+Nacional Tv Peru (720p),General,http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/nacionaltv_peru.stream/playlist.m3u8,no-https
+National Geographic (Mexico) (1080p),Documentary,http://138.121.15.230:9002/NAT-GEO/index.m3u8,no-https;ip-directa;tv-pago/adulto
+National Geographic Latin America (1080p),Documentary,http://15.204.246.24:8080/NatGeoHD/index.m3u8,no-https;ip-directa;tv-pago/adulto
+Nativa (720p),General,http://187.102.210.46/NATIVATV/index.m3u8,no-https;ip-directa
+NCIS (United States) LatAm,Series,https://jmp2.uk/plu-63eb947c4e83e70008ab877b.m3u8,vod-no-autorizado
+Neo TV (Peru) (720p),Entertainment,http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/DigitalTV/playlist.m3u8,no-https
+NET TV (720p),General,http://45.134.141.161:2200/ARG/Net_TV/index.m3u8,no-https;ip-directa
+Next HD (480p),Movies;Music,https://live.enhdtv.com:19360/nexthd/nexthd.m3u8,vod-no-autorizado
+NG Federal (720p),General,http://www.coninfo.net:1935/tvlink/live/playlist.m3u8,no-https
+Nickelodeon Latin America (1080p),Kids,http://15.204.246.24:8080/NickHD/index.m3u8,no-https;ip-directa
+Nortevision (1080p),Undefined,http://amaru.dyndns.org:8870/0.m3u8,no-https
+Novelisima (1080p),Series,http://138.59.177.78:9999/play/a0gg/index.m3u8,no-https;ip-directa;vod-no-autorizado
+Nuestra Tele Internacional (1080p),General,http://45.173.231.22:8000/play/a0cr/index.m3u8,no-https;ip-directa
+Numeros,Series,https://jmp2.uk/plu-67f960680072d6b187a0682e.m3u8,vod-no-autorizado
+Oasis Television (720p) [Not 24/7],General,http://vcp1.myplaytv.com/oasistv/oasistv/playlist.m3u8,no-https
+Oromar TV (1080p),General,http://45.224.97.181:9999/Oromar/index.m3u8,no-https;ip-directa
+Ovacion TV (720p) [Not 24/7],Sports,http://cdn2.ujjina.com:1935/iptvovacion1/liveovacion1tv/playlist.m3u8,no-https
+Pakapaka (1080p),Kids,http://138.59.227.20:8000/play/a05t/index.m3u8,no-https;ip-directa
+Palenque TV (576p),General,http://15.204.246.24:8080/PalenqueTVSD/index.m3u8,no-https;ip-directa
+Panamericana TV (1080p),General,http://45.171.108.253:8888/PANAMERICANA/index.m3u8,no-https;ip-directa
+Panico (576p),Undefined,http://181.78.8.199:8000/play/a0bt/index.m3u8,no-https;ip-directa
+Pantalla Clasica EC (512p) [Not 24/7],Movies;Series,https://live21.bozztv.com/akamaissh101/ssh101/pantallaclasics/playlist.m3u8,vod-no-autorizado
+Paravision,General,http://45.170.130.224:8000/play/a032/index.m3u8?hls,no-https;ip-directa
+Parlamento de Andalucia (576p) [Not 24/7],Legislative,http://193.147.254.64:1935/realizacion1/realizacion1/playlist.m3u8,no-https;ip-directa
+Pasiones Latin America (1080p),Entertainment,http://15.204.246.24:8080/PasionesHD/index.m3u8,no-https;ip-directa
+PAT (1080p),General,http://158.172.155.130:8000/play/a0e6/index.m3u8,no-https;ip-directa
+PBO (1080p),News,http://190.93.224.42/PBO/index.m3u8,no-https;ip-directa
+Persiana Latino,Movies,https://latinohls.persiana.live/hls/stream.m3u8,vod-no-autorizado
+Picosa TV (720p),Music,http://45.167.2.101:8000/play/a0sd/index.m3u8,no-https;ip-directa
+Plim Plim (1080p),Animation;Kids,http://200.115.120.1:8000/play/ca091/index.m3u8,no-https;ip-directa
+Pluto TV A La Mexicana,Movies,https://jmp2.uk/plu-5dfcde52d28b09000a42d7a2.m3u8,vod-no-autorizado
+Pluto TV Aventura,Series,https://jmp2.uk/plu-5ddc266f80e3550009136843.m3u8,vod-no-autorizado
+Pluto TV Catastrofes,Movies,https://jmp2.uk/plu-645a309c5a0cd5000873f609.m3u8,vod-no-autorizado
+Pluto TV Cine Accion,Movies,https://jmp2.uk/plu-5dcb62e63d4d8f0009f36881.m3u8,vod-no-autorizado
+Pluto TV Cine Clasico,Movies,https://jmp2.uk/plu-609059dc63be6e0007b4eca6.m3u8,vod-no-autorizado
+Pluto TV Cine Comedia (Germany),Movies,https://jmp2.uk/plu-5f1ac8099c49f600076579b2.m3u8,vod-no-autorizado
+Pluto TV Cine Comedia (United States),Movies,https://jmp2.uk/plu-5f513564e4622a0007c578c0.m3u8,vod-no-autorizado
+Pluto TV Cine Comedia (United States) LatAm,Movies,https://jmp2.uk/plu-5dcdde78f080d900098550e4.m3u8,vod-no-autorizado
+Pluto TV Cine Crimen,Movies,https://jmp2.uk/plu-624af40c004f8000079b784d.m3u8,vod-no-autorizado
+Pluto TV Cine de autor,Movies,https://jmp2.uk/plu-60cc807324d60a0007708dc8.m3u8,vod-no-autorizado
+Pluto TV Cine Drama LatAm,Movies,https://jmp2.uk/plu-5dcddfcb229eff00091b6bdf.m3u8,vod-no-autorizado
+Pluto TV Cine Estelar,Movies,https://jmp2.uk/plu-5dcde437229eff00091b6c30.m3u8,vod-no-autorizado
+Pluto TV Cine Familia LatAm,Movies,https://jmp2.uk/plu-5dd6ddb30a1d8a000908ed4c.m3u8,vod-no-autorizado
+Pluto TV Cine Inspirador,Movies,https://jmp2.uk/plu-6806d519fea7414f33f57016.m3u8,vod-no-autorizado
+Pluto TV Cine Romance LatAm,Movies,https://jmp2.uk/plu-5dd7ea2aeab5230009986735.m3u8,vod-no-autorizado
+Pluto TV Cine Romantico,Movies,https://jmp2.uk/plu-5f1ac9a2d3611d0007a844bb.m3u8,vod-no-autorizado
+Pluto TV Cine Suspenso,Movies,https://jmp2.uk/plu-5ddc4e8bcbb9010009b4e84f.m3u8,vod-no-autorizado
+Pluto TV Comedias Romanticas,Comedy;Movies,https://jmp2.uk/plu-655b5d865812e80008843bd1.m3u8,vod-no-autorizado
+Pluto TV Dog el cazarrecompensas,Series,https://jmp2.uk/plu-5f9992c685a2a80007fa414a.m3u8,vod-no-autorizado
+Pluto TV Dramas Coreanos,Series,https://jmp2.uk/plu-6185a9a88b2ce30007de5128.m3u8,vod-no-autorizado
+Pluto TV Dramas Coreanos Teen,Series,https://jmp2.uk/plu-6661d5424b10960008599fa3.m3u8,vod-no-autorizado
+Pluto TV Estrellas de Accion,Movies,https://jmp2.uk/plu-5e972a21ad709d00074195ba.m3u8,vod-no-autorizado
+Pluto TV Invasion Alien,Movies,https://jmp2.uk/plu-654a35ce346f420008d5c36e.m3u8,vod-no-autorizado
+Pluto TV K-Drama,Series,https://jmp2.uk/plu-6475bfec536e0c0008858e9f.m3u8,vod-no-autorizado
+Pluto TV Minuto Para Ganar,Series,https://jmp2.uk/plu-5e46e64dc73db400094b5f0b.m3u8,vod-no-autorizado
+Pluto TV Misterios Medicos,Series,https://jmp2.uk/plu-5f230e416b68ff00075b0139.m3u8,vod-no-autorizado
+Pluto TV Novelas,Series,https://jmp2.uk/plu-5cf96c0222df39f1a338d163.m3u8,vod-no-autorizado
+Pluto TV Novelas LatAm,Series,https://jmp2.uk/plu-5dcde0cc2efd2700090b7ff4.m3u8,vod-no-autorizado
+Pluto TV Novelas de Mexico,Series,https://jmp2.uk/plu-6474a7958e3c0a0008b97cae.m3u8,vod-no-autorizado
+Pluto TV Novelas de Otros Continentes,Series,https://jmp2.uk/plu-686eed4c677f2f98b4a1ccd4.m3u8,vod-no-autorizado
+Pluto TV Novelas de Venezuela,Series,https://jmp2.uk/plu-6474a86917f5e100089a0c1c.m3u8,vod-no-autorizado
+Pluto TV Nuestro Cine,Movies,https://jmp2.uk/plu-5defde6d6c07b50009cf0757.m3u8,vod-no-autorizado
+Pluto TV Psycho,Movies,https://jmp2.uk/plu-65ce480a78df2200131c597b.m3u8,vod-no-autorizado
+Pluto TV Sci-Fi (United States),Movies;Series,https://jmp2.uk/plu-5b4fc274694c027be6ed3eea.m3u8,vod-no-autorizado
+Pluto TV Sci-Fi (United States) LatAm,Movies;Series,https://jmp2.uk/plu-5f2817d3d7573a00080f9175.m3u8,vod-no-autorizado
+Pluto TV Series,Series,https://jmp2.uk/plu-5dcde1317578340009b751d0.m3u8,vod-no-autorizado
+Pluto TV Series criminales,Series,https://jmp2.uk/plu-65cf6ab58145cb0008129ca8.m3u8,vod-no-autorizado
+Pluto TV Series de Accion,Series,https://jmp2.uk/plu-6479ff1c17f5e10008ad2797.m3u8,vod-no-autorizado
+Pluto TV Series de Comedia,Series,https://jmp2.uk/plu-655f626d57fe4a00085c7c3e.m3u8,vod-no-autorizado
+Pluto TV Series de Crimen,Series,https://jmp2.uk/plu-655f62ff954b020008c91ec6.m3u8,vod-no-autorizado
+Pluto TV Series de Drama,Series,https://jmp2.uk/plu-655f636d954b020008c93299.m3u8,vod-no-autorizado
+Pluto TV Series de Otros Continentes,Series,https://jmp2.uk/plu-6806d570c178637410ae4962.m3u8,vod-no-autorizado
+Pluto TV Series de Sci-Fi,Series,https://jmp2.uk/plu-65662f8a2c46f300088a84cc.m3u8,vod-no-autorizado
+Pluto TV Series Latinas,Series,https://jmp2.uk/plu-5dd837642c6e9300098ad484.m3u8,vod-no-autorizado
+Pluto TV Telenovelas Clasicas,Series,https://jmp2.uk/plu-662a69daa0a74e00087a1c72.m3u8,vod-no-autorizado
+Pluto TV Western ES,Movies,https://jmp2.uk/plu-6385e82900ab2e000768a058.m3u8,vod-no-autorizado
+Pluto TV Zombies,Movies;Series,https://jmp2.uk/plu-65786888b228b7000843ad9a.m3u8,vod-no-autorizado
+Poder de Dios TV (1080p),Religious,http://15.204.246.24:8080/PoderdeDiosHD/index.m3u8,no-https;ip-directa
+Popcorn Central (1080p),Movies,https://oly-ftvpc.otteravision.com/oly/ftvpc/ftvpc.m3u8,vod-no-autorizado
+Popu TV (1080p),Entertainment,http://190.108.83.69:8000/play/a070/index.m3u8,no-https;ip-directa
+Popular TV Melilla (1080p) [Not 24/7],Undefined,http://5940924978228.streamlock.net:1935/8009/8009/playlist.m3u8,no-https
+Productiva TV (1080p),Outdoor,http://190.128.214.97:64333/play/a04i/index.m3u8,no-https;ip-directa
+PX Sports (1080p),Sports,http://38.252.238.18:8000/play/a02f/index.m3u8,no-https;ip-directa
+Quiero Musica en mi Idioma (1080p),Music,http://158.172.155.130:8000/play/a00a/index.m3u8,no-https;ip-directa
+Quince UCR (720p) [Not 24/7],Undefined,http://163.178.170.127:1935/quinceucr/quinceucr/playlist.m3u8,no-https;ip-directa
+Radio Bocairent TV (1080p) [Not 24/7],General,http://185.81.77.4/BocairentTV/index.m3u8,no-https;ip-directa
+Radio Fantastica 98.9 FM (1080p),Music,http://190.107.232.9:8082/livestream/stream.m3u8,no-https;ip-directa
+Radio Universal (720p),General,https://videostream.chileservidores.com:8081/universal/index.m3u8,tv-pago/adulto
+Radiocanal (1080p),General,http://204.199.3.2/.m3u8,no-https;ip-directa
+Radiola TV (1080p),Music,http://158.172.217.18:8000/play/a01k/index.m3u8,no-https;ip-directa
+Radiotele (352p),General,http://linkrt.ddns.net:8080/hls/rtmorelia_MID.m3u8,no-https
+Rakuten TV Action Movies (1080p),Movies,https://a9c57ec7ec5e4b7daeacc6316a0bb404.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6069/master.m3u8,vod-no-autorizado
+Rakuten TV Comedy Movies (1080p),Movies,https://71db867f03ce4d71a29e92155f07ab87.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6180/master.m3u8,vod-no-autorizado
+Rakuten TV Drama Movies (1080p),Movies,https://a7089c89d85f453d850c4a1518b43076.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6092/master.m3u8,vod-no-autorizado
+Rakuten TV Family Movies (1080p),Family;Movies,https://b0d59c8c98974e708e5ccb9a27cdfdfc.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6205/master.m3u8,vod-no-autorizado
+Rakuten TV Top Movies (1080p),Movies,https://ff335120300e4742a2b135ee9a9e7df8.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-5983/master.m3u8,vod-no-autorizado
+Rakuten Viki (1080p),Entertainment;Series,https://newidco-rakutenviki-2-eu.xiaomi.wurl.tv/playlist.m3u8,vod-no-autorizado
+Ranchenato TV (1080p),Music,http://181.78.12.119:16123/play/ch15/index.m3u8,no-https;ip-directa
+RCN HD2 (1080p),General,http://181.78.14.26:4000/play/a07m/index.m3u8,no-https;ip-directa
+RCN Mas (1080p),Entertainment,http://45.226.205.96:48000/play/a0af/index.m3u8,no-https;ip-directa
+Red DTV (1080p),General,http://15.204.246.24:8080/DTVHD/index.m3u8,no-https;ip-directa
+Red TV Shop (720p),Shop,https://master.tucableip.com/redtvshop/index.m3u8,vod-no-autorizado
+Red Uno (1080p),General,http://190.181.61.93:8000/play/a002/index.m3u8,no-https;ip-directa
+Red Uno La Paz (1080p),General,http://190.181.61.93:8000/play/a003/index.m3u8,no-https;ip-directa
+RedADvenir TV (360p) [Not 24/7],Undefined,http://streamer1.streamhost.org:1935/salive/GMIredadvenirm/playlist.m3u8,no-https
+Rhema TV (1080p),Religious,http://45.171.64.30:6060/play/a04k/index.m3u8,no-https;ip-directa
+Rock & Pop (1080p),Music,http://190.128.214.97:64333/play/a032/index.m3u8,no-https;ip-directa
+RPP TV (1080p),News,http://190.93.224.42/RPP/index.m3u8,no-https;ip-directa
+RT en Espanol (1080p),News,http://15.204.246.24:8080/RTHD/index.m3u8,no-https;ip-directa
+RTP (Bolivia) (1080p),General,http://190.181.61.93:8000/play/a00n/index.m3u8,no-https;ip-directa
+RTS (1080p),General,http://45.171.108.253:8888/RTS/index.m3u8,no-https;ip-directa
+RTU (1080p),News,http://45.224.97.181:9999/RTU/index.m3u8,no-https;ip-directa
+Rumba TV (1080p),Music,http://186.148.196.100:8000/play/a02h,no-https;ip-directa
+Rumbo Minero TV (1080p),General,http://45.70.201.81:8000/play/a018/index.m3u8,no-https;ip-directa
+Runtime Espanol (720p),Movies,https://run-rt-uh-roku.otteravision.com/run/rt_uh/rt_uh.m3u8,vod-no-autorizado
+Sarapiqui TV (720p) [Not 24/7],General,http://tiquiciatv.com:1935/stv/web/playlist.m3u8,no-https
+Semillitas TV (1080p),Undefined,http://168.196.127.137:6001/play/a04y/index.m3u8,no-https;ip-directa
+Senal Colombia (1080p),General,http://209.14.115.253:8081/SENALCOLOMBIA/index.m3u8,no-https;ip-directa
+SensaCine TV x Pluto,Movies,https://jmp2.uk/plu-676e7b4a4bd636000819c6a7.m3u8,vod-no-autorizado
+Sercano TV (720p) [Not 24/7],Undefined,http://stream.grupoabchn.com:1935/SERCANOHD/SERCANOLive.smil/playlist.m3u8,no-https
+Sin Limites (1080p),Music,http://170.244.209.30:8000/play/a1im/index.m3u8,no-https;ip-directa
+Sin tetas no hay paraiso,Series,https://jmp2.uk/plu-604bdf4e6d0abc0007ba77ad.m3u8,vod-no-autorizado
+SiTV (1080p) [Not 24/7],General,http://190.122.104.210:5080/LiveApp/streams/sitv2.m3u8,no-https;ip-directa
+Sky Sports 1 (1080p),Sports,http://45.228.234.9:8000/play/a06b/index.m3u8,no-https;ip-directa;tv-pago/adulto
+Sol TV (Bolivia) (720p),General,http://190.211.140.91:8081/SVTranscoder/SOLTVabr.stream/playlist.m3u8,no-https;ip-directa
+Sony Canal Novelas,Movies,https://a89829b8dca2471ab52ea9a57bc28a35.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/CanelaTV_SonyCanalNovelas/playlist.m3u8,vod-no-autorizado
+Sony Channel (Argentina) (1080p),Undefined,http://138.121.15.230:9002/SONY/index.m3u8,no-https;ip-directa
+Sony Channel Andes (1080p),Undefined,http://15.204.246.24:8080/SonyHD/index.m3u8,no-https;ip-directa
+Sony Movies Latin America (1080p),Movies,http://38.252.238.18:8000/play/a01e/index.m3u8,no-https;ip-directa;vod-no-autorizado
+Space (1080p),Undefined,http://45.171.64.30:6060/play/a04n/index.m3u8,no-https;ip-directa
+Star Channel (Chile) (720p),Movies;Series,http://138.121.15.230:9002/STAR-CHANNEL/index.m3u8,no-https;ip-directa;vod-no-autorizado
+Star Channel (Colombia) (1080p),Movies;Series,http://190.61.47.54:8000/play/a035/index.m3u8,no-https;ip-directa;vod-no-autorizado
+Star Channel Latin America (1080p),Movies;Series,http://15.204.246.24:8080/STARCHANNELHD/index.m3u8,no-https;ip-directa;vod-no-autorizado
+Star Channel Latin America South,Movies;Series,http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/51.m3u8,no-https;ip-directa;vod-no-autorizado
+Star Trek LatAm,Series,https://jmp2.uk/plu-5ec5761aabe4690007f6e047.m3u8,vod-no-autorizado
+Star Trek: Voyager (Germany),Movies;Series,https://jmp2.uk/plu-65787f2eb228b7000843fa5c.m3u8,vod-no-autorizado
+Starz West (720p),Undefined,http://23.237.104.106:8080/USA_STARZ_WEST/index.m3u8,no-https;ip-directa;tv-pago/adulto
+Starz Cinema (720p),Movies,http://23.237.104.106:8080/USA_STARZ_CINEMA/index.m3u8,no-https;ip-directa;tv-pago/adulto;vod-no-autorizado
+Starz Comedy (1080p),Comedy,http://23.237.104.106:8080/USA_STARZ_COMEDY/index.m3u8,no-https;ip-directa;tv-pago/adulto
+Starz Kids & Family (1080p),Kids,http://23.237.104.106:8080/USA_STARZ_FAMILY/index.m3u8,no-https;ip-directa;tv-pago/adulto
+Studio Universal Latin America (1080p),Undefined,http://15.204.246.24:8080/StudioUniversalHD/index.m3u8,no-https;ip-directa;tv-pago/adulto
+Studio Universal Latin America South,Undefined,http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/53.m3u8,no-https;ip-directa;tv-pago/adulto
+SUMtv Latino (1080p),Religious,https://bozztv.com/uni10rtmp/ssstv2-cdn/smil:ssstv2web.smil/playlist.m3u8,tv-pago/adulto
+Sun Channel (720p),Travel,http://168.196.127.137:6001/play/a06p/index.m3u8,no-https;ip-directa
+Sundance TV (Spain),Movies,https://cdn.stmify.com/zapitv/stream/SUNDANCE_TV/sundance_hd.mpd,vod-no-autorizado
+Super Cable,Entertainment,http://191.102.39.254:5000/live/5up3r5/playlist.m3u8,no-https;ip-directa
+SUR TV Itapua,General,http://45.170.130.224:8000/play/a036/index.m3u8?hls,no-https;ip-directa
+SV+ (720p),General,http://45.167.2.101:8000/play/a0qx/index.m3u8,no-https;ip-directa
+Tarima TV (720p),Music,http://190.122.104.210:5080/LiveApp/streams/tarima.m3u8,no-https;ip-directa
+TC Television (1080p),General,http://45.224.97.181:9999/TC/index.m3u8,no-https;ip-directa
+TCM Latin America South (1080p),Undefined,http://45.171.64.30:6060/play/a014/index.m3u8,no-https;ip-directa
+Tele Amiga (720p),Culture,http://200.122.223.13:55000/play/tele-amiga-ses-6/index.m3u8,no-https;ip-directa
+Tele Antillas (1080p),General,http://45.171.108.253:8888/TELEANTILLAS/index.m3u8,no-https;ip-directa
+Tele Uno (720p) [Not 24/7],Undefined,http://tv.teleunotv.cr:1935/TVUNO/TVUNO/playlist.m3u8,no-https
+Teleamazonas (1080p),General,http://45.171.108.253:8888/TELEAMAZONAS/index.m3u8,no-https;ip-directa
+Teleantioquia (1080p),General,http://138.121.15.230:9002/TELEANTIOQUIA/index.m3u8,no-https;ip-directa
+Teleantioquia Plus (1080p),General,http://200.122.223.13:55000/play/teleantioquia-go-tdt/index.m3u8,no-https;ip-directa
+TeleAragua (480p),General,http://45.173.198.59:8080/hls/nginx3.m3u8?tla=,no-https;ip-directa
+Telecadena 7 y 4 (576p),General,http://45.167.2.101:8000/play/a07n/index.m3u8,no-https;ip-directa
+Telecanal (720p),News,http://45.232.210.1:8029/play/a00s/index.m3u8,no-https;ip-directa
+Telecaribe (1080p),General,http://138.121.15.230:9002/TELECARIBE/index.m3u8,no-https;ip-directa
+Teleceiba (1080p),Undefined,http://45.238.141.222:8000/play/a0pf/index.m3u8,no-https;ip-directa
+Telefe (1080p),General,http://45.173.231.22:8000/play/a053/index.m3u8,no-https;ip-directa
+Telefe Buenos Aires (1080p),General,http://45.134.141.161:2200/ARG/TELEFE_HD/index.m3u8,no-https;ip-directa
+Telefe Interior (720p),General,http://200.91.32.158:8080/telefehdvalle/index.m3u8,no-https;ip-directa
+Telefe Internacional (1080p),Undefined,http://200.115.120.1:8000/play/ca016/index.m3u8,no-https;ip-directa
+Telefuturo (Dominican Republic) (480p) [Not 24/7],General,http://190.122.104.210:5080/LiveApp/streams/tfuturo.m3u8,no-https;ip-directa
+TeleHit (1080p),Music,http://190.61.47.54:8000/play/a029/index.m3u8,no-https;ip-directa
+Telehit Musica,Music,http://190.61.55.34:2401/play/a06t/index.m3u8,no-https;ip-directa
+Teleislas (720p),General,http://190.61.47.54:8000/play/a015/index.m3u8,no-https;ip-directa
+Telelima (720p),General,http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/telelima.stream/playlist.m3u8,no-https
+Telemedellin (1080p),General,http://181.78.82.130:8000/play/a0ru/index.m3u8,no-https;ip-directa
+Telemetro (720p),General,http://181.78.121.15:8000/play/a001/index.m3u8,no-https;ip-directa
+Telemicro Internacional (720p),Undefined,http://45.228.234.60:8880/play/a05f/index.m3u8,no-https;ip-directa
+Telemundo Internacional (1080p),General,http://138.121.15.230:9002/TELEMUNDO/index.m3u8,no-https;ip-directa
+Telemundo Internacional Central America (1080p),General,http://190.60.46.156:8089/TELEMUNDO/index.m3u8,no-https;ip-directa
+Telenord (Argentina) (1080p) [Not 24/7],Undefined,http://www.coninfo.net:1935/previsoratv/live/playlist.m3u8,no-https
+TeleNostalgia (1080p),Classic,http://38.134.250.110:8000/play/a01q/index.m3u8,no-https;ip-directa
+Telepacifico (1080p),General,http://138.121.15.230:9002/TELEPACIFICO/index.m3u8,no-https;ip-directa
+Telesur (1080p),News,http://181.78.211.244:8005/play/a0cc/index.m3u8,no-https;ip-directa
+Teletica 7 (1080p),General,http://190.61.101.11:7050/play/a07t/index.m3u8,no-https;ip-directa
+Teleunion (1080p),General,http://server2grupocam.com:1945/teleunion/TU/playlist.m3u8,no-https
+Televen (1080p),General,http://38.134.250.110:8000/play/a02i/index.m3u8,no-https;ip-directa
+Television Publica (1080p),General,http://190.128.214.97:64333/play/a008/index.m3u8,no-https;ip-directa
+TeleXitos (1080p),Undefined,http://190.197.41.183/TELEXITOS/index.m3u8,no-https;ip-directa
+The New Detectives (United States) LatAm,Series,https://jmp2.uk/plu-5ea71d48af1d0b0007d837f4.m3u8,vod-no-autorizado
+Tigo Sports (El Salvador) (1080p),Sports,http://45.167.2.101:8000/play/a0pp/index.m3u8,no-https;ip-directa
+Tigo Sports (Guatemala) (1080p),Sports,http://45.5.119.43:4000/play/a05t/index.m3u8,no-https;ip-directa
+Tigo Sports (Honduras) (1080p),Sports,http://168.196.127.137:6001/play/a0ay/index.m3u8,no-https;ip-directa
+Tigo Sports (Paraguay),Sports,http://45.134.141.161:2200/ARG/Tigo_Sports/tracks-v1a1/mono.m3u8,no-https;ip-directa
+TLC Latin America (1080p),Lifestyle,http://38.134.250.110:8000/play/a00n/index.m3u8,no-https;ip-directa;tv-pago/adulto
+Tlnovelas Latin America (1080p),Series,http://209.14.115.253:8081/TELENOVELAS/index.m3u8,no-https;ip-directa;vod-no-autorizado
+Tlnovelas Mexico (1080p),Series,http://167.249.23.102:8000/play/a0g8/index.m3u8,no-https;ip-directa;vod-no-autorizado
+TN (1080p),News,http://158.172.155.130:8000/play/a0dp/index.m3u8,no-https;ip-directa
+TNT (United States) (720p) [Geo-blocked],General,http://212.5.144.156/tnt/index.m3u8,no-https;ip-directa
+TNT Latin America (1080p),Undefined,http://45.171.64.30:6060/play/a03i/index.m3u8,no-https;ip-directa
+TNT Latin America Argentina (1080p),Undefined,http://45.134.141.161:2200/ARG/TNT/index.m3u8,no-https;ip-directa
+TNT Latin America Colombia (1080p),Undefined,http://181.78.211.244:8005/play/a09g/index.m3u8,no-https;ip-directa
+TNT Novelas (1080p),Series,http://190.93.224.42/TNT-NOVELAS/index.m3u8,no-https;ip-directa;vod-no-autorizado
+TNT Novelas Colombia (1080p),Series,http://190.61.47.54:8000/play/a02f/index.m3u8,no-https;ip-directa;vod-no-autorizado
+TNT Series Latin America (1080p),Series,http://168.196.127.137:6001/play/a095/index.m3u8,no-https;ip-directa;vod-no-autorizado
+TNT Series Latin America South,Series,https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/TNTseries.stream/chunks.m3u8,vod-no-autorizado
+TNT Sports (Argentina),Sports,http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/86.m3u8,no-https;ip-directa;tv-pago/adulto
+TNT Sports (Argentina) SD (576p),Sports,http://181.78.79.131:8000/play/a0mo,no-https;ip-directa;tv-pago/adulto
+TNT Sports (Chile) (480p),Sports,http://209.45.101.130:8040/play/a03s/index.m3u8,no-https;ip-directa;tv-pago/adulto
+TNT Sports Premium ArgentinaHD (1080p),Sports,http://181.78.79.131:8000/play/a0q9,no-https;ip-directa;tv-pago/adulto
+Todo Novelas (1080p),Series,https://dtsszjrztq9ti.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-yshah5p4v45g1/ToDoNovelas_ES.m3u8,vod-no-autorizado
+Tooncast (1080p),Animation;Kids,http://38.134.250.110:8000/play/a01t/index.m3u8,no-https;ip-directa
+Tooncast Argentina (720p),Animation;Kids,http://45.134.141.161:2200/ARG/Tooncast/index.m3u8,no-https;ip-directa
+Tooncast SouthAmerica (480p),Animation;Kids,http://190.61.42.218:9000/play/a06i/index.m3u8,no-https;ip-directa
+Top Latino TV,Music,http://38.87.224.20:2220/play/a02b/index.m3u8,no-https;ip-directa
+Transmedia Television Morelia (614p) [Geo-blocked],Undefined,http://streamingcws20.com:1935/tmtv/videotmtv/playlist.m3u8,no-https
+Trece (Colombia) (1080p),General,http://190.60.46.228:8888/play/a030/index.m3u8,no-https;ip-directa
+Trece (Paraguay),General,http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/82.m3u8,no-https;ip-directa
+Trivu (1080p),General,http://190.93.224.42/TRIVU-TV/index.m3u8,no-https;ip-directa
+Tropicalia 93.9 FM,Music,http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/67.m3u8,no-https;ip-directa
+TSi,News,http://181.114.57.246:4000/play/9w2G3HTtuTmrtgPZ/index.m3u8,no-https;ip-directa
+TUDN (Mexico) (1080p),Undefined,https://streaming.alwaysdata.net/tudn.php,url-sospechosa
+TUDN (United States) (1080p),Undefined,http://45.190.13.8/TUDNHD/index.m3u8,no-https;ip-directa
+TV5Monde Latin America (720p),General,http://45.162.231.38:7779/TV5_Monde/index.m3u8,no-https;ip-directa
+TV Aire (1080p),General,http://190.128.214.97:64333/play/a05y/index.m3u8,no-https;ip-directa
+TV Camara (Paraguay) (1080p),Legislative,http://45.170.130.224:8000/play/a03x/index.m3u8?hls,no-https;ip-directa
+TV Chile (576p),General,http://38.252.238.18:8000/play/a04b/index.m3u8,no-https;ip-directa
+TV Culturas (576p),Undefined,http://15.204.246.24:8080/TVCulturasSD/index.m3u8,no-https;ip-directa
+TV Peru (1080p),General,http://190.93.224.42/TV-PERU/index.m3u8,no-https;ip-directa
+TV Peru Noticias (1080p),News,http://190.93.224.42/TV-PERU-NOTICIAS/index.m3u8,no-https;ip-directa
+TV Sur Canal 9 (620p) [Not 24/7],Undefined,http://tv.ticosmedia.com:1935/TVSUR/TVSUR/playlist.m3u8,no-https
+TV Universal Ecuador (720p),Religious,https://cdn.mycloudstream.io/hls/live/broadcast/uwcedjt2/index.m3u8,tv-pago/adulto
+TV Universal Uruguay,Religious,https://stream.universal.org.uy/hls/0/stream.m3u8,tv-pago/adulto
+TVAgro (1080p),Outdoor,http://190.61.47.54:8000/play/a01k/index.m3u8,no-https;ip-directa
+TVC (Ecuador) (1080p),General,http://45.224.97.181:9999/TVC/index.m3u8,no-https;ip-directa
+TVE Internacional America,Undefined,http://116.121.59.72:9981/stream/channel/75f703b52ec2465e4ed2934b98f0f77a,no-https;ip-directa
+TVE Internacional Asia-Oceania,Undefined,http://103.172.29.30:9991/stream/channel/a23a4ab90fe7569ced31e455b752ab51,no-https;ip-directa
+TVE Internacional Europe,Undefined,http://91.228.35.249:8001/1:0:1:DAD:1F40:13E:820000:0:0:0,no-https;ip-directa
+TVE Star (576p),Series,https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/star_main_576.m3u8,vod-no-autorizado
+TVE Star HD (1080p),Series,https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/star_main_1080.m3u8,vod-no-autorizado
+TVGE,General,http://rtmp.ott.mx1.com/tvge1/tvge1/playlist.m3u8,no-https
+TVM Cordoba (1080p) [Not 24/7],Undefined,http://teledifusion.tv/cordoba/cordobalive/playlist.m3u8,no-https
+TVM El Salvador [Not 24/7],News,http://201.247.102.189/tmp_hls/stream/index.m3u8,no-https;ip-directa
+TVN 14 (720p) [Not 24/7],Undefined,http://tvn.obix.tv:1935/TVN/CH14.stream_720p/playlist.m3u8,no-https
+TVN (Chile) (1080p),General,http://15.204.246.24:8080/TVNHD/index.m3u8,no-https;ip-directa
+TvOro (1080p),General,http://45.187.0.19:9090/tvusa/index.m3u8,no-https;ip-directa
+TyC Sports (1080p),Sports,https://amg26268-amg26268c14-freelivesports-emea-10267.playouts.now.amagi.tv/ts-us-e2-n2/playlist/amg26268-sportsstudio-tycsports-freelivesportsemea/playlist.m3u8,tv-pago/adulto
+TyC Sports USA,Sports,http://45.170.130.224:8000/play/a020/index.m3u8,no-https;ip-directa;tv-pago/adulto
+U Los Lagos TV (1080p) [Not 24/7],Undefined,http://tv.ulagos.cl/web/live.m3u8,no-https
+UMTV (1080p) [Not 24/7],Undefined,https://60417ddeaf0d9.streamlock.net/montemorelos/videomontemorelos/playlist.m3u8,tv-pago/adulto
+Unicanal,News,http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/72.m3u8,no-https;ip-directa
+UniMas Mountain (1080p),Undefined,http://168.228.44.241:9997/play/a09e/index.m3u8,no-https;ip-directa
+Unitel (Bolivia) (1080p),General,http://190.181.61.93:8000/play/1909/index.m3u8,no-https;ip-directa
+Universal TV Latin America (1080p),Undefined,http://15.204.246.24:8080/UniversalHD/index.m3u8,no-https;ip-directa;tv-pago/adulto
+Universal TV Latin America Colombia (1080p),Undefined,http://38.134.250.110:8000/play/a006/index.m3u8,no-https;ip-directa;tv-pago/adulto
+Univision WLTV-DT (720p),Undefined,http://168.228.44.241:9997/play/a09d/index.m3u8,no-https;ip-directa
+Univision Latin America (1080p),Undefined,http://138.121.15.230:9002/UNIVISION/index.m3u8,no-https;ip-directa
+Univision Tlnovelas (1080p),Series,http://45.6.4.35/TELENOVELAS/index.m3u8,no-https;ip-directa;vod-no-autorizado
+Unsion TV (1080p),Undefined,http://provedores.unsion.tv:8081/srt/1/playlist.m3u8,no-https
+USA Network Latin America (1080p),Undefined,http://138.121.15.230:9002/USA/index.m3u8,no-https;ip-directa
+USMPTV (720p),Culture,http://187.102.210.46/USMP/index.m3u8,no-https;ip-directa
+UVA TV (720p) [Not 24/7],General,https://www.uvatvhd.com/hls.php?file=live.m3u8,url-sospechosa
+V Classic TV (1080p),Music,http://186.148.196.100:8000/play/a02z,no-https;ip-directa
+Ve Plus (720p),Entertainment,http://186.148.196.100:8000/play/a01d,no-https;ip-directa
+Ve Plus Panregional (1080p),Entertainment,http://190.61.114.186:8000/play/a03i/index.m3u8,no-https;ip-directa
+Vea Canal (720p),Undefined,http://181.78.106.127:5000/play/ca090/index.m3u8,no-https;ip-directa
+Venevision (576p),General,http://181.78.8.199:8000/play/a0if/index.m3u8,no-https;ip-directa
+Ventdelnord TV (404p),Undefined,http://ventdelnord.tv:8080/hls/directe.m3u8,no-https
+Via X (576p),Undefined,http://45.170.130.224:8000/play/a025/index.m3u8,no-https;ip-directa
+VitoTVO (1080p),Undefined,http://iptv.vitotvo.video.makrodigital.com:8081/vitotvo/iptv/playlist.m3u8,no-https
+VivaTV (1080p),General,http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/vivatv.stream/playlist.m3u8,no-https
+Vive TV (1080p),General,http://192.144.113.132:1935/live/ViveTV/playlist.m3u8,no-https;ip-directa
+VM Latino (1080p),Music,http://45.163.139.42:8000/play/a03d/index.m3u8,no-https;ip-directa
+Volver (576p),Undefined,http://138.121.113.175:8000/play/a04r/index.m3u8,no-https;ip-directa
+Vos TV (Bolivia) (720p),Undefined,http://15.204.246.24:8080/VOSTVHD/index.m3u8,no-https;ip-directa
+Vos TV (Nicaragua) (720p) [Not 24/7],General,http://ott.streann.com:8080/loadbalancer/services/public/channels/59e60c4997381ef50d15c041/playlist.m3u8,no-https
+Warner Channel Colombia (1080p),Movies,http://38.134.250.110:8000/play/a029/index.m3u8,no-https;ip-directa;tv-pago/adulto;vod-no-autorizado
+Warner Channel South,Movies,http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/68.m3u8,no-https;ip-directa;tv-pago/adulto;vod-no-autorizado
+Willax TV (1080p),General,http://190.93.224.42/WILLAX/index.m3u8,no-https;ip-directa
+Win Sports (1080p),Sports,http://138.121.15.230:9002/WIN-SPORT/index.m3u8,no-https;ip-directa;tv-pago/adulto
+Win+ Futbol (1080p),Sports,http://181.78.12.119:16123/play/ch19/index.m3u8,no-https;ip-directa
+XperTV (1080p),Entertainment,http://45.163.139.42:8000/play/a02x/index.m3u8,no-https;ip-directa
+Xtrema Accion,Movies,https://stmv6.voxtvhd.com.br/cineaccion/cineaccion/playlist.m3u8,vod-no-autorizado
+Xtrema Cartoons,Animation;Kids,https://stmv6.voxtvhd.com.br/xtremacartoons/xtremacartoons/playlist.m3u8,tv-pago/adulto
+Xtrema Cine Clasico,Classic;Movies,https://stmv6.voxtvhd.com.br/cineclasico/cineclasico/playlist.m3u8,vod-no-autorizado
+Xtrema Terror,Movies,https://stmv6.voxtvhd.com.br/cineterror/cineterror/playlist.m3u8,vod-no-autorizado
+Zona Latina (576p),Undefined,http://45.170.130.224:8000/play/a00x/index.m3u8,no-https;ip-directa
+Zoom (Colombia) (1080p),Education,http://138.121.15.230:9002/ZOOM/index.m3u8,no-https;ip-directa
+ZTV (1080p),General,http://45.70.201.81:8000/play/a00u/index.m3u8,no-https;ip-directa

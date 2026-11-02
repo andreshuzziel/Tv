@@ -1,0 +1,248 @@
+canal,grupo,url,flags
+AlArabiya العربية (1) [AE],news,https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8,fuera-de-region
+AlArabiya العربية (2) [AE],news,https://live.alarabiya.net/alarabiapublish/alarabiya.smil/alarabiapublish/alarabiya_1080p/chunks.m3u8,fuera-de-region
+AlArabiya العربية (3) [AE],news,https://shd-gcp-live.edgenextcdn.net/live/bitmovin-alarabiya/7f90de73d777d04f3dada92f90d35c44/index.m3u8,fuera-de-region
+América TV [AR],news,https://raw.githubusercontent.com/MachineSystems/archived_m3u8/main/america_hls.m3u8,fuera-de-region
+Net TV (1) [AR],news,https://unlimited1-us.dps.live/nettv/nettv.smil/nettv/livestream1/chunks.m3u8,fuera-de-region
+Net TV (2) [AR],news,https://unlimited1-us.dps.live/nettv/nettv.smil/playlist.m3u8,fuera-de-region
+Net TV (3) [AR],news,https://unlimited6-cl.dps.live/nettv/nettv.smil/playlist.m3u8,fuera-de-region
+Net TV (4) [AR],news,https://unlimited1-us.dps.live/nettv/nettv.smil/nettv/livestream2/chunks.m3u8,fuera-de-region
+Radio10 [AR],music,https://radio10.stweb.tv/radio10/live/playlist.m3u8,fuera-de-region
+24 horas [CL],news,https://mdstrm.com/live-stream-playlist/689ba606ecfe7915e1f8f741.m3u8,fuera-de-region
+Radio ADN [CL],music,https://redirector.rudo.video/hls-video/931b584451fa6dd1313ee66efbfd5802e3f3bcea/adntv/adntv.smil/playlist.m3u8,fuera-de-region
+AGRICULTURA TV (1) [CL],music,https://redirector.rudo.video/hls-video/ey6283je82983je9823je8jowowiekldk9838274/921tv/921tv.smil/playlist.m3u8,fuera-de-region
+AGRICULTURA TV (2) [CL],music,https://unlimited2-cl-isp.dps.live/921tv/921tv.smil/playlist.m3u8,fuera-de-region
+Radio Alternativa FM (Huasco) (1) [CL],music,https://live20.bozztv.com/giatv/giatv-alternativatv/alternativatv/playlist.m3u8,fuera-de-region
+Radio Alternativa FM (Huasco) (2) [CL],music,https://vs20.live.opencaster.com/alternativatv_859ab4a0/index.m3u8,fuera-de-region
+America TV [CL],general,https://v2.tustreaming.cl/radioamericatv/index.m3u8,fuera-de-region
+Antofagasta TV (1) [CL],general,https://unlimited1-cl-isp.dps.live/atv/atv.smil/playlist.m3u8,fuera-de-region
+Antofagasta TV (2) [CL],general,https://unlimited6-cl.dps.live/atv/atv.smil/playlist.m3u8,fuera-de-region
+Atacama TV (1) [CL],general,https://v2.tustreaming.cl/atacamatv/index.m3u8,fuera-de-region
+Atacama TV (2) [CL],general,https://v2.tustreaming.cl/atacamatv/tracks-v1a1/mono.m3u8,fuera-de-region
+Atacama TV (3) [CL],general,https://v2.tustreaming.cl/atacamanoticias/index.m3u8,fuera-de-region
+Aysen TV (1) [CL],general,https://v1.tustreaming.cl/aysentv/index.m3u8,fuera-de-region
+Aysen TV (2) [CL],general,https://v1.tustreaming.cl/aysentv/tracks-v1a1/mono.m3u8,fuera-de-region
+Aysen TV (3) [CL],general,https://v1.tustreaming.cl:443/aysentv/index.m3u8,fuera-de-region
+Radio Biobio TV [CL],music,https://redirector.rudo.video/hls-video/339f69c6122f6d8f4574732c235f09b7683e31a5/bbtv/bbtv.smil/playlist.m3u8,fuera-de-region
+Canal 1 Ñuble [CL],general,https://tls-cl.cdnz.cl/canal21tv/live/playlist.m3u8,fuera-de-region
+Canal 11 Aysen [CL],general,https://v2.tustreaming.cl/canal11aysen/index.m3u8,fuera-de-region
+Canal 2 Quellón (1) [CL],general,https://unlimited2-cl-isp.dps.live/tvquellon/tvquellon.smil/tvquellon/livestream1/chunks.m3u8,fuera-de-region
+Canal 2 Quellón (2) [CL],general,https://pantera1-100gb-cl-movistar.dps.live/tvquellon/tvquellon.smil/playlist.m3u8,fuera-de-region
+Canal 2 Quellón (3) [CL],general,https://redirector.dps.live/hls/tvquellon/playlist.m3u8,fuera-de-region
+Canal 2 Quellón (4) [CL],general,https://unlimited6-cl.dps.live/tvquellon/tvquellon.smil/playlist.m3u8,fuera-de-region
+Canal 2 Quellón (5) [CL],general,https://unlimited1-cl-isp.dps.live/tvquellon/tvquellon.smil/playlist.m3u8,fuera-de-region
+Canal 2 Quellón (6) [CL],general,https://unlimited2-cl-isp.dps.live/tvquellon/tvquellon.smil/playlist.m3u8,fuera-de-region
+Canal 2 San Antonio (1) [CL],general,https://unlimited1-us.dps.live/canal2/canal2.smil/canal2/livestream1/chunks.m3u8,fuera-de-region
+Canal 2 San Antonio (2) [CL],general,https://pantera1-100gb-cl-movistar.dps.live/canal2/canal2.smil/playlist.m3u8,fuera-de-region
+Canal 2 San Antonio (3) [CL],general,https://unlimited1-cl-isp.dps.live/canal2/canal2.smil/playlist.m3u8,fuera-de-region
+Canal 5 Pto. Montt (1) [CL],general,https://5ff3d9babae13.streamlock.net/aufymdjpjf/aufymdjpjf/playlist.m3u8,fuera-de-region
+Canal 5 Pto. Montt (2) [CL],general,https://5ff3d9babae13.streamlock.net:443/aufymdjpjf/aufymdjpjf/playlist.m3u8,fuera-de-region
+Canal 9 (1) [CL],general,https://unlimited6-cl.dps.live/c9/c9.smil/c9/livestream1/chunks.m3u8,fuera-de-region
+Canal 9 (2) [CL],general,https://unlimited1-cl-isp.dps.live/c9/c9.smil/playlist.m3u8,fuera-de-region
+Canal 9 (3) [CL],general,https://unlimited6-cl.dps.live/c9/c9.smil/playlist.m3u8,fuera-de-region
+Canal Local Quillota (1) [CL],general,https://v2.tustreaming.cl/canallocalcl/index.m3u8,fuera-de-region
+Canal Local Quillota (2) [CL],general,https://v2.tustreaming.cl/canallocalcl/tracks-v1a1/mono.m3u8,fuera-de-region
+Canal Local Quillota (3) [CL],general,https://v2.tustreaming.cl:443/canallocalcl/index.m3u8,fuera-de-region
+Canal Sur Patagonia (1) [CL],general,https://v2.tustreaming.cl/fmarcoirirs/index.m3u8,fuera-de-region
+Canal Sur Patagonia (2) [CL],general,https://v2.tustreaming.cl/fmarcoirirs/tracks-v1a1/mono.m3u8,fuera-de-region
+Canal Sur Patagonia (3) [CL],general,https://v2.tustreaming.cl:443/fmarcoirirs/index.m3u8,fuera-de-region
+Caracola TV La Florida [CL],general,https://wifispeed.trapemn.tv:1936/comunales/caracola-tv/playlist.m3u8,fuera-de-region
+Radio Carolina TV [CL],music,https://mdstrm.com/live-stream-playlist/63a06468117f42713374addd.m3u8,fuera-de-region
+Chile Channel TV [CL],outdoor,https://v2.tustreaming.cl/chilechannel/index.m3u8,fuera-de-region
+Chilevisión [CL],general,https://redirector.rudo.video/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/chv/chv.smil/playlist.m3u8,fuera-de-region
+Chiloé Red 25 [CL],general,https://v2.tustreaming.cl/chiloered/index.m3u8,fuera-de-region
+CHV Noticias [CL],news,https://mdstrm.com/live-stream-playlist/6491ced935a5833c47dd7f41.m3u8,fuera-de-region
+ClickTv Chile (Coronel) (1) [CL],general,https://v2.tustreaming.cl/clicktv/playlist.m3u8,fuera-de-region
+ClickTv Chile (Coronel) (2) [CL],general,https://v2.tustreaming.cl/clicktv/index.m3u8,fuera-de-region
+ClickTv Chile (Coronel) (3) [CL],general,https://v2.tustreaming.cl/clicktv/index.m3u8,fuera-de-region
+Club TV Santa Juana [CL],general,https://cloudpro.servidoresdestream.com:8081/8010/index.m3u8,fuera-de-region
+CNN Chile [CL],news,https://redirector.rudo.video/hls-video/339f69c6122f6d8f4574732c235f09b7683e31a5/cnn/cnn.smil/playlist.m3u8,tv-pago/adulto;fuera-de-region
+Concepcion TV [CL],general,https://stream.blserver.cl/hls/ctv/index.m3u8,fuera-de-region
+Contivision (1) [CL],general,https://unlimited1-cl-isp.dps.live/cm/cm.smil/playlist.m3u8,fuera-de-region
+Contivision (2) [CL],general,https://unlimited6-cl.dps.live/cm/cm.smil/playlist.m3u8,fuera-de-region
+Contivision (3) [CL],general,https://unlimited2-cl-isp.dps.live/cm/cm.smil/playlist.m3u8,fuera-de-region
+Contivision (4) [CL],general,https://unlimited2-cl-isp.dps.live/cm/cm.smil/playlist.m3u8,fuera-de-region
+Radio Cooperativa [CL],music,https://unlimited1-cl-isp.dps.live/coopetv/coopetv.smil/playlist.m3u8,fuera-de-region
+Cronicas del Sur TV [CL],general,https://s1.tvdatta.com:3384/live/canal20tvlive.m3u8,fuera-de-region
+Dance FM Chile TV [CL],music,https://5eaccbab48461.streamlock.net:1936/dancefm_1/dancefm_1/playlist.m3u8,fuera-de-region
+Décima TV (Ancud) (1) [CL],general,https://unlimited2-cl-isp.dps.live/decimatv/decimatv.smil/playlist.m3u8,fuera-de-region
+Décima TV (Ancud) (2) [CL],general,https://unlimited6-cl.dps.live/decimatv/decimatv.smil/playlist.m3u8,fuera-de-region
+EnerGeek Fan (1) [CL],animation,https://backend.energeek.cl/webtv/egfanweb/index.m3u8?token=ZZDemoIPTVGH,fuera-de-region
+EnerGeek Fan (2) [CL],animation,https://backend.energeek.cl/webtv/egfanweb/index.m3u8?token=D3m0M3UCLWeb,fuera-de-region
+EnerGeek Radio (1) [CL],music,https://backend.energeek.cl/webtv/egradioweb/index.m3u8?token=ZZDemoIPTVGH,fuera-de-region
+EnerGeek Radio (2) [CL],music,https://backend.energeek.cl/webtv/egradioweb/index.m3u8?token=D3m0M3UCLWeb,fuera-de-region
+EnerGeek Radio (3) [CL],music,https://backend.energeek.cl/webtv/egradioweb/index.m3u8?token=dEmoweBeneRGEek2025,fuera-de-region
+EnerGeek Retro (1) [CL],animation,https://backend.energeek.cl/webtv/egretroweb/index.m3u8?token=ZZDemoIPTVGH,fuera-de-region
+EnerGeek Retro (2) [CL],animation,https://backend.energeek.cl/webtv/egretroweb/index.m3u8?token=D3m0M3UCLWeb,fuera-de-region
+EnerGeek Retro (3) [CL],animation,https://backend.energeek.cl/webtv/egretroweb/index.m3u8?token=dEmoweBeneRGEek2025,fuera-de-region
+EnerGeek Retro (4) [CL],animation,https://backend.energeek.cl/webtv/egretro/mobile/index.m3u8?token=dEmoweBeneRGEek2025,fuera-de-region
+Frecuencia 7 (1) [CL],general,https://v2.tustreaming.cl/frecuencia7/index.m3u8,fuera-de-region
+Frecuencia 7 (2) [CL],general,https://v2.tustreaming.cl:443/frecuencia7/index.m3u8,fuera-de-region
+Holvoet TV (1) [CL],general,https://unlimited1-cl-isp.dps.live/holvoettv/holvoettv.smil/playlist.m3u8,fuera-de-region
+Holvoet TV (2) [CL],general,https://unlimited1-us.dps.live/holvoettv/holvoettv.smil/playlist.m3u8,fuera-de-region
+Huasco Television [CL],general,https://paneltv.stream:19360/huasco/huasco.m3u8,fuera-de-region
+Radio Infinita [CL],music,https://mdstrm.com/live-stream-playlist/63a066e54ed536087960b550.m3u8,fuera-de-region
+Inter Radio TV Frutillar [CL],general,https://tv.arkeo.cl:1936/8002/8002/playlist.m3u8,fuera-de-region
+Canal ISB (Iglesia San Bernardo) (1) [CL],religious,https://unlimited1-cl-isp.dps.live/isb/isb.smil/playlist.m3u8,fuera-de-region
+Canal ISB (Iglesia San Bernardo) (2) [CL],religious,https://pantera1-100gb-cl-movistar.dps.live/isb/isb.smil/playlist.m3u8,fuera-de-region
+Canal ISB (Iglesia San Bernardo) (3) [CL],religious,https://unlimited1-us.dps.live/isb/isb.smil/playlist.m3u8,fuera-de-region
+ITV Patagonia (1) [CL],general,https://unlimited1-cl-isp.dps.live/itv/itv.smil/playlist.m3u8,fuera-de-region
+ITV Patagonia (2) [CL],general,https://pantera1-100gb-cl-movistar.dps.live/itv/itv.smil/playlist.m3u8,fuera-de-region
+ITV Patagonia (3) [CL],general,https://unlimited1-us.dps.live/itv/itv.smil/playlist.m3u8,fuera-de-region
+La Granja TV [CL],general,https://oracle.streaminghd.cl/8126/8126/playlist.m3u8,fuera-de-region
+laGranja FM 107.3 [CL],music,https://oracle.streaminghd.cl/lagranjafm/lagranjafm/playlist.m3u8,fuera-de-region
+La Popular TV [CL],music,https://tv.arkeo.cl:1936/enlacetv1/enlacetv1/playlist.m3u8,fuera-de-region
+La MetroFM (1) [CL],music,https://jireh-3-hls-video-cl-movistar.dps.live/hls-video/931b584451fa6dd1313ee66efbfd5802e3f3bcea/metropolitanatv/metropolitanatv.smil/metropolitanatv/livestream1/chunks.m3u8,fuera-de-region
+La MetroFM (2) [CL],music,https://redirector.rudo.video/hls-video/931b584451fa6dd1313ee66efbfd5802e3f3bcea/metropolitanatv/metropolitanatv.smil/playlist.m3u8,fuera-de-region
+Marga Marga TV (1) [CL],general,https://v1.tustreaming.cl/margamargatv/index.m3u8,fuera-de-region
+Marga Marga TV (2) [CL],general,https://v1.tustreaming.cl/margamargatv/tracks-v1a1/mono.m3u8,fuera-de-region
+Mediabanco Chile [CL],outdoor,https://scl.edge.grupoz.cl/mediabanco_prueba/live/playlist.m3u8,fuera-de-region
+Mega (1) [CL],general,https://unlimited1-cl-isp.dps.live/mega/mega.smil/playlist.m3u8,fuera-de-region
+Mega (2) [CL],general,https://unlimited2-cl-isp.dps.live/mega/mega.smil/playlist.m3u8,fuera-de-region
+Meganoticias [CL],news,https://pantera1-100gb-cl-movistar.dps.live/mega/mega.smil/playlist.m3u8,fuera-de-region
+Mi Radio TV [CL],general,https://tls-cl.cdnz.cl/miradio2/live/playlist.m3u8,fuera-de-region
+NCTV (Centro Cristiano Internacional CCINT - San Joaquín) [CL],religious,https://pantera1-100gb-cl-movistar.dps.live/nctv/nctv.smil/playlist.m3u8,fuera-de-region
+Nina FM [CL],music,https://tv1.ninatv.cl/web/stream.m3u8,fuera-de-region
+Ñuble RVT (1) [CL],general,https://tv.arkeo.cl:1936/canalrtv/canalrtv/playlist.m3u8,fuera-de-region
+Ñuble RVT (2) [CL],general,https://tv.arkeo.cl:1936/canalrtv/canalrtv/chunklist.m3u8,fuera-de-region
+Panoramica Informativa (1) [CL],general,https://v2.tustreaming.cl/alingeproducciones/index.m3u8,fuera-de-region
+Panoramica Informativa (2) [CL],general,https://v2.tustreaming.cl:443/alingeproducciones/index.m3u8,fuera-de-region
+Pichilemu TV (1) [CL],general,https://5ff3d9babae13.streamlock.net/8028/8028/playlist.m3u8,fuera-de-region
+Pichilemu TV (2) [CL],general,https://5ff3d9babae13.streamlock.net:443/8028/8028/playlist.m3u8,fuera-de-region
+Pingüino TV (1) [CL],general,https://streaming.elpinguino.com:5391/live/EP.smil/playlist.m3u8,fuera-de-region
+Pingüino TV (2) [CL],general,https://redirector.rudo.video/hls-video/339f69c6122f6d8f4574732c235f09b7683e31a5/pinguinotv/pinguinotv.smil/playlist.m3u8,fuera-de-region
+Portal Foxmix Chile [CL],music,https://panel.tvstream.cl:1936/8040/8040/playlist.m3u8,fuera-de-region
+Pucón TV (1) [CL],general,https://unlimited1-cl-isp.dps.live/pucontv/pucontv.smil/playlist.m3u8,fuera-de-region
+Pucón TV (2) [CL],general,https://pantera1-100gb-cl-movistar.dps.live/pucontv/pucontv.smil/playlist.m3u8,fuera-de-region
+Pucón TV (3) [CL],general,https://unlimited6-cl.dps.live/pucontv/pucontv.smil/playlist.m3u8,fuera-de-region
+Pucón TV (4) [CL],general,https://redirector.dps.live/hls/pucontv/playlist.m3u8,fuera-de-region
+Pucón TV (5) [CL],general,https://pantera1-100gb-cl-movistar.dps.live/pucontv/pucontv.smil/playlist.m3u8,fuera-de-region
+Puranoticia TV (1) [CL],general,https://pnt.janusmedia.tv/hls/pnt.m3u8,fuera-de-region
+Puranoticia TV (2) [CL],general,https://pnt.janus.cl/playlist/stream.m3u8,fuera-de-region
+Radio AE Radio DuocUC [CL],music,https://tls-cl.cdnz.cl/aeradio/live/playlist.m3u8,fuera-de-region
+Radio America TV [CL],general,https://v1.tustreaming.cl:443/americamovil/index.m3u8,fuera-de-region
+Radio El Conquistador FM (1) [CL],music,https://redirector.rudo.video/hls-video/931b584451fa6dd1313ee66efbfd5802e3f3bcea/elconquistadortv/elconquistadortv.smil/playlist.m3u8,fuera-de-region
+Radio El Conquistador FM (2) [CL],music,https://v1.tustreaming.cl/conquistadorconcepcion/index.m3u8,fuera-de-region
+Radio Graneros TV (1) [CL],music,https://5ff3d9babae13.streamlock.net/rravdcnywy/rravdcnywy/playlist.m3u8,fuera-de-region
+Radio Graneros TV (2) [CL],music,https://5ff3d9babae13.streamlock.net:443/rravdcnywy/rravdcnywy/playlist.m3u8,fuera-de-region
+Radio Graneros TV (3) [CL],music,https://5ff3d9babae13.streamlock.net:1936/rravdcnywy/rravdcnywy/playlist.m3u8,fuera-de-region
+Radio La Clave (1) [CL],music,https://unlimited1-cl-isp.dps.live/laclavetv/laclavetv.smil/playlist.m3u8,fuera-de-region
+Radio La Clave (2) [CL],music,https://pantera1-100gb-cl-movistar.dps.live/laclavetv/laclavetv.smil/playlist.m3u8,fuera-de-region
+La nuestra [CL],music,https://redirector.rudo.video/hls-video/339f69c6122f6d8f4574732c235f09b7683e31a5/ln/ln.smil/playlist.m3u8,fuera-de-region
+Pauta [CL],music,https://redirector.rudo.video/hls-video/ey6283je82983je9823je8jowowiekldk9838274/pautatv/pautatv.smil/playlist.m3u8,fuera-de-region
+Radio Presidente Ibañez [CL],general,https://ibanez.servercl.com/hls/live.m3u8,fuera-de-region
+Súbela Radio [CL],music,https://mdstrm.com/live-stream-playlist/6580414b99f9d36397019551.m3u8,fuera-de-region
+Radio Romántica TV [CL],music,https://mdstrm.com/live-stream-playlist/63a0674c1137d408b45d4821.m3u8,fuera-de-region
+RTC Television [CL],general,https://scl.edge.grupoz.cl/rtcstreaming/live/playlist.m3u8,fuera-de-region
+Sextavision (1) [CL],general,https://5ff3d9babae13.streamlock.net:443/fzkqsdfray/fzkqsdfray/playlist.m3u8,fuera-de-region
+Sextavision (2) [CL],general,https://5ff3d9babae13.streamlock.net:1936/fzkqsdfray/fzkqsdfray/playlist.m3u8,fuera-de-region
+Soberania TV [CL],general,https://tls-cl.cdnz.cl/radiosoberania/live/playlist.m3u8,fuera-de-region
+SoloTV (Valparaíso) [CL],general,https://stream.making.cl/memfs/ee909361-73e9-4e74-8391-5f1b0b8006c2.m3u8,fuera-de-region
+Stgo.TV [CL],general,https://stv4.janus.cl/playlist/stream.m3u8,fuera-de-region
+T13 - Teletrece [CL],news,https://redirector.rudo.video/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/t13/t13.smil/playlist.m3u8,fuera-de-region
+Tele13 Radio (1) [CL],music,https://mdstrm.com/audio/5c915613519bce27671c4caa/live.m3u8,fuera-de-region
+Tele13 Radio (2) [CL],music,https://unlimited1-cl-isp.dps.live/t13radio/t13radio.smil/playlist.m3u8,fuera-de-region
+TeleAngol (1) [CL],general,https://unlimited1-cl-isp.dps.live/teleangol/teleangol.smil/playlist.m3u8,fuera-de-region
+TeleAngol (2) [CL],general,https://pantera1-100gb-cl-movistar.dps.live/teleangol/teleangol.smil/playlist.m3u8,fuera-de-region
+TeleAngol (3) [CL],general,https://unlimited6-cl.dps.live/teleangol/teleangol.smil/playlist.m3u8,fuera-de-region
+Temuco Television [CL],general,https://mediacp.nnw.cl:19360/temucotelevision/temucotelevision.m3u8,fuera-de-region
+Tevex Oficial [CL],general,https://v4.tustreaming.cl:443/tevexinter/index.m3u8,fuera-de-region
+TV Chile [CL],general,https://mdstrm.com/live-stream-playlist/533adcc949386ce765657d7c.m3u8,fuera-de-region
+TV Costa [CL],general,https://tvcosta.gleeze.com/memfs/39cef946-1aac-4418-8df8-6d8ff6d0a680.m3u8,fuera-de-region
+T-Vinet Digital (1) [CL],general,https://unlimited6-cl.dps.live/inet2/inet2.smil/playlist.m3u8,fuera-de-region
+T-Vinet Digital (2) [CL],general,https://pantera1-100gb-cl-movistar.dps.live/inet2/inet2.smil/playlist.m3u8,fuera-de-region
+TV Senado [CL],legislative,https://janus-tv-ply.senado.cl/playlist/playlist.m3u8,fuera-de-region
+TV UCT (U. Católica de Temuco) (1) [CL],general,https://unlimited1-cl-isp.dps.live/uct/uct.smil/playlist.m3u8,fuera-de-region
+TV UCT (U. Católica de Temuco) (2) [CL],general,https://unlimited2-cl-isp.dps.live/uct/uct.smil/playlist.m3u8,fuera-de-region
+TV UCT (U. Católica de Temuco) (3) [CL],general,https://unlimited1-us.dps.live/uct/uct.smil/playlist.m3u8,fuera-de-region
+TV UCT (U. Católica de Temuco) (4) [CL],general,https://unlimited2-cl-isp.dps.live/uct/uct.smil/playlist.m3u8,fuera-de-region
+TV5 Linares (1) [CL],general,https://v1.tustreaming.cl/tv5linares/index.m3u8,fuera-de-region
+TV5 Linares (2) [CL],general,https://v1.tustreaming.cl/tv5linares/tracks-v1a1/mono.m3u8,fuera-de-region
+TVN 3 [CL],culture,https://mdstrm.com/live-stream-playlist/5653641561b4eba30a7e4929.m3u8,fuera-de-region
+TVN [CL],general,https://mdstrm.com/live-stream-playlist-v/555c9a91eb4886825b07ee7b.m3u8,fuera-de-region
+TVO San Vicente (1) [CL],general,https://5ff3d9babae13.streamlock.net/8014/8014/playlist.m3u8,fuera-de-region
+TVO San Vicente (2) [CL],general,https://5ff3d9babae13.streamlock.net:443/8014/8014/playlist.m3u8,fuera-de-region
+TVO San Vicente (3) [CL],general,https://5ff3d9babae13.streamlock.net:1936/8014/8014/playlist.m3u8,fuera-de-region
+TVR Television Regional (1) [CL],general,https://redirector.dps.live/hls/tvr/playlist.m3u8,fuera-de-region
+TVR Television Regional (2) [CL],general,https://unlimited1-cl-isp.dps.live/tvr/tvr.smil/playlist.m3u8,fuera-de-region
+TVR Television Regional (3) [CL],general,https://unlimited1-us.dps.live/tvr/tvr.smil/playlist.m3u8,fuera-de-region
+TVU (1) [CL],general,https://unlimited6-cl.dps.live/tvu/tvu.smil/playlist.m3u8,fuera-de-region
+TVU (2) [CL],general,https://pantera1-100gb-cl-movistar.dps.live/tvu/tvu.smil/playlist.m3u8,fuera-de-region
+TVU (3) [CL],general,https://unlimited1-cl-isp.dps.live/tvu/tvu.smil/playlist.m3u8,fuera-de-region
+U de Chile TV (1) [CL],general,https://unlimited2-cl-isp.dps.live/uchiletv/uchiletv.smil/playlist.m3u8,fuera-de-region
+U de Chile TV (2) [CL],general,https://pantera1-100gb-cl-movistar.dps.live/uchiletv/uchiletv.smil/playlist.m3u8,fuera-de-region
+UTalcaTV (U. de Talca) - Campus TV (1) [CL],general,https://unlimited1-cl-isp.dps.live/campustv/campustv.smil/playlist.m3u8,fuera-de-region
+UTalcaTV (U. de Talca) - Campus TV (2) [CL],general,https://pantera1-100gb-cl-movistar.dps.live/campustv/campustv.smil/playlist.m3u8,fuera-de-region
+UA TV (U. Autonoma) (1) [CL],general,https://unlimited2-cl-isp.dps.live/uatv/uatv.smil/playlist.m3u8,fuera-de-region
+UA TV (U. Autonoma) (2) [CL],general,https://unlimited1-cl-isp.dps.live/uatv/uatv.smil/playlist.m3u8,fuera-de-region
+UATV [CL],general,https://pantera1-100gb-cl-movistar.dps.live/uatv/uatv.smil/playlist.m3u8,fuera-de-region
+UCV TV (1) [CL],general,https://unlimited2-cl-isp.dps.live/ucvtv2/ucvtv2.smil/playlist.m3u8,fuera-de-region
+UCV TV (2) [CL],general,https://pantera1-100gb-cl-movistar.dps.live/ucvtv2/ucvtv2.smil/playlist.m3u8,fuera-de-region
+UCV TV Eventos (1) [CL],general,https://pantera1-100gb-cl-movistar.dps.live/ucvtveventos/ucvtveventos.smil/playlist.m3u8,fuera-de-region
+UCV TV Eventos (2) [CL],general,https://unlimited1-cl-isp.dps.live/ucvtveventos/ucvtveventos.smil/playlist.m3u8,fuera-de-region
+UfroMedios [CL],general,https://mdstrm.com/live-stream-playlist/580a80b827de0ae2086ea6d8.m3u8,fuera-de-region
+ULagosTV (U. de los Lagos) [CL],general,https://tv.ulagos.cl/web/live.m3u8,fuera-de-region
+UMAG TV (U. de Magallanes) [CL],general,https://tls-cl.cdnz.cl/umag1/ngrp:live_all/playlist.m3u8,fuera-de-region
+UMAG TV 2 (U. de Magallanes) [CL],general,https://tls-cl.cdnz.cl/umag2/live/playlist.m3u8,fuera-de-region
+Vision Plus TV Melipilla (1) [CL],general,https://5ff3d9babae13.streamlock.net/jwagpqxehu/jwagpqxehu/playlist.m3u8,fuera-de-region
+Vision Plus TV Melipilla (2) [CL],general,https://5ff3d9babae13.streamlock.net:443/jwagpqxehu/jwagpqxehu/playlist.m3u8,fuera-de-region
+Vision Plus TV Melipilla (3) [CL],general,https://5ff3d9babae13.streamlock.net:1936/jwagpqxehu/jwagpqxehu/playlist.m3u8,fuera-de-region
+VTV (1) [CL],general,https://unlimited2-cl-isp.dps.live/vtv/vtv.smil/playlist.m3u8,fuera-de-region
+VTV (2) [CL],general,https://unlimited6-cl.dps.live/vtv/vtv.smil/playlist.m3u8,fuera-de-region
+VTV (3) [CL],general,https://unlimited1-us.dps.live/vtv/vtv.smil/playlist.m3u8,fuera-de-region
+VTV (4) [CL],general,https://unlimited1-us.dps.live/vtv/vtv.smil/playlist.m3u8,fuera-de-region
+VTV Quillota (1) [CL],general,https://pantera1-100gb-cl-movistar.dps.live/vtvquillota/vtvquillota.smil/playlist.m3u8,fuera-de-region
+VTV Quillota (2) [CL],general,https://unlimited1-cl-isp.dps.live/vtvquillota/vtvquillota.smil/playlist.m3u8,fuera-de-region
+VTV Quillota (3) [CL],general,https://unlimited6-cl.dps.live/vtv/vtv.smil/playlist.m3u8,fuera-de-region
+Crtv Chile [CL],entertainment,https://stmv2.voxtvhd.com.br/crtvchile/crtvchile/playlist.m3u8,fuera-de-region
+Canal 13 (Señal de Pruebas) [CL],general,https://jireh-9-hls-video-cl-movistar.dps.live/hls-video/ey6283je82983je9823je8jowowiekldk9838274/13live/13live.smil/13live/livestream1/chunks.m3u8,fuera-de-region
+Canal Institucional TV (Colombia) [CO],general,https://streaming.rtvc.gov.co/TV_CanalInstitucional_live/smil:live.smil/playlist.m3u8,fuera-de-region
+Señal Colombia [CO],general,https://streaming.rtvc.gov.co/TV_Senal_Colombia_live/smil:live.smil/playlist.m3u8,fuera-de-region
+DW Español [DE],news,https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8,fuera-de-region
+Ecuavisa (1) [EC],news,https://redirector.rudo.video/hls-video/c54ac2799874375c81c1672abb700870537c5223/ecuavisaqo/ecuavisaqo/.m3u8,fuera-de-region
+Ecuavisa (2) [EC],news,https://jireh-6-hls-video-cl-isp.dps.live/hls-video/c54ac2799874375c81c1672abb700870537c5223/ecuavisa/ecuavisa.smil/playlist.m3u8,fuera-de-region
+Radio Sono Onda [EC],music,https://live.obslivestream.com/sonoondatv/index.m3u8,fuera-de-region
+Televisión de Galicia [ES],news,https://crtvg-europa.flumotion.cloud/playlist_dvr.m3u8,fuera-de-region
+GBNews [GB-ENG],news,https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-gbnewsnz-samsungnz/playlist.m3u8,fuera-de-region
+BBC News [GB],news,https://dash2.antik.sk/live/test_bbc_world/playlist.m3u8,fuera-de-region
+BBC News عربي (1) [GB],news,https://vs-hls-pushb-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_arabic_tv/mobile_wifi_main_hd_abr_v2.m3u8,fuera-de-region
+BBC News عربي (2) [GB],news,https://vs-hls-pushb-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_arabic_tv/pc_hd_abr_v2.m3u8,fuera-de-region
+BBC News عربي (3) [GB],news,https://vs-hls-pushb-ww.live.cf.md.bbci.co.uk/x=4/i=urn:bbc:pips:service:bbc_arabic_tv/pc_hd_abr_v2.m3u8,fuera-de-region
+METRO TV CHOLUTECA HONDURAS [HN],news,https://s.emisoras.tv:8081/metrotv/index.m3u8,fuera-de-region
+CNN-News18 [IN],news,https://n18syndication.akamaized.net/bpk-tv/CNN_News18_NW18_MOB/output01/index.m3u8,tv-pago/adulto;fuera-de-region
+India Today (1) [IN],news,https://indiatodaylive.akamaized.net/hls/live/2014320/indiatoday/indiatodaylive/playlist.m3u8,fuera-de-region
+India Today (2) [IN],news,https://livehub-voidnet.onrender.com/cluster/streamcore/in/INDIATODAY_StreamOrchestrator.m3u8,fuera-de-region
+NDTV India [IN],news,https://ndtvindiaelemarchana.akamaized.net/hls/live/2003679/ndtvindia/master.m3u8,fuera-de-region
+WION (1) [IN],news,https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8,fuera-de-region
+WION (2) [IN],news,https://d7x8z4yuq42qn.cloudfront.net/index_1.m3u8,fuera-de-region
+WION (3) [IN],news,https://d7x8z4yuq42qn.cloudfront.net/index_2.m3u8,fuera-de-region
+WION (4) [IN],news,https://d7x8z4yuq42qn.cloudfront.net/index_5.m3u8,fuera-de-region
+WION (5) [IN],news,https://d7x8z4yuq42qn.cloudfront.net/index_4.m3u8,fuera-de-region
+WION (6) [IN],news,https://d7x8z4yuq42qn.cloudfront.net/index_3.m3u8,fuera-de-region
+WION (7) [IN],news,https://raw.githubusercontent.com/Alstruit/adaptive-streams/alstruit-10_23_in/streams/in/WION.in.m3u8,fuera-de-region
+Alabbassia TV [IQ],religious,https://stream.alabbassia.com/live/alabbassia/index.m3u8,fuera-de-region
+AlMayadeen Live - الميادين مباشر [LB],news,https://mdnlv.cdn.octivid.com/almdn/smil:mpegts.stream.smil/playlist.m3u8,fuera-de-region
+MILENIO [MX],news,https://mdstrm.com/live-stream-playlist/610178c7db32a4112d994650.m3u8,fuera-de-region
+VA+ Noticias [MX],news,https://60417ddeaf0d9.streamlock.net/telemetrika3/smil:telemetrika3.smil/playlist.m3u8,fuera-de-region
+Latina Noticias [PE],news,https://redirector.rudo.video/hls-video/567ffde3fa319fadf3419efda25619456231dfea/latinanoticias/latinanoticias.smil/playlist.m3u8,fuera-de-region
+Radio Latina [PE],music,https://redirector.rudo.video/hls-video/567ffde3fa319fadf3419efda25619456231dfea/latina/latina.smil/playlist.m3u8,fuera-de-region
+Radio Ovación TV [PE],music,https://5c3fb01839654.streamlock.net:1963/iptvovacion1/liveovacion1tv/playlist.m3u8,fuera-de-region
+Radio Onda Digital [PE],music,https://tv.ondadigital.pe/ondadigital/video.m3u8,fuera-de-region
+Radio Tropical 99.1 FM [PE],music,https://videoserver.tmcreativos.com:19360/raditropical/raditropical.m3u8,fuera-de-region
+RTV TOTAL [PE],news,https://live.obslivestream.com/rtvtotal/index.m3u8,fuera-de-region
+Dunya News (1) [PK],news,https://imob.dunyanews.tv/livehd/ngrp:dunyalivehd_2_all/playlist.m3u8,fuera-de-region
+Dunya News (2) [PK],news,https://intl.dunyanews.tv/livehd/ngrp:dunyalivehd_2_all/playlist.m3u8,fuera-de-region
+التلفزيون العربي Alaraby TV [QA],news,https://live.kwikmotion.com/alaraby1live/alaraby_abr/playlist.m3u8,fuera-de-region
+العربي 2 Alaraby TV 2 (1) [QA],news,https://live.kwikmotion.com/alaraby2live/alaraby2.smil/playlist.m3u8,fuera-de-region
+العربي 2 Alaraby TV 2 (2) [QA],news,https://origin-cae-t482536.cdn.nextologies.com/63d8c759c5db83b4/25c4f89d27a79014ALA2306/playlist.m3u8,fuera-de-region
+AlHadath الحدث (1) [SA],news,https://av.alarabiya.net/alarabiapublish/alhadath.smil/playlist.m3u8,fuera-de-region
+AlHadath الحدث (2) [SA],news,https://live.alarabiya.net/alarabiapublish/alhadath.smil/playlist.m3u8,fuera-de-region
+Bloomberg Europe [US],news,https://www.bloomberg.com/media-manifest/streams/eu.m3u8,fuera-de-region
+Bloomberg QuickTake [US],news,https://www.bloomberg.com/media-manifest/streams/qt.m3u8,fuera-de-region
+Bloomberg US [US],news,https://www.bloomberg.com/media-manifest/streams/phoenix-us.m3u8,fuera-de-region
+International House of Prayer [US],music,https://storage.sardius.media/archives/-K6FGrVYzVr92SDZiDnc/events/site_68FBe1c2dE/playlist.m3u8,fuera-de-region
+LiveNOW from FOX [US],news,https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8,fuera-de-region
+Naciones Unidas [US],general,https://cdnapi.kaltura.com/p/2503451/sp/250345100/playManifest/entryId/1_gb6tjmle/protocol/https/format/applehttp/a.m3u8,fuera-de-region
+BTA TV [VE],general,https://cloud.fastchannel.es/manifiest/hls/prog9/btatv.m3u8,fuera-de-region
+Canal 21 Táchira [VE],general,https://stmv2.voxtvhd.com.br/canal21/canal21/playlist.m3u8,fuera-de-region
+teleSURtv [VE],news,https://mblesmain01.telesur.ultrabase.net/mbliveMain/480p/playlist.m3u8,fuera-de-region
