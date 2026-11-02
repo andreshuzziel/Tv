@@ -11094,7 +11094,7 @@ window.CHANNELS = [
  {
  "id": "151bpb-cl-sd",
  "name": "15.1 BPB",
- "group": "Religioso",
+ "group": "Religiosos",
  "region": "Nacional",
  "color": "hsl(171, 58%, 42%)",
  "abbr": "11B",
@@ -11107,7 +11107,7 @@ window.CHANNELS = [
  {
  "id": "adatv-cl-sd",
  "name": "ADA TV",
- "group": "Religioso",
+ "group": "Religiosos",
  "region": "Nacional",
  "color": "hsl(340, 58%, 42%)",
  "abbr": "AT",
@@ -11120,7 +11120,7 @@ window.CHANNELS = [
  {
  "id": "canalisb-cl-sd",
  "name": "Canal ISB",
- "group": "Religioso",
+ "group": "Religiosos",
  "region": "Nacional",
  "color": "hsl(283, 58%, 42%)",
  "abbr": "CI",
@@ -11133,7 +11133,7 @@ window.CHANNELS = [
  {
  "id": "canal-isb-iglesia-san-bernardo",
  "name": "Canal ISB (Iglesia San Bernardo)",
- "group": "Religioso",
+ "group": "Religiosos",
  "region": "Nacional",
  "color": "hsl(255,58%,42%)",
  "abbr": "CII",
@@ -11146,7 +11146,7 @@ window.CHANNELS = [
  {
  "id": "canal-isb-iglesia-san-bernardo-2",
  "name": "Canal ISB (Iglesia San Bernardo)",
- "group": "Religioso",
+ "group": "Religiosos",
  "region": "Nacional",
  "color": "hsl(255,58%,42%)",
  "abbr": "CII",
@@ -11159,7 +11159,7 @@ window.CHANNELS = [
  {
  "id": "fortalezatv-cl-sd",
  "name": "Fortaleza TV",
- "group": "Religioso",
+ "group": "Religiosos",
  "region": "Nacional",
  "color": "hsl(28, 58%, 42%)",
  "abbr": "FT",
@@ -11172,7 +11172,7 @@ window.CHANNELS = [
  {
  "id": "isatv-cl-sd",
  "name": "ISA TV",
- "group": "Religioso",
+ "group": "Religiosos",
  "region": "Nacional",
  "color": "hsl(123, 58%, 42%)",
  "abbr": "IT",
@@ -11185,7 +11185,7 @@ window.CHANNELS = [
  {
  "id": "mtnatv-cl-sd",
  "name": "MTNA TV",
- "group": "Religioso",
+ "group": "Religiosos",
  "region": "Nacional",
  "color": "hsl(176, 58%, 42%)",
  "abbr": "MT",
@@ -11198,7 +11198,7 @@ window.CHANNELS = [
  {
  "id": "nuevotiempotv-cl-sd",
  "name": "Nuevo Tiempo TV",
- "group": "Religioso",
+ "group": "Religiosos",
  "region": "Nacional",
  "color": "hsl(301, 58%, 42%)",
  "abbr": "NTT",
@@ -11211,7 +11211,7 @@ window.CHANNELS = [
  {
  "id": "radioarmoniatv-cl-sd",
  "name": "Radio Armonia TV",
- "group": "Religioso",
+ "group": "Religiosos",
  "region": "Nacional",
  "color": "hsl(60, 58%, 42%)",
  "abbr": "RAT",
@@ -11224,7 +11224,7 @@ window.CHANNELS = [
  {
  "id": "radioelsembrador-cl-sd",
  "name": "Radio El Sembrador",
- "group": "Religioso",
+ "group": "Religiosos",
  "region": "Nacional",
  "color": "hsl(133, 58%, 42%)",
  "abbr": "RES",
@@ -11237,7 +11237,7 @@ window.CHANNELS = [
  {
  "id": "televida-cl-sd",
  "name": "Televida (Chile)",
- "group": "Religioso",
+ "group": "Religiosos",
  "region": "Nacional",
  "color": "hsl(182, 58%, 42%)",
  "abbr": "TC",
@@ -11250,7 +11250,7 @@ window.CHANNELS = [
  {
  "id": "tne-cl-sd",
  "name": "TNE",
- "group": "Religioso",
+ "group": "Religiosos",
  "region": "Nacional",
  "color": "hsl(51, 58%, 42%)",
  "abbr": "T",
@@ -11263,7 +11263,7 @@ window.CHANNELS = [
  {
  "id": "vidanuevatv-cl-sd",
  "name": "Vida Nueva TV",
- "group": "Religioso",
+ "group": "Religiosos",
  "region": "Nacional",
  "color": "hsl(113, 58%, 42%)",
  "abbr": "VNT",
@@ -11302,7 +11302,7 @@ window.CHANNELS = [
  {
  "id": "3abninternational-us-sd",
  "name": "3ABN International",
- "group": "Religioso",
+ "group": "Religiosos",
  "region": "Español (Latam/ES)",
  "color": "hsl(40,58%,42%)",
  "abbr": "3I",
@@ -11315,7 +11315,7 @@ window.CHANNELS = [
  {
  "id": "adoramtv-do-sd",
  "name": "Adoram TV",
- "group": "Religioso",
+ "group": "Religiosos",
  "region": "Español (Latam/ES)",
  "color": "hsl(288,58%,42%)",
  "abbr": "AT",
@@ -11328,7 +11328,7 @@ window.CHANNELS = [
  {
  "id": "agapetv-sv-sd",
  "name": "Agape TV",
- "group": "Religioso",
+ "group": "Religiosos",
  "region": "Español (Latam/ES)",
  "color": "hsl(50,58%,42%)",
  "abbr": "AT",
@@ -11341,7 +11341,7 @@ window.CHANNELS = [
  {
  "id": "alcancetv-mx-sd",
  "name": "Alcance TV (Mexico)",
- "group": "Religioso",
+ "group": "Religiosos",
  "region": "Español (Latam/ES)",
  "color": "hsl(137,58%,42%)",
  "abbr": "ATM",
@@ -11354,7 +11354,7 @@ window.CHANNELS = [
  {
  "id": "alcancetv-ve-sd",
  "name": "Alcance TV (Venezuela)",
- "group": "Religioso",
+ "group": "Religiosos",
  "region": "Español (Latam/ES)",
  "color": "hsl(227,58%,42%)",
  "abbr": "ATV",
@@ -11367,7 +11367,7 @@ window.CHANNELS = [
  {
  "id": "alientovision-us-sd",
  "name": "Aliento Vision",
- "group": "Religioso",
+ "group": "Religiosos",
  "region": "Español (Latam/ES)",
  "color": "hsl(30,58%,42%)",
  "abbr": "AV",
@@ -11380,7 +11380,7 @@ window.CHANNELS = [
  {
  "id": "amigostvchiquimula-gt-sd",
  "name": "Amigos TV Chiquimula",
- "group": "Religioso",
+ "group": "Religiosos",
  "region": "Español (Latam/ES)",
  "color": "hsl(234,58%,42%)",
  "abbr": "ATC",
@@ -11393,7 +11393,7 @@ window.CHANNELS = [
  {
  "id": "andestelevision-pe-sd",
  "name": "Andes Television",
- "group": "Religioso",
+ "group": "Religiosos",
  "region": "Español (Latam/ES)",
  "color": "hsl(141,58%,42%)",
  "abbr": "AT",
@@ -11406,7 +11406,7 @@ window.CHANNELS = [
  {
  "id": "angeltv-in-spanish",
  "name": "Angel TV Spanish",
- "group": "Religioso",
+ "group": "Religiosos",
  "region": "Español (Latam/ES)",
  "color": "hsl(157,58%,42%)",
  "abbr": "ATS",
@@ -11419,7 +11419,7 @@ window.CHANNELS = [
  {
  "id": "arboldevidatv-sv-sd",
  "name": "Arbol de Vida TV",
- "group": "Religioso",
+ "group": "Religiosos",
  "region": "Español (Latam/ES)",
  "color": "hsl(181,58%,42%)",
  "abbr": "ADV",
@@ -11432,7 +11432,7 @@ window.CHANNELS = [
  {
  "id": "asomavision-ec-sd",
  "name": "Asomavision",
- "group": "Religioso",
+ "group": "Religiosos",
  "region": "Español (Latam/ES)",
  "color": "hsl(321,58%,42%)",
  "abbr": "A",
@@ -11445,7 +11445,7 @@ window.CHANNELS = [
  {
  "id": "avivamientotv-co-sd",
  "name": "Avivamiento TV",
- "group": "Religioso",
+ "group": "Religiosos",
  "region": "Español (Latam/ES)",
  "color": "hsl(187,58%,42%)",
  "abbr": "AT",
@@ -11458,7 +11458,7 @@ window.CHANNELS = [
  {
  "id": "bamostv-mx-sd",
  "name": "BAMOS TV",
- "group": "Religioso",
+ "group": "Religiosos",
  "region": "Español (Latam/ES)",
  "color": "hsl(32,58%,42%)",
  "abbr": "BT",
@@ -11471,7 +11471,7 @@ window.CHANNELS = [
  {
  "id": "bendicionchannel-co-hd",
  "name": "Bendicion Channel",
- "group": "Religioso",
+ "group": "Religiosos",
  "region": "Español (Latam/ES)",
  "color": "hsl(136,58%,42%)",
  "abbr": "BC",
@@ -11484,7 +11484,7 @@ window.CHANNELS = [
  {
  "id": "betheltv-pe-sd",
  "name": "Bethel TV",
- "group": "Religioso",
+ "group": "Religiosos",
  "region": "Español (Latam/ES)",
  "color": "hsl(348,58%,42%)",
  "abbr": "BT",
@@ -11497,7 +11497,7 @@ window.CHANNELS = [
  {
  "id": "canal13jujuy-ar-sd",
  "name": "Canal 13 Jujuy",
- "group": "Religioso",
+ "group": "Religiosos",
  "region": "Español (Latam/ES)",
  "color": "hsl(218,58%,42%)",
  "abbr": "C1J",
@@ -11510,7 +11510,7 @@ window.CHANNELS = [
  {
  "id": "canal27-gt-sd",
  "name": "Canal 27",
- "group": "Religioso",
+ "group": "Religiosos",
  "region": "Español (Latam/ES)",
  "color": "hsl(346,58%,42%)",
  "abbr": "C2",
@@ -11523,7 +11523,7 @@ window.CHANNELS = [
  {
  "id": "canal30tvbethel-gt-sd",
  "name": "Canal 30 TV Bethel",
- "group": "Religioso",
+ "group": "Religiosos",
  "region": "Español (Latam/ES)",
  "color": "hsl(270,58%,42%)",
  "abbr": "C3T",
@@ -11536,7 +11536,7 @@ window.CHANNELS = [
  {
  "id": "canal6vientorecio-ar-sd",
  "name": "Canal 6 Viento Recio",
- "group": "Religioso",
+ "group": "Religiosos",
  "region": "Español (Latam/ES)",
  "color": "hsl(76,58%,42%)",
  "abbr": "C6V",
@@ -11549,7 +11549,7 @@ window.CHANNELS = [
  {
  "id": "canal65-sv-sd",
  "name": "Canal 65",
- "group": "Religioso",
+ "group": "Religiosos",
  "region": "Español (Latam/ES)",
  "color": "hsl(108,58%,42%)",
  "abbr": "C6",
@@ -11562,7 +11562,7 @@ window.CHANNELS = [
  {
  "id": "canaldelafe-us-sd",
  "name": "Canal de la Fe",
- "group": "Religioso",
+ "group": "Religiosos",
  "region": "Español (Latam/ES)",
  "color": "hsl(312,58%,42%)",
  "abbr": "CDL",
@@ -11575,7 +11575,7 @@ window.CHANNELS = [
  {
  "id": "canal-diocesano-toledo-espana",
  "name": "Canal Diocesano Toledo (España)",
- "group": "Religioso",
+ "group": "Religiosos",
  "region": "Español (Latam/ES)",
  "color": "hsl(249,58%,42%)",
  "abbr": "CDT",
@@ -11588,7 +11588,7 @@ window.CHANNELS = [
  {
  "id": "canaliglesialuzyverdad-gt-sd",
  "name": "Canal Iglesia Luz y Verdad",
- "group": "Religioso",
+ "group": "Religiosos",
  "region": "Español (Latam/ES)",
  "color": "hsl(3,58%,42%)",
  "abbr": "CIL",
@@ -11601,7 +11601,7 @@ window.CHANNELS = [
  {
  "id": "canalluz-ar-sd",
  "name": "Canal Luz",
- "group": "Religioso",
+ "group": "Religiosos",
  "region": "Español (Latam/ES)",
  "color": "hsl(316,58%,42%)",
  "abbr": "CL",
@@ -11614,7 +11614,7 @@ window.CHANNELS = [
  {
  "id": "canalmas-uy-sd",
  "name": "Canal Mas",
- "group": "Religioso",
+ "group": "Religiosos",
  "region": "Español (Latam/ES)",
  "color": "hsl(290,58%,42%)",
  "abbr": "CM",
@@ -11627,7 +11627,7 @@ window.CHANNELS = [
  {
  "id": "canaloracionconson-co-sd",
  "name": "Canal Oracion Con Son",
- "group": "Religioso",
+ "group": "Religiosos",
  "region": "Español (Latam/ES)",
  "color": "hsl(202,58%,42%)",
  "abbr": "COC",
@@ -11640,7 +11640,7 @@ window.CHANNELS = [
  {
  "id": "canalorbe21-ar-sd",
  "name": "Canal Orbe 21",
- "group": "Religioso",
+ "group": "Religiosos",
  "region": "Español (Latam/ES)",
  "color": "hsl(284,58%,42%)",
  "abbr": "CO2",
@@ -11653,7 +11653,7 @@ window.CHANNELS = [
  {
  "id": "canalpeniel-gt-sd",
  "name": "Canal Peniel",
- "group": "Religioso",
+ "group": "Religiosos",
  "region": "Español (Latam/ES)",
  "color": "hsl(156,58%,42%)",
  "abbr": "CP",
@@ -11666,7 +11666,7 @@ window.CHANNELS = [
  {
  "id": "canalsantamaria-ar-sd",
  "name": "Canal Santa Maria",
- "group": "Religioso",
+ "group": "Religiosos",
  "region": "Español (Latam/ES)",
  "color": "hsl(6,58%,42%)",
  "abbr": "CSM",
@@ -11679,7 +11679,7 @@ window.CHANNELS = [
  {
  "id": "canaltelefamilia-co-sd",
  "name": "Canal Telefamilia",
- "group": "Religioso",
+ "group": "Religiosos",
  "region": "Español (Latam/ES)",
  "color": "hsl(278,58%,42%)",
  "abbr": "CT",
@@ -11692,7 +11692,7 @@ window.CHANNELS = [
  {
  "id": "canaltelesantiago-co-sd",
  "name": "Canal Telesantiago",
- "group": "Religioso",
+ "group": "Religiosos",
  "region": "Español (Latam/ES)",
  "color": "hsl(139,58%,42%)",
  "abbr": "CT",
@@ -11705,7 +11705,7 @@ window.CHANNELS = [
  {
  "id": "canaltvradiomayatgba-gt-sd",
  "name": "Canal TV Radio Maya TGBA",
- "group": "Religioso",
+ "group": "Religiosos",
  "region": "Español (Latam/ES)",
  "color": "hsl(120,58%,42%)",
  "abbr": "CTR",
@@ -11718,7 +11718,7 @@ window.CHANNELS = [
  {
  "id": "canal-uruguay-uruguay",
  "name": "Canal+ Uruguay (Uruguay)",
- "group": "Religioso",
+ "group": "Religiosos",
  "region": "Español (Latam/ES)",
  "color": "hsl(105,58%,42%)",
  "abbr": "CUU",
@@ -11731,7 +11731,7 @@ window.CHANNELS = [
  {
  "id": "candelariatv-gt-sd",
  "name": "Candelaria TV",
- "group": "Religioso",
+ "group": "Religiosos",
  "region": "Español (Latam/ES)",
  "color": "hsl(118,58%,42%)",
  "abbr": "CT",
@@ -11744,7 +11744,7 @@ window.CHANNELS = [
  {
  "id": "candelitatv-pr-sd",
  "name": "Candelita TV",
- "group": "Religioso",
+ "group": "Religiosos",
  "region": "Español (Latam/ES)",
  "color": "hsl(143,58%,42%)",
  "abbr": "CT",
@@ -11757,7 +11757,7 @@ window.CHANNELS = [
  {
  "id": "cbnespanol-us-sd",
  "name": "CBN Espanol",
- "group": "Religioso",
+ "group": "Religiosos",
  "region": "Español (Latam/ES)",
  "color": "hsl(275,58%,42%)",
  "abbr": "CE",
@@ -11770,7 +11770,7 @@ window.CHANNELS = [
  {
  "id": "cbn-espanol-internacional",
  "name": "CBN Español (Internacional)",
- "group": "Religioso",
+ "group": "Religiosos",
  "region": "Español (Latam/ES)",
  "color": "hsl(160,58%,42%)",
  "abbr": "CEI",
@@ -11783,7 +11783,7 @@ window.CHANNELS = [
  {
  "id": "ccichannel-hn-sd",
  "name": "CCI Channel",
- "group": "Religioso",
+ "group": "Religiosos",
  "region": "Español (Latam/ES)",
  "color": "hsl(156,58%,42%)",
  "abbr": "CC",
@@ -11796,7 +11796,7 @@ window.CHANNELS = [
  {
  "id": "cdminternacional-pr-sd",
  "name": "CDM Internacional",
- "group": "Religioso",
+ "group": "Religiosos",
  "region": "Español (Latam/ES)",
  "color": "hsl(35,58%,42%)",
  "abbr": "CI",
@@ -11809,7 +11809,7 @@ window.CHANNELS = [
  {
  "id": "cholutecatv-hn-sd",
  "name": "Choluteca TV",
- "group": "Religioso",
+ "group": "Religiosos",
  "region": "Español (Latam/ES)",
  "color": "hsl(312,58%,42%)",
  "abbr": "CT",
@@ -11822,7 +11822,7 @@ window.CHANNELS = [
  {
  "id": "cielotv-do-sd",
  "name": "Cielo TV",
- "group": "Religioso",
+ "group": "Religiosos",
  "region": "Español (Latam/ES)",
  "color": "hsl(64,58%,42%)",
  "abbr": "CT",
@@ -11835,7 +11835,7 @@ window.CHANNELS = [
  {
  "id": "cmbtelevision-co-sd",
  "name": "CMB Television",
- "group": "Religioso",
+ "group": "Religiosos",
  "region": "Español (Latam/ES)",
  "color": "hsl(130,58%,42%)",
  "abbr": "CT",
@@ -11848,7 +11848,7 @@ window.CHANNELS = [
  {
  "id": "conectadoscondios-gt-sd",
  "name": "Conectados con Dios",
- "group": "Religioso",
+ "group": "Religiosos",
  "region": "Español (Latam/ES)",
  "color": "hsl(220,58%,42%)",
  "abbr": "CCD",
@@ -11861,7 +11861,7 @@ window.CHANNELS = [
  {
  "id": "conexionpositivatelevision-cr-hd",
  "name": "Conexion Positiva Television",
- "group": "Religioso",
+ "group": "Religiosos",
  "region": "Español (Latam/ES)",
  "color": "hsl(344,58%,42%)",
  "abbr": "CPT",
@@ -11874,7 +11874,7 @@ window.CHANNELS = [
  {
  "id": "cristotv-gt-sd",
  "name": "Cristo TV",
- "group": "Religioso",
+ "group": "Religiosos",
  "region": "Español (Latam/ES)",
  "color": "hsl(230,58%,42%)",
  "abbr": "CT",
@@ -11887,7 +11887,7 @@ window.CHANNELS = [
  {
  "id": "cristovisioncanal31-cr-sd",
  "name": "Cristo Vision Canal 31",
- "group": "Religioso",
+ "group": "Religiosos",
  "region": "Español (Latam/ES)",
  "color": "hsl(255,58%,42%)",
  "abbr": "CVC",
@@ -11900,7 +11900,7 @@ window.CHANNELS = [
  {
  "id": "cristovision-co-sd",
  "name": "Cristovision",
- "group": "Religioso",
+ "group": "Religiosos",
  "region": "Español (Latam/ES)",
  "color": "hsl(92,58%,42%)",
  "abbr": "C",
@@ -11913,7 +11913,7 @@ window.CHANNELS = [
  {
  "id": "dgtv-au-hd",
  "name": "DG:TV",
- "group": "Religioso",
+ "group": "Religiosos",
  "region": "Español (Latam/ES)",
  "color": "hsl(217,58%,42%)",
  "abbr": "DT",
@@ -11926,7 +11926,7 @@ window.CHANNELS = [
  {
  "id": "diosteve-hn-sd",
  "name": "Dios Te Ve",
- "group": "Religioso",
+ "group": "Religiosos",
  "region": "Español (Latam/ES)",
  "color": "hsl(55,58%,42%)",
  "abbr": "DTV",
@@ -11939,7 +11939,7 @@ window.CHANNELS = [
  {
  "id": "diostvtalanga-hn-sd",
  "name": "Dios Tv Talanga",
- "group": "Religioso",
+ "group": "Religiosos",
  "region": "Español (Latam/ES)",
  "color": "hsl(311,58%,42%)",
  "abbr": "DTT",
@@ -11952,7 +11952,7 @@ window.CHANNELS = [
  {
  "id": "ebenezertv-hn-sd",
  "name": "Ebenezer TV",
- "group": "Religioso",
+ "group": "Religiosos",
  "region": "Español (Latam/ES)",
  "color": "hsl(58,58%,42%)",
  "abbr": "ET",
@@ -11965,7 +11965,7 @@ window.CHANNELS = [
  {
  "id": "elcaminotv-sv-sd",
  "name": "El Camino TV",
- "group": "Religioso",
+ "group": "Religiosos",
  "region": "Español (Latam/ES)",
  "color": "hsl(110,58%,42%)",
  "abbr": "ECT",
@@ -11978,7 +11978,7 @@ window.CHANNELS = [
  {
  "id": "elpuertotv-do-sd",
  "name": "El Puerto TV",
- "group": "Religioso",
+ "group": "Religiosos",
  "region": "Español (Latam/ES)",
  "color": "hsl(180,58%,42%)",
  "abbr": "EPT",
@@ -11991,7 +11991,7 @@ window.CHANNELS = [
  {
  "id": "elroitv-gt-sd",
  "name": "El-Roi TV",
- "group": "Religioso",
+ "group": "Religiosos",
  "region": "Español (Latam/ES)",
  "color": "hsl(92,58%,42%)",
  "abbr": "ERT",
@@ -12004,7 +12004,7 @@ window.CHANNELS = [
  {
  "id": "elimtv-sv-sd",
  "name": "Elim TV",
- "group": "Religioso",
+ "group": "Religiosos",
  "region": "Español (Latam/ES)",
  "color": "hsl(263,58%,42%)",
  "abbr": "ET",
@@ -12017,7 +12017,7 @@ window.CHANNELS = [
  {
  "id": "enlacejuvenil-cr-sd",
  "name": "Enlace Juvenil",
- "group": "Religioso",
+ "group": "Religiosos",
  "region": "Español (Latam/ES)",
  "color": "hsl(359,58%,42%)",
  "abbr": "EJ",
@@ -12030,7 +12030,7 @@ window.CHANNELS = [
  {
  "id": "enlace-tbn-internacional",
  "name": "Enlace TBN (Internacional)",
- "group": "Religioso",
+ "group": "Religiosos",
  "region": "Español (Latam/ES)",
  "color": "hsl(298,58%,42%)",
  "abbr": "ETI",
@@ -12043,7 +12043,7 @@ window.CHANNELS = [
  {
  "id": "escuchameradiotv-ni-sd",
  "name": "Escuchame Radio TV",
- "group": "Religioso",
+ "group": "Religiosos",
  "region": "Español (Latam/ES)",
  "color": "hsl(19,58%,42%)",
  "abbr": "ERT",
@@ -12056,7 +12056,7 @@ window.CHANNELS = [
  {
  "id": "espiritusantoyfuegotv-gt-sd",
  "name": "Espiritu Santo Y Fuego TV",
- "group": "Religioso",
+ "group": "Religiosos",
  "region": "Español (Latam/ES)",
  "color": "hsl(129,58%,42%)",
  "abbr": "ESY",
@@ -12069,7 +12069,7 @@ window.CHANNELS = [
  {
  "id": "ewtn-us-spainlatinamerica",
  "name": "EWTN (United States) Spain & Latin America",
- "group": "Religioso",
+ "group": "Religiosos",
  "region": "Español (Latam/ES)",
  "color": "hsl(215,58%,42%)",
  "abbr": "EUS",
@@ -12082,7 +12082,7 @@ window.CHANNELS = [
  {
  "id": "ewtn-us-spanish",
  "name": "EWTN (United States) Spanish",
- "group": "Religioso",
+ "group": "Religiosos",
  "region": "Español (Latam/ES)",
  "color": "hsl(306,58%,42%)",
  "abbr": "EUS",
@@ -12095,7 +12095,7 @@ window.CHANNELS = [
  {
  "id": "ewtnespana-es-sd",
  "name": "EWTN Espana",
- "group": "Religioso",
+ "group": "Religiosos",
  "region": "Español (Latam/ES)",
  "color": "hsl(110,58%,42%)",
  "abbr": "EE",
@@ -12108,7 +12108,7 @@ window.CHANNELS = [
  {
  "id": "expresiontv-gt-sd",
  "name": "Expresion TV",
- "group": "Religioso",
+ "group": "Religiosos",
  "region": "Español (Latam/ES)",
  "color": "hsl(349,58%,42%)",
  "abbr": "ET",
@@ -12121,7 +12121,7 @@ window.CHANNELS = [
  {
  "id": "extrematv-cr-sd",
  "name": "Extrema TV (Costa Rica)",
- "group": "Religioso",
+ "group": "Religiosos",
  "region": "Español (Latam/ES)",
  "color": "hsl(102,58%,42%)",
  "abbr": "ETC",
@@ -12134,7 +12134,7 @@ window.CHANNELS = [
  {
  "id": "farodesantidadtv-pr-sd",
  "name": "Faro de Santidad TV",
- "group": "Religioso",
+ "group": "Religiosos",
  "region": "Español (Latam/ES)",
  "color": "hsl(17,58%,42%)",
  "abbr": "FDS",
@@ -12147,7 +12147,7 @@ window.CHANNELS = [
  {
  "id": "feviviente-gt-sd",
  "name": "Fe Viviente",
- "group": "Religioso",
+ "group": "Religiosos",
  "region": "Español (Latam/ES)",
  "color": "hsl(145,58%,42%)",
  "abbr": "FV",
@@ -12160,7 +12160,7 @@ window.CHANNELS = [
  {
  "id": "franchstv-gt-sd",
  "name": "Franchs TV",
- "group": "Religioso",
+ "group": "Religiosos",
  "region": "Español (Latam/ES)",
  "color": "hsl(221,58%,42%)",
  "abbr": "FT",
@@ -12173,7 +12173,7 @@ window.CHANNELS = [
  {
  "id": "frecuenciaftv-co-sd",
  "name": "Frecuencia F TV",
- "group": "Religioso",
+ "group": "Religiosos",
  "region": "Español (Latam/ES)",
  "color": "hsl(117,58%,42%)",
  "abbr": "FFT",
@@ -12186,7 +12186,7 @@ window.CHANNELS = [
  {
  "id": "frecuencia-f-tv-colombia",
  "name": "Frecuencia F TV (Colombia)",
- "group": "Religioso",
+ "group": "Religiosos",
  "region": "Español (Latam/ES)",
  "color": "hsl(136,58%,42%)",
  "abbr": "FFT",
@@ -12199,7 +12199,7 @@ window.CHANNELS = [
  {
  "id": "gracia-tv-chile",
  "name": "Gracia TV (Chile)",
- "group": "Religioso",
+ "group": "Religiosos",
  "region": "Español (Latam/ES)",
  "color": "hsl(273,58%,42%)",
  "abbr": "GTC",
@@ -12212,7 +12212,7 @@ window.CHANNELS = [
  {
  "id": "gsgtv-sv-sd",
  "name": "GSG TV",
- "group": "Religioso",
+ "group": "Religiosos",
  "region": "Español (Latam/ES)",
  "color": "hsl(7,58%,42%)",
  "abbr": "GT",
@@ -12225,7 +12225,7 @@ window.CHANNELS = [
  {
  "id": "hopechannelinteramerica-us-sd",
  "name": "Hope Channel Inter-America",
- "group": "Religioso",
+ "group": "Religiosos",
  "region": "Español (Latam/ES)",
  "color": "hsl(36,58%,42%)",
  "abbr": "HCI",
@@ -12238,7 +12238,7 @@ window.CHANNELS = [
  {
  "id": "hosannavision-pa-sd",
  "name": "Hosanna Vision",
- "group": "Religioso",
+ "group": "Religiosos",
  "region": "Español (Latam/ES)",
  "color": "hsl(116,58%,42%)",
  "abbr": "HV",
@@ -12251,7 +12251,7 @@ window.CHANNELS = [
  {
  "id": "ieanjesusecuador-ec-sd",
  "name": "IeanJesus Ecuador",
- "group": "Religioso",
+ "group": "Religiosos",
  "region": "Español (Latam/ES)",
  "color": "hsl(322,58%,42%)",
  "abbr": "IE",
@@ -12264,7 +12264,7 @@ window.CHANNELS = [
  {
  "id": "impactchannel-cr-sd",
  "name": "Impact Channel",
- "group": "Religioso",
+ "group": "Religiosos",
  "region": "Español (Latam/ES)",
  "color": "hsl(345,58%,42%)",
  "abbr": "IC",
@@ -12277,7 +12277,7 @@ window.CHANNELS = [
  {
  "id": "impdtvworldwide-br-sd",
  "name": "IMPD TV Worldwide",
- "group": "Religioso",
+ "group": "Religiosos",
  "region": "Español (Latam/ES)",
  "color": "hsl(7,58%,42%)",
  "abbr": "ITW",
@@ -12290,7 +12290,7 @@ window.CHANNELS = [
  {
  "id": "inmaculadatv-hn-sd",
  "name": "Inmaculada TV",
- "group": "Religioso",
+ "group": "Religiosos",
  "region": "Español (Latam/ES)",
  "color": "hsl(309,58%,42%)",
  "abbr": "IT",
@@ -12303,7 +12303,7 @@ window.CHANNELS = [
  {
  "id": "jbn-ni-sd",
  "name": "JBN",
- "group": "Religioso",
+ "group": "Religiosos",
  "region": "Español (Latam/ES)",
  "color": "hsl(158,58%,42%)",
  "abbr": "J",
@@ -12316,7 +12316,7 @@ window.CHANNELS = [
  {
  "id": "jbntv-hn-sd",
  "name": "JBN TV",
- "group": "Religioso",
+ "group": "Religiosos",
  "region": "Español (Latam/ES)",
  "color": "hsl(300,58%,42%)",
  "abbr": "JT",
@@ -12329,7 +12329,7 @@ window.CHANNELS = [
  {
  "id": "jehovanissi-gt-sd",
  "name": "Jehova Nissi",
- "group": "Religioso",
+ "group": "Religiosos",
  "region": "Español (Latam/ES)",
  "color": "hsl(315,58%,42%)",
  "abbr": "JN",
@@ -12342,7 +12342,7 @@ window.CHANNELS = [
  {
  "id": "jehovatv-hn-sd",
  "name": "Jehova TV",
- "group": "Religioso",
+ "group": "Religiosos",
  "region": "Español (Latam/ES)",
  "color": "hsl(237,58%,42%)",
  "abbr": "JT",
@@ -12355,7 +12355,7 @@ window.CHANNELS = [
  {
  "id": "jemrtv-hn-hd",
  "name": "JEMR TV",
- "group": "Religioso",
+ "group": "Religiosos",
  "region": "Español (Latam/ES)",
  "color": "hsl(234,58%,42%)",
  "abbr": "JT",
@@ -12368,7 +12368,7 @@ window.CHANNELS = [
  {
  "id": "jfvtv-sv-sd",
  "name": "JFV TV",
- "group": "Religioso",
+ "group": "Religiosos",
  "region": "Español (Latam/ES)",
  "color": "hsl(72,58%,42%)",
  "abbr": "JT",
@@ -12381,7 +12381,7 @@ window.CHANNELS = [
  {
  "id": "jn19-peru",
  "name": "JN19 (Perú)",
- "group": "Religioso",
+ "group": "Religiosos",
  "region": "Español (Latam/ES)",
  "color": "hsl(16,58%,42%)",
  "abbr": "JP",
@@ -12394,7 +12394,7 @@ window.CHANNELS = [
  {
  "id": "josuetv-sv-sd",
  "name": "Josue TV",
- "group": "Religioso",
+ "group": "Religiosos",
  "region": "Español (Latam/ES)",
  "color": "hsl(60,58%,42%)",
  "abbr": "JT",
@@ -12407,7 +12407,7 @@ window.CHANNELS = [
  {
  "id": "kerussotv-hn-sd",
  "name": "Kerusso TV",
- "group": "Religioso",
+ "group": "Religiosos",
  "region": "Español (Latam/ES)",
  "color": "hsl(200,58%,42%)",
  "abbr": "KT",
@@ -12420,7 +12420,7 @@ window.CHANNELS = [
  {
  "id": "ksce381-us-hd",
  "name": "KSCE 38.1",
- "group": "Religioso",
+ "group": "Religiosos",
  "region": "Español (Latam/ES)",
  "color": "hsl(78,58%,42%)",
  "abbr": "K31",
@@ -12433,7 +12433,7 @@ window.CHANNELS = [
  {
  "id": "ksce383-us-hd",
  "name": "KSCE 38.3",
- "group": "Religioso",
+ "group": "Religiosos",
  "region": "Español (Latam/ES)",
  "color": "hsl(80,58%,42%)",
  "abbr": "K33",
@@ -12446,7 +12446,7 @@ window.CHANNELS = [
  {
  "id": "lavozdejesushd-do-hd",
  "name": "La Voz de Jesus HD",
- "group": "Religioso",
+ "group": "Religiosos",
  "region": "Español (Latam/ES)",
  "color": "hsl(43,58%,42%)",
  "abbr": "LVD",
@@ -12459,7 +12459,7 @@ window.CHANNELS = [
  {
  "id": "lavozdemaria-do-sd",
  "name": "La Voz de Maria",
- "group": "Religioso",
+ "group": "Religiosos",
  "region": "Español (Latam/ES)",
  "color": "hsl(289,58%,42%)",
  "abbr": "LVD",
@@ -12472,7 +12472,7 @@ window.CHANNELS = [
  {
  "id": "lgdtelevision-ve-sd",
  "name": "LGD Television",
- "group": "Religioso",
+ "group": "Religiosos",
  "region": "Español (Latam/ES)",
  "color": "hsl(345,58%,42%)",
  "abbr": "LT",
@@ -12485,7 +12485,7 @@ window.CHANNELS = [
  {
  "id": "livingfaithtv-us-sd",
  "name": "Living Faith TV",
- "group": "Religioso",
+ "group": "Religiosos",
  "region": "Español (Latam/ES)",
  "color": "hsl(263,58%,42%)",
  "abbr": "LFT",
@@ -12498,7 +12498,7 @@ window.CHANNELS = [
  {
  "id": "llbntvlatino-us-sd",
  "name": "LLBN TV Latino",
- "group": "Religioso",
+ "group": "Religiosos",
  "region": "Español (Latam/ES)",
  "color": "hsl(125,58%,42%)",
  "abbr": "LTL",
@@ -12511,7 +12511,7 @@ window.CHANNELS = [
  {
  "id": "logostv-es-sd",
  "name": "Logos TV (Spain)",
- "group": "Religioso",
+ "group": "Religiosos",
  "region": "Español (Latam/ES)",
  "color": "hsl(258,58%,42%)",
  "abbr": "LTS",
@@ -12524,7 +12524,7 @@ window.CHANNELS = [
  {
  "id": "luzdivinatv-do-hd",
  "name": "Luz Divina TV",
- "group": "Religioso",
+ "group": "Religiosos",
  "region": "Español (Latam/ES)",
  "color": "hsl(72,58%,42%)",
  "abbr": "LDT",
@@ -12537,7 +12537,7 @@ window.CHANNELS = [
  {
  "id": "luznacientetv-cr-sd",
  "name": "Luz Naciente TV",
- "group": "Religioso",
+ "group": "Religiosos",
  "region": "Español (Latam/ES)",
  "color": "hsl(216,58%,42%)",
  "abbr": "LNT",
@@ -12550,7 +12550,7 @@ window.CHANNELS = [
  {
  "id": "majestadtv-us-sd",
  "name": "Majestad TV",
- "group": "Religioso",
+ "group": "Religiosos",
  "region": "Español (Latam/ES)",
  "color": "hsl(111,58%,42%)",
  "abbr": "MT",
@@ -12563,7 +12563,7 @@ window.CHANNELS = [
  {
  "id": "manaiglesiaonline-pt-sd",
  "name": "Mana Iglesia Online",
- "group": "Religioso",
+ "group": "Religiosos",
  "region": "Español (Latam/ES)",
  "color": "hsl(320,58%,42%)",
  "abbr": "MIO",
@@ -12576,7 +12576,7 @@ window.CHANNELS = [
  {
  "id": "mariaplusvisionmedjugorje-ba-sd",
  "name": "Maria+Vision Medjugorje",
- "group": "Religioso",
+ "group": "Religiosos",
  "region": "Español (Latam/ES)",
  "color": "hsl(73,58%,42%)",
  "abbr": "MVM",
@@ -12589,7 +12589,7 @@ window.CHANNELS = [
  {
  "id": "mcntelevision-gt-sd",
  "name": "MCN Television",
- "group": "Religioso",
+ "group": "Religiosos",
  "region": "Español (Latam/ES)",
  "color": "hsl(82,58%,42%)",
  "abbr": "MT",
@@ -12602,7 +12602,7 @@ window.CHANNELS = [
  {
  "id": "minfavtv-pa-sd",
  "name": "MINFAV TV",
- "group": "Religioso",
+ "group": "Religiosos",
  "region": "Español (Latam/ES)",
  "color": "hsl(321,58%,42%)",
  "abbr": "MT",
@@ -12615,7 +12615,7 @@ window.CHANNELS = [
  {
  "id": "ministeriolavozdeunremanentetv-us-sd",
  "name": "Ministerio La Voz De Un Remanente TV",
- "group": "Religioso",
+ "group": "Religiosos",
  "region": "Español (Latam/ES)",
  "color": "hsl(54,58%,42%)",
  "abbr": "MLV",
@@ -12628,7 +12628,7 @@ window.CHANNELS = [
  {
  "id": "ministerios-ebenezer-guatemala",
  "name": "Ministerios Ebenezer (Guatemala)",
- "group": "Religioso",
+ "group": "Religiosos",
  "region": "Español (Latam/ES)",
  "color": "hsl(108,58%,42%)",
  "abbr": "MEG",
@@ -12641,7 +12641,7 @@ window.CHANNELS = [
  {
  "id": "misioneltv-do-sd",
  "name": "Mision ELTV",
- "group": "Religioso",
+ "group": "Religiosos",
  "region": "Español (Latam/ES)",
  "color": "hsl(160,58%,42%)",
  "abbr": "ME",
@@ -12654,7 +12654,7 @@ window.CHANNELS = [
  {
  "id": "misionvidatv-uy-sd",
  "name": "Mision Vida TV",
- "group": "Religioso",
+ "group": "Religiosos",
  "region": "Español (Latam/ES)",
  "color": "hsl(75,58%,42%)",
  "abbr": "MVT",
@@ -12667,7 +12667,7 @@ window.CHANNELS = [
  {
  "id": "montemaria-mx-sd",
  "name": "Monte Maria",
- "group": "Religioso",
+ "group": "Religiosos",
  "region": "Español (Latam/ES)",
  "color": "hsl(107,58%,42%)",
  "abbr": "MM",
@@ -12680,7 +12680,7 @@ window.CHANNELS = [
  {
  "id": "nandejaraneetv-py-sd",
  "name": "Nandejara Ne'e TV",
- "group": "Religioso",
+ "group": "Religiosos",
  "region": "Español (Latam/ES)",
  "color": "hsl(343,58%,42%)",
  "abbr": "NNE",
@@ -12693,7 +12693,7 @@ window.CHANNELS = [
  {
  "id": "nuevotiempo-br-sd",
  "name": "Nuevo Tiempo",
- "group": "Religioso",
+ "group": "Religiosos",
  "region": "Español (Latam/ES)",
  "color": "hsl(69,58%,42%)",
  "abbr": "NT",
@@ -12706,7 +12706,7 @@ window.CHANNELS = [
  {
  "id": "oasistv-co-sd",
  "name": "Oasis TV (Colombia)",
- "group": "Religioso",
+ "group": "Religiosos",
  "region": "Español (Latam/ES)",
  "color": "hsl(342,58%,42%)",
  "abbr": "OTC",
@@ -12719,7 +12719,7 @@ window.CHANNELS = [
  {
  "id": "olammetrotv-ni-sd",
  "name": "Olam Metro TV",
- "group": "Religioso",
+ "group": "Religiosos",
  "region": "Español (Latam/ES)",
  "color": "hsl(336,58%,42%)",
  "abbr": "OMT",
@@ -12732,7 +12732,7 @@ window.CHANNELS = [
  {
  "id": "paraisotv-pr-sd",
  "name": "Paraiso TV",
- "group": "Religioso",
+ "group": "Religiosos",
  "region": "Español (Latam/ES)",
  "color": "hsl(141,58%,42%)",
  "abbr": "PT",
@@ -12745,7 +12745,7 @@ window.CHANNELS = [
  {
  "id": "penielky-gt-sd",
  "name": "Peniel K&Y",
- "group": "Religioso",
+ "group": "Religiosos",
  "region": "Español (Latam/ES)",
  "color": "hsl(29,58%,42%)",
  "abbr": "PKY",
@@ -12758,7 +12758,7 @@ window.CHANNELS = [
  {
  "id": "penielmusical-gt-sd",
  "name": "Peniel Musical",
- "group": "Religioso",
+ "group": "Religiosos",
  "region": "Español (Latam/ES)",
  "color": "hsl(215,58%,42%)",
  "abbr": "PM",
@@ -12771,7 +12771,7 @@ window.CHANNELS = [
  {
  "id": "penieltvbibliaabierta-gt-sd",
  "name": "Peniel TV Biblia Abierta",
- "group": "Religioso",
+ "group": "Religiosos",
  "region": "Español (Latam/ES)",
  "color": "hsl(256,58%,42%)",
  "abbr": "PTB",
@@ -12784,7 +12784,7 @@ window.CHANNELS = [
  {
  "id": "plenitudtv-gt-sd",
  "name": "Plenitud TV",
- "group": "Religioso",
+ "group": "Religiosos",
  "region": "Español (Latam/ES)",
  "color": "hsl(259,58%,42%)",
  "abbr": "PT",
@@ -12797,7 +12797,7 @@ window.CHANNELS = [
  {
  "id": "presenciatelevision-gt-sd",
  "name": "Presencia Television",
- "group": "Religioso",
+ "group": "Religiosos",
  "region": "Español (Latam/ES)",
  "color": "hsl(32,58%,42%)",
  "abbr": "PT",
@@ -12810,7 +12810,7 @@ window.CHANNELS = [
  {
  "id": "radiofiestademilagrostv-hn-sd",
  "name": "Radio Fiesta de Milagros TV",
- "group": "Religioso",
+ "group": "Religiosos",
  "region": "Español (Latam/ES)",
  "color": "hsl(208,58%,42%)",
  "abbr": "RFD",
@@ -12823,7 +12823,7 @@ window.CHANNELS = [
  {
  "id": "radiohogar-pa-sd",
  "name": "Radio Hogar",
- "group": "Religioso",
+ "group": "Religiosos",
  "region": "Español (Latam/ES)",
  "color": "hsl(244,58%,42%)",
  "abbr": "RH",
@@ -12836,7 +12836,7 @@ window.CHANNELS = [
  {
  "id": "radiomariatv-ar-sd",
  "name": "Radio Maria TV",
- "group": "Religioso",
+ "group": "Religiosos",
  "region": "Español (Latam/ES)",
  "color": "hsl(169,58%,42%)",
  "abbr": "RMT",
@@ -12849,7 +12849,7 @@ window.CHANNELS = [
  {
  "id": "radioytelevisioncrisoldelaalegria-mx-sd",
  "name": "Radio y Television Crisol de la Alegria",
- "group": "Religioso",
+ "group": "Religiosos",
  "region": "Español (Latam/ES)",
  "color": "hsl(345,58%,42%)",
  "abbr": "RYT",
@@ -12862,7 +12862,7 @@ window.CHANNELS = [
  {
  "id": "radiomensajetv-us-sd",
  "name": "RadioMensaje TV",
- "group": "Religioso",
+ "group": "Religiosos",
  "region": "Español (Latam/ES)",
  "color": "hsl(174,58%,42%)",
  "abbr": "RT",
@@ -12875,7 +12875,7 @@ window.CHANNELS = [
  {
  "id": "rcctv-py-sd",
  "name": "RCC TV",
- "group": "Religioso",
+ "group": "Religiosos",
  "region": "Español (Latam/ES)",
  "color": "hsl(88,58%,42%)",
  "abbr": "RT",
@@ -12888,7 +12888,7 @@ window.CHANNELS = [
  {
  "id": "reformatv-ve-sd",
  "name": "Reforma TV",
- "group": "Religioso",
+ "group": "Religiosos",
  "region": "Español (Latam/ES)",
  "color": "hsl(288,58%,42%)",
  "abbr": "RT",
@@ -12901,7 +12901,7 @@ window.CHANNELS = [
  {
  "id": "reforma-tv-venezuela",
  "name": "Reforma TV (Venezuela)",
- "group": "Religioso",
+ "group": "Religiosos",
  "region": "Español (Latam/ES)",
  "color": "hsl(24,58%,42%)",
  "abbr": "RTV",
@@ -12914,7 +12914,7 @@ window.CHANNELS = [
  {
  "id": "salvaciontv-pr-sd",
  "name": "Salvacion TV",
- "group": "Religioso",
+ "group": "Religiosos",
  "region": "Español (Latam/ES)",
  "color": "hsl(140,58%,42%)",
  "abbr": "ST",
@@ -12927,7 +12927,7 @@ window.CHANNELS = [
  {
  "id": "sanjosetv-cr-sd",
  "name": "San Jose TV",
- "group": "Religioso",
+ "group": "Religiosos",
  "region": "Español (Latam/ES)",
  "color": "hsl(235,58%,42%)",
  "abbr": "SJT",
@@ -12940,7 +12940,7 @@ window.CHANNELS = [
  {
  "id": "santeltv-co-sd",
  "name": "Santel TV",
- "group": "Religioso",
+ "group": "Religiosos",
  "region": "Español (Latam/ES)",
  "color": "hsl(7,58%,42%)",
  "abbr": "ST",
@@ -12953,7 +12953,7 @@ window.CHANNELS = [
  {
  "id": "sbntv-us-sd",
  "name": "SBN TV",
- "group": "Religioso",
+ "group": "Religiosos",
  "region": "Español (Latam/ES)",
  "color": "hsl(219,58%,42%)",
  "abbr": "ST",
@@ -12966,7 +12966,7 @@ window.CHANNELS = [
  {
  "id": "sbntvglobal-us-sd",
  "name": "SBN TV Global",
- "group": "Religioso",
+ "group": "Religiosos",
  "region": "Español (Latam/ES)",
  "color": "hsl(304,58%,42%)",
  "abbr": "STG",
@@ -12979,7 +12979,7 @@ window.CHANNELS = [
  {
  "id": "sbntvinternational-us-sd",
  "name": "SBN TV International",
- "group": "Religioso",
+ "group": "Religiosos",
  "region": "Español (Latam/ES)",
  "color": "hsl(209,58%,42%)",
  "abbr": "STI",
@@ -12992,7 +12992,7 @@ window.CHANNELS = [
  {
  "id": "shalom-in-global",
  "name": "Shalom Global",
- "group": "Religioso",
+ "group": "Religiosos",
  "region": "Español (Latam/ES)",
  "color": "hsl(157,58%,42%)",
  "abbr": "SG",
@@ -13005,7 +13005,7 @@ window.CHANNELS = [
  {
  "id": "shalomworld-us-northamerica",
  "name": "Shalom World",
- "group": "Religioso",
+ "group": "Religiosos",
  "region": "Español (Latam/ES)",
  "color": "hsl(24,58%,42%)",
  "abbr": "SW",
@@ -13018,7 +13018,7 @@ window.CHANNELS = [
  {
  "id": "shalomworldprayer-us-sd",
  "name": "Shalom World Prayer",
- "group": "Religioso",
+ "group": "Religiosos",
  "region": "Español (Latam/ES)",
  "color": "hsl(23,58%,42%)",
  "abbr": "SWP",
@@ -13031,7 +13031,7 @@ window.CHANNELS = [
  {
  "id": "spirit-tv-hd-en",
  "name": "Spirit TV HD (EN)",
- "group": "Religioso",
+ "group": "Religiosos",
  "region": "Español (Latam/ES)",
  "color": "hsl(69,58%,42%)",
  "abbr": "STH",
@@ -13044,7 +13044,7 @@ window.CHANNELS = [
  {
  "id": "suyapatv-hn-sd",
  "name": "Suyapa TV",
- "group": "Religioso",
+ "group": "Religiosos",
  "region": "Español (Latam/ES)",
  "color": "hsl(79,58%,42%)",
  "abbr": "ST",
@@ -13057,7 +13057,7 @@ window.CHANNELS = [
  {
  "id": "tabertv-el-salvador",
  "name": "TaberTV (El Salvador)",
- "group": "Religioso",
+ "group": "Religiosos",
  "region": "Español (Latam/ES)",
  "color": "hsl(134,58%,42%)",
  "abbr": "TES",
@@ -13070,7 +13070,7 @@ window.CHANNELS = [
  {
  "id": "taroteame-es-sd",
  "name": "Taroteame",
- "group": "Religioso",
+ "group": "Religiosos",
  "region": "Español (Latam/ES)",
  "color": "hsl(30,58%,42%)",
  "abbr": "T",
@@ -13083,7 +13083,7 @@ window.CHANNELS = [
  {
  "id": "tbnespana-es-sd",
  "name": "TBN Espana",
- "group": "Religioso",
+ "group": "Religiosos",
  "region": "Español (Latam/ES)",
  "color": "hsl(290,58%,42%)",
  "abbr": "TE",
@@ -13096,7 +13096,7 @@ window.CHANNELS = [
  {
  "id": "tdvtv-hn-sd",
  "name": "TDV TV",
- "group": "Religioso",
+ "group": "Religiosos",
  "region": "Español (Latam/ES)",
  "color": "hsl(260,58%,42%)",
  "abbr": "TT",
@@ -13109,7 +13109,7 @@ window.CHANNELS = [
  {
  "id": "tele-amiga-colombia",
  "name": "Tele Amiga (Colombia)",
- "group": "Religioso",
+ "group": "Religiosos",
  "region": "Español (Latam/ES)",
  "color": "hsl(204,58%,42%)",
  "abbr": "TAC",
@@ -13122,7 +13122,7 @@ window.CHANNELS = [
  {
  "id": "televid-co-sd",
  "name": "Tele Vid",
- "group": "Religioso",
+ "group": "Religiosos",
  "region": "Español (Latam/ES)",
  "color": "hsl(267,58%,42%)",
  "abbr": "TV",
@@ -13135,7 +13135,7 @@ window.CHANNELS = [
  {
  "id": "telebendicion-do-sd",
  "name": "TeleBendicion",
- "group": "Religioso",
+ "group": "Religiosos",
  "region": "Español (Latam/ES)",
  "color": "hsl(11,58%,42%)",
  "abbr": "T",
@@ -13148,7 +13148,7 @@ window.CHANNELS = [
  {
  "id": "telefides-no-24-7-costa-rica",
  "name": "Telefides [No 24/7](Costa Rica)",
- "group": "Religioso",
+ "group": "Religiosos",
  "region": "Español (Latam/ES)",
  "color": "hsl(100,58%,42%)",
  "abbr": "TN2",
@@ -13161,7 +13161,7 @@ window.CHANNELS = [
  {
  "id": "televida-do-sd",
  "name": "Televida (Dominican Republic)",
- "group": "Religioso",
+ "group": "Religiosos",
  "region": "Español (Latam/ES)",
  "color": "hsl(145,58%,42%)",
  "abbr": "TDR",
@@ -13174,7 +13174,7 @@ window.CHANNELS = [
  {
  "id": "televisionconsciente-es-sd",
  "name": "Television Consciente",
- "group": "Religioso",
+ "group": "Religiosos",
  "region": "Español (Latam/ES)",
  "color": "hsl(295,58%,42%)",
  "abbr": "TC",
@@ -13187,7 +13187,7 @@ window.CHANNELS = [
  {
  "id": "tevevidanetwork-us-sd",
  "name": "Teve Vida Network",
- "group": "Religioso",
+ "group": "Religiosos",
  "region": "Español (Latam/ES)",
  "color": "hsl(342,58%,42%)",
  "abbr": "TVN",
@@ -13200,7 +13200,7 @@ window.CHANNELS = [
  {
  "id": "trece-es-sd",
  "name": "Trece (Spain)",
- "group": "Religioso",
+ "group": "Religiosos",
  "region": "Español (Latam/ES)",
  "color": "hsl(129,58%,42%)",
  "abbr": "TS",
@@ -13213,7 +13213,7 @@ window.CHANNELS = [
  {
  "id": "triunfo969fm-pr-sd",
  "name": "Triunfo 96.9 FM",
- "group": "Religioso",
+ "group": "Religiosos",
  "region": "Español (Latam/ES)",
  "color": "hsl(28,58%,42%)",
  "abbr": "T99",
@@ -13226,7 +13226,7 @@ window.CHANNELS = [
  {
  "id": "tuuniversotv-co-sd",
  "name": "Tu Universo TV",
- "group": "Religioso",
+ "group": "Religiosos",
  "region": "Español (Latam/ES)",
  "color": "hsl(4,58%,42%)",
  "abbr": "TUT",
@@ -13239,7 +13239,7 @@ window.CHANNELS = [
  {
  "id": "tv45-ni-sd",
  "name": "TV 45",
- "group": "Religioso",
+ "group": "Religiosos",
  "region": "Español (Latam/ES)",
  "color": "hsl(7,58%,42%)",
  "abbr": "T4",
@@ -13252,7 +13252,7 @@ window.CHANNELS = [
  {
  "id": "tvcret-sv-sd",
  "name": "TV CRET",
- "group": "Religioso",
+ "group": "Religiosos",
  "region": "Español (Latam/ES)",
  "color": "hsl(204,58%,42%)",
  "abbr": "TC",
@@ -13265,7 +13265,7 @@ window.CHANNELS = [
  {
  "id": "tvestrella-hn-sd",
  "name": "TV Estrella",
- "group": "Religioso",
+ "group": "Religiosos",
  "region": "Español (Latam/ES)",
  "color": "hsl(190,58%,42%)",
  "abbr": "TE",
@@ -13278,7 +13278,7 @@ window.CHANNELS = [
  {
  "id": "tvgetsemani-sv-sd",
  "name": "TV Getsemani",
- "group": "Religioso",
+ "group": "Religiosos",
  "region": "Español (Latam/ES)",
  "color": "hsl(257,58%,42%)",
  "abbr": "TG",
@@ -13291,7 +13291,7 @@ window.CHANNELS = [
  {
  "id": "tvleondejuda-sv-sd",
  "name": "TV Leon de Juda",
- "group": "Religioso",
+ "group": "Religiosos",
  "region": "Español (Latam/ES)",
  "color": "hsl(293,58%,42%)",
  "abbr": "TLD",
@@ -13304,7 +13304,7 @@ window.CHANNELS = [
  {
  "id": "tvluz-do-sd",
  "name": "TV Luz",
- "group": "Religioso",
+ "group": "Religiosos",
  "region": "Español (Latam/ES)",
  "color": "hsl(187,58%,42%)",
  "abbr": "TL",
@@ -13317,7 +13317,7 @@ window.CHANNELS = [
  {
  "id": "tvmanaargentina-ar-sd",
  "name": "TV Mana Argentina",
- "group": "Religioso",
+ "group": "Religiosos",
  "region": "Español (Latam/ES)",
  "color": "hsl(156,58%,42%)",
  "abbr": "TMA",
@@ -13330,7 +13330,7 @@ window.CHANNELS = [
  {
  "id": "tvmanaespanhol-pt-sd",
  "name": "TV Mana Espanhol",
- "group": "Religioso",
+ "group": "Religiosos",
  "region": "Español (Latam/ES)",
  "color": "hsl(1,58%,42%)",
  "abbr": "TME",
@@ -13343,7 +13343,7 @@ window.CHANNELS = [
  {
  "id": "tvmaria-gt-sd",
  "name": "TV Maria",
- "group": "Religioso",
+ "group": "Religiosos",
  "region": "Español (Latam/ES)",
  "color": "hsl(152,58%,42%)",
  "abbr": "TM",
@@ -13356,7 +13356,7 @@ window.CHANNELS = [
  {
  "id": "tvgracia-co-sd",
  "name": "TVGracia",
- "group": "Religioso",
+ "group": "Religiosos",
  "region": "Español (Latam/ES)",
  "color": "hsl(63,58%,42%)",
  "abbr": "T",
@@ -13369,7 +13369,7 @@ window.CHANNELS = [
  {
  "id": "umvirtual-montemorelos-mexico",
  "name": "UMVirtual Montemorelos (México)",
- "group": "Religioso",
+ "group": "Religiosos",
  "region": "Español (Latam/ES)",
  "color": "hsl(349,58%,42%)",
  "abbr": "UMM",
@@ -13382,7 +13382,7 @@ window.CHANNELS = [
  {
  "id": "unifetv-ar-sd",
  "name": "Unife TV",
- "group": "Religioso",
+ "group": "Religiosos",
  "region": "Español (Latam/ES)",
  "color": "hsl(315,58%,42%)",
  "abbr": "UT",
@@ -13395,7 +13395,7 @@ window.CHANNELS = [
  {
  "id": "vc-online-chile",
  "name": "VC Online (Chile)",
- "group": "Religioso",
+ "group": "Religiosos",
  "region": "Español (Latam/ES)",
  "color": "hsl(346,58%,42%)",
  "abbr": "VOC",
@@ -13408,7 +13408,7 @@ window.CHANNELS = [
  {
  "id": "vida-al-maximo-tv",
  "name": "Vida al Maximo TV",
- "group": "Religioso",
+ "group": "Religiosos",
  "region": "Español (Latam/ES)",
  "color": "hsl(278,58%,42%)",
  "abbr": "VAM",
@@ -13421,7 +13421,7 @@ window.CHANNELS = [
  {
  "id": "vidamejortv-us-sd",
  "name": "Vida Mejor TV",
- "group": "Religioso",
+ "group": "Religiosos",
  "region": "Español (Latam/ES)",
  "color": "hsl(261,58%,42%)",
  "abbr": "VMT",
@@ -13434,7 +13434,7 @@ window.CHANNELS = [
  {
  "id": "vision-pe-sd",
  "name": "Vision (Peru)",
- "group": "Religioso",
+ "group": "Religiosos",
  "region": "Español (Latam/ES)",
  "color": "hsl(17,58%,42%)",
  "abbr": "VP",
@@ -13447,7 +13447,7 @@ window.CHANNELS = [
  {
  "id": "visionlatina-pa-sd",
  "name": "Vision Latina",
- "group": "Religioso",
+ "group": "Religiosos",
  "region": "Español (Latam/ES)",
  "color": "hsl(245,58%,42%)",
  "abbr": "VL",
@@ -13460,7 +13460,7 @@ window.CHANNELS = [
  {
  "id": "vive-musica-hd-en",
  "name": "Vive Musica HD (EN)",
- "group": "Religioso",
+ "group": "Religiosos",
  "region": "Español (Latam/ES)",
  "color": "hsl(254,58%,42%)",
  "abbr": "VMH",
@@ -13473,7 +13473,7 @@ window.CHANNELS = [
  {
  "id": "vtvcanal17-bo-sd",
  "name": "VTV Canal 17",
- "group": "Religioso",
+ "group": "Religiosos",
  "region": "Español (Latam/ES)",
  "color": "hsl(123,58%,42%)",
  "abbr": "VC1",
@@ -13486,7 +13486,7 @@ window.CHANNELS = [
  {
  "id": "wecn-pr-sd",
  "name": "WECN",
- "group": "Religioso",
+ "group": "Religiosos",
  "region": "Español (Latam/ES)",
  "color": "hsl(241,58%,42%)",
  "abbr": "W",
@@ -13499,7 +13499,7 @@ window.CHANNELS = [
  {
  "id": "welu81-pr-hd",
  "name": "WELU 8.1",
- "group": "Religioso",
+ "group": "Religiosos",
  "region": "Español (Latam/ES)",
  "color": "hsl(290,58%,42%)",
  "abbr": "W81",
@@ -13512,7 +13512,7 @@ window.CHANNELS = [
  {
  "id": "zoe-vision-no-24-7-puerto-rico",
  "name": "Zoe Visión [No 24/7](Puerto Rico)",
- "group": "Religioso",
+ "group": "Religiosos",
  "region": "Español (Latam/ES)",
  "color": "hsl(248,58%,42%)",
  "abbr": "ZVN",

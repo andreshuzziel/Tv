@@ -940,193 +940,193 @@ Cada bloque arranca en el número indicado y dentro de él los canales van en **
 
 | # | Bandera | Canal | Grupo | Región/País |
 |---:|---|---|---|---|
-| 801 | 🇨🇱 | 15.1 BPB | Religioso | Nacional |
-| 802 | 🇨🇱 | ADA TV | Religioso | Nacional |
-| 803 | 🇨🇱 | Canal ISB (Iglesia San Bernardo) | Religioso | Nacional |
-| 804 | 🇨🇱 | ISA TV | Religioso | Nacional |
-| 805 | 🇨🇱 | MTNA TV | Religioso | Nacional |
-| 806 | 🇨🇱 | Nuevo Tiempo TV | Religioso | Nacional |
-| 807 | 🇨🇱 | Radio Armonia TV | Religioso | Nacional |
-| 808 | 🇨🇱 | Radio El Sembrador | Religioso | Nacional |
-| 809 | 🇨🇱 | Televida (Chile) | Religioso | Nacional |
+| 801 | 🇨🇱 | 15.1 BPB | Religiosos | Nacional |
+| 802 | 🇨🇱 | ADA TV | Religiosos | Nacional |
+| 803 | 🇨🇱 | Canal ISB (Iglesia San Bernardo) | Religiosos | Nacional |
+| 804 | 🇨🇱 | ISA TV | Religiosos | Nacional |
+| 805 | 🇨🇱 | MTNA TV | Religiosos | Nacional |
+| 806 | 🇨🇱 | Nuevo Tiempo TV | Religiosos | Nacional |
+| 807 | 🇨🇱 | Radio Armonia TV | Religiosos | Nacional |
+| 808 | 🇨🇱 | Radio El Sembrador | Religiosos | Nacional |
+| 809 | 🇨🇱 | Televida (Chile) | Religiosos | Nacional |
 | 810 | 🇨🇱 | Restaurando Vidas TV | Religiosos | Nacional |
-| 811 | 🇺🇸 | 3ABN International | Religioso | Español (Latam/ES) |
-| 812 | 🇩🇴 | Adoram TV | Religioso | Español (Latam/ES) |
-| 813 | 🇸🇻 | Agape TV | Religioso | Español (Latam/ES) |
-| 814 | 🇲🇽 | Alcance TV (Mexico) | Religioso | Español (Latam/ES) |
-| 815 | 🇻🇪 | Alcance TV (Venezuela) | Religioso | Español (Latam/ES) |
-| 816 | 🇺🇸 | Aliento Vision | Religioso | Español (Latam/ES) |
-| 817 | 🇬🇹 | Amigos TV Chiquimula | Religioso | Español (Latam/ES) |
-| 818 | 🇵🇪 | Andes Television | Religioso | Español (Latam/ES) |
-| 819 | 🇮🇳 | Angel TV Spanish | Religioso | Español (Latam/ES) |
-| 820 | 🇸🇻 | Arbol de Vida TV | Religioso | Español (Latam/ES) |
-| 821 | 🇪🇨 | Asomavision | Religioso | Español (Latam/ES) |
-| 822 | 🇨🇴 | Avivamiento TV | Religioso | Español (Latam/ES) |
-| 823 | 🇲🇽 | BAMOS TV | Religioso | Español (Latam/ES) |
-| 824 | 🇨🇴 | Bendicion Channel | Religioso | Español (Latam/ES) |
-| 825 | 🇵🇪 | Bethel TV | Religioso | Español (Latam/ES) |
-| 826 | 🇦🇷 | Canal 13 Jujuy | Religioso | Español (Latam/ES) |
-| 827 | 🇬🇹 | Canal 27 | Religioso | Español (Latam/ES) |
-| 828 | 🇬🇹 | Canal 30 TV Bethel | Religioso | Español (Latam/ES) |
-| 829 | 🇦🇷 | Canal 6 Viento Recio | Religioso | Español (Latam/ES) |
-| 830 | 🇸🇻 | Canal 65 | Religioso | Español (Latam/ES) |
-| 831 | 🇺🇸 | Canal de la Fe | Religioso | Español (Latam/ES) |
-| 832 | 🇪🇸 | Canal Diocesano Toledo (España) | Religioso | Español (Latam/ES) |
-| 833 | 🇬🇹 | Canal Iglesia Luz y Verdad | Religioso | Español (Latam/ES) |
-| 834 | 🇦🇷 | Canal Luz | Religioso | Español (Latam/ES) |
-| 835 | 🇺🇾 | Canal Mas | Religioso | Español (Latam/ES) |
-| 836 | 🇨🇴 | Canal Oracion Con Son | Religioso | Español (Latam/ES) |
-| 837 | 🇦🇷 | Canal Orbe 21 | Religioso | Español (Latam/ES) |
-| 838 | 🇬🇹 | Canal Peniel | Religioso | Español (Latam/ES) |
-| 839 | 🇦🇷 | Canal Santa Maria | Religioso | Español (Latam/ES) |
-| 840 | 🇨🇴 | Canal Telefamilia | Religioso | Español (Latam/ES) |
-| 841 | 🇨🇴 | Canal Telesantiago | Religioso | Español (Latam/ES) |
-| 842 | 🇬🇹 | Canal TV Radio Maya TGBA | Religioso | Español (Latam/ES) |
-| 843 | 🇪🇸 | Canal+ Uruguay (Uruguay) | Religioso | Español (Latam/ES) |
-| 844 | 🇬🇹 | Candelaria TV | Religioso | Español (Latam/ES) |
-| 845 | 🇵🇷 | Candelita TV | Religioso | Español (Latam/ES) |
-| 846 | 🇺🇸 | CBN Espanol | Religioso | Español (Latam/ES) |
-| 847 | 🇪🇸 | CBN Español (Internacional) | Religioso | Español (Latam/ES) |
-| 848 | 🇭🇳 | CCI Channel | Religioso | Español (Latam/ES) |
-| 849 | 🇵🇷 | CDM Internacional | Religioso | Español (Latam/ES) |
-| 850 | 🇭🇳 | Choluteca TV | Religioso | Español (Latam/ES) |
-| 851 | 🇩🇴 | Cielo TV | Religioso | Español (Latam/ES) |
-| 852 | 🇨🇴 | CMB Television | Religioso | Español (Latam/ES) |
-| 853 | 🇬🇹 | Conectados con Dios | Religioso | Español (Latam/ES) |
-| 854 | 🇨🇷 | Conexion Positiva Television | Religioso | Español (Latam/ES) |
-| 855 | 🇬🇹 | Cristo TV | Religioso | Español (Latam/ES) |
-| 856 | 🇨🇷 | Cristo Vision Canal 31 | Religioso | Español (Latam/ES) |
-| 857 | 🇨🇴 | Cristovision | Religioso | Español (Latam/ES) |
-| 858 | 🇦🇺 | DG:TV | Religioso | Español (Latam/ES) |
-| 859 | 🇭🇳 | Dios Te Ve | Religioso | Español (Latam/ES) |
-| 860 | 🇭🇳 | Dios Tv Talanga | Religioso | Español (Latam/ES) |
-| 861 | 🇭🇳 | Ebenezer TV | Religioso | Español (Latam/ES) |
-| 862 | 🇸🇻 | El Camino TV | Religioso | Español (Latam/ES) |
-| 863 | 🇩🇴 | El Puerto TV | Religioso | Español (Latam/ES) |
-| 864 | 🇬🇹 | El-Roi TV | Religioso | Español (Latam/ES) |
-| 865 | 🇸🇻 | Elim TV | Religioso | Español (Latam/ES) |
-| 866 | 🇨🇷 | Enlace Juvenil | Religioso | Español (Latam/ES) |
-| 867 | 🇪🇸 | Enlace TBN (Internacional) | Religioso | Español (Latam/ES) |
-| 868 | 🇳🇮 | Escuchame Radio TV | Religioso | Español (Latam/ES) |
-| 869 | 🇬🇹 | Espiritu Santo Y Fuego TV | Religioso | Español (Latam/ES) |
-| 870 | 🇺🇸 | EWTN (United States) Spain & Latin America | Religioso | Español (Latam/ES) |
-| 871 | 🇺🇸 | EWTN (United States) Spanish | Religioso | Español (Latam/ES) |
-| 872 | 🇪🇸 | EWTN Espana | Religioso | Español (Latam/ES) |
-| 873 | 🇬🇹 | Expresion TV | Religioso | Español (Latam/ES) |
-| 874 | 🇨🇷 | Extrema TV (Costa Rica) | Religioso | Español (Latam/ES) |
-| 875 | 🇵🇷 | Faro de Santidad TV | Religioso | Español (Latam/ES) |
-| 876 | 🇬🇹 | Fe Viviente | Religioso | Español (Latam/ES) |
-| 877 | 🇬🇹 | Franchs TV | Religioso | Español (Latam/ES) |
-| 878 | 🇨🇴 | Frecuencia F TV | Religioso | Español (Latam/ES) |
-| 879 | 🇪🇸 | Frecuencia F TV (Colombia) | Religioso | Español (Latam/ES) |
-| 880 | 🇪🇸 | Gracia TV (Chile) | Religioso | Español (Latam/ES) |
-| 881 | 🇸🇻 | GSG TV | Religioso | Español (Latam/ES) |
-| 882 | 🇺🇸 | Hope Channel Inter-America | Religioso | Español (Latam/ES) |
-| 883 | 🇵🇦 | Hosanna Vision | Religioso | Español (Latam/ES) |
-| 884 | 🇪🇨 | IeanJesus Ecuador | Religioso | Español (Latam/ES) |
-| 885 | 🇨🇷 | Impact Channel | Religioso | Español (Latam/ES) |
-| 886 | 🇧🇷 | IMPD TV Worldwide | Religioso | Español (Latam/ES) |
-| 887 | 🇭🇳 | Inmaculada TV | Religioso | Español (Latam/ES) |
-| 888 | 🇳🇮 | JBN | Religioso | Español (Latam/ES) |
-| 889 | 🇭🇳 | JBN TV | Religioso | Español (Latam/ES) |
-| 890 | 🇬🇹 | Jehova Nissi | Religioso | Español (Latam/ES) |
-| 891 | 🇭🇳 | Jehova TV | Religioso | Español (Latam/ES) |
-| 892 | 🇭🇳 | JEMR TV | Religioso | Español (Latam/ES) |
-| 893 | 🇸🇻 | JFV TV | Religioso | Español (Latam/ES) |
-| 894 | 🇪🇸 | JN19 (Perú) | Religioso | Español (Latam/ES) |
-| 895 | 🇸🇻 | Josue TV | Religioso | Español (Latam/ES) |
-| 896 | 🇭🇳 | Kerusso TV | Religioso | Español (Latam/ES) |
-| 897 | 🇺🇸 | KSCE 38.1 | Religioso | Español (Latam/ES) |
-| 898 | 🇺🇸 | KSCE 38.3 | Religioso | Español (Latam/ES) |
-| 899 | 🇩🇴 | La Voz de Jesus HD | Religioso | Español (Latam/ES) |
-| 900 | 🇩🇴 | La Voz de Maria | Religioso | Español (Latam/ES) |
-| 901 | 🇻🇪 | LGD Television | Religioso | Español (Latam/ES) |
-| 902 | 🇺🇸 | Living Faith TV | Religioso | Español (Latam/ES) |
-| 903 | 🇺🇸 | LLBN TV Latino | Religioso | Español (Latam/ES) |
-| 904 | 🇪🇸 | Logos TV (Spain) | Religioso | Español (Latam/ES) |
-| 905 | 🇩🇴 | Luz Divina TV | Religioso | Español (Latam/ES) |
-| 906 | 🇨🇷 | Luz Naciente TV | Religioso | Español (Latam/ES) |
-| 907 | 🇺🇸 | Majestad TV | Religioso | Español (Latam/ES) |
-| 908 | 🇵🇹 | Mana Iglesia Online | Religioso | Español (Latam/ES) |
-| 909 | 🇧🇦 | Maria+Vision Medjugorje | Religioso | Español (Latam/ES) |
-| 910 | 🇬🇹 | MCN Television | Religioso | Español (Latam/ES) |
-| 911 | 🇵🇦 | MINFAV TV | Religioso | Español (Latam/ES) |
-| 912 | 🇺🇸 | Ministerio La Voz De Un Remanente TV | Religioso | Español (Latam/ES) |
-| 913 | 🇪🇸 | Ministerios Ebenezer (Guatemala) | Religioso | Español (Latam/ES) |
-| 914 | 🇩🇴 | Mision ELTV | Religioso | Español (Latam/ES) |
-| 915 | 🇺🇾 | Mision Vida TV | Religioso | Español (Latam/ES) |
-| 916 | 🇲🇽 | Monte Maria | Religioso | Español (Latam/ES) |
-| 917 | 🇵🇾 | Nandejara Ne'e TV | Religioso | Español (Latam/ES) |
-| 918 | 🇧🇷 | Nuevo Tiempo | Religioso | Español (Latam/ES) |
-| 919 | 🇨🇴 | Oasis TV (Colombia) | Religioso | Español (Latam/ES) |
-| 920 | 🇳🇮 | Olam Metro TV | Religioso | Español (Latam/ES) |
-| 921 | 🇵🇷 | Paraiso TV | Religioso | Español (Latam/ES) |
-| 922 | 🇬🇹 | Peniel K&Y | Religioso | Español (Latam/ES) |
-| 923 | 🇬🇹 | Peniel Musical | Religioso | Español (Latam/ES) |
-| 924 | 🇬🇹 | Peniel TV Biblia Abierta | Religioso | Español (Latam/ES) |
-| 925 | 🇬🇹 | Presencia Television | Religioso | Español (Latam/ES) |
-| 926 | 🇭🇳 | Radio Fiesta de Milagros TV | Religioso | Español (Latam/ES) |
-| 927 | 🇵🇦 | Radio Hogar | Religioso | Español (Latam/ES) |
-| 928 | 🇦🇷 | Radio Maria TV | Religioso | Español (Latam/ES) |
-| 929 | 🇲🇽 | Radio y Television Crisol de la Alegria | Religioso | Español (Latam/ES) |
-| 930 | 🇺🇸 | RadioMensaje TV | Religioso | Español (Latam/ES) |
-| 931 | 🇵🇾 | RCC TV | Religioso | Español (Latam/ES) |
-| 932 | 🇻🇪 | Reforma TV | Religioso | Español (Latam/ES) |
-| 933 | 🇪🇸 | Reforma TV (Venezuela) | Religioso | Español (Latam/ES) |
-| 934 | 🇵🇷 | Salvacion TV | Religioso | Español (Latam/ES) |
-| 935 | 🇨🇷 | San Jose TV | Religioso | Español (Latam/ES) |
-| 936 | 🇨🇴 | Santel TV | Religioso | Español (Latam/ES) |
-| 937 | 🇺🇸 | SBN TV | Religioso | Español (Latam/ES) |
-| 938 | 🇺🇸 | SBN TV Global | Religioso | Español (Latam/ES) |
-| 939 | 🇺🇸 | SBN TV International | Religioso | Español (Latam/ES) |
-| 940 | 🇮🇳 | Shalom Global | Religioso | Español (Latam/ES) |
-| 941 | 🇺🇸 | Shalom World | Religioso | Español (Latam/ES) |
-| 942 | 🇺🇸 | Shalom World Prayer | Religioso | Español (Latam/ES) |
-| 943 | 🇪🇸 | Spirit TV HD (EN) | Religioso | Español (Latam/ES) |
-| 944 | 🇭🇳 | Suyapa TV | Religioso | Español (Latam/ES) |
-| 945 | 🇪🇸 | TaberTV (El Salvador) | Religioso | Español (Latam/ES) |
-| 946 | 🇪🇸 | Taroteame | Religioso | Español (Latam/ES) |
-| 947 | 🇪🇸 | TBN Espana | Religioso | Español (Latam/ES) |
-| 948 | 🇭🇳 | TDV TV | Religioso | Español (Latam/ES) |
-| 949 | 🇪🇸 | Tele Amiga (Colombia) | Religioso | Español (Latam/ES) |
-| 950 | 🇨🇴 | Tele Vid | Religioso | Español (Latam/ES) |
-| 951 | 🇩🇴 | TeleBendicion | Religioso | Español (Latam/ES) |
-| 952 | 🇪🇸 | Telefides [No 24/7](Costa Rica) | Religioso | Español (Latam/ES) |
-| 953 | 🇩🇴 | Televida (Dominican Republic) | Religioso | Español (Latam/ES) |
-| 954 | 🇪🇸 | Television Consciente | Religioso | Español (Latam/ES) |
-| 955 | 🇺🇸 | Teve Vida Network | Religioso | Español (Latam/ES) |
-| 956 | 🇪🇸 | Trece (Spain) | Religioso | Español (Latam/ES) |
-| 957 | 🇵🇷 | Triunfo 96.9 FM | Religioso | Español (Latam/ES) |
-| 958 | 🇨🇴 | Tu Universo TV | Religioso | Español (Latam/ES) |
-| 959 | 🇳🇮 | TV 45 | Religioso | Español (Latam/ES) |
-| 960 | 🇸🇻 | TV CRET | Religioso | Español (Latam/ES) |
-| 961 | 🇭🇳 | TV Estrella | Religioso | Español (Latam/ES) |
-| 962 | 🇸🇻 | TV Getsemani | Religioso | Español (Latam/ES) |
-| 963 | 🇸🇻 | TV Leon de Juda | Religioso | Español (Latam/ES) |
-| 964 | 🇩🇴 | TV Luz | Religioso | Español (Latam/ES) |
-| 965 | 🇦🇷 | TV Mana Argentina | Religioso | Español (Latam/ES) |
-| 966 | 🇵🇹 | TV Mana Espanhol | Religioso | Español (Latam/ES) |
-| 967 | 🇬🇹 | TV Maria | Religioso | Español (Latam/ES) |
-| 968 | 🇨🇴 | TVGracia | Religioso | Español (Latam/ES) |
-| 969 | 🇪🇸 | UMVirtual Montemorelos (México) | Religioso | Español (Latam/ES) |
-| 970 | 🇦🇷 | Unife TV | Religioso | Español (Latam/ES) |
-| 971 | 🇪🇸 | VC Online (Chile) | Religioso | Español (Latam/ES) |
-| 972 | 🇪🇸 | Vida al Maximo TV | Religioso | Español (Latam/ES) |
-| 973 | 🇺🇸 | Vida Mejor TV | Religioso | Español (Latam/ES) |
-| 974 | 🇵🇪 | Vision (Peru) | Religioso | Español (Latam/ES) |
-| 975 | 🇵🇦 | Vision Latina | Religioso | Español (Latam/ES) |
-| 976 | 🇪🇸 | Vive Musica HD (EN) | Religioso | Español (Latam/ES) |
-| 977 | 🇧🇴 | VTV Canal 17 | Religioso | Español (Latam/ES) |
-| 978 | 🇵🇷 | WECN | Religioso | Español (Latam/ES) |
-| 979 | 🇵🇷 | WELU 8.1 | Religioso | Español (Latam/ES) |
-| 980 | 🇪🇸 | Zoe Visión [No 24/7](Puerto Rico) | Religioso | Español (Latam/ES) |
+| 811 | 🇺🇸 | 3ABN International | Religiosos | Español (Latam/ES) |
+| 812 | 🇩🇴 | Adoram TV | Religiosos | Español (Latam/ES) |
+| 813 | 🇸🇻 | Agape TV | Religiosos | Español (Latam/ES) |
+| 814 | 🇲🇽 | Alcance TV (Mexico) | Religiosos | Español (Latam/ES) |
+| 815 | 🇻🇪 | Alcance TV (Venezuela) | Religiosos | Español (Latam/ES) |
+| 816 | 🇺🇸 | Aliento Vision | Religiosos | Español (Latam/ES) |
+| 817 | 🇬🇹 | Amigos TV Chiquimula | Religiosos | Español (Latam/ES) |
+| 818 | 🇵🇪 | Andes Television | Religiosos | Español (Latam/ES) |
+| 819 | 🇮🇳 | Angel TV Spanish | Religiosos | Español (Latam/ES) |
+| 820 | 🇸🇻 | Arbol de Vida TV | Religiosos | Español (Latam/ES) |
+| 821 | 🇪🇨 | Asomavision | Religiosos | Español (Latam/ES) |
+| 822 | 🇨🇴 | Avivamiento TV | Religiosos | Español (Latam/ES) |
+| 823 | 🇲🇽 | BAMOS TV | Religiosos | Español (Latam/ES) |
+| 824 | 🇨🇴 | Bendicion Channel | Religiosos | Español (Latam/ES) |
+| 825 | 🇵🇪 | Bethel TV | Religiosos | Español (Latam/ES) |
+| 826 | 🇦🇷 | Canal 13 Jujuy | Religiosos | Español (Latam/ES) |
+| 827 | 🇬🇹 | Canal 27 | Religiosos | Español (Latam/ES) |
+| 828 | 🇬🇹 | Canal 30 TV Bethel | Religiosos | Español (Latam/ES) |
+| 829 | 🇦🇷 | Canal 6 Viento Recio | Religiosos | Español (Latam/ES) |
+| 830 | 🇸🇻 | Canal 65 | Religiosos | Español (Latam/ES) |
+| 831 | 🇺🇸 | Canal de la Fe | Religiosos | Español (Latam/ES) |
+| 832 | 🇪🇸 | Canal Diocesano Toledo (España) | Religiosos | Español (Latam/ES) |
+| 833 | 🇬🇹 | Canal Iglesia Luz y Verdad | Religiosos | Español (Latam/ES) |
+| 834 | 🇦🇷 | Canal Luz | Religiosos | Español (Latam/ES) |
+| 835 | 🇺🇾 | Canal Mas | Religiosos | Español (Latam/ES) |
+| 836 | 🇨🇴 | Canal Oracion Con Son | Religiosos | Español (Latam/ES) |
+| 837 | 🇦🇷 | Canal Orbe 21 | Religiosos | Español (Latam/ES) |
+| 838 | 🇬🇹 | Canal Peniel | Religiosos | Español (Latam/ES) |
+| 839 | 🇦🇷 | Canal Santa Maria | Religiosos | Español (Latam/ES) |
+| 840 | 🇨🇴 | Canal Telefamilia | Religiosos | Español (Latam/ES) |
+| 841 | 🇨🇴 | Canal Telesantiago | Religiosos | Español (Latam/ES) |
+| 842 | 🇬🇹 | Canal TV Radio Maya TGBA | Religiosos | Español (Latam/ES) |
+| 843 | 🇪🇸 | Canal+ Uruguay (Uruguay) | Religiosos | Español (Latam/ES) |
+| 844 | 🇬🇹 | Candelaria TV | Religiosos | Español (Latam/ES) |
+| 845 | 🇵🇷 | Candelita TV | Religiosos | Español (Latam/ES) |
+| 846 | 🇺🇸 | CBN Espanol | Religiosos | Español (Latam/ES) |
+| 847 | 🇪🇸 | CBN Español (Internacional) | Religiosos | Español (Latam/ES) |
+| 848 | 🇭🇳 | CCI Channel | Religiosos | Español (Latam/ES) |
+| 849 | 🇵🇷 | CDM Internacional | Religiosos | Español (Latam/ES) |
+| 850 | 🇭🇳 | Choluteca TV | Religiosos | Español (Latam/ES) |
+| 851 | 🇩🇴 | Cielo TV | Religiosos | Español (Latam/ES) |
+| 852 | 🇨🇴 | CMB Television | Religiosos | Español (Latam/ES) |
+| 853 | 🇬🇹 | Conectados con Dios | Religiosos | Español (Latam/ES) |
+| 854 | 🇨🇷 | Conexion Positiva Television | Religiosos | Español (Latam/ES) |
+| 855 | 🇬🇹 | Cristo TV | Religiosos | Español (Latam/ES) |
+| 856 | 🇨🇷 | Cristo Vision Canal 31 | Religiosos | Español (Latam/ES) |
+| 857 | 🇨🇴 | Cristovision | Religiosos | Español (Latam/ES) |
+| 858 | 🇦🇺 | DG:TV | Religiosos | Español (Latam/ES) |
+| 859 | 🇭🇳 | Dios Te Ve | Religiosos | Español (Latam/ES) |
+| 860 | 🇭🇳 | Dios Tv Talanga | Religiosos | Español (Latam/ES) |
+| 861 | 🇭🇳 | Ebenezer TV | Religiosos | Español (Latam/ES) |
+| 862 | 🇸🇻 | El Camino TV | Religiosos | Español (Latam/ES) |
+| 863 | 🇩🇴 | El Puerto TV | Religiosos | Español (Latam/ES) |
+| 864 | 🇬🇹 | El-Roi TV | Religiosos | Español (Latam/ES) |
+| 865 | 🇸🇻 | Elim TV | Religiosos | Español (Latam/ES) |
+| 866 | 🇨🇷 | Enlace Juvenil | Religiosos | Español (Latam/ES) |
+| 867 | 🇪🇸 | Enlace TBN (Internacional) | Religiosos | Español (Latam/ES) |
+| 868 | 🇳🇮 | Escuchame Radio TV | Religiosos | Español (Latam/ES) |
+| 869 | 🇬🇹 | Espiritu Santo Y Fuego TV | Religiosos | Español (Latam/ES) |
+| 870 | 🇺🇸 | EWTN (United States) Spain & Latin America | Religiosos | Español (Latam/ES) |
+| 871 | 🇺🇸 | EWTN (United States) Spanish | Religiosos | Español (Latam/ES) |
+| 872 | 🇪🇸 | EWTN Espana | Religiosos | Español (Latam/ES) |
+| 873 | 🇬🇹 | Expresion TV | Religiosos | Español (Latam/ES) |
+| 874 | 🇨🇷 | Extrema TV (Costa Rica) | Religiosos | Español (Latam/ES) |
+| 875 | 🇵🇷 | Faro de Santidad TV | Religiosos | Español (Latam/ES) |
+| 876 | 🇬🇹 | Fe Viviente | Religiosos | Español (Latam/ES) |
+| 877 | 🇬🇹 | Franchs TV | Religiosos | Español (Latam/ES) |
+| 878 | 🇨🇴 | Frecuencia F TV | Religiosos | Español (Latam/ES) |
+| 879 | 🇪🇸 | Frecuencia F TV (Colombia) | Religiosos | Español (Latam/ES) |
+| 880 | 🇪🇸 | Gracia TV (Chile) | Religiosos | Español (Latam/ES) |
+| 881 | 🇸🇻 | GSG TV | Religiosos | Español (Latam/ES) |
+| 882 | 🇺🇸 | Hope Channel Inter-America | Religiosos | Español (Latam/ES) |
+| 883 | 🇵🇦 | Hosanna Vision | Religiosos | Español (Latam/ES) |
+| 884 | 🇪🇨 | IeanJesus Ecuador | Religiosos | Español (Latam/ES) |
+| 885 | 🇨🇷 | Impact Channel | Religiosos | Español (Latam/ES) |
+| 886 | 🇧🇷 | IMPD TV Worldwide | Religiosos | Español (Latam/ES) |
+| 887 | 🇭🇳 | Inmaculada TV | Religiosos | Español (Latam/ES) |
+| 888 | 🇳🇮 | JBN | Religiosos | Español (Latam/ES) |
+| 889 | 🇭🇳 | JBN TV | Religiosos | Español (Latam/ES) |
+| 890 | 🇬🇹 | Jehova Nissi | Religiosos | Español (Latam/ES) |
+| 891 | 🇭🇳 | Jehova TV | Religiosos | Español (Latam/ES) |
+| 892 | 🇭🇳 | JEMR TV | Religiosos | Español (Latam/ES) |
+| 893 | 🇸🇻 | JFV TV | Religiosos | Español (Latam/ES) |
+| 894 | 🇪🇸 | JN19 (Perú) | Religiosos | Español (Latam/ES) |
+| 895 | 🇸🇻 | Josue TV | Religiosos | Español (Latam/ES) |
+| 896 | 🇭🇳 | Kerusso TV | Religiosos | Español (Latam/ES) |
+| 897 | 🇺🇸 | KSCE 38.1 | Religiosos | Español (Latam/ES) |
+| 898 | 🇺🇸 | KSCE 38.3 | Religiosos | Español (Latam/ES) |
+| 899 | 🇩🇴 | La Voz de Jesus HD | Religiosos | Español (Latam/ES) |
+| 900 | 🇩🇴 | La Voz de Maria | Religiosos | Español (Latam/ES) |
+| 901 | 🇻🇪 | LGD Television | Religiosos | Español (Latam/ES) |
+| 902 | 🇺🇸 | Living Faith TV | Religiosos | Español (Latam/ES) |
+| 903 | 🇺🇸 | LLBN TV Latino | Religiosos | Español (Latam/ES) |
+| 904 | 🇪🇸 | Logos TV (Spain) | Religiosos | Español (Latam/ES) |
+| 905 | 🇩🇴 | Luz Divina TV | Religiosos | Español (Latam/ES) |
+| 906 | 🇨🇷 | Luz Naciente TV | Religiosos | Español (Latam/ES) |
+| 907 | 🇺🇸 | Majestad TV | Religiosos | Español (Latam/ES) |
+| 908 | 🇵🇹 | Mana Iglesia Online | Religiosos | Español (Latam/ES) |
+| 909 | 🇧🇦 | Maria+Vision Medjugorje | Religiosos | Español (Latam/ES) |
+| 910 | 🇬🇹 | MCN Television | Religiosos | Español (Latam/ES) |
+| 911 | 🇵🇦 | MINFAV TV | Religiosos | Español (Latam/ES) |
+| 912 | 🇺🇸 | Ministerio La Voz De Un Remanente TV | Religiosos | Español (Latam/ES) |
+| 913 | 🇪🇸 | Ministerios Ebenezer (Guatemala) | Religiosos | Español (Latam/ES) |
+| 914 | 🇩🇴 | Mision ELTV | Religiosos | Español (Latam/ES) |
+| 915 | 🇺🇾 | Mision Vida TV | Religiosos | Español (Latam/ES) |
+| 916 | 🇲🇽 | Monte Maria | Religiosos | Español (Latam/ES) |
+| 917 | 🇵🇾 | Nandejara Ne'e TV | Religiosos | Español (Latam/ES) |
+| 918 | 🇧🇷 | Nuevo Tiempo | Religiosos | Español (Latam/ES) |
+| 919 | 🇨🇴 | Oasis TV (Colombia) | Religiosos | Español (Latam/ES) |
+| 920 | 🇳🇮 | Olam Metro TV | Religiosos | Español (Latam/ES) |
+| 921 | 🇵🇷 | Paraiso TV | Religiosos | Español (Latam/ES) |
+| 922 | 🇬🇹 | Peniel K&Y | Religiosos | Español (Latam/ES) |
+| 923 | 🇬🇹 | Peniel Musical | Religiosos | Español (Latam/ES) |
+| 924 | 🇬🇹 | Peniel TV Biblia Abierta | Religiosos | Español (Latam/ES) |
+| 925 | 🇬🇹 | Presencia Television | Religiosos | Español (Latam/ES) |
+| 926 | 🇭🇳 | Radio Fiesta de Milagros TV | Religiosos | Español (Latam/ES) |
+| 927 | 🇵🇦 | Radio Hogar | Religiosos | Español (Latam/ES) |
+| 928 | 🇦🇷 | Radio Maria TV | Religiosos | Español (Latam/ES) |
+| 929 | 🇲🇽 | Radio y Television Crisol de la Alegria | Religiosos | Español (Latam/ES) |
+| 930 | 🇺🇸 | RadioMensaje TV | Religiosos | Español (Latam/ES) |
+| 931 | 🇵🇾 | RCC TV | Religiosos | Español (Latam/ES) |
+| 932 | 🇻🇪 | Reforma TV | Religiosos | Español (Latam/ES) |
+| 933 | 🇪🇸 | Reforma TV (Venezuela) | Religiosos | Español (Latam/ES) |
+| 934 | 🇵🇷 | Salvacion TV | Religiosos | Español (Latam/ES) |
+| 935 | 🇨🇷 | San Jose TV | Religiosos | Español (Latam/ES) |
+| 936 | 🇨🇴 | Santel TV | Religiosos | Español (Latam/ES) |
+| 937 | 🇺🇸 | SBN TV | Religiosos | Español (Latam/ES) |
+| 938 | 🇺🇸 | SBN TV Global | Religiosos | Español (Latam/ES) |
+| 939 | 🇺🇸 | SBN TV International | Religiosos | Español (Latam/ES) |
+| 940 | 🇮🇳 | Shalom Global | Religiosos | Español (Latam/ES) |
+| 941 | 🇺🇸 | Shalom World | Religiosos | Español (Latam/ES) |
+| 942 | 🇺🇸 | Shalom World Prayer | Religiosos | Español (Latam/ES) |
+| 943 | 🇪🇸 | Spirit TV HD (EN) | Religiosos | Español (Latam/ES) |
+| 944 | 🇭🇳 | Suyapa TV | Religiosos | Español (Latam/ES) |
+| 945 | 🇪🇸 | TaberTV (El Salvador) | Religiosos | Español (Latam/ES) |
+| 946 | 🇪🇸 | Taroteame | Religiosos | Español (Latam/ES) |
+| 947 | 🇪🇸 | TBN Espana | Religiosos | Español (Latam/ES) |
+| 948 | 🇭🇳 | TDV TV | Religiosos | Español (Latam/ES) |
+| 949 | 🇪🇸 | Tele Amiga (Colombia) | Religiosos | Español (Latam/ES) |
+| 950 | 🇨🇴 | Tele Vid | Religiosos | Español (Latam/ES) |
+| 951 | 🇩🇴 | TeleBendicion | Religiosos | Español (Latam/ES) |
+| 952 | 🇪🇸 | Telefides [No 24/7](Costa Rica) | Religiosos | Español (Latam/ES) |
+| 953 | 🇩🇴 | Televida (Dominican Republic) | Religiosos | Español (Latam/ES) |
+| 954 | 🇪🇸 | Television Consciente | Religiosos | Español (Latam/ES) |
+| 955 | 🇺🇸 | Teve Vida Network | Religiosos | Español (Latam/ES) |
+| 956 | 🇪🇸 | Trece (Spain) | Religiosos | Español (Latam/ES) |
+| 957 | 🇵🇷 | Triunfo 96.9 FM | Religiosos | Español (Latam/ES) |
+| 958 | 🇨🇴 | Tu Universo TV | Religiosos | Español (Latam/ES) |
+| 959 | 🇳🇮 | TV 45 | Religiosos | Español (Latam/ES) |
+| 960 | 🇸🇻 | TV CRET | Religiosos | Español (Latam/ES) |
+| 961 | 🇭🇳 | TV Estrella | Religiosos | Español (Latam/ES) |
+| 962 | 🇸🇻 | TV Getsemani | Religiosos | Español (Latam/ES) |
+| 963 | 🇸🇻 | TV Leon de Juda | Religiosos | Español (Latam/ES) |
+| 964 | 🇩🇴 | TV Luz | Religiosos | Español (Latam/ES) |
+| 965 | 🇦🇷 | TV Mana Argentina | Religiosos | Español (Latam/ES) |
+| 966 | 🇵🇹 | TV Mana Espanhol | Religiosos | Español (Latam/ES) |
+| 967 | 🇬🇹 | TV Maria | Religiosos | Español (Latam/ES) |
+| 968 | 🇨🇴 | TVGracia | Religiosos | Español (Latam/ES) |
+| 969 | 🇪🇸 | UMVirtual Montemorelos (México) | Religiosos | Español (Latam/ES) |
+| 970 | 🇦🇷 | Unife TV | Religiosos | Español (Latam/ES) |
+| 971 | 🇪🇸 | VC Online (Chile) | Religiosos | Español (Latam/ES) |
+| 972 | 🇪🇸 | Vida al Maximo TV | Religiosos | Español (Latam/ES) |
+| 973 | 🇺🇸 | Vida Mejor TV | Religiosos | Español (Latam/ES) |
+| 974 | 🇵🇪 | Vision (Peru) | Religiosos | Español (Latam/ES) |
+| 975 | 🇵🇦 | Vision Latina | Religiosos | Español (Latam/ES) |
+| 976 | 🇪🇸 | Vive Musica HD (EN) | Religiosos | Español (Latam/ES) |
+| 977 | 🇧🇴 | VTV Canal 17 | Religiosos | Español (Latam/ES) |
+| 978 | 🇵🇷 | WECN | Religiosos | Español (Latam/ES) |
+| 979 | 🇵🇷 | WELU 8.1 | Religiosos | Español (Latam/ES) |
+| 980 | 🇪🇸 | Zoe Visión [No 24/7](Puerto Rico) | Religiosos | Español (Latam/ES) |
 | — | 🇨🇱 | ADA TV — *(solo web: sitio oficial)* | Religiosos | Nacional |
-| — | 🇨🇱 | Canal ISB — *(solo web: sitio oficial)* | Religioso | Nacional |
-| — | 🇨🇱 | Canal ISB (Iglesia San Bernardo) — *(solo web: https://www.canalisb.cl)* | Religioso | Nacional |
-| — | 🇨🇱 | Fortaleza TV — *(solo web: sitio oficial)* | Religioso | Nacional |
-| — | 🇬🇹 | Plenitud TV — *(solo web: sitio oficial)* | Religioso | Español (Latam/ES) |
-| — | 🇨🇱 | TNE — *(solo web: sitio oficial)* | Religioso | Nacional |
-| — | 🇨🇱 | Vida Nueva TV — *(solo web: sitio oficial)* | Religioso | Nacional |
+| — | 🇨🇱 | Canal ISB — *(solo web: sitio oficial)* | Religiosos | Nacional |
+| — | 🇨🇱 | Canal ISB (Iglesia San Bernardo) — *(solo web: https://www.canalisb.cl)* | Religiosos | Nacional |
+| — | 🇨🇱 | Fortaleza TV — *(solo web: sitio oficial)* | Religiosos | Nacional |
+| — | 🇬🇹 | Plenitud TV — *(solo web: sitio oficial)* | Religiosos | Español (Latam/ES) |
+| — | 🇨🇱 | TNE — *(solo web: sitio oficial)* | Religiosos | Nacional |
+| — | 🇨🇱 | Vida Nueva TV — *(solo web: sitio oficial)* | Religiosos | Nacional |
 
 ### 🤝 Comunitarios — 5 canales
 
