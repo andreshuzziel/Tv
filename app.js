@@ -65,7 +65,7 @@
     { k: 'radio',    name: 'Radios en video',        icon: '📻', color: '#ea580c', groups: ['Radio'] },
     { k: 'estilo',   name: 'Estilo de vida y viajes', icon: '🌿', color: '#65a30d', groups: ['Estilo de vida', 'Viajes', 'Cocina', 'Autos', 'Aire libre', 'Negocios'] },
     { k: 'gob',      name: '🏛️ Gobierno y Congreso de Chile (solo 🇨🇱)', icon: '🏛️', color: '#475569', groups: ['Gobierno y Congreso'] },
-    { k: 'religion', name: 'Religiosos',             icon: '⛪', color: '#a16207', groups: ['Religioso', 'Religiosos'] },
+    { k: 'religion', name: 'Religiosos',             icon: '⛪', color: '#a16207', groups: ['Religiosos'] },
     { k: 'comunit',  name: 'Comunitarios',           icon: '🤝', color: '#0d9488', groups: ['Comunitarios'] },
     { k: 'inter',    name: 'Internacionales',        icon: '🌐', color: '#4f46e5', groups: ['Internacionales'] },
     { k: 'ott',      name: 'Servicios OTT (streaming legal)', icon: '🌐', color: '#4f46e5', groups: ['OTT'] },
