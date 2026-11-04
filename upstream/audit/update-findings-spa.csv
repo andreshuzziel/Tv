@@ -230,7 +230,6 @@ Filmex Clasico (1080p) [Geo-blocked],Movies,https://filmex-filmexclasico-xumo.am
 FMTV [Not 24/7],Music,https://s2.tvdatta.com:3307/hybrid/play.m3u8,tv-pago/adulto
 Food Network Latin America (1080p),Cooking,http://168.196.127.137:6001/play/a09v/index.m3u8,no-https;ip-directa
 Fox Deportes (720p),Sports,http://23.237.104.106:8080/USA_FOX_DEPORTES/index.m3u8,no-https;ip-directa
-Fox Sports 2 (Argentina) (576i),Sports,https://zapster.trapemn.tv:1936/CD-LATAM/FoxSports2/playlist.m3u8,tv-pago/adulto
 Fox Sports (1080p),Sports,http://138.59.227.20:8000/play/a085/index.m3u8,no-https;ip-directa;tv-pago/adulto
 Fox Sports HD,Sports,http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/1552.m3u8,no-https;ip-directa;tv-pago/adulto
 FuegoTV (1080p),News,http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/fuegotv.stream/playlist.m3u8,no-https
@@ -538,6 +537,7 @@ Teletica 7 (1080p),General,http://190.61.101.11:7050/play/a07t/index.m3u8,no-htt
 Teleunion (1080p),General,http://server2grupocam.com:1945/teleunion/TU/playlist.m3u8,no-https
 Televen (1080p),General,http://38.134.250.110:8000/play/a02i/index.m3u8,no-https;ip-directa
 Television Publica (1080p),General,http://190.128.214.97:64333/play/a008/index.m3u8,no-https;ip-directa
+Television Tarapoto (1080p),General,http://45.5.57.58:8000/play/a038/index.m3u8,no-https;ip-directa
 TeleXitos (1080p),Undefined,http://190.197.41.183/TELEXITOS/index.m3u8,no-https;ip-directa
 The New Detectives (United States) LatAm,Series,https://jmp2.uk/plu-5ea71d48af1d0b0007d837f4.m3u8,vod-no-autorizado
 Tigo Sports (El Salvador) (1080p),Sports,http://45.167.2.101:8000/play/a0pp/index.m3u8,no-https;ip-directa

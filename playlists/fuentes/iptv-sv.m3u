@@ -211,6 +211,8 @@ https://tvstream.conexionpositivaradio.com/memfs/69239c4d-4116-4f4f-b065-bf17e81
 https://lstv.duckdns.org:449/hls/lstv.m3u8
 #EXTINF:-1 #EXTINF:-1 tvg-logo="https://i.imgur.com/XvktUBB.jpg" group-title="Costa Rica",Zurquí TV HD [No 24/7](Pococí - Limón)
 https://videoserver.tmcreativos.com:19360/gesfnvpamn/gesfnvpamn.m3u8
+#EXTINF:-1 #EXTINF:-1 tvg-logo="https://i.ibb.co/FLjdHy3V/Cedros-TV-1.png" group-title="Costa Rica",CEDROS TV HD [No 24/7]
+https://eu1.servers10.com:8081/cedrostv/index.m3u8
 #EXTINF:-1 #EXTINF:-1 tvg-logo="https://i.ibb.co/pF7gtSQ/las-estrellas-co.png" group-title="México",Las Estrellas HD (Nacional)[v1]
 https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
 #EXTINF:-1 #EXTINF:-1 tvg-logo="https://i.postimg.cc/FHFgYTMW/Diseno-sin-titulo(7).png" group-title="México",Imagen TV Plus HD (Nacional)
@@ -275,6 +277,8 @@ https://stream.unison.mx/hls/unisontvatem.m3u8
 https://5ca9af4645e15.streamlock.net/vibetv/videovibetv/playlist.m3u8
 #EXTINF:-1 #EXTINF:-1 group-title="Colombia" tvg-logo="https://e7.pngegg.com/pngimages/380/727/png-clipart-telepacifico-television-channel-logo-colombia-enterprises-album-television-text.png",Telepacifico [Opc2]
 https://play.cdn.enetres.net/6E5C615AA5FF4123ACAF0DAB57B7B8DC021/022/playlist.m3u8
+#EXTINF:-1 #EXTINF:-1 tvg-logo="https://i.imgur.com/YQUK4wO.png" group-title="Colombia",UMC TV HD (Nacional)
+https://streaming5.globalhostla.com/rtplive/unamirad/playlist.m3u8
 #EXTINF:-1 #EXTINF:-1 tvg-logo="https://i.imgur.com/Y9x16vl.png" group-title="Colombia",Señal Colombia [No 24/7] (Nacional) [Geo-Blocked]
 https://streaming.rtvc.gov.co/TV_Senal_Colombia_live/smil:live.smil/playlist.m3u8
 #EXTINF:-1 #EXTINF:-1 tvg-logo="https://i.imgur.com/hqfQVrU.png" group-title="Colombia",Canal Institucional [No 24/7] (Nacional) [Geo-Blocked]
@@ -285,6 +289,8 @@ https://inforedvos.lcdn.claro.net.co/Content/HLS_HLS_DIR/Live/channel(REDMASHDWE
 https://players.intermediahost.co/api/hls-proxy/?channel=colombia-extremo
 #EXTINF:-1 #EXTINF:-1 tvg-logo="https://cdn.colombia.com/canales/eduvision-2592-th.jpg" group-title="Colombia",Eduvisión
 https://stmv3.voxtvhd.com.br/conex2/conex2/playlist.m3u8
+#EXTINF:-1 #EXTINF:-1 tvg-logo="https://i.imgur.com/peOIG1F.png" group-title="Colombia",Canal 8 TV+ HD  (Cundinamarca)
+https://movil.ejeserver.com/live/canal8tv.m3u8
 #EXTINF:-1 #EXTINF:-1 tvg-logo="https://cdn.colombia.com/canales/canal-capital-3233-th.jpg" group-title="Colombia",Canal Capital [Geo-Blocked]
 https://mdstrm.com/live-stream-playlist/6952dc88cb62083467eb6ab4.m3u8
 #EXTINF:-1 #EXTINF:-1 tvg-logo="https://i.imgur.com/6WMV2Az.png" group-title="Colombia",Teleantioquia HD (Antioquia / Regional) [Geo-Blocked]
@@ -311,6 +317,8 @@ https://cloud6.livescast.com:3900/live/tevecolombialive.m3u8
 https://live20.bozztv.com/akamaissh101/ssh101/telesangil/playlist.m3u8
 #EXTINF:-1 #EXTINF:-1 tvg-logo="https://i.imgur.com/ODMa27W.jpg" group-title="Colombia",Canal Más Televisión [No 24/7] (La Dorada - Caldas)
 https://movil.ejeserver.com/live/teledoradahd.m3u8
+#EXTINF:-1 #EXTINF:-1 tvg-logo="https://i.imgur.com/zJAwnvd.png" group-title="Colombia",CNC Bugavisión HD (Buga - Valle del Cauca)
+https://movil.ejeserver.com/live/cncbuga.m3u8
 #EXTINF:-1 #EXTINF:-1 tvg-logo="https://i.imgur.com/xG2apUG.jpeg" group-title="Colombia",El Mundo del Campo HD (Nacional)
 https://movil.ejeserver.com/live/elmundodelcampo.m3u8
 #EXTINF:-1 #EXTINF:-1 tvg-logo="https://i.imgur.com/1voWgLI.png" group-title="Colombia",Ultra Casanare TV HD [No 24/7] (Casanare)

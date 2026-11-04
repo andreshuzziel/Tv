@@ -116,6 +116,7 @@ VitoTVO HD (Guayas) [Opc.2],Ecuador,http://205.235.6.29:8000/play/a0z2/index.m3u
 KCHTV HD (Guayas) [Geo-Blocked],Ecuador,http://iptv.kchtv.video.makrodigital.com:8081/kchtv/iptv/playlist.m3u8,no-https
 KCHTV SD (Guayas) [Opc.2],Ecuador,http://205.235.6.29:8000/play/a0yz/index.m3u8?hls,no-https;ip-directa
 Telepremier Plus HD (Guayas) [Opc.2],Ecuador,http://205.235.6.29:8000/play/a0z1/index.m3u8?hls,no-https;ip-directa
+Zaracay TV HD [No 24/7] (Santo Domingo),Ecuador,http://181.119.97.124:8000/play/zaracaytv/index.m3u8,no-https;ip-directa
 Latina HD (Nacional)[Opc.2],Perú,http://181.224.255.210:8001/play/a0pk/index.m3u8?hls,no-https;ip-directa
 Latina HD (Nacional)[Opc.3],Perú,http://200.59.191.177:8000/play/a0q2/index.m3u8?hls,no-https;ip-directa
 Latina HD (Nacional)[Opc.4],Perú,http://205.235.6.29:8000/play/a0uw/index.m3u8?hls,no-https;ip-directa
@@ -213,6 +214,7 @@ ENT Classic,Cine / Películas,https://cdn.40mediagroup.com/live/c7eds/ENT_Classi
 ENT Life,Cine / Películas,https://cdn.40mediagroup.com/live/c7eds/ENT_Life/SA_LIVE_hls_enc/master.m3u8,vod-no-autorizado
 FMTV Mundo (Cadena Internacional),Cine / Películas,https://s2.tvdatta.com:3307/live/fmtvmatrizlive.m3u8,tv-pago/adulto;vod-no-autorizado
 Ipersonica,Cine / Películas,https://lbgo.bozztv.com/ssh101/ssh101/ipersonica/playlist.m3u8,vod-no-autorizado
+Canal Telemax RD [No 24/7] (Rep. Dominicana),Cine / Películas,https://edge.essastream.com/telemax/index.m3u8,vod-no-autorizado
 Nitro HD,Cine / Películas,http://205.235.6.29:8000/play/a0xw/index.m3u8?hls,no-https;ip-directa;vod-no-autorizado
 Xiomoz,Cine / Películas,https://lbgo.bozztv.com/ssh101/ssh101/xiomoz/playlist.m3u8,vod-no-autorizado
 Sistema 1 TV,Cine / Películas,https://lbgo.bozztv.com/ssh101/ssh101/sistema1tv/playlist.m3u8,vod-no-autorizado
@@ -491,10 +493,8 @@ Crom TV (Rep. Dominicana),Entretenimiento / Cine / Series,https://fox.hostlagart
 Xtra TV [No 24/7](Rep. Dominicana),Entretenimiento / Cine / Series,https://edge.essastream.com/xtratv/index.m3u8,vod-no-autorizado
 Los Simpson Latino,Entretenimiento / Cine / Series,https://lbgo.bozztv.com/ssh101/ssh101/simplat/playlist.m3u8,vod-no-autorizado
 Los Simpson Latino Opc. 2,Entretenimiento / Cine / Series,https://lbgo.bozztv.com/ssh101/ssh101/simptestnews/playlist.m3u8,vod-no-autorizado
-S.A. (YouTube),Entretenimiento / Cine / Series,https://www.youtube.com/watch?v=1e5d4mBbBxU,vod-no-autorizado
 El Chavo TV,Entretenimiento / Cine / Series,https://live20.bozztv.com/giatvplayout7/giatv-211465/playlist.m3u8,vod-no-autorizado
 Chespirito TV,Entretenimiento / Cine / Series,https://live20.bozztv.com/giatvplayout7/giatv-211111/playlist.m3u8,vod-no-autorizado
-S.W.A.T. en Español (Youtube),Entretenimiento / Cine / Series,https://www.youtube.com/watch?v=qTqJCHP7sZ4,vod-no-autorizado
 Sicarios y Acción (YouTube),Entretenimiento / Cine / Series,https://www.youtube.com/watch?v=fTi3aTD7JxM,vod-no-autorizado
 Rastros TV (Youtube),Entretenimiento / Cine / Series,https://www.youtube.com/watch?v=YGKZhWwFKaM,vod-no-autorizado
 Apanines TV,Entretenimiento / Cine / Series,https://lbgo.bozztv.com/ssh101/ssh101/apaninestv2025/playlist.m3u8,vod-no-autorizado
@@ -538,6 +538,7 @@ Energy TV Latino,Entretenimiento / Cine / Series,https://59ec5453559f0.streamloc
 Latino TV NY,Entretenimiento / Cine / Series,https://5790d294af2dc.streamlock.net/latinostv/latinostv/playlist.m3u8,vod-no-autorizado
 Latinos TV (España),Entretenimiento / Cine / Series,https://limited43.todostreaming.es/live/simbana-livestream10791.m3u8,vod-no-autorizado
 AN24,Entretenimiento / Cine / Series,https://5f700d5b2c46f.streamlock.net/tvan24/tvan24/playlist.m3u8,vod-no-autorizado
+Fabulosa Estéreo 100.5 FM (Panamá),Entretenimiento / Cine / Series,https://www.streaming507.net:19360/videofabulosa/videofabulosa.m3u8,vod-no-autorizado
 Planet 100.9 FM (Panamá),Entretenimiento / Cine / Series,https://streamlov.alsolnet.com/planet1009fm/live/playlist.m3u8,vod-no-autorizado
 Hispania TV  (Panamá),Entretenimiento / Cine / Series,http://181.78.121.15:8000/play/a005/index.m3u8,no-https;ip-directa;vod-no-autorizado
 NexPanama  (Panamá),Entretenimiento / Cine / Series,https://movil.ejeserver.com/live/nextv.m3u8?r=936,vod-no-autorizado
