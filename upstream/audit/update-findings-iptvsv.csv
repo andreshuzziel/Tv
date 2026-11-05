@@ -33,6 +33,7 @@ TV Azteca Guate SD [Opc.3],Guatemala,http://181.119.177.253:8000/play/a03m/index
 Guatevisión SD [Opc.2],Guatemala,http://190.61.101.11:7050/play/a088/index.m3u8?hls,no-https;ip-directa
 Guatevisión SD [Opc.3],Guatemala,http://45.5.118.152:8000/play/a0c0/index.m3u8,no-https;ip-directa
 TV5 HD [No 24/7] (Solola),Guatemala,http://45.5.118.152:8000/play/a09y/index.m3u8,no-https;ip-directa
+Canal 5 HD [No 24/7],Guatemala,http://190.83.9.222:8000/play/ca016/index.m3u8,no-https;ip-directa
 Canal Antigua SD,Guatemala,http://181.119.177.253:8000/play/a03l/index.m3u8,no-https;ip-directa
 Teleflix HD [No 24/7],Guatemala,http://200.35.176.154:8000/play/a04r/index.m3u8,no-https;ip-directa
 Telecable Salcaja,Guatemala,http://186.33.61.182:8000/play/a05p/index.m3u8,no-https;ip-directa
@@ -42,9 +43,6 @@ Canal 11 SD (Nacional),Honduras,http://45.5.117.187:8000/play/a01c/index.m3u8,no
 Deportes TVC SD,Honduras,http://190.61.101.11:7050/play/a06t/index.m3u8?hls,no-https;ip-directa
 Deportes TVC SD [Opc.2],Honduras,http://181.119.177.253:8000/play/a06d/index.m3u8,no-https;ip-directa
 Deportes TVC HD [Opc.3],Honduras,http://45.167.1.137:8000/play/a02x,no-https;ip-directa
-Telecadena 7/4 HD,Honduras,http://45.167.2.138:8000/play/a07n/index.m3u8,no-https;ip-directa
-Telecadena 7/4 SD [Opc.2],Honduras,http://186.33.26.18:8000/play/a07n/index.m3u8,no-https;ip-directa
-Telecadena 7/4 SD [Opc.3],Honduras,http://45.167.2.101:8000/play/a07n/index.m3u8,no-https;ip-directa
 VTV SD (Nacional) [Opc.2],Honduras,http://186.33.0.57:8000/play/a04v/index.m3u8,no-https;ip-directa
 VTV SD (Nacional) [Opc.3],Honduras,http://45.228.234.62:8000/play/a069/index.m3u8,no-https;ip-directa
 Canal 4 Repretel SD  (Nacional)[Opc.2],Costa Rica,http://45.186.106.207:8000/play/a09t/index.m3u8,no-https;ip-directa
@@ -67,14 +65,16 @@ Las Estrellas HD (Nacional)[V2](Opc.2),México,http://205.235.6.29:8000/play/a0z
 Las Estrellas HD (Nacional)[V2](Opc.3),México,http://200.59.191.177:8000/play/a0pc/index.m3u8?hls,no-https;ip-directa
 Las Estrellas SD (Nacional)[V2](Opc.4),México,http://186.148.196.100:8000/play/a01g,no-https;ip-directa
 Las Estrellas HD (Nacional)[V3],México,http://45.167.2.101:8000/play/a0pk/index.m3u8,no-https;ip-directa
-Canal 5 HD (Nacional)[Opc. 1],México,http://38.65.175.87:8000/play/a0ll/index.m3u8u?hls,no-https;ip-directa
+Canal 5 HD (Nacional)[Opc. 1],México,http://45.172.92.111:8000/play/a0n6/index.m3u8,no-https;ip-directa
 Canal 5 HD (Nacional)[Opc. 2],México,http://45.5.118.152:8000/play/a03i/index.m3u8,no-https;ip-directa
-Canal 5 HD (Nacional)[Opc. 3],México,http://200.35.176.154:8000/play/a067/index.m3u8,no-https;ip-directa
-Canal 5 SD (Nacional)[Opc. 4],México,http://38.65.175.87:8000/play/a0o1/index.m3u8u?hls,no-https;ip-directa
+Canal 5 HD (Nacional)[Opc. 3],México,http://168.228.44.241:9997/play/AZTECA7/index.m3u8,no-https;ip-directa
+Canal 5 SD (Nacional)[Opc. 4],México,http://45.172.92.111:8000/play/a0fl/index.m3u8,no-https;ip-directa
 Canal 5 SD (Nacional)[Opc.5],México,http://38.65.175.87:8000/play/a0fl/index.m3u8u?hls,no-https;ip-directa
 Azteca 7 HD  (México)[Opc. 1],México,http://201.174.175.3:8000/play/a0kl/index.m3u8?hls,no-https;ip-directa
-Azteca 7 HD  (México)[Opc. 2],México,http://38.65.175.87:8000/play/a0la/index.m3u8u?hls,no-https;ip-directa
-Azteca 7 SD  (México)[Opc. 3],México,http://38.65.175.87:8000/play/a0fm/index.m3u8u?hls,no-https;ip-directa
+Azteca 7 HD  (México)[Opc. 2],México,http://190.61.101.11:7050/play/a09b/index.m3u8?hls,no-https;ip-directa
+Azteca 7 HD  (México)[Opc. 3],México,http://45.5.117.57:8200/play/a04u/index.m3u8,no-https;ip-directa
+Azteca 7 SD  (México)[Opc. 4],México,http://45.171.64.30:2000/play/a08z/index.m3u8,no-https;ip-directa
+Azteca 7 SD  (México)[Opc. 5],México,http://45.172.92.111:8000/play/a0fm/index.m3u8,no-https;ip-directa
 RCN HD,Colombia,http://181.78.8.199:8000/play/a09l/index.m3u8,no-https;ip-directa
 RCN SD [Opc.2],Colombia,http://181.78.8.199:8000/play/a0az/index.m3u8,no-https;ip-directa
 RCN HD [Opc.3],Colombia,http://138.94.3.106:8000/play/a05h/index.m3u8,no-https;ip-directa
