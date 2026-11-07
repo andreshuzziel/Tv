@@ -229,6 +229,7 @@ HBO 2 Latin America HD (1080p),Movies;Series,http://45.171.64.30:6060/play/a00i/
 HBO Family Latin America (1080p),Family,http://45.171.64.30:6060/play/a00k/index.m3u8,no-https;ip-directa;tv-pago/adulto
 HBO Latin America (1080p),Undefined,https://streaming.onnethn.com/HBO/playlist.m3u8,tv-pago/adulto
 HBO Mundi Latin America,Movies,https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/cinemax.stream/chunks.m3u8,tv-pago/adulto;vod-no-autorizado
+HBO Pop Latin America (1080p) [Geo-blocked],Comedy,http://15.204.246.24:8080/HBOPOPHD/index.m3u8,no-https;ip-directa;tv-pago/adulto
 HBO Signature Latin America,Undefined,https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/hbosignature.stream/chunks.m3u8,tv-pago/adulto
 HBO Xtreme Latin America,Movies;Series,https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/HBO_Xtreme/chunks.m3u8,tv-pago/adulto;vod-no-autorizado
 HBO+ Latin America (1080p),Undefined,http://45.134.141.161:2200/ARG/HBO_HD/index.m3u8,no-https;ip-directa;tv-pago/adulto
@@ -323,7 +324,7 @@ Neo TV (Peru) (720p),Entertainment,http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/
 NET TV (720p),General,http://45.134.141.161:2200/ARG/Net_TV/index.m3u8,no-https;ip-directa
 Next HD (480p),Movies;Music,https://live.enhdtv.com:19360/nexthd/nexthd.m3u8,vod-no-autorizado
 NG Federal (720p),General,http://www.coninfo.net:1935/tvlink/live/playlist.m3u8,no-https
-Nickelodeon Latin America (1080p),Kids,http://15.204.246.24:8080/NickHD/index.m3u8,no-https;ip-directa
+Nickelodeon Latin America (1080p),Kids,http://181.78.79.131:8000/play/a0qm,no-https;ip-directa
 Novelisima (1080p),Series,http://138.59.177.78:9999/play/a0gg/index.m3u8,no-https;ip-directa;vod-no-autorizado
 Nuestra Tele Internacional (1080p),General,http://45.173.231.22:8000/play/a0cr/index.m3u8,no-https;ip-directa
 Numeros,Series,https://jmp2.uk/plu-67f960680072d6b187a0682e.m3u8,vod-no-autorizado
@@ -429,6 +430,7 @@ SV+ (720p),General,http://45.167.2.101:8000/play/a0qx/index.m3u8,no-https;ip-dir
 Svoboda,Undefined,http://88.212.15.50/live/svoboda/index.m3u8,no-https;ip-directa
 Tarima TV (720p),Music,http://190.122.104.210:5080/LiveApp/streams/tarima.m3u8,no-https;ip-directa
 TC Television (1080p),General,http://45.224.97.181:9999/TC/index.m3u8,no-https;ip-directa
+TCM Latin America (1080p),Undefined,http://181.78.14.26:4000/play/a04d/index.m3u8,no-https;ip-directa
 TCM Latin America South (1080p),Undefined,http://45.171.64.30:6060/play/a014/index.m3u8,no-https;ip-directa
 Tele Amiga (720p),Culture,http://200.122.223.13:55000/play/tele-amiga-ses-6/index.m3u8,no-https;ip-directa
 Tele Antillas (1080p),General,http://45.171.108.253:8888/TELEANTILLAS/index.m3u8,no-https;ip-directa
@@ -511,7 +513,6 @@ TV Universal Ecuador (720p),Religious,https://cdn.mycloudstream.io/hls/live/broa
 TV Universal Uruguay,Religious,https://stream.universal.org.uy/hls/0/stream.m3u8,tv-pago/adulto
 TVAgro (1080p),Outdoor,http://190.61.47.54:8000/play/a01k/index.m3u8,no-https;ip-directa
 TVC (Ecuador) (1080p),General,http://45.224.97.181:9999/TVC/index.m3u8,no-https;ip-directa
-TVE Internacional America,Undefined,http://116.121.59.72:9981/stream/channel/75f703b52ec2465e4ed2934b98f0f77a,no-https;ip-directa
 TVE Star (576p),Series,https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/star_main_576.m3u8,vod-no-autorizado
 TVE Star HD (1080p),Series,http://38.252.238.18:8000/play/a01h/index.m3u8,no-https;ip-directa;vod-no-autorizado
 TVM El Salvador [Not 24/7],News,http://201.247.102.189/tmp_hls/stream/index.m3u8,no-https;ip-directa
@@ -546,6 +547,7 @@ Volver (576p),Undefined,http://138.121.113.175:8000/play/a04r/index.m3u8,no-http
 Vos TV (Bolivia) (720p),Undefined,http://15.204.246.24:8080/VOSTVHD/index.m3u8,no-https;ip-directa
 Vos TV (Nicaragua) (720p) [Not 24/7],General,http://ott.streann.com:8080/loadbalancer/services/public/channels/59e60c4997381ef50d15c041/playlist.m3u8,no-https
 Warner Channel Colombia (1080p),Movies,http://38.134.250.110:8000/play/a029/index.m3u8,no-https;ip-directa;tv-pago/adulto;vod-no-autorizado
+Warner Channel Mexico (1080p) [Geo-blocked],Movies,http://15.204.246.24:8080/WarnerChannelHD/index.m3u8,no-https;ip-directa;tv-pago/adulto;vod-no-autorizado
 Warner Channel South,Movies,http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/68.m3u8,no-https;ip-directa;tv-pago/adulto;vod-no-autorizado
 Willax TV (1080p),General,http://170.244.209.30:8000/play/a1id/index.m3u8,no-https;ip-directa
 Win Sports (1080p),Sports,http://138.121.15.230:9002/WIN-SPORT/index.m3u8,no-https;ip-directa;tv-pago/adulto
