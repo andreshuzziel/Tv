@@ -13,8 +13,9 @@ Canal 10 TVES SD [No 24/7]  [Opc.3],El Salvador,http://45.5.117.187:8000/play/a0
 Canal 12 SD,El Salvador,http://45.167.1.139:8000/play/a01x,no-https;ip-directa
 Canal 12 SD [No 24/7][Opc.2],El Salvador,http://181.119.177.253:8000/play/a05z/index.m3u8,no-https;ip-directa
 Canal 12 SD [No 24/7][Opc.3],El Salvador,http://186.33.0.57:8000/play/a02d/index.m3u8,no-https;ip-directa
-Canal TRV [No 24/7],El Salvador,http://45.167.2.101:8000/play/a0re/index.m3u8,no-https;ip-directa
-TVM 25 SD [24/7],El Salvador,http://45.167.2.101:8000/play/a0nx/index.m3u8,no-https;ip-directa
+TVM 25 SD [24/7],El Salvador,http://177.53.153.21:8000/play/a18i/index.m3u8,no-https;ip-directa
+TVM 25 SD [24/7][Opc.2],El Salvador,http://187.245.231.227:8000/play/a0tx/index.m3u8,no-https;ip-directa
+TVM 25 SD [24/7][Opc.3],El Salvador,http://186.5.77.99:8000/play/a0no/index.m3u8,no-https;ip-directa
 Canal 3 El Super Canal SD [Opc.2],Guatemala,http://181.119.177.253:8000/play/a03o/index.m3u8,no-https;ip-directa
 Canal 3 El Super Canal SD [Opc.3],Guatemala,http://45.5.118.152:8000/play/a0ab/index.m3u8,no-https;ip-directa
 Canal 7 Televisiete SD [Opc.2],Guatemala,http://181.119.177.253:8000/play/a03n/index.m3u8,no-https;ip-directa
@@ -55,8 +56,8 @@ Canal 11 Repretel SD (Nacional)[Opc.3],Costa Rica,http://190.61.101.11:7050/play
 TD+ HD (Nacional),Costa Rica,http://45.186.106.207:8000/play/a06r/index.m3u8,no-https;ip-directa
 TD+ 2 HD (Nacional),Costa Rica,http://45.186.106.207:8000/play/a06s/index.m3u8,no-https;ip-directa
 MultiCinema,Costa Rica,http://190.61.101.11:7050/play/a09p/index.m3u8?hls,no-https;ip-directa
-MultiCinema[Opc.2],Costa Rica,http://45.130.161.15:8000/play/a01m/index.m3u8,no-https;ip-directa
-MultiCinema[Opc.2],Costa Rica,http://190.61.90.17:40000/play/a02g/index.m3u8,no-https;ip-directa
+MultiCinema[Opc.2],Costa Rica,http://45.5.117.57:8200/play/a02i/index.m3u8,no-https;ip-directa
+MultiCinema[Opc.3],Costa Rica,http://181.78.61.202:8000/play/a03o,no-https;ip-directa
 Canal 14 HD (San Carlos),Costa Rica,http://tvn.obix.tv:1935/TVN/CH14.stream_720p/playlist.m3u8,no-https
 Colosal TV HD (Ciudad Neily),Costa Rica,http://tv.ticosmedia.com:1935/COLOSAL/COLOSAL/playlist.m3u8,no-https
 Las Estrellas HD (Nacional)[v1](Opc.2),México,http://205.235.6.29:8000/play/13/index.m3u8?hls,no-https;ip-directa
@@ -167,7 +168,7 @@ Ciudad Magazine SD (Buenos Aires) [No 24/7],Argentina,http://181.209.80.115:8000
 Ciudad Magazine SD (Buenos Aires) [No 24/7][Geo-Blocked],Argentina,http://181.209.105.115:2525/play/ciudadmagazine/index.m3u8,no-https;ip-directa
 CineAR [Geo-Blocked],Argentina,http://181.209.105.115:2525/play/cinear/index.m3u8,no-https;ip-directa
 SNT Paraguay HD [Opc.2],Paraguay,http://45.170.130.224:8000/play/a013/index.m3u8,no-https;ip-directa
-GEN Paraguay HD],Paraguay,http://45.170.130.224:8000/play/a04j/index.m3u8,no-https;ip-directa
+GEN Paraguay HD,Paraguay,http://45.170.130.224:8000/play/a04j/index.m3u8,no-https;ip-directa
 Paraguay TV SD [Opc.2],Paraguay,http://45.170.130.224:8000/play/a02r/index.m3u8,no-https;ip-directa
 C9N HD [Opc.2],Paraguay,http://181.79.87.130:8000/play/a0c1/index.m3u8,no-https;ip-directa
 RTVD 4 HD [Opc.2],República Dominicana,http://170.244.209.30:8000/play/a04e/index.m3u8,no-https;ip-directa
@@ -276,6 +277,7 @@ PRITV [No 24/7],Cine / Películas,https://lbgo.bozztv.com/ssh101/ssh101/tv1251ma
 El 70 TV [No 24/7](Rep. Dominicana),Cine / Películas,https://183.bozztv.com/giatv/giatv-cnal70tv/cnal70tv/playlist.m3u8,vod-no-autorizado
 NEO TV Digital [No 24/7],Cine / Películas,https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8,vod-no-autorizado
 Marca TV [No 24/7] (Cotopaxi),Cine / Películas,http://200.7.219.221:8088/live/livetv/index.m3u8,no-https;ip-directa;vod-no-autorizado
+Nativa TV Satipo [No 24/7] (Junín),Cine / Películas,https://7.innovatestream.pe:19360/nativatv/nativatv.m3u8,vod-no-autorizado
 Atacama TV [Not 24/7] (Copiapó - Atacama),Cine / Películas,https://v2.tustreaming.cl/atacamatv/index.m3u8,vod-no-autorizado
 Atacama TV [Not 24/7] (Copiapó - Atacama) [Opc.2],Cine / Películas,https://v4.tustreaming.cl/atacamatv/index.m3u8,vod-no-autorizado
 Metro TV [No 24/7],Cine / Películas,https://streamtv12.ddns.net:5443/LiveApp/streams/193945633734205616732920.m3u8,vod-no-autorizado
@@ -766,7 +768,9 @@ Via X Esports,Deportes,http://181.224.255.210:8001/play/a0qs/index.m3u8?hls,no-h
 Azteca Deportes Network HD,Deportes,http://181.225.190.242:8000/play/a009,no-https;ip-directa
 Azteca Deportes Network SD,Deportes,http://190.61.101.11:7050/play/a08l/index.m3u8?hls,no-https;ip-directa
 CombaTV (ES),Deportes,http://181.119.83.235:8000/play/C027/index.m3u8,no-https;ip-directa
-UFC (EE.UU.) [EN][Opc.2],Deportes,http://157.100.9.51:8000/play/a26f,no-https;ip-directa
+UFC (EE.UU.) [EN][Opc.2],Deportes,http://38.210.3.64:8090/play/A01E/index.m3u8,no-https;ip-directa
+UFC (EE.UU.) [EN][Opc.3],Deportes,http://45.185.163.75:8000/play/a0hs/index.m3u8,no-https;ip-directa
+UFC Action (EE.UU.) [EN],Deportes,http://45.185.163.75:8000/play/a0hr/index.m3u8,no-https;ip-directa
 beIN Sports (EN),Deportes,https://bein-beinxtrasports-firetv.amagi.tv/playlist.m3u8,tv-pago/adulto
 beIN Sports (ES),Deportes,https://dbrb49pjoymg4.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/9416579a-7851-4e11-9930-3916076984c2/0.m3u8,tv-pago/adulto
 beIN Sports (ES)[Opc.2],Deportes,https://aegis-cloudfront-1.tubi.video/01f6c149-449b-4248-8bda-2278799205ec/playlist.m3u8,tv-pago/adulto
