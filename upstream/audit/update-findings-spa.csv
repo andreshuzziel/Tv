@@ -161,6 +161,7 @@ Curro Jimenez,Series,https://jmp2.uk/plu-5f1acd36779de70007a680d1.m3u8,vod-no-au
 CVA TV (480p) [Not 24/7],General,http://190.124.161.21:8086/cvatv/live.m3u8,no-https;ip-directa
 CVC (1080p),Religious,http://15.204.246.24:8080/CVCHD/index.m3u8,no-https;ip-directa
 Daystar TV Espanol (1080p),Religious,http://167.249.23.102:8000/play/a0ev/index.m3u8,no-https;ip-directa
+DAZN F1,Sports,https://tvorb.net/ZTV/6918-live.m3u8,tv-pago/adulto
 De Pelicula Latin America (1080p),Movies,http://15.204.196.147:22880/RECEPCION-DPELICULA-LATAM-FHD/video.m3u8,no-https;ip-directa;vod-no-autorizado
 De Pelicula Plus (1080p),Movies,http://200.115.120.1:8000/play/ca030/index.m3u8,no-https;ip-directa;vod-no-autorizado
 De Pelicula US (720p),Movies,http://138.121.15.230:9002/DEPELICULA/index.m3u8,no-https;ip-directa;vod-no-autorizado
@@ -309,7 +310,6 @@ La Kalle (1080p),Music,http://200.122.223.13:55000/play/la-kalle-tdt/index.m3u8,
 La Rosa de Guadalupe (360p),Series,https://app.viloud.tv/hls/channel/9c88161fe675b59d4b008c776f033960.m3u8,vod-no-autorizado
 La Tele (1080p),Entertainment,http://190.93.224.42/LA-TELE/index.m3u8,no-https;ip-directa
 La Tele Tuya (576p),Entertainment,http://181.78.8.199:8000/play/a0fs/index.m3u8,no-https;ip-directa
-Las Estrellas (1080p),General,http://45.189.151.7:8000/play/a07s,no-https;ip-directa
 Las Estrellas Latin America (1080p),General,http://15.204.246.24:8080/LasEstrellasHD/index.m3u8,no-https;ip-directa
 Latele (1080p),General,http://190.128.214.97:64333/play/a03i/index.m3u8,no-https;ip-directa
 Latina (1080p),General,http://190.93.224.42/LATINA/index.m3u8,no-https;ip-directa
@@ -597,6 +597,7 @@ TNT Sports (Argentina),Sports,http://45.184.109.10/live/69393EAE6ADBC65A68F94202
 TNT Sports (Argentina) SD (576p),Sports,http://181.78.79.131:8000/play/a0mo,no-https;ip-directa;tv-pago/adulto
 TNT Sports (Chile) (480p),Sports,http://209.45.101.130:8040/play/a03s/index.m3u8,no-https;ip-directa;tv-pago/adulto
 TNT Sports Premium ArgentinaHD (1080p),Sports,http://181.78.79.131:8000/play/a0q9,no-https;ip-directa;tv-pago/adulto
+TNT Sports Premium HD (1080p),Sports,http://205.235.6.29:8000/play/a104/index.m3u8,no-https;ip-directa;tv-pago/adulto
 Todo Novelas (1080p),Series,https://dtsszjrztq9ti.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-yshah5p4v45g1/ToDoNovelas_ES.m3u8,vod-no-autorizado
 Tooncast (1080p),Animation;Kids,http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/69.m3u8,no-https;ip-directa
 Tooncast Argentina (720p),Animation;Kids,http://45.134.141.161:2200/ARG/Tooncast/index.m3u8,no-https;ip-directa
