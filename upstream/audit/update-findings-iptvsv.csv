@@ -219,12 +219,12 @@ Canal Telemax RD [No 24/7] (Rep. Dominicana),Cine / Películas,https://edge.essa
 Nitro HD,Cine / Películas,http://205.235.6.29:8000/play/a0xw/index.m3u8?hls,no-https;ip-directa;vod-no-autorizado
 Xiomoz,Cine / Películas,https://lbgo.bozztv.com/ssh101/ssh101/xiomoz/playlist.m3u8,vod-no-autorizado
 Sistema 1 TV,Cine / Películas,https://lbgo.bozztv.com/ssh101/ssh101/sistema1tv/playlist.m3u8,vod-no-autorizado
-MAXC TV,Cine / Películas,https://live20.bozztv.com/giatvplayout7/giatv-208138/playlist.m3u8,vod-no-autorizado
-MAX2 TV,Cine / Películas,https://live20.bozztv.com/giatvplayout7/giatv-209163/playlist.m3u8,vod-no-autorizado
-MAXC Family TV,Cine / Películas,https://live20.bozztv.com/giatvplayout7/giatv-208817/playlist.m3u8,vod-no-autorizado
-MAXC Comedy TV,Cine / Películas,https://live20.bozztv.com/giatvplayout7/giatv-208730/playlist.m3u8,vod-no-autorizado
-Tele Clásicos,Cine / Películas,https://live20.bozztv.com/giatvplayout7/giatv-211454/playlist.m3u8,vod-no-autorizado
-TV Clasicos,Cine / Películas,https://live20.bozztv.com/giatvplayout7/giatv-212242/playlist.m3u8,vod-no-autorizado
+MAXC TV,Cine / Películas,https://183.giatvcdn.com/giatvplayout7/giatv-208138/playlist.m3u8,vod-no-autorizado
+MAX2 TV,Cine / Películas,https://183.giatvcdn.com/giatvplayout7/giatv-209163/playlist.m3u8,vod-no-autorizado
+MAXC Family TV,Cine / Películas,https://183.giatvcdn.com/giatvplayout7/giatv-208817/playlist.m3u8,vod-no-autorizado
+MAXC Comedy TV,Cine / Películas,https://183.giatvcdn.com/giatvplayout7/giatv-208730/playlist.m3u8,vod-no-autorizado
+Tele Clásicos,Cine / Películas,https://183.giatvcdn.com/giatvplayout7/giatv-211454/playlist.m3u8,vod-no-autorizado
+TV Clasicos,Cine / Películas,https://183.giatvcdn.com/giatvplayout7/giatv-212242/playlist.m3u8,vod-no-autorizado
 MultiVox Accion,Cine / Películas,https://stmv6.voxtvhd.com.br/cineaccion/cineaccion/playlist.m3u8,vod-no-autorizado
 Imagen Universal (Rep. Dominicana),Cine / Películas,https://imagenuniversaltv.net:3771/live/iutvlive.m3u8,tv-pago/adulto;vod-no-autorizado
 GAMTV.cr (Costa Rica),Cine / Películas,https://v2.azulstream.com:8081/gamtv/gamtv/index.m3u8,tv-pago/adulto;vod-no-autorizado
@@ -242,8 +242,8 @@ Latino Classic TV,Cine / Películas,https://streams2.sofast.tv/v1/master/611d79b
 Cine en Español,Cine / Películas,https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c3b76-64e6e46f27a915f9b5184e9a.m3u8?X-Plex-Token=aodMBFfiWQ9a_wrQtBsJ,vod-no-autorizado
 Todo Cine,Cine / Películas,https://aegis-cloudfront-1.tubi.video/be9224ff-0bff-440d-aa84-40afcb2150b5/playlist.m3u8,vod-no-autorizado
 Cine de Horror,Cine / Películas,https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c3b76-64e6e2f04a5e9b4cedc6d52b.m3u8?x-plex-token=aodMBFfiWQ9a_wrQtBsJ,vod-no-autorizado
-Cine de Terror Español,Cine / Películas,https://live20.bozztv.com/giatvplayout7/giatv-211420/playlist.m3u8,vod-no-autorizado
-TerrorTV,Cine / Películas,https://live20.bozztv.com/giatvplayout7/giatv-212244/playlist.m3u8,vod-no-autorizado
+Cine de Terror Español,Cine / Películas,https://183.giatvcdn.com/giatvplayout7/giatv-211420/playlist.m3u8,vod-no-autorizado
+TerrorTV,Cine / Películas,https://183.giatvcdn.com/giatvplayout7/giatv-212244/playlist.m3u8,vod-no-autorizado
 Suspenso (YouTube),Cine / Películas,https://www.youtube.com/watch?v=oxX_new26jw,vod-no-autorizado
 ACCIÓN SIN PARAR (YouTube),Cine / Películas,https://www.youtube.com/watch?v=oR3zVZsUR5g,vod-no-autorizado
 MyTime Movie Network (México)(ES),Cine / Películas,https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8,vod-no-autorizado
@@ -257,20 +257,20 @@ Cine Western,Cine / Películas,https://jmp2.uk/stvp-ES2300005G7,vod-no-autorizad
 WEST TV,Cine / Películas,http://181.224.255.210:8001/play/a0rq/index.m3u8?hls,no-https;ip-directa;vod-no-autorizado
 Cosmos TV (Formosa / Argentina)[No 24/7],Cine / Películas,https://canaletaplus.com:3922/hybrid/play.m3u8,vod-no-autorizado
 Fabian Vision [No 24/7],Cine / Películas,https://lbgo.bozztv.com/ssh101/ssh101/fabiantv182/playlist.m3u8,vod-no-autorizado
-TeleCine TV [No 24/7],Cine / Películas,https://live20.bozztv.com/akamaissh101/ssh101/cinetv/playlist.m3u8,vod-no-autorizado
+TeleCine TV [No 24/7],Cine / Películas,https://183.giatvcdn.com/akamaissh101/ssh101/cinetv/playlist.m3u8,vod-no-autorizado
 MCU TV [No 24/7],Cine / Películas,https://lbgo.bozztv.com/ssh101/ssh101/imcu/playlist.m3u8,vod-no-autorizado
-TV Retro Palmares [No 24/7],Cine / Películas,https://live20.bozztv.com/akamaissh101/ssh101/tvretropalm2020/playlist.m3u8,vod-no-autorizado
+TV Retro Palmares [No 24/7],Cine / Películas,https://183.giatvcdn.com/akamaissh101/ssh101/tvretropalm2020/playlist.m3u8,vod-no-autorizado
 Canal Onza TV [No 24/7],Cine / Películas,https://streaming.hostpannel.lat/hls/video_156/index.m3u8,vod-no-autorizado
 Mega Cine TV [No 24/7],Cine / Películas,https://cnn.hostlagarto.com/megacinetv/playlist.m3u8,vod-no-autorizado
 Opinión Sur Cine [No 24/7],Cine / Películas,https://183.bozztv.com/giatv/giatv-opinionsurc/opinionsurc/playlist.m3u8,vod-no-autorizado
 WOW Movies [No 24/7],Cine / Películas,https://183.bozztv.com/giatv/giatv-wowmovies/wowmovies/playlist.m3u8,vod-no-autorizado
-WOW Movies SD [No 24/7],Cine / Películas,https://live20.bozztv.com/akamaissh101/ssh101/wowchannelsd/playlist.m3u8,vod-no-autorizado
+WOW Movies SD [No 24/7],Cine / Películas,https://183.giatvcdn.com/akamaissh101/ssh101/wowchannelsd/playlist.m3u8,vod-no-autorizado
 MAXTV Movies [No 24/7],Cine / Películas,https://tvstreaming.albpo.com/memfs/8d987761-7923-4532-a95d-20723ae95374.m3u8,vod-no-autorizado
 MAXTV Retro [No 24/7],Cine / Películas,https://tvstreaming.albpo.com/memfs/b55226da-30ec-434a-9090-166df8a37d5b.m3u8,vod-no-autorizado
-Canal 69 TV [No 24/7],Cine / Películas,https://live20.bozztv.com/akamaissh101/ssh101/canal69tv/playlist.m3u8,vod-no-autorizado
-Pantalla Clásica [No 24/7] (Ecuador),Cine / Películas,https://live20.bozztv.com/akamaissh101/ssh101/pantallaclasics/playlist.m3u8,vod-no-autorizado
+Canal 69 TV [No 24/7],Cine / Películas,https://183.giatvcdn.com/akamaissh101/ssh101/canal69tv/playlist.m3u8,vod-no-autorizado
+Pantalla Clásica [No 24/7] (Ecuador),Cine / Películas,https://183.giatvcdn.com/akamaissh101/ssh101/pantallaclasics/playlist.m3u8,vod-no-autorizado
 Codigo TV [No 24/7](Rep. Dominicana),Cine / Películas,https://edge.essastream.com/codigotv/index.m3u8,vod-no-autorizado
-Cine53 [No 24/7],Cine / Películas,https://live20.bozztv.com/akamaissh101/ssh101/codificador8/playlist.m3u8,vod-no-autorizado
+Cine53 [No 24/7],Cine / Películas,https://183.giatvcdn.com/akamaissh101/ssh101/codificador8/playlist.m3u8,vod-no-autorizado
 Mittos TV [No 24/7],Cine / Películas,https://lbgo.bozztv.com/ssh101/ssh101/tv777lv/playlist.m3u8,vod-no-autorizado
 Alternativa TV [No 24/7],Cine / Películas,https://lbgo.bozztv.com/ssh101/ssh101/alternativatvpe/playlist.m3u8,vod-no-autorizado
 PRITV [No 24/7],Cine / Películas,https://lbgo.bozztv.com/ssh101/ssh101/tv1251master/playlist.m3u8,vod-no-autorizado
@@ -495,8 +495,8 @@ Crom TV (Rep. Dominicana),Entretenimiento / Cine / Series,https://fox.hostlagart
 Xtra TV [No 24/7](Rep. Dominicana),Entretenimiento / Cine / Series,https://edge.essastream.com/xtratv/index.m3u8,vod-no-autorizado
 Los Simpson Latino,Entretenimiento / Cine / Series,https://lbgo.bozztv.com/ssh101/ssh101/simplat/playlist.m3u8,vod-no-autorizado
 Los Simpson Latino Opc. 2,Entretenimiento / Cine / Series,https://lbgo.bozztv.com/ssh101/ssh101/simptestnews/playlist.m3u8,vod-no-autorizado
-El Chavo TV,Entretenimiento / Cine / Series,https://live20.bozztv.com/giatvplayout7/giatv-211465/playlist.m3u8,vod-no-autorizado
-Chespirito TV,Entretenimiento / Cine / Series,https://live20.bozztv.com/giatvplayout7/giatv-211111/playlist.m3u8,vod-no-autorizado
+El Chavo TV,Entretenimiento / Cine / Series,https://183.giatvcdn.com/giatvplayout7/giatv-211465/playlist.m3u8,vod-no-autorizado
+Chespirito TV,Entretenimiento / Cine / Series,https://183.giatvcdn.com/giatvplayout7/giatv-211111/playlist.m3u8,vod-no-autorizado
 Sicarios y Acción (YouTube),Entretenimiento / Cine / Series,https://www.youtube.com/watch?v=fTi3aTD7JxM,vod-no-autorizado
 Rastros TV (Youtube),Entretenimiento / Cine / Series,https://www.youtube.com/watch?v=YGKZhWwFKaM,vod-no-autorizado
 Apanines TV,Entretenimiento / Cine / Series,https://lbgo.bozztv.com/ssh101/ssh101/apaninestv2025/playlist.m3u8,vod-no-autorizado
@@ -515,7 +515,7 @@ MiTVpy (Paraguay),Entretenimiento / Cine / Series,https://edge.enhdtv.com/8070/i
 Tele Uno (Costa Rica),Entretenimiento / Cine / Series,http://tv.teleunotv.cr:1935/TVUNO/TVUNO/playlist.m3u8,no-https;vod-no-autorizado
 Sarapiquí TV (Costa Rica - Heredia),Entretenimiento / Cine / Series,http://tiquiciatv.com:1935/stv/web/playlist.m3u8,no-https;vod-no-autorizado
 Super Cable (Costa Rica - Grecia),Entretenimiento / Cine / Series,http://191.102.39.254:5000/live/5up3r5/playlist.m3u8,no-https;ip-directa;vod-no-autorizado
-Canal 3 KMK TV (Costa Rica - Los Pinos),Entretenimiento / Cine / Series,https://live20.bozztv.com/giatv/giatv-KMKTV/KMKTV/chunks.m3u8,vod-no-autorizado
+Canal 3 KMK TV (Costa Rica - Los Pinos),Entretenimiento / Cine / Series,https://183.giatvcdn.com/giatv/giatv-KMKTV/KMKTV/chunks.m3u8,vod-no-autorizado
 360 RFTV (Costa Rica - San José),Entretenimiento / Cine / Series,https://acceso.mediosdecostarica.com:3638/live/360rftvcrlive.m3u8,vod-no-autorizado
 Norte Informativo TV (Costa Rica - San Carlos),Entretenimiento / Cine / Series,https://videohd.live:19360/8076/8076.m3u8,vod-no-autorizado
 American TV,Entretenimiento / Cine / Series,https://lbgo.bozztv.com/ssh101/ssh101/americantv006/playlist.m3u8,vod-no-autorizado
@@ -586,15 +586,15 @@ Nesting TV,Entretenimiento / Cine / Series,https://stream.ads.ottera.tv/playlist
 Drone TV (AirVuz),Entretenimiento / Cine / Series,https://airvuz-dronetv-1-eu.xiaomi.wurl.tv/playlist.m3u8,vod-no-autorizado
 Tiva TV (Puerto Rico),Entretenimiento / Cine / Series,https://link.frontlayer.com/services/hls2/fl496518/index.m3u8,vod-no-autorizado
 UMSA TVU Internacional (La Paz),Entretenimiento / Cine / Series,https://live.enhdtv.com:8081/8026/index.m3u8,vod-no-autorizado
-Telemix,Entretenimiento / Cine / Series,https://live20.bozztv.com/giatv/giatv-telemixenvivo/telemixenvivo/playlist.m3u8,vod-no-autorizado
+Telemix,Entretenimiento / Cine / Series,https://183.giatvcdn.com/giatv/giatv-telemixenvivo/telemixenvivo/playlist.m3u8,vod-no-autorizado
 SumaQ,Entretenimiento / Cine / Series,https://lbgo.bozztv.com/ssh101/ssh101/makins/playlist.m3u8,vod-no-autorizado
 InterConnect,Entretenimiento / Cine / Series,https://lbgo.bozztv.com/ssh101/ssh101/conecttv/playlist.m3u8,vod-no-autorizado
 Quielpue OnLine,Entretenimiento / Cine / Series,https://183.bozztv.com/giatv/giatv-quilpueo196208/quilpueo196208/playlist.m3u8,vod-no-autorizado
-TAK TV,Entretenimiento / Cine / Series,https://live20.bozztv.com/akamaissh101/ssh101/taktvonline/playlist.m3u8,vod-no-autorizado
+TAK TV,Entretenimiento / Cine / Series,https://183.giatvcdn.com/akamaissh101/ssh101/taktvonline/playlist.m3u8,vod-no-autorizado
 Nitida TV [No 24/7],Entretenimiento / Cine / Series,https://vs20.live.opencaster.com/bznudxxdtppv/index.m3u8,vod-no-autorizado
 GikTVMX [No 24/7](México),Entretenimiento / Cine / Series,https://pistream.ddns.net/hls/stream.m3u8,vod-no-autorizado
 Canal 9 Resistencia [No 24/7](Chaco / Argentina),Entretenimiento / Cine / Series,https://617c5175c970b.streamlock.net:4444/9linklivert/smil:9linkmultibr.smil/playlist.m3u8,vod-no-autorizado
-Buenos Aires TV,Entretenimiento / Cine / Series,https://live20.bozztv.com/akamaissh101/ssh101/buenostv25/playlist.m3u8,vod-no-autorizado
+Buenos Aires TV,Entretenimiento / Cine / Series,https://183.giatvcdn.com/akamaissh101/ssh101/buenostv25/playlist.m3u8,vod-no-autorizado
 Max Channel [No 24/7],Entretenimiento / Cine / Series,https://lbgo.bozztv.com/ssh101/ssh101/max1channel/playlist.m3u8,vod-no-autorizado
 Power Vision TV [No 24/7],Entretenimiento / Cine / Series,https://lbgo.bozztv.com/ssh101/ssh101/powervision/playlist.m3u8,vod-no-autorizado
 Canal CHD [No 24/7] (Colombia),Entretenimiento / Cine / Series,https://vs20.live.opencaster.com/canalchd2025_8d99626c/index.m3u8,vod-no-autorizado
@@ -607,7 +607,7 @@ La Nueva Radio TV 97.7 [No 24/7](Ecuador - Imbabura),Entretenimiento / Cine / Se
 Bayres TV (Clasicos) [No 24/7] (Argentina),Entretenimiento / Cine / Series,https://streaming01.mikrolive.tv/bayrestv/live/playlist.m3u8,vod-no-autorizado
 Visión Dorada TV [No 24/7] (Colombia - La Dorada - Caldas ),Entretenimiento / Cine / Series,https://movil.ejeserver.com/live/visiondorada.m3u8,vod-no-autorizado
 Canal Pulpo TV [No  24/7],Entretenimiento / Cine / Series,https://vs20.live.opencaster.com/canalpulpotv_bdeee6e2/index.m3u8,vod-no-autorizado
-Alternativa TV [No 24/7](Colombia - Huasco - Atacama),Entretenimiento / Cine / Series,https://live20.bozztv.com/giatv/giatv-alternativatv/alternativatv/playlist.m3u8,vod-no-autorizado
+Alternativa TV [No 24/7](Colombia - Huasco - Atacama),Entretenimiento / Cine / Series,https://183.giatvcdn.com/giatv/giatv-alternativatv/alternativatv/playlist.m3u8,vod-no-autorizado
 Canal 13 MAX [No 24/7] (Argentina),Entretenimiento / Cine / Series,https://617c5175c970b.streamlock.net:4444/13max2/live13maxtv2026/playlist.m3u8,vod-no-autorizado
 Planeta Radio TV [No 24/7](Ecuador - Guayas),Entretenimiento / Cine / Series,https://vs20.live.opencaster.com/planetachannel_089eff6d/index.m3u8,vod-no-autorizado
 Planeta Radio TV [No 24/7](Ecuador - Guayas)[Opc.2],Entretenimiento / Cine / Series,https://lbgo.bozztv.com/ssh101/ssh101/planeta55tv/playlist.m3u8,vod-no-autorizado
