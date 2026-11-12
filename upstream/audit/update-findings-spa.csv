@@ -106,7 +106,8 @@ Cancionero TV (360p),Undefined,http://89.140.229.5/hls1/cancionero.m3u8,no-https
 Caracol HD2 (1080p),General,http://181.78.14.26:4000/play/a00d/index.m3u8,no-https;ip-directa
 Caracol Internacional (1080p),General,http://45.5.117.57:8200/play/a0e9/index.m3u8,no-https;ip-directa
 Caracol TV (1080p),General,http://38.190.100.202:8000/play/a09v/index.m3u8,no-https;ip-directa
-Cartoon Network (United States) (720p) [Geo-blocked],Animation;Kids,http://212.5.144.156:8080/cartoon/index.m3u8,no-https;ip-directa;tv-pago/adulto
+Cartoon Network (United States) [Not 24/7;Geo-blocked],Animation;Kids,https://turnerlive.warnermediacdn.com/hls/live/2023160/tooneast/noslate/VIDEO_3_1928000.m3u8,tv-pago/adulto
+Cartoon Network (United States) West (1080p) [Geo-blocked],Animation;Kids,http://212.5.144.156:8080/cartoon/index.m3u8,no-https;ip-directa;tv-pago/adulto
 Cartoon Network Latin America,Animation;Kids,https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/cartoonnetwork.stream/chunks.m3u8,tv-pago/adulto
 Cartoon Network Latin America North Atlantic (1080p),Animation;Kids,http://45.173.12.70:8000/play/a0fj,no-https;ip-directa;tv-pago/adulto
 Cartoon Network Latin America South Atlantic (1080p),Animation;Kids,http://158.172.217.18:8000/play/a03a/index.m3u8,no-https;ip-directa;tv-pago/adulto
@@ -225,6 +226,7 @@ ESPN Latin America (1080p),Sports,https://barinaslive1.boldmss.com/ESPN/ESPN.ism
 ESPN Latin America Argentina,Sports,https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/espn-mux/chunks.m3u8,tv-pago/adulto
 ESPN Latin America Colombia (1080p),Sports,http://190.61.47.54:8000/play/a004/index.m3u8,no-https;ip-directa;tv-pago/adulto
 ESPN Latin America Mexico (1080p),Sports,http://168.228.44.241:9997/play/a06p/index.m3u8,no-https;ip-directa;tv-pago/adulto
+ESPN Premium,Sports,http://45.134.141.161:2200/ARG/ESPN_Premium_Argentina_HD/tracks-v1a1/mono.m3u8,no-https;ip-directa;tv-pago/adulto
 ESPN Premium HD (1080p),Sports,http://158.172.155.130:8000/play/a0ao/index.m3u8,no-https;ip-directa;tv-pago/adulto
 Este Canal TV (576p),General,http://synclosdragos1.syncsolutions.es:8008/live3/emision/index.m3u8,no-https
 Eurochannel,General,http://45.186.240.164:9000/stream/54/index.m3u8,no-https;ip-directa
@@ -587,7 +589,7 @@ TNT Sports (Argentina),Sports,http://45.184.109.10/live/69393EAE6ADBC65A68F94202
 TNT Sports (Argentina) SD (576p),Sports,http://181.78.79.131:8000/play/a0mo,no-https;ip-directa;tv-pago/adulto
 TNT Sports (Chile) (480p),Sports,http://209.45.101.130:8040/play/a03s/index.m3u8,no-https;ip-directa;tv-pago/adulto
 TNT Sports Premium ArgentinaHD (1080p),Sports,http://181.78.79.131:8000/play/a0q9,no-https;ip-directa;tv-pago/adulto
-TNT Sports Premium HD (1080p),Sports,http://205.235.6.29:8000/play/a104/index.m3u8,no-https;ip-directa;tv-pago/adulto
+TNT Sports Premium HD,Sports,https://play-fulltv.com.ar/playtvpre/tntsportschile.m3u8,tv-pago/adulto
 Todo Novelas (1080p),Series,https://dtsszjrztq9ti.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-yshah5p4v45g1/ToDoNovelas_ES.m3u8,vod-no-autorizado
 Tooncast (1080p),Animation;Kids,http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/69.m3u8,no-https;ip-directa
 Tooncast Argentina (720p),Animation;Kids,http://45.134.141.161:2200/ARG/Tooncast/index.m3u8,no-https;ip-directa

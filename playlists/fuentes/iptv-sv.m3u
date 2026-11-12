@@ -26,7 +26,7 @@ https://tvo.flynetwifi.com/5crjmr1645tqt71ovagufgc1x3d/playlist.m3u8
 #EXTINF:-1 #EXTINF:-1 tvg-logo="https://i.ibb.co/prNNXx7q/rtv-canal-57-sv.png" group-title="El Salvador",RTV Canal 57 HD [No 24/7]
 https://stream.giostreaming.app/rtvcanal57/rtvcanal57.m3u8
 #EXTINF:-1 #EXTINF:-1 tvg-logo="" group-title="El Salvador",Canal 58 HD [No 24/7]
-https://183.bozztv.com/giatv/giatv-canal58elsalvador/canal58elsalvador/playlist.m3u8
+https://183.giatvcdn.com/giatv/giatv-canal58elsalvador/canal58elsalvador/playlist.m3u8
 #EXTINF:-1 #EXTINF:-1 tvg-logo="https://i.imgur.com/jaBxxpt.png" group-title="El Salvador",Sol TV [No 24/7]
 https://videostream.shockmedia.com.ar/hls/canalsoltv/canalsoltv.m3u8
 #EXTINF:-1 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOhkQ31fCGQsK2s6X4OvOY44dcMF_wiuKRK-OxLuLxZED_3QoVhXN1mzc&s=10" group-title="El Salvador",TL+ HD Santa Ana [No 24/7]
@@ -102,7 +102,7 @@ https://stream.meteorito.cloud:1947/canal6/smil:canal6.smil/playlist.m3u8
 #EXTINF:-1 #EXTINF:-1 tvg-logo="https://www.tvq.tv/assets/img/logo.png" group-title="Guatemala",Canal TVQ LIVE HD
 https://cdn-us-east-prod-ingest-infra-dacast-com.akamaized.net/f84e45d42c07da1e7f6bf863d9447b7d/index.m3u8
 #EXTINF:-1 #EXTINF:-1 tvg-logo="https://gia.tv/streams/logo/212071.jpg?1788401700" group-title="Guatemala",World TV [No 24/7]
-https://183.bozztv.com/giatv/giatv-worldtvgt/worldtvgt/playlist.m3u8
+https://183.giatvcdn.com/giatv/giatv-worldtvgt/worldtvgt/playlist.m3u8
 #EXTINF:-1 #EXTINF:-1 tvg-logo="https://i.imgur.com/2CB5ezq.png" group-title="Honduras",HCH HD (Nacional)
 https://live.streamhch.com/live/streams/hch1.m3u8
 #EXTINF:-1 #EXTINF:-1 tvg-logo="https://i.imgur.com/4hEYFa9.png" group-title="Honduras",Canal 5 El Líder HD (Nacional)
@@ -204,7 +204,7 @@ https://k20.usastreams.com:8081/telered/index.m3u8
 #EXTINF:-1 #EXTINF:-1 tvg-logo="https://meganetfun.com/storage/channel-logos/OX5yIxwlS0G571zxAPU4IAv3R53fAlSTAQU14awu.png" group-title="Costa Rica",Super Canal
 https://video20.klm99.com:3107/live/supercanallive.m3u8
 #EXTINF:-1 #EXTINF:-1 tvg-logo="https://meganetfun.com/storage/channel-logos/OX5yIxwlS0G571zxAPU4IAv3R53fAlSTAQU14awu.png" group-title="Costa Rica",Super Canal [Opc.2]
-https://183.bozztv.com/giatv/giatv-Supercanal/Supercanal/playlist.m3u8
+https://183.giatvcdn.com/giatv/giatv-Supercanal/Supercanal/playlist.m3u8
 #EXTINF:-1 #EXTINF:-1 tvg-logo="https://i.ibb.co/HSSyRDs/conexion-positiva.png" group-title="Costa Rica",Conexion Positiva Television
 https://tvstream.conexionpositivaradio.com/memfs/69239c4d-4116-4f4f-b065-bf17e81b1411.m3u8
 #EXTINF:-1 #EXTINF:-1 tvg-logo="https://i.imgur.com/5xw86wu.png" group-title="Costa Rica",Los Santos TV (Zona de los Santos)[No 24/7]
@@ -240,7 +240,7 @@ https://5ca9af4645e15.streamlock.net/rtv/videortv/.m3u8
 #EXTINF:-1 #EXTINF:-1 tvg-logo="https://i.imgur.com/Of044Jx.png" group-title="México",TV Cuatro 4.2 HD (Guanajuato)
 https://5f2c1b0d880e5.streamlock.net/tv42/tv42.smil/playlist.m3u8
 #EXTINF:-1 #EXTINF:-1 tvg-logo="https://tvguanajuato.com/wp-content/uploads/2016/04/LOGO.png" group-title="México",TV Guanajuato HD (Guanajuato)
-https://183.bozztv.com/giatv/giatv-TvGuanajuato/TvGuanajuato/playlist.m3u8
+https://183.giatvcdn.com/giatv/giatv-TvGuanajuato/TvGuanajuato/playlist.m3u8
 #EXTINF:-1 #EXTINF:-1 tvg-logo="https://i.imgur.com/YDp8MlN.png" group-title="México",Canal 44 HD Ciudad Juárez (Chihuahua)
 https://5e50264bd6766.streamlock.net/canal44/videocanal44/playlist.m3u8
 #EXTINF:-1 #EXTINF:-1 tvg-logo="https://i.imgur.com/oRudPXX.png" group-title="México",Canal 44 HD Chihuahua (Chihuahua)
@@ -412,7 +412,7 @@ https://live-evg8.tv360.bitel.com.pe/bitel/aunoSRT/playlist.m3u8
 #EXTINF:-1 #EXTINF:-1 tvg-logo="https://i.imgur.com/oxycMeA.png" group-title="Perú",CR TV HD
 https://live.obslivestream.com/crtvmux/index.m3u8
 #EXTINF:-1 #EXTINF:-1 tvg-logo="https://i.imgur.com/q34E9V4.png" group-title="Perú",Mega TV HD (Arequipa)
-https://183.bozztv.com/giatv/giatv-megatv/megatv/playlist.m3u8
+https://183.giatvcdn.com/giatv/giatv-megatv/megatv/playlist.m3u8
 #EXTINF:-1 #EXTINF:-1 tvg-logo="" group-title="Perú",Lo Nuestro TV
 https://vivatv.juanjuiserver.com:3733/live/lonuestrotvlive.m3u8
 #EXTINF:-1 #EXTINF:-1 tvg-logo="https://i.imgur.com/q0dAWyj.png" group-title="Perú",Latina Clasicos HD (Nacional)
@@ -452,7 +452,7 @@ https://oneplay.iptvperu.tv:1936/static/nativa1.stream/playlist.m3u8
 #EXTINF:-1 #EXTINF:-1 tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2026/02/17/04/1771276353200/ba02446bf189_480_270.png" group-title="Perú",Once TV Digital
 https://live-evg10.tv360.bitel.com.pe/bitel/canal11/playlist.m3u8
 #EXTINF:-1 #EXTINF:-1 tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2026/02/17/04/1771276353200/ba02446bf189_480_270.png" group-title="Perú",Once TV Digital [Opc.2]
-https://183.bozztv.com/giatv/giatv-ojodigital/ojodigital/playlist.m3u8
+https://183.giatvcdn.com/giatv/giatv-ojodigital/ojodigital/playlist.m3u8
 #EXTINF:-1 #EXTINF:-1 tvg-logo="https://i.ibb.co/fV4GrX6B/canal-39-tv.png" group-title="Perú",Canal 39 TV HD (Ica) [No 24/7]
 https://vivatv.juanjuiserver.com:3282/live/canal39live.m3u8
 #EXTINF:-1 #EXTINF:-1 tvg-logo="https://i.imgur.com/FiptbGQ.png" group-title="Perú",Vía Televisión HD [No 24/7] (Tarapoto - San Martín)
@@ -652,7 +652,7 @@ https://tigocloud.desdeparaguay.net/agrtv/agrtv/playlist.m3u8
 #EXTINF:-1 #EXTINF:-1 tvg-logo="" group-title="Paraguay" ,Red Informativa
 https://183.giatvcdn.com/akamaissh101/ssh101/redinformativa/playlist.m3u8
 #EXTINF:-1 #EXTINF:-1 tvg-logo="" group-title="Paraguay" ,RIO TV
-https://183.bozztv.com/giatv/giatv-fmriotv/fmriotv/playlist.m3u8
+https://183.giatvcdn.com/giatv/giatv-fmriotv/fmriotv/playlist.m3u8
 #EXTINF:-1 #EXTINF:-1 tvg-logo="https://i.imgur.com/c2rF3SS.png" group-title="Paraguay",Next HD [No 24/7]
 https://live.enhdtv.com:19360/nexthd/nexthd.m3u8
 #EXTINF:-1 #EXTINF:-1 tvg-logo="https://i.imgur.com/SVj5fjg.jpg" group-title="Paraguay" ,Canal 8 C&C Producciones HD [No 24/7]
@@ -772,7 +772,7 @@ https://vs20.live.opencaster.com/tves_5fd18b1e/index.m3u8
 #EXTINF:-1 #EXTINF:-1 tvg-logo="https://i.ibb.co/cSzWbj75/Grande-TV.png" group-title="Venezuela",Canal Grande Television [No 24/7]
 https://vs20.live.opencaster.com/grande41_0b593479/index.m3u8
 #EXTINF:-1 #EXTINF:-1 tvg-logo="https://i.ibb.co/cSzWbj75/Grande-TV.png" group-title="Venezuela",Canal Grande Television [No 24/7][Opc.2]
-https://lbgo.bozztv.com/ssh101/ssh101/grandetv2240/playlist.m3u8
+https://183.giatvcdn.com/ssh101/ssh101/grandetv2240/playlist.m3u8
 #EXTINF:-1 #EXTINF:-1 tvg-logo="telecolor.com/wp-content/uploads/2023/10/LOGO-TELECOLOR_Mesa-de-trabajo-1-copia-909x1024.png" group-title="Venezuela",Telecolor [No 24/7]
 https://cloud.livescast.com:19360/telecolor/telecolor.m3u8
 #EXTINF:-1 #EXTINF:-1 tvg-logo="telecolor.com/wp-content/uploads/2023/10/LOGO-TELECOLOR_Mesa-de-trabajo-1-copia-909x1024.png" group-title="Venezuela",Anzoategui TV
@@ -816,23 +816,23 @@ https://tv2.bitstreaming.net:3576/multi_live/play.m3u8
 #EXTINF:-1 #EXTINF:-1 tvg-logo="https://i.imgur.com/ljKb0UX.png" group-title="Bolivia",CTV (La Paz)
 https://streaming.ctvbolivia.com/app/ctv/ts:master.m3u8
 #EXTINF:-1 #EXTINF:-1 tvg-logo="https://gia.tv/streams/logo/209672.png?1791344674" group-title="Bolivia",SPC Canal 15
-https://183.bozztv.com/giatv/giatv-1762252013SPC/1762252013SPC/playlist.m3u8
+https://183.giatvcdn.com/giatv/giatv-1762252013SPC/1762252013SPC/playlist.m3u8
 #EXTINF:-1 #EXTINF:-1 tvg-logo="https://i.imgur.com/fE3BkcT.png" group-title="Bolivia",GigaVision (Santa Cruz) [No 24/7]
 https://tv.bitstreaming.net:3348/multi_live/play.m3u8
 #EXTINF:-1 #EXTINF:-1 tvg-logo="https://i.imgur.com/cECNvvr.png" group-title="Bolivia",RTP (La Paz)
 https://rtp.noxun.net/hls/stream.m3u8
 #EXTINF:-1 #EXTINF:-1 tvg-logo="https://i.ibb.co/8LCNYCXp/mixboliviatv.png" group-title="Bolivia",Mix Bolivia TVE [No 24.7]
-https://183.bozztv.com/giatv/giatv-neogogoplaymix/neogogoplaymix/playlist.m3u8
+https://183.giatvcdn.com/giatv/giatv-neogogoplaymix/neogogoplaymix/playlist.m3u8
 #EXTINF:-1 #EXTINF:-1 tvg-logo="https://i.ibb.co/8LCNYCXp/mixboliviatv.png" group-title="Bolivia",Mix Bolivia SD [No 24.7][Opc.2]
-https://lbgo.bozztv.com/ssh101/ssh101/mixboliviatvhd/playlist.m3u8
+https://183.giatvcdn.com/ssh101/ssh101/mixboliviatvhd/playlist.m3u8
 #EXTINF:-1 #EXTINF:-1 tvg-logo="https://i.ibb.co/8LCNYCXp/mixboliviatv.png" group-title="Bolivia",Mix Bolivia HD [No 24.7][Opc.3]
-https://183.bozztv.com/giatv/giatv-NEOMIXHD/NEOMIXHD/playlist.m3u8
+https://183.giatvcdn.com/giatv/giatv-NEOMIXHD/NEOMIXHD/playlist.m3u8
 #EXTINF:-1 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/Ww-AwBuGWla-DxU5hwzFOpOvovX-Lm6JP-E0O6Nytb8GTiBr05wzyfITVX5mpJo1vg=w526-h296" group-title="Bolivia",GoGoPlay Max [No 24/7]
-https://183.bozztv.com/giatv/giatv-NEOGOGOPLAY/NEOGOGOPLAY/playlist.m3u8
+https://183.giatvcdn.com/giatv/giatv-NEOGOGOPLAY/NEOGOGOPLAY/playlist.m3u8
 #EXTINF:-1 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/Ww-AwBuGWla-DxU5hwzFOpOvovX-Lm6JP-E0O6Nytb8GTiBr05wzyfITVX5mpJo1vg=w526-h296" group-title="Bolivia",GoGoPlay SD [no 24/7][Opc.2]
-https://lbgo.bozztv.com/ssh101/ssh101/gogoplay/playlist.m3u8
+https://183.giatvcdn.com/ssh101/ssh101/gogoplay/playlist.m3u8
 #EXTINF:-1 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/Ww-AwBuGWla-DxU5hwzFOpOvovX-Lm6JP-E0O6Nytb8GTiBr05wzyfITVX5mpJo1vg=w526-h296" group-title="Bolivia",GoGoPlay TVE [no 24/7][Opc.2]
-https://183.bozztv.com/giatv/giatv-NEOGOGOPLAYTVE/NEOGOGOPLAYTVE/playlist.m3u8
+https://183.giatvcdn.com/giatv/giatv-NEOGOGOPLAYTVE/NEOGOGOPLAYTVE/playlist.m3u8
 #EXTINF:-1 #EXTINF:-1 tvg-logo="https://i.imgur.com/qgrWDIs.png" group-title="Bolivia",Univalle Televisión [No 24/7](Cochabamba)
 https://master.tucableip.com/univalletv/playlist.m3u8
 #EXTINF:-1 #EXTINF:-1 tvg-logo="https://i.imgur.com/B9wg1zj.png" group-title="Bolivia",Unitel [No 24/7]
@@ -1208,7 +1208,7 @@ https://jmp2.uk/stvp-ESBD4100001DU
 #EXTINF:-1 #EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES200041FT_20260127T040140SQUARE.png" group-title="Doramas / Asia",Series K-Comedia Romántica
 https://jmp2.uk/stvp-ES200041FT
 #EXTINF:-1 #EXTINF:-1 tvg-logo="https://i.imgur.com/Tf0vweF.png" group-title="Doramas / Asia",KPOP TV Play
-https://183.bozztv.com/giatv/giatv-kpoptvplay/kpoptvplay/playlist.m3u8
+https://183.giatvcdn.com/giatv/giatv-kpoptvplay/kpoptvplay/playlist.m3u8
 #EXTINF:-1 #EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES1700003C6_20250826T004843SQUARE.png" group-title="Doramas / Asia",Coreano by CJ ENM
 https://jmp2.uk/stvp-ES1700003C6
 #EXTINF:-1 #EXTINF:-1 tvg-logo="https://i.ibb.co/gLXM64Zm/Mundo-series.png" group-title="Doramas / Asia",Mundo Series
@@ -1450,17 +1450,17 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=514
 #EXTINF:-1 #EXTINF:-1 tvg-logo="https://neotv.energeek.cl/assets/img/channels/lms.png" group-title="Infantiles",Canal LMS
 https://183.giatvcdn.com/akamaissh101/ssh101/canallms/playlist.m3u8
 #EXTINF:-1 #EXTINF:-1 tvg-logo="https://regionnet.com.ar/wp-content/uploads/2019/11/Logomagic96-450x401.png" group-title="Infantiles",RetroMagico
-https://183.bozztv.com/giatv/giatv-retromagicochnl/retromagicochnl/playlist.m3u8
+https://183.giatvcdn.com/giatv/giatv-retromagicochnl/retromagicochnl/playlist.m3u8
 #EXTINF:-1 #EXTINF:-1 tvg-logo="https://regionnet.com.ar/wp-content/uploads/2019/11/Logomagic96-450x401.png" group-title="Infantiles",RetroMagico [Opc.2]
 https://183.giatvcdn.com/akamaissh101/ssh101/retromagicocnl/playlist.m3u8
 #EXTINF:-1 #EXTINF:-1 tvg-logo="https://regionnet.com.ar/wp-content/uploads/2019/11/Logomagic96-450x401.png" group-title="Infantiles",Magic Kids [No 24/7]
-https://183.bozztv.com/giatv/giatv-magicplus/magicplus/playlist.m3u8
+https://183.giatvcdn.com/giatv/giatv-magicplus/magicplus/playlist.m3u8
 #EXTINF:-1 #EXTINF:-1 tvg-logo="https://dominicanchannels.com/wp-content/uploads/tigueritos-tv.jpg" group-title="Infantiles",Tiguerito TV (Rep. Dominicana)
 https://ss2.tvrdomi.com:1936/tigueritostv/tigueritostv/playlist.m3u8
 #EXTINF:-1 #EXTINF:-1 tvg-logo="https://gia.tv/streams/pptv/209909.png?1785464841" group-title="Infantiles",MAXC KIDS TV
 https://183.giatvcdn.com/giatvplayout7/giatv-209909/playlist.m3u8
 #EXTINF:-1 #EXTINF:-1 tvg-logo="" group-title="Infantiles",Moni TV HD
-https://lbgo.bozztv.com/ssh101/ssh101/monitvhd/playlist.m3u8
+https://183.giatvcdn.com/ssh101/ssh101/monitvhd/playlist.m3u8
 #EXTINF:-1 #EXTINF:-1 tvg-logo="https://i.imgur.com/ybud4dI.png" group-title="Infantiles",Chinola TV (Rep. Dominicana)
 https://tv.wracanal10.com:3300/live/chinolatvlive.m3u8
 #EXTINF:-1 #EXTINF:-1 tvg-logo="https://i.ibb.co/vv3FC2Nv/clan.png" group-title="Infantiles",Clan Internacional Americas (ES)
@@ -1762,7 +1762,7 @@ https://livecdnusa.enlace.plus/ejtv/smil:ejtv-hd.smil/playlist.m3u8
 #EXTINF:-1 #EXTINF:-1 tvg-logo="https://i.ibb.co/RSk6cDT/SPIRIT-TV-HD.jpg" group-title="Religiosos",Spirit TV HD (EN)
 https://cdnlive.myspirit.tv/LS-ATL-43240-2/index.m3u8
 #EXTINF:-1 #EXTINF:-1 tvg-logo="https://gia.tv/streams/logo/208840.png?1784863150" group-title="Religiosos",Vive Musica HD (EN)
-https://183.bozztv.com/giatv/giatv-vivemusica/vivemusica/playlist.m3u8
+https://183.giatvcdn.com/giatv/giatv-vivemusica/vivemusica/playlist.m3u8
 #EXTINF:-1 #EXTINF:-1 tvg-logo="https://tvomix.com/Logos/Tvojesus.png" group-title="Religiosos",TVO Jesus (Argentina)
 https://cloud.tvomix.com/TVOJESUS/index.m3u8
 #EXTINF:-1 #EXTINF:-1 tvg-logo="https://i.imgur.com/DsGmrnc.png" group-title="Religiosos",Ágape TV Canal 8 (El Salvador)
@@ -1784,7 +1784,7 @@ https://5e85d90130e77.streamlock.net/6018/6018/playlist.m3u8
 #EXTINF:-1 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhA3T5bGXkBuQsXbc8Mj2ZEv-e-3Id7CtJnk_hBTt0IcPIMghp9lwDpUp29I6rc2gTouTx5UDwEaqnJ1ReaIgadQDEsHLP5qml93IDPMxUWd6-ekxv76_yEDfZ2MGYcqCuNXNPnSP1BmZRhr1a9nNgdL132y6FTl2oibyUKURUTUckkwtf9_TGUxh7gUVJj/s600/ebenezer-tv.png" group-title="Religiosos",Ebenezer TV (Honduras / San Pedro Sula)
 https://5e85d90130e77.streamlock.net/6010/ngrp:6010_all/playlist.m3u8
 #EXTINF:-1 #EXTINF:-1 tvg-logo="https://i.ibb.co/dJ6rVNCz/Vida-al-Maximo-TV.png" group-title="Religiosos",Vida al Maximo TV
-https://lbgo.bozztv.com/ssh101/ssh101/vidaalmaximo11/playlist.m3u8
+https://183.giatvcdn.com/ssh101/ssh101/vidaalmaximo11/playlist.m3u8
 #EXTINF:-1 #EXTINF:-1 tvg-logo="https://i.imgur.com/lVpDLVU.png" group-title="Religiosos",Unife TV (Perú)
 https://cdn.mycloudstream.io/hls/live/broadcast/xundwjvp/index.m3u8
 #EXTINF:-1 #EXTINF:-1 tvg-logo="https://i.imgur.com/USD6Wn8.png" group-title="Religiosos",Canal Orbe 21 (Argentina)
