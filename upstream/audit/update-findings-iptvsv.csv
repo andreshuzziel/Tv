@@ -154,7 +154,6 @@ TVN HD (Nacional)[Opc.3],Chile,http://190.108.83.69:8000/play/a03f/index.m3u8,no
 TVN HD (LOCAL),Chile,http://181.78.121.15:8000/play/a00k/index.m3u8,no-https;ip-directa
 Telefe SD,Argentina,http://45.173.231.22:8000/play/a053/index.m3u8,no-https;ip-directa
 Telefe Buenos Aires HD,Argentina,http://45.134.141.161:2200/ARG/TELEFE_HD/index.m3u8,no-https;ip-directa
-Telefe Interior HD [No 24/7],Argentina,http://200.91.32.158:8080/telefehdvalle/index.m3u8,no-https;ip-directa
 Telefe Internacional SD (Argentina),Argentina,http://186.148.163.17:8000/play/a09f/index.m3u8,no-https;ip-directa
 Telefe Internacional SD (Argentina)[Opc.2],Argentina,http://138.117.110.151:8000/play/a0fw/index.m3u8,no-https;ip-directa
 Telefe Internacional SD (Argentina)[Opc.3],Argentina,http://190.108.83.69:8000/play/a08l/index.m3u8,no-https;ip-directa
@@ -164,15 +163,15 @@ El Nueve SD [Opc.2],Argentina,http://m3u.tvcluboficial.com/free/ReachBot/Kip/353
 El Trece SD,Argentina,http://m3u.tvcluboficial.com/free/ReachBot/Kip/362.m3u8,no-https
 El Trece SD [Opc.2],Argentina,http://190.108.83.69:8000/play/a01d/index.m3u8,no-https;ip-directa
 El Trece SD [Opc.3],Argentina,http://200.7.99.59:8000/play/a0gm/index.m3u8,no-https;ip-directa
-Ciudad Magazine SD (Buenos Aires) [No 24/7],Argentina,http://181.209.80.115:8000/play/a02h/index.m3u8,no-https;ip-directa
 Ciudad Magazine SD (Buenos Aires) [No 24/7][Geo-Blocked],Argentina,http://181.209.105.115:2525/play/ciudadmagazine/index.m3u8,no-https;ip-directa
 CineAR [Geo-Blocked],Argentina,http://181.209.105.115:2525/play/cinear/index.m3u8,no-https;ip-directa
 SNT Paraguay HD [Opc.2],Paraguay,http://45.170.130.224:8000/play/a013/index.m3u8,no-https;ip-directa
 GEN Paraguay HD,Paraguay,http://45.170.130.224:8000/play/a04j/index.m3u8,no-https;ip-directa
 Paraguay TV SD [Opc.2],Paraguay,http://45.170.130.224:8000/play/a02r/index.m3u8,no-https;ip-directa
 C9N HD [Opc.2],Paraguay,http://181.79.87.130:8000/play/a0c1/index.m3u8,no-https;ip-directa
-RTVD 4 HD [Opc.2],República Dominicana,http://170.244.209.30:8000/play/a04e/index.m3u8,no-https;ip-directa
-Telesistema 11 SD [Opc.2],República Dominicana,http://186.33.26.18:8000/play/a0t1/index.m3u8,no-https;ip-directa
+RTVD 4 HD [Opc.2],República Dominicana,http://45.5.117.57:8200/play/a03o/index.m3u8,no-https;ip-directa
+Telesistema 11 SD [Opc.2],República Dominicana,http://181.78.61.202:8000/play/a03n,no-https;ip-directa
+Telesistema 11 SD [Opc.3],República Dominicana,http://187.245.231.227:8000/play/a0ro/index.m3u8,no-https;ip-directa
 Venevisión,Venezuela,http://181.78.8.199:8000/play/a0if/index.m3u8,no-https;ip-directa
 Venevisión[Opc.2],Venezuela,http://181.78.8.199:8000/play/a0cp/index.m3u8,no-https;ip-directa
 Venevisión [V2],Venezuela,http://200.59.191.177:8000/play/a0li/index.m3u8?hls,no-https;ip-directa
@@ -188,8 +187,6 @@ Antena 3[Opc.2],España,http://181.224.255.210:8001/play/a0rc/index.m3u8?hls,no-
 NORTEvisión,España,http://amaru.dyndns.org:8870/0.m3u8,no-https
 Alcarria TV[Opc.2],España,http://217.182.77.27/live/alcarriatv-livestream.m3u8,no-https;ip-directa
 Animash,Anime,http://181.78.121.15:8000/play/a00h/index.m3u8,no-https;ip-directa
-Canal Locomotion - Primera señal [No 24/7],Anime,http://146.19.49.197:81/live/loco.m3u8,no-https;ip-directa
-Canal Locomotion - Primera señal [Opc.2][No 24/7],Anime,http://51.222.85.85:81/hls/loco/index.m3u8,no-https;ip-directa
 AnimeZone TV [No 24/7](América Latina),Anime,http://animezonetv.net/hls/stream.m3u8,no-https
 Anime XTV [No 24/7],Anime,http://animezonetv.net:81/live_hls/animetest/index.m3u8,no-https
 Anime XTV [Opc.2][No 24/7],Anime,http://146.19.49.197:81/live/animextv_hi/index.m3u8,no-https;ip-directa
@@ -257,20 +254,20 @@ Cine Western,Cine / Películas,https://jmp2.uk/stvp-ES2300005G7,vod-no-autorizad
 WEST TV,Cine / Películas,http://181.224.255.210:8001/play/a0rq/index.m3u8?hls,no-https;ip-directa;vod-no-autorizado
 Cosmos TV (Formosa / Argentina)[No 24/7],Cine / Películas,https://canaletaplus.com:3922/hybrid/play.m3u8,vod-no-autorizado
 Fabian Vision [No 24/7],Cine / Películas,https://183.giatvcdn.com/ssh101/ssh101/fabiantv182/playlist.m3u8,vod-no-autorizado
-TeleCine TV [No 24/7],Cine / Películas,https://183.giatvcdn.com/akamaissh101/ssh101/cinetv/playlist.m3u8,vod-no-autorizado
+TeleCine TV [No 24/7],Cine / Películas,https://183.giatvcdn.com/ssh101/ssh101/cinetv/playlist.m3u8,vod-no-autorizado
 MCU TV [No 24/7],Cine / Películas,https://183.giatvcdn.com/ssh101/ssh101/imcu/playlist.m3u8,vod-no-autorizado
-TV Retro Palmares [No 24/7],Cine / Películas,https://183.giatvcdn.com/akamaissh101/ssh101/tvretropalm2020/playlist.m3u8,vod-no-autorizado
+TV Retro Palmares [No 24/7],Cine / Películas,https://183.giatvcdn.com/ssh101/ssh101/tvretropalm2020/playlist.m3u8,vod-no-autorizado
 Canal Onza TV [No 24/7],Cine / Películas,https://streaming.hostpannel.lat/hls/video_156/index.m3u8,vod-no-autorizado
 Mega Cine TV [No 24/7],Cine / Películas,https://cnn.hostlagarto.com/megacinetv/playlist.m3u8,vod-no-autorizado
 Opinión Sur Cine [No 24/7],Cine / Películas,https://183.giatvcdn.com/giatv/giatv-opinionsurc/opinionsurc/playlist.m3u8,vod-no-autorizado
 WOW Movies [No 24/7],Cine / Películas,https://183.giatvcdn.com/giatv/giatv-wowmovies/wowmovies/playlist.m3u8,vod-no-autorizado
-WOW Movies SD [No 24/7],Cine / Películas,https://183.giatvcdn.com/akamaissh101/ssh101/wowchannelsd/playlist.m3u8,vod-no-autorizado
+WOW Movies SD [No 24/7],Cine / Películas,https://183.giatvcdn.com/ssh101/ssh101/wowchannelsd/playlist.m3u8,vod-no-autorizado
 MAXTV Movies [No 24/7],Cine / Películas,https://tvstreaming.albpo.com/memfs/8d987761-7923-4532-a95d-20723ae95374.m3u8,vod-no-autorizado
 MAXTV Retro [No 24/7],Cine / Películas,https://tvstreaming.albpo.com/memfs/b55226da-30ec-434a-9090-166df8a37d5b.m3u8,vod-no-autorizado
-Canal 69 TV [No 24/7],Cine / Películas,https://183.giatvcdn.com/akamaissh101/ssh101/canal69tv/playlist.m3u8,vod-no-autorizado
-Pantalla Clásica [No 24/7] (Ecuador),Cine / Películas,https://183.giatvcdn.com/akamaissh101/ssh101/pantallaclasics/playlist.m3u8,vod-no-autorizado
+Canal 69 TV [No 24/7],Cine / Películas,https://183.giatvcdn.com/ssh101/ssh101/canal69tv/playlist.m3u8,vod-no-autorizado
+Pantalla Clásica [No 24/7] (Ecuador),Cine / Películas,https://183.giatvcdn.com/ssh101/ssh101/pantallaclasics/playlist.m3u8,vod-no-autorizado
 Codigo TV [No 24/7](Rep. Dominicana),Cine / Películas,https://edge.essastream.com/codigotv/index.m3u8,vod-no-autorizado
-Cine53 [No 24/7],Cine / Películas,https://183.giatvcdn.com/akamaissh101/ssh101/codificador8/playlist.m3u8,vod-no-autorizado
+Cine53 [No 24/7],Cine / Películas,https://183.giatvcdn.com/ssh101/ssh101/codificador8/playlist.m3u8,vod-no-autorizado
 Mittos TV [No 24/7],Cine / Películas,https://183.giatvcdn.com/ssh101/ssh101/tv777lv/playlist.m3u8,vod-no-autorizado
 Alternativa TV [No 24/7],Cine / Películas,https://183.giatvcdn.com/ssh101/ssh101/alternativatvpe/playlist.m3u8,vod-no-autorizado
 PRITV [No 24/7],Cine / Películas,https://183.giatvcdn.com/ssh101/ssh101/tv1251master/playlist.m3u8,vod-no-autorizado
@@ -590,11 +587,11 @@ Telemix,Entretenimiento / Cine / Series,https://183.giatvcdn.com/giatv/giatv-tel
 SumaQ,Entretenimiento / Cine / Series,https://183.giatvcdn.com/ssh101/ssh101/makins/playlist.m3u8,vod-no-autorizado
 InterConnect,Entretenimiento / Cine / Series,https://183.giatvcdn.com/ssh101/ssh101/conecttv/playlist.m3u8,vod-no-autorizado
 Quielpue OnLine,Entretenimiento / Cine / Series,https://183.giatvcdn.com/giatv/giatv-quilpueo196208/quilpueo196208/playlist.m3u8,vod-no-autorizado
-TAK TV,Entretenimiento / Cine / Series,https://183.giatvcdn.com/akamaissh101/ssh101/taktvonline/playlist.m3u8,vod-no-autorizado
+TAK TV,Entretenimiento / Cine / Series,https://183.giatvcdn.com/ssh101/ssh101/taktvonline/playlist.m3u8,vod-no-autorizado
 Nitida TV [No 24/7],Entretenimiento / Cine / Series,https://vs20.live.opencaster.com/bznudxxdtppv/index.m3u8,vod-no-autorizado
 GikTVMX [No 24/7](México),Entretenimiento / Cine / Series,https://pistream.ddns.net/hls/stream.m3u8,vod-no-autorizado
 Canal 9 Resistencia [No 24/7](Chaco / Argentina),Entretenimiento / Cine / Series,https://617c5175c970b.streamlock.net:4444/9linklivert/smil:9linkmultibr.smil/playlist.m3u8,vod-no-autorizado
-Buenos Aires TV,Entretenimiento / Cine / Series,https://183.giatvcdn.com/akamaissh101/ssh101/buenostv25/playlist.m3u8,vod-no-autorizado
+Buenos Aires TV,Entretenimiento / Cine / Series,https://183.giatvcdn.com/ssh101/ssh101/buenostv25/playlist.m3u8,vod-no-autorizado
 Max Channel [No 24/7],Entretenimiento / Cine / Series,https://183.giatvcdn.com/ssh101/ssh101/max1channel/playlist.m3u8,vod-no-autorizado
 Power Vision TV [No 24/7],Entretenimiento / Cine / Series,https://183.giatvcdn.com/ssh101/ssh101/powervision/playlist.m3u8,vod-no-autorizado
 Canal CHD [No 24/7] (Colombia),Entretenimiento / Cine / Series,https://vs20.live.opencaster.com/canalchd2025_8d99626c/index.m3u8,vod-no-autorizado
