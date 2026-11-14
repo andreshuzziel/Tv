@@ -187,6 +187,8 @@ Antena 3[Opc.2],España,http://181.224.255.210:8001/play/a0rc/index.m3u8?hls,no-
 NORTEvisión,España,http://amaru.dyndns.org:8870/0.m3u8,no-https
 Alcarria TV[Opc.2],España,http://217.182.77.27/live/alcarriatv-livestream.m3u8,no-https;ip-directa
 Animash,Anime,http://181.78.121.15:8000/play/a00h/index.m3u8,no-https;ip-directa
+Canal Locomotion - Primera señal [No 24/7],Anime,http://146.19.49.197:81/live/loco.m3u8,no-https;ip-directa
+Canal Locomotion - Primera señal [Opc.2][No 24/7],Anime,http://51.222.85.85:81/hls/loco/index.m3u8,no-https;ip-directa
 AnimeZone TV [No 24/7](América Latina),Anime,http://animezonetv.net/hls/stream.m3u8,no-https
 Anime XTV [No 24/7],Anime,http://animezonetv.net:81/live_hls/animetest/index.m3u8,no-https
 Anime XTV [Opc.2][No 24/7],Anime,http://146.19.49.197:81/live/animextv_hi/index.m3u8,no-https;ip-directa
@@ -313,7 +315,7 @@ HBO Plus HD (Opc.2),Cine / Películas Premium,http://45.5.117.188:8000/play/a011
 HBO Plus SD (Opc.3),Cine / Películas Premium,http://186.33.1.71:8000/play/a0l4/index.m3u8,no-https;ip-directa;tv-pago/adulto;vod-no-autorizado
 HBO POP HD,Cine / Películas Premium,http://190.108.83.69:8000/play/a03k/index.m3u8,no-https;ip-directa;tv-pago/adulto;vod-no-autorizado
 HBO POP HD (Opc.2),Cine / Películas Premium,http://200.59.191.177:8000/play/a0qv/index.m3u8?hls,no-https;ip-directa;tv-pago/adulto;vod-no-autorizado
-HBO POP HD (Opc.3),Cine / Películas Premium,http://179.60.191.102:8000/play/a0i8,no-https;ip-directa;tv-pago/adulto;vod-no-autorizado
+HBO POP HD (Opc.3),Cine / Películas Premium,http://190.108.83.69:8000/play/a03k/index.m3u8,no-https;ip-directa;tv-pago/adulto;vod-no-autorizado
 HBO Family HD,Cine / Películas Premium,http://190.108.83.69:8000/play/a03x/index.m3u8,no-https;ip-directa;tv-pago/adulto;vod-no-autorizado
 HBO Family HD(Opc.2),Cine / Películas Premium,http://157.100.9.51:8000/play/a1tc,no-https;ip-directa;tv-pago/adulto;vod-no-autorizado
 HBO Family HD(Opc.3),Cine / Películas Premium,http://190.60.59.60:8000/play/a0tn/index.m3u8,no-https;ip-directa;tv-pago/adulto;vod-no-autorizado
@@ -418,7 +420,7 @@ Telemundo USA [Opc.3],Entretenimiento Premium,http://45.5.117.187:8000/play/a077
 Telemundo USA [Opc.4],Entretenimiento Premium,http://200.35.176.154:8000/play/a05y/index.m3u8,no-https;ip-directa
 Telemundo Miami,Entretenimiento Premium,http://45.228.234.62:8000/play/a01s/index.m3u8,no-https;ip-directa
 Azteca Internacional HD [Opc.3],Entretenimiento Premium,http://190.61.101.11:7050/play/a076/index.m3u8?hls,no-https;ip-directa
-Azteca UNO SD,Entretenimiento Premium,http://209.87.175.160:5001/play/a0cc/index.m3u8?hls,no-https;ip-directa
+Azteca UNO SD,Entretenimiento Premium,http://38.65.175.25:8000/play/a0cc/index.m3u8,no-https;ip-directa
 Azteca UNO SD  [Opc.2],Entretenimiento Premium,http://38.65.175.87:8000/play/a0cc/index.m3u8u?hls,no-https;ip-directa
 Azcorazon HD,Entretenimiento Premium,http://186.148.175.138:8000/play/a056,no-https;ip-directa
 Azcorazon HD [Opc.2],Entretenimiento Premium,http://181.119.177.253:8000/play/a01k/index.m3u8,no-https;ip-directa
@@ -428,7 +430,7 @@ Caracol Internacional SD  [Opc.2],Entretenimiento Premium,http://186.33.1.71:800
 Caracol Internacional SD  [Opc.3],Entretenimiento Premium,http://138.59.177.78:9999/play/a0a8/index.m3u8,no-https;ip-directa
 DHE HD (Opc.1),Entretenimiento Premium,http://181.224.255.210:8001/play/a0nt/index.m3u8?hls,no-https;ip-directa
 DHE HD (Opc.2),Entretenimiento Premium,http://45.228.234.62:8000/play/a038/index.m3u8,no-https;ip-directa
-DHE HD (Opc.3),Entretenimiento Premium,http://179.60.191.102:8000/play/a0jb,no-https;ip-directa
+DHE HD (Opc.3),Entretenimiento Premium,http://45.182.22.53:8000/play/a091/index.m3u8,no-https;ip-directa
 Unicable HD,Entretenimiento Premium,http://190.61.101.11:7050/play/a04j/index.m3u8?hls,no-https;ip-directa
 Unicable HD [Opc.2],Entretenimiento Premium,http://186.33.1.71:8000/play/a04x/index.m3u8,no-https;ip-directa
 Unicable HD [Opc.3],Entretenimiento Premium,http://186.33.61.182:8000/play/a05o/index.m3u8,no-https;ip-directa
@@ -666,6 +668,7 @@ TLC HD [Opc.3],Documentales y Cultura,http://181.225.190.242:8000/play/a03e,no-h
 CNN en Español (Internacional / América),Informativos,https://amg00803-cnnfast-amg00803c3-lg-es-5477.playouts.now.amagi.tv/playlist/amg00803-cnnfastinternational-cnnesponal-lges/playlist.m3u8,tv-pago/adulto
 CNN en Español (Internacional / América) [Opc.2],Informativos,http://181.143.237.211:85/tsfile/live/1083_1.m3u8?key=txiptv&playlive=1&authid=0,no-https;ip-directa;tv-pago/adulto
 Exitosa TV (Perú - Nacional)[Opc.2],Informativos,http://181.224.255.210:8001/play/a0sm/index.m3u8?hls,no-https;ip-directa
+RPP TV (Perú - Nacional),Informativos,http:\\190.108.83.69:8000\play\a01a\index.m3u8,no-https
 RPP TV HD (Perú - Nacional)[Opc.2],Informativos,http://181.224.255.210:8001/play/a0r8/index.m3u8?hls,no-https;ip-directa
 RPP TV HD (Perú - Nacional)[Opc.3],Informativos,http://190.108.83.69:8000/play/a01a/index.m3u8,no-https;ip-directa
 RTU [No 24/7] (Quito - Ecuador),Informativos,http://205.235.6.29:8000/play/a0ma/index.m3u8?hls,no-https;ip-directa

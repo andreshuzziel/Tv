@@ -1167,8 +1167,12 @@ https://183.giatvcdn.com/giatvplayout7/giatv-209474/playlist.m3u8
 https://183.giatvcdn.com/giatvplayout7/giatv-210634/playlist.m3u8
 #EXTINF:-1 #EXTINF:-1 tvg-logo="https://gia.tv/streams/pstream/210596.png?1794536467" group-title="Anime",Delmi Galicia
 https://183.giatvcdn.com/giatvplayout7/giatv-210596/playlist.m3u8
+#EXTINF:-1 #EXTINF:-1 tvg-logo="https://i.postimg.cc/QdsDrDZH/Animestation-(Shein-Media-2005).png" group-title="Anime",Anime Station (América Latina) [No 24/7]
+https://183.giatvcdn.com/giatv/giatv-livestreamingtv/livestreamingtv/playlist.m3u8
 #EXTINF:-1 #EXTINF:-1 tvg-logo="https://janimotion.com/brand/janimotion-mark.svg" group-title="Anime",Janimotion (América Latina)
 https://janimotion.com/hls/janimotion/index.m3u8
+#EXTINF:-1 #EXTINF:-1 tvg-logo="https://web.archive.org/web/20240509182044if_/https://pbs.twimg.com/profile_images/1744338643957780480/24Kv02RD_400x400.jpg" group-title="Anime",Canal Locomotion - Segunda señal [No 24/7]
+https://183.giatvcdn.com/akamaissh101/ssh101/myevent2025/playlist.m3u8
 #EXTINF:-1 #EXTINF:-1 tvg-logo="https://web.archive.org/web/20240509182044if_/https://pbs.twimg.com/profile_images/1744338643957780480/24Kv02RD_400x400.jpg" group-title="Anime",Canal Locomotion - Segunda señal [Opc.2][No 24/7]
 https://183.giatvcdn.com/giatvplayout7/giatv-210075/playlist.m3u8
 #EXTINF:-1 #EXTINF:-1 tvg-logo="https://serenotv.com/wp-content/uploads/2025/05/anime-presente-150x150.jpg" group-title="Anime",Anime Presente
@@ -1355,8 +1359,6 @@ https://ecoteltv.streamseguro.com:5443/LiveApp/streams/streaming.m3u8
 https://dai.google.com/linear/hls/pa/event/q2LqrJ2ZRP6UuyzA6X0VsA/stream/ed51ab5e-9432-4fb3-92d5-6603d4671e51:CHS/master.m3u8
 #EXTINF:-1 #EXTINF:-1 tvg-logo="https://i.imgur.com/pu0BSB7.png" group-title="Informativos",Exitosa TV (Perú - Nacional)
 https://live-evg5.tv360.bitel.com.pe/bitel/exitosa_abr/playlist.m3u8
-#EXTINF:-1 #EXTINF:-1 tvg-logo="https://i.imgur.com/oBz3CgE.png" group-title="Informativos",RPP TV (Perú - Nacional)
-https://cdn-ssai.smartbit.co/rpp/index.m3u8
 #EXTINF:-1 #EXTINF:-1 tvg-logo="https://i.imgur.com/oBz3CgE.png" group-title="Informativos",TVPE Noticias (Perú)
 https://cdnhd.iblups.com/hls/902c1a0395264f269f1160efa00660e47.m3u8
 #EXTINF:-1 #EXTINF:-1 tvg-logo="https://i.imgur.com/CNUZ6ig.png" group-title="Informativos",TV Senado (Nacional)
